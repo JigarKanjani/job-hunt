@@ -2,7 +2,7 @@ name: Job Hunt - Every 6 Hours
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 12am, 6am, 12pm, 6pm UTC  (6pm, 12am, 6am, 12pm MST)
+    - cron: '0 */2 * * *'   # every 2 hours UTC
   workflow_dispatch:          # Manual trigger from GitHub UI
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python job_alert.py --hours 7 --profiles JIGAR NEELAM XYZ ABC
+          python job_alert.py --hours 3 --profiles JIGAR NEELAM XYZ ABC
 
       - name: Commit updated job tracker
         run: |

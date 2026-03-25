@@ -16,7 +16,7 @@ from pathlib import Path
 WORKSPACE = Path(__file__).parent
 TRACKER_FILE = WORKSPACE / "job-tracker-seen-jobs.md"
 SCRAPER      = WORKSPACE / "run_jobspy_24h.py"
-BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "8496012269:AAGTOgNyMzHpo-pc4AwJHJczSyho3A9FGZg")
+BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID      = os.environ.get("TELEGRAM_CHAT_ID", "747174717")
 MAX_PER_PROFILE = 10   # max jobs sent per profile per run (avoid flooding)
 
@@ -121,6 +121,31 @@ SALARY_ESTIMATES = [
 ]
 
 
+def parse_min_years(description):
+    """Extract the minimum years of experience required from a job description."""
+    if not description:
+        return None
+    import re
+    desc = str(description).lower()
+    # Range: "3-5 years" or "3 to 5 years" → use upper bound
+    m = re.search(r'(\d+)\s*[-–to]+\s*(\d+)\s*\+?\s*years?', desc)
+    if m:
+        return int(m.group(2))
+    # Minimum phrase: "minimum 5 years", "at least 5 years"
+    m = re.search(r'(?:minimum|at least|min\.?)\s+(\d+)\s*\+?\s*years?', desc)
+    if m:
+        return int(m.group(1))
+    # "5+ years"
+    m = re.search(r'(\d+)\s*\+\s*years?', desc)
+    if m:
+        return int(m.group(1))
+    # "5 years of experience"
+    m = re.search(r'(\d+)\s*years?\s+(?:of\s+)?(?:experience|exp)', desc)
+    if m:
+        return int(m.group(1))
+    return None
+
+
 def estimate_salary(title):
     """Return market estimate salary string for Calgary based on job title."""
     t = title.lower()
@@ -138,6 +163,23 @@ def salary_upper_estimate(title):
             return high
     return None
 
+
+# Manager titles exempt from the global "manager" exclusion
+APPROVED_MANAGER_TITLES = [
+    "supply chain manager", "procurement manager", "logistics manager",
+    "category manager", "sourcing manager", "contract manager",
+    "materials manager", "inventory manager", "transportation manager",
+    "vendor manager", "purchasing manager", "case manager",
+    "program manager",
+]
+
+# Non-Alberta province codes and cities — rejected even if is_remote=True
+NON_AB_PROVINCES = [", on", ", bc", ", mb", ", sk", ", qc", ", ns", ", nb", ", nl", ", pe", ", nt", ", yt", ", nu"]
+NON_AB_CITIES    = ["toronto", "vancouver", "montreal", "ottawa", "winnipeg",
+                    "halifax", "victoria", "saskatoon", "regina"]
+
+# Max years of experience per profile (from job description)
+EXPERIENCE_MAX = {"JIGAR": 5, "XYZ": 5, "NEELAM": 10, "ABC": 10}
 
 # Global title exclusions applied to every profile (medical, retail, trades, driving)
 GLOBAL_EXCLUDE = [
@@ -348,16 +390,30 @@ def process_profile(profile, hours, seen_urls):
         if any(ex in title_lower for ex in GLOBAL_EXCLUDE):
             continue
 
+        # Manager filter: block "manager" titles unless it's an approved SCM/case manager
+        if "manager" in title_lower:
+            if not any(approved in title_lower for approved in APPROVED_MANAGER_TITLES):
+                continue
+
         # Upper salary estimate filter: skip jobs where best-case estimate < $60K
         upper = salary_upper_estimate(job.get("title", ""))
         if upper is not None and upper < 60000:
             continue
 
-        # Location filter: Calgary/Alberta on-site, OR remote (workable from Calgary)
+        # Location filter: reject known non-AB province codes and cities (even if remote-flagged)
         loc = (job.get("location") or "").lower()
         is_remote = bool(job.get("is_remote"))
+        if any(p in loc for p in NON_AB_PROVINCES) or any(c in loc for c in NON_AB_CITIES):
+            continue
         if not is_remote and not any(k in loc for k in ("calgary", "alberta", ", ab", "ab,", "ab ")):
             continue
+
+        # Experience filter: skip if description requires more years than profile allows
+        max_exp = EXPERIENCE_MAX.get(profile)
+        if max_exp:
+            min_years = parse_min_years(job.get("description") or "")
+            if min_years is not None and min_years > max_exp:
+                continue
 
         # Salary floor (only reject if salary explicitly listed below minimum)
         ann = annual_salary(job)

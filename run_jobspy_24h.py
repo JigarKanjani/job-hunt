@@ -380,6 +380,21 @@ def scrape_profile(profile_name, hours_old=24):
         include_pattern = "|".join(re.escape(i) for i in include)
         df = df[df["title"].str.lower().str.contains(include_pattern, na=False)]
 
+    # Manager filter: block "manager" titles unless it's an approved SCM/case manager
+    _APPROVED_MANAGERS = [
+        "supply chain manager", "procurement manager", "logistics manager",
+        "category manager", "sourcing manager", "contract manager",
+        "materials manager", "inventory manager", "transportation manager",
+        "vendor manager", "purchasing manager", "case manager",
+        "program manager",
+    ]
+    def manager_ok(title):
+        t = str(title or "").lower()
+        if "manager" not in t:
+            return True
+        return any(approved in t for approved in _APPROVED_MANAGERS)
+    df = df[df["title"].apply(manager_ok)]
+
     # Salary filter (only if salary is listed and below minimum)
     def salary_ok(row):
         min_amt = row.get("min_amount")
@@ -393,15 +408,51 @@ def scrape_profile(profile_name, hours_old=24):
 
     df = df[df.apply(salary_ok, axis=1)]
 
-    # Location filter: Calgary/Alberta on-site/hybrid, OR remote anywhere in Canada
-    # Rejects Toronto, Vancouver, Edmonton-only, and other cities
+    # Experience filter: reject if description explicitly requires more years than profile max
+    _EXP_MAX = {"JIGAR": 5, "XYZ": 5, "NEELAM": 10, "ABC": 10}
+    _max_exp = _EXP_MAX.get(profile_name)
+    if _max_exp and "description" in df.columns:
+        def _parse_years(desc):
+            if not desc or str(desc) in ("None", "nan", ""):
+                return None
+            d = str(desc).lower()
+            m = re.search(r'(\d+)\s*[-–to]+\s*(\d+)\s*\+?\s*years?', d)
+            if m:
+                return int(m.group(2))
+            m = re.search(r'(?:minimum|at least|min\.?)\s+(\d+)\s*\+?\s*years?', d)
+            if m:
+                return int(m.group(1))
+            m = re.search(r'(\d+)\s*\+\s*years?', d)
+            if m:
+                return int(m.group(1))
+            m = re.search(r'(\d+)\s*years?\s+(?:of\s+)?(?:experience|exp)', d)
+            if m:
+                return int(m.group(1))
+            return None
+        def exp_ok(row):
+            yrs = _parse_years(row.get("description"))
+            return yrs is None or yrs <= _max_exp
+        df = df[df.apply(exp_ok, axis=1)]
+
+    # Location filter: reject non-AB provinces/cities; accept Calgary/AB or generic remote
+    _NON_AB_PROV  = [", on", ", bc", ", mb", ", sk", ", qc", ", ns", ", nb", ", nl",
+                     ", pe", ", nt", ", yt", ", nu"]
+    _NON_AB_CITIES = ["toronto", "vancouver", "montreal", "ottawa", "winnipeg",
+                      "halifax", "victoria", "saskatoon", "regina"]
+
     def location_ok(row):
         loc = str(row.get("location") or "").lower()
         is_remote = bool(row.get("is_remote"))
+        # Always reject if location has a non-AB province code or known non-AB city
+        if any(p in loc for p in _NON_AB_PROV):
+            return False
+        if any(c in loc for c in _NON_AB_CITIES):
+            return False
         if is_remote:
-            return True  # Remote: workable from Calgary
+            return True  # Generic remote: workable from Calgary
         return ("calgary" in loc or "alberta" in loc or
-                ", ab" in loc or "ab," in loc or "ab " in loc)
+                ", ab" in loc or "ab," in loc or "ab " in loc or
+                not loc.strip() or loc.strip() in ("canada", "remote", "anywhere"))
 
     df = df[df.apply(location_ok, axis=1)]
 
