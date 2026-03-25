@@ -207,3 +207,43 @@
 | Temporary Reception/Administrator | Equation Staffing Solutions Inc | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390159179 |
 | Data Annotation Specialist, Spanish Writer/Translator | Cohere | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4379619081 |
 | Data Annotation Specialist, Simplified Chinese / Mandarin Wr | Cohere | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4379615491 |
+| Claims Analyst | Cole International | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=98a501fd6ab05711 |
+| Programming Coordinator | Werklund Centre | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=114882fd7e11c466 |
+| Event Planner (Volunteer) | BetterDays Foundation | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=6ebab7c1804c6f6d |
+| Operations Superintendent | Northstar Clean Technologies Inc. | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=5fbe14f37dd74a70 |
+| Scheduling Coordinator | Werklund Centre | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=34abf18058a35614 |
+| Supply Chain Manager | TEEMA Group | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=75fd84086eba0b45 |
+| Procurement Data Analyst | PCL Construction | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=53d6b6729fac690a |
+| Academic Operations Officer | University of Alberta | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=5445190278e851cd |
+| Master Planner | Global Partner Solutions | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390608115 |
+| Service Coordinator | Superior Propane | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390031730 |
+| Registered Psychologist / Social Worker - Psychedelic assist | Lodestone Psychology | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=6a4a942bb8e4a04f |
+| Customer Service & Administrator Support - (Summer-26 -Inter | FMI | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=82f8e0bfd94152a2 |
+| Accounts Receivable Administrator (Summer -2026 -Internship) | FMI | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=8dd22b6fc6d87dfa |
+| Admission Program Coordinator | City of Edmonton | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=03d09f338bb4d55d |
+| Customer Service Agent, Charter Operations (Charter Speciali | Canadian North | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=8b4229e715c35643 |
+| Client Care Coordinator | Amplifon Canada | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=16821e12e0a4e29d |
+| Office Coordinator | MITT INSURANCE BROKERS LTD. | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=a0ba5afcfce7bb98 |
+| Exhibits and Programming Coordinator | Jasper Yellowhead Museum & Archives | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=c950892ba0bd3ed6 |
+| Payroll and Benefits Coordinator | Charlesglen Toyota | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=386f640492872e73 |
+| Administrative Assistant | SS Immigration services | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390247941 |
+| Revenue Operations Analyst | Coolit Systems | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=f80b697da0017a3b |
+| Business Systems Analyst | PCL Construction | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=3a52ba70e2e34ebc |
+| Customer Experience Coordinator | Avalon Masterbuilder | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=6cdb826d3b0d7302 |
+| Coordinator, Payroll & Benefits | YMCA of Northern Alberta | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=5f96e01184931f2c |
+| Surface Land Analyst | Millennium Land Ltd | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=e0bf69582a4cd578 |
+| Quality Assurance Analyst | Calgary Police Service | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390209742 |
+| Ground Support Equipment (GSE) Maintenance & Management Spec | De Havilland Aircraft of Canada Limited | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390167495 |
+| Concrete Materials Specialist | WSP in Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370436939 |
+| Software Developer | Ava Industries | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390157619 |
+| AI Security Specialist - Fully Remote | Mercor | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390176141 |
+| In Community Program Specialist | Tim Horton's Foundation Camps | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=87f38140fa903a95 |
+| Front Desk | TradeSpace | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=47f37a0dd306dcd7 |
+| Administrative Driver Liaison | CTG | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=7aff42ece9b1da6b |
+| Accounting Clerk | Chief Medical Supplies Ltd. | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=86663dd76e7ea851 |
+| Medical Defence Law Clerk | Klopp Richards & Associates | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389808679 |
+| Part-Time Receptionist - Hyatt Infiniti | AutoCanada | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390250159 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390618580 |
+| Customer Service Associate - Lumber & Building Materials | RONA | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390383618 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378953755 |
+| Associate Owner Relations Agent | Enverus | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390250485 |
