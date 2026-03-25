@@ -88,11 +88,11 @@ SALARY_ESTIMATES = [
     # Admin / Office
     ("administrative coordinator",(52000, 68000)),
     ("office coordinator",        (50000, 65000)),
-    ("administrative assistant",  (45000, 58000)),
-    ("office administrator",      (48000, 63000)),
-    ("receptionist",              (42000, 55000)),
-    ("data entry",                (40000, 52000)),
-    ("customer service",          (42000, 56000)),
+    ("administrative assistant",  (45000, 65000)),
+    ("office administrator",      (48000, 65000)),
+    ("receptionist",              (42000, 60000)),
+    ("data entry",                (38000, 50000)),
+    ("customer service",          (42000, 60000)),
     ("billing coordinator",       (52000, 67000)),
     ("accounts coordinator",      (52000, 68000)),
     ("scheduling coordinator",    (50000, 65000)),
@@ -118,6 +118,35 @@ def estimate_salary(title):
         if keyword in t:
             return f"~${low//1000}K–${high//1000}K CAD (market estimate, Calgary)"
     return "Salary not listed"
+
+
+def salary_upper_estimate(title):
+    """Return upper salary estimate value, or None if not found."""
+    t = title.lower()
+    for keyword, (low, high) in SALARY_ESTIMATES:
+        if keyword in t:
+            return high
+    return None
+
+
+# Global title exclusions applied to every profile (medical, retail, trades, driving)
+GLOBAL_EXCLUDE = [
+    "lpn", "licensed practical", "registered nurse", " rn ", " rn,",
+    "health care aide", " hca ", "personal support worker", " psw ",
+    "physician", " md ", "surgeon", "dentist", "dental hygienist",
+    "optometrist", "chiropractor", "physiotherapist", "occupational therapist",
+    "speech language", "speech therapist", "radiologist", "paramedic",
+    " emt ", "pharmacy technician", "medical laboratory", "lab technician",
+    "diagnostic imaging", "respiratory therapist",
+    "food service", "food and beverage", " f&b ", "restaurant",
+    "kitchen", " chef ", "bartender", "barista", "cashier",
+    "grocery", "retail sales", "retail associate", "store associate",
+    "fashion ", "apparel", "clothing store", "loss prevention",
+    "electrician", "plumber", "hvac", "welder", "carpenter",
+    "landscap", "janitorial", "custodian",
+    "truck driver", "bus driver", " cdl ", "delivery driver",
+    "security guard",
+]
 
 
 PROFILE_CONFIG = {
@@ -302,9 +331,16 @@ def process_profile(profile, hours, seen_urls):
         if url in seen_urls:
             continue
 
-        # Title exclude filter
+        # Title exclude filter — profile-specific + global
         title_lower = (job.get("title") or "").lower()
         if any(ex in title_lower for ex in cfg["exclude"]):
+            continue
+        if any(ex in title_lower for ex in GLOBAL_EXCLUDE):
+            continue
+
+        # Upper salary estimate filter: skip jobs where best-case estimate < $60K
+        upper = salary_upper_estimate(job.get("title", ""))
+        if upper is not None and upper < 60000:
             continue
 
         # Location filter: Calgary/Alberta on-site, OR remote (workable from Calgary)

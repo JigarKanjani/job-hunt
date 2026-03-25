@@ -82,7 +82,7 @@ PROFILES = {
                            "sr.", " sr ", "warehouse", "stocker", "receiver",
                            "shipper", "handler", "operator", "associate i",
                            "technician", "worker", "labou", "labor",
-                           "driver", "forklift", "dispatch"],
+                           "driver", "forklift", "dispatch", "intern"],
         "include_titles": ["analyst", "coordinator", "specialist", "planner",
                            "advisor", "procurement", "logistics", "supply chain",
                            "operations", "purchasing", "inventory", "buyer",
@@ -146,7 +146,11 @@ PROFILES = {
                            "data engineer", "backend", "frontend", "full stack",
                            "fullstack", "cybersecurity", "network engineer",
                            "cloud engineer", "dynamics 365", "microsoft dynamics",
-                           "erp", "sap ", "project manager", "it project"],
+                           "erp", "sap ", "project manager", "it project",
+                           "store manager", "district manager", "general manager",
+                           "operations manager", "hiring manager", "regional manager",
+                           "product manager", "brand manager", "office manager",
+                           "senior manager"],
         "include_titles": ["coordinator", "advisor", "manager", "worker",
                            "specialist", "analyst", "administrator", "counsellor",
                            "counselor", "liaison", "intake", "outreach",
@@ -262,6 +266,34 @@ PROFILES = {
     }
 }
 
+# ── Global exclusions applied to ALL profiles ────────────────────────────────
+# Covers licensed medical/healthcare, retail/food/hospitality, trades, driving
+GLOBAL_EXCLUDE_TITLES = [
+    # Licensed / regulated healthcare (requires professional license)
+    "lpn", "licensed practical", "registered nurse", " rn ", " rn,",
+    "health care aide", " hca ", "personal support worker", " psw ",
+    "physician", " md ", "surgeon", "dentist", "dental hygienist",
+    "optometrist", "chiropractor", "physiotherapist", "occupational therapist",
+    "speech language", "speech therapist", "radiologist", "paramedic",
+    " emt ", "emergency medical technician", "pharmacy technician",
+    "medical laboratory", "lab technician", "diagnostic imaging",
+    "respiratory therapist", "recreation therapist",
+    # Retail / food / hospitality / fashion
+    "food service", "food and beverage", " f&b ", "restaurant",
+    "kitchen", " chef ", "bartender", "barista", "cashier",
+    "grocery", "retail sales", "retail associate", "store associate",
+    "fashion ", "apparel", "clothing store", "loss prevention",
+    # Trades / physical labour
+    "electrician", "plumber", "hvac", "welder", "carpenter",
+    "landscap", "janitorial", "custodian",
+    # Driving
+    "truck driver", "bus driver", " cdl ", "delivery driver",
+    # Security
+    "security guard",
+]
+# ─────────────────────────────────────────────────────────────────────────────
+
+
 def scrape_profile(profile_name, hours_old=24):
     config = PROFILES[profile_name]
     all_jobs = []
@@ -303,8 +335,8 @@ def scrape_profile(profile_name, hours_old=24):
     # Deduplicate by URL
     df = df.drop_duplicates(subset=["job_url"], keep="first")
 
-    # Filter excluded titles (any of these words in title = reject)
-    exclude = config["exclude_titles"]
+    # Filter excluded titles — profile-specific + global
+    exclude = config["exclude_titles"] + GLOBAL_EXCLUDE_TITLES
     exclude_pattern = "|".join(re.escape(e) for e in exclude)
     df = df[~df["title"].str.lower().str.contains(exclude_pattern, na=False)]
 
@@ -362,7 +394,14 @@ def scrape_profile(profile_name, hours_old=24):
 
     if 'site' in df.columns:
         df['site_priority'] = df['site'].apply(site_priority)
-        df = df.sort_values('site_priority').drop('site_priority', axis=1)
+        # Sort: newest first, then by source quality (LinkedIn > Indeed > ZipRecruiter)
+        if 'date_posted' in df.columns:
+            df['date_sort'] = pd.to_datetime(df['date_posted'], errors='coerce')
+            df = df.sort_values(['date_sort', 'site_priority'],
+                                ascending=[False, True])
+            df = df.drop(columns=['site_priority', 'date_sort'])
+        else:
+            df = df.sort_values('site_priority').drop('site_priority', axis=1)
 
     # Select output fields
     keep_cols = [c for c in [
