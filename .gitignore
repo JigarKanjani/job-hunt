@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# JobSpy output (large, regenerated each run)
+jobspy_latest_*.json
+abc_*.json
+jigar_*.json
+neelam_*.json
+xyz_*.json
+batch_*.json
+fresh_*.json
+more_*.json
+sat_morning_*.json
+*_results.json
+jobs_*.json
+
+# OS
+.DS_Store
+Thumbs.db

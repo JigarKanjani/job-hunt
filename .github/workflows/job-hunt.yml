@@ -1,0 +1,44 @@
+name: Job Hunt — Every 6 Hours
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 12am, 6am, 12pm, 6pm UTC  (6pm, 12am, 6am, 12pm MST)
+  workflow_dispatch:          # Manual trigger from GitHub UI
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    permissions:
+      contents: write          # Needed to commit tracker file back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job hunt (all 4 profiles)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python job_alert.py --hours 7 --profiles JIGAR NEELAM XYZ ABC
+
+      - name: Commit updated job tracker
+        run: |
+          git config --local user.email "jobhunt-bot@github-actions"
+          git config --local user.name "Job Hunt Bot"
+          git add job-tracker-seen-jobs.md
+          git diff --staged --quiet || git commit -m "chore: update job tracker [skip ci]"
+          git push
