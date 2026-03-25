@@ -20,6 +20,106 @@ BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "8496012269:AAGTOgNyMzHpo-pc
 CHAT_ID      = os.environ.get("TELEGRAM_CHAT_ID", "747174717")
 MAX_PER_PROFILE = 10   # max jobs sent per profile per run (avoid flooding)
 
+# Salary estimates for Calgary market when employer doesn't post salary
+SALARY_ESTIMATES = [
+    # Supply Chain / Procurement / Logistics
+    ("supply chain analyst",      (75000, 95000)),
+    ("supply chain coordinator",  (65000, 82000)),
+    ("supply chain specialist",   (70000, 90000)),
+    ("supply chain planner",      (72000, 92000)),
+    ("procurement analyst",       (75000, 95000)),
+    ("procurement coordinator",   (65000, 82000)),
+    ("procurement specialist",    (72000, 90000)),
+    ("purchasing coordinator",    (62000, 80000)),
+    ("purchasing agent",          (60000, 78000)),
+    ("buyer",                     (68000, 90000)),
+    ("sourcing analyst",          (72000, 92000)),
+    ("sourcing specialist",       (70000, 88000)),
+    ("category analyst",          (72000, 92000)),
+    ("contract analyst",          (68000, 88000)),
+    ("contracts administrator",   (65000, 85000)),
+    ("logistics analyst",         (65000, 85000)),
+    ("logistics coordinator",     (60000, 78000)),
+    ("inventory analyst",         (65000, 82000)),
+    ("inventory coordinator",     (58000, 75000)),
+    ("demand planner",            (72000, 92000)),
+    ("materials planner",         (68000, 88000)),
+    ("transportation analyst",    (68000, 88000)),
+    ("freight coordinator",       (58000, 75000)),
+    ("distribution coordinator",  (60000, 78000)),
+    ("import export",             (60000, 80000)),
+    ("forecasting analyst",       (72000, 92000)),
+    ("operations analyst",        (68000, 88000)),
+    ("operations coordinator",    (60000, 78000)),
+    ("process improvement",       (70000, 90000)),
+    # Data / BI / IT Analyst
+    ("business analyst",          (75000, 95000)),
+    ("data analyst",              (70000, 90000)),
+    ("bi analyst",                (75000, 95000)),
+    ("business intelligence",     (75000, 95000)),
+    ("reporting analyst",         (65000, 85000)),
+    ("systems analyst",           (70000, 90000)),
+    ("power bi",                  (72000, 92000)),
+    ("it support",                (52000, 68000)),
+    ("help desk",                 (48000, 65000)),
+    ("service desk",              (48000, 65000)),
+    ("desktop support",           (50000, 67000)),
+    ("application support",       (58000, 75000)),
+    ("sharepoint",                (65000, 82000)),
+    ("it coordinator",            (58000, 75000)),
+    # Coordinator / Social Services / HR
+    ("program coordinator",       (60000, 78000)),
+    ("project coordinator",       (62000, 82000)),
+    ("hr coordinator",            (58000, 75000)),
+    ("hr specialist",             (62000, 82000)),
+    ("case manager",              (62000, 80000)),
+    ("social worker",             (60000, 80000)),
+    ("settlement coordinator",    (58000, 75000)),
+    ("intake coordinator",        (58000, 74000)),
+    ("client advisor",            (58000, 76000)),
+    ("student advisor",           (58000, 75000)),
+    ("employment advisor",        (58000, 76000)),
+    ("policy analyst",            (68000, 88000)),
+    ("research coordinator",      (60000, 78000)),
+    ("training coordinator",      (58000, 75000)),
+    ("wellness coordinator",      (56000, 72000)),
+    ("benefits coordinator",      (58000, 76000)),
+    ("communications coordinator",(60000, 78000)),
+    # Admin / Office
+    ("administrative coordinator",(52000, 68000)),
+    ("office coordinator",        (50000, 65000)),
+    ("administrative assistant",  (45000, 58000)),
+    ("office administrator",      (48000, 63000)),
+    ("receptionist",              (42000, 55000)),
+    ("data entry",                (40000, 52000)),
+    ("customer service",          (42000, 56000)),
+    ("billing coordinator",       (52000, 67000)),
+    ("accounts coordinator",      (52000, 68000)),
+    ("scheduling coordinator",    (50000, 65000)),
+    ("facilities coordinator",    (55000, 72000)),
+    ("event coordinator",         (52000, 68000)),
+    ("marketing coordinator",     (52000, 70000)),
+    ("document controller",       (55000, 72000)),
+    ("property administrator",    (52000, 68000)),
+    # Fallback by seniority keyword
+    ("coordinator",               (55000, 72000)),
+    ("specialist",                (62000, 82000)),
+    ("analyst",                   (65000, 85000)),
+    ("advisor",                   (60000, 78000)),
+    ("assistant",                 (44000, 58000)),
+    ("administrator",             (50000, 65000)),
+]
+
+
+def estimate_salary(title):
+    """Return market estimate salary string for Calgary based on job title."""
+    t = title.lower()
+    for keyword, (low, high) in SALARY_ESTIMATES:
+        if keyword in t:
+            return f"~${low//1000}K–${high//1000}K CAD (market estimate, Calgary)"
+    return "Salary not listed"
+
+
 PROFILE_CONFIG = {
     "JIGAR": {
         "min_salary": 80000,
@@ -113,8 +213,9 @@ def annual_salary(job):
 def format_salary(job):
     min_amt = job.get("min_amount")
     max_amt = job.get("max_amount")
+    title   = job.get("title", "")
     if not min_amt or min_amt <= 0:
-        return "Salary not listed"
+        return estimate_salary(title)
     hourly = job.get("interval") == "hourly"
     if hourly:
         min_amt, max_amt = min_amt * 2080, (max_amt * 2080 if max_amt else None)
@@ -128,7 +229,8 @@ def format_job_message(job, profile):
     company  = job.get("company", "N/A")
     location = job.get("location", "N/A")
     url      = job.get("job_url", "")
-    date     = str(job.get("date_posted", ""))[:10]
+    raw_date = str(job.get("date_posted") or "")[:10]
+    date     = raw_date if raw_date and raw_date != "None" else datetime.now(timezone.utc).strftime("%Y-%m-%d")
     remote   = job.get("is_remote", False)
     work_str = "Remote" if remote else "On-site"
     salary   = format_salary(job)
