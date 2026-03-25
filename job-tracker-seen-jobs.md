@@ -186,3 +186,24 @@
 | Assurance Advisor | Pembina Pipeline Corporation | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389999521 |
 | Health & Safety Coordinator | Amrize | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378562508 |
 | Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4364278985 |
+| Project Controls Lead | Arjae Design Solutions Ltd. | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=8a5555b4e08b82b1 |
+| Project Coordinator, Facilities Development | University of Calgary | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=c10ef8523504e86a |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=d6a6d61a51c8324b |
+| Talent Acquisition Specialist (High Volume) | CoolIT Systems | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4379484455 |
+| Enterprise & Operational Systems Analyst | Greenfire Resources | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390007525 |
+| Lead Specialist - SAP FICO - AP/AR/GL/TR | Parkland Corporation | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390002044 |
+| Accounting & Payroll Coordinator (Full-Cycle Bookkeeping) | Alpine Energy Services Inc | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4388951820 |
+| Field Case Manager - 12-month contract | Cencora | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=6f9941ee2dacc36f |
+| Equipment Coordinator | FLINT Corp. | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=6418e1a9448ffdb0 |
+| Claims & Benefits Administrator | Precision Drilling | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390350891 |
+| HR - Payroll & Benefits Coordinator (Canada) | Beyond Energy Services and Technology Co | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390372408 |
+| Bilingual Case Manager (Remote) | Sentrex Health Solutions | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390155158 |
+| Customer Developer I, Cloud AI, Startups, Google Cloud | Google | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=1a0e7f4a57dab26a |
+| Trade Compliance Analyst | TC Energy | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389696854 |
+| Financial Analyst | ENMAX | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4376496839 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390345831 |
+| Research Associate, Molecular Parasitology, Faculty of Veter | University of Calgary | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=ea864a9f2ed9ab3a |
+| Junior Administrator, Residential Mortgage Administration (T | CMLS Financial | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4380566668 |
+| Temporary Reception/Administrator | Equation Staffing Solutions Inc | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390159179 |
+| Data Annotation Specialist, Spanish Writer/Translator | Cohere | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4379619081 |
+| Data Annotation Specialist, Simplified Chinese / Mandarin Wr | Cohere | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4379615491 |
