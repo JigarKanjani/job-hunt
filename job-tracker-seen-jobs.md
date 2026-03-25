@@ -115,3 +115,13 @@
 | Intermediate Developer | ZayZoon | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389958578 |
 | Developer Advocate, AI Enablement | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389246513 |
 | Assistant Teacher - West85th | Fueling Brains & Academies | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389945965 |
+| Wholesale Trade Specialist - Fully Remote | Mercor | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390320105 |
+| Data Specialist (Contract) | Cushman & Wakefield | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4380110278 |
+| Temporary Foreign Worker(TFW) Coordinator | Canna Cabana | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390111410 |
+| Database Coordinator (Term Contract) | Youth Empowerment & Support Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=26b912dc130d071e |
+| Sr. Account Manager | Lpi Group | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=6a88da73e9475005 |
+| Operations and Administration Coordinator (Trainee) | JUMP Math | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=835450e6e90c1595 |
+| Platform Success Representative | WELL Health Technologies Corp | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=4d79afc368ac5a51 |
+| Assurance Advisor | Pembina Pipeline Corporation | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389999521 |
+| Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=056b895c295b0aef |
+| Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=68e1cd6df0a31a3a |
