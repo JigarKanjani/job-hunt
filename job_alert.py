@@ -35,7 +35,9 @@ PROFILE_CONFIG = {
                     " rpn ", "warehouse", "stocker",
                     "software", "devops", "infrastructure", "machine learning",
                     "data engineer", "backend", "frontend", "full stack",
-                    "cybersecurity", "network engineer"],
+                    "cybersecurity", "network engineer",
+                    "dynamics 365", "microsoft dynamics", "erp", "sap ",
+                    "project manager", "it project"],
     },
     "XYZ": {
         "min_salary": 55000,
@@ -201,6 +203,12 @@ def process_profile(profile, hours, seen_urls):
         # Title exclude filter
         title_lower = (job.get("title") or "").lower()
         if any(ex in title_lower for ex in cfg["exclude"]):
+            continue
+
+        # Location filter: Calgary/Alberta on-site, OR remote (workable from Calgary)
+        loc = (job.get("location") or "").lower()
+        is_remote = bool(job.get("is_remote"))
+        if not is_remote and not any(k in loc for k in ("calgary", "alberta", ", ab", "ab,", "ab ")):
             continue
 
         # Salary floor (only reject if salary explicitly listed below minimum)

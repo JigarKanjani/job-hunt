@@ -14,7 +14,7 @@ from datetime import datetime
 try:
     from jobspy import scrape_jobs
 except ImportError:
-    subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'python-jobspy==0.37.0'], check=True)
+    subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'python-jobspy==1.1.82'], check=True)
     from jobspy import scrape_jobs
 
 import pandas as pd
@@ -28,43 +28,41 @@ PROFILES = {
     # Include filter ensures only desk/knowledge roles pass (no warehouse/labour).
     # Exclude senior/lead (entry-level, <2 yrs exp). Exclude Edmonton (too far).
     "JIGAR": {
+        # Supply chain / procurement / logistics ONLY. Data/BI analyst roles → XYZ.
         "search_terms": [
             # ── Supply Chain family ──
             "Supply Chain Analyst Calgary",
             "Supply Chain Coordinator Calgary",
             "Supply Chain Specialist Calgary",
-            # ── Procurement / Purchasing ──
+            "Supply Chain Planner Calgary",
+            # ── Procurement / Purchasing / Sourcing ──
             "Procurement Analyst Calgary",
             "Procurement Coordinator Calgary",
             "Procurement Specialist Calgary",
             "Purchasing Coordinator Calgary",
+            "Buyer Calgary",
+            "Strategic Sourcing Analyst Calgary",
+            "Category Analyst Calgary",
+            "Contracts Administrator Calgary",
             # ── Logistics / Inventory / Planning ──
             "Logistics Analyst Calgary",
             "Logistics Coordinator Calgary",
             "Inventory Analyst Calgary",
+            "Inventory Coordinator Calgary",
             "Demand Planner Calgary",
             "Materials Planner Calgary",
+            "Material Coordinator Calgary",
+            "Transportation Analyst Calgary",
             # ── Operations / Process ──
             "Operations Analyst Calgary",
             "Operations Coordinator Calgary",
             "Process Improvement Analyst Calgary",
-            # ── Data / BI / Reporting ──
-            "Data Analyst Calgary",
-            "Business Analyst Calgary",
-            "BI Analyst Calgary",
-            "Reporting Analyst Calgary",
-            # ── Additional targeted terms ──
-            "Inventory Coordinator Calgary",
-            "Category Analyst Calgary",
-            "Junior Analyst Calgary",
-            "Contracts Administrator Calgary",
-            "Material Coordinator Calgary",
-            # ── Remote Canada (work from anywhere in Canada) ──
+            # ── Remote Canada ──
             "[REMOTE] Supply Chain Analyst",
-            "[REMOTE] Data Analyst",
-            "[REMOTE] Business Analyst",
-            "[REMOTE] Procurement Analyst",
             "[REMOTE] Supply Chain Coordinator",
+            "[REMOTE] Procurement Analyst",
+            "[REMOTE] Logistics Coordinator",
+            "[REMOTE] Inventory Analyst",
         ],
         "min_salary": 80000,
         "exclude_titles": ["senior", "lead", "director", "manager", "principal",
@@ -73,12 +71,11 @@ PROFILES = {
                            "shipper", "handler", "operator", "associate i",
                            "technician", "worker", "labou", "labor",
                            "driver", "forklift", "dispatch"],
-        # At least one of these keywords must appear in the title (desk/knowledge roles only)
         "include_titles": ["analyst", "coordinator", "specialist", "planner",
                            "advisor", "procurement", "logistics", "supply chain",
-                           "data", "business", "operations", "reporting",
-                           "intelligence", "purchasing", "inventory"],
-        "results_wanted": 40  # GitHub Actions has no LLM timeout — can afford more
+                           "operations", "purchasing", "inventory", "buyer",
+                           "sourcing", "transportation", "contracts", "material"],
+        "results_wanted": 40
     },
 
     # ─── NEELAM ──────────────────────────────────────────────────────────────
@@ -126,7 +123,6 @@ PROFILES = {
             "[REMOTE] HR Coordinator",
             "[REMOTE] Case Manager",
             "[REMOTE] Administrative Coordinator",
-            "[REMOTE] Case Manager",
         ],
         "min_salary": 65000,
         "exclude_titles": ["director", "vp", "vice president", "executive",
@@ -137,7 +133,8 @@ PROFILES = {
                            "software", "devops", "infrastructure", "machine learning",
                            "data engineer", "backend", "frontend", "full stack",
                            "fullstack", "cybersecurity", "network engineer",
-                           "cloud engineer"],
+                           "cloud engineer", "dynamics 365", "microsoft dynamics",
+                           "erp", "sap ", "project manager", "it project"],
         "include_titles": ["coordinator", "advisor", "manager", "worker",
                            "specialist", "analyst", "administrator", "counsellor",
                            "counselor", "liaison", "intake", "outreach",
@@ -220,6 +217,11 @@ PROFILES = {
             "Customer Service Representative Calgary",
             "Office Support Calgary",
             "Clerical Assistant Calgary",
+            "Administrative Support Calgary",
+            "Program Assistant Calgary",
+            "General Clerk Calgary",
+            "Client Services Calgary",
+            "Office Clerk Calgary",
         ],
         "min_salary": 45000,
         "exclude_titles": ["senior", "director", "manager", "executive",
@@ -300,6 +302,18 @@ def scrape_profile(profile_name, hours_old=24):
         return True  # Keep if no salary listed (can't rule it out)
 
     df = df[df.apply(salary_ok, axis=1)]
+
+    # Location filter: Calgary/Alberta on-site/hybrid, OR remote anywhere in Canada
+    # Rejects Toronto, Vancouver, Edmonton-only, and other cities
+    def location_ok(row):
+        loc = str(row.get("location") or "").lower()
+        is_remote = bool(row.get("is_remote"))
+        if is_remote:
+            return True  # Remote: workable from Calgary
+        return ("calgary" in loc or "alberta" in loc or
+                ", ab" in loc or "ab," in loc or "ab " in loc)
+
+    df = df[df.apply(location_ok, axis=1)]
 
     # Add metadata
     df["profile"] = profile_name
