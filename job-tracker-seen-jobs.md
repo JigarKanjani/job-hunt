@@ -91,3 +91,27 @@
 | Global Service Desk Analyst - Spanish Bilingual | Long View Systems | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4354221637 |
 | Billing Coordinator, Consulting | BDO Canada | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389039343 |
 | Accounting Administrative Assistant | AMBIPAR GROUP | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=f1ba7fe0f773793e |
+| Business Systems Analyst - Guidewire | Co-operators | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4389976823 |
+| Real Estate Concierge & Partner Specialist | Justin Havre Real Estate Team | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=ed0c75e28b8112ce |
+| Invasive Phragmites Regional Coordinator | Invasive Species Centre | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=cce98574dd13306a |
+| Field Operations Manager, Sterling Homes | Sterling Homes Calgary | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389779853 |
+| Developing Investment Advisor | TD | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=0c4079db23553875 |
+| Responsable des pratiques de prestation / Delivery Practice  | Amazon Web Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=368e341989d04d3c |
+| Clearing Risk Analyst | Intercontinental Exchange | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=db173b5b9f186945 |
+| Donor Relations Coordinator (Trainee) | JUMP Math | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=21a9bd63b5ad5e61 |
+| Temporary Foreign Worker(TFW) Coordinator | Canna Cabana | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=30d2f46e25946b16 |
+| Temporary Foreign Worker(TFW) Coordinator | High Tide | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=62dccce20a625dcd |
+| Regional Sales & Training Manager - SK, MB, Kenora | WSA | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=e1cb22fa3e441bca |
+| Maintenance Project Coordinator | Aramark | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=e7deb3220d259a54 |
+| Lifestyle Coordinator (Temporary) | Golden Life Management | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=7d3974d29eb150db |
+| New Grad: Junior Accountant, Financial Reporting & Insights  | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4388722802 |
+| Intermediate Developer | ZayZoon | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389964383 |
+| New Grad: Junior Accountant, Financial Reporting & Insights  | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4388727490 |
+| New Grad: Junior Accountant, Financial Reporting & Insights  | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4388733174 |
+| SAP Developer | Spartan Controls | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389865698 |
+| Order Processing Specialist Remote | Mercor | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389974616 |
+| Order Processing Specialist Remote | Mercor | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389987126 |
+| SAP Reporting and BTP Dev | IBM | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4388869378 |
+| Intermediate Developer | ZayZoon | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389958578 |
+| Developer Advocate, AI Enablement | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389246513 |
+| Assistant Teacher - West85th | Fueling Brains & Academies | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389945965 |
