@@ -115,35 +115,43 @@
 | Intermediate Developer | ZayZoon | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389958578 |
 | Developer Advocate, AI Enablement | BDO Canada | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389246513 |
 | Assistant Teacher - West85th | Fueling Brains & Academies | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389945965 |
-| Wholesale Trade Specialist - Fully Remote | Mercor | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390320105 |
+| Fuel Management Analyst | Englobe | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4379107829 |
+| Program Analyst | Mindwire Systems Ltd | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4389841203 |
 | Data Specialist (Contract) | Cushman & Wakefield | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4380110278 |
-| Temporary Foreign Worker(TFW) Coordinator | Canna Cabana | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390111410 |
-| Database Coordinator (Term Contract) | Youth Empowerment & Support Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=26b912dc130d071e |
-| Sr. Account Manager | Lpi Group | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=6a88da73e9475005 |
-| Operations and Administration Coordinator (Trainee) | JUMP Math | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=835450e6e90c1595 |
-| Platform Success Representative | WELL Health Technologies Corp | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=4d79afc368ac5a51 |
-| Assurance Advisor | Pembina Pipeline Corporation | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389999521 |
-| Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=056b895c295b0aef |
-| Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=68e1cd6df0a31a3a |
-| Field Coordinator | AtkinsRéalis | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4387206723 |
+| Wholesale Trade Specialist - Fully Remote | Mercor | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4390320105 |
+| Project Risk Analyst | TC Energy | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4388871877 |
+| Coordinator, Academic Affairs & Operations, Cumming School o | University of Calgary | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4388190592 |
+| Boutique Stock Specialist - Chinook | Nestlé Nespresso SA | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4387472230 |
+| Project Coordinator | Vault Group | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4389592131 |
+| FP&A Analyst - Calgary or Toronto | Computer Modelling Group | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4388118826 |
+| Operations Technology Service Coordinator | Accenture | 2026-03-25 | JIGAR | https://www.linkedin.com/jobs/view/4387328964 |
+| Coordinator, Research Operations, Centre for Health Policy | University of Calgary | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4388193997 |
 | Project Sales & Development Manager, Electric Power | Finning | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4379603584 |
-| SUN LIFE FINANCIAL ADVISOR | Sun Life | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/3555692453 |
-| Customer Health Program Manager - Remote (USA or Canada) | TeamViewer | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4380520948 |
-| Visual Communications Specialist | TAQA Group | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4381075026 |
-| Employment Specialist | Mount Royal University | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=492d627767607238 |
-| production coordinator | Calgary custom kitchen cabinets | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=3d33fd7394c5ead1 |
-| Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=4567d2ae11bb993e |
-| AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390319757 |
-| Digital Specialist | Finning | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370732481 |
-| Accounting Specialist - Fully Remote | Mercor | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390318150 |
-| Statistical Specialist | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370650025 |
-| C# Game developer (MonoGame) | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390117713 |
-| Financial Analyst | $95/hr Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370669860 |
-| Financial Analyst | $95/hr Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370662390 |
-| SAP BASIS ADMINISTRATOR | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=9d8c965db1fdd66d |
-| SAP SYSTEM DEVELOPER | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=16f40d099cc63ca5 |
-| Laboratory Analyst, Mineralogy | ALS | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=a6eabbae1337d22f |
-| Commercial Real Estate Administrator | TEKsystems | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4387246081 |
-| Health & Safety Coordinator | Amrize | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378562508 |
-| Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4364278985 |
-| Bilingual Client Onboarding & Servicing Specialist (Wealth M | Vesta Wealth Partners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=978d412dc288aa39 |
+| Field Coordinator | AtkinsRéalis | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4387210451 |
+| Client Services Coordinator | Prairie Payments Joint Venture | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389847384 |
+| Case Manager (Remote) | Sentrex Health Solutions | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389832016 |
+| Research Assistant, Paediatrics | University of Calgary | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389764103 |
+| Lead Project Coordinator - Remote Canada | Smile Digital Health | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389765060 |
+| Coordinator, Learning and Development | MNP | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389593492 |
+| Temporary Foreign Worker(TFW) Coordinator | Canna Cabana | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4390111410 |
+| Project Coordinator, Facilities Development | University of Calgary | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4389946357 |
+| Land Analyst | Canada West Land | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389814027 |
+| Service Desk Analyst | Hays | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389908720 |
+| Learning & Development Specialist | Precision Drilling | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389948930 |
+| Casual Scheduling Coordinator | Paladin Security Group Ltd | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4388095584 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370633428 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389743318 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389734624 |
+| AI Specialist | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4355001798 |
+| IT Operations Automation Engineer (100% Remote - Canada) | Hopper | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389852420 |
+| IT Operations Automation Engineer (100% Remote - Canada) | Hopper | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4389838754 |
+| Sales Assistant, NuVista Home | NuVista Homes | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389792197 |
+| Pharmacy Coordinator | McKesson | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389776494 |
+| Licensed Practical Nurse (LPN) – Clinical Specialist | Bayshore HealthCare | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4380167358 |
+| Project Controls Coordinator - Multi-Disciplinary Science Hu | University of Calgary | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4388130310 |
+| Licensed Practical Nurse (LPN) – Clinical Specialist | Carecor Health Services Ltd. | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4380196120 |
+| HSE & Quality Compliance Specialist | Blue Spark Energy Inc. | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389840107 |
+| Clerk, Resource Optimization | Canada Post / Postes Canada | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4385484932 |
+| Payroll & People Coordinator | Dynamic Source Manufacturing Inc. | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389949558 |
+| Content and Social Media Specialist | DIALOG | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389953267 |
+| Customer Service Representative (Part Time) | Best Buy Canada | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4387559126 |

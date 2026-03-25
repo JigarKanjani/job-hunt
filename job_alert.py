@@ -23,6 +23,16 @@ MAX_PER_PROFILE = 10   # max jobs sent per profile per run (avoid flooding)
 # Salary estimates for Calgary market when employer doesn't post salary
 SALARY_ESTIMATES = [
     # Supply Chain / Procurement / Logistics
+    ("supply chain manager",      (90000, 120000)),
+    ("procurement manager",       (90000, 120000)),
+    ("logistics manager",         (85000, 115000)),
+    ("materials manager",         (85000, 115000)),
+    ("category manager",          (90000, 120000)),
+    ("sourcing manager",          (88000, 118000)),
+    ("contract manager",          (88000, 115000)),
+    ("vendor manager",            (85000, 110000)),
+    ("transportation manager",    (85000, 110000)),
+    ("inventory manager",         (80000, 105000)),
     ("supply chain analyst",      (75000, 95000)),
     ("supply chain coordinator",  (65000, 82000)),
     ("supply chain specialist",   (70000, 90000)),
@@ -152,10 +162,10 @@ GLOBAL_EXCLUDE = [
 PROFILE_CONFIG = {
     "JIGAR": {
         "min_salary": 80000,
-        "exclude": ["senior", "lead", "director", "manager", "supervisor",
-                    "vp", "vice president", "sr.", " sr ", "warehouse",
-                    "stocker", "receiver", "shipper", "handler", "labou",
-                    "driver", "forklift", "dispatch"],
+        "exclude": ["director", "vp", "vice president", "sr.", " sr ",
+                    "warehouse", "stocker", "receiver", "shipper", "handler",
+                    "labou", "driver", "forklift", "dispatch", "intern",
+                    "c-suite", "chief", "president"],
     },
     "NEELAM": {
         "min_salary": 65000,
