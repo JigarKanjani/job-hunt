@@ -155,3 +155,34 @@
 | Payroll & People Coordinator | Dynamic Source Manufacturing Inc. | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389949558 |
 | Content and Social Media Specialist | DIALOG | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389953267 |
 | Customer Service Representative (Part Time) | Best Buy Canada | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4387559126 |
+| Construction Manager | Associated Engineering | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=9b11dbd11a4efb5e |
+| Project Manager, Bridges | Associated Engineering | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=1b301bf2f8d4e355 |
+| Bilingual Client Onboarding & Servicing Specialist (Wealth M | Vesta Wealth Partners | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=978d412dc288aa39 |
+| District Manager, Imaging Operations | Gestionnaire de distr | K'(Prime) Technologies Inc. | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=cfb6f0a78a8edd7c |
+| Retail Shift Leader | Canna Cabana | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=18164ef4ad621449 |
+| Retail Shift Leader | Canna Cabana | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=b03428505872e745 |
+| Retail Shift Leader | Canna Cabana | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=c45d189176105a7d |
+| Technicien de Centre de Données / Data Center Technician, Op | Amazon.com | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=fea3286205e7118f |
+| Technicien de Centre de Données / Data Center Technician, Op | Amazon.com | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=58af67f5b1c5ca92 |
+| Programs Support Specialist | Shift Human Services Consulting | 2026-03-25 | JIGAR | https://ca.indeed.com/viewjob?jk=e8d1b8208ec18080 |
+| Employment Specialist | Mount Royal University | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=492d627767607238 |
+| Bilingual Case Manager (Remote) | Sentrex Health Solutions | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=d554004bf6cb692f |
+| Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=4567d2ae11bb993e |
+| Field Coordinator | AtkinsRéalis | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4387206723 |
+| SUN LIFE FINANCIAL ADVISOR | Sun Life | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/3555692453 |
+| Visual Communications Specialist | TAQA Group | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4381075026 |
+| Customer Health Program Manager - Remote (USA or Canada) | TeamViewer | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4380520948 |
+| Laboratory Analyst, Mineralogy | ALS | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=a6eabbae1337d22f |
+| Systems Support Specialist | Halton Police Service | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=ed4aae3e47871809 |
+| Bilingual IT Support Executive | Marcan Pharmaceuticals | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=14c20e1c25bd6c88 |
+| SAP SYSTEM DEVELOPER | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=16f40d099cc63ca5 |
+| SAP SYSTEM DEVELOPER | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=804fa01a0a488636 |
+| SAP BASIS ADMINISTRATOR | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=9d8c965db1fdd66d |
+| AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390319757 |
+| Digital Specialist | Finning | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370732481 |
+| Statistical Specialist | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370650025 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390341929 |
+| Commercial Real Estate Administrator | TEKsystems | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4387246081 |
+| Assurance Advisor | Pembina Pipeline Corporation | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389999521 |
+| Health & Safety Coordinator | Amrize | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378562508 |
+| Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4364278985 |
