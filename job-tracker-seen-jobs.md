@@ -125,3 +125,25 @@
 | Assurance Advisor | Pembina Pipeline Corporation | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4389999521 |
 | Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=056b895c295b0aef |
 | Retail Store Associate - South Township | Winners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=68e1cd6df0a31a3a |
+| Field Coordinator | AtkinsRéalis | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4387206723 |
+| Project Sales & Development Manager, Electric Power | Finning | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4379603584 |
+| SUN LIFE FINANCIAL ADVISOR | Sun Life | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/3555692453 |
+| Customer Health Program Manager - Remote (USA or Canada) | TeamViewer | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4380520948 |
+| Visual Communications Specialist | TAQA Group | 2026-03-25 | NEELAM | https://www.linkedin.com/jobs/view/4381075026 |
+| Employment Specialist | Mount Royal University | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=492d627767607238 |
+| production coordinator | Calgary custom kitchen cabinets | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=3d33fd7394c5ead1 |
+| Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-03-25 | NEELAM | https://ca.indeed.com/viewjob?jk=4567d2ae11bb993e |
+| AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390319757 |
+| Digital Specialist | Finning | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370732481 |
+| Accounting Specialist - Fully Remote | Mercor | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390318150 |
+| Statistical Specialist | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370650025 |
+| C# Game developer (MonoGame) | Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4390117713 |
+| Financial Analyst | $95/hr Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370669860 |
+| Financial Analyst | $95/hr Remote | Crossing Hurdles | 2026-03-25 | XYZ | https://www.linkedin.com/jobs/view/4370662390 |
+| SAP BASIS ADMINISTRATOR | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=9d8c965db1fdd66d |
+| SAP SYSTEM DEVELOPER | Manitoba Hydro | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=16f40d099cc63ca5 |
+| Laboratory Analyst, Mineralogy | ALS | 2026-03-25 | XYZ | https://ca.indeed.com/viewjob?jk=a6eabbae1337d22f |
+| Commercial Real Estate Administrator | TEKsystems | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4387246081 |
+| Health & Safety Coordinator | Amrize | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378562508 |
+| Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4364278985 |
+| Bilingual Client Onboarding & Servicing Specialist (Wealth M | Vesta Wealth Partners | 2026-03-25 | ABC | https://ca.indeed.com/viewjob?jk=978d412dc288aa39 |
