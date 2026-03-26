@@ -431,3 +431,32 @@
 | LiDAR Specialist | Measurement Sciences Inc | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=6b2ff3881949755d |
 | Claims Associate | BFL CANADA | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4387503572 |
 | Jr. Fund Development & Events Associate | Pregnancy & Infant Loss Support Centre | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391902395 |
+| Online Sales and Digital Marketing Specialist | Broadview Homes | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=b5985591ba7dbc4a |
+| Customer Service Specialist CSS | KAG Canada | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=aa17595aeaf3324d |
+| Community Engagement Coordinator | Calgary Foothills Primary Care Network | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=999d3b80bc7d65bd |
+| Bilingual Client Onboarding & Servicing Specialist (Wealth M | Vesta Wealth Partners | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=3150d8ba3f63c788 |
+| QA Automation Analyst | Metro Supply Chain | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=33822bcac4097c52 |
+| Procurement Specialist - Full-Time (Continuing) | University of Lethbridge | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=20c4d61fb0032104 |
+| HR Coordinator | Source Energy Services Ltd. | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=69bafd5cb630c4c1 |
+| Quality Coordinator | AtkinsRéalis | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4388307906 |
+| Administrative Coordinator / Corporate Concierge | Airswift | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391929379 |
+| Factory Test Automation Specialist | CoolIT Systems | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391912866 |
+| INTK-Intake Coordinator | Lifemark Health Group | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=7b3367043e5d3866 |
+| Sr Advisor, Procurement Systems - Calgary, AB or Saskatoon,  | Nutrien | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=99972fdd9dfd5581 |
+| Digital Sales Advisor | Westland Insurance Group | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=7762938faee97d4f |
+| Surface Land Analyst | Conifer Energy, Inc. | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=18b9b479ea5559f7 |
+| Office Administrator | CLEANTEK Industries Inc. | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=4f591a6af5d10345 |
+| Asset Management Coordinator | WESTLOCK COUNTY | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=142a192e82f07e21 |
+| Data Analyst | Xbow | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=655e3d1f0e6c52fd |
+| Business Analyst (Dynamics) | Vantix Systems Inc | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=4bcdcb078ada3701 |
+| IT Support Specialist - Remote Canada | Bold Commerce | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=50f74a84449a0f7a |
+| Remote AI Quality Analyst (Japanese) - 62136 | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391184203 |
+| Remote AI Quality Analyst (Japanese) - 62136 | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391181431 |
+| Remote AI Quality Analyst (Japanese) - 62136 | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391190076 |
+| Process Engineer | Startec Compression & Process and Starte | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391310190 |
+| Summer Student - Process Engineering | Equinox Engineering Ltd. | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391307021 |
+| Healthcare Systems Expert - Fully Remote | Upto $120/hr Hour | Mercor | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391176303 |
+| Medical Office Assistant/Receptionist | Advanced Cardiology Consultants & Diagno | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=bb084d87c347a893 |
+| Junior Accounting Associate | Frontier Lodging Solutions | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=1417176c38b041ba |
+| Clerk Deli -Reg. PTU | Safeway Canada | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=19ca17486ef52c07 |
+| Clerk Deli -Reg. PTU | Sobeys | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391909975 |
