@@ -304,3 +304,20 @@
 | Financial Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390416777 |
 | Financial and Investment Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390417702 |
 | Health Promotion Facilitator II/Quality Process Improvement  | Primary Care Alberta | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=4cdc298f303cfbc6 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=ffd6e7409f14a49c |
+| Senior Operational Buyer | Factor_ | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4380017937 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390478339 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390472351 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390483313 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390475371 |
+| Procurement Specialist | Remote | Crossing Hurdles | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4371116321 |
+| General Relief Support Workers (3 positions) Residential Pro | Calgary Alternative Support Services | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=a0237734e51c7439 |
+| Seasonal Grounds Worker | Northwestern Polytechnic | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=b71fac6818cd75b2 |
+| Administrative Assistant | Associated Engineering | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4378977308 |
+| Automation and Optimization Technology Specialist | Global cellulose fibers | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=fa1f3a315675f593 |
+| Analyst Support | Intelex | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=6366e9c73f012924 |
+| Personnel Analyst | Whitecap Resources Inc. | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390840650 |
+| 2027 Capital Markets, Global Investment Banking Summer Analy | RBC | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4371076804 |
+| Product Specialist / Electrical Applications Specialist | Eaton | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4378928886 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390416777 |
+| Financial and Investment Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390417702 |
