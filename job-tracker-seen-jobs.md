@@ -247,3 +247,35 @@
 | Customer Service Associate - Lumber & Building Materials | RONA | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390383618 |
 | Customer Service Representative | Cornerstone Building Brands | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4378953755 |
 | Associate Owner Relations Agent | Enverus | 2026-03-25 | ABC | https://www.linkedin.com/jobs/view/4390250485 |
+| Lead Clinical Research Coordinator | Canadian Sleep Consultants | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=fbf268c0acb029e6 |
+| Fleet Parts Coordinator | Home Hardware Stores | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=27d3f2179ed749ae |
+| Business Analyst – SharePoint Migration | BULL INFORMATION SYSTEMS LIMITED | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390293509 |
+| Logistics Manager | Fidelity Manufacturing | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390640761 |
+| Program Manager - Commercial Operations | CoolIT Systems | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390405071 |
+| Revenue Operations Analyst | CoolIT Systems | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390297483 |
+| Retail Shift Leader | Canna Cabana | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390282861 |
+| IT Service Desk Specialist | Benevity | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390671232 |
+| People & Culture Administrator | Jayman Built | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=ae57ee79af821d3f |
+| Sales Coordinator - Construction Management | Faber Work | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=ca3fbd8d18a5e681 |
+| Developing Investment Advisor | TD | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=56822474b1922032 |
+| System Administrator (Networking & Azure) | Stars | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=970a2d7ca8c68fbb |
+| Coordinator III HR | FedEx Supply Chain | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=dc46ff62c804bd47 |
+| Project Coordinator | Kanas Corporation | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=0f5eb8acabfa1840 |
+| Events coordinator | Michaels | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=011f6ac35e6d90a3 |
+| Supports for Community Living Worker - Brain Injury | Canadian Mental Health Association, Red  | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=bf551277897579b6 |
+| Graduate Program Advisor, Professional Programs, Faculty of  | University of Calgary | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390686019 |
+| Research Coordinator, Faculty of Social Work | University of Calgary | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4388560945 |
+| Platform Success Representative | WELL Health Technologies Corp | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=47024f4b5283196f |
+| HPC Solutions Specialist | Computer Modelling Group | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390657133 |
+| Revenue Systems & BI Specialist | CoolIT Systems | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390296505 |
+| Technical Trainer - Welding | Modine Manufacturing Company | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390648284 |
+| Credit Analyst - Commercial Real Estate Finance | BMO | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4389325643 |
+| Buying Specialist - Fully Remote | Mercor | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390673514 |
+| Brand Specialist, Banded Peak | Labatt Breweries of Canada | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=7348c311bd3050e8 |
+| Administrative Coordinator, VP Finance | University of Calgary | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390675289 |
+| Project EHS Site Administrator | Agilus Work Solutions | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390403177 |
+| Intermediate Customer Onboarding Specialist | Clio | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390401189 |
+| Clerk Part Time Day | Loblaw Companies Limited | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390663166 |
+| Personal Banking Associate | BMO | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4389322807 |
+| Associate Lawyer - Labour & Employment | Urban Legal Recruitment Inc. | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390407085 |
+| Document Controller | Mott MacDonald | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390649394 |
