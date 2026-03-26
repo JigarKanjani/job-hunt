@@ -353,3 +353,24 @@
 | Call Center Agent | Cheerwell Business Solutions Ltd. | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=00ad61916c9afdbe |
 | Electrical Associate | Smith + Andersen | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390879386 |
 | Account Coordinator | Concorde Entertainment Group | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390711850 |
+| Jr. Buyer/Planner | Phoenix Technology Services | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=cad02abd52d6b942 |
+| Construction Admin & Warranty Coordinator | Aspen Creek Designer Homes | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=25ed4ee3e41c6664 |
+| PMO Coordinator | Nesto Cloud | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=26fbc604ccc60cad |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=5eab9cc352c2e40f |
+| Senior Contract Specialist | Airswift | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391088602 |
+| Quality Coordinator | AtkinsRéalis | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4388318342 |
+| Procurement Specialist | BEUMER Group | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390890551 |
+| Market Data Compensation Analyst | Nutrien | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390881946 |
+| Help Desk Specialist | Akkodis | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390712903 |
+| Program Coordinator | MCG Career College | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390736505 |
+| Administrative Assistant, Consulting Services | MNP | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4380050720 |
+| Case Manager | Litco Law | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390750179 |
+| Coordinator, Learning and Development | MNP | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4380055532 |
+| Business Analyst | World Gear Truck Repair | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=7ea14170817ec507 |
+| Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391111066 |
+| Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390897744 |
+| Finance Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390734301 |
+| Administrative Assistant - Legal | The Last Word | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=deb7c4f7305e24fa |
+| Veterinary Technician Assistant/ Receptionist | Sanctuary Veterinary Hospital | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=5ab8d1a1a6a3c9e7 |
+| New Business Administrator | IDC Worldsource Insurance Network Inc. | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4377926754 |
+| Rental Sales Agent - Part Time | Avis Budget Group | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390746416 |
