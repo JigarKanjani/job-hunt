@@ -297,3 +297,10 @@
 | Mobile Mortgage Specialist | TD | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=1c8f5cc612f2f6c1 |
 | Contractor - Project Controller | China National Offshore Oil | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=385d58fa83b4fbb3 |
 | Pursuit Specialist, Infrastructure | Stantec | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390809484 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=f68b5f9b6ea6e226 |
+| Finance Analyst | Scandinavian Building Services | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390421745 |
+| Analyst, Real Estate Finance | CMLS Financial | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390813748 |
+| Analyst, Real Estate Finance | CMLS Financial | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390812861 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390416777 |
+| Financial and Investment Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390417702 |
+| Health Promotion Facilitator II/Quality Process Improvement  | Primary Care Alberta | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=4cdc298f303cfbc6 |
