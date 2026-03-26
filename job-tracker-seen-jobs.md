@@ -330,3 +330,26 @@
 | Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390865091 |
 | Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390857579 |
 | Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390488674 |
+| Procurement Specialist | BEUMER Group | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=65f267ea90d3f3a3 |
+| Business Analyst | Enerflex Ltd. | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4363195808 |
+| Technical Talent Acquisition Specialist (Contract) | CoolIT Systems | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4379695610 |
+| Quality Analyst Senior | Modine Manufacturing Company | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4336834534 |
+| Financial Analyst-Rebates | IKO North America | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4378964056 |
+| Retail Operations Supervisor | Staples Canada | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4371810823 |
+| ServiceNow Senior Delivery Lead | Accenture | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4389854865 |
+| Senior Enterprise Account Executive | Amazon Web Services (AWS) | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390873687 |
+| Supply Chain & Retail SME (AI Evaluation & Quality Review) | | Crossing Hurdles | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390715154 |
+| Retail Operations Specialist – AI Model Review & Validation  | Crossing Hurdles | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390727072 |
+| Bilingual Intake Specialist | MSH Americas -  Diot-Siaci Group | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4309064296 |
+| Private Client Advisor / Wealth Advisor /Investment Speciali | TalentSphere Staffing Solutions | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4331865172 |
+| Communications Coordinator - Corporate | RJC Engineers | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4380021863 |
+| Client Support & Engagement Specialist (Part-Time | 100% Rem | BIG Charity Law Group | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=dff5292196e0b874 |
+| Application Support Analyst | Trafigura | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4348952013 |
+| Apptio Developer | Pacer Group | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391087026 |
+| Insurance Specialist | London Drugs | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391091164 |
+| Information Systems Analyst – AI Response Evaluation & Quali | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390494978 |
+| Finance Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390734301 |
+| Software Engineer, Platform Operations | Planet | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4371056736 |
+| Call Center Agent | Cheerwell Business Solutions Ltd. | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=00ad61916c9afdbe |
+| Electrical Associate | Smith + Andersen | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390879386 |
+| Account Coordinator | Concorde Entertainment Group | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390711850 |
