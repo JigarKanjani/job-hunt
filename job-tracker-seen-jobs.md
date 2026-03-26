@@ -279,3 +279,17 @@
 | Personal Banking Associate | BMO | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4389322807 |
 | Associate Lawyer - Labour & Employment | Urban Legal Recruitment Inc. | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390407085 |
 | Document Controller | Mott MacDonald | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390649394 |
+| Team Leader, CrossIron Mills | Saje Natural Wellness | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=6e1b44d88c854ffe |
+| Specialist, Research Assessment | University of Calgary | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=1eeea5b64b986b5a |
+| Graduate Program Advisor, Professional Programs, Faculty of  | University of Calgary | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=c892449be9dde2cb |
+| BIM/VDC Specialist - Buildings Shared Services | Graham Construction | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=aeffb7806e2c52b2 |
+| Senior Advisor, Corporate Finance | City of Calgary | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=7390a863228b7376 |
+| Administrative Assistant - Fully Remote | Mercor | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390682285 |
+| People Operations Administrator - 12 months fixed term (Remo | Collabora | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390689292 |
+| Youth Program Facilitator | YWCA | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=28e119c6b51359b4 |
+| Administrative Coordinator, VP Finance | University of Calgary | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=916b070d65b17818 |
+| Document Controller | Mott MacDonald | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=f96f5e4f89751d9f |
+| Junior Litigation Associate (2–4 Years’ Call) | DWF | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=2c978449dca58508 |
+| Mid-Level Litigation Associate (5+ Year of Call) | DWF | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=2f7aa05a7c22b552 |
+| BIM/VDC Specialist - Buildings Shared Services | Graham | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390685555 |
+| Sales Coordinator - Construction Management | Faber Technologies | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390677629 |
