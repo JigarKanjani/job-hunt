@@ -374,3 +374,35 @@
 | Veterinary Technician Assistant/ Receptionist | Sanctuary Veterinary Hospital | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=5ab8d1a1a6a3c9e7 |
 | New Business Administrator | IDC Worldsource Insurance Network Inc. | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4377926754 |
 | Rental Sales Agent - Part Time | Avis Budget Group | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390746416 |
+| Sales & Operations Coordinator (Frozen Food / CPG) | H & M Food Ltd | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=eb2b318854cab81d |
+| Distribution Coordinator - 1 year term | Saputo | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=16268efe6491a7a6 |
+| Coordinator, Equipment Buyer | Sobeys | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=1097151739febfe2 |
+| PMO Coordinator | nesto | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=b88bbc18b0528451 |
+| Senior Finance Analyst - Energy Construction | Kiewit | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4361909835 |
+| Application Support Analyst - 2610 | Enverus | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4362522328 |
+| Project Coordinator | AFL | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4381190206 |
+| Operations Coordinator, Chemical & Petroleum Engineering | University of Calgary | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391142172 |
+| Senior Financial Analyst | Envirosoft Corporation | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390739624 |
+| Specialist, System Design - Information Technologies | University of Calgary | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4388571865 |
+| Junior Administrator, Residential Mortgage Originations (Ter | nesto | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=370a41443db292bb |
+| Junior Administrator, Residential Mortgage Originations (Ter | Nesto Group | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=e951adbb0418cdd6 |
+| Junior Administrator, Residential Mortgage Administration (T | CMLS | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=59974d75ee63c909 |
+| Music Studio Coordinator | iHuman Youth Society | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=e45eb4bd2127fa08 |
+| INTK-Intake Coordinator | Lifemark Health Group | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4391144545 |
+| Client Advisor, AX Chinook (PT) | Giorgio Armani | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4371302015 |
+| Help Desk Technician | Calgary Catholic School District | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=10978e1262dffb46 |
+| Data Analyst (1-year contract) | Intellifi | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=6754fd44c027b2b7 |
+| Data Analyst (1-year contract) | Nesto Cloud | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=5eab83966330a6d1 |
+| Data Analyst (1-Year Contract) | nesto | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=7e39be28f9670de5 |
+| Delivery Operations Analyst | Nesto Cloud | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=c63d7ff5a5b66cc7 |
+| Delivery Operations Analyst | nesto | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=2b5acbf7a9bbf42b |
+| IT Audit Specialist | Maplesoft Group | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=9552d8a56d582ea2 |
+| Investor Service Specialist - Metals & Mining | Wood Mackenzie | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=9bb27a74bce3aad0 |
+| BI & Analytics Developer | PCL Construction | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=d66ad15ef101fb89 |
+| Integration Developer | PCL Construction | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=49bcd55f9a188d1a |
+| Veterinary Receptionist, Western Veterinary Specialist & Eme | VCA Canada | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=473c7e1a166097ed |
+| Jr. Fund Development & Events Associate | Pregnancy & Infant Loss Support Centre | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=a15f66412a5c0094 |
+| Front Desk Associate, Pavilion Cowork, Calgary | Pavilion Cowork | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390738564 |
+| Junior Administrator, Residential Mortgage Administration (T | CMLS Financial | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391474920 |
+| Advisor, Signature Learning Experiences | University of Calgary | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391131748 |
+| Safety Compliance Coordinator | Environmental 360 Solutions | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390739884 |
