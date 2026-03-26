@@ -321,3 +321,12 @@
 | Product Specialist / Electrical Applications Specialist | Eaton | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4378928886 |
 | Financial Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390416777 |
 | Financial and Investment Analyst | Remote | Crossing Hurdles | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390417702 |
+| Inventory Support Co-Ordinator | Motion Asia Pacific | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4381183786 |
+| Procurement Specialist | Remote | Crossing Hurdles | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4371116321 |
+| Financial Advisor - Calgary, AB (18-Month Contract) | Scotiabank | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390499622 |
+| Technical Support Engineer | Server Center Limited | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=47393b245c113011 |
+| Client Support & Engagement Specialist (Part-Time | 100% Rem | BIG Charity Law Group | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=dff5292196e0b874 |
+| Personal Trainer | Canadian Society for Exercise Physiology | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390488745 |
+| Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390865091 |
+| Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4390857579 |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390488674 |
