@@ -406,3 +406,28 @@
 | Junior Administrator, Residential Mortgage Administration (T | CMLS Financial | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391474920 |
 | Advisor, Signature Learning Experiences | University of Calgary | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391131748 |
 | Safety Compliance Coordinator | Environmental 360 Solutions | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4390739884 |
+| Project Coordinator | Blue Grass | 2026-03-26 | JIGAR | https://ca.indeed.com/viewjob?jk=5f111ae342a688b4 |
+| IT Infrastructure Analyst - Network/Firewall | Graham | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391149712 |
+| Coordinator, Equipment Buyer | Sobeys | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391169105 |
+| Senior Program Coordinator | Ledcor | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4389408014 |
+| Project Coordinator - Buildings | Graham | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4391145824 |
+| IT Support Analyst | Rundle Schools | 2026-03-26 | JIGAR | https://www.linkedin.com/jobs/view/4390772389 |
+| Coverage Office Administrator | CBI HEALTH | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=5736b903cc9ad37d |
+| Information Systems and Security Administrator | SplashDot | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=f251f44950a672d5 |
+| Room Reservations Coordinator | Accor | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=aa31931a6a9226a6 |
+| Room Reservations Coordinator | Fairmont | 2026-03-26 | NEELAM | https://ca.indeed.com/viewjob?jk=021ce387998a49bf |
+| Coverage Office Administrator | CBI Health | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4391148777 |
+| Digital Sales Advisor | Westland Insurance Group Ltd. | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4391493763 |
+| Veterinary Receptionist, Western Veterinary Specialist & Eme | VCA Animal Hospitals | 2026-03-26 | NEELAM | https://www.linkedin.com/jobs/view/4390776404 |
+| Data Analyst (1-Year Contract) | Nesto Group | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=c06f00419b9714c9 |
+| Business Solutions Analyst | DOMAINE | 2026-03-26 | XYZ | https://ca.indeed.com/viewjob?jk=518307ed3d1c37d2 |
+| Apptio Developer- 2-3 days a week Onsite at Calgary, AB - Ne | Q1 Technologies, Inc. | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391478536 |
+| Technical Trainer I | Nabors Industries | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4375980455 |
+| Remote AI Quality Analyst (Korean) - 62135 | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391178192 |
+| Remote AI Quality Analyst (Korean) - 62135 | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391182052 |
+| Remote Software Developer | Turing | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391121769 |
+| Healthcare Systems Expert - Fully Remote | Upto $120/hr Hour | Mercor | 2026-03-26 | XYZ | https://www.linkedin.com/jobs/view/4391176303 |
+| Veterinary Assistant/Receptionist | Calgary Cat Clinic | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=90fa534b220f3e4d |
+| LiDAR Specialist | Measurement Sciences Inc | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=6b2ff3881949755d |
+| Claims Associate | BFL CANADA | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4387503572 |
+| Jr. Fund Development & Events Associate | Pregnancy & Infant Loss Support Centre | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391902395 |
