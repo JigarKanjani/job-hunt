@@ -504,3 +504,13 @@
 | Dental Receptionist | Shawnessy Dental | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=34b97d74c6c3e25b |
 | Coordinator Marketing | Norton Rose Fulbright | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391542012 |
 | Specialist, Indirect Tax | KPMG Canada | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391516946 |
+| Development Coordinator | Stars | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=9e1f9ab402e6add4 |
+| Coordinator, Environmental Programs | Calgary Airport Authority | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=670bd919df838ac1 |
+| Sr Advisor, Procurement Systems - Calgary, AB or Saskatoon,  | Nutrien | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4391994853 |
+| Coordinator, Leaves - Calgary, AB or Saskatoon, SK | Nutrien | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4392201660 |
+| Coordinator, Benefits - Calgary, AB or Saskatoon, SK | Nutrien | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4392213026 |
+| Coordinator, Accounting Insurance Support | Calgary Airport Authority | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=29f9c435ea3c7694 |
+| AI/IT Communications Coordinator | Rogers Communications | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4390799642 |
+| Talent Acquisition Specialist | Passion Dental Group | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=522fa11b9f9db49a |
+| Program Analyst | JSG (Johnson Service Group, Inc.) | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4388976400 |
+| Development Coordinator | STARS | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391533299 |
