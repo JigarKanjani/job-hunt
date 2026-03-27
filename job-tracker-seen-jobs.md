@@ -489,3 +489,18 @@
 | BIM/VDC Specialist - Buildings Shared Services | Graham | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391520131 |
 | Accounts Receivable Specialist | Hays | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391350390 |
 | Technical Records Controller | WestJet | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391398558 |
+| Operations Coordinator, Chemical & Petroleum Engineering | University of Calgary | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=7c2341fae4c10bcb |
+| Advisor, Signature Learning Experiences | University of Calgary | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=9ed3c082b80e22ad |
+| Business Local Economy Analyst | City of Calgary | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=3c45029d80ecb238 |
+| PMA Audit Specialist | Rockwell Automation | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=0067868f6c48cddb |
+| Mining Camp Leader - Yukon | G Services Miniers | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=f826613fd748dc87 |
+| Lead Hand | Intelcom | Dragonfly | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=acd8ad82072157ff |
+| Senior Contract Manager | Fluor Corporation | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4391516915 |
+| Fleet Coordinator | The Town of CAnmore | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=6e15303d25554a28 |
+| IT Infrastructure Administrator | Badger Daylighting Inc. | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=5936407a2389a03d |
+| IT Infrastructure Administrator | Badger Daylighting Inc. | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=215cde68b22c66af |
+| Apptio Developer | Viva Tech Solutions | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391528154 |
+| Underwriting Specialist, Construction | Northbridge Financial Corporation | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4329053282 |
+| Dental Receptionist | Shawnessy Dental | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=34b97d74c6c3e25b |
+| Coordinator Marketing | Norton Rose Fulbright | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391542012 |
+| Specialist, Indirect Tax | KPMG Canada | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391516946 |
