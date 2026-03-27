@@ -514,3 +514,12 @@
 | Talent Acquisition Specialist | Passion Dental Group | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=522fa11b9f9db49a |
 | Program Analyst | JSG (Johnson Service Group, Inc.) | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4388976400 |
 | Development Coordinator | STARS | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391533299 |
+| Coordinator, Environmental Programs | Calgary Airport Authority | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=8fe92dd65bd89828 |
+| Information Management Analyst | Primary Care Alberta | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=a619fc6c7324a939 |
+| Senior Advisor, Events & Project Management | Covenant Health Canada | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=902706467c9855c5 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=5189ed5611672344 |
+| Senior Program Manager | JSG (Johnson Service Group, Inc.) | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4385282513 |
+| Fleet Coordinator | The Town of CAnmore | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=656bcb6a7a0765ca |
+| Software Developer | Autodesk | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390925265 |
+| TOGO Specialist | Olive Garden Canada | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391559111 |
+| Administrative Support III, Immunization Booking – Health Li | Primary Care Alberta | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=2fafed592c8ce9ab |
