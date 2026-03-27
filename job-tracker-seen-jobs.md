@@ -566,3 +566,18 @@
 | Microsoft Applications & AI Trainer/Support (French Bilingua | Robert Half | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390951430 |
 | Talent Acquisition Specialist | Passion Dental Group | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390967149 |
 | Onshore Production Technical Specialist | Aon | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4381480867 |
+| Lead Solution Architect, RPA - Information Technologies | University of Calgary | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=57a9731bbce37d9a |
+| Senior Customs Analyst | Cole International | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4204592804 |
+| Senior Program Manager | JSG (Johnson Service Group, Inc.) | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390924504 |
+| Information Technology Business Analyst | Vaco by Highspring | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390964502 |
+| Senior Cybersecurity Analyst | Precision Drilling | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4342812844 |
+| Governance Coordinator | Cornerstone Governance Corporation | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390961485 |
+| Program Analyst | JSG (Johnson Service Group, Inc.) | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390913371 |
+| Cybersecurity Consultant - Platform Operations Team | TELUS | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4372538953 |
+| Administrative Assistant | Helical Pile Solutions Ltd. | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4391721434 |
+| Senior Program Manager, Talent Management | Clio | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4390964811 |
+| Senior Program Manager - Financial Management and Planning | TELUS | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4372551160 |
+| AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391701769 |
+| Business Systems Analyst | The Salvation Army in Canada | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391721088 |
+| Customer Service/Receptionist | SPRECOM Inc. | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=4c4a8b0a2be41b34 |
+| Bilingual Associate Group Underwriter | Sun Life | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390961605 |
