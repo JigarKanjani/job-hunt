@@ -539,3 +539,15 @@
 | Coordinator, Accounting Insurance Support | Calgary Airports | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391556845 |
 | Administrative Support III | Alberta Health Services | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390934151 |
 | Coordinator, Environmental Programs | Calgary Airports | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391569602 |
+| SCM Category/Contracts Specialist | Airswift | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4391585106 |
+| Procurement Specialist | Alberta Electric System Operator (AESO) | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4384637033 |
+| Senior Financial Analyst | Alberta Health Services | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390928845 |
+| Financial Systems Support Advisor | TransAlta | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4364951476 |
+| Social Worker | Remote | Crossing Hurdles | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4371754651 |
+| Systems Engineer, Azure Infrastructure | Clio | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4380645022 |
+| Dealer Trainer & Support/Spécialiste de la formation(bilingu | Parkland Corporation | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4368450254 |
+| Functional Analyst, Oracle Cloud Fusion ERP – IT (Remote Wor | RONA | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4371480769 |
+| Data Analyst (Annotation) | 30/hr Remote | Crossing Hurdles | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390910894 |
+| Administrative Support III | Alberta Health Services | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=2c2989dab89380a8 |
+| Receptionist | Primacorp Ventures Inc | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4371643549 |
+| Customer Service Representative | Circle K | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4323054239 |
