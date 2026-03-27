@@ -551,3 +551,18 @@
 | Administrative Support III | Alberta Health Services | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=2c2989dab89380a8 |
 | Receptionist | Primacorp Ventures Inc | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4371643549 |
 | Customer Service Representative | Circle K | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4323054239 |
+| Senior Underwriter/Specialist, Contract Surety | Tokio Marine Canada Ltd. | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4381635688 |
+| Leasing Specialist Summer Student (4-Month Contract) | Avenue Living Residential | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4380616562 |
+| Logistics Sales Executive - 3PL Industry - Calgary, AB Offic | Fuze Logistics Services Inc | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4104166472 |
+| Coordinator, People and Culture | Miller Thomson LLP | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4365528131 |
+| Field Operations Associate | Grainger Canada | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4381663435 |
+| Senior Associate, Strategy & Operations,  Lifecycle | Neo Financial | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4346796537 |
+| Technical Advisor -2678D | Enverus | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4380499783 |
+| Case Manager - Remote (Future Opportunities) | Sentrex Health Solutions | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4280893229 |
+| Social Worker | Remote | Crossing Hurdles | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4371754651 |
+| Développeur logiciels I (stagiaire) - Canada / Software Deve | Cisco | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4337032267 |
+| End User Support Specialist | Sharp Brains | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4392660456 |
+| Underwriting Specialist, Construction | Northbridge Financial Corporation | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4392664820 |
+| Microsoft Applications & AI Trainer/Support (French Bilingua | Robert Half | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390951430 |
+| Talent Acquisition Specialist | Passion Dental Group | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390967149 |
+| Onshore Production Technical Specialist | Aon | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4381480867 |
