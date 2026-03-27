@@ -523,3 +523,19 @@
 | Software Developer | Autodesk | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390925265 |
 | TOGO Specialist | Olive Garden Canada | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391559111 |
 | Administrative Support III, Immunization Booking – Health Li | Primary Care Alberta | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=2fafed592c8ce9ab |
+| Retail Shift Leader | Canna Cabana | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=422cd1905e85f870 |
+| Retail Shift Leader | Canna Cabana | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=5d61d5400bcfccef |
+| Retail Shift Leader | Canna Cabana | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=cd872e1f8d13cc1b |
+| AI/IT Communications Coordinator | Rogers Communications | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=6dbc1e5397242989 |
+| Supervisor, Logistics & Facillities | ALS | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4380658445 |
+| Install Tech Advisor / Customer Service Representative | PBS Systems | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4392285274 |
+| Infrastructure System Advisor (Coordinator) | Enbridge | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4360547084 |
+| Intern Coordinator | National Bank of Canada | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4392286180 |
+| Marketing Coordinator (Marketing Department) | Fasken | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4371326481 |
+| Service Now Developer | KPMG Canada | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4381927909 |
+| Data Analyst (Annotation) | 30/hr Remote | Crossing Hurdles | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4390910894 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=c9f8af0204a5d60b |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=0854f96cf852af59 |
+| Coordinator, Accounting Insurance Support | Calgary Airports | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391556845 |
+| Administrative Support III | Alberta Health Services | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390934151 |
+| Coordinator, Environmental Programs | Calgary Airports | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391569602 |
