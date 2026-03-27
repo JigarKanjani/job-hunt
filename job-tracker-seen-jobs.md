@@ -581,3 +581,37 @@
 | Business Systems Analyst | The Salvation Army in Canada | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391721088 |
 | Customer Service/Receptionist | SPRECOM Inc. | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=4c4a8b0a2be41b34 |
 | Bilingual Associate Group Underwriter | Sun Life | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4390961605 |
+| Corporate Pricing Coordinator | Imperial Dade | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=0afda8da591c1fe1 |
+| Intermediate Buyer | Worley | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=930aefef642bac17 |
+| Policy Development Coordinator | SAITSA | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=36cf008061689fe8 |
+| Analyst, Global Transaction Banking, Corporate Cash Manageme | CIBC | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=16b5241dbad3cef0 |
+| Client Care Coordinator (Wellness Programs) | BeDoWell.Life | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=cfc5c0ab76fc4b6e |
+| Infrastructure Planning Officer | University of Alberta | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=bb2d574f7805813f |
+| Coordinator, Orientation and Transition Programs | University of Alberta | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=89e55461dc622ddc |
+| Program Manager, Convening and Summits | Banff Centre for Arts and Creativity | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=b988ef8909bd5b6b |
+| Technical Specialist - Calgary Branch - Full-time | Encore Global | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=18951191a1953ef2 |
+| AltaGas - Coordinator, Logistics | AltaGas Ltd. | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4390991457 |
+| Office Administrator | REAL Recruitment | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=cf6ea34259de700a |
+| Senior Systems Administrator | PC eSolutions | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=5b3a5f31460be759 |
+| Case Manager - Contract | Bayshore HealthCare | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=838cec15beca6bb5 |
+| Sales Coordinator | MakLoc Buildings Inc | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=62bc1a2b6a6ac5cb |
+| Digital Marketing Specialist | Minto Group Inc. | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=cc369d438d468f8f |
+| Mission Specialist, Land C5ISR | General Dynamics Mission Systems | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=ae25960b2a36b48d |
+| Cost Engineer / Business Intelligence Analyst | Brock Canada | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=1f55c36d7c410c79 |
+| Strategic Platforms Summer Student | Strathcona County | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=4c743a34d8c8fd4e |
+| Specialist - Industrial Technical Support | EECOL Electric | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4363974303 |
+| Go Developer - Fully Remote | Mercor | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391737465 |
+| Remote Software Developer | Turing | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391731921 |
+| C++ Developer - Fully Remote | Mercor | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391729634 |
+| Writing Specialist - Fully Remote | Mercor | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391738460 |
+| Rust Developer - Fully Remote | Mercor | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391728655 |
+| Order Entry/Customer Associate | Diversified Electric and Rentals Ltd | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=0cf56e91eff0efee |
+| Assistant to Founder: Customer Service (12 hours per week) | Susi Family | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=c7ce7d0840eaf611 |
+| Business Banking Associate, National Real Estate Group | TD | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=a696f2425c50f9c1 |
+| Sales Associate | GRAVITYPOPE | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=350d65173eec6280 |
+| Client Solutions Receptionist | Litco Law | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4386473059 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4392677565 |
+| Customer Service Associate, Temp | RONA | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391740586 |
+| Research Grants Administrator, Arnie Charbonneau Cancer Inst | University of Calgary | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391754093 |
+| Principal Mathematics Journal Specialist - Technical/Copy Ed | University of Calgary | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391756085 |
+| Event Sales Coordinator (Full Time 12 Month Coverage) | Hyatt Regency | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391726810 |
