@@ -460,3 +460,32 @@
 | Junior Accounting Associate | Frontier Lodging Solutions | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=1417176c38b041ba |
 | Clerk Deli -Reg. PTU | Safeway Canada | 2026-03-26 | ABC | https://ca.indeed.com/viewjob?jk=19ca17486ef52c07 |
 | Clerk Deli -Reg. PTU | Sobeys | 2026-03-26 | ABC | https://www.linkedin.com/jobs/view/4391909975 |
+| Events & Sponsorship Coordinator | Alberta Mortgage Broker's Association (A | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=fbd823063ae72229 |
+| Customer Service Lead | Glacier Ridge Residents Association | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=7322deab2a672b41 |
+| Senior Contract Manager | Fluor Corp. | 2026-03-27 | JIGAR | https://ca.indeed.com/viewjob?jk=9b66827c19c08759 |
+| Supplier Onboarding & Procurement Support Coordinator | Procom | 2026-03-27 | JIGAR | https://www.linkedin.com/jobs/view/4391925888 |
+| MEC-Medical Coordinator | Lifemark Health Group | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=72ab1df9536b6104 |
+| Administrative Assistant/HR Coordinator | T.D. Williamson, Inc. | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=6efdde4755101bef |
+| office coordinator | out of school care | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=99766fa62085bf2d |
+| Full-Time Temporary Division Inclusive Education Coordinator | Peace River School Division | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=0a38c60f491839a2 |
+| Patient Experience Coordinator / MOA- Legacy Location. | Revital Health Inc | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=850d6ecb219ab434 |
+| Medical Office Administrator | Lifemark Health Group | 2026-03-27 | NEELAM | https://ca.indeed.com/viewjob?jk=87e598e887fff645 |
+| MEC-Medical Coordinator | Lifemark Health Group | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4391503323 |
+| Administrative Assistant Regular Full Time (MN AA1 1.00) Age | AgeCare | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4391948028 |
+| Client Solutions Advisor - MacLeod Centre, Calgary, Alberta | Scotiabank | 2026-03-27 | NEELAM | https://www.linkedin.com/jobs/view/4374632686 |
+| technical support agent | Server Center Limited | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=456c990bcc3e4e63 |
+| Analyst Windows Systems Administrator | Trillium Health Partners | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=ee323d0c6e4f877d |
+| Technical Trainer - Welding | Modine Manufacturing Company | 2026-03-27 | XYZ | https://ca.indeed.com/viewjob?jk=2efe6b26e9a9d9e6 |
+| Software Developer I, Backend (Go/GoLang), Video Pipeline,   | Bell | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4388167305 |
+| Software Developer I, Full Stack, Video Pipeline,  Bell Medi | Bell | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4388173035 |
+| IT Infrastructure Administrator | Badger Infrastructure Solutions | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391953198 |
+| Early Intervention Specialist | Government of Alberta | 2026-03-27 | XYZ | https://www.linkedin.com/jobs/view/4391383476 |
+| Administrative Assistant Regular Full Time (MN AA1 1.00) Age | AgeCare | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=0ab9168fe86c3266 |
+| Administrative Assistant/Receptionist (TEMP) | Wilson Wong Prof Corp | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=73f127cc0e737d62 |
+| Receptionist | MLT Aikins LLP | 2026-03-27 | ABC | https://ca.indeed.com/viewjob?jk=1dbee9eec5aad3f8 |
+| Associate, Audit and Control | Holt Renfrew | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391503325 |
+| Research Grants Officer, Office of Research Services | University of Calgary | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4388588027 |
+| Bilingual Claims Administrator | MSH Americas -  Diot-Siaci Group | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391957041 |
+| BIM/VDC Specialist - Buildings Shared Services | Graham | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391520131 |
+| Accounts Receivable Specialist | Hays | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391350390 |
+| Technical Records Controller | WestJet | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391398558 |
