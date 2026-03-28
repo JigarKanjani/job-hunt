@@ -651,3 +651,24 @@
 | Customer Service Representative | BMO | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391794525 |
 | Associate Consultant, Benefits | BFL CANADA | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4393155294 |
 | Enablement Specialist, Enablement, VP External Relations | University of Calgary | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392020170 |
+| Full Time Sales Lead | Pandora Jewelry | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=7a36745c42905684 |
+| Project Coordinator, Commercial Construction | Executive Flight Centre | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=1e30dcbdf6832271 |
+| Indigenous Career and Academic Advisor | Bow Valley College | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=22468ecbfec429bd |
+| Business Operations Coordinator | Enmax | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=cce9ab7a54b0210b |
+| Lead Electronics Technologists | Department of National Defence Canada | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=c50bf8e79860bdd4 |
+| Senior Product Lead - Supply & Operations Data & Analytics | Parkland Corporation | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=fea3939b956d8689 |
+| Material Coordinator | Q-Line Trucking | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=850df20c98e0f14f |
+| Part Time Sales Lead | Pandora Jewelry | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=0ab72986eaf034d1 |
+| Project Coordinator - Electrical | Barton Malow | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4391766770 |
+| Organizational Effectiveness Specialist (12-Month Contract) | Fasken | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4391230806 |
+| Program Coordinator - Leadership Development Fellowship Prog | Africa Centre | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=f7fee67323f5f627 |
+| Research Grants Administrator, Arnie Charbonneau Cancer Inst | University of Calgary | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=130e33c53231bee1 |
+| Principal Mathematics Journal Specialist - Technical/Copy Ed | University of Calgary | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=9f7d37740f9115f4 |
+| Placement Coordinator - Rehabilitation Services | ProMed HR Solutions | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=be815dd997670630 |
+| Client Data Coordinator | Fasken | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391233706 |
+| Advisor, Financial Reporting | Avenue Living | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4392036170 |
+| Analyst, Benefits Consulting | BFL CANADA | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4393160137 |
+| Sales Associate, Alberta House Building (Calgary) | Anthem Properties | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=9242417b76581286 |
+| Sandbox Agentic Engineer (Remote, CAN) | CrowdStrike | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4393167031 |
+| Associate, Investment Banking (A&D), Energy - BMO Capital Ma | BMO Capital Markets | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392043249 |
+| Data Annotation Specialist, Hindi Writer/Translator | Cohere | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391232264 |
