@@ -679,3 +679,16 @@
 | Administrative Support II | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=da8fcce932a54efb |
 | Administrative Support IV | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=bcb100fbdb55af6a |
 | Administrative Support II | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=0e60a8972ac2a05d |
+| Retail Shift Leader | Canna Cabana | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=937e11508607fbfb |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=931b4ddb4a79edf7 |
+| Civil Field Specialist | HDR | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4321391226 |
+| Supervisor Building Operations | Colliers | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4363986159 |
+| Administrative Assistant | Associated Engineering | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4382146863 |
+| Health and Benefits Financial Analyst | WTW | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4372743455 |
+| Data Program Manager | $45/hr Remote | Crossing Hurdles | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391613311 |
+| Design Coordinator | HDR | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4381055178 |
+| Gartner Analyst - AI’s Impact on HR and the Workforce (Remot | Gartner | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4247796413 |
+| Software Developer – Remote | Quik Hire Staffing | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4392076325 |
+| Associate, Investment Banking (A&D), Energy - BMO Capital Ma | BMO Financial Group | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=0aebc4b5348421e8 |
+| Administrative Support III | Alberta Health Services | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391607288 |
+| Civil Design Technologies Specialist | Langan Engineering & Environmental Servi | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381071386 |
