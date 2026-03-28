@@ -726,3 +726,4 @@
 | LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4380853058 |
 | LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4380842512 |
 | HBA Clerk Part Time Day | Loblaw Companies Limited | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392305490 |
+| Inside Sales Specialist | Rapid 3D Ltd. | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391638355 |
