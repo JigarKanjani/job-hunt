@@ -706,3 +706,7 @@
 | Electrical Construction Administrator | AtkinsRéalis | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=c2006c454c213343 |
 | Lubricants Technical Advisor - West | Shell | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381069448 |
 | Intermediate Customer Onboarding Specialist, Clio Work | Clio | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4372938218 |
+| Logistics Coordinator - Construction Materials | Aecon Group Inc. | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4372056007 |
+| Retail Operations Supervisor | Staples Canada | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4365423405 |
+| Bilingual Patient Care Coordinator (Remote) | Sentrex Health Solutions | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4371575976 |
+| MAS9 Developer (Maximo for Aviation) | IBM | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4380828522 |
