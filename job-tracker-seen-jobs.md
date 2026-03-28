@@ -723,3 +723,6 @@
 | Oracle EPM Enterprise Data Management (EDM / EDMCS) Administ | NTT DATA | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=35863824bdc412df |
 | Medical Office Assistant/Receptionist | PCMC | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=096cd7d5050a3992 |
 | Well Control Specialist (II - III - IV) - Boots & Coots | Halliburton | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=87705483a49f5b53 |
+| LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4380853058 |
+| LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4380842512 |
+| HBA Clerk Part Time Day | Loblaw Companies Limited | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392305490 |
