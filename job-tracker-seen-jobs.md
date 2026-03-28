@@ -615,3 +615,39 @@
 | Research Grants Administrator, Arnie Charbonneau Cancer Inst | University of Calgary | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391754093 |
 | Principal Mathematics Journal Specialist - Technical/Copy Ed | University of Calgary | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391756085 |
 | Event Sales Coordinator (Full Time 12 Month Coverage) | Hyatt Regency | 2026-03-27 | ABC | https://www.linkedin.com/jobs/view/4391726810 |
+| Specialist, Retail & Hospitality Development – Leasing and C | Calgary Airport Authority | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=79a0e39e84f3acba |
+| GIS Coordinator, Alberta | Nature Conservancy of Canada / Conservat | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=c8b5a01faca6acc2 |
+| Client Data Coordinator | Fasken | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=f3807cf3140dc781 |
+| Pricing & Contracts Analyst | Gibson Energy | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=ed6061e4da2e16cc |
+| Health & Safety Coordinator | DV8 Energy | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=60a4c0b5292e2d2c |
+| Senior Product Lead - Supply & Operations Data & Analytics | Parkland Corporation | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=357401fd12737351 |
+| Retail Shift Leader | Canna Cabana | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=e6b219ce89ca7a6c |
+| Retail Shift Leader | Canna Cabana | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=de6192b9f711dc74 |
+| Senior Contracts Specialist (Contingent Workforce) - Referra | Trans Mountain | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4391225829 |
+| Specialist, Retail & Hospitality Development – Leasing and C | Calgary Airports | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4392004246 |
+| Office Administrator/Receptionist | TerraBurst | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=026d39fcdb3c4983 |
+| Art Experiences Program Coordinator-Studio Art & Fine Craft, | City of Edmonton | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=7991c9f209408a08 |
+| Art Experiences Program Coordinator-Culinary Arts & Performi | City of Edmonton | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=15083ac4c39b9e9f |
+| Scheduling coordinator | Home Care | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=7dce245b7b850860 |
+| Project Coordinator | Enbridge | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4393148816 |
+| Property Coordinator | Primaris REIT | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4392772528 |
+| Hygiene/Treatment Coordinator - East Village Dental | 123Dentist | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391229315 |
+| Business Operations Coordinator | ENMAX | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391208930 |
+| Regulatory Case Manager | ENMAX | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391227107 |
+| HRIS Specialist | Servus Credit Union | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4391211438 |
+| Power BI and Network Systems Administrator | Aspen Custom Trailers | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=3039f61dcbacdeaa |
+| Business Systems Analyst | Inovatec Systems Corporation | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=a6bffe75b05b6484 |
+| Business Analyst | Government Of Alberta | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=29e5534e4754302d |
+| AI Analyst | Altis Technology | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4391215844 |
+| Liquidity Analyst | Servus Credit Union | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4391209487 |
+| Financial Systems Analyst (Finance & Planning) | Suncor | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4391794577 |
+| Specialist, Environmental Compliance | Calgary Airport Authority | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=9298d1e4f7bacd38 |
+| Front End Service Clerk (Cochrane) | Calgary Co-operative Association Limited | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=bf473aa74c5537a0 |
+| Dealer Relations Associate | S&P Global | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391221729 |
+| Project Administrator | AFL | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392037108 |
+| Customer Service Associate - Seasonal | RONA | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392015317 |
+| Customer Service Associate - Lumber & Building Materials | RONA | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392014330 |
+| Customer Service Associate - Paint | RONA | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392003511 |
+| Customer Service Representative | BMO | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391794525 |
+| Associate Consultant, Benefits | BFL CANADA | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4393155294 |
+| Enablement Specialist, Enablement, VP External Relations | University of Calgary | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392020170 |
