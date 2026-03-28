@@ -715,3 +715,11 @@
 | Enablement Specialist, Enablement, VP External Relations | University of Calgary | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=d84254a0b0d5ae89 |
 | Customer Experience Associate | TD | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4382159772 |
 | Associate Principal, Mechanical | Introba | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381318434 |
+| Telecommunications Specialist | SPRECOM Inc. | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=e815f43fee768f06 |
+| Procurement Administrator (Parts & Materials) | Boardwalk | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4391644172 |
+| Intermediate Environmental Scientist - Project Coordinator | WSP in Canada | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4323483031 |
+| Project Administrator | AFL | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=bbcbabd76548527a |
+| Integrated Logistics Support Specialist | Raytheon | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=d0b628eaa9f96758 |
+| Oracle EPM Enterprise Data Management (EDM / EDMCS) Administ | NTT DATA | 2026-03-28 | XYZ | https://ca.indeed.com/viewjob?jk=35863824bdc412df |
+| Medical Office Assistant/Receptionist | PCMC | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=096cd7d5050a3992 |
+| Well Control Specialist (II - III - IV) - Boots & Coots | Halliburton | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=87705483a49f5b53 |
