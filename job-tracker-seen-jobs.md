@@ -692,3 +692,17 @@
 | Associate, Investment Banking (A&D), Energy - BMO Capital Ma | BMO Financial Group | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=0aebc4b5348421e8 |
 | Administrative Support III | Alberta Health Services | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391607288 |
 | Civil Design Technologies Specialist | Langan Engineering & Environmental Servi | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381071386 |
+| Operations Coordinator | My Infinite Potential | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4390991115 |
+| Coordinator, External Relations | Northwestern Polytechnic | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=6b53a22365b6da2f |
+| H&M Sales Advisor | H&M | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4336893612 |
+| Wealth Advisor | Talent Edge | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4372241914 |
+| Systems Specialist, FP&A | Clio | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4372934513 |
+| Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4381031013 |
+| Remote Software Developer | Turing | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4392072866 |
+| Remote Software Developer | Turing | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4392081571 |
+| Remote Software Developer | Turing | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4392087313 |
+| Remote Software Developer | Turing | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4392076516 |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=dcc4be3a0cda1291 |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=c2006c454c213343 |
+| Lubricants Technical Advisor - West | Shell | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381069448 |
+| Intermediate Customer Onboarding Specialist, Clio Work | Clio | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4372938218 |
