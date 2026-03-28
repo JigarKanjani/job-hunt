@@ -710,3 +710,8 @@
 | Retail Operations Supervisor | Staples Canada | 2026-03-28 | JIGAR | https://www.linkedin.com/jobs/view/4365423405 |
 | Bilingual Patient Care Coordinator (Remote) | Sentrex Health Solutions | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4371575976 |
 | MAS9 Developer (Maximo for Aviation) | IBM | 2026-03-28 | XYZ | https://www.linkedin.com/jobs/view/4380828522 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=932ffb5b5f856e06 |
+| Program Manager | CoolIT Systems | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4371597434 |
+| Enablement Specialist, Enablement, VP External Relations | University of Calgary | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=d84254a0b0d5ae89 |
+| Customer Experience Associate | TD | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4382159772 |
+| Associate Principal, Mechanical | Introba | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4381318434 |
