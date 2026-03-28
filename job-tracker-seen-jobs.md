@@ -672,3 +672,5 @@
 | Sandbox Agentic Engineer (Remote, CAN) | CrowdStrike | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4393167031 |
 | Associate, Investment Banking (A&D), Energy - BMO Capital Ma | BMO Capital Markets | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392043249 |
 | Data Annotation Specialist, Hindi Writer/Translator | Cohere | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391232264 |
+| Appointment Coordinator - Canyon Creek Toyota | Canyon Creek Toyota | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=b71a2be5d86df1bc |
+| Front Desk Agent | Hotel Arts Group | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=55091ce7ceb532b2 |
