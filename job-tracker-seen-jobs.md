@@ -674,3 +674,8 @@
 | Data Annotation Specialist, Hindi Writer/Translator | Cohere | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391232264 |
 | Appointment Coordinator - Canyon Creek Toyota | Canyon Creek Toyota | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=b71a2be5d86df1bc |
 | Front Desk Agent | Hotel Arts Group | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=55091ce7ceb532b2 |
+| Full Time Sales Lead | Pandora Jewelry | 2026-03-28 | JIGAR | https://ca.indeed.com/viewjob?jk=be89c21988bc68e3 |
+| Coordinator, Administration | Regional Municipality of Wood Buffalo | 2026-03-28 | NEELAM | https://ca.indeed.com/viewjob?jk=cfbd99373935508d |
+| Administrative Support II | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=da8fcce932a54efb |
+| Administrative Support IV | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=bcb100fbdb55af6a |
+| Administrative Support II | Alberta Precision Labs | 2026-03-28 | ABC | https://ca.indeed.com/viewjob?jk=0e60a8972ac2a05d |
