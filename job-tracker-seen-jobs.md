@@ -734,3 +734,11 @@
 | Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392324570 |
 | Software Developer – Remote | Quik Hire Staffing | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392323904 |
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-29 | JIGAR | https://ca.indeed.com/viewjob?jk=8bab094243b46a0f |
+| Canada Materials Manager | Serta Simmons Bedding, LLC | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4365595899 |
+| Coordinator III HR | FedEx Supply Chain | 2026-03-29 | NEELAM | https://www.linkedin.com/jobs/view/4392352172 |
+| Specialist - Strategic Communications | Canadian Blood Services | 2026-03-29 | NEELAM | https://www.linkedin.com/jobs/view/4388534096 |
+| Family Counselor | Remote | Crossing Hurdles | 2026-03-29 | NEELAM | https://www.linkedin.com/jobs/view/4371787145 |
+| Systems Specialist, Finance | Clio | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4372933554 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4371766906 |
+| Intermediate Health, Safety & Environmental Coordinator | EllisDon | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4392344411 |
+| Mechanical & Electrical Coordinator | EllisDon | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4392353137 |
