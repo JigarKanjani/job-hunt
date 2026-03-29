@@ -746,3 +746,4 @@
 | Senior Safety Specialist | ARC Resources Ltd. | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4364551837 |
 | Supplier Quality Specialist | Modine Manufacturing Company | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4337153267 |
 | Product Quality Analyst | Remote | Crossing Hurdles | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4371766906 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-29 | JIGAR | https://ca.indeed.com/viewjob?jk=8ccde70c327e70e9 |
