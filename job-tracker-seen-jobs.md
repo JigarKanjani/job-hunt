@@ -727,3 +727,5 @@
 | LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-03-28 | NEELAM | https://www.linkedin.com/jobs/view/4380842512 |
 | HBA Clerk Part Time Day | Loblaw Companies Limited | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4392305490 |
 | Inside Sales Specialist | Rapid 3D Ltd. | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391638355 |
+| Business Advisor - Glenmore Square, Calgary, AB | Scotiabank | 2026-03-29 | NEELAM | https://ca.indeed.com/viewjob?jk=ae89f3cf32a93f65 |
+| Customer Service Representative | Olympia Tile+Stone Inc. | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4391636486 |
