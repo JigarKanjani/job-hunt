@@ -729,3 +729,6 @@
 | Inside Sales Specialist | Rapid 3D Ltd. | 2026-03-28 | ABC | https://www.linkedin.com/jobs/view/4391638355 |
 | Business Advisor - Glenmore Square, Calgary, AB | Scotiabank | 2026-03-29 | NEELAM | https://ca.indeed.com/viewjob?jk=ae89f3cf32a93f65 |
 | Customer Service Representative | Olympia Tile+Stone Inc. | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4391636486 |
+| Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392323617 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392326619 |
+| Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392324570 |
