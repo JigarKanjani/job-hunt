@@ -742,3 +742,7 @@
 | Product Quality Analyst | Remote | Crossing Hurdles | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4371766906 |
 | Intermediate Health, Safety & Environmental Coordinator | EllisDon | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4392344411 |
 | Mechanical & Electrical Coordinator | EllisDon | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4392353137 |
+| Artificial Intelligence Analyst | Precision Drilling | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4341048022 |
+| Senior Safety Specialist | ARC Resources Ltd. | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4364551837 |
+| Supplier Quality Specialist | Modine Manufacturing Company | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4337153267 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4371766906 |
