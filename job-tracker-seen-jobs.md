@@ -733,3 +733,4 @@
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392326619 |
 | Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392324570 |
 | Software Developer – Remote | Quik Hire Staffing | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392323904 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-29 | JIGAR | https://ca.indeed.com/viewjob?jk=8bab094243b46a0f |
