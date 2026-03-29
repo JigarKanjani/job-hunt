@@ -752,3 +752,5 @@
 | Production and Sales Associate | Evoked | 2026-03-29 | ABC | https://ca.indeed.com/viewjob?jk=bf234b5cd45c39f0 |
 | Wealth Advisor (Winnipeg & Multiple locations available) | Fidelity Canada | 2026-03-29 | NEELAM | https://www.linkedin.com/jobs/view/4345970648 |
 | Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-03-29 | ABC | https://www.linkedin.com/jobs/view/4392355818 |
+| Senior Tax Analyst | Flair Airlines | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4391684292 |
+| Technical Support Specialist | WEED-IT Canada | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4391698210 |
