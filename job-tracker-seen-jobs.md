@@ -732,3 +732,4 @@
 | Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392323617 |
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392326619 |
 | Systems & Controls Accountant | Canonical | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392324570 |
+| Software Developer – Remote | Quik Hire Staffing | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4392323904 |
