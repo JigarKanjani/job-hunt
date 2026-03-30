@@ -755,3 +755,5 @@
 | Senior Tax Analyst | Flair Airlines | 2026-03-29 | JIGAR | https://www.linkedin.com/jobs/view/4391684292 |
 | Technical Support Specialist | WEED-IT Canada | 2026-03-29 | XYZ | https://www.linkedin.com/jobs/view/4391698210 |
 | HBA Clerk Part Time Evening | Loblaw Companies Limited | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392373604 |
+| Reception / Administrative Coordinator | Alberta Vinyl Decking & Railing Ltd. | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=ba1bcb966b07d985 |
+| HR Administrator | Contractor Staffing Source | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=8be6ec8f78a2d4ed |
