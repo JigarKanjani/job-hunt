@@ -764,3 +764,7 @@
 | Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395029068 |
 | Statistical Specialist | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395007967 |
 | Partner Administrative Assistant | KPMG | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=c90d954f6924697a |
+| Relief Complex Needs Community Support Worker | Calgary Alternative Support Services | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=783730feccc0de7c |
+| IT Infrastructure Process & Controls Specialist | Compugen Inc | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4391809319 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395029068 |
+| Calgary Office – CPA Opportunities– Full Time – September 20 | KPMG Canada | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4382927804 |
