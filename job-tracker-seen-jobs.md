@@ -771,3 +771,18 @@
 | AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392900444 |
 | Geological Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4372094223 |
 | Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392907532 |
+| Business Analyst | Freehold Royalties Ltd | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4391852794 |
+| Operations Supervisor | CTDI | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4395063046 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392917225 |
+| Business Analyst, Operational Excellence | The Salvation Army in Canada | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392915259 |
+| IT Support Specialist - Remote | BAI Solutions Inc | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=00c24b2bdc4cc0d9 |
+| Client Success Analyst | N3xt | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=804a4acefc8088de |
+| Développeur logiciels II (à temps plein) – Canada/Software D | Cisco | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4337211483 |
+| Global Cybersecurity Policies and Standards Analyst, Deloitt | Deloitte | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4280418494 |
+| Channel Systems Engineer 2 | Palo Alto Networks | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395066159 |
+| Go Developer | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4369832934 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392905789 |
+| Software Developer – Remote | Quik Hire Staffing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392919673 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392913995 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392921810 |
+| Accounts Payable Administrator | Aplin | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392922751 |
