@@ -786,3 +786,19 @@
 | Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392913995 |
 | Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392921810 |
 | Accounts Payable Administrator | Aplin | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392922751 |
+| Civil Substation Lead Engineer | CIMA+ | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=8a4c6192ddaff79f |
+| Specialist - Industrial Automation | EECOL | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=baa7c2b858442a1b |
+| Business Development Specialist | Pembina Pipeline Corporation | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=e46fd0bd55290754 |
+| Program Manager, Patient Support Programs (15 Month Contract | McKesson | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=b32ca262190a49e1 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=5352d1417f041e3f |
+| Recruiting Specialist | Spectrum Resource Group | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4395058950 |
+| Billing Coordinator | Hytorc | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=69050d46fbe0af80 |
+| Administrative Assistant to Chief Pilot - Temporary | AirSprint Private Aviation | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4391872663 |
+| HR Coordinator | InterPro Pipe + Steel | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392939603 |
+| Channel Systems Engineer 2 | Palo Alto Networks | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=187d2bb5ad4dd315 |
+| DBA / Database Analyst (SPARC / Sybase) | TITEC INC. | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392947176 |
+| Go Developer | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4369832934 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392940135 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392924979 |
+| Client Support Specialist | Windmill Microlending | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392918954 |
+| Specialist, Research Assessment | University of Calgary | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4390389994 |
