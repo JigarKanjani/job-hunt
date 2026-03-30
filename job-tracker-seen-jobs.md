@@ -757,3 +757,10 @@
 | HBA Clerk Part Time Evening | Loblaw Companies Limited | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392373604 |
 | Reception / Administrative Coordinator | Alberta Vinyl Decking & Railing Ltd. | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=ba1bcb966b07d985 |
 | HR Administrator | Contractor Staffing Source | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=8be6ec8f78a2d4ed |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=4c97189324049dc1 |
+| Partner Administrative Assistant | KPMG Canada | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4395008654 |
+| Deskside Support Analyst-Onsite | Compugen Inc | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395035030 |
+| IT Infrastructure Process & Controls Specialist | Compugen Inc | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4385611414 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395029068 |
+| Statistical Specialist | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395007967 |
+| Partner Administrative Assistant | KPMG | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=c90d954f6924697a |
