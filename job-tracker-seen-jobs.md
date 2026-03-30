@@ -802,3 +802,40 @@
 | Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392924979 |
 | Client Support Specialist | Windmill Microlending | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392918954 |
 | Specialist, Research Assessment | University of Calgary | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4390389994 |
+| Lead Cook, Compass Group Canada, Calgary, AB | Compass Group | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=68042d08ee76e4ff |
+| Operations Supervisor,Compass Group Canada, Calgary, AB | Compass Group | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=034b84c84ae584ab |
+| IT Security Analyst | Harbor | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=dc727dbce94990a8 |
+| Senior Operational Buyer | HelloFresh | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=354fe365ede7395a |
+| Customer Business Development Coordinator - Montreal | Revlon Corporate | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=a3f5147873ec39a8 |
+| Project Controls Analyst - Michels Canada | Michels | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=7a10c1f880322598 |
+| Social Media and Community Specialist | PurposeMed | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=a9553bb29b775168 |
+| IT Operations Specialist | Alpaca | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=b83975ed79a0066a |
+| IT Operations Specialist | Alpaca | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=a528459327274cb2 |
+| Material Coordinator | Hays | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392970498 |
+| Office Administrator | S2 Architecture | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=8a669bede8b17578 |
+| Teen Counselor | Centre for Autism Services Alberta | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=dcac425ff3475e29 |
+| ReIntegration Social Worker | The Mustard SEED Society | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=da18180fa45e8124 |
+| Case Manager -Virtual /Part time | Vitality Assessments Group | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=628b73c3b71b7cf2 |
+| Assistant Project Coordinator - Summer Student | CAMDON CONSTRUCTION LTD. | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=426d9464ee7e6516 |
+| Medical Office Assistant & Referrals Coordinator | C J Rudnisky Professional Corporation | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=f9e08426020ea4fc |
+| In Community Program Specialist | Tim Horton's Foundation Camps | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=ae0635942741610e |
+| Legal Administrative Assistant (Corporate) | ZSA Canada | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4391891571 |
+| Senior Security Analyst | McCarthy Tétrault | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392960397 |
+| Senior Case Manager (Remote) | Sentrex Health Solutions | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4391887485 |
+| AI Enablement Analyst (Co-op Student) | CBM IT | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=2de390bb5d92126f |
+| Data Analyst - Finance | Medavie | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=6876ed2701ed1745 |
+| Data Analyst - Finance | Medavie | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=937dc97de5b97f03 |
+| Recruiting Specialist | Wright Canada Holdings | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=b29690065b1c9c8d |
+| Data Analyst / Consultant (Fire / EMS) | Darkhorse Emergency | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=cdea88f47991f7da |
+| IT Operations Specialist | Alpaca | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392953694 |
+| Payroll Specialist & HRIS Implementation Consultant | Promateus Limited | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4391879795 |
+| Administrative Assistant | Calgary Wildlife Rehabilitation Society | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=b4d5c8dfbdbee5b4 |
+| Veterinary Assistant/Receptionist | Sage Hill Animal Hospital | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=5867a0d30d9e0156 |
+| Guest Services Agent | Hilton Garden Inn Calgary Airport | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=c35259fafd4182d3 |
+| CRM & Reporting Specialist | Stars | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=4613ad36d973a794 |
+| Deli Clerk | Italian Centre Shop Calgary | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=3560d16c12cc9f5f |
+| Produce Utility Clerk (High River) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=7921c77b243060b0 |
+| Bakery Utility Clerk (Macleod Trail) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=dd5d7a8bd076620d |
+| Produce Utility Clerk (Midtown Market) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=33c3677b88640748 |
+| Deli Utility Clerk (Shawnessy) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=e1ec7a67cead5ddc |
+| Product Specialist | CGS Immersive | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=bc3a29e8e5ec74ed |
