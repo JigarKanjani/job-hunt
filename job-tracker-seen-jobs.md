@@ -839,3 +839,37 @@
 | Produce Utility Clerk (Midtown Market) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=33c3677b88640748 |
 | Deli Utility Clerk (Shawnessy) | Calgary Co-operative Association Limited | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=e1ec7a67cead5ddc |
 | Product Specialist | CGS Immersive | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=bc3a29e8e5ec74ed |
+| HR & Recruitment Advisor | ATCO | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=444f71474a417c69 |
+| Content Editor and Media Coordinator | Foothills Group Inc. | 2026-03-30 | JIGAR | https://ca.indeed.com/viewjob?jk=2b288ec17fc556f4 |
+| Junior Project Coordinator | Raise | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392991263 |
+| Project Coordinator | Gescan | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4395161042 |
+| Buyer | Cornerstone Building Brands | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4381761024 |
+| Operations Administrator | Embold | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392102248 |
+| Clinical Talent Acquisition Specialist | ML6 Search + Talent Advisory | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4393163108 |
+| Installs Coordinator - PT | RONA | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392998264 |
+| Accounting Software Implementation Project Coordinator | Callow & Associates Management Consultan | 2026-03-30 | JIGAR | https://www.linkedin.com/jobs/view/4392995674 |
+| Youth Development Coordinator | McMan Youth, Family and Community Servic | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=bcaeffd31149be43 |
+| Day Camp Coordinator | Town of Slave Lake | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=c1db1fa9be15a842 |
+| Communications Coordinator | Municipal District of Lesser Slave River | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=4a73da761f476b22 |
+| Clinical Social Worker | I Have A Chance Support Services Ltd | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=ec9dbe0dcf35ac0a |
+| Intermediate Documentation Specialist | Omega 365 | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=bb80af6ee1650476 |
+| Client Care Coordinator | In Good Nutrition | 2026-03-30 | NEELAM | https://ca.indeed.com/viewjob?jk=bdfa6aa003140566 |
+| Administrative Assistant | UPS | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392110221 |
+| Administrative Assistant | UPS | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392108237 |
+| Administrative Assistant | UPS | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392108231 |
+| Senior Global Benefits Specialist | Clio | 2026-03-30 | NEELAM | https://www.linkedin.com/jobs/view/4392113011 |
+| Master Project Controls Specialist | Kent | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=920ef68e0415d5e0 |
+| System Analyst (Data Engineer) – Information Technology | Alberta Blue Cross | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=24d242a1f0381425 |
+| Junior Cloud Integration & Support Developer | Simu Tech Group | 2026-03-30 | XYZ | https://ca.indeed.com/viewjob?jk=f79801ec7a2b7083 |
+| CRM & Reporting Specialist | STARS | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4393200220 |
+| Payroll Coordinator | Airswift | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395146776 |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=06fdd7de0caba4a0 |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=69274148005e84ac |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=4f7daa1c094687b5 |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=a8903713a4a08614 |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=c72f03eebb43d1fb |
+| Administrative Assistant | UPS | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=a5795cf01256a11a |
+| Quality Control Specialist/Engineer | XSENSOR Technology Corporation | 2026-03-30 | ABC | https://ca.indeed.com/viewjob?jk=f1ebe47543275616 |
+| Customer Service Associate- Lumber | RONA | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392997309 |
+| Member Experience Advisor - Macleod Trail Branch | Servus Credit Union | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4391895735 |
+| Customer Service Associate - Plumbing | RONA | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392996313 |
