@@ -768,3 +768,6 @@
 | IT Infrastructure Process & Controls Specialist | Compugen Inc | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4391809319 |
 | Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4395029068 |
 | Calgary Office – CPA Opportunities– Full Time – September 20 | KPMG Canada | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4382927804 |
+| AI Content Analyst (0 Experience Required) | Peroptyx | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392900444 |
+| Geological Data Analyst | Remote | Crossing Hurdles | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4372094223 |
+| Remote Software Developer | Turing | 2026-03-30 | XYZ | https://www.linkedin.com/jobs/view/4392907532 |
