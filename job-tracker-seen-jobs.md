@@ -938,3 +938,10 @@
 | Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4395567519 |
 | Wealth Experience Associate | ATB Financial | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393276243 |
 | Lounge Service Agent ($18.15/h) YYC | Swissport | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392155275 |
+| Supply Chain Planner | UFA | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=bc819b07fd8c0949 |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392161614 |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392163626 |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392163596 |
+| Operations Coordinator | Western Impact Consulting Inc. | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=b76d62d3e1bb6962 |
+| Specialist - Strategic Communications | Canadian Blood Services | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393266990 |
+| Sales Associate Full Time - Southcentre Mall | WOW! mobile boutique | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392172295 |
