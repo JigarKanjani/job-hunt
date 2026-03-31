@@ -909,3 +909,32 @@
 | Managed Print Sales Specialist | HP | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393228021 |
 | Associate, Corporate (Energy) | Bennett Jones | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4337814244 |
 | Marketing Specialist | Gescan | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4395155899 |
+| IT Infrastructure Analyst - Network/Firewall | Graham Construction | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=ffc95090c621b1f1 |
+| Project Coordinator | 30 Forensic Engineering | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=6834e3ad4b5d151b |
+| Administrative Coordinator, People & Culture | University of Calgary | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=9e72042c861702a0 |
+| Research Coordinator, Alberta Children's Hospital Research I | University of Calgary | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=4134d45158d00b4a |
+| Mortgage Specialist | BMO Financial Group | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=c2c93ac0b9209b01 |
+| Program Administrative Analyst | City of Calgary | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=530f85609ba5b377 |
+| Hiring * Program Manager for HELP Outreach | Alpha House Society | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=7fb0122e5a8072d0 |
+| Team Lead - Home & Gift | Bass Pro Shops | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=702517f7610c2b7e |
+| Supply Chain Planner | UFA | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392161437 |
+| Analyst Relations Lead | Kinaxis | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393269213 |
+| Orthodontic Administrator | Dental Care for Children | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=9e0d53376b3aa587 |
+| Senior Security Analyst | McCarthy Tétrault | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=c022d3ae5570d9d0 |
+| Distribution Facilities Maintenance Coordinator | Wonderbrands | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=aebe58635560cd47 |
+| Financial Advisor Wealth Advice Centre (18 Month Term) | ATB Financial | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4390609432 |
+| Finance Analyst- Payroll | City of Calgary | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=da3b6064c84eba3f |
+| Business Intelligence Analyst – Information Technology | Alberta Blue Cross | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=762344fef89e2b75 |
+| Software Engineer – Embedded Systems & Computer Vision | FulcrumAir | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=3043ddf4d279fccc |
+| Finance Analyst | Scandinavian Building Services | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4392170289 |
+| IT Operations Analyst | Suncor | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393251769 |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=b6292509aa0f1d3b |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=d29cd0e3a371b6e6 |
+| Social Program Specialist | City of Calgary | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=1f7aeaa99f783a9e |
+| Clerk - Business Office (CLK-CA68-005) - Bethany Calgary | Bethany Care Society | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=d7a94ea3dc43982a |
+| Personal Banking Associate | BMO Financial Group | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=c410da3f5b991f81 |
+| Front Desk Agent (Part-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392134889 |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392152056 |
+| Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4395567519 |
+| Wealth Experience Associate | ATB Financial | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393276243 |
+| Lounge Service Agent ($18.15/h) YYC | Swissport | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392155275 |
