@@ -956,3 +956,14 @@
 | Sales Associate Full Time - Southcentre Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=f16dcabbe877bdc2 |
 | Sales Associate Full Time - Southcentre Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=f81c11a7dcaf0909 |
 | Sales Associate Full Time - Market Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=01de6e71464e9d29 |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=176de43d5397ebde |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=5837a88b18c31d36 |
+| Retail Shift Leader | Canna Cabana | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=acdf447fa01ae37d |
+| Cyber Security Advisor | Rogers Communications | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=fe9c72b8735f9b34 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=0d9ab148fb4d1e94 |
+| Lead - Transmission and Distribution (T&D), North America | GHD | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4312867868 |
+| Go Developer | Remote | Crossing Hurdles | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4369832934 |
+| Remote Software Developer | Turing | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393522432 |
+| Remote Software Developer | Turing | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393522421 |
+| Alterations Customer Service Representative | David's Bridal | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4373924395 |
+| Costume Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4319936652 |
