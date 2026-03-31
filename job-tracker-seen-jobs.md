@@ -945,3 +945,14 @@
 | Operations Coordinator | Western Impact Consulting Inc. | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=b76d62d3e1bb6962 |
 | Specialist - Strategic Communications | Canadian Blood Services | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393266990 |
 | Sales Associate Full Time - Southcentre Mall | WOW! mobile boutique | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392172295 |
+| Supply Chain Planner | UFA | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=7615ded352bdf1e8 |
+| Procurement Specialist III | Acute Care Alberta | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=9d1d4e8c738b2cba |
+| Functional Analyst, HRMS | Stantec | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=89c8318d27033703 |
+| Senior Analyst | McCANN Canada | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4389320356 |
+| Dayforce Payroll & Implementation Specialist | Procom | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4395546557 |
+| Electronic Security Systems Technician | Southern Alberta Institute of Technology | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=d1da2fadd6a5c262 |
+| Paid Media Analyst | McCANN Canada | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4383964159 |
+| Sales Associate Full Time - Market Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=85144f63717b5057 |
+| Sales Associate Full Time - Southcentre Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=f16dcabbe877bdc2 |
+| Sales Associate Full Time - Southcentre Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=f81c11a7dcaf0909 |
+| Sales Associate Full Time - Market Mall | Wow! Mobile Boutique | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=01de6e71464e9d29 |
