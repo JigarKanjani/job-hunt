@@ -998,3 +998,43 @@
 | REMOTE Project-based roles - Contact Centre Agent | Deloitte | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393566148 |
 | Account Coordinator | RECRUITMENT PARTNERS INC. | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4383461722 |
 | OCM Jr. Advisor / Coordinator | Mindwire Systems Ltd | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392427907 |
+| Canada Growth Leader – Program Management | AECOM | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=1e39faafb2e2dc32 |
+| Logistics Coordinator | TWT Ltd. | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=bcde7f78243c4d8d |
+| Canada Growth Leader – Program Management | AECOM | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=09049ac10229d839 |
+| Site Buyer | CertainTeed | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393934259 |
+| Practicum Coordinator | MaKami College | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393929471 |
+| Senior Crown Royalty Accounting Analyst | Manpower Alberta | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392469466 |
+| Financial and Asset Management Lead Analyst (IT) | Alberta Electric System Operator (AESO) | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392450891 |
+| Lead Electrical Engineer | Airswift | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393900698 |
+| Lead Instrumentation Engineer | Airswift | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393914093 |
+| Lead Electrical Designer | Airswift | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393901636 |
+| Mental Health Support Worker (2025-1452) | Carewest - Innovative Health Care | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=08149eb986b5b26f |
+| Surface Land Area Administrator | Canadian Natural | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=d7aac180eda14a81 |
+| Research Analyst | SAIT Academic Faculty Association | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=c64efc4d722db73e |
+| Career Advisor | Prospect Human Services | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=d6d206fb7aff25fa |
+| Fleet Management Work Coordinator | University of Alberta | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=4ffa7b9e157b71c4 |
+| Missing Murdered Exploited Indigenous Peoples (MMEIP) Coordi | Athabasca Tribal Council | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=1e8833450771e75c |
+| Administrative Assistant | Soho Square Solutions | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4395886504 |
+| Senior Program Manager - Tools & Technology | TELUS | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4382247971 |
+| Senior Global Immigration Coordinator | EY | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4396157458 |
+| Office Administrator | S2 Architecture | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4392449073 |
+| Business Analyst | Zaelab | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=2727ac63e32d4159 |
+| Data Administrator | Calgary Software Developers | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=144e27c7002b3ee9 |
+| Business Analyst, Internal Systems | Hays | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393949063 |
+| Trade Analyst | Government of Alberta | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4392464775 |
+| Data Engineer-Business Intelligence | IBM | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4396152686 |
+| Application Developer-MuleSoft | IBM | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4396169039 |
+| Développeur logiciel I (Full Stack), Video Ingest and Proces | Bell | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4386102042 |
+| Reporting Specialist | Canadian Cancer Society | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4387708659 |
+| Remote Software Developer | Turing | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393938548 |
+| Remote Software Developer | Turing | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393931746 |
+| Administrative Assistant/Receptionist | Commodore Solutions | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=b8db6182613ce1ef |
+| Curriculum Administrative Assistant | SunMETA Group | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=066cd19c6b523c94 |
+| Care Coordinator | Lifemark Health Group | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=fbd8be22036ba589 |
+| Income Tax & Benefits Specialist | Distress Centre Calgary | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=8c68195aa4432b15 |
+| Safety & Experience Coordinator - South (Full Time) | YMCA Calgary | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=499c3653ad5569ce |
+| Customer Service Representative | CLS Landscape Supply | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=3e3c28ba0f6c442f |
+| Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392456970 |
+| Customer Service Representative | Innospec Inc. | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392477022 |
+| Marketing Integration Coordinator [208480] | Aquent | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4383707589 |
+| Clerk SSWCB-PT | Sobeys | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393921646 |
