@@ -1038,3 +1038,28 @@
 | Customer Service Representative | Innospec Inc. | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392477022 |
 | Marketing Integration Coordinator [208480] | Aquent | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4383707589 |
 | Clerk SSWCB-PT | Sobeys | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393921646 |
+| Operations Engineer | Steel Reef Infrastructure Corp | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=1097d7838a4e1ed8 |
+| Business Automations Specialist | Action Furnace | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=9929b211e2122002 |
+| Barracks Member Retention and Systems Coordinator | FitHub YYC | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=f49e3d1321b1c309 |
+| Procurement Administrator | Zen Residential | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=1eaf0870a5c3cd87 |
+| Department Leader (nights) | Princess Auto | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=82383c7ee6c57d86 |
+| Contract Specialist | Burgundy Diamond Mines | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=7eb5dbd00612d033 |
+| Care Coordinator | Lifemark Health Group | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4396158750 |
+| Beauty Advisor - Le Labo | Holt Renfrew | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4396154884 |
+| Operations Engineer | Steel Reef | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393959259 |
+| Sexual Violence Support Counsellor – Police & Court Support  | Calgary Communities Against Sexual Abuse | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=6a255e1707b941f6 |
+| Office Administrator Support | YYC Freight Services | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=a65660fb81b3e4a0 |
+| Field Case Manager | Cencora | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=5943b3c82a3845f1 |
+| Academic Advisor | Mount Royal University | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4396137784 |
+| Mental Health Support Worker (2025-1452) | Carewest Innovative Health Care | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393964569 |
+| Lab Coordinator, Psychology, Faculty of Arts | University of Calgary | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393950806 |
+| Investment Banking Associate/Analyst | Raymond James | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=2e5c3cef0ad0282a |
+| Analyst - Revenue & Pricing | WestJet | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393972049 |
+| Investment Banking Associate/Analyst | Raymond James Ltd. | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393979227 |
+| Corporate Controller | Flair Airlines Ltd. | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=a8b1bb6b2ee307c1 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393945936 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393945935 |
+| Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393963115 |
+| Temporary Administrative Support (Full and Part-time) | University of Calgary | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393967168 |
+| Resource Management, Supervising Associate (Consulting) | EY | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392464118 |
+| Associate Electrical Engineer | SearchLabs | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392467608 |
