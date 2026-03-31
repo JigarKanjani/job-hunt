@@ -967,3 +967,34 @@
 | Remote Software Developer | Turing | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393522421 |
 | Alterations Customer Service Representative | David's Bridal | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4373924395 |
 | Costume Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4319936652 |
+| Claims & Customer Experience Specialist | Obvi Inc. | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=ecb892d96be35620 |
+| Patient Intake Coordinator (Dental Specialty Office) – Part  | North Calgary Dental Specialists Endo-Pe | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=7e4cbede9966c5ee |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=274db576720caf09 |
+| Senior Analyst, Clean Economy | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393548821 |
+| Consultant, Supply Chain & Network Operations - Sourcing & P | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393555709 |
+| procurement manager | Qamaria Yemeni Coffee | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393585970 |
+| Procurement Manager, Indigenous Supplier Engagement, Deloitt | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393549845 |
+| Senior Analyst, Data Modernization & Intelligence,Deloitte G | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393555765 |
+| Analyst or Senior Analyst - Business Data Steward | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393559361 |
+| First Nations/Inuit/Métis Candidates: Analyst, AI & Data Tra | Deloitte | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393564275 |
+| Camp Program Coordinator - Edmonton South | Camp STEAM | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=639dc25adcf949cc |
+| Service Coordinator | Jerome's Appliance Gallery | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=a3351254aa185879 |
+| Project Coordinator | EFC Developments Ltd. | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4392422600 |
+| Project and Program Manager, Deloitte Global Tax & Legal | Deloitte | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393549867 |
+| Human Resources Coordinator (Contract) | CoolIT Systems | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4382234035 |
+| Specialist, Payroll (12 Month Contract) | Deloitte | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393569104 |
+| Senior Analyst - Technical, Clean Economy | Deloitte | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393565190 |
+| Senior Analyst, TMT, SR&ED (Pocketed) | Deloitte | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393556480 |
+| Junior Full Stack Developer | Armour Payments | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=6a2abd3bd640b54f |
+| Analyst, Cyber Strategy | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393556411 |
+| Business Development and New Ventures Analyst | Pembina Pipeline Corporation | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393909016 |
+| First Nations/Inuit/Métis Candidates: Business Development A | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393552658 |
+| Land Software Training Specialist | Pandell, an ESG Company | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393566784 |
+| Intermediate Developer- Product Engineering & Development | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393567251 |
+| Developer- Product Engineering & Development | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393559384 |
+| Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393550773 |
+| Consultant - Controls Assurance & Reporting Advisory - New G | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393548819 |
+| Engagement Support Analyst, Audit Central Team | Deloitte | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393563259 |
+| REMOTE Project-based roles - Contact Centre Agent | Deloitte | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393566148 |
+| Account Coordinator | RECRUITMENT PARTNERS INC. | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4383461722 |
+| OCM Jr. Advisor / Coordinator | Mindwire Systems Ltd | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392427907 |
