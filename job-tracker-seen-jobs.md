@@ -873,3 +873,39 @@
 | Customer Service Associate- Lumber | RONA | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392997309 |
 | Member Experience Advisor - Macleod Trail Branch | Servus Credit Union | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4391895735 |
 | Customer Service Associate - Plumbing | RONA | 2026-03-30 | ABC | https://www.linkedin.com/jobs/view/4392996313 |
+| Project Coordinator | 30 Forensic Engineering | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=dc4ae06f72383a98 |
+| Logistics Coordinator Afternoon Shift 3:00 pm to 11:30 pm | Transload Logistics Corp | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=131273eb50e0cb0b |
+| Senior Financial Analyst, Accounting | Neo Financial | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=735be5c581329a18 |
+| procurement manager | Qamaria Yemeni Coffee | 2026-03-31 | JIGAR | https://ca.indeed.com/viewjob?jk=6d36e63e145ff008 |
+| Material Coordinator | NES Fircroft | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392137231 |
+| Supply Management Lead | Canadian Natural Resources Limited (CNRL | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4387766059 |
+| HR Systems Specialist (1 Year Contract) | EY | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4392140428 |
+| Administrator, Inventory Control | Sobeys | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393248662 |
+| SAP HR/Payroll (Business Acceptance Analyst) | Canadian Blood Services | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393227603 |
+| Appointment Coordinator (Macleod Trail Toyota) | Go Auto | 2026-03-31 | JIGAR | https://www.linkedin.com/jobs/view/4393238099 |
+| Financial Advisor | RBC | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=0694b1e9d54da8e5 |
+| Supply Group Administrator | McAsphalt Industries | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=56fe9b02b881f383 |
+| Claims Coordinator 11 | Finning | 2026-03-31 | NEELAM | https://ca.indeed.com/viewjob?jk=2b74901c479cf280 |
+| Program Manager, Data Application and AI Security | Canadian Tire Corporation | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393244317 |
+| Client Services Coordinator | ParaMed Home Health Care | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393208634 |
+| Financial Advisor | RBC | 2026-03-31 | NEELAM | https://www.linkedin.com/jobs/view/4393231989 |
+| IT Operations Analyst | Suncor Energy | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=0ea689019e108779 |
+| IAM Technical Specialist | KPMG | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=d9367c9a1bbf1488 |
+| Quality Assurance Analyst (Canada) | 360training.com | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=35990b14c0ecb2f0 |
+| Systems Administrator (Shift - 11 AM to 8 PM EST) | Thrive | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=a5ae357e58773e84 |
+| Cloud Security Developer | Coveo | 2026-03-31 | XYZ | https://ca.indeed.com/viewjob?jk=a73fcb86dbed82be |
+| Business Development and New VenturesAnalyst | Pembina Pipeline Corporation | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4393228240 |
+| Developer, Analyst | Canadian Natural Resources Limited (CNRL | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4387752544 |
+| Social Media Insight Analyst- International Remote | ICUC | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4359131071 |
+| Software Developer I (Full Stack), Video Ingest and Processi | Bell | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4387944337 |
+| Technical Support Analyst | Precision Drilling | 2026-03-31 | XYZ | https://www.linkedin.com/jobs/view/4390613914 |
+| Medical Office Assistant/Receptionist | Allergy Clinic | 2026-03-31 | ABC | https://ca.indeed.com/viewjob?jk=9ef9fc2a9da91950 |
+| Home Clerk Part Time Day | Loblaw Companies Limited | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393246765 |
+| Clerk Part Time Day | Loblaw Companies Limited | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393249612 |
+| Liquor Clerk Part Time Day | Loblaw Companies Limited | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393238923 |
+| Personal Banking Associate | BMO | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393265041 |
+| Sales Associate Full Time - Market Mall | WOW! mobile boutique | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392135114 |
+| Mortgage Specialist | BMO | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393257289 |
+| Managed Print Sales Specialist | HP | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393228021 |
+| Associate, Corporate (Energy) | Bennett Jones | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4337814244 |
+| Marketing Specialist | Gescan | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4395155899 |
