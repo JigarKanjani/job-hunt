@@ -1099,3 +1099,20 @@
 | Customer Service Representative | BMO | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394317224 |
 | Planner Scheduler | Adecco | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4392470926 |
 | Investment Advisor Assistant | Canaccord Genuity Group Inc. | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4392480371 |
+| Network Security Analyst | CYBERWELL | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=486b9faa18a23f12 |
+| MAINTENANCE PLANNER | Crown Holdings | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=07c2d901c9ba4a95 |
+| Lab Coordinator, Psychology, Faculty of Arts | University of Calgary | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=a1e0cd273262ce4f |
+| Contract Logistics Customer Service Specialist | Kuehne+Nagel | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394349028 |
+| Transportation Engineer-In-Training | Tetra Tech | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394318721 |
+| Administrative Coordinator | Pitbull Energy Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=374b9c28dcdac775 |
+| Administrative Assistant, Partnerships | City of Calgary | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=8fce8feaf4d41a7f |
+| Funding Administrator | City of Calgary | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=3b4d33c7d9caef2e |
+| Strength & Conditioning Instructor and Personal Trainer (Par | YMCA Calgary | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=ef42320c9cfc561f |
+| Business Analyst (Health) | Vantix Systems Inc | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=e84daafe67c2de6a |
+| Intermediate Developer | WestJet | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394339397 |
+| Customer Service Representative | BMO Financial Group | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=6fff911b3c5bce72 |
+| Calgary Police Service - Social Media Communications Special | City of Calgary | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=c7c065c74b19b20a |
+| Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394317845 |
+| Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394300783 |
+| Garden Clerk Part Time Afternoon | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394315284 |
+| Clerk Deli -Reg. PTU | Sobeys | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394316193 |
