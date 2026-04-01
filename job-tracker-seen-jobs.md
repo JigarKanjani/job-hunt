@@ -1063,3 +1063,39 @@
 | Temporary Administrative Support (Full and Part-time) | University of Calgary | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4393967168 |
 | Resource Management, Supervising Associate (Consulting) | EY | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392464118 |
 | Associate Electrical Engineer | SearchLabs | 2026-03-31 | ABC | https://www.linkedin.com/jobs/view/4392467608 |
+| Fleet Coordinator | Ledcor | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=f296522873a86d15 |
+| Trade Analyst | Government Of Alberta | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=fc9f1ab1c10219cc |
+| Global Category Specialist | Finning | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=1153b3ebd939f03f |
+| Staff Technical Program Manager, Supply | Lime | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=75841c8847c114f4 |
+| MAINTENANCE PLANNER | Crown Holdings, Inc. | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393999042 |
+| Project Coordinator - Telecommunications | Ledcor | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393978650 |
+| Technical Program Manager | Deloitte | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393980668 |
+| Network Security Analyst | CYBERWELL | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4392489057 |
+| Healthcare Business Analyst(EMR/EHR) | NetworkPedia | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4392485741 |
+| Day Options Community Support Worker | Calgary Alternative Support Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=12f6489d321d362e |
+| Service & Warranty Coordinator | Trico Homes | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=93df6b4691f92613 |
+| Accounting Officer | Calgary Catholic School District | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=9f172dead1eecb3d |
+| Client Advisor, Personal Insurance, New Business | Acera Insurance Services Ltd. | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=0f16c2e895bca2b2 |
+| Community Support Worker | new age services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=c8f177f6b64388cb |
+| Senior Program Coordinator | Government Of Alberta | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=d0d8be86843c1200 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-04-01 | NEELAM | https://www.linkedin.com/jobs/view/4392484839 |
+| Public Policy Analyst/ Analyste en Politiques Publiques | Canadian Standards Association | 2026-04-01 | NEELAM | https://www.linkedin.com/jobs/view/4393988624 |
+| Student, IT Systems Management | TransAlta Corporation | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=b6f409b38e865168 |
+| Junior Business Analyst: AI Improvement Focus | Cybertech Automation | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=f5b78b482974d453 |
+| Business Reporting Analyst | Government Of Alberta | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=735e901799fb23c5 |
+| Trade Compliance Regulatory Analyst | TC Energy | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=ee43146f87a30b01 |
+| Student, IT Systems Management | TransAlta | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4393975638 |
+| Trade Compliance Regulatory Analyst | TC Energy | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4396155998 |
+| IT Support Analyst | The Salvation Army in Canada | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4392802032 |
+| Surface Land Area Administrator | Canadian Natural Resources Limited (CNRL | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4392489242 |
+| Learning and Development Trainer, Disability Team | Sun Life | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4392497123 |
+| Media Sales Professional ( Full Commission Agent ) | MegaPixx Media Ltd | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=a10f534e893fc6d6 |
+| Dental Receptionist (Minimum 1+ Years Experience Required) | Jacksonport Dental | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=afe3751b9f055260 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=8db619c3fdb7fd05 |
+| Front End Service Clerk (High River) | Calgary Co-operative Association Limited | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=8ce8f5cf5900b2ec |
+| Produce Utility Clerk (Shawnessy) | Calgary Co-operative Association Limited | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=cd2ef4746565cd75 |
+| Receptionist- Casual | COGIR Real Estate | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393991533 |
+| Guest Service Agent | Pomeroy Lodging | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4396168543 |
+| Customer Service Representative | BMO | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394317224 |
+| Planner Scheduler | Adecco | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4392470926 |
+| Investment Advisor Assistant | Canaccord Genuity Group Inc. | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4392480371 |
