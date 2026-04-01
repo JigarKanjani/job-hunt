@@ -1116,3 +1116,15 @@
 | Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394300783 |
 | Garden Clerk Part Time Afternoon | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394315284 |
 | Clerk Deli -Reg. PTU | Sobeys | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394316193 |
+| Coordinator | Alberta Health Services | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=f82b46833ef52ecd |
+| Staff Software Developer, Operations Research | Kinaxis | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4343668415 |
+| Category Manager - Fresh Food | Shell | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4382481236 |
+| Real Estate Analyst (Residential) | Brookfield Residential | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4382829144 |
+| Alterations Sewing Fitting Specialist | David's Bridal | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4373920521 |
+| Project Management Coordinator | NDT Global | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4374452365 |
+| Events Coordinator | McCarthy Tétrault | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4383852700 |
+| Coordinator II - Business Coordinator | Alberta Health Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=c686217190628a0f |
+| Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=76657a7394f30f54 |
+| Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=11375955b26c8d84 |
+| Clinical Applications Specialist, Ultrasound | GE HealthCare | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4365428013 |
+| Protective Services Officer II | Alberta Health Services | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=05617f8439f165ef |
