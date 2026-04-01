@@ -1164,3 +1164,40 @@
 | Clerk Deli -Reg. PTU | Sobeys | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394933602 |
 | billing coordinator | TEKTELIC | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394696157 |
 | Travel Trade Specialist | Calgary Zoo | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393025554 |
+| Analyst (Ontario & NYISO) | Capital Power | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=52298101ee27b014 |
+| Marketing Coordinator | Genesis Land Development Corp. | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=4e55b7b214f49427 |
+| Community Service Coordinator | St John Ambulance | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=025ae3c55926f207 |
+| Coordinator/Quality Management | Flair Canada | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=8c29ed8c29c03757 |
+| Procurement Specialist - Full-Time (Continuing) | University of Lethbridge | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=abd9069a84ad4748 |
+| Administrative Coordinator, People & Culture | University of Calgary | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393201887 |
+| Analyst, IT Business -Information Technologies | University of Calgary | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394965853 |
+| Philanthropy Officer | Alzheimer Calgary | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393021883 |
+| Associate, Inventory | Loblaw Companies Limited | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394961215 |
+| Operational Excellence Specialist (Remote) | Staples Canada | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394946688 |
+| Worksite Safety Coordinator | Alliance construction safety solutions | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=f88b3d5a64296149 |
+| Junior Estimator/Coordinator | Kang Construction Ltd. | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=218f9ec57b5593cb |
+| General Staff- Outdoor Community worker | RadiCare Ventures | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=b1cf78915f26babb |
+| Customer Service Administrator | ColdFront | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=c064109c7f0da29d |
+| Branch Administrator | Chubb Fire & Security Canada Corporation | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=b4c1199ffb0f612a |
+| Mental Health Program Coordinator | Africa Centre | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=74c9e349a1723a63 |
+| Seasonal Junior Recruitment Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=387f73b2b3d90f0e |
+| Seasonal Junior Recruitment Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=4be6105c9823ca1a |
+| Seasonal Junior Recruitment Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=160bb4d6b9704bc9 |
+| Seasonal Junior Recruitment Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=9312032ad860cafb |
+| Billing and Field Ticket Administrator | ProTorque Energy Companies | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=f57c301815d63cce |
+| Threat Intelligence Analyst, Global | PwC Canada | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=98be94c2969554cf |
+| Intermediate Contract Administrator – Mining Projects | Worley | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394985082 |
+| Rust Developer - Fully Remote | Mercor | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394985043 |
+| Security Analyst - Fully Remote | Mercor | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394973693 |
+| Literature Specialist - Fully Remote | Upto $35/hr Hourly | Mercor | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394976436 |
+| AI Solutions Developer - Fully Remote | Mercor | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394971830 |
+| Full Time - Front Desk Receptionist | AM Accountants CPAs | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=e0ebfb2a298efc87 |
+| Front Desk & Building Liaison | Inn from the Cold | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=0911bdeeeb1d6669 |
+| Sales Associate (full-time) | Maple Craft Inc. | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=2a8ae22b12713d17 |
+| Associate, Corporate Client Group - Credit Management | RBC | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=793f69f00ae91e26 |
+| Associate Wealth Advisor | WealthCo | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=c4c418106203c56b |
+| Receptionist I (2025-1576) | Carewest Innovative Health Care | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394994014 |
+| Medical Office Administrator | CBI Health | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394983375 |
+| Customer Experience Associate | TD | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394982021 |
+| Research Coordinator, Alberta Children's Hospital Research I | University of Calgary | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393210231 |
+| Clinical Knowledge Coordinator - Faculty of Nursing | University of Calgary | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394980074 |
