@@ -1128,3 +1128,39 @@
 | Administrative Support IV - Volunteer Coordinator | Alberta Health Services | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=11375955b26c8d84 |
 | Clinical Applications Specialist, Ultrasound | GE HealthCare | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4365428013 |
 | Protective Services Officer II | Alberta Health Services | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=05617f8439f165ef |
+| Program Coordinator ArtRecruits | Prospect Human Services | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=97002351b30a83b7 |
+| Project Coordinator / Construction/ Interior Finishing | Gunthers Building Center | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=0207679f26bff1a4 |
+| Financial Analyst - Corporate Accounting | Cenovus Energy | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=2b13fe8fa2d821ed |
+| Payables Coordinator | Omega 365 | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=39f9fbc030f2ebee |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-01 | JIGAR | https://ca.indeed.com/viewjob?jk=b3bf0227a5d4977c |
+| GTM & Enablement Specialist | TTTECH | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394938072 |
+| Senior Business Intelligence Analyst | Clio | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393035552 |
+| Senior Crown Royalty Analyst | Raise | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4394933906 |
+| Senior Analyst, Homeowner Operations | Canada Mortgage and Housing Corporation  | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4379983895 |
+| Lead Project Engineer | VIYA Environmental | 2026-04-01 | JIGAR | https://www.linkedin.com/jobs/view/4393041463 |
+| Medical Office Administrator | CBI HEALTH | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=effbc04e720ba9b3 |
+| Health Care Assistant Coordinator(Hybrid) | ABM College | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=c648dabba386355d |
+| Student and Learner Experience Coordinator - Full-time | VON Canada | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=2d4db68588f247c8 |
+| Student and Learner Experience Coordinator - Full-time | VON Canada | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=66ae9cc09817baba |
+| occupational health and safety coordinator | ADVANCE | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=b7b2cdf95ee9c197 |
+| Follow-Up Support Worker, Full-time - Intensive Case Managem | The George Spady Society | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=91bba5e9653d8209 |
+| EAP Case Manager | Lyra Health | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=5208d956abb6a739 |
+| Landlord Engagement Coordinator | Bissell Centre | 2026-04-01 | NEELAM | https://ca.indeed.com/viewjob?jk=51d08b15996ec140 |
+| Senior Program Manager - Multi Tenant Build Program Governan | TELUS | 2026-04-01 | NEELAM | https://www.linkedin.com/jobs/view/4373044318 |
+| Production Housing Administrative Assistant | Wiehler Mechanical Ltd | 2026-04-01 | NEELAM | https://www.linkedin.com/jobs/view/4394695410 |
+| Research Analyst | Bissell Centre | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=cdb28fe816179ea8 |
+| Office Administrator | Lavergne Construction (1988) Ltd  | 2026-04-01 | XYZ | https://ca.indeed.com/viewjob?jk=236d4b338fe14346 |
+| Structural and Systems Installation Designer | De Havilland Aircraft of Canada Limited | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394947461 |
+| Remote Software Developer | Turing | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394930885 |
+| Software Developer – Remote | Quik Hire Staffing | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394920269 |
+| Remote Software Developer | Turing | 2026-04-01 | XYZ | https://www.linkedin.com/jobs/view/4394939623 |
+| Administrative Assistant (Summer Student - temporary role) | Wedgewoods | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=271538c9b25d07cc |
+| Front Desk Agent | Days Inn Calgary NW | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=c5a7513de6695442 |
+| Associate, Philanthropy | Canadian National Institute for the Blin | 2026-04-01 | ABC | https://ca.indeed.com/viewjob?jk=59448adc52029e6a |
+| Fund Development Associate | SET Advisors Inc. | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393029933 |
+| Associate, Order Confirmation | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394937496 |
+| Infrastructure Specialist | Rogers Communications | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4384292014 |
+| Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394935571 |
+| Clerk Deli -Reg. PTU | Sobeys | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394933602 |
+| billing coordinator | TEKTELIC | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394696157 |
+| Travel Trade Specialist | Calgary Zoo | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393025554 |
