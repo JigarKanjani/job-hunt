@@ -1310,3 +1310,27 @@
 | Financial Analyst | CoolIT Systems | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4373381264 |
 | Travel Agent | Gelbard Consulting Group | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=89e18298287b52c0 |
 | Administrative Assistant | US Tech Solutions | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4397079152 |
+| Auto Claims Advisor I | TD | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=f096756e669531a7 |
+| Field Coordinator | PCL Construction | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=5330be7ef279fc05 |
+| Registrar and Compliance Coordinator | HERITAGE COLLEGE | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=dc5aa179bf42e9ed |
+| Senior Learning & Development Advisor | Government Of Alberta | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=3ea15964baee4185 |
+| Mechanical Coordinator/Administrator | Cougar Technical Services Ltd | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=90d1ba0ba5a5bfa0 |
+| Contract Specialist | WSP in Canada | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4382708565 |
+| Revenue Operations Analyst II | Affirm | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393489868 |
+| Talent Acquisition Strategy and Operations Senior Associate | PwC Canada | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395348831 |
+| Data Verification Specialist | Veriforce | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393481795 |
+| Senior Crown Royalty Analyst | Adecco | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393805389 |
+| Risk & Governance Coordinator | General Bank Of Canada | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=e4ffa02820bca337 |
+| CAN Bilingual Case Manager | Teladoc Health | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=676ec51ef2fc9f4b |
+| Human Resources Coordinator | New West Truck Centres | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4395384280 |
+| Bilingual Nurse Care Navigator - Remote | Sentrex Health Solutions | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4393802154 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | Telus | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=d78a9b1011bafb45 |
+| Process Engineer-(Relocation to Saudi Arabia is Required) | aramco | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4369640930 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4393499348 |
+| Revenue Operations Analyst II | Affirm | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4393497693 |
+| Remote Software Developer | Turing | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395361656 |
+| Communications Specialist, IT | The Salvation Army in Canada | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395344687 |
+| Remote Software Developer | Turing | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395359711 |
+| Client Support Specialist | safedrive Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=225d2d76097634e8 |
+| Personal Banking Associate | TD | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=87b8f9c4ea73c38e |
+| Customer Experience Specialist | Circuit Stream | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393485846 |
