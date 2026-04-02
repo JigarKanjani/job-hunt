@@ -1334,3 +1334,32 @@
 | Client Support Specialist | safedrive Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=225d2d76097634e8 |
 | Personal Banking Associate | TD | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=87b8f9c4ea73c38e |
 | Customer Experience Specialist | Circuit Stream | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393485846 |
+| Sr Contracts Advisor | Suncor Energy | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=7101d6aab49508ae |
+| Scheduling Analyst | Inter Pipeline | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=3a4f5d1711a7f72e |
+| Human Resources Coordinator | Frontier Lodging Solutions | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=63de34a6a7bf11af |
+| Automation Specialist | Spartan Controls | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=b0f11c81b4b57fb4 |
+| Project Coordinator | Kalamoir | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=a8cdf8fb3b5e6db8 |
+| Sr Contracts Advisor | Suncor | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395703075 |
+| Appeals Operations Coordinator | Government of Alberta | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393827015 |
+| ServiceNow GRC Business Analyst, Senior Associate (Canada) | RSM Canada | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4366594577 |
+| Accounts Payable Analyst | Airswift | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4397074263 |
+| Accounts Payable Coordinator | Pantheon Inc | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393804583 |
+| Recreation Maintenance Worker/ Safety Coordinator | Mahogany Homeowners Association | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=03fde2d0cf1aa7ab |
+| Senior Project Coordinator | Kandrea Insulation and Scaffolding | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=29b9a7558250d9b4 |
+| Coordinator, Value and Risk Advisory | JLL | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=4aa40591e6a28ce0 |
+| Patient Care Coordinator - North Edge Dental | North Edge Dental | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=bca3e98b83307cae |
+| Customer Service Coordinator (Temporary) | Northview Residential REIT | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=a975adb1768684a6 |
+| Project Controls Administrative Assistant | Stoppler Hughes | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4393815255 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | Telus | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=d78a9b1011bafb45 |
+| Software Developer | Logican Technologies Inc. | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=9a9f95e95e9e6b93 |
+| Process Engineer-in-Training | Associated Engineering | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395393893 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4393499348 |
+| Remote Software Developer | Turing | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395386391 |
+| Remote Software Developer | Turing | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395386336 |
+| Front Desk Agent (Full-Time, Seasonal) | Accor | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=4fd4f65e752e55cd |
+| Front Desk Agent (Full-Time, Seasonal) | Fairmont | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=c1533c136fbb9aa9 |
+| Front Desk Agent (Full-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393821088 |
+| Fall Intern 2026 - Inside Sales Department (Calgary Office) | Mackenzie Investments | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395708119 |
+| Facilities Coordinator | Circle K | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393801725 |
+| Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395376948 |
+| Financial Controller | BullsEye Recruitment Inc. | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393817282 |
