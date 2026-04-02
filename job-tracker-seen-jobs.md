@@ -1269,3 +1269,17 @@
 | Administrative & Marketing Specialist | Colliers | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4384533014 |
 | Developer TIS Systems ( Endur/ETRM) | Enbridge | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4355295775 |
 | Customer Experience Associate | TD Securities | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395289073 |
+| Coordinator | Alberta Health Services | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=08c4efb7a2a2218a |
+| Healthcare Furnishings Specialist | Alberta Health Services | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=dffc23bbd9f78c1d |
+| Payroll & Implementation Specialist | Clio | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4382883756 |
+| IT Analyst II - Computer Aided Dispatch Analyst | Alberta Health Services | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=58bd4cc5fcdc5650 |
+| Analyste des recouvrements (bilingue) / Bilingual Collection | Parkland Corporation | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4371998475 |
+| Nursing Informatics Specialist | Alignerr | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395262048 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4383522897 |
+| Software Developer – Remote | Quik Hire Staffing | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395298015 |
+| Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=de9cf6cd1bb7d4e8 |
+| Administrative Support IV | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=8ace43cc0a95ff2a |
+| Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=443ea2af89227f98 |
+| Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=ed5e691f996e7c3b |
+| Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=44478fbb8998ef22 |
+| Associates | IG Wealth Management | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4366601745 |
