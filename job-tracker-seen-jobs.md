@@ -1294,3 +1294,19 @@
 | Customer Service Associate - Seasonal Department | RONA | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395337138 |
 | Customer Service Associate - Saisonnier | RONA | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395324519 |
 | District Sales Associate | Mackenzie Investments | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4158009151 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=1097d9d36e984860 |
+| Compensation Analyst, Market intel | Nutrien | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395349336 |
+| Senior SAP Operations Functional Analyst | Precision Drilling | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4361348168 |
+| Project Coordinator | Kalamoir | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395346328 |
+| Program Management Analyst | General Dynamics Mission Systems–Canada | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395352445 |
+| Senior Human Resource Advisor | Canada Cartage | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=f865303fb4c7a392 |
+| Beauty Advisor - Part Time | Sephora | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=8b0dd0d20b9a5fdd |
+| Facility Maintenance Worker | Closer to Home Community Services | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=7475c43509eb66a8 |
+| Client Service Coordinator | The Physio Studio Health and Wellness Ce | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=d4f413b32393ded8 |
+| Business Analyst-Remote | TWC Global Services, LLC | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=702c1f38b4c7d170 |
+| Office Coordinator - Extendicare Athabasca | Extendicare | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=c6699ea96df9695d |
+| Managing Consultant SAP Finance Group Reporting | IBM | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4372613928 |
+| People Systems Analyst | CoolIT Systems | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4359295188 |
+| Financial Analyst | CoolIT Systems | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4373381264 |
+| Travel Agent | Gelbard Consulting Group | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=89e18298287b52c0 |
+| Administrative Assistant | US Tech Solutions | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4397079152 |
