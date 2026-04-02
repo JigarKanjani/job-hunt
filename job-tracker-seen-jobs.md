@@ -1265,3 +1265,7 @@
 | Administrative Support III - Arnika DDMH | Recovery Alberta | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=8b3983f2a3c0ab37 |
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=767d042d90177208 |
 | Project Coordinator - Calgary | Axiom Builders | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395254748 |
+| FinOps Lead, Cloud Services | Kinaxis | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4384373637 |
+| Administrative & Marketing Specialist | Colliers | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4384533014 |
+| Developer TIS Systems ( Endur/ETRM) | Enbridge | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4355295775 |
+| Customer Experience Associate | TD Securities | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395289073 |
