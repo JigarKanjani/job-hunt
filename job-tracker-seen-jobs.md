@@ -1201,3 +1201,37 @@
 | Customer Experience Associate | TD | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394982021 |
 | Research Coordinator, Alberta Children's Hospital Research I | University of Calgary | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4393210231 |
 | Clinical Knowledge Coordinator - Faculty of Nursing | University of Calgary | 2026-04-01 | ABC | https://www.linkedin.com/jobs/view/4394980074 |
+| Operations Coordinator | Banff Everyday Tours | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=acb7518b7780fdb8 |
+| Tax Analyst | Gibson Energy | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=f64f13a974768add |
+| Talent Acquisition Specialist (12-month contract) | Loblaw | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=123cfe80017dc0b9 |
+| Senior Joint Venture Contract Analyst | Prismic | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=5990416fc19094eb |
+| Team Leader - adidas Retail Store Signal Hill (#2031) | adidas | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=f0e15647f55c02a1 |
+| Analyst, Scheduling | Inter Pipeline | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393060924 |
+| Talent Acquisition Specialist (12-month contract) | Loblaw Companies Limited | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395215545 |
+| Talent Acquisition Specialist (12-month contract) | Loblaw Companies Limited | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395225103 |
+| Event Coordinator | RECRUITMENT PARTNERS INC. | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4394986527 |
+| Senior Business Analyst | Bell | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4389778952 |
+| Travel Trade Specialist | Wilder Institute/Calgary Zoo | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=fad996449fda587f |
+| Onboarding Coordinator (Summer Student) | North American Construction Group | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=83855a4c959f7280 |
+| Training Coordinator | Modine Manufacturing Company | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=f86158420888832a |
+| Program Supervisor / Case Manager | EmployAbilities | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=a0a5aef3b10dd9a2 |
+| Teaching Quality Coordinator | University of Alberta | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=d12e56054c75cf2d |
+| Administrative Assistant | Tetra Tech | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=548a5c291291bb37 |
+| Program Coordinator ArtRecruits | Prospect Human Services Society | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4394994276 |
+| Permit Administrative Assistant (Term), Sterling Homes | Sterling Homes Calgary | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4394984882 |
+| Training Coordinator | Modine Manufacturing Company | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4395218327 |
+| Payables Coordinator | NSBOmega Guyana Inc. | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4395214411 |
+| Junior IT Systems Support | Primary Engineering and Construction | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=4c473a1ad65ae884 |
+| Analyst, Trading | Inter Pipeline | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4393077041 |
+| Threat Intelligence Analyst, Global | PwC Canada | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4394986531 |
+| Cybersecurity Compliance Analyst | TC Energy | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4396773043 |
+| Financial Analyst | Englobe | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4393075214 |
+| Esthetician/Receptionist | Full House Beauty Bar | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=2786316c9c8864dc |
+| Associate, Order Confirmation | Shoppers Drug Mart | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=00105525d022298e |
+| Customer Experience Associate | TD | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=60376772cdf2adab |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393070554 |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393068765 |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393080278 |
+| Dental Administrator | Dental Choice | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4396835218 |
+| Liquor Clerk Part Time Evening | Loblaw Companies Limited | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395222350 |
+| Personal Banking Advisor - Calgary Mahogany | ATB Financial | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4390600697 |
