@@ -1283,3 +1283,14 @@
 | Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=ed5e691f996e7c3b |
 | Administrative Support III | Alberta Health Services | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=44478fbb8998ef22 |
 | Associates | IG Wealth Management | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4366601745 |
+| Junior Estimator/Coordinator | Roadside Supply Ltd | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=9b1aca0231cb7214 |
+| Category Manager – Tobacco & Vape (Canada) | Giant Distributions | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=d4ff652172068912 |
+| Administrative Assistant, Private Enterprise | MNP | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4365903928 |
+| Human Resources Business Analyst | City of Calgary | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393480152 |
+| Travel Trade Specialist | Wilder Institute/Calgary Zoo | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=8c20c891915039b4 |
+| SUMMER STUDENT INTERN POSITION – Information Systems Departm | Strathroy Middlesex General Hospital | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=9948466c71a191c9 |
+| Compensation & HR Analyst | Pason Systems Corp | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=857ac3a9c6b06ea0 |
+| Professional Services Coordinator | C-Serv | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4397054563 |
+| Customer Service Associate - Seasonal Department | RONA | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395337138 |
+| Customer Service Associate - Saisonnier | RONA | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395324519 |
+| District Sales Associate | Mackenzie Investments | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4158009151 |
