@@ -1255,3 +1255,11 @@
 | Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=7a8f77be6c9612c4 |
 | Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=ae5536e23249853d |
 | Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=6d04d640467e5b44 |
+| Bids and Proposals Lead | Willowglen Systems | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=fabd35e66271b2ff |
+| Project Coordinator - Calgary | AXIOM BUILDERS | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=cd9c91cc31bfb20f |
+| Bids and Proposals Lead | Willowglen Systems | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=d3cb405ee0c0f974 |
+| IT Procurement Specialist | Clio | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393415013 |
+| Merchandiser Retail Team Lead | Advantage Solutions | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395240768 |
+| Health Informatics Analyst | Alignerr | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395261109 |
+| Clinical Systems Analyst | Alignerr | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395260126 |
+| Administrative Support III - Arnika DDMH | Recovery Alberta | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=8b3983f2a3c0ab37 |
