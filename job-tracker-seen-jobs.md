@@ -1235,3 +1235,23 @@
 | Dental Administrator | Dental Choice | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4396835218 |
 | Liquor Clerk Part Time Evening | Loblaw Companies Limited | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395222350 |
 | Personal Banking Advisor - Calgary Mahogany | ATB Financial | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4390600697 |
+| Analyst, IT Business -Information Technologies | University of Calgary | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=475ec36a905d8a12 |
+| Travel Coordinator | INUVIALUIT REGIONAL CORPORATION | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=7f8845c25e9536ea |
+| Lead Mechanical Layout Designer - Vancouver or Calgary | Ausenco | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=cc6ffe38dc8da44a |
+| Fleet and Facility Services Coordinator | Sturgeon County | 2026-04-02 | JIGAR | https://ca.indeed.com/viewjob?jk=2bc6164924450583 |
+| Senior Digital Delivery Analyst | Suncor | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395224292 |
+| IT Operations Analyst | Suncor | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395209866 |
+| Retail Shift Leader | Canna Cabana | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393075689 |
+| Retail Shift Leader | Canna Cabana | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393091033 |
+| Identity Analyst | ATB Financial | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4395247233 |
+| Accounts Payable Specialist | Canoe Financial | 2026-04-02 | JIGAR | https://www.linkedin.com/jobs/view/4393041818 |
+| Community Business & Economic Development Program Coordinato | Community Futures Yellowhead East | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=e89b38f53daf161a |
+| Clinical Knowledge Coordinator - Faculty of Nursing | University of Calgary | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=82dc66158127fa74 |
+| Coordinator, Animal Care & Clinic Services | City of Calgary | 2026-04-02 | NEELAM | https://ca.indeed.com/viewjob?jk=ec7878a5b1b6df23 |
+| Financial Advisor - Calgary, AB (12-Month Contract) | Scotiabank | 2026-04-02 | NEELAM | https://www.linkedin.com/jobs/view/4393082480 |
+| Business Analyst | Vantix Systems Inc | 2026-04-02 | XYZ | https://ca.indeed.com/viewjob?jk=560a4d038e71abd8 |
+| Contingent Labour Program Analyst | Procom | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4396856186 |
+| Financial Systems Analyst (Finance & Planning) | Suncor | 2026-04-02 | XYZ | https://www.linkedin.com/jobs/view/4395228008 |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=7a8f77be6c9612c4 |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=ae5536e23249853d |
+| Feeder Dispatch Associate | UPS | 2026-04-02 | ABC | https://ca.indeed.com/viewjob?jk=6d04d640467e5b44 |
