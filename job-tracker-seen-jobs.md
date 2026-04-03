@@ -1495,3 +1495,13 @@
 | SAP Security & GRC Analyst | Enerflex Ltd. | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4373415128 |
 | Full Stack .NET Developer | NetworkPedia | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4393870241 |
 | Backend Systems Developer - Fully Remote | Mercor | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397309293 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=40ae3e390986229f |
+| Senior Associate, Operations and Procurement | PwC Canada | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4385325120 |
+| Accounts Receivable/ Accounts Payable Clerk (Office Administ | Sprayer Hub | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=7b523f7de5bef345 |
+| Full Stack Developer (Web Applications & Systems Integration | Print and cheques now | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=e6415099bf6a25f9 |
+| Help Desk Technician | V3 Companies | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=ed69468f4059662f |
+| Software Quality Analyst | VySystems | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4395704843 |
+| Technical Sales & Marketing Associate | AwSUM Outcomes Inc. | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=0ba9dac0c87fec23 |
+| Research Associate, Epidemiology, Oncology | University of Calgary | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=9c39692c14f107cd |
+| Customer Service Associate | La Maison Simons | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397313613 |
+| Financial Management Associate (18-month contract) | EY | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4384223627 |
