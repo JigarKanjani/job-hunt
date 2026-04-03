@@ -1489,3 +1489,9 @@
 | Invoicing Clerk / Accounting Administrator | McElhanney | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4375097196 |
 | Insurance Administrator | Westland Insurance Group Ltd. | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4373409442 |
 | Billing Specialist | Bennett Jones | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4383029728 |
+| Senior Contracts Management Specialist | Raytheon | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4397305538 |
+| Canadian Benefits Advisor | CPKC | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4381170162 |
+| Desktop Support Engineer (Level 2) | NSC Global | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4367101134 |
+| SAP Security & GRC Analyst | Enerflex Ltd. | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4373415128 |
+| Full Stack .NET Developer | NetworkPedia | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4393870241 |
+| Backend Systems Developer - Fully Remote | Mercor | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397309293 |
