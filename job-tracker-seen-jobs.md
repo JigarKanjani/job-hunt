@@ -1457,3 +1457,28 @@
 | Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=607e75f881f6c517 |
 | Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=0f4591997b4a49eb |
 | ScotiaMcLeod Investment Associate - Calgary | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=064158ba9aad1e55 |
+| Retail Shift Leader | Canna Cabana | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=b8ec336e526a3b42 |
+| Retail Shift Leader | Canna Cabana | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=6d12b301fd8df64c |
+| Retail Shift Leader | Canna Cabana | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=0b86ff6462516233 |
+| Retail Shift Leader | Canna Cabana | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=5a1a0255941e393f |
+| Marketing & CX Coordinator | Brookfield Residential | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4384214006 |
+| Social Media Marketing Coordinator | Brookfield Residential | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4384208137 |
+| Supervisor, Operations | Cadillac Fairview | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4358950429 |
+| General Relief Support Workers (3 positions) Residential Pro | Calgary Alternative Support Services | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=b1d493e7d96714ab |
+| Accounts Payable Administrator | Earth Drilling | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=4ee8c116611af982 |
+| Risk & Governance Coordinator | General Bank Of Canada | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=607f56b68d3da0dd |
+| Program Coordinator – Vocational Services | Lifemark Health Group | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4383032755 |
+| Human Resources Coordinator | Finning | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4384251097 |
+| Beauty Advisor (Inside Sales) Sally Beauty 05637 | Sally Beauty | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4062749853 |
+| Technical Support Specialist - Canada | QuidelOrtho Corporation | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=25be17c2dce39899 |
+| Directeur ou directrice – Analyste financier – Services-cons | KPMG Canada | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4375071946 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=4339ebdae68eb19d |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=248082baa5eaba2f |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=3765ea6a288ca5a2 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=95e83a39594e23a4 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=333060e8183b711b |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=e817cf2f17f22cb6 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=8ad7b6010c2b5572 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=1adcf04c398e3986 |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=508c51f00bc78d3f |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=e7ca34102a7bdff7 |
