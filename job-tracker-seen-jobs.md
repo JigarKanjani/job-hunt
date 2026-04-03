@@ -1403,3 +1403,34 @@
 | INTK-Intake Coordinator | Lifemark Health Group | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4395726360 |
 | Travel Coordinator | Kiewit | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4395759676 |
 | Dental Administrator - Marda Loop Dental Choice | Dental Choice | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396009718 |
+| Material Coordinator | ATCO Structures & Logistics | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=8c585ac1b1baf13f |
+| Property Analyst | Onward Homes | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=2ad2e5dcf77903ce |
+| Philanthropy Events Lead (Temporary - Mat Leave Coverage) | Alberta Cancer Foundation | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=e4835ba82814d634 |
+| Philanthropy Coordinator | Alberta Cancer Foundation | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=a1cd982cee013b2b |
+| Senior Contracts Administrator - Minerals and Metals | Ausenco | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4397180997 |
+| Material Coordinator | ATCO Structures | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4397504579 |
+| Senior Procurement Specialist (Buyer) - Minerals and Metals | Ausenco | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4397194496 |
+| Procurement Specialist (Buyer) - Minerals and Metals | Ausenco | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4397182879 |
+| Registration Support Officer | CIRO / OCRI | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4395399899 |
+| Business Intelligence Analyst (Risk Data and Analytics) | FCC / FAC | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4396038173 |
+| Recruitment & HR Coordinator | YWCA Edmonton | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=ac76700b4263f617 |
+| Capital Grant Coordinator | City of Calgary | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=1df958ee9a3ef997 |
+| Information Management Advisor | City of Calgary | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=646335b2a067270d |
+| IT Senior Systems Analyst - AMENDMENT | City of Calgary | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=b626b64c66ab7b12 |
+| Environmental Administrative Assistant | WSP in Canada | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4396021909 |
+| Administrative Assistant, Scotia Financial Planning - Calgar | Scotiabank | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4397511092 |
+| Coordinator, Payroll | Loblaw Companies Limited | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4397193509 |
+| Senior Internal Communications Specialist | STARS | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4396037073 |
+| Content Marketing Specialist | Konstruct Digital | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=8f9277d4c87701eb |
+| Junior Planning and Budgeting Analyst | South Bow | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=4b48b958b7552dcd |
+| GPU Software Developer | AMD | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397199886 |
+| Analyste, Veille stratégique (données et analyses des risque | FCC / FAC | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4395731985 |
+| Junior GIS Analyst | WSP in Canada | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4396029644 |
+| Talent Acquisition Specialist | De Havilland Aircraft of Canada Limited | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4396032351 |
+| Research Associate, Community Health Sciences | University of Calgary | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=4cd24005f7148670 |
+| Research Associate, Distributed Learning & Rural Initiatives | University of Calgary | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=cd8c05bbb5817330 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397503459 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397505336 |
+| PT - Plumbing - Customer Service Associate | RONA | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397195914 |
+| Research Associate, Epidemiology, Oncology | University of Calgary | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396048843 |
+| Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397187651 |
