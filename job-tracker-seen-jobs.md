@@ -1505,3 +1505,12 @@
 | Research Associate, Epidemiology, Oncology | University of Calgary | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=9c39692c14f107cd |
 | Customer Service Associate | La Maison Simons | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397313613 |
 | Financial Management Associate (18-month contract) | EY | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4384223627 |
+| Wealth Planning Support Specialist | TD | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4384894453 |
+| Veterinary Receptionist, Western Veterinary Specialist & Eme | VCA Animal Hospitals | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4393871903 |
+| Learning Program Coordinator-Remote | Abundance-Flowz | 2026-04-03 | NEELAM | https://www.linkedin.com/jobs/view/4393866636 |
+| AML Analyst | Rush Street Interactive | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=841e3e7dce310ae3 |
+| Technical Support Specialist T3 | boldr | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=ce0cbf2e8761ebd9 |
+| Full Stack Developer | Maestro Talent Solutions Inc. | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=6601afd51b4d4221 |
+| Customer Service Sales Representative | Elite Group Marketing | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=fbf0e4f8cdbd41f8 |
+| Mobile Mortgage Specialist Assistant | TD | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4385190260 |
+| Claims Associate, Condominium Program | Gallagher | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4385170001 |
