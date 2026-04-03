@@ -1514,3 +1514,6 @@
 | Customer Service Sales Representative | Elite Group Marketing | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=fbf0e4f8cdbd41f8 |
 | Mobile Mortgage Specialist Assistant | TD | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4385190260 |
 | Claims Associate, Condominium Program | Gallagher | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4385170001 |
+| Junior Buyer | WSP in Canada | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4383024810 |
+| Administrative Coordinator | Parallel Lines | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=688b46338ac5fe01 |
+| Administrative Coordinator | Green tree painting | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=dde3b7d81574b188 |
