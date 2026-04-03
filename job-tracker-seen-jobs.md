@@ -1434,3 +1434,17 @@
 | PT - Plumbing - Customer Service Associate | RONA | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397195914 |
 | Research Associate, Epidemiology, Oncology | University of Calgary | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396048843 |
 | Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4397187651 |
+| Healthcare Furnishings Specialist | Alberta Health Services | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=84ceae39ef2e2515 |
+| Analyst, Business Intelligence - 10-month contract | Sobeys | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4396075272 |
+| Family Counsellor | Recovery Alberta | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=ca4436f1384d3360 |
+| Human Resources Coordinator | Sherwood Park Primary Care Network | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=3ea0c980f7aad32e |
+| Practicum Administrator | Northern Lakes College | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=9cc640f00f6bb3c2 |
+| Resource Centre Coordinator - Vocational Services | Lifemark Health Group | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=b53eccab7e413092 |
+| Business Advisor - Glenmore Square, Calgary, AB | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=03e9db025923843a |
+| Senior Total Wealth Planner - Calgary, AB | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=36fb1102c2a63be2 |
+| Mortgage Specialist - Calgary | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=ede2890fef579af2 |
+| Analyst, Business Intelligence - 10-month contract | Sobeys | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=f0266afb4039c890 |
+| Associate, Commercial Real Estate Banking - Calgary | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=a6774a0e2d227788 |
+| Administrative Support | Robinson | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=b2b6da351399d1d9 |
+| Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=81c5cfca1247ad4a |
+| HHC Sales Associate | Rexall Pharmacy Group Ltd. | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4392982955 |
