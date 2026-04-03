@@ -1363,3 +1363,43 @@
 | Facilities Coordinator | Circle K | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393801725 |
 | Garden Clerk Part Time Day | Loblaw Companies Limited | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4395376948 |
 | Financial Controller | BullsEye Recruitment Inc. | 2026-04-02 | ABC | https://www.linkedin.com/jobs/view/4393817282 |
+| Summer Camp Lead | Triwood Community Association | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=bb022520b47ef18c |
+| Communications Coordinator | AirSprint Private Aviation | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=573c0eae4f510bd1 |
+| Material Distribution Coordinator (Calgary) | Samaritan's Purse | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=d9033ae067eab959 |
+| Appeals Operations Coordinator | Government Of Alberta | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=2ad3a2ae6638e504 |
+| Summer Camp Logistics Coordinator | Triwood Community Association | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=f421ad4b1b8c16a8 |
+| Clinical Coordinator - Calgary, Alberta | Snore MD Sleep Apnea Clinics | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=978cf724d6b9a748 |
+| NOC Team Lead | Long View Systems | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=49db56b44ab65ec3 |
+| INTK-Intake Coordinator | Lifemark Health Group | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=4b3301f45aed7a24 |
+| Analyst, Financial Planning | Calgary Airport Authority | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=87d7732a75574f05 |
+| Community Coordinator | BLOOM | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=1300f5f0d8b391f2 |
+| Music Marketing Coordinator | GPM Music Group | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=c8fdf7a2d4089a8e |
+| Administrative & HR Coordinator | Kondro Electric | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=ee4b8aacf371225a |
+| Environmental Administrative Assistant | WSP | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=4c52302d4d98c7d3 |
+| Facilities Coordinator | Circle K | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=a88e33aeaa591794 |
+| Triwood Summer Camp Counsellor | Triwood Community Association | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=fc051bde6452a727 |
+| Senior Customer Support Specialist | Clio | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=57fca11e5574a2ff |
+| Senior Travel Advisor - Luxury & Expedition Travel | Civilized Adventures | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=0b90b26b6396a9cb |
+| Temporary Human Resources Coordinator – 13 month contract | PURE Canadian Gaming | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=35d30888a235b22a |
+| Human Resources Coordinator | Sherwood Park Primary Care Network | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=652a570798bc5037 |
+| Appointment Coordinator - Canyon Creek Toyota | Canyon Creek Toyota | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=30f6bf770e108cdb |
+| Integration and Automation Developer | SECURE | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=fb8a842c25e312c9 |
+| Environmental Information Specialist | Hatfield | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=b30ff075dc175d95 |
+| Cloud Systems Administrator | QHR Technologies | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=943c106359ff6733 |
+| Cloud Systems Administrator | QHR Technologies | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=def067c167d27800 |
+| Technical Support Engineer (Remote Opportunity, Canada-wide) | iNTERFACEWARE | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=499f8e9f0873d2c7 |
+| Junior GIS Analyst | WSP | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=1de32622daecfa5b |
+| Field Data Capture Business Support Analyst – New Grad | Canadian Natural Resources Limited (CNRL | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4396020357 |
+| Field Data Capture Business Support Analyst - Recent Grad | Canadian Natural Resources Limited (CNRL | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397179272 |
+| Vendor Data Analyst | UFA | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4395716778 |
+| Software Developer | Computer Modelling Group | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4395735087 |
+| Administrative Assistant, Scotia Financial Planning - Calgar | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=67fc1a9ed1096e3e |
+| Customer Service Fundraiser | Elite Group Marketing | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=fbf8b762e1f3df53 |
+| Fall Intern 2026 - Inside Sales Department (Calgary Office) | Mackenzie Investments | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=2267c1d9316919c6 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=3d47bfe3cfe6d5a6 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=11ee0e66d5208594 |
+| Administrative Assistant | AtkinsRéalis | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396027129 |
+| Administrative Assistant | AtkinsRéalis | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396007973 |
+| INTK-Intake Coordinator | Lifemark Health Group | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4395726360 |
+| Travel Coordinator | Kiewit | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4395759676 |
+| Dental Administrator - Marda Loop Dental Choice | Dental Choice | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4396009718 |
