@@ -1482,3 +1482,10 @@
 | (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=1adcf04c398e3986 |
 | (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=508c51f00bc78d3f |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=e7ca34102a7bdff7 |
+| Maintenance Planner | Cascades | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4382495705 |
+| ERP Systems Analyst - Remote | Aurora Cannabis Inc. | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4383948806 |
+| Learning Technology Coordinator, 1-year contract | KPMG Canada | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4385107086 |
+| Administrative Support III | Alberta Health Services | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=df617f1802c6ce1d |
+| Invoicing Clerk / Accounting Administrator | McElhanney | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4375097196 |
+| Insurance Administrator | Westland Insurance Group Ltd. | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4373409442 |
+| Billing Specialist | Bennett Jones | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4383029728 |
