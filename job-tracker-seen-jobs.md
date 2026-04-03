@@ -1517,3 +1517,10 @@
 | Junior Buyer | WSP in Canada | 2026-04-03 | JIGAR | https://www.linkedin.com/jobs/view/4383024810 |
 | Administrative Coordinator | Parallel Lines | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=688b46338ac5fe01 |
 | Administrative Coordinator | Green tree painting | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=dde3b7d81574b188 |
+| Paid Services Beauty Advisor - Full Time | Sephora | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=3756fa0b812fa252 |
+| Dental Administrator | Ora Dental | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=aee52803d94da1be |
+| Human Resources Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=5be7dd1077cf2f96 |
+| Human Resources Coordinator | Sunshine Village Ski & Snowboard Resort | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=848aa8073622bec3 |
+| Paid Services Beauty Advisor - Full Time | Sephora | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=d7d5e50df95cace9 |
+| Full Stack Developer (26) | Vantix Systems Inc | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=2302ff44c78261e0 |
+| Financial Reporting Analyst - Fully Remote | Mercor | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397363558 |
