@@ -1448,3 +1448,12 @@
 | Administrative Support | Robinson | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=b2b6da351399d1d9 |
 | Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=81c5cfca1247ad4a |
 | HHC Sales Associate | Rexall Pharmacy Group Ltd. | 2026-04-03 | ABC | https://www.linkedin.com/jobs/view/4392982955 |
+| Reception Coordinator | Scotiabank | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=83b11383efc3ea3c |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-03 | JIGAR | https://ca.indeed.com/viewjob?jk=5f97ed664e6a6058 |
+| Financial Planner, Scotia Financial Planning - Calgary | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=d3175cc44389b0a2 |
+| Financial Advisor, Investment & Retirement Planning - Baseli | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=9f1fe550152e2f55 |
+| Financial Advisor, Investment & Retirement Planning - Southc | Scotiabank | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=cc10d321c508befc |
+| Administrative Assistant, Scotia Financial Planning - Calgar | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=9310b92fe2846b53 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=607e75f881f6c517 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=0f4591997b4a49eb |
+| ScotiaMcLeod Investment Associate - Calgary | Scotiabank | 2026-04-03 | ABC | https://ca.indeed.com/viewjob?jk=064158ba9aad1e55 |
