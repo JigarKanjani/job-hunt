@@ -1539,3 +1539,14 @@
 | Remote Software Developer | Turing | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397433268 |
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394252649 |
 | Financial Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394236841 |
+| Retail Shift Leader | Canna Cabana | 2026-04-04 | JIGAR | https://ca.indeed.com/viewjob?jk=7687e57ac889ce46 |
+| Retail Shift Leader | Canna Cabana | 2026-04-04 | JIGAR | https://ca.indeed.com/viewjob?jk=1e51e38d9dbe2e36 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-04 | JIGAR | https://ca.indeed.com/viewjob?jk=c2d4bbb10c513885 |
+| Structuring Analyst | TC Energy | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4373722026 |
+| Beauty Advisor - Flex | Sephora | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=1603582a4ee8090c |
+| Technical Program Manager -  ROCm Deep Learning Libraries | AMD | 2026-04-04 | NEELAM | https://www.linkedin.com/jobs/view/4373194614 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394242994 |
+| Financial Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394236841 |
+| Principal Consultant, Strategic Advisory Services (Remote, C | CrowdStrike | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4356406595 |
+| PFAS Water Treatment Technical Specialist | HDR | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4374673037 |
+| Property Administrator | QuadReal Property Group | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4385534239 |
