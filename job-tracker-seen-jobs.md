@@ -1534,3 +1534,8 @@
 | Calgary Police Service - Talent Acquisition Administrator | City of Calgary | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=b00b42d38a7b006a |
 | (CAN) General Merchandise Associate | Walmart | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=4582d9dc3fb77142 |
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394252649 |
+| Recovery Support Worker | YWCA | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=2dc30a194b1f93bf |
+| Remote Software Developer | Turing | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397437149 |
+| Remote Software Developer | Turing | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397433268 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394252649 |
+| Financial Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394236841 |
