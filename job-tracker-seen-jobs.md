@@ -1572,3 +1572,5 @@
 | Mortgage Specialist | BMO | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4385585536 |
 | Dental Office Administrator | Wolf Willow Orchid Dental | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=f253246e6b44e3de |
 | software developer | AdvancedUAV Tech | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397468969 |
+| Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394280297 |
+| receptionist | Olympia Motel & Lodge | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4397494019 |
