@@ -1533,3 +1533,4 @@
 | Restoration Office Coordinator | Luxuria Group | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=3116200a8f9ae813 |
 | Calgary Police Service - Talent Acquisition Administrator | City of Calgary | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=b00b42d38a7b006a |
 | (CAN) General Merchandise Associate | Walmart | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=4582d9dc3fb77142 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394252649 |
