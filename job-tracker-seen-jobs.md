@@ -1556,3 +1556,8 @@
 | Project Controls Specialist - Corporate Services | Graham | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4385833368 |
 | Banking - Investment Banking, Summer Analyst, Calgary - CAN, | Citi | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4384628558 |
 | Health, Safety & Environment (HSE) Administrator | Black & McDonald Limited | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4367032034 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-04 | JIGAR | https://ca.indeed.com/viewjob?jk=123a498739a84cee |
+| Senior Training Specialist (Electrical) | Shermco Industries | 2026-04-04 | NEELAM | https://www.linkedin.com/jobs/view/4385578758 |
+| Intern - Intelligence - 264 | Enverus | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4345319529 |
+| Staff Software Engineer, Data Platform - CANADA (Remote) | Luxury Presence | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4344822999 |
+| Licensed Barber or Hairstylist – Hair System Installation Sp | SELIS BEAUTY | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=c2227be33e33f8cd |
