@@ -1561,3 +1561,12 @@
 | Intern - Intelligence - 264 | Enverus | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4345319529 |
 | Staff Software Engineer, Data Platform - CANADA (Remote) | Luxury Presence | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4344822999 |
 | Licensed Barber or Hairstylist – Hair System Installation Sp | SELIS BEAUTY | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=c2227be33e33f8cd |
+| Business Analyst | Insight Global | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4394279005 |
+| Maintenance Planner | RECRUITMENT PARTNERS INC. | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4385848954 |
+| Administrative Assistant | Olds Regional Exhibition | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=396bf6ead4ad8b38 |
+| Financial Advisor | RBC | 2026-04-04 | NEELAM | https://www.linkedin.com/jobs/view/4397465786 |
+| Junior Eclipse RCP Java Developer | Halliburton | 2026-04-04 | XYZ | https://ca.indeed.com/viewjob?jk=14f807cfd41401fa |
+| Mainframe Software Developer | CPKC | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4375606552 |
+| Administrative Assistant | Gas Liquids Engineering Ltd | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=af3fce8109fe1722 |
+| Medical Defence Law Clerk | Gowling WLG | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4384264482 |
+| Mortgage Specialist | BMO | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4385585536 |
