@@ -1553,3 +1553,6 @@
 | Bilingual Vocational Rehabilitation Case Manager - Remote | Lifemark Health Group | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4382507642 |
 | Learning and Development Specialist | Osler, Hoskin & Harcourt LLP | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4344753014 |
 | Private Client Associate | RBC | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4354671544 |
+| Project Controls Specialist - Corporate Services | Graham | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4385833368 |
+| Banking - Investment Banking, Summer Analyst, Calgary - CAN, | Citi | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4384628558 |
+| Health, Safety & Environment (HSE) Administrator | Black & McDonald Limited | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4367032034 |
