@@ -1570,3 +1570,5 @@
 | Administrative Assistant | Gas Liquids Engineering Ltd | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=af3fce8109fe1722 |
 | Medical Defence Law Clerk | Gowling WLG | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4384264482 |
 | Mortgage Specialist | BMO | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4385585536 |
+| Dental Office Administrator | Wolf Willow Orchid Dental | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=f253246e6b44e3de |
+| software developer | AdvancedUAV Tech | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397468969 |
