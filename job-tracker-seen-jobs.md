@@ -1524,3 +1524,6 @@
 | Paid Services Beauty Advisor - Full Time | Sephora | 2026-04-03 | NEELAM | https://ca.indeed.com/viewjob?jk=d7d5e50df95cace9 |
 | Full Stack Developer (26) | Vantix Systems Inc | 2026-04-03 | XYZ | https://ca.indeed.com/viewjob?jk=2302ff44c78261e0 |
 | Financial Reporting Analyst - Fully Remote | Mercor | 2026-04-03 | XYZ | https://www.linkedin.com/jobs/view/4397363558 |
+| Help Desk Technician – Alberta | V3 Companies LTD | 2026-04-04 | XYZ | https://ca.indeed.com/viewjob?jk=04fd12c948f069a3 |
+| Remote Software Engineer - AI Trainer | DataAnnotation | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397386848 |
+| Customer Service - Music Marketing | GPM Music Group | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=7e2be8f4e8259e3d |
