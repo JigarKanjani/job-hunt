@@ -1550,3 +1550,6 @@
 | Principal Consultant, Strategic Advisory Services (Remote, C | CrowdStrike | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4356406595 |
 | PFAS Water Treatment Technical Specialist | HDR | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4374673037 |
 | Property Administrator | QuadReal Property Group | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4385534239 |
+| Bilingual Vocational Rehabilitation Case Manager - Remote | Lifemark Health Group | 2026-04-04 | JIGAR | https://www.linkedin.com/jobs/view/4382507642 |
+| Learning and Development Specialist | Osler, Hoskin & Harcourt LLP | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4344753014 |
+| Private Client Associate | RBC | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4354671544 |
