@@ -1527,3 +1527,9 @@
 | Help Desk Technician – Alberta | V3 Companies LTD | 2026-04-04 | XYZ | https://ca.indeed.com/viewjob?jk=04fd12c948f069a3 |
 | Remote Software Engineer - AI Trainer | DataAnnotation | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397386848 |
 | Customer Service - Music Marketing | GPM Music Group | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=7e2be8f4e8259e3d |
+| Calgary Police Service - Information Management Analyst | City of Calgary | 2026-04-04 | JIGAR | https://ca.indeed.com/viewjob?jk=31615a6fd7a76fe8 |
+| Program Support Worker | YWCA | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=e665846c8f6c7ee3 |
+| Recovery Support Worker | YWCA | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=fe011df5d17bc235 |
+| Restoration Office Coordinator | Luxuria Group | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=3116200a8f9ae813 |
+| Calgary Police Service - Talent Acquisition Administrator | City of Calgary | 2026-04-04 | NEELAM | https://ca.indeed.com/viewjob?jk=b00b42d38a7b006a |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-04 | ABC | https://ca.indeed.com/viewjob?jk=4582d9dc3fb77142 |
