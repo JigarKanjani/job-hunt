@@ -1579,3 +1579,6 @@
 | Wealth Planning Support Specialist | TD | 2026-04-05 | NEELAM | https://www.linkedin.com/jobs/view/4397710657 |
 | Clerk Deli-PT | Sobeys | 2026-04-05 | ABC | https://www.linkedin.com/jobs/view/4283093914 |
 | Childcare Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-04-05 | ABC | https://www.linkedin.com/jobs/view/4246823921 |
+| Senior Compliance Analyst | Clio | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4374677124 |
+| Administrator, Document Control (Technical) - 6-month Term | Enerflex Ltd. | 2026-04-05 | NEELAM | https://www.linkedin.com/jobs/view/4356861838 |
+| Development Platform Developer | Seequent | 2026-04-05 | XYZ | https://www.linkedin.com/jobs/view/4383669298 |
