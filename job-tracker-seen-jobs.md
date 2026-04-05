@@ -1574,3 +1574,4 @@
 | software developer | AdvancedUAV Tech | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4397468969 |
 | Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-04-04 | XYZ | https://www.linkedin.com/jobs/view/4394280297 |
 | receptionist | Olympia Motel & Lodge | 2026-04-04 | ABC | https://www.linkedin.com/jobs/view/4397494019 |
+| Automotive Service Advisor | CarDeals4U | 2026-04-05 | NEELAM | https://ca.indeed.com/viewjob?jk=8a2ca47d580db82e |
