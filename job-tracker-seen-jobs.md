@@ -1588,3 +1588,7 @@
 | Digital Content & Engagement Specialist | Applied Industrial Technologies - Canada | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4385879278 |
 | Administrative Coordinator | MDDL | 2026-04-05 | JIGAR | https://ca.indeed.com/viewjob?jk=35a11d3bba09cb73 |
 | Controller | RECRUITMENT PARTNERS INC. | 2026-04-05 | ABC | https://www.linkedin.com/jobs/view/4385899140 |
+| Travel Operations Coordinator | Civilized Adventures | 2026-04-05 | JIGAR | https://ca.indeed.com/viewjob?jk=abea210381345d71 |
+| Project Coordinator - Environmental Liability Assessment | WSP in Canada | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4384697772 |
+| Enterprise Account Executive | myGwork - LGBTQ+ Business Community | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4386608083 |
+| Receptionist/Host/Hostess | Caesar's Steak House & S.P.Q.R. Lounge | 2026-04-05 | ABC | https://ca.indeed.com/viewjob?jk=2c25dfeaa983ca51 |
