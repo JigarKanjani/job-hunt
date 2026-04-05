@@ -1592,3 +1592,4 @@
 | Project Coordinator - Environmental Liability Assessment | WSP in Canada | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4384697772 |
 | Enterprise Account Executive | myGwork - LGBTQ+ Business Community | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4386608083 |
 | Receptionist/Host/Hostess | Caesar's Steak House & S.P.Q.R. Lounge | 2026-04-05 | ABC | https://ca.indeed.com/viewjob?jk=2c25dfeaa983ca51 |
+| Operations & Client Experience Coordinator (Part-Time) | EatWell Health Centre | 2026-04-05 | NEELAM | https://ca.indeed.com/viewjob?jk=d7dddd6fee8a0ab3 |
