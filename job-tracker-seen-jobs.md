@@ -1586,3 +1586,5 @@
 | Business Writing Specialist - Fully Remote | Mercor | 2026-04-05 | XYZ | https://www.linkedin.com/jobs/view/4397722643 |
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-05 | JIGAR | https://ca.indeed.com/viewjob?jk=5b78a1a77c17f5f4 |
 | Digital Content & Engagement Specialist | Applied Industrial Technologies - Canada | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4385879278 |
+| Administrative Coordinator | MDDL | 2026-04-05 | JIGAR | https://ca.indeed.com/viewjob?jk=35a11d3bba09cb73 |
+| Controller | RECRUITMENT PARTNERS INC. | 2026-04-05 | ABC | https://www.linkedin.com/jobs/view/4385899140 |
