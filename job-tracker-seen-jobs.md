@@ -1582,3 +1582,5 @@
 | Senior Compliance Analyst | Clio | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4374677124 |
 | Administrator, Document Control (Technical) - 6-month Term | Enerflex Ltd. | 2026-04-05 | NEELAM | https://www.linkedin.com/jobs/view/4356861838 |
 | Development Platform Developer | Seequent | 2026-04-05 | XYZ | https://www.linkedin.com/jobs/view/4383669298 |
+| Senior Analyst, Tax [Research and Development & Government I | Doane Grant Thornton LLP | 2026-04-05 | NEELAM | https://www.linkedin.com/jobs/view/4385887211 |
+| Business Writing Specialist - Fully Remote | Mercor | 2026-04-05 | XYZ | https://www.linkedin.com/jobs/view/4397722643 |
