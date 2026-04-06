@@ -6,12 +6,13 @@ Polls the bot for incoming DMs and triggers job_alert.py based on message conten
 
 How to use:
   DM your Telegram bot with profile names (case-insensitive):
-    "JIGAR"          → run JIGAR only
-    "NEELAM JIGAR"   → run NEELAM and JIGAR
-    "ALL"            → run all 4 profiles
-    "XYZ ABC"        → run XYZ and ABC
+    "J"        → run J only
+    "N J"      → run N and J
+    "ALL"      → run all 4 profiles
+    "R G"      → run R and G
 
-Run via OpenClaw cron every 2 minutes so it stays responsive.
+Profiles: J (Supply Chain/Data), N (Admin/Social), R (IT Analyst), G (General Admin)
+Run via GitHub Actions every 5 minutes so it stays responsive.
 """
 
 import os, sys, json, subprocess, urllib.request
@@ -21,7 +22,7 @@ from datetime import datetime, timezone
 WORKSPACE      = Path(__file__).parent
 OFFSET_FILE    = WORKSPACE / ".bot_listener_offset"
 BOT_TOKEN      = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-VALID_PROFILES = {"JIGAR", "NEELAM", "XYZ", "ABC"}
+VALID_PROFILES = {"J", "N", "R", "G"}
 SCRIPT         = WORKSPACE / "job_alert.py"
 
 
@@ -76,10 +77,7 @@ def save_offset(offset):
 
 def main():
     if not BOT_TOKEN:
-        # Try reading from job_alert.py env fallback path isn't needed —
-        # just require the env var to be set.
-        print("[ERROR] TELEGRAM_BOT_TOKEN env var not set. "
-              "Set it in your shell or OpenClaw environment.")
+        print("[ERROR] TELEGRAM_BOT_TOKEN env var not set.")
         sys.exit(1)
 
     offset = load_offset()
@@ -90,14 +88,13 @@ def main():
 
     updates = data.get("result", [])
     if not updates:
-        return  # Nothing new
+        return
 
     new_offset = offset
     for update in updates:
         update_id = update["update_id"]
-        new_offset = update_id + 1  # Advance past this update
+        new_offset = update_id + 1
 
-        # Support both direct messages and group messages
         msg = update.get("message") or update.get("edited_message")
         if not msg:
             continue
@@ -110,11 +107,14 @@ def main():
 
         profiles = parse_profiles(text)
         if not profiles:
-            # Unrecognised message — send help hint
             tg_send(chat_id,
                     "Send profile names to trigger a manual run:\n"
-                    "  ALL  |  JIGAR  |  NEELAM  |  XYZ  |  ABC\n"
-                    "Example: JIGAR NEELAM")
+                    "  ALL  |  J  |  N  |  R  |  G\n"
+                    "Example: J N\n\n"
+                    "J = Supply Chain/Data\n"
+                    "N = Admin/Social\n"
+                    "R = IT Analyst\n"
+                    "G = General Admin")
             save_offset(new_offset)
             continue
 
