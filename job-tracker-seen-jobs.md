@@ -1593,3 +1593,5 @@
 | Enterprise Account Executive | myGwork - LGBTQ+ Business Community | 2026-04-05 | JIGAR | https://www.linkedin.com/jobs/view/4386608083 |
 | Receptionist/Host/Hostess | Caesar's Steak House & S.P.Q.R. Lounge | 2026-04-05 | ABC | https://ca.indeed.com/viewjob?jk=2c25dfeaa983ca51 |
 | Operations & Client Experience Coordinator (Part-Time) | EatWell Health Centre | 2026-04-05 | NEELAM | https://ca.indeed.com/viewjob?jk=d7dddd6fee8a0ab3 |
+| Front Desk Agent | Holiday Inn Express Calgary South | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=c90e86b6cf8f984c |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=43ae47fab9dd6ad5 |
