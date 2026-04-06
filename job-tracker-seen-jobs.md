@@ -1624,3 +1624,18 @@
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4398000438 |
 | Water Resource Coordinator | Ecosis Ltd. | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4394484096 |
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4385205291 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-06 | J | https://ca.indeed.com/viewjob?jk=27bdf630e87b154c |
+| Property Coordinator | Primaris REIT | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4394477833 |
+| Administrative Assistant | Bath Fitter | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=8deaf54b4a5690d3 |
+| Operations & Administration Coordinator | EnerLink Corporation | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=4d69b0dedd99f2a4 |
+| Office Administrator | Müller Expo Services International  | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=8371bd94f63d478d |
+| Elder Abuse Case Worker | TOWN OF SYLVAN LAKE | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=64463f6e2edb89b9 |
+| Operations Coordinator | Hibbert International INC | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=680196a8b253e6dd |
+| Project Administrator | Artech L.L.C. | 2026-04-06 | N | https://www.linkedin.com/jobs/view/4398008753 |
+| Intermediate Developer | WestJet Airlines | 2026-04-06 | R | https://ca.indeed.com/viewjob?jk=548c13ff86fb602c |
+| Intermediate Developer | WestJet | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4398021582 |
+| New Home Sales Associate | Cornerstone Homes | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=dfffa29cd49361ca |
+| Client Onboarding Specialist | Digital Commerce Bank | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=04ed14a48d1c73b7 |
+| Receptionist | Equation Staffing Solutions Inc | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4394492603 |
+| Business Development Associate | PICTON Investments | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4394492448 |
+| Document Controller | Acero Engineering | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4398017875 |
