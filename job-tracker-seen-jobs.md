@@ -1603,3 +1603,4 @@
 | Lease Administrator | Colliers | 2026-04-06 | R | https://ca.indeed.com/viewjob?jk=694fad14fbeac1d5 |
 | Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=f0ac846504896853 |
 | Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=ac389ceb8bed0ea4 |
+| .NET Developer - AI & Agent Enablement | KPMG Canada | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4360640235 |
