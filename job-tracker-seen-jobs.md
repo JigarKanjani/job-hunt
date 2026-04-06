@@ -1604,3 +1604,13 @@
 | Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=f0ac846504896853 |
 | Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=ac389ceb8bed0ea4 |
 | .NET Developer - AI & Agent Enablement | KPMG Canada | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4360640235 |
+| Facility Bookings Specialist – Arts Facilities & System Supp | Red Deer Polytechnic | 2026-04-06 | J | https://ca.indeed.com/viewjob?jk=0adc0efcdc9a6347 |
+| Business Analyst (Contract) | BGIS | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4375304725 |
+| Office Administrator (Part-Time) – Ogden Location, Calgary,  | Momentum Health | 2026-04-06 | N | https://www.linkedin.com/jobs/view/4397924742 |
+| Office Administrator (Part-Time) – Westbrook Location, Calga | Momentum Health | 2026-04-06 | N | https://www.linkedin.com/jobs/view/4397915724 |
+| Coverage Office Administrator (Part-Time) - All locations, C | Momentum Health | 2026-04-06 | N | https://www.linkedin.com/jobs/view/4397918733 |
+| Web3 Research & Intelligence Associate (Remote - Canada) | C–CorpInvest Bank | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4397795408 |
+| 3D & Creative Software Specialist- AI Data Collection Projec | Crossing Hurdles | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4384993549 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4385205291 |
+| Customer Service Representative | Trail Tire | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=91c6a1b9b84abb1f |
+| Front Desk Agent Club Med Resorts Canada or overseas | Club Med | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4359621846 |
