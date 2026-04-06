@@ -1614,3 +1614,13 @@
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4385205291 |
 | Customer Service Representative | Trail Tire | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=91c6a1b9b84abb1f |
 | Front Desk Agent Club Med Resorts Canada or overseas | Club Med | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4359621846 |
+| Project Coordinator | KTI (Canada) | 2026-04-06 | J | https://ca.indeed.com/viewjob?jk=90261c8f9458f521 |
+| Material Coordinator | ZealoTech People | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4394494116 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4376557246 |
+| Senior Transportation Engineer, LRT Project | City of Calgary | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4394489140 |
+| Technical Support Lead (Physical Security Systems) | Convergint | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4383432558 |
+| Health & Safety Administrator | Frontier Construction Products Ltd. | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=113021f1b188a580 |
+| Client Solutions Advisor - Calgary Financial Centre | Scotiabank | 2026-04-06 | N | https://www.linkedin.com/jobs/view/4394481321 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4398000438 |
+| Water Resource Coordinator | Ecosis Ltd. | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4394484096 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4385205291 |
