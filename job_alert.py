@@ -5,7 +5,8 @@ job_alert.py — OpenClaw Job Hunt Sender
 Runs jobspy scraping, deduplicates, sends new jobs to Telegram Bot API directly.
 No LLM tool calls needed. Python handles everything.
 
-Usage: python job_alert.py [--hours 24] [--profiles JIGAR NEELAM XYZ ABC]
+Usage: python job_alert.py [--hours 24] [--profiles J N R G]
+Profiles: J (Supply Chain/Data), N (Admin/Social), R (IT Analyst), G (General Admin)
 """
 
 import os
@@ -18,7 +19,15 @@ TRACKER_FILE = WORKSPACE / "job-tracker-seen-jobs.md"
 SCRAPER      = WORKSPACE / "run_jobspy_24h.py"
 BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID      = os.environ.get("TELEGRAM_CHAT_ID", "747174717")
-MAX_PER_PROFILE = 10   # max jobs sent per profile per run (avoid flooding)
+MAX_PER_PROFILE = 25   # max jobs sent per profile per run
+
+# Per-profile Telegram chat IDs (falls back to default CHAT_ID if not set)
+CHAT_IDS = {
+    "J": os.environ.get("TELEGRAM_CHAT_ID_J") or CHAT_ID,
+    "N": os.environ.get("TELEGRAM_CHAT_ID_N") or CHAT_ID,
+    "R": os.environ.get("TELEGRAM_CHAT_ID_R") or CHAT_ID,
+    "G": os.environ.get("TELEGRAM_CHAT_ID_G") or CHAT_ID,
+}
 
 # Salary estimates for Calgary market when employer doesn't post salary
 SALARY_ESTIMATES = [
@@ -127,19 +136,15 @@ def parse_min_years(description):
         return None
     import re
     desc = str(description).lower()
-    # Range: "3-5 years" or "3 to 5 years" → use upper bound
     m = re.search(r'(\d+)\s*[-–to]+\s*(\d+)\s*\+?\s*years?', desc)
     if m:
         return int(m.group(2))
-    # Minimum phrase: "minimum 5 years", "at least 5 years"
     m = re.search(r'(?:minimum|at least|min\.?)\s+(\d+)\s*\+?\s*years?', desc)
     if m:
         return int(m.group(1))
-    # "5+ years"
     m = re.search(r'(\d+)\s*\+\s*years?', desc)
     if m:
         return int(m.group(1))
-    # "5 years of experience"
     m = re.search(r'(\d+)\s*years?\s+(?:of\s+)?(?:experience|exp)', desc)
     if m:
         return int(m.group(1))
@@ -179,10 +184,11 @@ NON_AB_CITIES    = ["toronto", "vancouver", "montreal", "ottawa", "winnipeg",
                     "halifax", "victoria", "saskatoon", "regina"]
 
 # Max years of experience per profile (from job description)
-EXPERIENCE_MAX = {"JIGAR": 5, "XYZ": 5, "NEELAM": 10, "ABC": 10}
+EXPERIENCE_MAX = {"J": 5, "R": 5, "N": 10, "G": 10}
 
-# Global title exclusions applied to every profile (medical, retail, trades, driving)
+# Global title exclusions applied to every profile
 GLOBAL_EXCLUDE = [
+    # Licensed / regulated healthcare
     "lpn", "licensed practical", "registered nurse", " rn ", " rn,",
     "health care aide", " hca ", "personal support worker", " psw ",
     "physician", " md ", "surgeon", "dentist", "dental hygienist",
@@ -190,44 +196,60 @@ GLOBAL_EXCLUDE = [
     "speech language", "speech therapist", "radiologist", "paramedic",
     " emt ", "pharmacy technician", "medical laboratory", "lab technician",
     "diagnostic imaging", "respiratory therapist",
+    # Nursing / medical / health care (broader)
+    "nursing", "nurse", "dental", "medical ", "health care", "healthcare aide",
+    # Retail / food / hospitality
     "food service", "food and beverage", " f&b ", "restaurant",
     "kitchen", " chef ", "bartender", "barista", "cashier",
     "grocery", "retail sales", "retail associate", "store associate",
     "fashion ", "apparel", "clothing store", "loss prevention",
+    "retail ",
+    # Trades / physical labour
     "electrician", "plumber", "hvac", "welder", "carpenter",
     "landscap", "janitorial", "custodian",
+    "mechanic", "mechanical engineer", "maintenance worker",
+    # Driving
     "truck driver", "bus driver", " cdl ", "delivery driver",
+    # Security
     "security guard",
+    # Tech roles unwanted across all profiles
+    "software developer", "software engineer", "devops", "full stack", "fullstack",
+    # Other excluded categories
+    "bilingual", "esthetician", "beauty therapist", "aesthetician",
+    "seasonal ", "temporary position", "general labour", "general labor",
+    "general staff", " clerk", "dispatch",
+    # Intern roles
+    " intern ", "internship", "co-op student", "coop student",
 ]
 
 
 PROFILE_CONFIG = {
-    "JIGAR": {
+    "J": {
         "min_salary": 80000,
         "exclude": ["director", "vp", "vice president", "sr.", " sr ",
                     "warehouse", "stocker", "receiver", "shipper", "handler",
-                    "labou", "driver", "forklift", "dispatch", "intern",
+                    "labou", "driver", "forklift", "intern",
                     "c-suite", "chief", "president"],
     },
-    "NEELAM": {
+    "N": {
         "min_salary": 65000,
         "exclude": ["director", "vp", "vice president", "executive",
                     "engineer", "developer", "physician", "registered nurse",
                     " rpn ", "warehouse", "stocker",
                     "software", "devops", "infrastructure", "machine learning",
-                    "data engineer", "backend", "frontend", "full stack",
+                    "data engineer", "backend", "frontend",
                     "cybersecurity", "network engineer",
                     "dynamics 365", "microsoft dynamics", "erp", "sap ",
                     "project manager", "it project"],
     },
-    "XYZ": {
+    "R": {
         "min_salary": 55000,
         "exclude": ["senior", "lead", "manager", "supervisor", "director",
                     "principal", "architect", "sr.", " sr ",
-                    "customer service", "customer support", "retail",
+                    "customer service", "customer support",
                     "sales", "merchandising", "forklift", "driver"],
     },
-    "ABC": {
+    "G": {
         "min_salary": 45000,
         "exclude": ["senior", "director", "manager", "executive",
                     "chief", "deputy", "supply chain", "procurement",
@@ -236,12 +258,14 @@ PROFILE_CONFIG = {
 }
 
 
-def tg_send(text):
+def tg_send(text, chat_id=None):
     """Send a plain-text message to Telegram. Auto-trims to 4000 chars."""
+    if chat_id is None:
+        chat_id = CHAT_ID
     if len(text) > 4000:
         text = text[:3990] + "..."
     payload = json.dumps({
-        "chat_id": CHAT_ID,
+        "chat_id": str(chat_id),
         "text": text,
         "disable_web_page_preview": True
     }).encode("utf-8")
@@ -349,6 +373,7 @@ def run_scraper(profile, hours):
 def process_profile(profile, hours, seen_urls):
     """Scrape + send + update tracker. Returns count sent."""
     cfg = PROFILE_CONFIG[profile]
+    chat_id = CHAT_IDS.get(profile, CHAT_ID)
 
     # Run scraper
     ok = run_scraper(profile, hours)
@@ -400,7 +425,7 @@ def process_profile(profile, hours, seen_urls):
         if upper is not None and upper < 60000:
             continue
 
-        # Location filter: reject known non-AB province codes and cities (even if remote-flagged)
+        # Location filter: reject known non-AB province codes and cities
         loc = (job.get("location") or "").lower()
         is_remote = bool(job.get("is_remote"))
         if any(p in loc for p in NON_AB_PROVINCES) or any(c in loc for c in NON_AB_CITIES):
@@ -408,7 +433,7 @@ def process_profile(profile, hours, seen_urls):
         if not is_remote and not any(k in loc for k in ("calgary", "alberta", ", ab", "ab,", "ab ")):
             continue
 
-        # Experience filter: skip if description requires more years than profile allows
+        # Experience filter
         max_exp = EXPERIENCE_MAX.get(profile)
         if max_exp:
             min_years = parse_min_years(job.get("description") or "")
@@ -420,13 +445,13 @@ def process_profile(profile, hours, seen_urls):
         if ann and ann < cfg["min_salary"]:
             continue
 
-        # Send to Telegram
+        # Send to profile's Telegram chat
         msg = format_job_message(job, profile)
         title_disp = job.get("title", "")
         co_disp    = job.get("company", "")
         print(f"  -> {title_disp} @ {co_disp}")
 
-        if tg_send(msg):
+        if tg_send(msg, chat_id=chat_id):
             seen_urls.add(url)
             append_tracker(title_disp, co_disp, profile, url)
             sent += 1
@@ -442,8 +467,8 @@ def main():
     parser.add_argument("--hours",    type=int, default=24,
                         help="Hours old filter (default: 24, max: 48)")
     parser.add_argument("--profiles", nargs="+",
-                        default=["JIGAR", "NEELAM", "XYZ", "ABC"],
-                        help="Profiles to process")
+                        default=["J", "N", "R", "G"],
+                        help="Profiles to process (J, N, R, G)")
     args = parser.parse_args()
 
     hours    = min(args.hours, 48)
@@ -464,12 +489,12 @@ def main():
 
     total = sum(summary.values())
 
-    # Send summary to Telegram
+    # Send summary to default chat
     lines = "\n".join(f"• {p}: {c} jobs" for p, c in summary.items())
     summary_msg = (
         f"✅ Job Hunt Done — {datetime.now().strftime('%Y-%m-%d %H:%M')} MST\n"
         f"{lines}\n"
-        f"Total: {total} new leads | Source: jobspy"
+        f"Total: {total} new leads | Sources: jobspy + talentegg + eluta"
     )
     print(f"\n{summary_msg}")
     tg_send(summary_msg)
