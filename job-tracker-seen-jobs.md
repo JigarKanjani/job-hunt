@@ -1598,3 +1598,8 @@
 | Front Desk & Client Coordinator/Receptionist – Car Wash & De | Happy Bays Car Wash & Detail Centre | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=17c4c05d95931f7e |
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-06 | J | https://www.linkedin.com/jobs/view/4397769250 |
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-04-06 | R | https://www.linkedin.com/jobs/view/4397759845 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-06 | J | https://ca.indeed.com/viewjob?jk=53effe83ccbf49c6 |
+| Administrative & Marketing Specialist | Colliers | 2026-04-06 | N | https://ca.indeed.com/viewjob?jk=bd48864de298c4a1 |
+| Lease Administrator | Colliers | 2026-04-06 | R | https://ca.indeed.com/viewjob?jk=694fad14fbeac1d5 |
+| Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=f0ac846504896853 |
+| Sales Associate | Colliers | 2026-04-06 | G | https://ca.indeed.com/viewjob?jk=ac389ceb8bed0ea4 |
