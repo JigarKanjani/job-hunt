@@ -1702,3 +1702,18 @@
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398383179 |
 | Consumer Finance Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385255198 |
 | Financial Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385240782 |
+| Oracle SCM Functional Analyst | IBM | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4384097106 |
+| Equipment Compliance Coordinator | Aecon Group Inc. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4385284492 |
+| AI Analyst | Enerflex Ltd. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4384405049 |
+| Analyst | Alberta Health Services | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395434421 |
+| Payroll Lead | Black Diamond Group | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4378546042 |
+| Talent Acquisition Specialist | Bayshore HealthCare | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=6d6c3161ea7dd10d |
+| Senior Client Specialist | Airways Truck Rentals | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=7dfa59c3dba77597 |
+| Sign Production Specialist | Total Sign Works Ltd | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398268060 |
+| Financial Advisor, Investment & Retirement Planning Monterey | Scotiabank | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4395432815 |
+| Mentor Hairstylist: Blonde & Extension Specialist with 3+ Ye | The Headroom Inc | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=147f93ded5cd4c80 |
+| Hairstylist: Blonde & Extension Specialist with 3+ Years Exp | The Headroom Inc | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=9c9283888e078cc3 |
+| CIAM Developer | HCLTech | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4395432580 |
+| Data Analyst (Annotation) | 30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4395430357 |
+| Real Estate Agent | MGSD Business Services Inc. | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=f650f467124713f6 |
+| Private Banking Officer, Sales | BMO | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398521842 |
