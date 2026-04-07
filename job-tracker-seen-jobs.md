@@ -1692,3 +1692,13 @@
 | CSC-Client Services Coordinator | Lifemark Health Group | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4384092513 |
 | Search Quality Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394754923 |
 | Financial Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385240782 |
+| Business Operations Co-op | Clio | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4385629723 |
+| GTM Program Manager | Clio | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4368440277 |
+| Accounting Administrator (AP/AR Admin)) | Black Diamond Lodging & Accommodations | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4377793621 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398375967 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398376940 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398387437 |
+| Freelance Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398506116 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398383179 |
+| Consumer Finance Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385255198 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385240782 |
