@@ -1672,3 +1672,10 @@
 | Computer Sales Associate (Full Time) | Best Buy | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=28f362e6e21c7789 |
 | Scheduler | Allied Universal | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398341564 |
 | Computer Sales Associate (Full Time) | Best Buy Canada | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4397997937 |
+| Buyer | Wesbell Communications | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398347500 |
+| Sustaining Operations Engineer | Canonical | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398355205 |
+| Planogram Migration Coordinator (Contract) | Glentel | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=642cb12e8af5cd15 |
+| PART-TIME APPOINTMENT COORDINATOR | Lexus of Calgary | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=16a8beb0f5659dd5 |
+| Production Financial Analyst | August Electronics Inc. | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394769337 |
+| Associate, Agricultural Services | TD | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=2e37424b84c4872e |
+| Behaviour Outreach Facilitator - Full Time | Calgary Humane Society | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398343957 |
