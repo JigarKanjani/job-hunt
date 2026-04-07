@@ -1679,3 +1679,11 @@
 | Production Financial Analyst | August Electronics Inc. | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394769337 |
 | Associate, Agricultural Services | TD | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=2e37424b84c4872e |
 | Behaviour Outreach Facilitator - Full Time | Calgary Humane Society | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398343957 |
+| Senior Business Solutions Analyst | Keyera Corp | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=07c10afa0f27ca24 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=e3ddc236ed652384 |
+| Senior Business Solutions Analyst | Keyera | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4394758899 |
+| Financial Advisor: Training Associate | Novara Financial | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=603bb24df64b025c |
+| Total Rewards Coordinator | Covenant Health Canada | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=e245d652f56ac6c5 |
+| Search Quality Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394754923 |
+| Administrative Support III-Postpartum Comm. Services | Primary Care Alberta | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=4d82a5c36efdac78 |
+| Customer Service Specialist | Spocket | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4394769969 |
