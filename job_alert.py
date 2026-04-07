@@ -21,6 +21,9 @@ BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID      = os.environ.get("TELEGRAM_CHAT_ID", "747174717")
 MAX_PER_PROFILE = 25   # max jobs sent per profile per run
 
+# Broadcast chat ID — receives ALL jobs from ALL profiles (e.g. a shared viewer)
+BROADCAST_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID_BROADCAST", "")
+
 # Per-profile Telegram chat IDs (falls back to default CHAT_ID if not set)
 CHAT_IDS = {
     "J": os.environ.get("TELEGRAM_CHAT_ID_J") or CHAT_ID,
@@ -455,6 +458,9 @@ def process_profile(profile, hours, seen_urls):
             seen_urls.add(url)
             append_tracker(title_disp, co_disp, profile, url)
             sent += 1
+            # Also send to broadcast chat (all-profiles viewer) if configured
+            if BROADCAST_CHAT_ID and BROADCAST_CHAT_ID != chat_id:
+                tg_send(msg, chat_id=BROADCAST_CHAT_ID)
         else:
             print(f"     [WARN] Telegram send failed, skipping")
 
