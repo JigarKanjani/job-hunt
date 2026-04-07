@@ -1717,3 +1717,23 @@
 | Data Analyst (Annotation) | 30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4395430357 |
 | Real Estate Agent | MGSD Business Services Inc. | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=f650f467124713f6 |
 | Private Banking Officer, Sales | BMO | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398521842 |
+| Operations Coordinator | Poptronic VR | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=b873ab2a700bf733 |
+| Junior Procurement Analyst | Whitecap Resources | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=9d04f673fc440bd9 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=5e194a8bd9f9535a |
+| Business Support Specialist | ATB Financial | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398556032 |
+| Program Manager-Aerospace/Aviation | ALTEN Canada | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4397935870 |
+| Senior Business Analyst | InSync Systems | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395461289 |
+| Senior Test Lead - Silicon Platform Validation | HCLTech | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398550486 |
+| Data Operations Specialist | Brilliant Harvest Inc. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395457064 |
+| Technical Analyst, Mining and Geology Systems | Elk Valley Resources | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398270910 |
+| Senior Human Resource Advisor | Canada Cartage | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=78677927951b0ee4 |
+| Branch Administrator | CIBC | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398547735 |
+| ETRM Delivery Lead / Program Manager | Adecco | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4395436964 |
+| Operations Trainer (Gas Plant) | CSV Midstream Solutions | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=0af7593acdbf02bb |
+| Data Analyst (Annotation) | 30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4395430357 |
+| Youth Development Coordinator | McMan Youth, Family and Community Servic | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=66e494b9355ce34e |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary | Walmart | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=dc89b731bb56faaa |
+| Customer Experience Associate | TD | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398543316 |
+| Customer Experience Associate | TD Securities | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398544233 |
+| Canada Research Chair (Tier I) and Associate/Full Professor, | University of Calgary | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4378013424 |
+| Presales Sr. Cybersecurity Advisor | Remote, Calgary | Optiv | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4385146958 |
