@@ -1737,3 +1737,30 @@
 | Customer Experience Associate | TD Securities | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398544233 |
 | Canada Research Chair (Tier I) and Associate/Full Professor, | University of Calgary | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4378013424 |
 | Presales Sr. Cybersecurity Advisor | Remote, Calgary | Optiv | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4385146958 |
+| Program Coordinator | Synergy Youth and Community Development  | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=7c6bb4fc9fa6cdc0 |
+| Field Coordinator/Engineer - Kiewit Energy Canada 2026 | Kiewit | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395457853 |
+| Technical Analyst, Mining and Geology Systems | Glencore | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395469362 |
+| Senior Move Coordinator | Stampede Moving And Storage Ltd | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=b030af08eace3d3c |
+| Community Support Worker | new age services | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=d41d902e8caaac61 |
+| Senior Systems Administrator | PC eSolutions | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=aed3484d84f18449 |
+| HSE Coordinator | Wild Rows Pump & Compression Ltd. | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=021a5d38da128b8b |
+| Spiritual Care Coordinator (2025-1548) | Carewest - Innovative Health Care | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=e3bf09c195675c54 |
+| Clinic Coordinator | Foothills Integrative Psychology | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=f957f49ecf66c11a |
+| Maintenance Technician & Facilities Coordinator | Sparrow Capital Inc. | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=1a0a20f6d98b630d |
+| Spiritual Care Coordinator (2025-1548) | Carewest - Innovative Health Care | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=c8a8a779538c98d2 |
+| Administrative Assistant | Scenic Acres Community Association | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4395446834 |
+| Payment Operations Coordinator | Clio | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4395486033 |
+| Administrative Assistant | BuzzClan | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398299023 |
+| Housing Policy Analyst | Strathcona County | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=1990152920299f74 |
+| Policy Analyst | Government Of Alberta | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=dd8d2d78c2ddb2d4 |
+| Analyst, Enterprise Risk - Internal Audit & Controls | MNP | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=706959f93effa927 |
+| Executive Technology Support Specialist (C Suite) | Hays | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398576166 |
+| Executive Technology Support Specialist (C Suite) | Hays | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398567462 |
+| Accounts Payable and Payroll Administrator | Kiewit | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4385631462 |
+| Compensation Administrator | BURNCO Rock Products Ltd | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398092329 |
+| Controller | Cedarglen Homes | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395476150 |
+| Commercial Real Estate Agent | LIANG Commercial Real Estate | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395462796 |
+| Internal Project Controller | CIMA+ | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398579359 |
+| Presales Sr. Cybersecurity Advisor | Remote, Calgary | Optiv | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4385146958 |
+| Social Media & Content Coordinator | OPA! of Greece | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395458724 |
+| Marketing Specialist - Demand Generation | EY | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395467800 |
