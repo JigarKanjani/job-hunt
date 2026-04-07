@@ -1639,3 +1639,21 @@
 | Receptionist | Equation Staffing Solutions Inc | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4394492603 |
 | Business Development Associate | PICTON Investments | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4394492448 |
 | Document Controller | Acero Engineering | 2026-04-06 | G | https://www.linkedin.com/jobs/view/4398017875 |
+| IT Specialist - Regional IT Services | DSV | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=7dc5c7d42b122435 |
+| Health and Safety Advisor | O.N.E. Transport Group | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=5a77821fa97bba8d |
+| Instrumentation Planner (Temporary) | Petronas Canada | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=e315fb607632c15e |
+| Operations Team Member (temp) | Gateway Services Inc. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=33bda4f4aa968b74 |
+| HSE Officer | Akribia Group LTD. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=5defc7285a90c98a |
+| Team Leader, Housewares Sales | Crate and Barrel | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=19fc9801c3da9908 |
+| HSSE Coordinator – Program Excellence | Stantec | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=03e9c8ece15776c7 |
+| Supervisor, Transportation | Core-Mark International, Inc. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=c2bd908c309c4c8f |
+| Team Lead, Operations System Support -WMS | Martin-Brower of Canada Co. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398330096 |
+| Supervisor, Transportation | Core-Mark International | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4394734340 |
+| Operations Team Member (temp) | Gateway Services Inc. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398097703 |
+| Data Operations Specialist | AltaML | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398302074 |
+| Client Care Coordinator - Remote | Edgewood Health Network | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=28ea3cfee5fba561 |
+| Client Care Coordinator - Remote | Edgewood Health Network | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=72c67bcf5b36ddbf |
+| E Constuction | Logistics Coordinator | Colas Canada | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=c64460c3eaef9fc6 |
+| Scheduler | Allied Universal | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=418c2380a55fe6b1 |
+| Front Desk Agent | Pomeroy Lodging | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4397977880 |
+| Personal Banking Advisor - Calgary Westhills | ATB Financial | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398076911 |
