@@ -1657,3 +1657,18 @@
 | Scheduler | Allied Universal | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=418c2380a55fe6b1 |
 | Front Desk Agent | Pomeroy Lodging | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4397977880 |
 | Personal Banking Advisor - Calgary Westhills | ATB Financial | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398076911 |
+| Client Concierge & Partner Specialist | Justin Havre Real Estate Team | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=7173abf9629a1943 |
+| Supervisor, Transportation | Core-Mark International, Inc. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=da1ab399e5047f86 |
+| Client Service Coordinator (Healthcare) | Careica Health | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=fffa357439047c6c |
+| Analyst, Inventory Control and Operations (4 month contract) | McKesson | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=4e37657a9076b3f0 |
+| HSSE Coordinator – Program Excellence | Stantec | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398318835 |
+| Mobile Test Automation Lead | Product Pulse | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4394749378 |
+| Compensation Analyst | CPKC | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398332294 |
+| Financial Advisor; Training Associate | Novara Financial | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=3810251305c25d5e |
+| Housing Relations Support Worker | Inn from the Cold | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=25b56ab69a64e218 |
+| Junior Integrations Specialist | Zūm Rails | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=a860277fcccc8e78 |
+| Process Trainer - Temporary | McCain Foods | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=06e12e8998d6dca9 |
+| Weekend Front Desk Receptionist – Car Wash & Detailing | Happy Bays Car Wash & Detail Centre | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=68325154fb2afb9c |
+| Computer Sales Associate (Full Time) | Best Buy | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=28f362e6e21c7789 |
+| Scheduler | Allied Universal | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398341564 |
+| Computer Sales Associate (Full Time) | Best Buy Canada | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4397997937 |
