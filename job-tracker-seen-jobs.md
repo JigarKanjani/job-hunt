@@ -1687,3 +1687,8 @@
 | Search Quality Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394754923 |
 | Administrative Support III-Postpartum Comm. Services | Primary Care Alberta | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=4d82a5c36efdac78 |
 | Customer Service Specialist | Spocket | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4394769969 |
+| Team Lead, Operations System Support -WMS | Martin Brower | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=c09158141154a11c |
+| RCO-Reports Coordinator | Lifemark Health Group | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4384091536 |
+| CSC-Client Services Coordinator | Lifemark Health Group | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4384092513 |
+| Search Quality Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4394754923 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4385240782 |
