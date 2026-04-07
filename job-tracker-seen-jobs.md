@@ -1789,3 +1789,36 @@
 | Imaging Specialist | Access | Information Management | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398585116 |
 | Customer Service Representative (Calgary South) | Trail Appliances AB/SK | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398582738 |
 | Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398599041 |
+| Field Coordinator/Engineer - Kiewit Energy Canada 2026 | Kiewit Corporation | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=c764eaf6bf2d6348 |
+| Estimator & Technical Coordinator, Window Coverings | RGO | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=f079f6be9f44efcc |
+| Travel Coordinator | CEDA | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=bb1f82a251a2e16d |
+| Care Coordinator | Lifemark Health Group | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398403687 |
+| Marketing Coordinator | VistaVu Solutions | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395481818 |
+| Advisor, Benefits | ATCO | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395472988 |
+| Summer Camp Coordinator | Closer to Home Community Services | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=8facf897d46c6814 |
+| Office Administrator | Andrew Sheret Limited | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=8d152f15a3e4464a |
+| HR Coordinator | Vivigro Sustainable Solutions Ltd. | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=b496408c068fb703 |
+| Case Manager | Big Hill Haven | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=058f467921d9cb50 |
+| Events Coordinator | Michaels | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=76ad1c1b814b3bb6 |
+| Site Coordinator | Athabasca Tribal Council | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=e23e1345ec0c8811 |
+| Project Administrator | Ward's Hydraulic Services LTd | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=127f5ea94207c6a6 |
+| Service Coordinator - Service & Field Support | Summit Valve and Controls | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=0a5aabfd2c7f2b56 |
+| Health & Safety Analyst | Montrose Environmental Group | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398400878 |
+| Senior Operational Readiness Advisor | Enbridge | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398416419 |
+| Client Implementation Coordinator | Blackline Safety | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398915079 |
+| Spiritual Care Coordinator (2025-1548) | Carewest Innovative Health Care | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398944036 |
+| Learning & Development Specialist | Canadian Mental Health Association - Cal | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=5eafa96f4527208f |
+| Casual Receptionist | Your Counselling Ltd | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=66766cb39761d19b |
+| Customer Service Representative | Action Furnace | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=8e7983d22700223b |
+| Sales Associate, Insurance | iA Groupe financier / iA Financial Group | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=5c0ecc8158d5178a |
+| Investment Associate | Wellington-Altus Private Wealth Inc. | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=0b8cb9af02d2ce19 |
+| Parts Associate - HD Trucks | Custom Truck One Source | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=7eb32d1cfaeaa266 |
+| Imaging Specialist | Access | Information Management | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398585116 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4393499348 |
+| Project Administrator | AES Engineering Ltd | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398408608 |
+| Academic Development Specialist, Neurodiversity and Access | University of Calgary | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398920059 |
+| Research Associate, Community Health Sciences | University of Calgary | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395713653 |
+| Investment Associate | Wellington-Altus | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395481804 |
+| Associate, Corporate (Financial Services) | Bennett Jones | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4337834160 |
+| Controller | Summit Search Group | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395496250 |
+| Electrical Quality Assurance Specialist/Checker | Tetranex Solutions Inc. | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398407630 |
