@@ -37,6 +37,7 @@ jobs:
           TELEGRAM_CHAT_ID_N: ${{ secrets.TELEGRAM_CHAT_ID_N }}
           TELEGRAM_CHAT_ID_R: ${{ secrets.TELEGRAM_CHAT_ID_R }}
           TELEGRAM_CHAT_ID_G: ${{ secrets.TELEGRAM_CHAT_ID_G }}
+          TELEGRAM_CHAT_ID_BROADCAST: ${{ secrets.TELEGRAM_CHAT_ID_BROADCAST }}
         run: |
           python job_alert.py --hours 3 --profiles J N R G
 
