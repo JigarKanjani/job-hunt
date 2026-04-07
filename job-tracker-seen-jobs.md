@@ -1764,3 +1764,28 @@
 | Presales Sr. Cybersecurity Advisor | Remote, Calgary | Optiv | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4385146958 |
 | Social Media & Content Coordinator | OPA! of Greece | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395458724 |
 | Marketing Specialist - Demand Generation | EY | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395467800 |
+| Electrical Quality Assurance Specialist/Checker | Tetranex Solutions Inc. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=ed5803ad9ad34b1a |
+| Case Manager, Community Housing Program | Discovery House Family Violence Preventi | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=465d3ba915d5a27d |
+| Technical Analyst, Mining and Geology Systems | Elk Valley Resources | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=b61dcf99aebc12ef |
+| Sourcing Manager - Pet Category | NewAge Products Inc. | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=2d8e0eed2aba817f |
+| Market Development Specialist - Prairies | NVA Canada | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=b7e88a2ad29a2037 |
+| Senior Integrated Logistics Support Specialist | Calian | 2026-04-07 | J | https://ca.indeed.com/viewjob?jk=a5375437ffe6cbef |
+| Junior Procurement Analyst | Whitecap Resources Inc. | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398579559 |
+| Senior Category Manager | JRoss Retail Recruiters | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4398578635 |
+| Lead Project Engineer | VIYA Environmental | 2026-04-07 | J | https://www.linkedin.com/jobs/view/4395489014 |
+| Youth Development Coordinator (Awake Overnight) | McMan Youth, Family and Community Servic | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=4ecb3b6c7c24a0c2 |
+| Overnight Program Support Worker | YWCA | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=2fbcd6f56495eb87 |
+| Accounts Payable Administrator | Luxuria Group | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=acafc938a9c610b6 |
+| Health and Safety Coordinator | Pembina West Co-op | 2026-04-07 | N | https://ca.indeed.com/viewjob?jk=d074bebeb753ecd3 |
+| Project Coordinator | PCL Construction | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398907291 |
+| Administrative Assistant | NR Consulting | 2026-04-07 | N | https://www.linkedin.com/jobs/view/4398415086 |
+| Accounting Analyst | Strike Group | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=831b4d7ee06d738b |
+| Office Administrator | Vortrax Construction Ltd | 2026-04-07 | R | https://ca.indeed.com/viewjob?jk=16b8a5fb90d26ee1 |
+| Power BI and Data Integration Developer | Dentons | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4398418166 |
+| Part Time Contract Controller - Public Company IFRS Reportin | AR Recruitment Ltd Calgary | 2026-04-07 | R | https://www.linkedin.com/jobs/view/4395471317 |
+| Multi-Department Support Specialist | Bristol Sinks | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=6a9804c9f74e01ba |
+| Customer Service Representative (Calgary South) | Trail Appliances AB/SK | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=93072f2ccd83de0d |
+| Specialist Project Engineer | Suncor Energy | 2026-04-07 | G | https://ca.indeed.com/viewjob?jk=46d7d80c57221b18 |
+| Imaging Specialist | Access | Information Management | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398585116 |
+| Customer Service Representative (Calgary South) | Trail Appliances AB/SK | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398582738 |
+| Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398599041 |
