@@ -1882,3 +1882,16 @@
 | Administrative Support II | Alberta Precision Labs | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=e24e9c2005c225fc |
 | Summer Camp Coordinator | Closer to Home Community Services | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399213539 |
 | Google Ads Specialist | Stylelabs Inc. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4395943935 |
+| Transportation Business Development Leader | HDR | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4368278430 |
+| Research Analyst | Cushman & Wakefield | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4384131028 |
+| Lead Instrumentation Engineer | Worley | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4377155364 |
+| Lead Electrical Designer | Worley | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4377150547 |
+| Lead Piping Designer | Worley | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4377142970 |
+| Store Administrator - Part Time | True North Mortgage | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=1e274f2a14ae013a |
+| Compliance Analyst II (Compliance Monitoring) | Affirm | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4375731897 |
+| Process Engineer Level II | Worley | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4377157262 |
+| Implementation Specialist I | Affirm | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386480694 |
+| Compliance Analyst II (Compliance Monitoring) | Affirm | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4375752414 |
+| AI Trainer - Remote | CodeGeniusRecruit | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4395964801 |
+| Implementation Specialist I | Affirm | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386491428 |
+| Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=3a03bb5d39cd6ac6 |
