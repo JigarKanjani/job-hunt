@@ -1875,3 +1875,10 @@
 | Junior Web Developer | Cybernest | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=b6d8937e53c2f833 |
 | Language Specialist - Fully Remote | Mercor | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399219073 |
 | Facilities Coordinator (6 months contract, full-time) | CBRE | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399221176 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=bbb9b89351410e7a |
+| Preadolescent Treatment Program – Child and Youth Care Couns | Hull Services | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4398462371 |
+| Network Specialist | Raytheon | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399207919 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399211727 |
+| Administrative Support II | Alberta Precision Labs | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=e24e9c2005c225fc |
+| Summer Camp Coordinator | Closer to Home Community Services | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399213539 |
+| Google Ads Specialist | Stylelabs Inc. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4395943935 |
