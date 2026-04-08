@@ -1936,3 +1936,31 @@
 | Publishing Specialist | FriesenPress | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=c10bdee4c7bc85d5 |
 | Contracts Advisor-Relocate to Saudi Arabia, Permanent Expat  | aramco | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398617066 |
 | Private Banking Associate | CIBC | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399414132 |
+| IT & Corporate Sourcing and Procurement Specialist | BURNCO Rock Products Ltd | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=1e49e59c06e84c8d |
+| Supply Chain Data Analyst | Convergint | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4386960967 |
+| Purchasing and Replenishment Agent | Wolseley Canada Inc. | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399299847 |
+| Conference Services Coordinator | McCarthy Tétrault | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399405918 |
+| Business Operations Lead | Enalees | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399410705 |
+| AI Trainer - Materials Science Specialists (Remote - Calgary | Prolific | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399411458 |
+| Senior Business Analyst Contract | NES Fircroft | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396345118 |
+| Contract, Senior Business Analyst | Agilus Work Solutions | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396332701 |
+| Community Support Worker- Spanish | Bridge to Care Inc | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=929fd30e2c761a3c |
+| Front Office Administrator | Quigley Electric Ltd. | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=0061afc180875bca |
+| Office Administrator | Centennial Food Solutions | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=d36019d407b2f426 |
+| Office Administrator | Carmichael Engineering | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=f93e47a448a9de5b |
+| Coordinator, Payroll & Benefits | Town of High River | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=328dbc56fbdc93e0 |
+| Case Manager | WINGS of Providence | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=262341ec0b066e6a |
+| AFRRCS Lease and License Coordinator | Government Of Alberta | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=96332b566ea8a867 |
+| Renovation Scheduling Coordinator | Towne and Countree Kitchens | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8a739de86a5041c3 |
+| Business Development Coordinator | McCarthy Tétrault | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399421193 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396345226 |
+| PT Contract Case Worker & Resource Navigator | HER Victory | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396322855 |
+| IT Support & Deployment Technician | First Response Technical Services Inc | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=055b55f10eb5095c |
+| Client Success Specialist | Blackline Safety | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=ebdab20f3eb48009 |
+| Junior AI Security Analyst | StellarAlgo | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396352437 |
+| Process Engineer | Acero Engineering | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399416679 |
+| Video Editing Specialist - Fully Remote | Mercor | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399413567 |
+| Graphic Designer & Print Production Specialist | Minuteman Press Calgary NE | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=fe1333c1584e6b1e |
+| Client Success Specialist | Blackline Safety | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399402872 |
+| Patent Coordinator | Gowling WLG | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4377645966 |
+| Client Relationship Specialist | Cardinal Point Wealth Management, ULC | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4376818786 |
