@@ -1964,3 +1964,29 @@
 | Client Success Specialist | Blackline Safety | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399402872 |
 | Patent Coordinator | Gowling WLG | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4377645966 |
 | Client Relationship Specialist | Cardinal Point Wealth Management, ULC | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4376818786 |
+| Advisor Talent Acquisition | CPKC | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=584f7867922fa367 |
+| Collections Specialist | Laviolette And Associates | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=8d92561dd78b0466 |
+| Senior Pursuit Specialist | Stantec | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=866a1c422c5b0ac9 |
+| Analyst Real Estate | CPKC | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=c4afb5461a082407 |
+| Procurement Administrator | BURNCO Rock Products Ltd | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=93001ba39ec69911 |
+| Project Coordinator | West Cirque Construction Inc | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=3cafb81935a05f14 |
+| Program Coordinator - RHPAP | RPAP | Health Workforce For Alberta | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=aa85a50a790a9224 |
+| Academic Coordinator/Coordinateur.trice académique | Lycee International de Calgary | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=87f9b4a363af8a5f |
+| Concierge Experience Coordinator | Virtuo | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396353755 |
+| Talent Acquisition Specialist | WSP in Canada | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396355849 |
+| Senior Pursuit Specialist | Stantec | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399439881 |
+| Senior Business Analyst | Raise | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396350828 |
+| Team Lead, SAP Operations | Precision Drilling | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4368828883 |
+| Resident Coordinator (Casual) | Chinese Christian Wing Kei Nursing Home | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=034cc16ee09ba7d1 |
+| Specialist Workers Compensation | CPKC | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=f02277e7770dc3fa |
+| Youth Program Coordinator | Hinton Friendship Centre | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=a761a6427e60b95f |
+| Employment - Social Worker | Medicine Hat YMCA | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=bca055f07c86e6eb |
+| CA Financial Advisor | Edward Jones | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396361282 |
+| Associate Financial Advisor | Tusk Financial Services Inc. | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396345927 |
+| Digital Marketing Coordinator & Graphic Designer | CIR REALTY | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399440678 |
+| CMMS Administrative Assistant | Lynchpin Technologies Ltd. | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396341807 |
+| SEO Analyst | Level Agency | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=002ab3acec245436 |
+| Tier 1 Technical Analyst | Cadence Solutions | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=9b32391eb685242f |
+| Data Analyst Intern | Carbon Upcycling Technologies | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396354687 |
+| Health & Safety Specialist | Montrose Environmental Group, Inc. | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=a08a74ac5ddef014 |
+| Specialist Real Estate | CPKC | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=9f14f88a41c4bf1a |
