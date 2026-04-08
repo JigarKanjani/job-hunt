@@ -1822,3 +1822,32 @@
 | Associate, Corporate (Financial Services) | Bennett Jones | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4337834160 |
 | Controller | Summit Search Group | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4395496250 |
 | Electrical Quality Assurance Specialist/Checker | Tetranex Solutions Inc. | 2026-04-07 | G | https://www.linkedin.com/jobs/view/4398407630 |
+| Project Coordinator | PCL Construction | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=8523b8da3553b982 |
+| Junior Project Coordinator | Government Of Alberta | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=fe10c9c8bf9ccaf5 |
+| Project Coordinator | Government Of Alberta | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=6abe0d4ade21ac04 |
+| INVENTORY CONTROL | Lexus of Calgary | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=ea4de164529d8ed0 |
+| Sr Sales and Operations Coordinator | Herc Rentals | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=49fa99ff90b26373 |
+| Senior Project Coordinator | Campbell Scientific, Inc. | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=8b70aa6a25e05598 |
+| Project Coordinator | QHR Technologies | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=53977388203fe7dc |
+| Team Lead, Operations System Support -WMS | Martin Brower | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=4044cb81fa3d7c08 |
+| Tax Analyst | Graham | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398949076 |
+| Site Leader | Ricoh USA, Inc. | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398953453 |
+| Senior Program Manager - Fibre Order Based Drops | TELUS | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4379469630 |
+| Senior Business Analyst - Sales Ordering Reliability | TELUS | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4390279606 |
+| Care Coordinator | Lifemark Health Group | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=d00ab696dd05ac99 |
+| Trust Administrator | RBC | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=db1d9944a94f8678 |
+| Service Coordinator | Finning | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=f8f12dd7558a9776 |
+| Job Opportunity: Office Administrator | Antique Granite | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=d7ba197c859f8a33 |
+| Certification and Exam Coordinator | Government Of Alberta | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=b7e09471ccfc5228 |
+| Temporary Part-Time Referral Coordinator | Edson Medical Centre | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=913dddb8b2d9686e |
+| Strategic Program Manager - Internet Connectivity Value Prop | TELUS | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4391218078 |
+| Enterprise Applications Specialist | Computer Modelling Group Ltd | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=198aca601e538c2d |
+| Business Analyst | Alberta Electric System Operator | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=13a68cdf5ba1f7fb |
+| Disability Claims Analyst, Individual Claims | RBC | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=0b6e3b1d49db87a7 |
+| Disability Claims Analyst, Individual Claims | RBC | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=aefe76c75c390068 |
+| Power BI and Data Integration Developer | Dentons | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=944cc88745bd1cd7 |
+| Surface Land Administrator/Coordinator | ORLEN Upstream Canada | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=81271ffcf159a1ea |
+| Billing Specialist, National Billing Delivery Centre | KPMG Canada | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4398975162 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4393499348 |
+| Marketing & Client Engagement Specialist | CoreData | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=01a2ce9899e16941 |
+| Admin Receptionist | Agilus Work Solutions | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4395906287 |
