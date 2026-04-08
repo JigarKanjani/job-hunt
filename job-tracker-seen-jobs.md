@@ -1990,3 +1990,48 @@
 | Data Analyst Intern | Carbon Upcycling Technologies | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396354687 |
 | Health & Safety Specialist | Montrose Environmental Group, Inc. | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=a08a74ac5ddef014 |
 | Specialist Real Estate | CPKC | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=9f14f88a41c4bf1a |
+| Procurement & Logistics Coordinator | Canam Pipe and Supply | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=88b5757a0382f19f |
+| Recruitment Specialist | CEDA | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=156c22393e9e7a09 |
+| Ecommerce Growth Lead, Amazon | Hadley Designs | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=c059afd4937f800d |
+| Transportation Engineer | The Town of CAnmore | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=69ba5830a178247c |
+| Senior Project Coordinator, Design Build | Park Landscaping | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=03016ad06f28ec8a |
+| Health and Safety Coordinator - Term Position | KLEYSEN GROUP LTD. | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=240954017dad5474 |
+| Philanthropy Coordinator | Alberta Cancer Foundation | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=fef9210cd9c92f6b |
+| Program Coordinator - RHPAP | RPAP | Health Workforce For Alberta | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=aa85a50a790a9224 |
+| Human Resources Coordinator | B2Gold Corp. | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=4aa92f3ad65c3c99 |
+| IT & Corporate Sourcing and Procurement Specialist | BURNCO Rock Products Ltd | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399473310 |
+| Marketing and Pricing Analyst | Superior Gas Liquids | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398626557 |
+| Financial Planning and Analysis Specialist | Catch Recruitment | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398625394 |
+| 700124 - Personal Care Specialist (12-month  Contract) | Cencora | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398636316 |
+| Only T4 - Business System Analyst (Payments) | Ampstek | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396364350 |
+| Data Engineer Lead (Hybrid Work Schedule) | Quorum Software | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398622715 |
+| Procurement Administrator | BURNCO Rock Products Ltd | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399472314 |
+| Specialist, Client Relationship Management (CRM) | Bennett Jones | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398638447 |
+| Activities Coordinator | Hostelling International Canada | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=f0442fc69c05a406 |
+| Youth & Family Counsellor I / II - Foster Care Network | Wood's Homes | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8476f9c297aee2da |
+| Sexual Violence Support Counsellors–Calgary Sexual Assault R | Calgary Communities Against Sexual Abuse | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=e44b95ed092e0143 |
+| Site Data and Enrollment Administrator | Enmax | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=6c91220db1b31007 |
+| Office Operations Coordinator | Velvet Vanity | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=d19b55955362dbad |
+| Logistics Coordinator | Big Rock Brewery | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8172af101047e68e |
+| Community Liaison - Werklund School of Education | University of Calgary | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399466293 |
+| HR & Recruitment Specialist Junior | 747 Recruitment | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4398621686 |
+| Marketing Communications Specialist | About Staffing | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4396353951 |
+| Business Intelligence Analyst | Alberta School Employee Benefit Plan | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=b8ebd37f3aeec8d3 |
+| Human Resources Analyst | Volker Stevin | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396362353 |
+| FP&A Analyst | TC Energy | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4398641336 |
+| Receptionist | SKA Thermal Spa | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=e2cbf15adb3e9a65 |
+| Front Desk Agent | Hostelling International Canada | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=4c2c43935bbdbb3a |
+| Agent à la réception | Hostelling International Canada | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=d0d7ec830ae095e5 |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=d1339ccc3aa2e115 |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=4224a9382d5e8193 |
+| Cargo Office Agent - YYC | Menzies Aviation | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399460864 |
+| Receptionist Casual AgeCare Midnapore | AgeCare | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399446862 |
+| Customer Experience Associate | TD | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399473168 |
+| Customer Experience Associate | TD | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399471220 |
+| Customer Experience Associate | TD | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399468270 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399462640 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399473151 |
+| Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398629529 |
+| Coordinator, Health & Safety | Saputo Inc. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399456787 |
+| Specialist, Employer Relations, Faculty of Science | University of Calgary | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399458773 |
+| Health & Safety Specialist | Montrose Environmental Group | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398632539 |
