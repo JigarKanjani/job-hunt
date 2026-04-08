@@ -1899,3 +1899,17 @@
 | Financial Advisor | RBC | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4385513748 |
 | Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386859152 |
 | Application Systems Analyst - Remote | Aurora Cannabis Inc. | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386482940 |
+| Marketing Coordinator | CEDAR & STEAM | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=fe6c08e0d40f07da |
+| Student Recruitment Advisor, Office of the Registrar | University of Calgary | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=2882f24a9d684839 |
+| BI Data Analyst | Gunvor Group | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4384755800 |
+| Advisor Talent Acquisition | CPKC | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399292061 |
+| Operations Associate (Part-Time) - CF Market Mall | ALO | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4374539122 |
+| Material Supply (Temporary) | ATCO | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396310613 |
+| Senior Business Analyst | Kelly Services (Canada), Ltd. | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398481611 |
+| Business Analyst, Operational Excellence | The Salvation Army in Canada | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4399288400 |
+| Service Coordinator | Homewood Health | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=0347540890410740 |
+| Disability Inclusion Specialist-Relocate to Saudi Arabia, Pe | aramco | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399285311 |
+| IP Docketing Specialist - Relocate to Saudi Arabia, Permanen | aramco | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4384325390 |
+| Quality Analyst (Government/Non-Profit) - Remote | CodeGeniusRecruit | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396302229 |
+| Imaging Specialist | Access | Information Management | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398585116 |
+| Payroll Specialist | RECRUITMENT PARTNERS INC. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4386940892 |
