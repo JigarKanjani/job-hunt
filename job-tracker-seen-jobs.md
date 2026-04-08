@@ -1895,3 +1895,7 @@
 | AI Trainer - Remote | CodeGeniusRecruit | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4395964801 |
 | Implementation Specialist I | Affirm | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386491428 |
 | Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=3a03bb5d39cd6ac6 |
+| Specialist, IT Product Operations, Data Distribution | S&P Global | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4386819018 |
+| Financial Advisor | RBC | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4385513748 |
+| Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386859152 |
+| Application Systems Analyst - Remote | Aurora Cannabis Inc. | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386482940 |
