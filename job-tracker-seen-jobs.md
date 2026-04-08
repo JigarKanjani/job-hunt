@@ -1866,3 +1866,12 @@
 | IT Support Technician (L1–L2) | Mindstone Consulting | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=eb8ef6741ce214c1 |
 | Controller | Cedarglen Homes | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=010d44fe7e150307 |
 | Associate, US Campus, Canada | Boston Consulting Group | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=a8fee38bb8b15e7f |
+| Performance Media Buyer (Remote) | Standard Conversions | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4395951605 |
+| Addictions Counsellor III | Recovery Alberta | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8ea2a2c782a4c51b |
+| Carbon Program Coordinator | Loam Bio | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=1d593e919c8b11b2 |
+| LRM Coordinator, Denny's | Northland Properties | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8c4c457f70454ad8 |
+| LRM Coordinator, Denny's | Denny's | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=c1ae4bc5f15f3f3a |
+| Human Resources Coordinator | Manluk Industries Inc | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=c42739ef7ef095b6 |
+| Junior Web Developer | Cybernest | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=b6d8937e53c2f833 |
+| Language Specialist - Fully Remote | Mercor | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4399219073 |
+| Facilities Coordinator (6 months contract, full-time) | CBRE | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399221176 |
