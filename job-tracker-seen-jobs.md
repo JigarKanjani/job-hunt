@@ -1851,3 +1851,18 @@
 | Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4393499348 |
 | Marketing & Client Engagement Specialist | CoreData | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=01a2ce9899e16941 |
 | Admin Receptionist | Agilus Work Solutions | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4395906287 |
+| Tax Analyst | Graham Construction | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=ed021b7d3d463ac3 |
+| Information Management Analyst | City of Calgary | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=94b7d843dfdcdb57 |
+| Human Resources Data Analyst | City of Calgary | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=6c7d8ce05a87abb0 |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=bb8767d1c9eb3abd |
+| Business Analyst | Alberta Electric System Operator (AESO) | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4395925528 |
+| Operations Supervisor | Canada Cartage | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398979151 |
+| Preadolescent Treatment Program – Child and Youth Care Couns | Hull Services | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=646edd6d01fc7499 |
+| Academic Development Specialist, Neurodiversity and Access | University of Calgary | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=b638881091b61713 |
+| People & Culture Coordinator | Bird Construction | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=c7f093dba84cf1b8 |
+| Coordinator, Resource Management | MNP | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4395924523 |
+| Student Recruitment Advisor, Office of the Registrar | University of Calgary | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4398982312 |
+| Social Worker | SE Health | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4398980184 |
+| IT Support Technician (L1–L2) | Mindstone Consulting | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=eb8ef6741ce214c1 |
+| Controller | Cedarglen Homes | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=010d44fe7e150307 |
+| Associate, US Campus, Canada | Boston Consulting Group | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=a8fee38bb8b15e7f |
