@@ -1913,3 +1913,26 @@
 | Quality Analyst (Government/Non-Profit) - Remote | CodeGeniusRecruit | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4396302229 |
 | Imaging Specialist | Access | Information Management | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398585116 |
 | Payroll Specialist | RECRUITMENT PARTNERS INC. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4386940892 |
+| Senior Contract Manager | Fluor Corp. | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=b6252f397506c53f |
+| Intermediate Project Coordinator (ICI Construction) | Maple Reinders Constructors | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=7cf5f06a10fbad84 |
+| Coordinator, Post-Secondary Engagement | Human Resources Institute Of Alberta | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=8a1d3374767ea174 |
+| Agro Sales Advisor | Pincher Creek Co-operative Assoc Ltd | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=13eae7a6e4215bb9 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-08 | J | https://ca.indeed.com/viewjob?jk=2c2a947cca5ab9d5 |
+| Material Coordinator | BuzzClan | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398499152 |
+| Coordinator Interline Agreement Audits | CPKC | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4384364815 |
+| Senior Business Analyst | InSync Systems | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396314503 |
+| Senior Business Analyst | Kelly | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396317290 |
+| Customer Success & Operations Associate | CoolIT Systems | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4376456653 |
+| Maintenance Engineering Specialist-Relocate to Saudi Arabia, | aramco | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4398616223 |
+| IT Systems & Security Specialist | Pengcorp Ltd. | 2026-04-08 | J | https://www.linkedin.com/jobs/view/4396337299 |
+| Remote Real Estate Client & Marketing Coordinator (Part-Time | Denise Hodgins | 2026-04-08 | N | https://ca.indeed.com/viewjob?jk=8421811cf9043882 |
+| Office Administrator | Carmichael Engineering Ltd. | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399411004 |
+| home support worker | Providence Alberta Home Care Inc. | 2026-04-08 | N | https://www.linkedin.com/jobs/view/4399400301 |
+| IT Support Engineer | HelloFresh | 2026-04-08 | R | https://ca.indeed.com/viewjob?jk=d92a63fa2d2791a8 |
+| Process Engineer - Utilities & Tank Farm-Relocate to Saudi A | aramco | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4398616217 |
+| Process Engineer - Solomon Benchmarking - Refinery Experienc | aramco | 2026-04-08 | R | https://www.linkedin.com/jobs/view/4386944075 |
+| Project Scheduler | Raytheon | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=bacebbd298ed0b4e |
+| Network Specialist | Raytheon | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=4a9db890e5b29033 |
+| Publishing Specialist | FriesenPress | 2026-04-08 | G | https://ca.indeed.com/viewjob?jk=c10bdee4c7bc85d5 |
+| Contracts Advisor-Relocate to Saudi Arabia, Permanent Expat  | aramco | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398617066 |
+| Private Banking Associate | CIBC | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399414132 |
