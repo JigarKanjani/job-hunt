@@ -2074,3 +2074,36 @@
 | Customer Service Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4396390156 |
 | Customer Service Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397200046 |
 | Property Administrator | Cushman & Wakefield | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399809097 |
+| Warehousing Customer Care Specialist, Calgary | Apps Cargo Terminals | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=5367342f9912667e |
+| Specialist, Employer Relations, Faculty of Science | University of Calgary | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=f968edaba6d4a452 |
+| Conference Services Coordinator | McCarthy Tétrault | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=d36838b758a986c5 |
+| Senior Advisor and Advisor Regulatory Operations | Pembina Pipeline Corporation | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=dbd02cc507ad5af0 |
+| Supervisor, Transportation | Core-Mark International, Inc. | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=3af7f6187e916035 |
+| Team Lead Alberta - Community Support Services | FirstService Residential | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=4bb5e7035b610fa0 |
+| Business Development Coordinator | McCarthy Tétrault | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=4d4081cf0effe802 |
+| Reality Capture Specialist | City of Calgary | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=4d8ab88aa81080f7 |
+| Whitehorn Housing Team Leader | Inn from the Cold | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=3d483ea13a26b66d |
+| Junior AI Security Analyst | StellarAlgo | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=11ad0e29850b8c3f |
+| Inventory Controller | Blue Grass | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=affc967ac1098d0f |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=7620cc82088fa2f9 |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=37fdc28cc006cac8 |
+| Summer Student - Supply Chain Management | WorkSafeNB | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=83d4f2f7093b32f6 |
+| Inventory Control Specialist II | MiTek | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397200346 |
+| Analyst II Volumetric Accounting | Enbridge | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4398670193 |
+| Occupational Health and Safety Advisor | MNP Executive Search & Professional Recr | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397200409 |
+| Housing Relations Support Worker | Inn from the Cold | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=e00bbe8635d9600b |
+| Community Liaison - Werklund School of Education | University of Calgary | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=b8760c5f703b9e3e |
+| Housing Support Worker - Strengthening Home Fires | Miskanawah Community Services Associatio | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=8b454a736f1de7bc |
+| Youth Justice Social Worker: YARD | City of Calgary | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=6c771abb818e9f76 |
+| Disability Case Manager | Manulife | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=ef3079bdadc8005e |
+| Disability Case Manager | Canada Life | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=3d700b53a99a0947 |
+| Global Payroll Implementation Specialist (STE) | Hootsuite | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4396393610 |
+| Puzzle Production Specialist | StumpCraft Inc. | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=38aeaa41a490a6c3 |
+| Creatio Developer | Bits In Glass | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=2b4e233e03fa2f98 |
+| Creatio Developer | Bits In Glass | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=64969332b505b959 |
+| Endpoint Specialist Technician | University of Lethbridge | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=93f5c8dada0297e4 |
+| STEM Content Specialist - Fully Remote | Mercor | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4399810522 |
+| Receptionist | Aim Land Services | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=75eee6852fc60646 |
+| Administrative Assistant | Distress Centre Calgary | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=f32d00f876567e92 |
+| Specialist Business Planning | CPKC | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399811650 |
+| Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399811941 |
