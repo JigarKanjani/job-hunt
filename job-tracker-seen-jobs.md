@@ -2179,3 +2179,21 @@
 | Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4398831410 |
 | Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4398828443 |
 | UService Service Advisor-Office of VP (Digital Transformatio | University of Calgary | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400218724 |
+| Building Maintenance Lead | City Vibe Developments | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=a50549dd0744a741 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=9c2f12cdae969b19 |
+| Program Budget & Financial Analyst | MatchBox Consulting Group | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4400234389 |
+| Community Support Worker - Part Time (Bearspaw) | Calgary Progressive Lifestyles Foundatio | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=ff1c15fca57f4f4c |
+| Service & Installation Coordinator | Renuit- Northern Contours | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=5ee3ccef659567f2 |
+| Contract & Licensing Administrator | Aplin | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400232917 |
+| Surface Land Administrator | Sproule ERCE | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400215816 |
+| Licensed Financial Advisor Assistant | Raymond James Ltd. | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4371604979 |
+| Licensed Wealth Advisor Assistant | Raymond James Ltd. | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4333943032 |
+| Counsellor, Registered Social Worker, or Registered Psycholo | Ashay Therapy Services | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4326211190 |
+| Administrative Assistant | NetworkPedia | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400232329 |
+| HR Tech Business Analyst | AECOM | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4398831951 |
+| Inventory Reconciliation Analyst | Agilus Work Solutions | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397602317 |
+| IT Specialist | Neighbourly Pharmacy | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4368377179 |
+| Customer Service Sales Representative | Elite Group Marketing | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=2a44f13bfae2950f |
+| Scheduler | Strathcona Resources Ltd. | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=2462138d78fa848e |
+| Facilities Planning Specialist | Agilus Work Solutions | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397288609 |
+| Marketing Specialist | Everbrave | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397287257 |
