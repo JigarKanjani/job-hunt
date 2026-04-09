@@ -2197,3 +2197,48 @@
 | Scheduler | Strathcona Resources Ltd. | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=2462138d78fa848e |
 | Facilities Planning Specialist | Agilus Work Solutions | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397288609 |
 | Marketing Specialist | Everbrave | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397287257 |
+| Business Development Specialist (Intermediate) | Phasor Engineering | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=d7e479b60df4a11a |
+| Field Sales Specialist - MDU (Calgary) | Rogers Communications | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=d9afd3a04c68c305 |
+| Marketing and Fund Development Coordinator | Cerebral Palsy Association in Alberta | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=1ea0bee8b1d96feb |
+| Community Connections Coordinator | hsca | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=9b017f3eeb5ef59d |
+| Whitehorn Housing Team Leader | Inn from the Cold | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=5f0c048aac73d14d |
+| Business Analyst and Organizational Management Specialist | Enmax | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=4b811cc8d79fe9d2 |
+| Operations Procurement Advisor | Pembina Pipeline Corporation | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=acd0e4ae2eb51c24 |
+| Business Analyst and Organizational Management Specialist | ENMAX | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397605977 |
+| Contracts Specialist | TAQA Group | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397622461 |
+| Procurement Specialist, Steel | BEUMER Group | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397612743 |
+| Operations Administrator | R2 Industrial Services | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397628235 |
+| Operations Coordinator, Student Services Administration | University of Calgary | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4400302291 |
+| Airside Experience Specialist - YYC | Signature Aviation | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4398852544 |
+| Business Solutions Analyst | ENMAX | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397613294 |
+| HR Tech Business Analyst | AECOM | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397620449 |
+| Senior Royalty Analyst | Strathcona Resources Ltd. | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4400279478 |
+| Marketplace Product Strategy Specialist | UFA | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397631356 |
+| Senior Network Analyst | Whitecap Resources Inc. | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4400282088 |
+| Engineered/Tagged Equipment Procurement Specialist | Worley | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4400289994 |
+| Crisis Line Worker | Distress Centre Calgary | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=4e8698df1a404da1 |
+| Youth & Family Counsellor I / II - Cottage 3 | Wood's Homes | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=db5ba403065ed136 |
+| Office Administrator | Remediclean | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=478e17d341464a1f |
+| Payroll and Benefits Coordinator | United Active Living  | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=9b004c5eb9ab2a69 |
+| Quality Coordinator | FLOWORKS INTERNATIONAL, LLC | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=6532bd0c6721ba7a |
+| Program Manager - Expression of Interest | Stantec | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400280570 |
+| Program Manager, CEVIC, Paediatrics | University of Calgary | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400307138 |
+| Senior Financial Advisor - Gates of Walden, Calgary, AB | Scotiabank | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4397625403 |
+| Data Analyst, HR | The Salvation Army in Canada | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4400300151 |
+| Technical Support Specialist (2026-011) | circle cardiovascular imaging | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=c1c047ce54ddad19 |
+| Cloud Systems Administrator | Empire Life Insurance | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=7d4ccc94d20056db |
+| Corporate Finance Analyst | Trimac Transportation | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397623601 |
+| HR Tech Business Analyst | AECOM | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397611559 |
+| Night Auditor/Front Desk Agent | Park Inn Calgary Airport North | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=7455c7f02f957052 |
+| Contracts Specialist | TAQA | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=590f8fd4aae703ba |
+| Sr. Market Development Associate | Export Development Canada | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=6ed0b38112b4f55a |
+| Receptionist | Blake, Cassels & Graydon LLP | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4383242929 |
+| Customer Experience Associate | TD | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400305221 |
+| Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400288812 |
+| Customer Service Associate - Pro Services | RONA | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400285444 |
+| Customer Service Instant Return Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397610240 |
+| Customer Service Instant Return Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397608444 |
+| Contract Administrator | Bantrel Co. | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400299426 |
+| Specialist - Living Medicines, Physiology and Pharmacology | University of Calgary | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400290735 |
+| Business Development Specialist (Intermediate) | Phasor Engineering Inc | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400309123 |
+| Financial Controller | KD Professional Services Corp. | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397612373 |
