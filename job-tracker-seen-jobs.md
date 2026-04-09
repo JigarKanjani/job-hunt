@@ -2113,3 +2113,12 @@
 | network administrator | Fort McMurray Toyota | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=807d144b19da8f74 |
 | Helpdesk Analyst, Tier II | Whitecap Resources Inc. | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4399850624 |
 | Email Workflow Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397217218 |
+| Procurement Specialist III | Acute Care Alberta | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=1af732160f36ee43 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=8c68cc775b3d77f5 |
+| Email Workflow Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397217218 |
+| Inbox Workflow Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397232123 |
+| Administrative Support III | Primary Care Alberta | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=41ef38d2f3ad0bce |
+| Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399864489 |
+| Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399861840 |
+| Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399864492 |
+| Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399870386 |
