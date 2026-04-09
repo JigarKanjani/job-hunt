@@ -2035,3 +2035,42 @@
 | Coordinator, Health & Safety | Saputo Inc. | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399456787 |
 | Specialist, Employer Relations, Faculty of Science | University of Calgary | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4399458773 |
 | Health & Safety Specialist | Montrose Environmental Group | 2026-04-08 | G | https://www.linkedin.com/jobs/view/4398632539 |
+| Supervisor, Transportation | Core-Mark International, Inc. | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=b429b6cd80003b3f |
+| Corporate Accounting Analyst | Alberta Investment Management Corporatio | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4396381776 |
+| Supervisor, Transportation | Core-Mark International | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4396367831 |
+| Senior Business Analyst | Agilus Work Solutions | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4396384402 |
+| Senior Advisor and Advisor Regulatory Operations | Pembina Pipeline Corporation | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4399489098 |
+| Operations Enablement Lead | Affirm | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4396382767 |
+| ERP Business Analyst - Finance | ALS | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4398637534 |
+| GROUP & EVENTS COORDINATOR | Nitehawk Year Round Adventure Park | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=75ef5f1a973b13e8 |
+| Social Worker ( Remote) | Easter Seals | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=fd8fd4bc55c4c1c8 |
+| Project Coordinator - Highway Maintenance | Ledcor | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=3908a218b278c3df |
+| Project Coordinator - Highway Maintenance | Ledcor | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=ecb390a3634a7a2b |
+| daycare coordinator | Little Forest Dwellers INC | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=b43d120904ccd8b5 |
+| Carbon Program Coordinator | Loam Bio | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4399473692 |
+| Intern - project coordinator | Schneider Electric | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4396370603 |
+| Financial Advisor/ Senior Financial Advisor - Coventry Hills | Servus Credit Union | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4396370882 |
+| Group Training Specialist | Clio | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4396392020 |
+| Communications Specialist | Canadian Cancer Society | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4396383445 |
+| Analyst, Tax [Transfer Pricing] | Doane Grant Thornton LLP | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=4fafa273d633a8e2 |
+| ERP Business Analyst - Finance | ALS Global | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=9118de54d55d5602 |
+| Business Analyst | Government Of Alberta | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=b72c762c380361e6 |
+| HR Analyst | Lakes District Maintenance | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=e33894000b7c47ba |
+| Learning and Development Analyst | PCL Construction | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=46f1bce2d50eecda |
+| Advisor IT Systems Analysis | Enbridge | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=f1bab4b42d754665 |
+| Analyst, Tax [Transfer Pricing] | Doane Grant Thornton LLP | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4399473728 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=694382b4fd90e835 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=8e09bcf1d4d8bcfd |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=de6f4f87c6b89934 |
+| Production Engineer (Electric Submersible Pump Specialist) | Suncor Energy | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=bc5bdb242f39996c |
+| Planner/Scheduler | Canadian Natural | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=3084c4667d94e9dc |
+| Customer Experience Associate | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=693c0de351e59fb5 |
+| Customer Experience Associate | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=68fd6de27678b3d2 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=690b17c3b7edc136 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=fc1a102839aca2f3 |
+| Personal Banking Associate- (Fixed Term Contract) | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=93fac4ec99e6fafd |
+| Customer Experience Associate | TD | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=3cf15fb40b7a1fc7 |
+| Cargo Office Agent - YYC | Menzies Aviation LATAM | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399484517 |
+| Customer Service Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4396390156 |
+| Customer Service Representative | Hertz | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397200046 |
+| Property Administrator | Cushman & Wakefield | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399809097 |
