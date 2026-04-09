@@ -2146,3 +2146,36 @@
 | Business Intelligence Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4387335867 |
 | MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397275376 |
 | Financial Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4386877258 |
+| Business Analyst | Insight Global | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397269863 |
+| Technology Operations Analyst II (Guidewire), Managed Servic | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385086600 |
+| Senior Technology Operations Analyst (Guidewire), Managed Se | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385086960 |
+| Technology Operations Analyst I - Managed Services Practice  | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385093305 |
+| Technology Operations Analyst II, Managed Services Practice, | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385091389 |
+| ALA - Enterprise Risk Coordinator | AltaGas Ltd. | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397288108 |
+| Analyste Intelligence d'affaire (Expert MicroStrategy) (Remo | RONA | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4387473856 |
+| HR & Payroll Coordinator | BC Fasteners & Tools Ltd. | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=a1e29d8186f1e97e |
+| Administrative Assistant/Receptionist | Tamarack Physiotherapy | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=11f2a011253a0b5e |
+| Financial Advisor, Investment & Retirement Planning - Southc | Scotiabank | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4387134221 |
+| Financial Advisor, Investment & Retirement Planning - Baseli | Scotiabank | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4387121893 |
+| BUSINESS ADVISOR, BDC ADVISORY SERVICES (Financial Managemen | BDC | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4385606351 |
+| Financial Advisor Assistant | Raymond James Ltd. | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4371615603 |
+| Financial Advisor Assistant | Raymond James Ltd. | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4372171069 |
+| Office Administrator | Victory Homes LTD | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=c210b5bdd464440d |
+| Intermediate QA Automation Engineer | Fable | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=0be3a5093aac3f55 |
+| Database Administrator 2 | City of Calgary | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=9277680f78c8dbe6 |
+| Consultant, Power Platform & D365 | MNP | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=0a949fbf80a3749a |
+| MEAN Stack Developer | Iris Software Inc. | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4400212410 |
+| Technical Developer - Microsoft Dynamics 365 Customer Engage | EY | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4385080554 |
+| MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397275376 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4400209668 |
+| General Merchandise Associate | Walmart | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=f145bedc9473ec9c |
+| General Merchandise Associate | Walmart | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=b560d7f43bd645ef |
+| Clinical Administrative Services Department, Administrative  | University of Calgary | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400223621 |
+| Receptionist | EY | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4385034724 |
+| Customer Service Representative - Milwaukee Tool | Techtronic Industries Canada Inc. | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4345767664 |
+| Client Solutions Associate - Western Centre of Excellence | Gallagher | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4377873736 |
+| Mortgage Specialist | BMO | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4387642717 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4398819605 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4398831410 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4398828443 |
+| UService Service Advisor-Office of VP (Digital Transformatio | University of Calgary | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400218724 |
