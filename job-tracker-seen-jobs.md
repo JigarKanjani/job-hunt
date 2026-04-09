@@ -2134,3 +2134,15 @@
 | AI Trainer – GDM Graphical Abstract - Computer Science (Full | Prolific | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397223663 |
 | AI Trainer – GDM Graphical Abstract - Computer Science (Full | Prolific | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397231527 |
 | Receptionist | Aim Land Services | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=89291bb88414a50c |
+| Supply Coordinator | Alberta Health Services | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=0953492f5c6efa81 |
+| Leasing Specialist Summer Student (5-Month Contract) | Avenue Living Residential | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4377664065 |
+| Senior Technology Operations Analyst, AMS SuccessFactors Ben | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385401119 |
+| Technology Operations Analyst II, Managed Services Practice, | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385097024 |
+| Senior Technology Operations Analyst, AMS CPI Integration, M | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385404073 |
+| Senior Technology Operations Analyst, AMS EC SuccessFactors, | EY | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4385090803 |
+| Buyer / Purchasing Agent – Supply Chain & Procurement | Remo | Crossing Hurdles | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4397245030 |
+| Treatment Coordinator | Impressions Orthodontics | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=c75401a7f50071b8 |
+| Human Resources Specialist | Remote | Crossing Hurdles | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4385017056 |
+| Business Intelligence Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4387335867 |
+| MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397275376 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4386877258 |
