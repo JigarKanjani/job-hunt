@@ -2107,3 +2107,9 @@
 | Administrative Assistant | Distress Centre Calgary | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=f32d00f876567e92 |
 | Specialist Business Planning | CPKC | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399811650 |
 | Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399811941 |
+| Health & Safety Coordinator | DV8 Energy | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=5d03a02a300eba4f |
+| Talent Acquisition Coordinator | Equinox Engineering | 2026-04-09 | N | https://ca.indeed.com/viewjob?jk=5d425bdcf4490250 |
+| Administrative Assistant - Building & Office | PBS Systems | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4398670503 |
+| network administrator | Fort McMurray Toyota | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=807d144b19da8f74 |
+| Helpdesk Analyst, Tier II | Whitecap Resources Inc. | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4399850624 |
+| Email Workflow Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397217218 |
