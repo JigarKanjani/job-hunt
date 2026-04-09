@@ -2122,3 +2122,15 @@
 | Customer Experience Associate | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399861840 |
 | Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399864492 |
 | Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4399870386 |
+| Resident Service Coordinator | Hines | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=f792b3e3cf1398c1 |
+| Analyst, Corporate Finance | Trimac | 2026-04-09 | J | https://ca.indeed.com/viewjob?jk=f04b58ca56ae3e5c |
+| Talent Acquisition Specialist (12 Month Contract) | Factor_ | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4387294682 |
+| Lead Electrical Engineer | Worley | 2026-04-09 | J | https://www.linkedin.com/jobs/view/4377144886 |
+| People Operations Automation & Enablement Specialist | Clio | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4387184435 |
+| Senior Financial Advisor | ONEtoONE Corporate Finance | 2026-04-09 | N | https://www.linkedin.com/jobs/view/4399868417 |
+| Helpdesk Analyst, Tier II | Whitecap Resources | 2026-04-09 | R | https://ca.indeed.com/viewjob?jk=9ded729b3c9e3416 |
+| Operational Excellence Analyst | InterPro Pipe + Steel | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4387621127 |
+| Inbox Workflow Analyst | Remote | Crossing Hurdles | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397232123 |
+| AI Trainer – GDM Graphical Abstract - Computer Science (Full | Prolific | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397223663 |
+| AI Trainer – GDM Graphical Abstract - Computer Science (Full | Prolific | 2026-04-09 | R | https://www.linkedin.com/jobs/view/4397231527 |
+| Receptionist | Aim Land Services | 2026-04-09 | G | https://ca.indeed.com/viewjob?jk=89291bb88414a50c |
