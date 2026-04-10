@@ -2242,3 +2242,35 @@
 | Specialist - Living Medicines, Physiology and Pharmacology | University of Calgary | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400290735 |
 | Business Development Specialist (Intermediate) | Phasor Engineering Inc | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4400309123 |
 | Financial Controller | KD Professional Services Corp. | 2026-04-09 | G | https://www.linkedin.com/jobs/view/4397612373 |
+| Project Coordinator | ConeTec Group | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=a247ea18caef006d |
+| Business Analyst | Aim Land Services | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=eb710f70fa8cde8d |
+| Seismic Imaging Analyst | Viridien | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=be84429fd9ea8892 |
+| Application Specialist - Measurement Instrumentation (Tempor | Spartan Controls | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=d01511c719a3adff |
+| GPU Sales Operations Analyst | Luxor Technology Corporation | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=6c5a8569c90bcdf7 |
+| Marketing Coordinator, Cyber | Qohash | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=d2e55928489c3056 |
+| Enterprise - ServiceNow ITOM Architect - Calgary, Alberta | Slalom Consulting | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=97897426f54c7ff5 |
+| Inventory Analyst | Agilus Work Solutions | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397641143 |
+| Senior Business Analyst | Adecco | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397644056 |
+| Technology Operations Analyst II (Guidewire), Managed Servic | EY | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397644425 |
+| Project Coordinator | Heritage Park Historical Village | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400338323 |
+| Financial Analyst | People Corporation | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397677114 |
+| Sales Coordinator | Wajax | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400305689 |
+| Senior Compliance Specialist | Ledcor | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=fd7bcb322cc9a0f3 |
+| Customer Success Coordinator, Eastern Canada | Ziing | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=75d163039fb7da67 |
+| Customer Success Coordinator, Western Canada | Ziing | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=51018627c900d90a |
+| Inventory Planning Coordinator | Bevo Farms Ltd | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=e5ba0b1d4471943e |
+| Career Pathways & Collegiate Programming Coordinator | Peace River School Division | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=a96c7828fa807e80 |
+| Account Coordinator | SWAY | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4393061253 |
+| Trainers/Facilitators (Roster Position) | ECO Canada | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400345154 |
+| Health Safety Environment Coordinator | Rocky Mountain Equipment | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4397640087 |
+| GOAPRDJP00000888 - Administrative Assistant - Senior | S M Software Solutions Inc | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400335638 |
+| IT Administrator (Contractor) | Mattermost | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=2ca00baba6b20b83 |
+| Security Analyst | Postmedia Network Inc. | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=2ca596cdb0dfd9fb |
+| Application and Infrastructure Analyst II | City of Edmonton | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=0e76c0b44b194869 |
+| Analyst, Market Intelligence | Avison Young | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397630732 |
+| Portfolio Administrator | Humans of HR | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397630562 |
+| Digital Advertising Specialist | Vesta Properties | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397640115 |
+| Receptionist - Part Time | Kaizen Automotive Group | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=e320affc94fbc57f |
+| Specialist Regulatory Reporting | CPKC | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=a13a216dd110687a |
+| Principal Consultant, Strategic Advisory Services (Remote, C | CrowdStrike | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398871156 |
+| Estate Insurance Associate | BMO | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400332932 |
