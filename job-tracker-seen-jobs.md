@@ -2299,3 +2299,20 @@
 | Associate Systems Developer | Co-operators | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400353320 |
 | Sr Tech Analyst, SF (Temporary) | Nutrien | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398875475 |
 | Financial Advisor - CIRO-ID | CIBC | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400367404 |
+| Desktop Support Analyst (TEMP) | Stantec | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=dd19bea3453bbda5 |
+| Functional Analyst, HRMS | Stantec | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=d6898cc0ab655cf8 |
+| Procurement Specialist I | Alberta Health Services | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397685298 |
+| Procurement Specialist I | Alberta Health Services | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4398101299 |
+| Go-to-Market & Partnerships Lead, AI Fabric | Bell | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400378169 |
+| HSE Coordinator | Rocky Mountain Equipment | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=ad4fdf7a6a70c30e |
+| Analyste, Service des règlements, Assurance invalidité indiv | RBC | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4397699287 |
+| LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400373328 |
+| Cost Analyst | Clark Builders | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=4540c3fbf611ad6b |
+| Quality Analyst - Remote Canada | Foundever | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=0ac0578f09779048 |
+| Oracle EPM Enterprise Data Management (EDM / EDMCS) Administ | NTT DATA | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=b7071ff1f22e0677 |
+| Health Informatics Analyst | Alignerr | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400376263 |
+| Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397687361 |
+| Clinical Systems Analyst | Alignerr | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400358895 |
+| E-Commerce Analyst - Fully Remote | Mercor | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400372328 |
+| Consumer Insights Analyst - Fully Remote | Mercor | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400372324 |
+| Treasury Solutions Specialist - RBC PayEdge | RBC | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400365896 |
