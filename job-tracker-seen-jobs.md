@@ -2274,3 +2274,28 @@
 | Specialist Regulatory Reporting | CPKC | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=a13a216dd110687a |
 | Principal Consultant, Strategic Advisory Services (Remote, C | CrowdStrike | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398871156 |
 | Estate Insurance Associate | BMO | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400332932 |
+| Operations Coordinator, Student Services Administration | University of Calgary | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=fe3871d82273c9a6 |
+| Program Manager, CEVIC, Paediatrics | University of Calgary | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=b0772a1251b0f1fa |
+| Accounts Receivable Coordinator - Calgary, AB | Zedcor Security Solutions | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=12ff163b98362897 |
+| Senior Royalty Analyst | Strathcona Resources Ltd. | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=d898ba3e534fe257 |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=bacb9d7fe2e5600e |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=998867241187de5d |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=19ae181af020ae89 |
+| Customer Service Specialist | TCL Supply Chain | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=7b01b6d541323fa0 |
+| Business Solutions Analyst | Enmax | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=ec415875178a3fc9 |
+| Care Services Coordinator | Nurse Next Door | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397668602 |
+| Administrative Assistant (Part-Time) | Wellington-Altus Private Wealth Inc. | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=25f931ddd247aa00 |
+| Specialist - Living Medicines, Physiology and Pharmacology | University of Calgary | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=18c166ee2782124e |
+| Clinical Administrative Services Department, Administrative  | University of Calgary | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=58f09e6272fabc05 |
+| Yard Worker | Amrize | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=f4942f58d0005fb1 |
+| Case Worker | enCompass Community Safety Agency | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=753fa1b487885b7a |
+| Field Service Technician / Field Specialist, Technology Serv | Ricoh | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=fa70554d6cd3ab76 |
+| Administrative Assistant (Part-Time) | Wellington-Altus | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4397678581 |
+| Business Analyst Summer Student | City of Calgary | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=44daa4174eb488da |
+| Calgary Police Service - Technical Support Unit Systems Admi | City of Calgary | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=f805ba74f8225e06 |
+| Telecom Analyst | Lifemark Health Group | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=9eb1be7f8b8d3325 |
+| Concepteur junior de systems | Co-operators Assurance et services finan | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397658510 |
+| Specialist Regulatory Reporting | CPKC | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400351406 |
+| Associate Systems Developer | Co-operators | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400353320 |
+| Sr Tech Analyst, SF (Temporary) | Nutrien | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398875475 |
+| Financial Advisor - CIRO-ID | CIBC | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400367404 |
