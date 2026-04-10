@@ -2316,3 +2316,6 @@
 | E-Commerce Analyst - Fully Remote | Mercor | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400372328 |
 | Consumer Insights Analyst - Fully Remote | Mercor | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400372324 |
 | Treasury Solutions Specialist - RBC PayEdge | RBC | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4400365896 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=cb8e5939d95cc5d9 |
+| Construction Technology Coordinator | Trotter & Morton Group of Companies | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=4e02e61c006bf38c |
+| Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397687361 |
