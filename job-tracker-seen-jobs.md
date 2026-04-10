@@ -2398,3 +2398,19 @@
 | Accounting Administrator | Grey Owl Engineering Ltd | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398140505 |
 | Resource Specialist - Housing | The Salvation Army in Canada | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398169558 |
 | Mortgage Specialist | BMO | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4388143422 |
+| Data Analyst (Temporary) | The Association of Professional Engineer | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=eabd648df35843e5 |
+| Store Supplies Lead | Contract until January 2027 | lululemon | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=ea7a9ffa306c01a5 |
+| Rail Logistics Coordinator | Suncor | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400603717 |
+| Project Coordinator - New Graduate | Amrize | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4399051882 |
+| Communications Advisor | Calgary West Central Primary Care Networ | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4398173768 |
+| Client Care Coordinator | Amplifon Canada | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=afeda459be443beb |
+| Volunteer and VIP Administrator | STARS | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400613590 |
+| Meter Services Administrator | ENMAX | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4398165829 |
+| Business Systems Analyst (Canada) | 360training.com | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=e53a69a1b1f65a8f |
+| Process Engineer | HOCS Projects | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398173520 |
+| Proposal Coordinator, Property & Buildings | WSP in Canada | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398173895 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=f01a162470726285 |
+| Junior Project Cost Controller (2026041078) | Thurber Engineering Ltd. | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=447b0aa22bdba5f8 |
+| Education & Marketing Facilitator | Money Mentors | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=11ac60bdd98527ac |
+| Project Coordinator - New Graduate | Amrize | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=e200c5a2300d1f6a |
+| Site Safety Officer (NCSO) | Framerz Inc | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=43472262bea5f31e |
