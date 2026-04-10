@@ -2366,3 +2366,35 @@
 | AI Trainer – Graphical Abstract - Computer Science (Fully re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398118516 |
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4377248325 |
 | General Merchandise Associate | Walmart | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=d553b748c2749113 |
+| Field Coordinator / Electrical Foreman | AP Electric CGL | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=082e924aebb2a012 |
+| Project Coordinator | Colas Canada | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=6fdec7972f04feb7 |
+| Junior Estimating & Operations Administrator | Leston Holdings (1980) Ltd. | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=633fb0b10d295e9d |
+| Supply Chain Specialist - Kiewit Supply Network | Kiewit | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4398161441 |
+| Global Banking & Markets Operations-Gas & Power Logistics-Ca | Goldman Sachs | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4377275104 |
+| Buyer | Cornerstone Building Brands | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4399051145 |
+| Service Coordinator | Flynn Group of Companies | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4387961704 |
+| Member Services Lead | Eau Claire Athletic Club | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4398165419 |
+| Logistics Representative | ChampionX | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4398172466 |
+| Business Analyst -Financial Reporting & Analytics | AVEVA | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4377263767 |
+| Project Coordinator | Colas Western Canada Inc. | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4399030934 |
+| Architectural Project Coordinator | Flynn Group of Companies | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4387966700 |
+| Community Rehabilitation Worker - Non-Residential | Independent Counselling Enterprises - Ca | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=a4d8d22669f27f8a |
+| Business Coordinator | Government Of Alberta | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=51098d9cb6575ed7 |
+| Office Administrator/Operations Administrator | Caltex Trilogy Inc | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=5008f2a914364c40 |
+| Patient Care Coordinator | Dominion Medical Centres | 2026-04-10 | N | https://ca.indeed.com/viewjob?jk=2815e40217042bdb |
+| Health And Safety Coordinator | Govan Brown & Associates | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4398169438 |
+| Program Manager, Delivery - CCaaS | TELUS Digital | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4369175689 |
+| Administrative Assistant | OP Elite Wealth | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4398169160 |
+| Project Financial Advisor | WSP in Canada | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4387788172 |
+| HR Administrator | Contractor Staffing Source | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=5bfe0951cc9df6aa |
+| Power Platform Developer - Digital | Turner & Townsend | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4377272110 |
+| Metallurgist - Process Engineer | Trafigura | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4348177232 |
+| Financial Analyst - Corporate Development | TC Energy | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4399047648 |
+| Analyst, CMHC Multifamily Program | Timbercreek | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400556532 |
+| Junior Data Analyst | Artech L.L.C. | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400580346 |
+| Database Developer, Information Technology (Remote) | Signal49 Research | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4388111454 |
+| Front Receptionist | CoLAB Health and Body | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=1fa8b7660a0aa7e1 |
+| Receiving Associate | Well.ca Inc | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=f29ec682484e7aa8 |
+| Accounting Administrator | Grey Owl Engineering Ltd | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398140505 |
+| Resource Specialist - Housing | The Salvation Army in Canada | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4398169558 |
+| Mortgage Specialist | BMO | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4388143422 |
