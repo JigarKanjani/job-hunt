@@ -2319,3 +2319,14 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=cb8e5939d95cc5d9 |
 | Construction Technology Coordinator | Trotter & Morton Group of Companies | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=4e02e61c006bf38c |
 | Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4397687361 |
+| Business Analyst | Aim Land Services | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=1a0c822f891e5047 |
+| Aircraft Structures Lead Technician (C-17) | Boeing | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4399014259 |
+| Senior Hazardous Materials Specialist | Dillon Consulting Limited | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4340155525 |
+| Health and Safety Coordinator | Minto Group | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4378733532 |
+| Analyst, Advisory (Remote - Canada) | Altus Group | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4397699834 |
+| Office Administrator | Cadillac Fairview | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4388199110 |
+| Administrative Assistant - Fully Remote | Mercor | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400398444 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4387348401 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400502494 |
+| Customer Service Representative/ Inside Sales Representative | Daikin Comfort | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4377244828 |
+| Business Continuity Specialist - Exercises & Testing (Remote | CrowdStrike | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4374897506 |
