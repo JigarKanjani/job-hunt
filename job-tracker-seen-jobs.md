@@ -2348,3 +2348,21 @@
 | AI Trainer – Graphical Abstract - Computer Science (Fully Re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398108637 |
 | Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4385702557 |
 | ScotiaMcLeod Investment Associate - Calgary | Scotia Wealth Management | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4387747067 |
+| Logistics Coordinator | NTS Amega West Canada, Ltd. | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=55db2c2b3ec15c04 |
+| Sales & Marketing Coordinator | LitesGo Lighting & Electrical | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=df9dbfae8cec8711 |
+| Senior Inventory Analyst | Bimbo Canada | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4352750343 |
+| Business Analyst Consultant - Calgary (future opportunities  | Sia | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400531991 |
+| Procurement Coordinator | CoolIT Systems | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4377630302 |
+| Financial Analyst, FP&A | Enerflex Ltd. | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4353105725 |
+| AI Enablement & Solutions Specialist | KBC A Yokogawa Company | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4400524720 |
+| Underwriting Specialist, National Accounts Management Liabil | Zurich Canada | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4387785339 |
+| Senior Process Lead Engineer - Heavy Oil/SAGD | Wood | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4346076890 |
+| E-Discovery Case Manager | Osler, Hoskin & Harcourt LLP | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4359836384 |
+| Financial Planner, Scotia Financial Planning - Calgary | Scotiabank | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4387777693 |
+| Senior Proposal Coordinator | Arcadis | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4357715842 |
+| GOAPRDJP00000888 - Administrative Assistant - Senior | S M Software Solutions Inc | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4400534497 |
+| Software Implementation Specialist (TruckMate) | Robert Half | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398122926 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| AI Trainer – Graphical Abstract - Computer Science (Fully re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398118516 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4377248325 |
+| General Merchandise Associate | Walmart | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=d553b748c2749113 |
