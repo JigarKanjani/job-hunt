@@ -2330,3 +2330,21 @@
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4400502494 |
 | Customer Service Representative/ Inside Sales Representative | Daikin Comfort | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4377244828 |
 | Business Continuity Specialist - Exercises & Testing (Remote | CrowdStrike | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4374897506 |
+| Child and Youth Outreach Case Manager | YWCA | 2026-04-10 | J | https://ca.indeed.com/viewjob?jk=a3c4ee57e667852f |
+| Transportation Engineers/Designers | ISL | 2026-04-10 | J | https://www.linkedin.com/jobs/view/4387754973 |
+| Senior Regulatory Environmental & Sustainability Advisor | Montrose Environmental Group | 2026-04-10 | N | https://www.linkedin.com/jobs/view/4385700339 |
+| Liquor/Cannabis Licensing Specialist | Alberta Gaming, Liquor & Cannabis (AGLC) | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=5c3b67a8fe025559 |
+| IT Analyst II | Alberta Health Services | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=4662134c14e8da50 |
+| IT Analyst II | Alberta Health Services | 2026-04-10 | R | https://ca.indeed.com/viewjob?jk=4e3b12524386355e |
+| Learning Coordinator | KPMG Canada | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4378345818 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4387332939 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4387348401 |
+| Statistical Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4387730256 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| AI Trainer – Graphical Abstract - Computer Science (Fully Re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398110574 |
+| AI Trainer – Graphical Abstract - Computer Science (Fully Re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398110602 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4377248325 |
+| Application Developer – Remote | Twine | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4399011625 |
+| AI Trainer – Graphical Abstract - Computer Science (Fully Re | Prolific | 2026-04-10 | R | https://www.linkedin.com/jobs/view/4398108637 |
+| Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4385702557 |
+| ScotiaMcLeod Investment Associate - Calgary | Scotia Wealth Management | 2026-04-10 | G | https://www.linkedin.com/jobs/view/4387747067 |
