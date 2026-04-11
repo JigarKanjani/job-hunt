@@ -2504,3 +2504,7 @@
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247390384 |
 | Manufacturing Associate - Threaded Rods | IMT Group | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4378607246 |
+| Electrical Field Coordinator - Energy Construction | Kiewit | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4359271996 |
+| ServiceNow GRC Developer | RSM Canada | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4377990430 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247390384 |
