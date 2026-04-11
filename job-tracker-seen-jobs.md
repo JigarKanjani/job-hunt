@@ -2469,3 +2469,14 @@
 | Senior Financial Analyst | Alberta Health Services | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398746205 |
 | VMware Services Specialist | Softchoice | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4383969819 |
 | Social Worker | Recovery Alberta | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=e2f04f04cf04fca5 |
+| Market Research Analyst | TEC Canada | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=98e7f5864a403f7f |
+| Investment Fund Analyst | ALBERTA SECURITIES COMMISSION | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=4e5ce6f55bde66bb |
+| Project Coordinator | Logel Homes | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=7fa236a395e4457d |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=09739aecd66382f4 |
+| General Relief Support Workers (3 positions) Residential Pro | Calgary Alternative Support Services | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=c6fc52fbafc1e7cb |
+| Program Coordinator - Leadership Development Fellowship Prog | Africa Centre | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=86f5587b960b5993 |
+| Business Systems Programmer | Northwestern Polytechnic | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=09c8929a0fd32f4c |
+| Meter Services Administrator | Enmax | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=233bdc177729e3c3 |
+| Process Engineer- Mining & Uranium | Fluor Corporation | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388556151 |
+| Analyst II, Strategic Insights | Affirm | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388545456 |
+| Analyst II, Strategic Insights | Affirm | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388550343 |
