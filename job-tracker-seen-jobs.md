@@ -2468,3 +2468,4 @@
 | Corporate Shared Services Executive Lead | Alberta Health Services | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398730382 |
 | Senior Financial Analyst | Alberta Health Services | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398746205 |
 | VMware Services Specialist | Softchoice | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4383969819 |
+| Social Worker | Recovery Alberta | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=e2f04f04cf04fca5 |
