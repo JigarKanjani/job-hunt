@@ -2508,3 +2508,6 @@
 | ServiceNow GRC Developer | RSM Canada | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4377990430 |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Project Administrator ( 1 year Contract ) | AFL | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4379086059 |
+| People & Culture Specialist | Paladin Security Group Ltd | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4399349234 |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=da6bfaebb9ee28a9 |
