@@ -2492,3 +2492,15 @@
 | Claims Specialist, Liability - Calgary | Zurich Canada | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4388558927 |
 | GOAPRDJP00000888 - Administrative Assistant - Senior | S M Software Solutions Inc | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4400926236 |
 | Technical Support Engineer | S&P Global | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4377960097 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=ac51f3556e3159bb |
+| Project Coordinator | PTAG | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4362375185 |
+| Global Banking & Markets Operations - Gas & Power Logistics  | Goldman Sachs | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4377602682 |
+| Sales Coordinator | Skyview Blinds & Shades | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=99f192f41e8e54d9 |
+| Inventory Control Worker | Pet Valu | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4377955232 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4400924550 |
+| Go Developer | Remote | Crossing Hurdles | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4398746981 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4400929350 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=3c8d17165b5afecc |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Manufacturing Associate - Threaded Rods | IMT Group | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4378607246 |
