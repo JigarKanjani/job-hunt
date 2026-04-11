@@ -2480,3 +2480,10 @@
 | Process Engineer- Mining & Uranium | Fluor Corporation | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388556151 |
 | Analyst II, Strategic Insights | Affirm | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388545456 |
 | Analyst II, Strategic Insights | Affirm | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388550343 |
+| Specialist | Alberta Health Services | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=2f7db1f90bdb131d |
+| Senior Financial Analyst | Alberta Health Services | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=79e0d7c500062271 |
+| Senior Business Intelligence Analyst | Clio | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4359265174 |
+| Enterprise Account Executive | Dataiku | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4388545891 |
+| Business Intelligence Developer | McCarthy Tétrault | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4385764953 |
+| Business Intelligence Developer | McCarthy Tétrault | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388532405 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4400912340 |
