@@ -2511,3 +2511,6 @@
 | Project Administrator ( 1 year Contract ) | AFL | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4379086059 |
 | People & Culture Specialist | Paladin Security Group Ltd | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4399349234 |
 | (CAN) General Merchandise Associate | Walmart | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=da6bfaebb9ee28a9 |
+| Talent Acquisition Specialist | Passion Dental Group | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398772300 |
+| Program Facilitator | Resilient Hearts | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=44273a6b58faf833 |
+| Full Time Program Facilitator | Resilient Hearts | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4398762432 |
