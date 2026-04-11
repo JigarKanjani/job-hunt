@@ -2487,3 +2487,8 @@
 | Business Intelligence Developer | McCarthy Tétrault | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4385764953 |
 | Business Intelligence Developer | McCarthy Tétrault | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4388532405 |
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4400912340 |
+| New Graduate Sales Leadership Program - Calgary 2026 | PepsiCo | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4295845573 |
+| Measurement Coordinator | Pacific Canbriam Energy | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4375551517 |
+| Claims Specialist, Liability - Calgary | Zurich Canada | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4388558927 |
+| GOAPRDJP00000888 - Administrative Assistant - Senior | S M Software Solutions Inc | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4400926236 |
+| Technical Support Engineer | S&P Global | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4377960097 |
