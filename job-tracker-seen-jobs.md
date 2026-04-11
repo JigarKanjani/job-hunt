@@ -2465,3 +2465,6 @@
 | Customer Service Associate - Seasonal | RONA | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4400674381 |
 | Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4399099913 |
 | Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4400686299 |
+| Corporate Shared Services Executive Lead | Alberta Health Services | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398730382 |
+| Senior Financial Analyst | Alberta Health Services | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398746205 |
+| VMware Services Specialist | Softchoice | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4383969819 |
