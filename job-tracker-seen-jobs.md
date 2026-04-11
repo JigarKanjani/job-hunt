@@ -2451,3 +2451,17 @@
 | Part-Time Front Desk Associate - Calgary | MYO | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=16bbc868fdb49201 |
 | Part-Time Front Desk Associate - Calgary | Myo | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4398190796 |
 | (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart Canada | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4399072657 |
+| Contracts Analyst | Pembina Pipeline Corporation | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=29cd34bbaf078757 |
+| Rail Logistics Coordinator | Suncor Energy | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=0a81375d23d4594f |
+| Planner/Scheduler (2200) | Bouchier | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=dd6aa2248f4f438a |
+| Senior Youth & Family Counsellor - TCBC | Wood's Homes | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=598d397f6ba8b9f2 |
+| Senior Document Control/Project Administrator - Vancouver or | Ausenco | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=ecc23bff1c80f240 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4398717616 |
+| Treatment Coordinator - Calgary, AB - 11145 | 123Dentist | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4398712766 |
+| Novice Quality Assurance Analyst | atVenu | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4400682211 |
+| Accounts Receivable Coordinator | EY | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4399302138 |
+| Mobile Sales Associate (Full Time) | Best Buy | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=9caba165a162da0a |
+| Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=adda9fdd4f177da1 |
+| Customer Service Associate - Seasonal | RONA | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4400674381 |
+| Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4399099913 |
+| Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4400686299 |
