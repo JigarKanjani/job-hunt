@@ -2414,3 +2414,40 @@
 | Education & Marketing Facilitator | Money Mentors | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=11ac60bdd98527ac |
 | Project Coordinator - New Graduate | Amrize | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=e200c5a2300d1f6a |
 | Site Safety Officer (NCSO) | Framerz Inc | 2026-04-10 | G | https://ca.indeed.com/viewjob?jk=43472262bea5f31e |
+| Environmental Planner | Dillon Consulting Limited | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=f63f989f1c33fb7a |
+| Digital Marketing & Customer Experience Coordinator (AI & Au | McInnis & Holloway Funeral Home | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=6c33b0351c56487f |
+| Program Manager | Nulogy | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=3213e170bd1f0bcb |
+| Project Coordinator | West Cirque Construction Inc | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=ec4426487463df90 |
+| Program Manager | ARC BUSINESS SOLUTIONS | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=e13e21a239c22816 |
+| Lead/Senior Piping Stress Engineer | Vista Projects | 2026-04-11 | J | https://ca.indeed.com/viewjob?jk=f08dabdcde06eecb |
+| Inventory Control Analyst | Adecco | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398701609 |
+| Contracts Analyst | Pembina Pipeline Corporation | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4400637826 |
+| Logistics Coordinator | Enerflex Ltd. | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4399066602 |
+| Expeditor/Buyer | HOCS Projects | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398189289 |
+| Project Coordinator | Logel Homes | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4399070791 |
+| Cloud Operations & Infrastructure Graduate - Canada | AVEVA | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398182695 |
+| ERP Technical Analyst (Sage X3) | High Tide Inc. | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398703268 |
+| Senior Advisor, Communications, Potash and Midstream - Saska | Nutrien | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=853e25e0260e24eb |
+| Natural Choice Advisor (Crowfoot) | Calgary Co-operative Association Limited | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=102647da824e9639 |
+| Credit Analyst, Agriculture Services | TD | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=4dbc0285a4d66e03 |
+| Treatment Coordinator - Calgary, AB - 11145 | 123Dentist | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=2fe8642e5d83bba0 |
+| Volunteer and VIP Administrator | Stars | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=dd4c07291fd1aa5f |
+| Research Ethics & Governance Administrator | Southern Alberta Institute of Technology | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=afc624df76314c0b |
+| Project Coordinator | PCL Construction | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=80c3d488ff4be0ee |
+| Business Coordinator | Cushman & Wakefield | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=536dfe942a005748 |
+| Chiropody Administrative Coordinator | LMC Healthcare | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=724341431ff431eb |
+| Financial & Admin Coordinator | Government Of Alberta | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=b0f5c845a67675dc |
+| Senior Financial Assistance Coordinator | Government Of Alberta | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=73a19c89a36fa8f3 |
+| Administrative Assistant | BEST - For a Cleaner World | 2026-04-11 | N | https://ca.indeed.com/viewjob?jk=fa126a989525253e |
+| Administrative Assistant | Rising Edge Group | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4400629749 |
+| Mortgage Specialist - Calgary | Scotiabank | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4301988939 |
+| Addiction Support Worker | Enviros WSA | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4398167992 |
+| GOAPRDJP00000888 - Administrative Assistant - Senior | S M Software Solutions Inc | 2026-04-11 | N | https://www.linkedin.com/jobs/view/4400668462 |
+| Finance Analyst | MEDICENTRES CANADA | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=4d6428671be0242e |
+| ECommerce Data Analyst | dbrand | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=b6ce8a19b3a3aab9 |
+| Product Support Specialist | JOBBER | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=6ae282758fc1ce56 |
+| IT Administrator (Contractor, 40 hours per month) | Aequilibrium Software Inc. | 2026-04-11 | R | https://ca.indeed.com/viewjob?jk=4745ddd9bd7a5b50 |
+| Strategy Analyst | TC Energy | 2026-04-11 | R | https://www.linkedin.com/jobs/view/4399069672 |
+| Part-Time Front Desk Associate - Calgary | MYO | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=16bbc868fdb49201 |
+| Part-Time Front Desk Associate - Calgary | Myo | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4398190796 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart Canada | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4399072657 |
