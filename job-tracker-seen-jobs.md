@@ -2519,3 +2519,10 @@
 | Data Analyst | Nutrien | 2026-04-12 | R | https://ca.indeed.com/viewjob?jk=a4e5647a9808f839 |
 | referral coordinator | South Side location | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=6daf1958fc1f275c |
 | Implementation Coordinator - Marine Safety Management System | E. Grubens Transport | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=b031d209fea0d918 |
+| construction project coordinator | Alberta BTC Group | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400959877 |
+| Part-Time Event Sales & Coordinator | LAST Modern Event Venue Inc. | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=55b932c3c2d53c90 |
+| Analyste Service des règlements, Invalidité, Assurance colle | RBC | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4398781490 |
+| home support worker | Golden Home Caregivers Corp. | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4400958994 |
+| Data Annotation Specialist - Remote | CodeGeniusRecruit | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4398778315 |
+| Scientific Software Specialist - Remote | CodeGeniusRecruit | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4398795146 |
+| Health and Safety Coordinator | MatchBox Consulting Group | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4400952855 |
