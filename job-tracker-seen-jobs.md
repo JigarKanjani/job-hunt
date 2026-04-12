@@ -2549,3 +2549,4 @@
 | Senior Human Resource Advisor | Canada Cartage | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=b7fd9336f55f02d4 |
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Project Controller | Siemens | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4377978280 |
+| People & Culture Specialist | Paladin Security Group Ltd | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4399379312 |
