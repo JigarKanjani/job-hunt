@@ -2545,3 +2545,7 @@
 | Sample Coordinator, Marketing Production & Operations [20875 | Aquent | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4388740283 |
 | Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4249431364 |
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Data Analyst | Bird Construction | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4367903224 |
+| Senior Human Resource Advisor | Canada Cartage | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=b7fd9336f55f02d4 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Project Controller | Siemens | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4377978280 |
