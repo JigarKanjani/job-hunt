@@ -2514,3 +2514,6 @@
 | Talent Acquisition Specialist | Passion Dental Group | 2026-04-11 | J | https://www.linkedin.com/jobs/view/4398772300 |
 | Program Facilitator | Resilient Hearts | 2026-04-11 | G | https://ca.indeed.com/viewjob?jk=44273a6b58faf833 |
 | Full Time Program Facilitator | Resilient Hearts | 2026-04-11 | G | https://www.linkedin.com/jobs/view/4398762432 |
+| Service Support Specialist | Lexus of Royal Oak | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=8168713030514ee2 |
+| Logistics Representative | SLB | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4399345384 |
+| Data Analyst | Nutrien | 2026-04-12 | R | https://ca.indeed.com/viewjob?jk=a4e5647a9808f839 |
