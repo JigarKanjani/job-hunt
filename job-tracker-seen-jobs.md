@@ -2517,3 +2517,5 @@
 | Service Support Specialist | Lexus of Royal Oak | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=8168713030514ee2 |
 | Logistics Representative | SLB | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4399345384 |
 | Data Analyst | Nutrien | 2026-04-12 | R | https://ca.indeed.com/viewjob?jk=a4e5647a9808f839 |
+| referral coordinator | South Side location | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=6daf1958fc1f275c |
+| Implementation Coordinator - Marine Safety Management System | E. Grubens Transport | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=b031d209fea0d918 |
