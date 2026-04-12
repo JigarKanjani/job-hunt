@@ -2530,3 +2530,7 @@
 | production coordinator | Lovingly Made | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400971562 |
 | property management operations coordinator | AM PM Properties Inc | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400968650 |
 | home support worker | YYC Home Care Services | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4400974578 |
+| procurement manager | Qamaria Yemeni Coffee | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400979582 |
+| Staff Endpoint Engineer (Client Platform Engineering) | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369173850 |
+| Staff Product Designer, Design Systems | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369181786 |
+| Staff Endpoint Engineer (Client Platform Engineering) | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369181787 |
