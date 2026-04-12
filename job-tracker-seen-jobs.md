@@ -2550,3 +2550,5 @@
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Project Controller | Siemens | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4377978280 |
 | People & Culture Specialist | Paladin Security Group Ltd | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4399379312 |
+| Outstanding Crew Lead Painter | Tough Painting | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=681a712111d64088 |
+| Administrator Store-PT | Sobeys | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=21286473873b01ba |
