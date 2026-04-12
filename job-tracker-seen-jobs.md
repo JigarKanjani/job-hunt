@@ -2534,3 +2534,7 @@
 | Staff Endpoint Engineer (Client Platform Engineering) | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369173850 |
 | Staff Product Designer, Design Systems | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369181786 |
 | Staff Endpoint Engineer (Client Platform Engineering) | Affirm | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4369181787 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4400976738 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4400971840 |
+| JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4388223034 |
+| Legal Document Specialist - After Hours | Osler, Hoskin & Harcourt LLP | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4348428236 |
