@@ -2541,3 +2541,7 @@
 | Family Support Worker | Four Directions Foster Parent Associatio | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=33cffe6de4a9dec5 |
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4400998113 |
 | Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=870d421cf31b8309 |
+| Sample Coordinator, Marketing Production & Operations [20875 | Aquent | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4388740283 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4247070669 |
