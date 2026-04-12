@@ -2538,3 +2538,6 @@
 | Software Specialist (Remote) | Quik Hire Staffing | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4400971840 |
 | JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4388223034 |
 | Legal Document Specialist - After Hours | Osler, Hoskin & Harcourt LLP | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4348428236 |
+| Family Support Worker | Four Directions Foster Parent Associatio | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=33cffe6de4a9dec5 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4400998113 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4249431364 |
