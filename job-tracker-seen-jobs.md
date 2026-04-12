@@ -2526,3 +2526,7 @@
 | Data Annotation Specialist - Remote | CodeGeniusRecruit | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4398778315 |
 | Scientific Software Specialist - Remote | CodeGeniusRecruit | 2026-04-12 | R | https://www.linkedin.com/jobs/view/4398795146 |
 | Health and Safety Coordinator | MatchBox Consulting Group | 2026-04-12 | G | https://www.linkedin.com/jobs/view/4400952855 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=7c4d9d14fca95e5b |
+| production coordinator | Lovingly Made | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400971562 |
+| property management operations coordinator | AM PM Properties Inc | 2026-04-12 | J | https://www.linkedin.com/jobs/view/4400968650 |
+| home support worker | YYC Home Care Services | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4400974578 |
