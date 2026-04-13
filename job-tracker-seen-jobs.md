@@ -2565,3 +2565,13 @@
 | People & Culture Coordinator | Carya | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=cad57a52765798c2 |
 | Beauty Advisor (Inside Sales) Sally Beauty 05631 | Sally Beauty | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4064520560 |
 | US Tax Compliance Specialist | $60/hr Remote | Crossing Hurdles | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399147650 |
+| Crisis Operations Program Manager | $60/hr Remote | Crossing Hurdles | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399180080 |
+| Office Administrator (Part-Time) ? Westbrook Location, Calga | Momentum Health | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399507872 |
+| Office Administrator (Part-Time) ? Ogden Location, Calgary,  | Momentum Health | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399505914 |
+| US Tax Compliance Specialist | $60/hr Remote | Crossing Hurdles | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399147650 |
+| Data Annotation Specialist (MS Office / Excel / PowerPoint)  | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399146937 |
+| Office Tools Specialist (Data Annotation & AI Training) | Re | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399161107 |
+| Data Annotation Specialist (CAD / Engineering Software) | Re | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399180024 |
+| CAD Design Specialist | Remote | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399162084 |
+| AI Legal Analyst – Data Research & Content Evaluation | Remo | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399173026 |
+| Site Safety Officer (NCSO) | Framerz Inc. | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399507634 |
