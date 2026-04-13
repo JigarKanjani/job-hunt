@@ -2595,3 +2595,24 @@
 | Undergraduate STEM Analyst – AI Research & Data Projects | $ | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399633006 |
 | C# Developer - Remote | YO IT Consulting | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399618901 |
 | Client Production Specialist | DCM | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4385960183 |
+| Project Coordinator | Borger Group of Companies | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=686a7de5d83d2c70 |
+| APQR Coordinator | Alberta Veterinary Laboratories | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=786b023cebedddc0 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=cf652845c43a3386 |
+| Commercial Product Specialist | Graham | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399660202 |
+| Facilities and Client Coordinator | Cassels Brock & Blackwell LLP | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401334163 |
+| Health, Safety & Environment (HSE) Analyst | Trican Well Service Ltd. | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399645622 |
+| Junior Accountant/Administrator | Pacesetter Equipment Ltd | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=93cc4ba02074fdd8 |
+| Human Resources Administrator | Modern Beauty Supplies Inc | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=fd52622db96d5b75 |
+| Project Coordinator | Victor Energy | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=3cdb6a2112aded3c |
+| Client Services Coordinator | ParaMed Home Health Care | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401321464 |
+| Purchase Requisition Analyst (Edmonton or Calgary, AB) - Hyb | Enbridge | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=5437f0d430beb10f |
+| Patient Services Specialist - Casual | FYidoctors | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=b5f190c5eb9598f5 |
+| Sr Staff Data Analyst - Lifetime Value | Fanatics Betting & Gaming | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=205607a0a06129d1 |
+| Lease Administrator | REDWOOD INFRASTRUCTURE | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=fc54d19afe965446 |
+| Business Systems Analyst | Canadian Natural Resources Limited (CNRL | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399667365 |
+| Undergraduate STEM Analyst – AI Research & Data Projects | $ | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399633006 |
+| Part-Time Receptionist | Trico Living Well Inc | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=f1d2e00b59e133bc |
+| Project Document Controller | Victor Energy | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=5b606b4c5e4fef2c |
+| Quality Controller | Multiwood Inc. | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=3ca7ad1b5a33cebc |
+| Client Service Administrator | Open Door Group | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399656365 |
+| Project Document Controller | Victor Energy | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401306937 |
