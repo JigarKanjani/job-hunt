@@ -2575,3 +2575,7 @@
 | CAD Design Specialist | Remote | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399162084 |
 | AI Legal Analyst – Data Research & Content Evaluation | Remo | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399173026 |
 | Site Safety Officer (NCSO) | Framerz Inc. | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399507634 |
+| Crisis Operations Program Manager | $60/hr Remote | Crossing Hurdles | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399180080 |
+| Workday Analyst | McCarthy Tétrault | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4369931181 |
+| Data Annotation Specialist (CAD / Engineering Software) | Re | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399180024 |
+| C++ Developer | Remote | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399198568 |
