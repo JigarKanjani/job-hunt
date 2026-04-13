@@ -2552,3 +2552,6 @@
 | People & Culture Specialist | Paladin Security Group Ltd | 2026-04-12 | N | https://www.linkedin.com/jobs/view/4399379312 |
 | Outstanding Crew Lead Painter | Tough Painting | 2026-04-12 | J | https://ca.indeed.com/viewjob?jk=681a712111d64088 |
 | Administrator Store-PT | Sobeys | 2026-04-12 | N | https://ca.indeed.com/viewjob?jk=21286473873b01ba |
+| Education Coordinator – In-Home Tutoring (Calgary & Surround | Tutor Prime | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=ce5dec972a82faf6 |
+| Tenant Services Coordinator | CBRE | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401019177 |
+| Home Support Worker | Kivora Caregivers | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399119578 |
