@@ -2616,3 +2616,51 @@
 | Quality Controller | Multiwood Inc. | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=3ca7ad1b5a33cebc |
 | Client Service Administrator | Open Door Group | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399656365 |
 | Project Document Controller | Victor Energy | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401306937 |
+| Field Equipment Coordinator (Student) | Millennium EMS Solutions Ltd. | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=8f819c8e27b18eff |
+| Teacher - Horizon Leadership Academy - Full-Time Probationar | Palliser School Division | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=3c1354909f9ddbd9 |
+| Technical Over the Road Service Coordinator | Apex Trailer Group Inc. | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=8695e96f8bc01ffe |
+| Economic Development Officer | City of Leduc | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=eaeeaf0b5388407d |
+| Coordinator, Project | Aecon Group Inc. | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=ace7d1bfe012c99c |
+| Commercial Accounts Coordinator - Automotive | eBlock, Inc. | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=2fbedbfed03fb9ce |
+| Analyst - AI & Data Transformation | Deloitte | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401331764 |
+| Data Analyst II | Intact | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399681125 |
+| Technical Solution Specialist | ROSEN | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401345463 |
+| Operations Supervisor | FedEx Canada | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401347545 |
+| Analyste de données II | Intact | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399692004 |
+| Quality Assurance Analyst | Experis Canada | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399665552 |
+| Manufacturing Analyst | Coca-Cola Canada Bottling Limited | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399567390 |
+| Technical Lead - Payments | Servus Credit Union | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4397178842 |
+| Family Coordinator | McMan Youth, Family and Community Servic | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=713cf6542ef02057 |
+| Administrative Assistant | Encore Electrical Services | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=14bab37736d09ae9 |
+| Administrative Coordinator | Home Care Professionals Inc | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=8881d0a4e7b9abe7 |
+| Credit Analyst - Commercial | Servus Credit Union | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=ebad23752993d08d |
+| Mobile Mortgage Advisor - (Commission Only) - Calgary, Alber | CIBC | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=808504d7e7efc748 |
+| CIRO Licensed Associate Investment Advisor | Aligned Capital Partners Inc. | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=b2007c657b81e179 |
+| Business Systems Analyst | Canadian Natural | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=a47578a3e55f90d3 |
+| Senior Systems Administrator | PC eSolutions | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=3f7cc33beaacc892 |
+| Client Service Coordinator | Southern Alberta Brain Injury Society | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=2c228fe72e5c5721 |
+| Administrator, HR | Bayshore HealthCare | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=1e6dc317d5f5902a |
+| HR & Admin Coordinator - Contract | Skyrocket Digital Inc | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=0da5a94c122b979f |
+| Case Manager - Food Security for Indigenous Seniors | Red Deer Native Friendship Society | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=f9d95a3ee7d15fce |
+| Administrative Coordinator (Data & Reporting) - AC 26-03882 | NavitasPartners | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=2ef1d60672a0ac34 |
+| Administrative Coordinator (Data & Reporting) - AC 26-03882 | NavitasPartners | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=39fb56c67f0b15cb |
+| Administrative Coordinator (Data & Reporting) - AC 26-03882 | NavitasPartners | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=4b56d4628ccef9be |
+| Administrative Coordinator (Data & Reporting) - AC 26-03882 | NavitasPartners | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=d6ab265cc585cf92 |
+| Administrative Coordinator (Data & Reporting) - AC 26-03882 | NavitasPartners | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=a3b10b0f30dea336 |
+| Administrative Assistant (Canada Summer Jobs) | Adoption Council of Canada | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=7d7e0e1df50636b4 |
+| Site Coordinator – Fort Chipewyan | Athabasca Tribal Council | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=d7b283a3439b987f |
+| Technical Advisor - Senior Environmental Professional | H3M Environmental | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401334441 |
+| Payroll System Analyst - Michels Canada | Michels | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=4a8bf1844dd99354 |
+| Quality Assurance (QA) & IT Support Specialist | MoEV Auto Inc | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=272aa836fc1b1ee1 |
+| Enterprise Application Administrator | Prenuvo | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=638bc9212a9e053a |
+| Web Developer (Liquid) | Versapay | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=60cb54caaca514fe |
+| Data Analyst | Cameco | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=1cc610825b16a038 |
+| Process Engineer-in-Training | Associated Engineering | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=f14973c20aa4d228 |
+| Process Technologist | Associated Engineering | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=4b52c7b3504648bc |
+| Process Engineer-in-Training CV_EIT.99 | Associated Engineering | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=f64b4dbc252e0caf |
+| RCI-ROCG-40172 Automation Test Engineer [FULLY REMOTE] | Rangam | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401324763 |
+| Administrative Assistant | Eco Medical Equipment | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=47663545b966491b |
+| Receptionist | Luxuria Group | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=3d754e4c9a00dcbe |
+| Administrative Assistant ADM_AA.121 | Associated Engineering | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=91544a6844eb0057 |
+| Administrative Assistant ADM_AA.120 | Associated Engineering | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=4b49a12f9ff7a87e |
+| Activity Coordinator | Flames Community Arenas | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399673041 |
