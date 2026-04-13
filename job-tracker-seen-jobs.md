@@ -2556,3 +2556,5 @@
 | Tenant Services Coordinator | CBRE | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401019177 |
 | Home Support Worker | Kivora Caregivers | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399119578 |
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401029307 |
+| Support Specialist | FreshBooks | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401031426 |
+| Electrical - Technical Support - Office Based Role | 2XM Recruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401047304 |
