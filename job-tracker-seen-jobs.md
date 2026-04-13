@@ -2558,3 +2558,10 @@
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401029307 |
 | Support Specialist | FreshBooks | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401031426 |
 | Electrical - Technical Support - Office Based Role | 2XM Recruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401047304 |
+| Procurement Manager | TEEMA Group | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=1a68d2c6ec6cdaea |
+| Supply Chain Manager | TEEMA Group | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=5f4d0ccb59f8950d |
+| Financial Analyst | University of Alberta | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=b5cffb4bde280eae |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=aec2aa8ac8f06f15 |
+| People & Culture Coordinator | Carya | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=cad57a52765798c2 |
+| Beauty Advisor (Inside Sales) Sally Beauty 05631 | Sally Beauty | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4064520560 |
+| US Tax Compliance Specialist | $60/hr Remote | Crossing Hurdles | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399147650 |
