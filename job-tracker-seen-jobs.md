@@ -2664,3 +2664,54 @@
 | Administrative Assistant ADM_AA.121 | Associated Engineering | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=91544a6844eb0057 |
 | Administrative Assistant ADM_AA.120 | Associated Engineering | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=4b49a12f9ff7a87e |
 | Activity Coordinator | Flames Community Arenas | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399673041 |
+| Analytics and Insight Analyst | Enmax | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=1db4acc6ae667e6a |
+| Regulatory Coordinator | AltaLink | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=f6e383d912bcdcd4 |
+| HEALTH, SAFETY & ENVIRONMENT (HSE) ANALYST – (CAT) | Trican Well Service | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=92baa0a4752c7d88 |
+| Program Manager | De Havilland Aircraft of Canada Ltd | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=6fb7d612db369edd |
+| Inside Technical Sales Representative (Filtration Specialist | Vytal Filtration Technologies Inc. | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=9cda78680d6167ee |
+| PMO Governance Documentation Lead | Turner & Townsend Pty Limited | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=cd8a538915746df3 |
+| Property Services Coordinator | BGIS | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=9013b9b9027eb65e |
+| Department Leader | Princess Auto | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=b0a81bc8e546c23a |
+| Department Leader (nights) | Princess Auto | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=97f5f56e3bcc5878 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=23cf74e94b88a47d |
+| Supply Chain Management Consultant | Agilus Work Solutions | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4400020238 |
+| Senior Analyst Gas Scheduling | Enbridge | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399586210 |
+| Senior Supply Chain Project Coordinator | Hexagon Autonomous Solutions | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401385880 |
+| Senior Trade Compliance Specialist | Finning | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4400018322 |
+| Master Data Analyst | TC Energy | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399573540 |
+| Operations Supervisor | Armco | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401510240 |
+| Health & Safety Advisor, DHPA | De Havilland Aircraft of Canada Limited | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401375329 |
+| Program Manager | De Havilland Aircraft of Canada Limited | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401375325 |
+| Quality Analyst | Experis Canada | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399685994 |
+| Communications Coordinator | Servus Credit Union | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=b749a5feb7ffa9d8 |
+| Community Resource Worker, Summer Student | DDRC | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=68a97f9d967da04a |
+| Client Service Administrator | Open Door Group | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=49926d4f43de5d81 |
+| Health Safety Environment Coordinator | Wright Construction Western Inc. | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401512557 |
+| Administrative Assistant | Rockies Building Supplies INC. | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4400026001 |
+| Talent Acquisition Coordinator | Startec Compression & Process and Starte | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401370618 |
+| Regulatory Coordinator | AltaLink | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401501104 |
+| CSJ - Community Hub Support Worker | Carya | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399699631 |
+| Junior QA Analyst | NeoPollard Interactive | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=691f2b0f6b575b9b |
+| Co-op May 2026 - Engineering Infrastructure Developer - 8-12 | General Dynamics Mission Systems–Canada | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401518080 |
+| Service Desk Technician | Bennett Jones | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399571564 |
+| Field Equipment Coordinator (Student) | Millennium EMS Solutions Ltd. | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399690958 |
+| Project Services - Project Services Specialist | F12.net | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401514164 |
+| Atlassian Administrator | Hootsuite | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4400013235 |
+| Social Services Specialist - Fully Remote | Upto $200/hr | Mercor | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401501581 |
+| Receptionist | The Brenda Strafford Foundation | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=b54c6db2988db27d |
+| Janitor (Part-time) - Office Tower | ZML Holdings Group Corporation | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=fb3a8493440e182c |
+| Health & Benefits Associate | Mercer | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=8b32845bf6aa9e47 |
+| Corporate Administrative Assistant | Commodore Solutions | 2026-04-13 | G | https://ca.indeed.com/viewjob?jk=845501e7f456a4ab |
+| Administrative Assistant, Safety, Security & Compliance | Calgary Airports | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401526275 |
+| Receptionist | The Brenda Strafford Foundation | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401513532 |
+| Receptionist Regular Part Time (SPII RECEP3 0.40) AgeCare Sk | AgeCare | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401385744 |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399696780 |
+| Fund Development Coordinator | WinSport | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401383076 |
+| Safety Administrator | Chandos Construction | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399698984 |
+| Sales Associate | HomeFree Homecare | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399699771 |
+| Customer Service Represntative | Spicers Canada | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4399691519 |
+| Business Office Advisor, Data & IT | Cenovus Energy | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401525305 |
+| Health & Benefits Associate | Mercer | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401515746 |
+| Advisor, Processes & Solutions, People and Culture | University of Calgary | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401507237 |
+| AI Engineer - Generative & Agentic AI | BDO Canada | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401394256 |
+| Personal Banking Associate | BMO | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401371397 |
