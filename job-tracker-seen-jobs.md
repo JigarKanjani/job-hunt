@@ -2555,3 +2555,4 @@
 | Education Coordinator – In-Home Tutoring (Calgary & Surround | Tutor Prime | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=ce5dec972a82faf6 |
 | Tenant Services Coordinator | CBRE | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401019177 |
 | Home Support Worker | Kivora Caregivers | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4399119578 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4401029307 |
