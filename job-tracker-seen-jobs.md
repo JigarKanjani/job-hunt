@@ -2579,3 +2579,19 @@
 | Workday Analyst | McCarthy Tétrault | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4369931181 |
 | Data Annotation Specialist (CAD / Engineering Software) | Re | CodeGeniusRecruit | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399180024 |
 | C++ Developer | Remote | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399198568 |
+| Senior Project Coordinator – Commercial Construction | Azimuth Builders Ltd | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=d21abdac8494defc |
+| Junior Media Buyer | Bios Wellness Clinics  | 2026-04-13 | J | https://ca.indeed.com/viewjob?jk=bfeffbf3e796fa3d |
+| Permitting and Regulatory Compliance Specialist | Tecnicas Reunidas | 2026-04-13 | J | https://www.linkedin.com/jobs/view/4399532507 |
+| Community Support Worker, casual | DDRC | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=29d3af243144395c |
+| Communications Coordinator | Servus Credit Union | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=f0fed9c9ffa6b827 |
+| Service Delivery Coordinator (Canada) | Quorum Cyber | 2026-04-13 | N | https://ca.indeed.com/viewjob?jk=ac46afbc6f1c5be9 |
+| Membership Intake Examiner | CIRO / OCRI | 2026-04-13 | N | https://www.linkedin.com/jobs/view/4401308486 |
+| Security Analyst, Security Operations Centre (SOC) | General Dynamics Mission Systems | 2026-04-13 | R | https://ca.indeed.com/viewjob?jk=937e8eaf5e2a0f16 |
+| Internal Audit Analyst | Canadian Natural Resources Limited (CNRL | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4291937787 |
+| Account Specialist | Attain Finance | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4395378229 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401083944 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401099339 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4401085882 |
+| Undergraduate STEM Analyst – AI Research & Data Projects | $ | Crossing Hurdles | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399633006 |
+| C# Developer - Remote | YO IT Consulting | 2026-04-13 | R | https://www.linkedin.com/jobs/view/4399618901 |
+| Client Production Specialist | DCM | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4385960183 |
