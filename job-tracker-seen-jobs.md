@@ -2764,3 +2764,12 @@
 | Administrative Support IV | Primary Care Alberta | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=62637b57a3933c84 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400702693 |
 | Corporate / Real Estate Associate (Mid-Level) | gpac | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4399730723 |
+| Absence Relief Coordinator | Calgary Board Of Education | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=e41642974e3d39e6 |
+| production coordinator | Lovingly Made | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401716665 |
+| Day Options Community Support Worker | Calgary Alternative Support Services | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=3fc7225e0c469e6b |
+| 2 Permanent PT - Community Support Worker Day Options | Calgary Alternative Support Services | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=facdeeff3895f353 |
+| Relief Community Support Worker Day Options | Calgary Alternative Support Services | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=ab38ef8559eff5e7 |
+| home support worker | YYC Home Care Services | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401708934 |
+| C++ Application Developer | Remote | Crossing Hurdles | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400728077 |
+| Software Workflow Analyst Remote | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389456307 |
+| Remote CAD Drafting Specialist | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389438799 |
