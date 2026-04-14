@@ -2780,3 +2780,33 @@
 | C++ Application Developer | Remote | Crossing Hurdles | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400728077 |
 | Software Interface Specialist Remote $100/hr | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389461006 |
 | Remote Digital Workflow Specialist $65/hr | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389459012 |
+| Capital Construction Coordinator | City of Calgary | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=8b41893ce2b6ae75 |
+| Accounts Payable & Purchasing Coordinator | Empire Kitchen and Bath Ltd | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=14a927674ee8b13b |
+| Senior Procurement Specialist | WSP in Canada | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399767159 |
+| Assistant Buyer | Lammle's Western Wear | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4400756569 |
+| Technology Operations Analyst I - Managed Services Practice  | EY | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4389324313 |
+| Canada Regional Lead - Service Desk and On-site Technology S | EY | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4377733146 |
+| Senior Quality Assurance Specialist | Airswift | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399765108 |
+| Lead Electrical Engineer | Airswift | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399749811 |
+| Talent Acquisition Coordinator | FYidoctors | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4383040109 |
+| HR Administrator | Aplin | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401764240 |
+| Calgary Police Service - Report Integrity & Compliance Speci | City of Calgary | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=f9e4486952f408f9 |
+| Change Management Analyst, BC Health Workday | Provincial Health Services Authority (PH | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=c862ebbe88d34d39 |
+| Trainer | Modine Manufacturing Company | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4387512901 |
+| Oracle Fusion Financial Business Systems Analyst - REMOTE | Toppan Merrill | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389389777 |
+| Oracle Fusion Financial Business Systems Analyst - REMOTE | Toppan Merrill | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389395572 |
+| Oracle Fusion Financial Business Systems Analyst - REMOTE | Toppan Merrill | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389394580 |
+| Remote English Speakers (Online Data Analyst) | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401769057 |
+| Remote English Speakers (Online Data Analyst) | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401751779 |
+| Remote English Speakers (Online Data Analyst) | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401752761 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401746950 |
+| WFH Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400761497 |
+| WFH Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400753592 |
+| WFH Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400756544 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401765308 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401767156 |
+| Vet Receptionist | Bridlewood Vet Clinic | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=c9814acde77ea8d8 |
+| Front Desk Agent (Seasonal) | Best Western | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=1ef99eecb8073de0 |
+| 6 - month Front Desk Agent - Job ID J0226-0933 | Columbia College | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400771650 |
+| Customer Service Associate, Lumber Yard Temp | RONA | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4389411987 |
+| Grant Management Specialist | United Way of Calgary and Area | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400779120 |
