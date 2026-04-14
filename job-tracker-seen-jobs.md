@@ -2715,3 +2715,35 @@
 | Advisor, Processes & Solutions, People and Culture | University of Calgary | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401507237 |
 | AI Engineer - Generative & Agentic AI | BDO Canada | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401394256 |
 | Personal Banking Associate | BMO | 2026-04-13 | G | https://www.linkedin.com/jobs/view/4401371397 |
+| Virtual Mortgage Specialist - Calgary, AB | Scotiabank | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=14934dcb52d5592e |
+| Technical Solution Specialist | ROSEN Group | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=061ff7461c50d47a |
+| Clinical Operations Consultant - Virtual Care | Telus | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=a3535b2b289f0cda |
+| Talent Acquisition Coordinator | Startec | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=001571f0166fe9b5 |
+| Flight Department Operations Coordinator | AirSprint Private Aviation | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=315ff475b0d59b38 |
+| Project Coordinator | Strathcona County | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=06dff3a23296b145 |
+| Client Solutions Specialist | ONE for Freight | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=79a5f55ac024ed11 |
+| Planner II | Finning | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=028022d7498f93f2 |
+| Inventory Analyst - Temporary | Finning | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=bb10dee43b13f064 |
+| Seismic - Logistics Superintendent | Suncor | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399805607 |
+| Project Sales and Logistics Coordinator | Vectra Heavy Haulers | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401523369 |
+| Specialist, Airport Operations Control - 3220-2213 | Calgary Airports | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401513753 |
+| Events Lead (Volunteer) | Joule Women's Energy Network | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4400022047 |
+| Senior Personal Banking Advisor - Calgary Westhills | ATB Financial | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=d3cfbd4a6797d50f |
+| CSJ - Community Hub Support Worker | Carya | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=cd6cb401e57bb4c6 |
+| Office Coordinator | Covet | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=91fe849a17b578bd |
+| Office Administrator | City of Edmonton | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=69645e2b6dffb09a |
+| Service Coordinator | Finning | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=d3de6a911b0993a1 |
+| Sales Coordinator, Group Retirement Services (West Region) | Sun Life | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4400020881 |
+| Pharmacy Agreement Coordinator – Provider Services & Claims  | Alberta Blue Cross | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4399575541 |
+| Recruiting Administrator | Calian | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=452810c14352db15 |
+| Vibration & Reliability Analyst - Drilling Operations | Ensign Energy Services Inc. | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=e13b59366a016077 |
+| Data Developer | Strathcona Resources Ltd. | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4399581794 |
+| Executive Administrator | Rohit Group | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401532387 |
+| Ray-Ban Sales Associate - Calgary, AB - Chinook Centre | Ray-Ban | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=73d82f648cdaf6f7 |
+| Front Desk Agent | Marriott International | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=2f9b2a74daabb087 |
+| Methods Change Management Agent | De Havilland Aircraft of Canada Ltd | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=42e92a10cc4af7b6 |
+| Business Office Advisor, Data & IT | Cenovus Energy | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=bdf161e1a9f80d90 |
+| Personal Banking Associate Trainee | TD | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=fa75d998d222bf79 |
+| Administrative Secretary - Secondary - Junior High - 35 hour | Calgary Catholic School District | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=51064a9f874ccfd8 |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=c8421b4674f452c6 |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=07a6c22e659b1744 |
