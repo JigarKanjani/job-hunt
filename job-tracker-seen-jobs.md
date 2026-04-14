@@ -2773,3 +2773,10 @@
 | C++ Application Developer | Remote | Crossing Hurdles | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400728077 |
 | Software Workflow Analyst Remote | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389456307 |
 | Remote CAD Drafting Specialist | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389438799 |
+| Material Planner | Modine Manufacturing Company | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4387508970 |
+| home support worker | Providence Alberta Home Care Inc. | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401735939 |
+| Software Development Engineer - AI Platform | Workday | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4378116662 |
+| Trainer | Modine Manufacturing Company | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4387523580 |
+| C++ Application Developer | Remote | Crossing Hurdles | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400728077 |
+| Software Interface Specialist Remote $100/hr | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389461006 |
+| Remote Digital Workflow Specialist $65/hr | Mercor | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389459012 |
