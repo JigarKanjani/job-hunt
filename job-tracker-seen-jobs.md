@@ -2747,3 +2747,11 @@
 | Administrative Secretary - Secondary - Junior High - 35 hour | Calgary Catholic School District | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=51064a9f874ccfd8 |
 | Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=c8421b4674f452c6 |
 | Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=07a6c22e659b1744 |
+| Sales Coordinator, Group Retirement Services (West Region) | Sun Life | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=4d54113e697b8213 |
+| Senior Proposal Content Specialist | Sun Life | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=61defece725b22dd |
+| Supply Chain Analyst | Branch Furniture | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=4dbaffc5abb7e539 |
+| Supply Chain Management Professional | Agilus Work Solutions | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4400027234 |
+| Client Advisor | RBC | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401703131 |
+| Fleet Support Services Coordinator (Remote / Graveyard Shift | Evo | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4399723177 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401591492 |
+| receptionist | Olympia Motel & Lodge | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401703150 |
