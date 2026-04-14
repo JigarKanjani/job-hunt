@@ -2830,3 +2830,60 @@
 | Administrative Pool | AGAT Laboratories | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4399767396 |
 | Data Annotation Specialist - German Writer/Translator | Cohere | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4370475419 |
 | Electrical Associate | Smith + Andersen | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401772905 |
+| Lead Knowledge Engineer - Semantic Web Technologies | S&P Global | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=570fcd9664fcb7da |
+| WCB & Risk Management Coordinator - New Grad | BURNCO Rock Products Ltd | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=4800997ab2e0bcfc |
+| Sr Budget Analyst | AltaLink | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=daf77cdbe9c91e6f |
+| Development Coordinator | Brookfield Residential | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=78dcef06f66cf9ac |
+| IT Helpdesk Analyst | Nanalysis Corp. | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=680621053b8d3183 |
+| Transportation Coordinator | River Valley School | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=cd8fd3d4d0f0b1c0 |
+| Supervisor, Transportation | RONA | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=2a9b6d09eb4368bb |
+| Sourcing Specialist | PetroChina Canada | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=0d8d21ba1f5a30c5 |
+| Supply Planner | Dynamic Source Manufacturing Inc. | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=c9a6563c20824f83 |
+| Planner / Scheduler | FLINT Corp. | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=a5e82cbd9d803738 |
+| Planner / Scheduler | FLINT Corp. | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=bc04b594ff5d20b3 |
+| Project Coordinator | Glenmore Fabricators | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=9a8fe1dd29351677 |
+| Operations Customer Service Representative-3 | Intelcom | Dragonfly | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=b97dd5db8229d4d9 |
+| Customer Support Coordinator | DoAll Canada | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=345377a83df2e3cf |
+| Facilities Coordinator | JLL | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=0839b2f651d1ec18 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=4df143822111916f |
+| Data Analyst | Calgary Homeless Foundation | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=de39bd4797c490bf |
+| Supply Chain Analyst | Insight Global | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401116258 |
+| Business Analyst | OTT Consulting LLC | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4402049711 |
+| Specialist Sourcing | CPKC | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4402032742 |
+| Analyst 1 | Bureau Veritas | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401118814 |
+| Supervisor, Transportation | RONA | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4402028831 |
+| Project Controls Coordinator | Aecon Group Inc. | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401130062 |
+| Document Control Specialist IV | RigUp | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399908552 |
+| Quality, Safety & Transformation Coordinator (2026-0022) | Carewest - Innovative Health Care | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=bc29e3b477755b7a |
+| Care Coordinator | Lifemark Health Group | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=cad0ca99abbb1f39 |
+| People & Culture Coordinator | Carya | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=ec3fd69517162cf6 |
+| Admissions Advisor/Sales | ABM College | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=1126c81742b6c845 |
+| Payroll Coordinator (FT) | Catholic Social Services | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=ff6304f6bfa9a627 |
+| Field Case Manager | Cencora | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=66157c9740fdb014 |
+| Group Facilitator & Intake Coordinator | OK Clinical Therapy Group | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=2dd0afc8bd5b6fcb |
+| Client Care Coordinator | IMPACT Health Innisfail | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=f6adbc076fcce183 |
+| Financial Coordinator (Braces Orthodontics) | Omar for Mayor | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=0097812b7fa19e84 |
+| Project Coordinator | Northgate Industries Ltd - Acheson | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=73fc1ae085021c8f |
+| Greenhouse Experience Specialist | Deloitte | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401125055 |
+| Office Administrator | Plum Gas Solutions | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401129083 |
+| Finance Coordinator | Bunt & Associates Engineering Ltd. | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402049718 |
+| WCB & Risk Management Coordinator - New Grad | BURNCO Rock Products Ltd | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402063127 |
+| Summer Student ‘Placemaking Coordinators’ | Federation of Calgary Communities | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401121101 |
+| Wealth Advisor | BDO Canada | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402050002 |
+| Vocational Specialist | Lifemark Health Group | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4399912068 |
+| Electricity Policy Advisor | FortisAlberta | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402043894 |
+| Vigilant Emergency Communications Specialist, Full Time | STARS | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402038464 |
+| Vigilant Emergency Communications Specialist, Part Time | STARS | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4402037470 |
+| Business Analyst Creatio | Bits In Glass | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=5efaad64121656cc |
+| Technical Support Analyst | Pason Systems Corp | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=503d9e2dbeb51f7e |
+| Financial Systems Analyst | SAF Group | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400786907 |
+| Data Analyst | Joblinxsapp | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4402037319 |
+| Sr Data Analyst | Bevertec | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4402032321 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4402055492 |
+| Guest Services Associate | MasterBUILT Hotels ltd | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=a25df989983e71d0 |
+| Labour Market Coordinator | Lifemark Health Group | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=becff7b890c3fa97 |
+| Specialist, Communications and Community Outreach | Canadian National Institute for the Blin | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=8e8c2eb313741c18 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4402056159 |
+| Inside Sales Administrator | Robert Half | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401131030 |
+| Customer Service Representative | BMO | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4402034378 |
+| JR806970 Specialist, Cash | Capital Power | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4402057230 |
