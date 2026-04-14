@@ -2810,3 +2810,23 @@
 | 6 - month Front Desk Agent - Job ID J0226-0933 | Columbia College | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400771650 |
 | Customer Service Associate, Lumber Yard Temp | RONA | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4389411987 |
 | Grant Management Specialist | United Way of Calgary and Area | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400779120 |
+| IT Security & Operations Specialist | Shaganappi GM | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=67e519d0e53aa1f9 |
+| Workplace Operations Administrator | Organization for the Prevention of Viole | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=be9564551396bdb1 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=467038f6931216f4 |
+| Intermediate SCM Category Specialist | Airswift | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399774484 |
+| Care Coordinator | Lifemark Health Group | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399768481 |
+| Coordinator - Project | Wesco | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401783898 |
+| Lead Knowledge Engineer - Semantic Web Technologies | S&P Global | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4400785508 |
+| Accounts Payable Team Lead | CoolIT Systems | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4387522635 |
+| Supply Planner | SNDL Inc. | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4399785388 |
+| Summer Day Camp Coordinator | Northstar Residents Association Ltd. - P | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=02ed573932d1385e |
+| Facilities Administrator (18-month contract) | ARC Resources Ltd. | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4389294448 |
+| Office Administrator | Alberta Bountiful Markets Ltd. | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=45544463d9f819cf |
+| Process Engineer-in-Training, Junior | Keywest Projects Ltd | 2026-04-14 | R | https://ca.indeed.com/viewjob?jk=228c3921a9f11406 |
+| Developer | ICE | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4389401906 |
+| BTP CAPM + MCP developer | Ampstek | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400773288 |
+| BTP CAPM + MCP developer | Ampstek | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4400792421 |
+| Information Technology Administrator | SysGen Solutions Group | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4402001093 |
+| Administrative Pool | AGAT Laboratories | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4399767396 |
+| Data Annotation Specialist - German Writer/Translator | Cohere | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4370475419 |
+| Electrical Associate | Smith + Andersen | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401772905 |
