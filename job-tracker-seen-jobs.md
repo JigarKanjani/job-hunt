@@ -2755,3 +2755,12 @@
 | Fleet Support Services Coordinator (Remote / Graveyard Shift | Evo | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4399723177 |
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-04-14 | R | https://www.linkedin.com/jobs/view/4401591492 |
 | receptionist | Olympia Motel & Lodge | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401703150 |
+| Payroll Specialist/ Bookkeeper | KL Accounting & Tax Associates | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=dc357a8729a9af3b |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-14 | J | https://ca.indeed.com/viewjob?jk=162964baf69beca9 |
+| property management operations coordinator | AM PM Properties Inc | 2026-04-14 | J | https://www.linkedin.com/jobs/view/4401725054 |
+| Data Analytics Sales Specialist, Google Cloud | Google | 2026-04-14 | N | https://ca.indeed.com/viewjob?jk=85c2edf2a4345836 |
+| Administrative Support Worker | Aramark Canada | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401599954 |
+| Training Development Specialist | Raytheon | 2026-04-14 | N | https://www.linkedin.com/jobs/view/4401701595 |
+| Administrative Support IV | Primary Care Alberta | 2026-04-14 | G | https://ca.indeed.com/viewjob?jk=62637b57a3933c84 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4400702693 |
+| Corporate / Real Estate Associate (Mid-Level) | gpac | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4399730723 |
