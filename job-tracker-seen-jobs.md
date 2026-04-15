@@ -2974,3 +2974,16 @@
 | Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4388868471 |
 | Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4388872179 |
 | Sales Associate | Brookfield Residential | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4360887648 |
+| Business Analyst | Prairie Payments Joint Venture | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4400785944 |
+| Microsoft Dynamics 365 F&O Senior Supply Chain Management Co | BDO Canada | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402512078 |
+| Therapeutic Specialist, Neuroscience (9-Month Contract) | AbbVie | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4389805410 |
+| Builder Administrator (Calgary South) | Trail Appliances AB/SK | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=e554777d0db31d01 |
+| Builder Administrator (Calgary South) | Trail Appliances AB/SK | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402293717 |
+| Global Payroll Implementation Specialist (STE) | Hootsuite | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401441814 |
+| Quality Control Analyst, Mortgages | Neo Financial | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4389767333 |
+| Mean Stack Developer | VySystems | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402512182 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402275979 |
+| Atlassian Administrator | Hootsuite | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401444249 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402283857 |
+| Associate Partner, Assurance | Outhire Inc. | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402295784 |
+| Account Coordinator | North Strategic | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4376780162 |
