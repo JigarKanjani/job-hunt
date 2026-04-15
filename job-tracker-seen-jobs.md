@@ -2922,3 +2922,21 @@
 | Pipeline Integrity Specialist | Canlin Energy Corporation | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402084513 |
 | Leasing Coordinator | Agilus Work Solutions | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401118926 |
 | Universal Financial Associate - Shawnessy | Servus Credit Union | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401139546 |
+| Procurement / Buyer | Okos Smart Homes | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=9811d8cd88a19c4c |
+| Procurement Manager | Rhyno Equity Group | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=6b1535b8be3745f2 |
+| Senior Analyst, Clean Economy | Deloitte | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401180138 |
+| HSE Administrative Assistant | 5Blue Process Equipment Inc. | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=c401b681189e8762 |
+| Mental Health Worker-Social Recreation Focus | Potential Place Society | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=066dd87f19fa4dba |
+| (CAN) Specialist, People | Walmart | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=3362c8680d6f0c8f |
+| Senior Financial Advisor - Ranchlands, Calgary, AB | Scotiabank | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4399917487 |
+| Marketing Coordinator | Symend | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402092602 |
+| Payroll Administrator (Permanent - Fulltime) | The Brenda Strafford Foundation | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=6dd584665db0f403 |
+| POS Systems Administrator - Maternity Leave Coverage | Resorts of the Canadian Rockies | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=236dd07013526786 |
+| Research Associate, Community Health Sciences | University of Calgary | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=51dfc4995afb1804 |
+| 24-Sales associate | Part time | Bath Depot / Bain Dépôt | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=f1433122713dddeb |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=c4f5d14dd08d5eb9 |
+| (CAN) OMNI Customer Fulfillment Associate(CAN) OMNI Customer | Walmart | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=86ac277e2fcedcc0 |
+| Customer Experience Associate- Calgary, AB (18.75 hours/week | Scotiabank | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4399928439 |
+| Account Associate III– Distributions & Reconciliation, | Computershare Canada | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401165421 |
+| Customer Service Representative | Wood Automotive Group | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402213638 |
+| Research Associate, Community Health Sciences | University of Calgary | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402093853 |
