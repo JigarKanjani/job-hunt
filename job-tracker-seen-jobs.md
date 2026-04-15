@@ -2961,3 +2961,16 @@
 | Software Specialist (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402260090 |
 | Administrative Support II | Alberta Precision Labs | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=4c79e1f9d824defe |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401409371 |
+| Supply Chain Coordinator Hybrid Model (remotely & on-site) | Lufthansa Technik Canada | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4399959484 |
+| sales and marketing coordinator | Junction Hub Enterprises Inc | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=a1b56687399a9b16 |
+| Branch Administrator | National Bank of Canada | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4399951855 |
+| Senior Advisor in Estate Planning | National Bank of Canada | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4399957158 |
+| Data Analyst - Oil and Gas | Wood Mackenzie | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=5a7d605bd3f9fca7 |
+| IT Network Administrator | CTDI | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=6054e34c5d5832fb |
+| TIBCO Integration Developer/Analyst | TEKsystems | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402273476 |
+| IT Network Administrator | CTDI | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4399957570 |
+| Data Analyst | Radiant Systems Solutions, Inc | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401433694 |
+| Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401425250 |
+| Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4388868471 |
+| Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4388872179 |
+| Sales Associate | Brookfield Residential | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4360887648 |
