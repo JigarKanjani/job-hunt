@@ -3084,3 +3084,50 @@
 | Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4400116117 |
 | Payroll Administrator (Calgary South) | Trail Appliances AB/SK | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402629069 |
 | Energy Marketing Associate | ATCO | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402619349 |
+| Purchaser/Inventory Management | REAL HR Inc. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=9bb515f61a326f22 |
+| Product Specialist | Cintas | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=c6ac695182298d4a |
+| Content Marketing Specialist | Platform Calgary | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=c7ec852347309ecb |
+| Property Data Analyst | Onward Homes | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=f9f94307e065ab46 |
+| Team Lead, Shelter and Outreach | Discovery House Family Violence Preventi | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=aa77ec619003e38a |
+| Shunt Coordinator | Syndicate Transport Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=8321cc230f30943d |
+| Analyst, Treasury Operations | Neo Financial | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=2118d021718d26b3 |
+| Maintenance Coordinator | Alstar Group of Companies Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=500a2e0b58062c2f |
+| HRIS Business Analyst - Full Time | Calgary Stampede | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=bd3dae17b7159741 |
+| Financial Analyst | Birchcliff Energy Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=e0ff507b2076453f |
+| Merchandising Operations Analyst | SNDL | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=6c30ef2304c9043a |
+| Inventory Analyst Student | Ciena | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=bec96c3729a2c6a5 |
+| Data Center Technician IV, Data Centre Operations | Amazon.com | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=11d093894a49f85a |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=44e2945289b8cbaf |
+| Materials Coordinator | CTDI | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401496255 |
+| Health and Safety Specialist | Wonderbrands | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402618624 |
+| Help Desk Analyst | Lammle's Western Wear | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401804492 |
+| Analyst, Treasury Operations | Neo Financial | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402618824 |
+| Senior Digital Operations Analyst – Azure/AWS | Enterprise Solutions Inc. | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401800364 |
+| Senior Digital Operations Analyst – Azure/AWS | VDart | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401494665 |
+| Transfer Specialist | HUB International | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=4da5c8dd84d491e1 |
+| Payroll Administrator (Calgary South) | Trail Appliances AB/SK | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=807938afbacd8e48 |
+| Intensive Case Manager | Big Hill Haven | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=2a5dd0c68ad6d5b9 |
+| Administrative Assistant – Learning Services | Black Gold School Division | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=51ba491d8941a95f |
+| Office Administrator / Client Coordinator (Full-Time or Part | The Rental Brothers | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=2fd03bc2d0448055 |
+| Coordinator, Training, Development, & Quality Assurance | Athabasca University | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=3ee68cc501fb260d |
+| 26-10 Registration Operations Coordinator | The Association of Professional Engineer | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=15c999b88e3e6da5 |
+| Business Development & Marketing Coordinator | Lawson Lundell LLP | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=3f0fe55af0bb4316 |
+| District Administrator (Calgary) | TD | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402624506 |
+| District Administrator (Calgary) | TD Securities | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402603554 |
+| Quality, Safety & Transformation Coordinator (2026-0022) | Carewest Innovative Health Care | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402620840 |
+| Remote Staffing Coordinator | Talentoma | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401800529 |
+| Power BI and Network Systems Administrator | Aspen Custom Trailers | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=1245471a13fffe4f |
+| IT Helpdesk Technician | United Technologies Corporation | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=0eeaabe2f211303f |
+| Intraday Workforce Analyst | Assurant | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=0c3bf5b90d000885 |
+| Business Analyst (CBAP - PBA Certified) - 100% Remote | Morph Enterprise | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401495279 |
+| Business Analyst ARG (Remote) | RemoteHunter | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401811445 |
+| Business Analyst / Tester - REMOTE | General Dynamics Information Technology | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401496328 |
+| Remote Help Desk Support | Talentoma | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401496284 |
+| Remote Service Desk Specialist | Talentoma | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401497692 |
+| Remote Service Desk Support | Talentoma | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401801430 |
+| Clinical Support Coordinator - Full-Time/2nd Shift/Remote | RemoteHunter | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401499656 |
+| Sales & Marketing Associate | North Canada | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=724c7bafdf905526 |
+| Crew Accommodation Agent | Corpay | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=8d0b76e5fdf5bbc1 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401499273 |
+| Indigenous Engagement and Research Associate, School of Publ | University of Calgary | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401801328 |
+| Technical Sales Specialist | MRO Electronics | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401805349 |
