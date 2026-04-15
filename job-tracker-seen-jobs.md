@@ -2987,3 +2987,29 @@
 | Financial Analyst (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402283857 |
 | Associate Partner, Assurance | Outhire Inc. | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402295784 |
 | Account Coordinator | North Strategic | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4376780162 |
+| Purchaser/Inventory Management | REAL HR Inc. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=2e13f36bd5b4f977 |
+| Branch Care Coordinator | Air Liquide | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=07383c7fa47ab58b |
+| Surface Land Analyst | Lexterra Land Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=08c9e6b5661752b8 |
+| Student Success Officer (Cambrooks College) | Cambrooks College Calgary | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=340453be2d280e6e |
+| Merchandising Operations Analyst | SNDL | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=ca3367acceabe4ba |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=754ed0bde5aaa3e7 |
+| Operations Supervisor - Distribution | DHL | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=dfe2fe33acc345d0 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=ab1391573a277097 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402537062 |
+| Lead Electrical Engineer - Substation | Qualus | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4388482362 |
+| Office Administrator | Axess Law | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=6ae179263a3db5c0 |
+| Senior Project Coordinator | Kandrea Insulation and Scaffolding | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=bed8e7cf7bd5693d |
+| Health, Safety & Human Resource Coordinator | Weinrich Contracting Ltd. | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=cc9fcd9128cd953b |
+| Compliance Coordinator | Paul Davis Edmonton | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=ed4e8ce18a6f58a6 |
+| Administrative Assistant | Flames Community Arenas | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4400786852 |
+| Advisor, HR Business | Canadian Natural Resources Limited (CNRL | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401464676 |
+| Human Resources Specialist | $65/hr Remote | Crossing Hurdles | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401454553 |
+| Job Developer | Centre for Newcomers | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=4b8c153b20e2c2f9 |
+| Advanced Analyst - Data and Insights (D&I) | Electronic Arts | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=2ad5a5f339819e51 |
+| Business Analyst | Cloud Managed Networks | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=d89ee0e604f86b3b |
+| Master Data Management Specialist | KIK Consumer Products | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=d256e5b39ebd05c8 |
+| BTP CAPM + MCP Developer | Ampstek | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401450676 |
+| Database Administrator | Candian Pacific Railway | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401448695 |
+| Career Practitioner/ Workshop Facilitator (TRT) | Centre for Newcomers | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=ecc02bdecad5955f |
+| Building Products Customer Support Specialist | Zurn Elkay Water Solutions | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401464566 |
+| BDAM-Business Development Administrator | Lifemark Health Group | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4399981721 |
