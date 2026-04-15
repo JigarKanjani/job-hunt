@@ -2887,3 +2887,38 @@
 | Inside Sales Administrator | Robert Half | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4401131030 |
 | Customer Service Representative | BMO | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4402034378 |
 | JR806970 Specialist, Cash | Capital Power | 2026-04-14 | G | https://www.linkedin.com/jobs/view/4402057230 |
+| Project Controls Coordinator | Aecon Group Inc. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=013842507f187bff |
+| Advanced Wall Panel Designer, Star Building Materials | Star Building Materials Calgary | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=376492d0a128b1c1 |
+| Facilities Coordinator | JLL | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=104dc1999b87235b |
+| Scheduling Administrator, Star Building Materials | STAR BUILDING MATERIALS | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=5227aa0bfcef05b9 |
+| Digital Content & Social Specialist | Diva International Inc. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=7d30b618bba73cf9 |
+| Senior Category Manager | JRoss Retail Recruiters | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402058729 |
+| Training Specialist - E-Commerce - 18 Month Contract | Loblaw Digital | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402091385 |
+| Development Coordinator | Brookfield Residential | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401145192 |
+| Team Leader | Dollarama | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4399910651 |
+| Global Mobility Lead | Clio | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401133762 |
+| Immigration Case Manager | MEWI Immigration Services Inc | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=4d137c6c37753291 |
+| Quality, Safety & Transformation Coordinator (2026-0022) | Carewest - Innovative Health Care | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=51bc28b0698213fd |
+| Vocational Specialist | Lifemark Health Group | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=f42b7173fe6cb0f7 |
+| Senior Advisor, Indigenous & Community Relations | Suncor Energy | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=04a25d87d2864fad |
+| Vigilant Emergency Communications Specialist, Part Time | Stars | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=a8471d6d1269e488 |
+| Vigilant Emergency Communications Specialist, Full Time | Stars | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=41820f11b949e9b9 |
+| Office Administrator | Plum Gas Solutions | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=3547be5b3ecd6132 |
+| Accounting Administrator | Calgary Foothills Primary Care Network | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=39d2047c83d2346e |
+| Operations - Operations Coordinator (Guardteck) | Kandor Management | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=a98fc5b3c2cf73f2 |
+| Operations - Operations Coordinator (Guardteck) | Guardteck Security | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=26b15b16e7ac234f |
+| HR Administrator | Strathcona County | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=19ffe45898387710 |
+| IOC Call Facilitation Coordinator (PT, Term) | Edmonton International Airport | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=61b4d108b5553cb3 |
+| Program Coordinator (Contract) | ECO Canada | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402094081 |
+| Administrative Assistant | FedEx Canada | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401133461 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401142047 |
+| Business Analyst | Alberta Central | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=51af2e81cee7217c |
+| Tier 1 Technical Analyst | Cadence Solutions | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=21e5e59ca203ae78 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402090368 |
+| Shopify Developer - Remote | YO IT Consulting | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401138918 |
+| Administrative Pool | AGAT Laboratories | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=920ba4657d86f4e6 |
+| Account Associate III– Distributions & Reconciliation, | Computershare | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=0de1a4251f8f94fb |
+| Customer Experience Associate- Calgary, AB (18.75 hours/week | Scotiabank | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=dc6c20ce8b3c7e4a |
+| Pipeline Integrity Specialist | Canlin Energy Corporation | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402084513 |
+| Leasing Coordinator | Agilus Work Solutions | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401118926 |
+| Universal Financial Associate - Shawnessy | Servus Credit Union | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401139546 |
