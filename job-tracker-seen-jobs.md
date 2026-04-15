@@ -3013,3 +3013,74 @@
 | Career Practitioner/ Workshop Facilitator (TRT) | Centre for Newcomers | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=ecc02bdecad5955f |
 | Building Products Customer Support Specialist | Zurn Elkay Water Solutions | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401464566 |
 | BDAM-Business Development Administrator | Lifemark Health Group | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4399981721 |
+| Quality Assurance Lead Auditor | Coolit Systems | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=8a0c20bbdec33c2c |
+| Returning Officer | Elections Alberta | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=bd01caa95aa97b75 |
+| School Admissions & Office Operations (Receptionist) | Connect Charter School | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=710bb8597dba24a4 |
+| Client Care Specialist | Abell Pest Control | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=5c7c08ea11a70cd0 |
+| Materials Manager/Buyer | Weyerhaeuser | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=dd80ac7d080fd662 |
+| Returning Officer | Elections Alberta | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=e1edf9e86d9580ca |
+| Returning Officer | Elections Alberta | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=2d8d58b857b15632 |
+| Returning Officer | Elections Alberta | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=cd102260188c99ee |
+| logistics manager - transportation | Day Day International Logistics Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=5de1dc425209f0fe |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402537062 |
+| Contract Environmental Coordinator - Assessments | Orphan Well Association | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401479362 |
+| UT Operations Coordinator, | Intero Integrity | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4401491122 |
+| LNG Commercial Operations and Logistic Planner | PETRONAS Canada | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402613010 |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402539983 |
+| Administrative Assistant | Alberta Petroleum Marketing Commission | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=799a796fee55a837 |
+| Estate and Trust Advisor | RBC | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=88367843a051541b |
+| Advisor, HR Business | Canadian Natural | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=f1e8043fe67bdf31 |
+| Communications Specialist Summer Youth Worker | Spinal Cord Injury Alberta | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=d5ed852d22d23cd9 |
+| Registered Psychologist, Provisional Psychologist, or Regist | Shift Psychological | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=aa006eea3b23eb0c |
+| ADMINISTRATIVE ASSISTANT - Canada Summer Jobs | The Calgary Chinese Elderly Citizens' As | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=257a83d9e2ee5f07 |
+| Digital Marketing Coordinator - Summer Student | Habitat for Humanity Southern Alberta | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=926de2e2391a7025 |
+| BDAM-Business Development Administrator | Lifemark Health Group | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=2da4bcf9a280805b |
+| Administrator – General & Accounts Payable | Solar YYC | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=2690c001ae2ebb0c |
+| Human Resources Administrator | Modern Beauty | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=f400456d9e2c2a2e |
+| Account Coordinator | JD Power | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=a4f28960241ea51c |
+| Administrative Coordinator | Casawise Management | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=801aab37e9c851f2 |
+| Operations Support Coordinator | Homewood Health | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=999aeda0eb89b538 |
+| Digital Content Coordinator | University of Alberta | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=75f90edd1f2a3fdc |
+| Case Manager - YTA | ENVIROS | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=a9db15c92fa1a23f |
+| Youth Support Worker | Forge Performance Group | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401476985 |
+| Technology Program Manager | MNP | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401487637 |
+| Branch Care Coordinator | Air Liquide | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402550294 |
+| Estate and Trust Advisor | RBC Dominion Securities | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402559224 |
+| Senior Financial Advisor - Horizon Square, Calgary, AB | Scotiabank | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401482944 |
+| SENIOR SERVICE ADVISOR | Mercedes-Benz Country Hills | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402613295 |
+| Wealth Advisor, Prospr by Sun Life | Sun Life | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401480363 |
+| Transfer Specialist | HUB International Québec Ltd | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402627136 |
+| Payroll Specialist | Raise | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4401469729 |
+| Policy Analyst | Enserva | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4402615035 |
+| Cloud Platform Engineer | WILLDAN GROUP | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=2f87fdd5aa59e78a |
+| Reporting Analyst | Edmonton Southside Primary Care Network | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=0eca42363e2c84b4 |
+| Technology Product Specialist | MNP | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401478900 |
+| Quality Assurance Analyst | Brilliant Harvest Inc. | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401473608 |
+| Data & Analytics Developer | Volker Stevin | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401492161 |
+| BTP CAPM + MCP Developer | Ampstek | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401481382 |
+| Clearing Risk Analyst | ICE | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4389901771 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402542089 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402535348 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402540018 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402529647 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402532408 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402530679 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402542038 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402537354 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402544047 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402543038 |
+| Business Analyst - W2 only -(Banking / Financial Domain) -10 | Zillion Technologies, Inc. | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401462985 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402527735 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402519897 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402537246 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402525687 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402531409 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402521931 |
+| Remote Business Analyst - 57510 | Turing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402536298 |
+| Customer Support Specialist - Labs | Fullscript | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=fa08ad9b619ea4c2 |
+| Private Client Associate | RBC | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=6f7978086fb80328 |
+| Tour Operations Specialist | Ctour Holiday LLC | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=62331bc20e156765 |
+| Veterinary Receptionist - Calgary, AB | Vetcor | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402573927 |
+| Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4400116117 |
+| Payroll Administrator (Calgary South) | Trail Appliances AB/SK | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402629069 |
+| Energy Marketing Associate | ATCO | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402619349 |
