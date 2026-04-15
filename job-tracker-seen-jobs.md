@@ -2940,3 +2940,12 @@
 | Account Associate III– Distributions & Reconciliation, | Computershare Canada | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401165421 |
 | Customer Service Representative | Wood Automotive Group | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402213638 |
 | Research Associate, Community Health Sciences | University of Calgary | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402093853 |
+| Crew Planning Analyst | Flair Airlines Ltd. | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=ad9631706cbad898 |
+| Service Advisor – Richmond Square | Canadian Tire Corporation, Ltd. | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=41f5d0484fb1f505 |
+| Service Advisor – Pacific Place | Canadian Tire Corporation, Ltd. | 2026-04-15 | N | https://ca.indeed.com/viewjob?jk=0bbfc3c793c4f145 |
+| Deployment Specialist | SimplyCast | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=271219c5111b6d74 |
+| Technology Operations Analyst II, Managed Services Practice, | EY | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=d062dfc17fa04b8a |
+| Writing Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402227626 |
+| Tax Law - Tax Litigation, Associate - Calgary | EY | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=c36739806d48ed87 |
+| Private Client Associate | RBC | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402242257 |
+| Compliance Coordinator | Heritage College | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401190444 |
