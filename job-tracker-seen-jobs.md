@@ -2949,3 +2949,15 @@
 | Tax Law - Tax Litigation, Associate - Calgary | EY | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=c36739806d48ed87 |
 | Private Client Associate | RBC | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4402242257 |
 | Compliance Coordinator | Heritage College | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401190444 |
+| Sr Maintenance Planner | Suncor Energy | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=f4a3865576690a33 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-15 | J | https://ca.indeed.com/viewjob?jk=bbda8cedac6b6895 |
+| Meeting & Events Coordinator Club Med Resorts Canada or over | Club Med | 2026-04-15 | J | https://www.linkedin.com/jobs/view/4402239915 |
+| Senior Payroll Specialist | Procom | 2026-04-15 | N | https://www.linkedin.com/jobs/view/4399935643 |
+| Data Analyst | Vantix Systems Inc | 2026-04-15 | R | https://ca.indeed.com/viewjob?jk=ad8c5c46a67ba511 |
+| Parts Specialist | Stichting Mission on Wheels | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402240668 |
+| Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4401198405 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402245745 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402265015 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-15 | R | https://www.linkedin.com/jobs/view/4402260090 |
+| Administrative Support II | Alberta Precision Labs | 2026-04-15 | G | https://ca.indeed.com/viewjob?jk=4c79e1f9d824defe |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401409371 |
