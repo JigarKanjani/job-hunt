@@ -3246,3 +3246,34 @@
 | Technical Support Application Analyst (Remote 24/7) | Relativity | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402946663 |
 | Automation QA Engineer | $5/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401894859 |
 | Automation Test Engineer (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402934233 |
+| Program Manager, Scotia Place Transition | Calgary Sports and Entertainment Corpora | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=666a6066fc43c64f |
+| Senior Data Analyst | KiBony Consulting Inc | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=e463cffaf9823b8e |
+| Production Planner II | Modine Manufacturing Company | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4390377665 |
+| Coordinator, People & Culture | CNIB | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402137199 |
+| Senior Procurement Manager, IT - Remote | CLEAResult | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400415458 |
+| Supply Chain Manager - AI Trainer - Freelance - 8-20 hrs/wee | 10x.Team | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402966349 |
+| Business Analyst ( Remote ) ( Healthcare ) | Pinnacle Method Consulting | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4392840942 |
+| Wellness Program Specialist | City of Calgary | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=c1ee8fa12cb0d7f3 |
+| Security Access Administrator | City of Calgary | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=b3f1a89824d5db06 |
+| Senior Specialist, People | Walmart | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=d584acf49029c797 |
+| (CAN) Specialist, People | Walmart | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=1533d47738107491 |
+| Office & Sales Administrator | Black Powder Solutions Inc. | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402136349 |
+| People Systems Specialist (HRIS/Dayforce) | McElhanney | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4390662782 |
+| Remote Case Manager (Arizona | Kansas | Missouri | Louisiana | Integrated Resources, Inc ( IRI ) | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4383328053 |
+| Compliance Specialist - AI Trainer - Freelance - 8-20 hrs/we | 10x.Team | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402964336 |
+| Risk Analyst - AI Trainer - Freelance - 8-20hrs/week - Remot | 10x.Team | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402951588 |
+| Salesforce Administrator (100% Remote in Poland or Spain) | Docplanner | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402129428 |
+| Salesforce Administrator (100% Remote in Poland or Spain) | Docplanner | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402125497 |
+| Salesforce Administrator (100% Remote in Poland or Spain) | Docplanner | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402113733 |
+| Operations & Systems Coordinator (Remote) | Cordatus Resource Group | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402117896 |
+| Business Analyst II – Business Service Center (U.S.) - Fully | LHH | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402152013 |
+| Business Analyst - 3 Different Remote Roles | Jobs via Dice | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402133072 |
+| Business Analyst - AI Trainer - Freelance - 8-20 hrs/week -  | 10x.Team | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402954443 |
+| Manufacturing Specialist - Fully Remote | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402130287 |
+| E-Commerce Analyst - Fully Remote | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402112524 |
+| Technical Support Application Analyst (Remote 24/7) | Relativity | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402938825 |
+| Technical Support Application Analyst (Remote 24/7) | Relativity | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402937841 |
+| Real Estate Agent | Rebate Real Estate | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=613f4eb5b191b2f8 |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=d7ddb278f3ca1e9d |
+| General Merchandise Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=055b92a1e06c412b |
+| Marketing Specialist, Brand Sustainment | McElhanney | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4381101326 |
