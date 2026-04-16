@@ -3186,3 +3186,47 @@
 | Arabic Language Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402682764 |
 | Front Desk Representative (Calgary) | S&T Properties | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=e7cfde7a74424e11 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401879196 |
+| School Finance Specialist | Calgary Board Of Education | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=b54751a6c21cfda6 |
+| Healthcare Furnishings Specialist | Alberta Health Services | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=f99d7cc9686b7a77 |
+| Healthcare Furnishings Specialist | Alberta Health Services | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=a42ad8b493181b08 |
+| Planner | Alberta Health Services | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=b25be10b6c221520 |
+| Senior Associate, Operations and Procurement | PwC Canada | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402925943 |
+| Business Developer (Supply Chain / WMS) – Full remote | Approach People Recruitment | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4398274284 |
+| Business Analyst (Remote) | Joveo Ai | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402928355 |
+| Business Analyst (Remote) | Joveo Ai | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402945179 |
+| Procurement Specialist (Remote) | Joveo Ai | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402941232 |
+| Business Analyst (Remote) | Joveo Ai | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402928401 |
+| Business Analyst ARG (Remote) | RemoteHunter | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4401868709 |
+| Facility Services Coordinator | The Church of Jesus Christ of Latter-day | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=14910f31e941330a |
+| Administrative Assistant to the Chair | Mount Royal University | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=9b71fc797efef17e |
+| Program Manager, Digital Customer Success (Remote, CAN) | CrowdStrike | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4390040897 |
+| Operations Administrator (*Remote) | RemoteHunter | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4401882264 |
+| Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402939261 |
+| Remote Administrative Assistant | Entry-Level | RecruitLytix | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402922515 |
+| Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402929303 |
+| Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402943141 |
+| Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402919816 |
+| Technical Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402914860 |
+| Technical Program Manager (Remote) | Joveo Ai | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402927067 |
+| Sr.Program Manager (AI) fully remote | RemoteHunter | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4401872476 |
+| Clinical Case Manager (US Healthcare) - EST hours (Remote) | ISTA Solutions | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402936101 |
+| Clinical Case Manager (US Healthcare) - EST hours (Remote) | ISTA Solutions | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402918947 |
+| Clinical Case Manager (US Healthcare) - EST hours (Remote) | ISTA Solutions | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402927249 |
+| Clinical Case Manager (US Healthcare) - EST hours (Remote) | ISTA Solutions | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402922994 |
+| Cloud Platform Engineer | Energy and Environmental Economics, Inc. | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402926267 |
+| HRIS Analyst - Remote | Telecare Corporation | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4390372070 |
+| Data Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402926242 |
+| Data Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402931331 |
+| Data Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4400182332 |
+| Data Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402937327 |
+| Junior IT Support Engineer (Fully Remote) | EXUS | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402933071 |
+| Computer User Support Specialists | Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4330692166 |
+| Clinical Support Coordinator - Full-Time/2nd Shift/Remote | RemoteHunter | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401872429 |
+| Finance & Strategy Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401863543 |
+| Finance & Strategy Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401866625 |
+| Comparative Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401869243 |
+| Engineering Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401873661 |
+| Financial Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402931344 |
+| Automation Test Engineer (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402929385 |
+| Veterinary Receptionist - Calgary, AB | Vetcor | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=a0e518f132430a38 |
+| Accounts Payable Administrator | Roneta | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401879300 |
