@@ -3131,3 +3131,29 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401499273 |
 | Indigenous Engagement and Research Associate, School of Publ | University of Calgary | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401801328 |
 | Technical Sales Specialist | MRO Electronics | 2026-04-15 | G | https://www.linkedin.com/jobs/view/4401805349 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=a27260b6bea9278f |
+| Jr. Project Coordinator | Amrize | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=75dba399b887fcce |
+| Financial Analyst | Birchcliff Energy Ltd | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=03132ffe5432089e |
+| Program Specialist, Employee Engagement (12 Month Contract) | Clio | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4401812985 |
+| Jr. Project Coordinator | Amrize | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400134705 |
+| Inventory Control Coordinator | Loblaw Companies Limited | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402667156 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402658913 |
+| Fleet Services Analyst | UFA | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4401845256 |
+| Procurement Manager (Remote) | CBRE | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402656816 |
+| Enterprise Program Manager - Digital Services - State Govt - | Jobs via Dice | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4401837059 |
+| Sales Compensation Analyst III, Captivate IQ (Hybrid or Remo | TruStage | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400136690 |
+| Office Administrator/Receptionist | Back in Balance Wellness Centre - Lethbr | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=ef5b4e9f4b4622c7 |
+| Coordinator, Training | City of Calgary | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=67335ed7ef105dea |
+| Analyst, Total Rewards (Compensation), People and Culture | University of Calgary | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=b66f709a2071b87f |
+| Calgary Police Service - Respect and Restoration Services Ad | City of Calgary | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=706a42716312749b |
+| Senior Payroll & Benefits Administrator | De Havilland Aircraft of Canada Limited | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402661396 |
+| Administrative Assistant - REMOTE | Gordian Staffing Careers | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4378533620 |
+| Staff Program Manager - Global Commercial Analytics (Remote) | Dexcom | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4389419609 |
+| (REMOTE) HR Workday/Help Journey's Specialist | Trinity Health | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402669358 |
+| Licensed Master Social Worker (NY) - Remote - Full Time or P | PM Pediatric Care | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402672338 |
+| Licensed Master Social Worker (NY) - Remote - Full Time or P | PM Pediatric Care | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402661488 |
+| Licensed Master Social Worker (LMSW) - Remote | Brave Health | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402670621 |
+| English-Speaking Business Call Specialist (Remote, LATAM) | Emma of Torre.ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402016810 |
+| Calgary Police Service - Administrative Assistant (District  | City of Calgary | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=72b043ca3b1efc9e |
+| Indigenous Engagement and Research Associate, School of Publ | University of Calgary | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=6053a31ae7238eca |
+| Client Service Associate | Morgan Stanley | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401858072 |
