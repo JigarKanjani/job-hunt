@@ -3330,3 +3330,23 @@
 | Personal Banking Associate | TD | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=363661645a9a2f04 |
 | Associate | Richardson Wealth | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=ea2bf17f649b0954 |
 | Associate | Richardson Wealth | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4402192022 |
+| Residential Construction Intermediate Estimator / Pre-Constr | Oldstreet Development Corporation | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=d1fd8b1520a2d53d |
+| Senior Underground Mining Planner | Fluor Corp. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=2db68b4ce8e8f0ec |
+| Maintenance Planner | Enbridge | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=3717781a4449b8d2 |
+| Project Coordinator | Komplete Modular Solutions Ltd. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=1fc5018b01f6a07a |
+| Temporary) Service Desk Analyst | THE CITY OF SPRUCE GROVE | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=fee74241436c4796 |
+| Social Media Coordinator | Burly Boyz Moving & Storage | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=3498913713aaa49c |
+| Financial Analyst | Pivotal Energy Partners Inc. | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402190190 |
+| Technical Records Analyst | De Havilland Aircraft of Canada Limited | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402997911 |
+| Technical Lead, Automation | Export Development Canada | Exportation  | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400443572 |
+| Drivematic & GSE Specialist | De Havilland Aircraft of Canada Limited | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402997883 |
+| Senior Procurement Specialist (IT) (GOAPRDJP00000894) | Amyantek | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402987605 |
+| Reclamation Coordinator | Canadian Natural | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=9c95b78af02b13fa |
+| FRONT DESK RECEPTIONIST (Client Experience Coordinator) | SELIS BEAUTY | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=7fa2cf710b08cfc0 |
+| HR Advisor | Cenovus Energy | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=bdbb8554eb2876e3 |
+| Senior Administrative Assistant | Cenovus Energy | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=93367f279ee838d5 |
+| Service and Marketing Coordinator | Precision Heat and Cool | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=9b9ade4a286fbe89 |
+| Peer Support/Wellness Centre Coordination Worker | The Mustard SEED Society | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=b01997d3f0b8ed84 |
+| Administrative Coordinator | Procor Limited | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=d4fc02181fc4d53d |
+| Data Analyst – Remote Job in USA | job4pak | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4403106113 |
+| Crude Oil Scheduler | Alberta Petroleum Marketing Commission | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=2626a59ef4635352 |
