@@ -3166,3 +3166,23 @@
 | Technical Business Analyst (Work from Home) | Quantrics Enterprises Inc. | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4385489223 |
 | Arabic Language Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402901507 |
 | Microsoft Office Tutor | Varsity Tutors, a Nerdy Company | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4400172276 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=fc45239c6c7a79e1 |
+| Senior Instrumentation and Controls Specialist | Kleinfelder | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4371038837 |
+| Office Coordinator – Remote | VITA CV | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4399155958 |
+| Remote Administrative Assistant | Entry-Level | RecruitLytix | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402922515 |
+| Business Intelligence Developer | Covenant Health Canada | 2026-04-16 | R | https://ca.indeed.com/viewjob?jk=3a0794ac4a8868ec |
+| AI Solution Business Analyst - Remote | Pinnacle Method Consulting | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401864216 |
+| IT Business Analyst III-Billing (Remote) | Pinnacle Method Consulting | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401863236 |
+| Data & AI Platform Engineer - ¥10M – ¥18M /Yearly - Tokyo, J | Superstars | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402919614 |
+| Computer User Support Specialists | Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4330692166 |
+| Onsite IT Support/EUC/Network/Desktop Audio/Video Support -  | EIL Global | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402900695 |
+| Remote ISP Helpdesk Technician | TEKsystems | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402695704 |
+| Application Support and Operations Analyst - Location Remote | Mittera | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402917690 |
+| Comparative Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401869243 |
+| Comparative Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401872214 |
+| Credit Analyst (Finance) | $80/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4332541416 |
+| Frontline Support Specialist-Order to Fulfill-WFH | Tap Growth ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401869166 |
+| Arabic Language Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402901507 |
+| Arabic Language Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402682764 |
+| Front Desk Representative (Calgary) | S&T Properties | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=e7cfde7a74424e11 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401879196 |
