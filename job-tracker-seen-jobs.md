@@ -3230,3 +3230,19 @@
 | Automation Test Engineer (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402929385 |
 | Veterinary Receptionist - Calgary, AB | Vetcor | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=a0e518f132430a38 |
 | Accounts Payable Administrator | Roneta | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401879300 |
+| Planner | Alberta Health Services | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=8cd07ea911553aae |
+| Planner | Alberta Health Services | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=d2f42a2a3a55c648 |
+| Buyer / Purchasing Agent – Supply Chain & Procurement | Remo | Crossing Hurdles | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4401877612 |
+| Procurement Specialist (Remote) | Joveo Ai | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402942129 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4387108695 |
+| HR People Operations Specialist - 100% Remote (m/w/d) | Digistore24 DACH | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4401865867 |
+| Payroll Onboarding Specialist - Full Remote | Jet HR | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4400194915 |
+| CLDRSRC9422 - Data Analyst -Edmonton,AB - Hybrid/Remote- Lon | Cloud Resourcing | 2026-04-16 | R | https://ca.indeed.com/viewjob?jk=447da3c412ad744b |
+| Program Developer | Lifeview Petroleum Inc. | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4391637285 |
+| Business Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402935483 |
+| Data Analyst (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402929439 |
+| Engineering Research Analyst | $30/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401873661 |
+| Engineering Specialist | Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4329292735 |
+| Technical Support Application Analyst (Remote 24/7) | Relativity | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402946663 |
+| Automation QA Engineer | $5/hr Remote | Crossing Hurdles | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4401894859 |
+| Automation Test Engineer (Remote) | Joveo Ai | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402934233 |
