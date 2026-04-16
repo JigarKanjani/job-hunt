@@ -3157,3 +3157,12 @@
 | Calgary Police Service - Administrative Assistant (District  | City of Calgary | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=72b043ca3b1efc9e |
 | Indigenous Engagement and Research Associate, School of Publ | University of Calgary | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=6053a31ae7238eca |
 | Client Service Associate | Morgan Stanley | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4401858072 |
+| Fleet Services Analyst | UFA | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=4dc8fccacc5a8f7e |
+| Front Desk Coordinator | Urban Systems Ltd. | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402682443 |
+| Sales Operations & Analytics Analyst - Remote | CGS Nexus Romania | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400170574 |
+| Small Capital Projects Coordinator | Boardwalk | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4401851647 |
+| Case Manager &amp;#8211; YTA | Enviros WSA | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402686443 |
+| office administrator | Sunder Building Supplies | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402686848 |
+| Technical Business Analyst (Work from Home) | Quantrics Enterprises Inc. | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4385489223 |
+| Arabic Language Specialist - Fully Remote | Upto $35/hr | Mercor | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402901507 |
+| Microsoft Office Tutor | Varsity Tutors, a Nerdy Company | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4400172276 |
