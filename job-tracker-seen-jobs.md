@@ -3277,3 +3277,30 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=d7ddb278f3ca1e9d |
 | General Merchandise Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=055b92a1e06c412b |
 | Marketing Specialist, Brand Sustainment | McElhanney | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4381101326 |
+| AP Specialist | WHITEWATER MANAGEMENT - Catalyst Product | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=0816533c10d09dda |
+| Project Logistics Coordinator | BAAC Construction Inc. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=0a2baf5606363323 |
+| HR Coordinator | Carscallen LLP | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=890fbec13ceab638 |
+| Clinical Research Coordinator & Data Analyst | M.A.G.I.C. Clinic LTD | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=b40e9ebed8db66ad |
+| Project Coordinator | Central Civil Solutions Inc. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=d33fe870f6ed13ad |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=7a1d304879df8f11 |
+| Reporting Analyst | Net2Source (N2S) | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402979429 |
+| Reporting Analyst | Indotronix Avani Group | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402140725 |
+| Reporting Analyst | JSG (Johnson Service Group, Inc.) | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400412882 |
+| Senior Salesforce Business Analyst | Coforge | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4402151618 |
+| Reclamation Coordinator | Canadian Natural Resources Limited (CNRL | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400435302 |
+| Marketing Coordinator - Summer Student | Teknertia | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=14b59227e03ce7a4 |
+| Project Administrator/Safety Coordinator - On-Site | MCL Power Inc | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=629fd7f42bd3edde |
+| Senior Specialist, People | Walmart | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=1ed957fc8c8685c5 |
+| Senior Administrative Assistant | Cenovus Energy | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402143795 |
+| Disability Case Manager | Desjardins | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4350659106 |
+| Senior Environmental Engiener / Soil Management Specialist | LJB Inc. | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402138413 |
+| MEP PROJECT COORDINATOR (100% REMOTE) | RELIABLE ELECTRICAL CONTRACTORS, INC. | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402965836 |
+| Administrative Assistant MST Time Zone | 100% Remote | USD$  | Elevate Teams | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402560073 |
+| Remote Case Manager (Arizona | Kansas | Missouri | Louisiana | Integrated Resources, Inc ( IRI ) | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4383328053 |
+| Technical Business Analyst (IAM)  || Remote/Canada | Ampstek | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402144561 |
+| Budget Analyst II (Remote). | State of Colorado | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402958878 |
+| IT Support Technician - Remote - Denver | PharmaLogic | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4380447977 |
+| Technical Support Analyst (remote) | Software Guidance & Assistance, Inc. (SG | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402132467 |
+| Receptionist/Administration | The Indigenous Justice Centre of Alberta | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=c42b9308154ac61c |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=190262827c44634b |
+| Sales Specialist (Inbound Sales) | Helcim | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4400428161 |
