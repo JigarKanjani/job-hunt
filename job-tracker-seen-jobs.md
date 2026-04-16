@@ -3304,3 +3304,29 @@
 | Receptionist/Administration | The Indigenous Justice Centre of Alberta | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=c42b9308154ac61c |
 | OMNI Customer Fulfillment Associate | Walmart | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=190262827c44634b |
 | Sales Specialist (Inbound Sales) | Helcim | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4400428161 |
+| Senior Environmental Engiener / Soil Management Specialist | LJB Canada Inc. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=41b4dfd44337e89c |
+| Technical Records Analyst | De Havilland Aircraft of Canada Ltd | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=fbe0e7d8f6a76296 |
+| Senior Underground Mining Planner | Fluor Corp. | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=42489b901ab7e43e |
+| Sr Advisor, Capital Procurement | Nutrien | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=6df7a914abdccfba |
+| Procurement Officer III | Newfoundland and Labrador Health Service | 2026-04-16 | J | https://ca.indeed.com/viewjob?jk=e83d5c99d96890e5 |
+| Planning and Forecast Advisor | Airswift | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400434481 |
+| Supply and Transportation Administrator | Superior Propane | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400433509 |
+| Technical Lead, Automation | Export Development Canada | Exportation  | 2026-04-16 | J | https://www.linkedin.com/jobs/view/4400443572 |
+| Sales Coordinator | West Four Group of Companies | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=4cccb34b2b8001d9 |
+| Field Ministry Administrator | Samaritan's Purse | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=7308aaefe443eb1b |
+| Legal and Privacy Compliance Coordinator | Athabasca University | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=60ee39e2f226f6b6 |
+| IIE Program Coordinator | Mount Royal University | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402170844 |
+| Administrative Assistant to the Chair | Mount Royal University | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4400114671 |
+| Administrative Assistant Intern | Calgary Chamber of Commerce | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402978473 |
+| Recruitment and Engagement Coordinator | Mount Royal University | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402178733 |
+| Proposal Coordinator | Tri Innovations | 2026-04-16 | N | https://www.linkedin.com/jobs/view/4402158820 |
+| Accounts Payable and Bookkeeping Administrator | Oldstreet Development Corporation | 2026-04-16 | R | https://ca.indeed.com/viewjob?jk=f46d7839751f38c6 |
+| Patient Safety Data Analyst | Newfoundland and Labrador Health Service | 2026-04-16 | R | https://ca.indeed.com/viewjob?jk=445d58fb94c6c798 |
+| Desktop Support Engineer | Sky Systems, Inc. (SkySys) | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402174504 |
+| SAP PP Functional Analyst | Insight Global | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402172047 |
+| Technical Business Analyst (IAM)  || Remote/Canada | Ampstek | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402144561 |
+| VOCR-Vocational Specialist | Lifemark Health Group | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4402153392 |
+| Office Co-ordinator | Fresh Start Recovery Centre | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=5a2c811f0de9e306 |
+| Personal Banking Associate | TD | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=363661645a9a2f04 |
+| Associate | Richardson Wealth | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=ea2bf17f649b0954 |
+| Associate | Richardson Wealth | 2026-04-16 | G | https://www.linkedin.com/jobs/view/4402192022 |
