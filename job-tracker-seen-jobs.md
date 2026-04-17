@@ -3420,3 +3420,10 @@
 | Systems Administrator (6-month contract) | Klohn Crippen Berger | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403171810 |
 | Note-Taking Specialist - Fully Remote | Upto $100 Part-time | Mercor | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403193453 |
 | Associate | RBC | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403182966 |
+| Turnaround Specialist | Cenovus Energy | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=92bc8102b6811be8 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=3c16ab2273271e66 |
+| Project Coordinator (Industrial Division) | Sureway Construction Group Ltd. | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=30b530fcd4793757 |
+| Operations Coordinator | The Brick | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=3c2957486d56fc5c |
+| HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4402356593 |
+| Administrative Support IV | Primary Care Alberta | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=86f75890ac1ae6ac |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402367639 |
