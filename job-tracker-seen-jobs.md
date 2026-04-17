@@ -3412,3 +3412,11 @@
 | Administrative Professional - Wealth Management | BDO Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403156720 |
 | Research Associate, Physiology & Pharmacology | University of Calgary | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403171376 |
 | Client Production Specialist | DCM | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403187220 |
+| Operations Supervisor - Distribution | DHL | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=42d2a521ebe46ba5 |
+| supply chain manager | Canadian Fiber Optics | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403406017 |
+| Analyst /  Rail Administrator | Agilus Work Solutions | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402336938 |
+| Coordinator - Tissue | Canadian Blood Services | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403183632 |
+| Senior Program Manager (Remote - Canada) | Inviso | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4400497487 |
+| Systems Administrator (6-month contract) | Klohn Crippen Berger | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403171810 |
+| Note-Taking Specialist - Fully Remote | Upto $100 Part-time | Mercor | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403193453 |
+| Associate | RBC | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403182966 |
