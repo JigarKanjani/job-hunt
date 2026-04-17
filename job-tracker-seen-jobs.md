@@ -3496,3 +3496,39 @@
 | Staff Scheduler (2026-0011) | Carewest - Innovative Health Care | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=ffd526931062c6be |
 | Sr. Specialist, Market Risk | Capital Power | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=bcb16b9517212ea5 |
 | Rail Administrator | Adecco | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402729954 |
+| Administrative Buyer | Viking Fire Protection | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=46133cc6f7c5e225 |
+| Managing Consultant - Energy Supply Chain | Wood Mackenzie | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=917be6b48e30da7b |
+| Senior SAP HR Analyst | Pembina Pipeline Corporation | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=9fd3950f114066ae |
+| Administrative Coordinator | Alberta Association of Municipal Distric | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=bad478532e14b928 |
+| Logistics Coordinator | Gambles Group of Companies | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=ec176e25e028b5a2 |
+| Peer Support Coordinator / Family Peer Support Coordinator | Department of National Defence Canada | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=c908ce61c70887d1 |
+| Proposal Coordinator (16-Month Parental Leave Cover) | ISL Engineering and Land Services | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=a6b9ea3d09000032 |
+| Ramp Operations Supervisor | Executive Flight Centre | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=0eb39f9ba6eb154c |
+| Senior Actuarial Analyst - P&C and Farm Pricing | Wawanesa Insurance | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=d52e399112e089b3 |
+| Supply Chain Manager | Bethany Care Society | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403530724 |
+| Senior Data Analyst - Property Management | Onward | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402754158 |
+| Project Coordinator | RWDI | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402752410 |
+| Cultural Programming and Events Coordinator, Student Experie | University of Calgary | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403535645 |
+| Pre-Trades Construction Facilitator | Ballad Consulting Group | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=c7e716fdafb1c5a4 |
+| Land Administrator | Tricycle Lane Ranches Ltd. | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=52019ae3eb268d59 |
+| Aircraft Technical Records Administrator | AirSprint Private Aviation | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=ebc390cd0cc9af8d |
+| 26-11 Registration Program Coordinator | The Association of Professional Engineer | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=9e17c1ecf4c9b3ab |
+| Program Coordinator – Indigenous Family Violence Prevention  | Hinton Friendship Centre | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=23bbf44c6b003dc7 |
+| Land Administrator | Tricycle Lane Group of Companies | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4403524862 |
+| Patient Services Specialist - Part Time | FYidoctors | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=a62f81308dc15c41 |
+| SYSTEM ADMINISTRATOR - INFORMATION TECHNOLOGY - SUMMER INTER | Ensign Energy Services Inc. | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=b3fcb40d43611711 |
+| IT System Administrator | Netsmart Inc. | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=68cfa8c6d2470c17 |
+| Security Analyst | Postmedia Network Inc. | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=491e4376b45cb255 |
+| Sales Associate | Maple Craft Inc. | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=6505f44eb7bc35fd |
+| Client Relations Specialist - Western Region | WEIDMULLER | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=de9a34d81e6761ce |
+| Front Desk Receptionist | Rockies Building Supplies INC. | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402768299 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402763081 |
+| Customer Experience Associate | TD | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403531736 |
+| Customer Experience Associate | TD | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403521786 |
+| Customer Experience Associate | TD Securities | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403524686 |
+| Customer Experience Associate | TD Securities | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403534513 |
+| Sales Coordinator | Tech-Wood Building Components Ltd. | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402769271 |
+| Specialist, Diagnostic Anatomic Pathology | University of Calgary | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403522905 |
+| Corporate HSE/ESG Administrator | Centurion - Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402759376 |
+| Project Coordinator - Buildings | Graham | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403543583 |
+| Specialist Optimization Facility Programs | Enbridge | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4400876050 |
