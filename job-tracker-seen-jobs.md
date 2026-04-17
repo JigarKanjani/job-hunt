@@ -3389,3 +3389,26 @@
 | Personal Banking Associate | BMO | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403169242 |
 | Event Coordinator | ECO Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403147489 |
 | Proposal Specialist | DIALOG | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403149741 |
+| Business Analyst | City of Calgary | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=67a65ebdfb431036 |
+| Maintenance Planner | Cascades | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=73569fdf7e6edacb |
+| Project Logistics Coordinator | BAAC Construction INC | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400490428 |
+| Customer Service Associate - Lumber & Building Materials | RONA | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403153665 |
+| Project Coordinator, Construction (Calgary) | Anthem Properties Group Ltd. | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403171093 |
+| Reservations Coordinator | All Site Refreshments | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=39e76744bf64eb7f |
+| Triage & Housing Solutions (THS) Worker | Inn from the Cold | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=59a6ae3c593fcc06 |
+| Child Support Worker - Part Time Evenings | Children's Cottage Society | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=87ee1d2540878638 |
+| Case Manager | Centre for Newcomers | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=4791549b31483a3d |
+| Reporting Coordinator, Wealth Management | BDO | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=03233c8d4f6acab7 |
+| Research Analyst | Dynata | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=8d6b76f47e41d9b6 |
+| IT Administrator | SysGen Solutions Group Ltd. | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=94adf63fb82212f0 |
+| Network Analyst | Government of Alberta | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402337353 |
+| Reporting Coordinator, Wealth Management | BDO Canada | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403147968 |
+| Payroll Administrator | Alstar Group of Companies Ltd. | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=bd363c299d2642c6 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=564084f8a4799951 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=549fb7398a1f36d2 |
+| Scheduler AgeCare Dawson | AgeCare | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403169582 |
+| Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402331378 |
+| Customer Experience Associate - Richmond Branch, AB (22.5 ho | Scotiabank | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402354194 |
+| Administrative Professional - Wealth Management | BDO Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403156720 |
+| Research Associate, Physiology & Pharmacology | University of Calgary | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403171376 |
+| Client Production Specialist | DCM | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403187220 |
