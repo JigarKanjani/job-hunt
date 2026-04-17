@@ -3350,3 +3350,42 @@
 | Administrative Coordinator | Procor Limited | 2026-04-16 | N | https://ca.indeed.com/viewjob?jk=d4fc02181fc4d53d |
 | Data Analyst – Remote Job in USA | job4pak | 2026-04-16 | R | https://www.linkedin.com/jobs/view/4403106113 |
 | Crude Oil Scheduler | Alberta Petroleum Marketing Commission | 2026-04-16 | G | https://ca.indeed.com/viewjob?jk=2626a59ef4635352 |
+| Server Analyst | Government Of Alberta | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=0029008836694c49 |
+| Network Analyst | Government Of Alberta | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=31a35a0bb0200ac1 |
+| Client Production Specialist | Data Communications Management Corp | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=79bb99017fba1b2e |
+| Category Lead | TC Energy | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=e3eb17e1531105cd |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=f17a86a678044887 |
+| Clinic Support Lead - Winsport Location | Group23 Sports Medicine | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=9316f7952236457c |
+| Supply Chain Analyst | UFA | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402328153 |
+| Distribution Logistics Coordinator | FMC Corporation | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402327679 |
+| Sourcing Specialist | PetroChina Canada | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403142747 |
+| Category Lead | TC Energy | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400455666 |
+| New Graduate Sales Leadership Program (Calgary 2026) | PepsiCo | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400456824 |
+| Senior Marketing Analyst | NRG Energy | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400460885 |
+| Contract Manager | KPMG Canada | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403152487 |
+| Public Relations Specialist (18-month contract) | Stantec | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403152600 |
+| Audit Governance Program Manager | Softchoice | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402329330 |
+| Reporting Analyst | Agilus Work Solutions | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402309399 |
+| Senior Salesforce Business Analyst | Apptoza Inc. | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400454638 |
+| People & Culture Coordinator | WINS (Women In Need Society) | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4400452798 |
+| Senior Maintenance Planner | De Havilland Aircraft of Canada Limited | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403153576 |
+| Procurement Specialist | IMCS Group | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402320150 |
+| Academic Programs Coordinator | University of Alberta | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=7801064fcab68ca1 |
+| Recruitment Coordinator (12 month contract) | Ledcor | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=ff4ec2e6afb3d888 |
+| Care Coordinator | Lifemark Health Group | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=7d87abaa1a69d1ce |
+| Administrative Services Coordinator | Government Of Alberta | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=e28b1e515cfd317a |
+| HR Advisor | Cenovus Energy | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4403144206 |
+| Program Manager - Patient Programs (Remote) | Sentrex Health Solutions | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4402308603 |
+| Clinical Business Solutions Analyst | University of Alberta | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=ac5af90729bf0e56 |
+| Analyst, Tax [Transfer Pricing] | McColl Turner LLP | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403119990 |
+| Turnaround Specialist | Cenovus Energy | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403126447 |
+| Coordinator, Accounts Receivable | Avenue Living | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403133373 |
+| (CAN) Customer Service Desk Associate | Walmart | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=90b84cc710a4175f |
+| Customer Experience Associate - Richmond Branch, AB (22.5 ho | Scotiabank | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=ae293d3edcd7b07d |
+| Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=506ca4f26a836b05 |
+| Sales Coordinator | Bishopp | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403123999 |
+| HSE & Fleet Administrator | Surepoint | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403143280 |
+| (CAN) Customer Service Desk Associate | Walmart Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4400463692 |
+| Personal Banking Associate | BMO | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403169242 |
+| Event Coordinator | ECO Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403147489 |
+| Proposal Specialist | DIALOG | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403149741 |
