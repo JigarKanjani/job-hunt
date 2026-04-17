@@ -3453,3 +3453,33 @@
 | Research Associate, Physiology & Pharmacology | University of Calgary | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=a41cc20577f7648d |
 | Marketing Specialist, AVP Strategy Enterprise and Commercial | University of Calgary | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=014529580e8b6291 |
 | Client Relations Specialist - Western Region | Weidmüller Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403459607 |
+| Materials Supervisor | Dynamic Source Manufacturing Inc. | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=81e5c957bfb76566 |
+| Document Control Specialist | CANUSA EPC | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=e1915e8728bfa526 |
+| Shipping and Receiving Coordinator | Sureway Metal Systems | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=b39a867adeb24b8c |
+| Health and Safety Coordinator | Remediclean | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=ee11a6d27c06c365 |
+| Maintenance Planner, Mining (Onsite) | Finning | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=b6cb0541e4b8427b |
+| Head of Operations | Partyhat | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=78d7924fa90ec99f |
+| Sr Advisor, Global Mobility - Saskatoon, SK or Calgary, AB | Nutrien | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=efa3d23157bd5ade |
+| SAP Business Systems Analyst I | Canadian Blood Services | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403488598 |
+| Project Administration Officer | Vision Loss Rehabilitation Canada | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403495196 |
+| Portfolio Reporting Analyst | Manpower Alberta | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402732216 |
+| Senior Associate, Operations and Procurement | PwC Canada | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403498433 |
+| AssetManagement Analyst | JSG (Johnson Service Group, Inc.) | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402750012 |
+| Style Advisor FT | Genuine Design | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=037730ee40b8e5c0 |
+| Document Preparation Specialist | Bromwich+Smith | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=b5137495baf89b1d |
+| Case Manager | Bayshore HealthCare | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=d1ca886dd99de2a5 |
+| Customer Service Coordinator | eMotors Direct | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=2938f815a3250709 |
+| Community Relations Coordinator | Fuerte Metals Corporation | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=749fee8945b2d1d0 |
+| Marketing and Communications Coordinator, Qualico Communitie | Qualico Communities Calgary | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4403495065 |
+| Learning and Onboarding Advisor | Brunel | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4387971056 |
+| IT Support Technician | Marigold Library System | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=a1e0b875dc636215 |
+| CLDRSRC9437 - IBM Power System/ AIX Server/Network Support S | Cloud Resourcing | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=4f13dcafc3baa004 |
+| QA Testing Analyst I | First Canadian Financial Group | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=0ee5935c29aae054 |
+| Events & Partnerships Coordinator | JA Southern Alberta | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402749066 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403491260 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403494068 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4403483894 |
+| Interim Payroll and Benefits Specialist | StaffingPedia.INC | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=11baa29b6e2fb34d |
+| Staff Scheduler (2026-0011) | Carewest - Innovative Health Care | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=7efc4059ff7ee1ce |
+| Personal Banking Associate Trainee | TD | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=ab493f7d7878a89a |
+| Brand Specialist, Banded Peak | Anheuser-Busch | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=31e98b39bdff794f |
