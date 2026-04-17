@@ -3440,3 +3440,16 @@
 | Data Platform Specialist | Millennium Insurance Corporation | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=a994622b83e19a92 |
 | Location Data Analyst | Remote | Crossing Hurdles | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402395195 |
 | C++ Developer - Remote | YO IT Consulting | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402395966 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=28a93f1e6e1b22dd |
+| Production Accountant & Optimization Analyst | Broadbill Energy Inc. | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402718611 |
+| Sports Coordinator | Calgary Sport & Social Club | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402705407 |
+| Supervisor, SC Operations | GXO Logistics, Inc. | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403464997 |
+| Procurement Specialist (IT) | Veridian Tech Solutions, Inc. | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402718678 |
+| Field Experience/Career Advisor | University of Calgary | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=3d3cb4d99fe89f58 |
+| Senior Human Resource Advisor | Canada Cartage | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=21bb752f6767f0b2 |
+| Summer Communications and Marketing Coordinator | Rowan House Emergency Shelter | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=f91c4502f0399393 |
+| Research Coordinator, Clinical Trials | University of Calgary | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=06dcc620a7315d31 |
+| Field Experience/Career Advisor | University of Calgary | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4403456921 |
+| Research Associate, Physiology & Pharmacology | University of Calgary | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=a41cc20577f7648d |
+| Marketing Specialist, AVP Strategy Enterprise and Commercial | University of Calgary | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=014529580e8b6291 |
+| Client Relations Specialist - Western Region | Weidmüller Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403459607 |
