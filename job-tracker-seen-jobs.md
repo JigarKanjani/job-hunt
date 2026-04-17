@@ -3483,3 +3483,16 @@
 | Staff Scheduler (2026-0011) | Carewest - Innovative Health Care | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=7efc4059ff7ee1ce |
 | Personal Banking Associate Trainee | TD | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=ab493f7d7878a89a |
 | Brand Specialist, Banded Peak | Anheuser-Busch | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=31e98b39bdff794f |
+| Marketing and Communications Coordinator, Qualico Communitie | Qualico Communities Calgary | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=0c5bd82d176474da |
+| Project Coordinator | Westburne | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=ff1df0f0742300b2 |
+| Risk Analyst | Turner & Townsend Pty Limited | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=5162ab3ad37cbc0b |
+| Asset Management Analyst | Raise | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4403517356 |
+| Analyst, Investment Fund Accounting | Mawer Investment Management | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402734562 |
+| FT Support Coordinator - Home Services - Home 16 (Upper)- 34 | Winnifred Stewart | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=83611c1f20445d53 |
+| Administrative Coordinator (Project Assistant) | Careers at ECO Canada | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=d6e19a653838b556 |
+| Appointment Coordinator (Automotive) | Alberta Honda | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=a01dd24f56739a73 |
+| Strategic Business Analyst | City of Edmonton | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=ee412ff971eafd39 |
+| IT Service Desk Administrator | The Mustard Seed | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402735698 |
+| Staff Scheduler (2026-0011) | Carewest - Innovative Health Care | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=ffd526931062c6be |
+| Sr. Specialist, Market Risk | Capital Power | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=bcb16b9517212ea5 |
+| Rail Administrator | Adecco | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402729954 |
