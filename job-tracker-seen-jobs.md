@@ -3432,3 +3432,11 @@
 | IIE Program Coordinator | Mount Royal University | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=ec1c8f06b96dce3f |
 | HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4402356593 |
 | Information Security Analyst | Kinaxis | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=989386a1e0fd82b1 |
+| Accounts Payable Analyst | City of Calgary | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=cc9147afe4763315 |
+| Tax Analyst | Phoenix Technology Services | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=3fe3c3e2f7b12c3f |
+| Technical Analyst, Mine and Processing Systems | Glencore | 2026-04-17 | J | https://www.linkedin.com/jobs/view/4402381773 |
+| Social Media Coordinator - Part Time, Remote | Drink ON Apples | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4403462160 |
+| IT Project Specialist | Sirkit | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=c3d7d829134621f3 |
+| Data Platform Specialist | Millennium Insurance Corporation | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=a994622b83e19a92 |
+| Location Data Analyst | Remote | Crossing Hurdles | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402395195 |
+| C++ Developer - Remote | YO IT Consulting | 2026-04-17 | R | https://www.linkedin.com/jobs/view/4402395966 |
