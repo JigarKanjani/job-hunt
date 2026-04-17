@@ -3427,3 +3427,8 @@
 | HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4402356593 |
 | Administrative Support IV | Primary Care Alberta | 2026-04-17 | G | https://ca.indeed.com/viewjob?jk=86f75890ac1ae6ac |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402367639 |
+| Desktop Support Specialist | Calgary Board Of Education | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=a5d05834b2323266 |
+| Team Lead, Partner Engagement | Mount Royal University | 2026-04-17 | J | https://ca.indeed.com/viewjob?jk=9c034e32ec57bf45 |
+| IIE Program Coordinator | Mount Royal University | 2026-04-17 | N | https://ca.indeed.com/viewjob?jk=ec1c8f06b96dce3f |
+| HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-04-17 | N | https://www.linkedin.com/jobs/view/4402356593 |
+| Information Security Analyst | Kinaxis | 2026-04-17 | R | https://ca.indeed.com/viewjob?jk=989386a1e0fd82b1 |
