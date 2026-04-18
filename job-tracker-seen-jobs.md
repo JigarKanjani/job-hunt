@@ -3532,3 +3532,43 @@
 | Corporate HSE/ESG Administrator | Centurion - Canada | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4402759376 |
 | Project Coordinator - Buildings | Graham | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4403543583 |
 | Specialist Optimization Facility Programs | Enbridge | 2026-04-17 | G | https://www.linkedin.com/jobs/view/4400876050 |
+| Security Systems Lead | Tridon Communications | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=33bea701fc91343c |
+| Project Coordinator | PCL Construction | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=a41772a90be761d1 |
+| Marketing Specialist | Edmonton International Airport | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=a2b590fabe0a26c2 |
+| Coordinator, Sales & Events | TELUS Spark Science Centre | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=c9f4852657b1c8aa |
+| Project Coordinator | West Cirque Construction Inc | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=221c23bbe2c3d694 |
+| Rail Administrator /  Analyst | Agilus Work Solutions | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402754566 |
+| Senior QA Analyst - Platform Data Integration | Servus Credit Union | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402782177 |
+| Contracts Coordinator | Agilus Work Solutions | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402763504 |
+| Project Coordinator | Rexel Canada | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4403553995 |
+| Operations Supervisor - Commercial Real Estate | JRoss Retail Recruiters | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4403540534 |
+| Enterprise Architect | ENMAX | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402786335 |
+| Project Coordinator | Rowan Williams Davies & Irwin | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=ad1d061ee4783bf7 |
+| Client Solutions Advisor - Cranston, Calgary Alberta | Scotiabank | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=5d73b9abd4e9a77c |
+| Everyday Banking Advisor - Calgary Stephen Avenue Centre | ATB Financial | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=599a9655c4ae30f7 |
+| Temporary Wholesale Pricing Administrator | Suncor Energy | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=4d770e0b2056c8e3 |
+| Graduate Studies Coordinator | University of Alberta | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=cde2ceeff3459635 |
+| Systems Administrator (6-month contract) | Klohn Crippen Berger | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=ad4cb08b14866525 |
+| Project Coordinator | Rowan Williams Davies & Irwin | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=7ec5392a5df1f2c3 |
+| (Remote) Temporary Billing Administrator / Full-time (Calgar | ClaimsPro LP | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4400883314 |
+| (Remote) Temporary Billing Administrator / Full-time (Calgar | SCM Insurance Services | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403549653 |
+| Financial Analyst | TC Energy | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4400889045 |
+| Communications and Marketing Specialist, Qualico Communities | Qualico Communities Calgary | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403550809 |
+| Digital Marketing Coordinator | ECO Canada | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403570258 |
+| Content Specialist, Cancer Information | Canadian Cancer Society | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=94481881fbbb123a |
+| Process and Procedures Analyst | Government Of Alberta | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=2990a810bcf542a5 |
+| Multi Unit Coordinator | Gordon Food Service | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=c95d58d4c302e303 |
+| Specialist Optimization Facility Programs | Enbridge | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=2b73075a2e71a548 |
+| Underwriting Specialist, Mid-Market | Northbridge Financial Corporation | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4400886224 |
+| Parts Advisor - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=90dd1ee742f00fc8 |
+| Communications and Marketing Specialist, Qualico Communities | Qualico Communities Calgary | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=a1a79e5b816b8e64 |
+| Customer Experience Associate | TD | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=96f4865a87acbcb5 |
+| Customer Experience Associate | TD | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=f9a4d32f46f815c3 |
+| Personal Banking Associate | TD | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=6eb7f5819a72970c |
+| Customer Connections Specialist | Anheuser-Busch | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=dca6fe9087e139e0 |
+| Associate | RBC | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=b8ab6881db5787fb |
+| Customer Service Representative, Service Centre | Intact | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4402780149 |
+| Customer Service Representative, Service Centre | Intact | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4402790049 |
+| Change Management Specialist | Cenergy International Services | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4402771526 |
+| Mortgage Specialist | BMO | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403581366 |
+| Mortgage Specialist | BMO | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403576513 |
