@@ -3599,3 +3599,14 @@
 | Beauty Advisor - Flex | Sephora | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=85f960de78aa96b7 |
 | Website Developer | SmileShop & Marketing4ECPs | POD Marketing Inc. | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=ae710f82389932bd |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403035166 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4391759832 |
+| Senior QE/BA Analyst | RBC | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4392028678 |
+| Coordinator, Benefits | Regional Municipality of Wood Buffalo | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=41cf53e70e20331b |
+| Document Management Specialist | Remote | Crossing Hurdles | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403829050 |
+| US Tax Compliance Specialist | $60/hr Remote | Crossing Hurdles | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403825351 |
+| Analyst, Org Effectiveness | Regional Municipality of Wood Buffalo | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=bc9eedd059e58e7a |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| Audio Quality Assurance Specialist | $55/hr Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827126 |
+| MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403813588 |
+| C# Game Developer (MonoGame) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827343 |
+| Aon Advance Client Success Specialist | Aon | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4387281970 |
