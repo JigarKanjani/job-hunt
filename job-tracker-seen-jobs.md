@@ -3572,3 +3572,22 @@
 | Change Management Specialist | Cenergy International Services | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4402771526 |
 | Mortgage Specialist | BMO | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403581366 |
 | Mortgage Specialist | BMO | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403576513 |
+| Sales Coordinator | Tech-Wood Building Components | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=2b40c73e4621597e |
+| HR Specialist | Bison Transport | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=c3bf22f4f41ebead |
+| Cultural Programming and Events Coordinator, Student Experie | University of Calgary | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=1f138dc5481b6d61 |
+| Enterprise Architect | Enmax | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=88a1dc903ff635e2 |
+| Procurement Manager | Amrize | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=8cf1b690bdb209e1 |
+| Material Program Manager | Raytheon | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4403581453 |
+| Purchasing Supervisor | Canadian Fiber Optics | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402778896 |
+| Direct Support Specialist Okotoks | CBI Home Health | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4402782676 |
+| Specialist, Diagnostic Anatomic Pathology | University of Calgary | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=1620839ce0650969 |
+| Membership Coordinator | SLS Centre | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=0b1a2c7c56615ebc |
+| Beauty Advisor - Flex | Sephora | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=00df33d52fca2da2 |
+| HR Specialist | Bison Transport Inc. | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4402792381 |
+| Client Solutions Advisor - Cranston, Calgary Alberta | Scotiabank | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4402783549 |
+| IT Administrator | SysGen Solutions Group Ltd. | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=3e49c553353f17ec |
+| Intern IT Security Analyst | Stantec | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403566757 |
+| Temporary Wholesale Pricing Administrator | Suncor | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403576578 |
+| Website Developer | SmileShop & Marketing4ECPs | POD Marketing Inc. | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4402784611 |
+| Staff Scheduler (2026-0011) | Carewest Innovative Health Care | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403565866 |
+| Customer Service Paints | RONA | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403568799 |
