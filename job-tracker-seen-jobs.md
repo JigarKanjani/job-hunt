@@ -3621,3 +3621,6 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=0f0dbd0460174f62 |
 | Service Advisor – Pacific Place | Canadian Tire Corporation, Ltd. | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=6c2e26be76c3c0a4 |
 | Receptionist - Casual - AgeCare Midnapore | AgeCare | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=eb35aaed3e14251a |
+| Office Administrator | Gro Collective | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=de5c7eb49b0de4c1 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403855230 |
+| Financial Analyst (Remote) | Jobs Ai | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403853326 |
