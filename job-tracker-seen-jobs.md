@@ -3595,3 +3595,7 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=852ee9ab8a3163de |
 | Clinical Systems Analyst | Alignerr | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403802411 |
 | Administrative Support V | Primary Care Alberta | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=9fa4427d1326390f |
+| Intermediate Buyer | Worley | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4391748549 |
+| Beauty Advisor - Flex | Sephora | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=85f960de78aa96b7 |
+| Website Developer | SmileShop & Marketing4ECPs | POD Marketing Inc. | 2026-04-18 | R | https://ca.indeed.com/viewjob?jk=ae710f82389932bd |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403035166 |
