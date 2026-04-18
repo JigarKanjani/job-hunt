@@ -3610,3 +3610,10 @@
 | MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403813588 |
 | C# Game Developer (MonoGame) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827343 |
 | Aon Advance Client Success Specialist | Aon | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4387281970 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4391759832 |
+| Project Coordinator | TalentSphere Staffing Solutions | 2026-04-18 | J | https://www.linkedin.com/jobs/view/4403832433 |
+| US Tax Compliance Specialist | $60/hr Remote | Crossing Hurdles | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403825351 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| MonoGame Developer (C# / .NET) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403813588 |
+| C# Game Developer (MonoGame) | Remote | Crossing Hurdles | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403827343 |
+| Receptionist - Casual - AgeCare Midnapore | AgeCare | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403824775 |
