@@ -3591,3 +3591,7 @@
 | Website Developer | SmileShop & Marketing4ECPs | POD Marketing Inc. | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4402784611 |
 | Staff Scheduler (2026-0011) | Carewest Innovative Health Care | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403565866 |
 | Customer Service Paints | RONA | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403568799 |
+| Material Program Manager | Raytheon | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=1ba12389d610797d |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-18 | J | https://ca.indeed.com/viewjob?jk=852ee9ab8a3163de |
+| Clinical Systems Analyst | Alignerr | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403802411 |
+| Administrative Support V | Primary Care Alberta | 2026-04-18 | G | https://ca.indeed.com/viewjob?jk=9fa4427d1326390f |
