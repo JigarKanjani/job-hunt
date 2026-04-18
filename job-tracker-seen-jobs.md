@@ -3624,3 +3624,5 @@
 | Office Administrator | Gro Collective | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=de5c7eb49b0de4c1 |
 | Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-18 | N | https://www.linkedin.com/jobs/view/4403855230 |
 | Financial Analyst (Remote) | Jobs Ai | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403853326 |
+| Wholesale Administrator / Inside Sales & Operations Coordina | Eco Lighting Solutions | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=18bdb2fb45d53861 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403054904 |
