@@ -3626,3 +3626,9 @@
 | Financial Analyst (Remote) | Jobs Ai | 2026-04-18 | R | https://www.linkedin.com/jobs/view/4403853326 |
 | Wholesale Administrator / Inside Sales & Operations Coordina | Eco Lighting Solutions | 2026-04-18 | N | https://ca.indeed.com/viewjob?jk=18bdb2fb45d53861 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-18 | G | https://www.linkedin.com/jobs/view/4403054904 |
+| Financial Analyst | MARSHALL DRUGS | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=f27d9d86218f70ec |
+| Senior Human Factors Specialist | AtkinsRéalis | 2026-04-19 | J | https://www.linkedin.com/jobs/view/4403862074 |
+| Senior Human Factors Specialist | AtkinsRéalis | 2026-04-19 | J | https://www.linkedin.com/jobs/view/4403854660 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403850886 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403852858 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403860216 |
