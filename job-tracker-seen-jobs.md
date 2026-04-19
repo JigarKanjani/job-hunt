@@ -3643,3 +3643,7 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-19 | G | https://www.linkedin.com/jobs/view/4403313005 |
 | Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4403895011 |
 | Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4381031013 |
+| Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4381031013 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403891186 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403892173 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403899102 |
