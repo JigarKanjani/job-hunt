@@ -3652,3 +3652,5 @@
 | Administrative Assistant | Aerotek | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4401271614 |
 | Scheduling Analyst | Inter Pipeline | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=12926b628e8777d1 |
 | Customer Service Representative | Perfect Home Furniture | 2026-04-19 | G | https://ca.indeed.com/viewjob?jk=6701c833ade13252 |
+| SAP/HCM Payroll Functional Analyst - Corporate Services | Graham Construction | 2026-04-19 | R | https://ca.indeed.com/viewjob?jk=3c51ed632509c43a |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-19 | G | https://www.linkedin.com/jobs/view/4403303778 |
