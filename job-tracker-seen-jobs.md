@@ -3633,3 +3633,7 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403852858 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403860216 |
 | Client Analytics and Reporting Analyst | Global Technical Talent, an Inc. 5000 Co | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4399544986 |
+| Document Control Specialist | JSG (Johnson Service Group, Inc.) | 2026-04-19 | J | https://www.linkedin.com/jobs/view/4401100136 |
+| LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4403876282 |
+| Checklist Specialist - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403880175 |
+| Financial Reporting Analyst - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403868361 |
