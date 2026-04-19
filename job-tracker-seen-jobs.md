@@ -3648,3 +3648,5 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403892173 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403899102 |
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=20963bc40c238722 |
+| Senior Admissions Specialist | New West College | 2026-04-19 | N | https://ca.indeed.com/viewjob?jk=041e26ce4f6ad41b |
+| Administrative Assistant | Aerotek | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4401271614 |
