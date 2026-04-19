@@ -3647,3 +3647,4 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403891186 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403892173 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403899102 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=20963bc40c238722 |
