@@ -3650,3 +3650,5 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=20963bc40c238722 |
 | Senior Admissions Specialist | New West College | 2026-04-19 | N | https://ca.indeed.com/viewjob?jk=041e26ce4f6ad41b |
 | Administrative Assistant | Aerotek | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4401271614 |
+| Scheduling Analyst | Inter Pipeline | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=12926b628e8777d1 |
+| Customer Service Representative | Perfect Home Furniture | 2026-04-19 | G | https://ca.indeed.com/viewjob?jk=6701c833ade13252 |
