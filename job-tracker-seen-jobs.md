@@ -3637,3 +3637,4 @@
 | LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4403876282 |
 | Checklist Specialist - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403880175 |
 | Financial Reporting Analyst - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403868361 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=e7eb46c9db2ebd06 |
