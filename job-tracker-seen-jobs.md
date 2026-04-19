@@ -3638,3 +3638,6 @@
 | Checklist Specialist - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403880175 |
 | Financial Reporting Analyst - Fully Remote | Mercor | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403868361 |
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-19 | J | https://ca.indeed.com/viewjob?jk=e7eb46c9db2ebd06 |
+| General Relief Support Workers (3 positions) Residential Pro | Calgary Alternative Support Services | 2026-04-19 | N | https://ca.indeed.com/viewjob?jk=6145df3876b24c86 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-19 | G | https://ca.indeed.com/viewjob?jk=92b24ff5fdd8e427 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-19 | G | https://www.linkedin.com/jobs/view/4403313005 |
