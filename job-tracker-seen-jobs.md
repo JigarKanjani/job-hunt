@@ -3641,3 +3641,5 @@
 | General Relief Support Workers (3 positions) Residential Pro | Calgary Alternative Support Services | 2026-04-19 | N | https://ca.indeed.com/viewjob?jk=6145df3876b24c86 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-19 | G | https://ca.indeed.com/viewjob?jk=92b24ff5fdd8e427 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-19 | G | https://www.linkedin.com/jobs/view/4403313005 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-19 | N | https://www.linkedin.com/jobs/view/4403895011 |
+| Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4381031013 |
