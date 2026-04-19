@@ -3632,3 +3632,4 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403850886 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403852858 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4403860216 |
+| Client Analytics and Reporting Analyst | Global Technical Talent, an Inc. 5000 Co | 2026-04-19 | R | https://www.linkedin.com/jobs/view/4399544986 |
