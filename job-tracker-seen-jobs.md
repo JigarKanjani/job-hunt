@@ -3654,3 +3654,8 @@
 | Customer Service Representative | Perfect Home Furniture | 2026-04-19 | G | https://ca.indeed.com/viewjob?jk=6701c833ade13252 |
 | SAP/HCM Payroll Functional Analyst - Corporate Services | Graham Construction | 2026-04-19 | R | https://ca.indeed.com/viewjob?jk=3c51ed632509c43a |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-19 | G | https://www.linkedin.com/jobs/view/4403303778 |
+| Lead Civil and Structural Engineer | Vista Projects | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=565a011b4d6668ee |
+| People Operations Specialist (Remote/Unpaid Volunteer): | Empowered Futures | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4404013185 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404009643 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404024303 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404010614 |
