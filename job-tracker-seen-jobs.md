@@ -3760,3 +3760,39 @@
 | Customer Service Representative | Ritchie Bros. | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401675469 |
 | Client Delivery Associate - Canadian Commercial Banking | BMO | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4404354567 |
 | Event Sales Coordinator | Calgary Zoo | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403669194 |
+| Daycamp Leader | Trico Centre for Family Wellness | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=46132802169f0b30 |
+| Heavy Equipment Technician (Materials Handling Equipment) | Rocky Mountain Equipment | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=d07d8c5ff8aa1389 |
+| Heavy Equipment Technician (Materials Handling Equipment) | Rocky Mountain Equipment | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=330d67558cdfef61 |
+| Human Resources Coordinator | CENTURY CASINO | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=c39f3e668afdafaa |
+| Divisional Projects Coordinator | Sturgeon County | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=39c894945e1572b6 |
+| Cost Analyst | B2Gold Corp. | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=11bb11598c60a338 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=5722bdbb035b4459 |
+| Fleet Coordinator | Arctic Arrow Powerline Group Ltd. | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404384318 |
+| Business Systems Analyst | Airswift | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404386089 |
+| Analyst, Benefits Consulting | BFL CANADA | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4401675701 |
+| Project Coordinator | Enbridge | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4401664754 |
+| Health & Safety Coordinator | BUILD IT | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404396036 |
+| Lead, Retirement Programs | ATCO | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403654675 |
+| Program Coordinator (Youth Programs – Remote/Admin Focus) | Maple Leaf Meadows | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=db405c2c88a92316 |
+| Senior Trade Compliance Specialist (Licensed Customs Broker) | Jori International | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=5343f6350ba49c29 |
+| Project Administrator | Frontier Lodging Solutions | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=d072cf979b01fcf6 |
+| Intensive Case Management Worker (FT) - St. Josephine | Catholic Social Services | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=4159c42a5de90bd4 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=3ad0ecfeb393c311 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=36988eeb62c96210 |
+| Service Coordinator | Chubb Fire & Security Canada Corporation | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=c258719691f4306f |
+| Summer Student Coordinator | Canadian Parents for French | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=a01651234afcf1c3 |
+| Success Coordinator | Champion Taekwon-Do | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=7ec3e3331c11ba26 |
+| Administrative Assistant | Associated Engineering | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4401661495 |
+| Administrative Assistant | Associated Engineering | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4401655778 |
+| Office Administrator / Receptionist | HWN Energy Ltd. | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403659544 |
+| Junior Clinical Research Coordinator, Clinical Neurosciences | University of Calgary | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4404394334 |
+| Marketing Coordinator - Client Relations and Events | Digital Commerce Group | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403660873 |
+| Desktop Support Generalist | CGI | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=93e5d6847be7cde6 |
+| Specialist Tax Reporting | Enbridge | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4401661860 |
+| Process Engineer-in-Training | Associated Engineering | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4401671402 |
+| Process Engineer-in-Training | Associated Engineering | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4401656526 |
+| FRONT OFFICE AGENT (PART TIME) | Hyatt | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=76e73b805ec2090a |
+| Training Centre Facilitator | Centre for Sexuality (formerly Calgary S | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=7ed2e3549d685c89 |
+| Clinical Research Source Document Specialist | CARe Clinic | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=baede6b2788bf526 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403650751 |
+| Payroll Administrator | Commissionaires Southern Alberta | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403665617 |
