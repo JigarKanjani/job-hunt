@@ -3737,3 +3737,26 @@
 | Receptionist | AGAT Laboratories | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=8874b75ddc79ef57 |
 | Customer Service Representative | Raintech  Irrigation | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=13c0e179f4bf106d |
 | Compliance Associate | Ventum Financial | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401673102 |
+| Lead Technician | Luxuria Group | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=3ca8b7509fe41866 |
+| Aggregates & Asphalt Operations Analyst - New Graduate | Amrize | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=5cc03c3f37b3a68a |
+| Project Coordinator/Estimator | Archive Contracting & Design Inc. | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=9ecc3f5d2b90a313 |
+| Client Care Coordinator | Longevity Care | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=bc28e18371c509ca |
+| Aggregates & Asphalt Operations Analyst | Amrize | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4401656485 |
+| Business Analyst, Anaplan | QuadReal Property Group | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404372944 |
+| Technical Records Lead | De Havilland Aircraft of Canada Limited | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404372613 |
+| Enterprise Strategy & Analytics Senior Associate | Clio | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403648469 |
+| Senior Purchasing Agent | Hays | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404367944 |
+| Environmental/Regulator Advisor - Groundwater | Omega 365 | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=58ab6efd5fd1590a |
+| Administrative & Member Relations Coordinator (Part-Time) | BNKD | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=45125e86a37bfbfe |
+| HR Services Specialist | Co-operators | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4404371753 |
+| Data Analyst | Tundra Oil and Gas | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=900f036b571a91f6 |
+| IT Help Desk | Town of Okotoks | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=b6758f0c43fc9117 |
+| Help Desk Analyst | CyberClan | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4401662459 |
+| General Merchandise Associate | Walmart | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=6fb5c6f7d46203af |
+| Customer Service Representative | Infinite Eye Photography | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=03ed5cf6a8d56b86 |
+| Associate Principal | Foundations for the Future Charter Acade | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=c9d437ce78595550 |
+| Customer Service Representative (Motivator) - Calgary Sunrid | GoodLife Fitness | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401671341 |
+| Front Office Agent (Part Time) | Hyatt Regency | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4404354687 |
+| Customer Service Representative | Ritchie Bros. | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401675469 |
+| Client Delivery Associate - Canadian Commercial Banking | BMO | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4404354567 |
+| Event Sales Coordinator | Calgary Zoo | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403669194 |
