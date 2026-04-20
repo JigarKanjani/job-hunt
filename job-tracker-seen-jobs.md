@@ -3673,3 +3673,15 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403351890 |
 | Document Management Specialist | Remote | Crossing Hurdles | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403370729 |
 | Data Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4395029068 |
+| Procurement Supervisor | The Bolt Supply House Ltd. | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404068732 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4395029068 |
+| Statistical Specialist | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4395007967 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404086130 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404096107 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404097083 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403610219 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403397984 |
+| Strategic Finance Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403611127 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403615170 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403621018 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403618080 |
