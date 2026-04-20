@@ -3713,3 +3713,27 @@
 | treatment co-ordinator oral surgery office | Calgary Oral & Maxillofacial Sugery | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=c0b8099daed79cd7 |
 | Receptionist | AGAT Laboratories | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401632856 |
 | UService Service Advisor | University of Calgary | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4404306368 |
+| Project Controls Specialist | Roska DBO | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=08d0aedcf39fa680 |
+| Installer Lead, Residential | Enercare | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=97a52c0bead25984 |
+| Security Officer (Hotel & Casino) | Deerfoot Inn & Casino | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=36a42e439c71bcbd |
+| Security Officer (Hotel & Casino) - Female Candidates ONLY | Deerfoot Inn & Casino | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=28a37b4e2fc128af |
+| HS&E Coordinator | EllisDon | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404335666 |
+| AssetManagement Analyst | JSG (Johnson Service Group, Inc.) | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403316276 |
+| Document Control Specialist | JSG (Johnson Service Group, Inc.) | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403304074 |
+| Operational Technology Network Specialist | Tourmaline Oil Corp | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403636710 |
+| Accounts Receivable Administrator | Luxuria Group | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=ce06b2fffe69ad3a |
+| Safety and Support Coordinator (.9FTE, Permanent) | A Safe Place | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=5be81a327717bad2 |
+| Marketing Coordinator (Summer Student) | BGC FM | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=a560754dac0b24dc |
+| Administrative Assistant | Associated Engineering | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4401668066 |
+| Administrative Assistant | Associated Engineering | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4401661151 |
+| Career Advisor | WCG Services | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4404343885 |
+| Environment & Regulatory Advisor – Groundwater | NES Fircroft | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403634623 |
+| Business Systems Analyst Student | PCL Construction | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=cf706b2ecd7e73f9 |
+| technical support agent | Server Center Limited | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=e6e501532310ee64 |
+| Reporting Analyst | JSG (Johnson Service Group, Inc.) | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403322121 |
+| Staff ML Platform Developer | RBC | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404355037 |
+| Cloud & Collaboration Analyst | Airswift | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404332760 |
+| Engineering Specialist (STEM PhD) | $80/hr Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403624533 |
+| Receptionist | AGAT Laboratories | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=8874b75ddc79ef57 |
+| Customer Service Representative | Raintech  Irrigation | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=13c0e179f4bf106d |
+| Compliance Associate | Ventum Financial | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401673102 |
