@@ -3685,3 +3685,19 @@
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403615170 |
 | AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403621018 |
 | AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403618080 |
+| Production Lead | HelloFresh | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=501a7bf7bd97f31b |
+| Data Management Analyst | Airswift | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4401643120 |
+| Planning & Forecast Advisor | Airswift | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404312035 |
+| Senior Transportation Engineer | Hays | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4389781490 |
+| Partnerships Lead (Distribution + Integrations) | ClaraWell Health | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403606700 |
+| HSE Coordinator | Golderado Contracting Corp | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=061abe9195ead2fa |
+| Technical Services Specialist | Transcanada Turbines | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=ddf43e497b536b11 |
+| Meat Processing MES Expert - Canada | Emydex Technology | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=e9c889192206cd88 |
+| Operational Risk Analyst | Co-operators | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404094813 |
+| GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404304403 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403606284 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403615170 |
+| Customer Service Representative | Arpi's Industries Ltd. | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=bb2f165e5917515d |
+| Customer Service Professional, Sales | ATS Traffic | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=405dbee4c55ac296 |
+| Customer Success & Product Development Associate | Live Feisty Media Corporation | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=31fd07ed4c2467df |
+| Contract Environmental Coordinator - Assessments | Orphan Well Association | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=87f968c47a9645b9 |
