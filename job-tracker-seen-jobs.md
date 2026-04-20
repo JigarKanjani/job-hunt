@@ -3671,3 +3671,5 @@
 | Ai Trainer/Data Annotator - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=2e88e7bcfbbfbad8 |
 | Ai Trainer/Data Annotator - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=f561867c531cfab2 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403351890 |
+| Document Management Specialist | Remote | Crossing Hurdles | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403370729 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4395029068 |
