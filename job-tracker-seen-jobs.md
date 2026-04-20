@@ -3659,3 +3659,4 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404009643 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404024303 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404010614 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404017630 |
