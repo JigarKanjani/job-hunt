@@ -3664,3 +3664,10 @@
 | Python Game Developer (Panda3D) - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=1b47f639334a5443 |
 | Data Analyst – Remote Job in USA | job4pak | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404039473 |
 | Personal Finance Specialist - Fully Remote | Mercor | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404022987 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=dfacec9d1a043c94 |
+| Operations Supervisor - Distribution | DHL Supply Chain | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403352803 |
+| Inventory Control Supv | DHL Supply Chain | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4403351810 |
+| Document Management Specialist | Remote | Crossing Hurdles | 2026-04-20 | N | https://www.linkedin.com/jobs/view/4403370729 |
+| Ai Trainer/Data Annotator - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=2e88e7bcfbbfbad8 |
+| Ai Trainer/Data Annotator - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=f561867c531cfab2 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403351890 |
