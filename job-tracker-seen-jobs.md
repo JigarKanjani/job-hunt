@@ -3701,3 +3701,15 @@
 | Customer Service Professional, Sales | ATS Traffic | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=405dbee4c55ac296 |
 | Customer Success & Product Development Associate | Live Feisty Media Corporation | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=31fd07ed4c2467df |
 | Contract Environmental Coordinator - Assessments | Orphan Well Association | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=87f968c47a9645b9 |
+| Program Manager, RAD | Accessible Housing | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=fcfe1399ea355623 |
+| Operations Coordinator-Civil and Telecom Construction | BAAC Construction Inc. | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=cb4f14f35ae7e32e |
+| Property Coordinator | Highfield Investment Group | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=740963b311cae14d |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-20 | J | https://ca.indeed.com/viewjob?jk=802c3b79f0732de0 |
+| Content Creator & Social Media Coordinator | Calgary Real Estate Photos | 2026-04-20 | N | https://ca.indeed.com/viewjob?jk=4f62dce5482b6cc7 |
+| Talent Acquisition Specialist (Temporary 8 months) | Beem Credit Union | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=a544e46817f98f77 |
+| Software Quality Assurance Analyst | OPI | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403634562 |
+| Job Developer | WCG Services | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404321911 |
+| Engineering Specialist (STEM PhD) | $80/hr Remote | Crossing Hurdles | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4403624533 |
+| treatment co-ordinator oral surgery office | Calgary Oral & Maxillofacial Sugery | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=c0b8099daed79cd7 |
+| Receptionist | AGAT Laboratories | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4401632856 |
+| UService Service Advisor | University of Calgary | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4404306368 |
