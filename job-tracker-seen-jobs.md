@@ -3660,3 +3660,7 @@
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404024303 |
 | GOAPRDJP00000890 - Data Analyst | S M Software Solutions Inc | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404010614 |
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-20 | J | https://www.linkedin.com/jobs/view/4404017630 |
+| Python Game Developer (Panda3D) - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=8d6f33dd3ede32b7 |
+| Python Game Developer (Panda3D) - Remote | YO IT CONSULTING | 2026-04-20 | R | https://ca.indeed.com/viewjob?jk=1b47f639334a5443 |
+| Data Analyst – Remote Job in USA | job4pak | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404039473 |
+| Personal Finance Specialist - Fully Remote | Mercor | 2026-04-20 | R | https://www.linkedin.com/jobs/view/4404022987 |
