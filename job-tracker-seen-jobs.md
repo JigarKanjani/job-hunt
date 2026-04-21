@@ -3829,3 +3829,21 @@
 | Personal Banking Associate | TD | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=0201829d020fdd1d |
 | HSE Coordinator - Services | Graham | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404509112 |
 | Marketing Specialist, AVP Strategy Enterprise and Commercial | University of Calgary | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403122072 |
+| Health & Safety Coordinator | BUILD IT | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=caed1b9c96c991bb |
+| Operations Coordinator-Civil and Telecom Construction | BAAC Construction INC | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401697845 |
+| Programs Coordinator - Vocational Rehabilitation | Geseron Employment Consulting | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=a50b3ef083ee9b7a |
+| Relief Resident Support Worker | The Salvation Army | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=e517d286620af070 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403688853 |
+| Technical Program Manager (P4) | Twilio | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404513975 |
+| Microsoft 365 Solutions Specialist - SharePoint, Power Platf | Geseron Employment Consulting | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=47c47ee0436593c3 |
+| Canada Summer Jobs - Business Analyst, Productivity (Intern) | Calgary Economic Development | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=f8183e86892aae49 |
+| Business Support Analyst | CO-OP CRS | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=a3f61372f4c78292 |
+| Showhome Host / Sales Support Associate | TBG | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=408d1b0546bf1e5c |
+| Canada Summer Jobs - Intern, Research Support Officer (Film  | Calgary Economic Development | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=96d06dc33d765b26 |
+| Sales Associate - Bowness (Part-time) | Women In Need Society | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=05929355ee83297e |
+| Customer Experience Associate | TD | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404539218 |
+| Customer Experience Associate | TD Securities | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404532171 |
+| Education and Operational Strategy, Specialist, Indigenous H | University of Calgary | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404522871 |
+| Commission based - Business Development specialist | Dawn Security Services INC. | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403694951 |
+| EHS Specialist | Modine Manufacturing Company | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404504968 |
+| Marketing Specialist | UFA | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403697629 |
