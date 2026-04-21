@@ -3855,3 +3855,22 @@
 | Analyst or Associate, Investment Banking, Energy - Calgary,  | Scotiabank - Global Banking and Markets | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403934351 |
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404557321 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403937529 |
+| LNG Sales & Marketing Specialist (Relocation to Saudi Arabia | aramco | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4389759507 |
+| Event Specialist (18-Month Contract) | Blake, Cassels & Graydon LLP | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4388943951 |
+| ARCHIBUS Technical Analyst, Facilities Management | University of Calgary | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404582135 |
+| Coordinator Locomotive Operations Support | CPKC | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404566852 |
+| Research Projects Coordinator - Elevating Indigenous Voices  | Provincial Health Services Authority | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404597131 |
+| Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403954333 |
+| Geological Data Analyst | Remote | Crossing Hurdles | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4372094223 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404566843 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404571716 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404562843 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404594013 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404591022 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404586126 |
+| Financial Analyst - Fully Remote | Mercor | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404570737 |
+| Presentation Specialist - Fully Remote | Mercor | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404581175 |
+| Astrophysics Specialist - Fully Remote | Upto $90/hr | Mercor | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404567778 |
+| Customer Service and Pre-Sales Engineer - Canada/UK | indyKite | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=ab5c75292e10a66b |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404571958 |
+| Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404571863 |
