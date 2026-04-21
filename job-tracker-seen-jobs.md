@@ -3847,3 +3847,7 @@
 | Commission based - Business Development specialist | Dawn Security Services INC. | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403694951 |
 | EHS Specialist | Modine Manufacturing Company | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404504968 |
 | Marketing Specialist | UFA | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403697629 |
+| transportation logistics manager | Lunatech Consulting | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=a5ea670498c8339a |
+| Technical Business Analyst | Canadian Cancer Society | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4403916557 |
+| Patient Care Coordinator | Precision Sexual Health Clinic for Men | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=57699b7ec1934136 |
+| TOGO Specialist | Olive Garden Canada | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404534746 |
