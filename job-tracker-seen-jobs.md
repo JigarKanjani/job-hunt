@@ -3851,3 +3851,7 @@
 | Technical Business Analyst | Canadian Cancer Society | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4403916557 |
 | Patient Care Coordinator | Precision Sexual Health Clinic for Men | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=57699b7ec1934136 |
 | TOGO Specialist | Olive Garden Canada | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404534746 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=1a2e9f559953a1bf |
+| Analyst or Associate, Investment Banking, Energy - Calgary,  | Scotiabank - Global Banking and Markets | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403934351 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404557321 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403937529 |
