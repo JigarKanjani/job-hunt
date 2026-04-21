@@ -3935,3 +3935,38 @@
 | Part-Time Summer Sales Associate | Brindy Luxury Silk | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=649cbfd0d54d5040 |
 | Pipeline Scheduler | Inter Pipeline | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404211124 |
 | Remote Contact Centre Agent: Indigenous Class Action Adminis | Deloitte | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4393565255 |
+| Project Coordinator - Building Automation Systems | Convergint | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=ce55be960957001a |
+| Advisor, Leadership Development | Elk Valley Resources | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=a1033f9f96527f9e |
+| Business Services Coordinator | Convergint | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=54e597cbb25a49cd |
+| Entry-Level Office and Scheduling Coordinator (Commercial Di | Glenmore Door Services Ltd. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=4f56e46647dfd740 |
+| Senior Document Control Specialist | Denali Projects Ltd. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=eb7d29e64905efd7 |
+| Shuttle Host & Interpreter | Accor | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=20c732642d947fee |
+| Analyst, Benefits Consulting | BFL CANADA | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=478bf2fb1bfb4a4f |
+| Operations Field Coordinator | The Sutherland Group of Companies | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=d412648b9bda18d4 |
+| Operations Field Coordinator | The Sutherland Group of Companies | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=3a4f4133d698be94 |
+| Senior Document Control Coordinator | WSP in Canada | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404205747 |
+| Business Services Coordinator | Convergint | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404877361 |
+| Contract Management Specialist | Kelly | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404208679 |
+| Senior Technology Operations Analyst - SAP BASIS Developer - | EY | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401972702 |
+| Project Coordinator - Building Automation Systems | Convergint | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404880386 |
+| Global Mobility Specialist | De Havilland Aircraft of Canada Limited | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404888204 |
+| Continuous Improvement Analyst | Lighthouse Technology Services | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401977263 |
+| Customer Success & Field Support Specialist | HazTrack Inc. | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404207516 |
+| Administrative Assistant | Bath Fitter | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=7f8a4eed08eeaa13 |
+| Support Coordinator SWSE/Coordonnateur/coordonnatrice de sou | YMCA of Greater Toronto | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=b050467d1afd701a |
+| Safety Coordinator | Propak Systems Ltd. | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=477e255d4e307124 |
+| Managing Consultant, Environmental Assessment Coordinator an | ERM | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4401988292 |
+| Business Development Coordinator | Fasken | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404212323 |
+| Group Financial Advisor | RBC | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404862382 |
+| Staff Technical Support Engineer | RBC | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=3de7522658d241be |
+| Job Developer | WCG International Consultants Ltd. | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=00d0c6512eefc7e6 |
+| Digital Workspace Analyst | Precision Drilling | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404880556 |
+| Cost Controller - Reporting & Analytics | Turner & Townsend | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404219557 |
+| Document Specialist - Fully Remote | Mercor | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404870645 |
+| Spreadsheet Specialist - Fully Remote | Mercor | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404860868 |
+| Pipeline Scheduler | Inter Pipeline | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=bc7f6f5159e800ce |
+| Equity Research Associate, Oil & Gas - Calgary | Scotiabank | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=f8e860ca1f99f7d5 |
+| Receptionist/Concierge | Chartwell Retirement Residences | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404865462 |
+| Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4401970723 |
+| Equity Research Associate, Oil & Gas - Calgary | Scotiabank | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404211659 |
+| Accounting & Finance Coordinator | Deaf & Hear Alberta | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404208776 |
