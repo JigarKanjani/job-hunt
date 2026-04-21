@@ -3914,3 +3914,24 @@
 | Customer Service Representative | Wood Automotive Group | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404809908 |
 | Lawyer (Family Law Associate) | About Staffing | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403984285 |
 | Legal Counsel, Commercial, Office of the General Counsel | Deloitte | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4393557418 |
+| Logistics Specialist | K'(Prime) Technologies Inc | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=b0e83aa2a5c0019a |
+| Office Coordinator | Beyond Foam Insulation Ltd | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=f99da853bab463de |
+| Sales and Leasing Coordinator - Mixed Income Calgary Alberta | Silvera For Seniors | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=98858696d5d25e83 |
+| Global Mobility Specialist | De Havilland Aircraft of Canada Ltd | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=b2891c8bf9883918 |
+| Sales Coordinator | Tony's Meats Ltd. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=84b710d847baeb11 |
+| Procurement & Estimating Administrator | Trophy Rail Ltd. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=24b7344902a216d1 |
+| Ariba Support Analyst | Brunel | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404213025 |
+| Case Manager | Ayik Sakahikan Aswasisak Mamawinitowin S | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=1a412b5a31a25651 |
+| residence coordinator - group home | Excel Society | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=5c3df3e3e4df4038 |
+| Event Coordinator | Alberta Avenue Business Association | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=00d38af2f81c89c0 |
+| Program Coordinator | Mount Royal University | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4401964952 |
+| Sr. Contracts Specialist | Hatch | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403990768 |
+| Underwriting Support - Account Analyst | Liberty Mutual Canada | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404214006 |
+| Engagement Support Analyst, Audit Central Team (12-month con | Deloitte | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4393551757 |
+| IT Infrastructure Administrator | Badger Infrastructure Solutions | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404831989 |
+| Dayforce WFM Analyst - R8dius | Deloitte | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4393554705 |
+| Valuations and Financial Modeling Analyst | SAF Group | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404206106 |
+| Receptionist / Optical Assistant | The Monterey Vision Centre | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=bccc006c4faf5016 |
+| Part-Time Summer Sales Associate | Brindy Luxury Silk | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=649cbfd0d54d5040 |
+| Pipeline Scheduler | Inter Pipeline | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404211124 |
+| Remote Contact Centre Agent: Indigenous Class Action Adminis | Deloitte | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4393565255 |
