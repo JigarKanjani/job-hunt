@@ -3796,3 +3796,36 @@
 | Clinical Research Source Document Specialist | CARe Clinic | 2026-04-20 | G | https://ca.indeed.com/viewjob?jk=baede6b2788bf526 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403650751 |
 | Payroll Administrator | Commissionaires Southern Alberta | 2026-04-20 | G | https://www.linkedin.com/jobs/view/4403665617 |
+| Office Coordinator | Vitrum Industries Ltd. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=3a4fd0429453d8f1 |
+| Event Sales Coordinator | Wilder Institute/Calgary Zoo | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=4ff268d80eccb0f0 |
+| Coordinator Locomotive Operations Support | CPKC | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=9fe0e8cdd5b38eb0 |
+| Financial Analyst Team Lead | City of Edmonton | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=bff1b881b19641af |
+| Project Coordinator | Olds College of Agriculture & Technology | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=ca3a0629bb8b276f |
+| (CAN) Team Leader Operations - Shipping II  (Monday, Tuesday | Walmart Canada | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401680156 |
+| purchasing supervisor | Canadian Fiber Optics | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4404508065 |
+| Aggregates & Asphalt Operations Analyst - New Graduate | Amrize | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401681667 |
+| 988 National Crisis Line Worker | Distress Centre Calgary | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=eac3c0f399123d71 |
+| 988 National Crisis Line Worker | Distress Centre Calgary | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=5e0599476f331080 |
+| Specialist Tax Reporting | Enbridge | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=6f882913fd22ad98 |
+| Fulfilment Operations Coworker - Replenishment (overnight) | IKEA | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=77292831238b2579 |
+| Cultural Coordinator | Athabasca Tribal Council | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=db8bc9104bcb73ef |
+| HR Coordinator/Recruiter (Construction) | Sureway Construction Group Ltd. | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=a265c66bfc2a742e |
+| Onboarding Specialist | Wagepoint | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403691445 |
+| Environmental/Regulator Advisor - Groundwater | NSBOmega Guyana Inc. | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404519446 |
+| GUCCI - Client Advisor Holt Renfrew Calgary - 12 Month Contr | Gucci | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404506358 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403677667 |
+| Research Coordinator, Clinical Trials | University of Calgary | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403122077 |
+| Geospatial Technical Support and Training Specialist - Alber | Cansel | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4401680668 |
+| Technical Services Specialist | ABSORB | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=ae70c2217d521172 |
+| Business Intelligence Engineer | JOBBER | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=4fcfa2d824d3b6b4 |
+| Program Solutions Analyst | Government Of Alberta | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=4f6e3d7d32bb5e22 |
+| Project Coordinator | Enbridge | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=5a659f86d265f657 |
+| Business Analyst | MNP | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403696282 |
+| Receptionist | Taylor Janis LLP | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=21a8d5b39b284576 |
+| Sales Associate - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=ba20d3638d652b0c |
+| Digital Marketing Specialist | Alberta Children s Hospital Foundation | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=bfc5d680ed202132 |
+| HSE Specialist - Temporary | NOV | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=5572a441ff1cff88 |
+| Customer Experience Associate | TD | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=e5b5a1683a37d7bf |
+| Personal Banking Associate | TD | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=0201829d020fdd1d |
+| HSE Coordinator - Services | Graham | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404509112 |
+| Marketing Specialist, AVP Strategy Enterprise and Commercial | University of Calgary | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403122072 |
