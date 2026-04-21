@@ -3888,3 +3888,29 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=650d3d96684c4fa9 |
 | (CAN) General Merchandise Associate | Walmart | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=bd992132cafd1e99 |
 | Major Gifts Advisor, Medicine Development, VP Development an | University of Calgary | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=b69b96e9aa82b8dd |
+| Operations Supervisor - Night Shift | Canada Cartage | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=b380927b5270c75d |
+| Digital Marketing Communications Specialist | Nanalysis Corp. | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=36b6bcc03c1c726b |
+| Intermediate Financial Analyst | The Brick | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=ae23a4c6836bea2c |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=0698d26d7c07349b |
+| Business Analyst - Construction Inspection Systems | TC Energy | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4401963665 |
+| IT Systems & Security Specialist | Pengcorp Ltd. | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4403991481 |
+| Sr. Contracts Specialist | Hatch | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=72ac6da6aeccad47 |
+| Virtual Financial Advisor - Calgary, Alberta | Scotiabank | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=be212c0f29cec5f5 |
+| Office Administrator (part time) - Ogden Location | Momentum Health | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=8ebf0d670cc090cb |
+| Appointment Coordinator | CALGARY AUTO AND ALIGNMENT | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=b491668c778adb7d |
+| Coverage Office Administrator (casual) - All Locations | Momentum Health | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=35fd4734a2497f1e |
+| Communications Service Coordinator | Lifesaving Society Alberta and Northwest | 2026-04-21 | N | https://ca.indeed.com/viewjob?jk=2d5b7709bed67cc3 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4376930095 |
+| Analyst or Associate, Investment Banking, Energy - Calgary,  | Scotiabank | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=6bd43f370461aaf9 |
+| Project Administrator | Allied Projects Ltd. | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=b3133d54b8e0a774 |
+| Training Coordinator (Edmonton, AB) - Remote | Enbridge | 2026-04-21 | R | https://ca.indeed.com/viewjob?jk=6b2e7f869a88515f |
+| SAGD / Heavy Oil - Aboveground Pipelines and Well Pads Proce | Equinox Engineering Ltd. | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403990308 |
+| Global Cybersecurity Policies and Standards Analyst, Deloitt | Deloitte | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4393554703 |
+| Social Media Insights Analyst- Health & Pharma- Remote Ontar | ICUC | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4392127022 |
+| OpenClaw Specialist (Remote) | Joblet-AI | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404824362 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404581854 |
+| Customer Service Representative | Calgary North Decorating Benjamin Moore | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=044c603bdf86ec39 |
+| Advanced Bookkeeper - Controller | A4 Systems Corporation | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403995158 |
+| Customer Service Representative | Wood Automotive Group | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404809908 |
+| Lawyer (Family Law Associate) | About Staffing | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4403984285 |
+| Legal Counsel, Commercial, Office of the General Counsel | Deloitte | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4393557418 |
