@@ -3874,3 +3874,17 @@
 | Customer Service and Pre-Sales Engineer - Canada/UK | indyKite | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=ab5c75292e10a66b |
 | Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404571958 |
 | Customer Experience Associate- (Fixed Term Contract) | TD Securities | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404571863 |
+| ARCHIBUS Technical Analyst, Facilities Management | University of Calgary | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=5d3b6e7df61681af |
+| Education and Operational Strategy, Specialist, Indigenous H | University of Calgary | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=8b8261a5d408c523 |
+| Junior Clinical Research Coordinator, Clinical Neurosciences | University of Calgary | 2026-04-21 | J | https://ca.indeed.com/viewjob?jk=aa1deb5d4f2ba91d |
+| Employee Relations and Workplace Governance Advisor | Zurich Canada | 2026-04-21 | J | https://www.linkedin.com/jobs/view/4382268767 |
+| Virtual Financial Advisor - Calgary, Alberta | Scotiabank | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403966799 |
+| Planning Specialist | Brunel | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4403950753 |
+| Talent Acquisition Coordinator | The Salvation Army in Canada | 2026-04-21 | N | https://www.linkedin.com/jobs/view/4404581827 |
+| Dayforce Payroll Analyst - R8dius | Deloitte | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4393551799 |
+| First Nations/Inuit/Métis Candidates: Dayforce WFM Analyst - | Deloitte | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4393559388 |
+| Data Analyst (Stata) | Remote | Crossing Hurdles | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4403954333 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-21 | R | https://www.linkedin.com/jobs/view/4404590736 |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=650d3d96684c4fa9 |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=bd992132cafd1e99 |
+| Major Gifts Advisor, Medicine Development, VP Development an | University of Calgary | 2026-04-21 | G | https://ca.indeed.com/viewjob?jk=b69b96e9aa82b8dd |
