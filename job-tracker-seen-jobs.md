@@ -4011,3 +4011,17 @@
 | Law Compliance Specialist - Fully Remote | Mercor | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404912784 |
 | Call Centre Agent | The Mustard SEED Society | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=03ff692e82ff87b5 |
 | Service Coordinator | Ainsworth Inc | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4401981823 |
+| Executive Assistant and Coordinator, Portfolio Initiatives | University of Calgary | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=7c75cf10c29001ab |
+| Software Quality Assurance Analyst | City of Calgary | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=15cffb4023969805 |
+| Vantage, Burstall & AEGS Operations Supervisor | Pembina Pipeline Corporation | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=1e468934431d886a |
+| Planner Scheduler | Bird Construction | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=4dbf22d67e3a7e8c |
+| Workplace Coordinator | TalentSphere Staffing Solutions | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402437056 |
+| Executive Assistant and Coordinator, Portfolio Initiatives | University of Calgary | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404955356 |
+| Client Services Coordinator — Part-Time | Fully Remote Evoke | Evoke Learning | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=3be267b3f1f7d7b8 |
+| Canada Summer Jobs - Intern, Business Development Officer | Calgary Economic Development | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=7efd3cc705274f29 |
+| Marketing and Communications Specialist | University of Calgary | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=a7dbb36440e59d8d |
+| Marketing and Communications Specialist | University of Calgary | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404966169 |
+| Systems Administrator 2 | City of Calgary | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=486e9146c88fd3b3 |
+| IT & Automation Support Specialist (12-month Maternity Cover | Ascendant Financial | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=f4aa559897778c86 |
+| Service Delivery Administrator | Manulife | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=d572402d2bb3e0ab |
+| CS Specialist | Spocket | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404261168 |
