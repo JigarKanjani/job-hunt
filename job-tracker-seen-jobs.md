@@ -4132,3 +4132,30 @@
 | Project Cost Controller | Phasor Engineering Inc | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405294332 |
 | Field Specialist, MDS Support | Ricoh USA, Inc. | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405293577 |
 | Junior Document Controller | Stantec | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405426259 |
+| Case Manager (Half time) | Canadian Centre for Men and Families | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=f35e6702a3dfdc21 |
+| Registrar and Compliance Coordinator | HERITAGE COLLEGE | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=c086582d884bacab |
+| Team Lead Residential Program Permanent Full-Time | Calgary Alternative Support Services | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=ff66740b72bafc62 |
+| Program Coordinator, CPLED | Canadian Centre for Profession | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=0fa3655fd7f67f68 |
+| Senior Buyer – EPCM (Contract) | Brunel | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405441358 |
+| People Data Analyst | Trimac Transportation | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404494280 |
+| Data Analyst | University of Calgary | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405443235 |
+| Financial Analyst – Business Intelligence | Calvert Home Mortgage Investment Corpora | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405443151 |
+| Asset Management Analyst | MatchBox Consulting Group | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405431808 |
+| Social Services Centre Administrator (Summer Student) - CONT | Calgary Drop IN & Rehab Society Centre | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=6fc8b4051b1237c4 |
+| Project Coordinator | Urban Systems | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=72ab3e446851f42a |
+| Orthodontic Administrator | Passion Dental Group | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=00e10f0e5269bb6d |
+| Client Support Worker | Fresh Start Recovery Centre | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=768ba44a3938b693 |
+| Senior Financial Reporting & Technical Advisor | Enerflex Ltd. | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4402817706 |
+| Planning Advisor – Downstream Network Strategy & Investment  | Adecco | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404496177 |
+| Business Intelligence Engineer | JOBBER | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=9b8f18fcb6198fb3 |
+| System Support Specialist I | Intelerad | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=02d1a8ff2243668e |
+| Specialist, Refined Products Market Fundamentals | Cenovus Energy | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405446778 |
+| Document Specialist | The New Network | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404482275 |
+| Utility Administrator | Meota Gas Co-operative Association Limit | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=b38e2a51694c83d8 |
+| Project Associate - Education Initiative (Temporary Full-Tim | Chartered Professional Accountants of Al | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=8c2cff0d9d6df6de |
+| Administrative Assistant - Calgary Area Office | The Church of Jesus Christ of Latter-day | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=70e5f69362317f1e |
+| Global Intelligence Information Specialist, AVP | Morgan Stanley | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=f45ea152e489e519 |
+| Receptionist | UNICE DENTAL ART LTD | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=6161d1835857f2b0 |
+| Natural Resources Group – Investment Banking Associate - Cal | JPMorganChase | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=018a818c47983110 |
+| Administrative Assistant, Schulich School of Engineering | University of Calgary | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405447164 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404480172 |
