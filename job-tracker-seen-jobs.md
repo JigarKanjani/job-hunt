@@ -4036,3 +4036,8 @@
 | Business Technical Analyst | Parkland County | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=1991003c3a050a76 |
 | Associate, Client Support | CIBC | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404956916 |
 | Health And Safety Coordinator | TRITAN Group Recruitment | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4389766701 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=829ac260e2de5632 |
+| Technical Business Analyst lll | North American Construction Group | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=2d01e3fb53bf52a9 |
+| Email Workflow Analyst | Remote | Crossing Hurdles | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404276361 |
+| Inbox Workflow Analyst | Remote | Crossing Hurdles | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404279170 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404273744 |
