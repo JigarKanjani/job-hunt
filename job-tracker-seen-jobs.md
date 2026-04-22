@@ -4025,3 +4025,14 @@
 | IT & Automation Support Specialist (12-month Maternity Cover | Ascendant Financial | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=f4aa559897778c86 |
 | Service Delivery Administrator | Manulife | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=d572402d2bb3e0ab |
 | CS Specialist | Spocket | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404261168 |
+| Legal Risk Management Coordinator | Town of Strathmore | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=054548cb1b37a004 |
+| External Relations Coordinator | Calgary Airports | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=81392171b25b9330 |
+| PepsiCo Beverages 2026 Supply Chain Co-op | PepsiCo | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402437206 |
+| Senior Financial Analyst | Alberta Health Services | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404273201 |
+| Group Financial Advisor | RBC | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=b51e4f222a236477 |
+| Banquets - Coordinator | Moxies | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=4274c6973a3179b1 |
+| Office Administrator | The Acquisition Group | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404989180 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404949745 |
+| Business Technical Analyst | Parkland County | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=1991003c3a050a76 |
+| Associate, Client Support | CIBC | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404956916 |
+| Health And Safety Coordinator | TRITAN Group Recruitment | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4389766701 |
