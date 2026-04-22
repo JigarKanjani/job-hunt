@@ -4074,3 +4074,20 @@
 | OpenClaw Specialist (Remote) | Joblet-AI | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405236488 |
 | Astrophysics Specialist - Fully Remote | Upto $90/hr | Mercor | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404567778 |
 | Associate - Indirect Tax | RSM Canada | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4392805138 |
+| IT Business Analyst (Contract) | Transcanada Turbines | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=833ca685a2cf2eb0 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=fa7b103934b2c839 |
+| Managing Consultant - Energy Supply Chain | Wood Mackenzie | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4354358672 |
+| Procurement Specialist (Buyer) | Raytheon | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405269275 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402805100 |
+| Project Controls Advisor | Enbridge | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402495102 |
+| Asset Management Analyst (ServiceNow SAM Pro) | Mindwire Systems Ltd | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404441576 |
+| Immigration Case Manager, Canada | Envoy global | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=2d8e415fa991cec1 |
+| Indigenous Relations Advisor | Acuren | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4383886734 |
+| Network Administrator | ANDORIX | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=10e97c9b0082cf4c |
+| Junior Business/Quality Assurance Analyst | The Edge Benefits Inc. | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=6bb9381128dda887 |
+| Product Control Risk Analyst | NRG Energy | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=8e88271b6020c7a4 |
+| Junior Web Developer (Remote) | Wilderman Cosmetic Clinic | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=4d8b133a99c821c6 |
+| Maximo Developer | Epsilon Solutions Ltd. | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405276342 |
+| Technical Systems Analyst: Deskside | University of Calgary | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405262887 |
+| .Net Backend Developer | COGNITO INC | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405288211 |
+| Receptionist | Options Consulting Solutions | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404447775 |
