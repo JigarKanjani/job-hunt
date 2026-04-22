@@ -4048,3 +4048,11 @@
 | Beauty Advisor (Inside Sales) Sally Beauty 05608 | Sally Beauty | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4062750783 |
 | Beauty Advisor (Inside Sales) Sally Beauty 05521 | Sally Beauty | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4062755343 |
 | HRIS Analyst | RECRUITMENT PARTNERS INC. | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404892931 |
+| Project Planner - Expression of Interest | Cooper Moss Rutland | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=e82ab070bd1003fb |
+| Senior Program Manager, Monetization | Clio | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4381899138 |
+| Housing Support Worker - 1 Year Contract | Closer to Home Community Services | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4405205886 |
+| Technical Records Administrator | De Havilland Aircraft of Canada Limited | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405217465 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405226426 |
+| Software Specialist (Remote) | Quik Hire Staffing | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405226431 |
+| OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405228334 |
+| Customer Service Representative | Saint-Gobain | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=4c0553420ee92bc8 |
