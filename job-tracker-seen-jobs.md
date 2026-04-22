@@ -3970,3 +3970,44 @@
 | Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4401970723 |
 | Equity Research Associate, Oil & Gas - Calgary | Scotiabank | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404211659 |
 | Accounting & Finance Coordinator | Deaf & Hear Alberta | 2026-04-21 | G | https://www.linkedin.com/jobs/view/4404208776 |
+| Calgary Continuous Improvement Lead | USG | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=12ab387d3eb0fa06 |
+| Buyer | Fresh Direct Produce | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=8dff374616ec00f1 |
+| Case Manager, Community Housing Program | Discovery House | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=42b7c95810f3cd59 |
+| Client Services Coordinator - Casual Part Time | Calgary Stampede | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=49564fe99f6eba6b |
+| Team Lead, Shelter and Outreach | Discovery House | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=bf43b090a9024acb |
+| Quantitative Data Analyst | The Mustard SEED Society | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=f0c9bfa6dc422a14 |
+| Service Coordinator | Wiseworth Canada Industries | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=b2beaa099d7382f8 |
+| Senior Business Analyst - HCM/Payroll | Government Of Alberta | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=82a9e993449bd07a |
+| Consultant - Construction Advisory | Turner & Townsend Pty Limited | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=90fce6492ac4e604 |
+| Project Coordinator | Iconic Power Systems Inc. | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=07ec819bd69856c6 |
+| Senior Financial Analyst | Government Of Alberta | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=11b042bfa8e5b9e3 |
+| Business Operations Associate | Astellas | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=0914cf6ec2485402 |
+| Quality Assurance Coordinator | CORE Linepipe Inc. | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=a99507c29d54652b |
+| Specialist, Communications (Media, Projects & Delivery) | Travel Alberta | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=a62e2105b591ed85 |
+| Shuttle Host & Interpreter | Fairmont | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=66fee93b4d7c2c6b |
+| Associate Supply Chain and Real Estate Law, and Legal Operat | TC Energy | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4401994210 |
+| Branch Care Coordinator | Air Liquide | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404914566 |
+| Lead Engineer - Oil & Gas | Adecco | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4389836137 |
+| Shelter Support Worker | Discovery House | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=df60e7eee0bc00f7 |
+| Commission Analyst | BrokerLink | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=f54842ff3138bf76 |
+| Contracts Advisor | Omega 365 | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=3f0fc9ab7d138741 |
+| Case Manager | McMan | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=40b18fbc21d5e557 |
+| Client Support Worker | Discovery House | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=47afc30dd70e96db |
+| Housing Support Worker - 1 Year Contract | Closer to Home Community Services | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=bc0bbbf55fde866a |
+| Technical Records Administrator | De Havilland Aircraft of Canada Ltd | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=4f35c7c7a2880659 |
+| Functional Recovery Support Case Manager | Homewood Health | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=ac576c2c3d24c573 |
+| Board Coordinator | NorQuest College | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=e262b2a60a0cb6fb |
+| Administrative Coordinator (Adminstration, Reception, and Bo | Modern Miracle Network | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=855eb9c4f85a7bf1 |
+| Wedding and Event Sales Coordinator | Cornerstone Theatre | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=d5182a7901a88837 |
+| Administrative, Events and Campaign Coordinator | Draganfly Innovations Inc. | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=8522ffdf848ab7c8 |
+| Service Coordinator | Ainsworth | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=d350638cf05392f4 |
+| Administrative Assistant | Mount Royal University | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4401995310 |
+| Contracts Advisor | NSBOmega Guyana Inc. | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404940189 |
+| Sales (Fitness Advisor) - Calgary Stephen Avenue | GoodLife Fitness | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4401992621 |
+| Coordinator, Marketing Activations | Calgary Airports | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404904435 |
+| Business Analyst - Construction Inspection Systems | TC Energy | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=741b24ceed39c6bd |
+| AI & Data Analyst | Morgan Construction & Environmental Ltd. | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=07266c38ea712497 |
+| Financial Planning and Analysis Analyst | Northview Residential REIT | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=f2e3a1f45bbe4d29 |
+| Law Compliance Specialist - Fully Remote | Mercor | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404912784 |
+| Call Centre Agent | The Mustard SEED Society | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=03ff692e82ff87b5 |
+| Service Coordinator | Ainsworth Inc | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4401981823 |
