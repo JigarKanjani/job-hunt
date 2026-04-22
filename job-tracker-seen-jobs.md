@@ -4091,3 +4091,44 @@
 | Technical Systems Analyst: Deskside | University of Calgary | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405262887 |
 | .Net Backend Developer | COGNITO INC | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405288211 |
 | Receptionist | Options Consulting Solutions | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404447775 |
+| Specialist Fuel Data Analytics | CPKC | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=948b64ebe82ae489 |
+| Marketing Specialist - AI Native Content and Brand | Sonata Window Fashions and Interior Desi | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=d5cdd45f338dbf47 |
+| Financial Analyst – Business Intelligence | CALVERT HOME MORTGAGE | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=fdb6b7e05f8d807f |
+| Senior Business Analyst - AIOps & Automation | Telus | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=615caa8794ae6db8 |
+| Analyst, Transportation Fleet Management | Inter Pipeline | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=ecbe09200c10784e |
+| Communications Officer, Social Media and Media Relations | Alberta Teachers Association | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=e3bc2ebece750985 |
+| Sourcing Specialist (Term) | PetroChina Canada | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402009283 |
+| Business Data Analyst | InSync Systems | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404454976 |
+| Senior Data Analyst | Bird Construction | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405410382 |
+| Analyst, Transportation Fleet Management | Inter Pipeline | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404461272 |
+| Senior Business Analyst - AIOps & Automation | TELUS | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404459001 |
+| IT Business Analyst (Contract) | TransCanada Turbines | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405297637 |
+| Project Coordinator | Urban Systems Ltd. | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405432489 |
+| Product Control Risk Analyst | NRG Energy | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4402495910 |
+| Senior Purchasing Agent | Global Technical Talent, an Inc. 5000 Co | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4401638556 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=56be39eca031d8fc |
+| Career Advisor | Prospect Human Services | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=01d8b3a43272d7ce |
+| Administrative Assistant Events (Canada Summer Job) | Mennonite Central Committee (MCC) | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=43f42fe3915935ce |
+| Public Health Project Coordinator | University of Alberta | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=f147e93a8a976ded |
+| Front Desk Office Administrator | Lifemark Health Group | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=23cde9bcc0318f2b |
+| Office Administrator | CJM CRANE SERVICES LTD | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=8e084e6bed0905c7 |
+| AI Trainer - Materials Science Specialists (Remote - Calgary | Prolific Academic Ltd | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=d309f87b104fe92d |
+| Administrative Assistant - Calgary Area Office | The Church of Jesus Christ of Latter-day | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404478109 |
+| HR - Mobility Coordinator | Beyond Energy Services and Technology Co | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4405404155 |
+| Human Capital Data Advisor | MNP | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4392453910 |
+| GIS Analyst | Stantec | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=c431eba8a0540c1a |
+| Sr Staff Data Analyst - Lifetime Value | Fanatics Betting & Gaming | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=397681b5b56a1274 |
+| Sr Staff Data Analyst - Lifetime Value | Fanatics Betting & Gaming | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=e20159f9701c3c44 |
+| Commission Analyst | BrokerLink | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405404027 |
+| Help Desk and Desktop Analyst | Millennium EMS Solutions Ltd. | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404461885 |
+| Microsoft 365 Administrator | Airswift | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4402808351 |
+| .Net Backend Developer | Galent | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4402495541 |
+| Dotnet Backend Developer | Yochana | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404449654 |
+| .Net Backend Developer | Yochana | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404456011 |
+| Junior Document Controller | Stantec | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=a40a08ec1c169c1e |
+| Project Cost Controller | Phasor Engineering | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=f81ccb1e8dee8cc2 |
+| Receptionist I (2026-0047) | Carewest Innovative Health Care | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405282966 |
+| Customer Service Associate - Temporary - Fixed Term- Inside  | RONA | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405414669 |
+| Project Cost Controller | Phasor Engineering Inc | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405294332 |
+| Field Specialist, MDS Support | Ricoh USA, Inc. | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405293577 |
+| Junior Document Controller | Stantec | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405426259 |
