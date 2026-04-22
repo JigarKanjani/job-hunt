@@ -4041,3 +4041,10 @@
 | Email Workflow Analyst | Remote | Crossing Hurdles | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404276361 |
 | Inbox Workflow Analyst | Remote | Crossing Hurdles | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404279170 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404273744 |
+| Program Coordinator | Mount Royal University | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=887b1c63b9a19753 |
+| Cloud Services Tech Analyst | Calgary Board Of Education | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=bb7a47371cf1cd4b |
+| Senior Financial Analyst | Alberta Health Services | 2026-04-22 | J | https://ca.indeed.com/viewjob?jk=28a03c0f199e6690 |
+| Administrative Assistant | Mount Royal University | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=5bdbad8adcb0113e |
+| Beauty Advisor (Inside Sales) Sally Beauty 05608 | Sally Beauty | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4062750783 |
+| Beauty Advisor (Inside Sales) Sally Beauty 05521 | Sally Beauty | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4062755343 |
+| HRIS Analyst | RECRUITMENT PARTNERS INC. | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404892931 |
