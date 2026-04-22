@@ -4056,3 +4056,21 @@
 | Software Specialist (Remote) | Quik Hire Staffing | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405226431 |
 | OpenClaw Agent Developer (Remote) | Quik Hire Staffing | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405228334 |
 | Customer Service Representative | Saint-Gobain | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=4c0553420ee92bc8 |
+| Analyste, Affaires techniques | Canadian Cancer Society | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404419185 |
+| Project Coordinator | Aecon Group Inc. | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4382819958 |
+| Inventory Control Specialist II | MiTek | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404437150 |
+| Marketing Coordinator | Armour Valve Ltd. | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4405252251 |
+| Backend Lead - NodeJS | Enterprise Solutions Inc. | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404298322 |
+| Marketing Operations Lead | Sidetrade | 2026-04-22 | J | https://www.linkedin.com/jobs/view/4404447003 |
+| Administrative Coordinator | Home Care Professionals Inc | 2026-04-22 | N | https://ca.indeed.com/viewjob?jk=380a441949292830 |
+| Community Program Manager | The Salvation Army in Canada | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4389306929 |
+| Summer Student- Junior Accounting Coordinator | Calgary Legal Guidance | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404897281 |
+| Contracts Advisor | Raise | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4404915347 |
+| AI Training Specialist | Prolific | 2026-04-22 | N | https://www.linkedin.com/jobs/view/4405258736 |
+| Help Desk and Desktop Analyst | Millennium EMS Solutions Ltd. | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=3e0081ec1c8c41f3 |
+| Office Administrator | Trust Home Comfort Ltd. | 2026-04-22 | R | https://ca.indeed.com/viewjob?jk=b1b5d7cd2bebbccd |
+| Settlements Analyst | Gunvor Group | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4381781858 |
+| Analyst I, Investor Services | CMLS Financial | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405236078 |
+| OpenClaw Specialist (Remote) | Joblet-AI | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4405236488 |
+| Astrophysics Specialist - Fully Remote | Upto $90/hr | Mercor | 2026-04-22 | R | https://www.linkedin.com/jobs/view/4404567778 |
+| Associate - Indirect Tax | RSM Canada | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4392805138 |
