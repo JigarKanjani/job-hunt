@@ -4159,3 +4159,24 @@
 | Natural Resources Group – Investment Banking Associate - Cal | JPMorganChase | 2026-04-22 | G | https://ca.indeed.com/viewjob?jk=018a818c47983110 |
 | Administrative Assistant, Schulich School of Engineering | University of Calgary | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4405447164 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-22 | G | https://www.linkedin.com/jobs/view/4404480172 |
+| Business Analyst (12-month fixed term) | University of Calgary Properties Group | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=7e747ff3459a9824 |
+| Team Leader, Bower Place Shopping Centre | Saje Natural Wellness | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=59fe365d039c7e64 |
+| Technical Systems Analyst: Deskside | University of Calgary | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=abd457af921e1a42 |
+| Calgary Police Service - High System User Intake Coordinator | City of Calgary | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=daf963cf6db9510f |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=04baa7247ba9d025 |
+| Partnership Account Management Specialist | RoboGarden Inc. | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404493918 |
+| Senior Analyst, External Compliance Monitoring | Alberta Electric System Operator (AESO) | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404702289 |
+| Immigration Case Manager, Canada | Envoy global | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=3403a8e8980fb65c |
+| Data Analyst | University of Calgary | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=06899feba2a6f619 |
+| Senior Advisor, Corporate Finance | City of Calgary | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=f6e2c2bbb5b6eddf |
+| Host & Dining Coordinator (Hostess) - PT - LaRonde - Chateau | Nova Hotels | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=037df0185ff67e3b |
+| Administrative Assistant - Calgary Area Office | A Igreja de Jesus Cristo dos Santos dos  | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4405486481 |
+| Intermediate Dynamics 365 and Power Platform Developer | Mitacs | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=02c737645fbf8753 |
+| Summer Student - Sports Instructor and Administrator Intern | Alberta Netball Association | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=a17937daf82ccc14 |
+| Administrative Assistant, Schulich School of Engineering | University of Calgary | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=2da208eaf6a022ca |
+| Sales Associate - Tower Chrysler Dodge Jeep Ram | AutoCanada | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=652385e9e76ca4b5 |
+| Office Services Coodinator (Contract) | Keyera | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404487998 |
+| CS Specialist (Entry-Level) | Spocket | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404716086 |
+| Credit Solutions Associate, Commercial Agriculture Banking - | Scotiabank | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404716215 |
+| Associate Investment Advisor | TD | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405497363 |
+| Associate Investment Advisor | TD Securities | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405491391 |
