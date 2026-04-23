@@ -4202,3 +4202,10 @@
 | IT Analyst II | Alberta Health Services | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=3d2a58d90f36d577 |
 | Strategy & Operations Analyst | Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4404756127 |
 | Coordinator II | Alberta Health Services | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=92caa53d42ee1403 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404765094 |
+| District Administrator (Calgary) | TD | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4405666283 |
+| Strategy & Operations Analyst | Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4404756127 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4405654627 |
+| Unreal Engine Developer - Gameplay Systems | $60/hr Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4402896582 |
+| Community Associate | Regus | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4403206101 |
+| Claims Specialist | CNA Insurance | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4396759401 |
