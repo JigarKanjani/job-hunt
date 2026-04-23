@@ -4186,3 +4186,12 @@
 | Camp and Travel Coordinator | Worley | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=6cd136d28bd68498 |
 | Personal Trainer | Crunch Fitness Canada | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4405618174 |
 | Front Desk Agent | Element Calgary | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=928c90de61b478f4 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=f31cf85969863042 |
+| Cyber Security Analyst | Quorum Cyber | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=706f22e476d45669 |
+| Recruitment Specialist | Covenant Health Canada | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=ae5c5692a5efd879 |
+| Analyst, People Data | Trimac | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=fa0fd11343551158 |
+| Security Automation Engineer, 18-month Term | Kinaxis | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=8297a57887d6ca4b |
+| Administrative Support IV | Alberta Precision Labs | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=5ed3409012bf308d |
+| Administrative Support IV | Primary Care Alberta | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=dd6dfad22bcf32e8 |
+| Administrative Support IV | Primary Care Alberta | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=f4d9b034c6a4d5aa |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404736814 |
