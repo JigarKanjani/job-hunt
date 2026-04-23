@@ -4180,3 +4180,9 @@
 | Credit Solutions Associate, Commercial Agriculture Banking - | Scotiabank | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404716215 |
 | Associate Investment Advisor | TD | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405497363 |
 | Associate Investment Advisor | TD Securities | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405491391 |
+| Project Analyst | Johnson Controls | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=be831904027837d4 |
+| Field Data Capture Analyst | Roska DBO | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=35898eab461a3d93 |
+| Coordinator II | Alberta Health Services | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404735264 |
+| Camp and Travel Coordinator | Worley | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=6cd136d28bd68498 |
+| Personal Trainer | Crunch Fitness Canada | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4405618174 |
+| Front Desk Agent | Element Calgary | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=928c90de61b478f4 |
