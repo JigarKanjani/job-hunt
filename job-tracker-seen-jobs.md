@@ -4209,3 +4209,38 @@
 | Unreal Engine Developer - Gameplay Systems | $60/hr Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4402896582 |
 | Community Associate | Regus | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4403206101 |
 | Claims Specialist | CNA Insurance | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4396759401 |
+| Talent Acquisition Specialist - Calgary, AB | Certarus | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=48c90e66a948c90e |
+| Environmental Coordinator | Tidewater Midstream and Infrastructure L | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=86eb5674da50d44c |
+| Communications & Marketing Lead /responsable des communicati | Canadian Association of Occupational The | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=bbfca1543b62e323 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=414a4f460da72789 |
+| Coordinator, Warehousing | WSP in Canada | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403224208 |
+| Coordinator, Phosphate Rail Ops (Temporary) | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403235210 |
+| Sr Advisor, Capital Procurement | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403235209 |
+| Sr Advisor, Global Mobility - Saskatoon, SK or Calgary, AB | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403237164 |
+| Senior Compensation Analyst, Market Data - Calgary, AB or Sa | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403228174 |
+| Analyst Data & Systems | Enbridge | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403236177 |
+| HRIS Specialist (1-Year Contract) | Peoples Group | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404788740 |
+| Senior Analyst, Finance Business Partner - Corporate | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403244140 |
+| Coordinator, Leaves - Calgary, AB or Saskatoon, SK | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403238139 |
+| Coordinator, Benefits - Calgary, AB or Saskatoon, SK | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403236155 |
+| Senior Advisor, Global Benefits - Calgary, AB or Saskatoon,  | Nutrien | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4403241155 |
+| Payroll and Benefits Coordinator | United Active Living  | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=4797c09f02b983e8 |
+| Branch Office Administrator | Edward Jones | 2026-04-23 | N | https://ca.indeed.com/viewjob?jk=67f4e732cec83bef |
+| Administrative Assistant, Department Head | University of Calgary | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4405688561 |
+| Advisor, Benefits - Calgary, AB or Saskatoon, SK | Nutrien | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4403229167 |
+| Senior Advisor, Midstream Projects | Nutrien | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4403245139 |
+| Climate Adaptation Solutions Senior Specialist | Arcadis | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4396652219 |
+| Senior Third Party Market Conduct & Operations Specialist | Co-operators | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4405699414 |
+| Analyst, Natural Gas | Capital Power | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=76dde769bd8a70c0 |
+| Finance Analyst | FortisAlberta | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=58b203c0f05c94f9 |
+| Sr Technical Analyst, SF (Temporary) | Nutrien | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4403229174 |
+| Unreal Engine Developer - Gameplay Systems | $60/hr Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4402896582 |
+| Administrative Assistant | Beautify @ Dr. Bishop's | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=3552d5310500156d |
+| Financial Administrator, VP Finance | University of Calgary | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=2cd7b08ad82a8a2c |
+| Customer Service Representative (Calgary - Sunridge) | Trail Appliances AB/SK | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=703d880c1ed59ec7 |
+| VOLUNTEER PROGRAM ASSOCIATE | The Calgary Foundation | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=691d57a99f4bbb6f |
+| Credit Solutions Associate, Commercial Agriculture Banking - | Scotiabank | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=785cb2bb37b244de |
+| Customer Service Representative (Calgary - Sunridge) | Trail Appliances AB/SK | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405686066 |
+| Environmental Coordinator | Tidewater Midstream and Infrastructure | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404782524 |
+| Financial Administrator, VP Finance | University of Calgary | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405685520 |
+| Capital Construction Coordinator | City of Calgary | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404449047 |
