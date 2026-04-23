@@ -4195,3 +4195,10 @@
 | Administrative Support IV | Primary Care Alberta | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=dd6dfad22bcf32e8 |
 | Administrative Support IV | Primary Care Alberta | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=f4d9b034c6a4d5aa |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404736814 |
+| Project Coordinator, Water & Wastewater Engineering | NIAGARA REGION | 2026-04-23 | J | https://ca.indeed.com/viewjob?jk=e1157ddb64776941 |
+| Senior Cyber Security Specialist | Sobeys | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4394682497 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-04-23 | J | https://www.linkedin.com/jobs/view/4404765094 |
+| Associate Insurance Advisor | Co-operators | 2026-04-23 | N | https://www.linkedin.com/jobs/view/4333397659 |
+| IT Analyst II | Alberta Health Services | 2026-04-23 | R | https://ca.indeed.com/viewjob?jk=3d2a58d90f36d577 |
+| Strategy & Operations Analyst | Remote | Crossing Hurdles | 2026-04-23 | R | https://www.linkedin.com/jobs/view/4404756127 |
+| Coordinator II | Alberta Health Services | 2026-04-23 | G | https://ca.indeed.com/viewjob?jk=92caa53d42ee1403 |
