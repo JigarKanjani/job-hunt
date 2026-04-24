@@ -4265,3 +4265,11 @@
 | Corporate Education - Learning Specialist | PBS Systems | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4403716187 |
 | Service Coordinator | Finning | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=01b0f0543fba055f |
 | Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406154150 |
+| Logistics Coordinator | JET Express | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=b4c987efe848914b |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=f90264b956906638 |
+| Administrative Assistant, Department Head | University of Calgary | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=1aedce704033efc8 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406171457 |
+| Administrative Support IV | Alberta Precision Labs | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=d0655dbbc788db2d |
+| Specialist, Marketing Analytics | Wilder Institute/Calgary Zoo | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=213790552c093120 |
+| GHG Specialist | Dillon Consulting Limited | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=56800e3ad2fdb5d5 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405315249 |
