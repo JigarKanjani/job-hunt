@@ -4294,3 +4294,34 @@
 | Field Data Capture Analyst | Airswift | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406602996 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406614287 |
 | Customer Service Representative - Sales Desk | Alggin | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=db25d020b99f59eb |
+| Coordinator, Partnership Marketing (2026 Grey Cup) | Calgary Sports and Entertainment Corpora | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=6c65b2cc527b7333 |
+| OPERATIONS CORDINATOR | Axiom Surface Protection | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=4e35eedccbfaa8d0 |
+| Logistics Coordinator | Edmonton Movie Club | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=62386c6ba7c3ac20 |
+| Administrative Assistant - Operations (Summer Student) | Cerebral Palsy Association in Alberta | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=0affff5e1b7d3ffe |
+| Ecommerce Content Coordinator | UFA | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=d5ec69f0578c657d |
+| Business Analyst | Pacer Group | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406651085 |
+| Senior Business Analyst (Oil & Gas) | Enterprise Solutions Inc. | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4403765857 |
+| Operations Analyst - Information Technologies | University of Calgary | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406621332 |
+| Senior Associate, Operations and Procurement | PwC Canada | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405353778 |
+| Program Manager | Plum Gas Solutions | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406621903 |
+| Operations Supervisor | FedEx Canada | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405360531 |
+| Specialist – Continuous Improvement (Finance) | Air Liquide | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405362618 |
+| Test Lead - Automation | Wipro | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405353448 |
+| Sales & Events Coordinator | Delta Hotels | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=a781b2ec8e592c4e |
+| Housing Coordinator, Subsidy & Graduation | CUPS | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=02e3ada79cc00f66 |
+| LTD Case Manager | Disability Management Institute | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=d9659c10aaab8bf6 |
+| Client Care Coordinator - Part-time + Casual; Full-time | Euro Physical Therapy Lethbridge | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=1988601452d93272 |
+| Front Desk Care Coordinator | Lifemark Health Group | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=328cad12ac28112a |
+| Service Specialist (Group Benefits) | Sun Life | 2026-04-24 | N | https://www.linkedin.com/jobs/view/4403778582 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-24 | N | https://www.linkedin.com/jobs/view/4406628283 |
+| Cleaning Specialist - South Calgary | The Pink Wand Cleaning Services Ltd- Air | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=b1330a882653877c |
+| Business Analyst, CRM | Buckland | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=eeb0b4f847b51487 |
+| IT Support Specialist | IT Organizers Inc. | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=1ddb5c4aafc8c14f |
+| IT Specialist | Ganex America | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=8fec192bf6829624 |
+| Power Platform Developer | MNP | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4397506201 |
+| S Process Engineer | Hood Packaging Corporation | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4403774640 |
+| IS/IT Executive Support Specialist | Raise | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4405354242 |
+| Financial Analyst (Remote) | Jobs Ai | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406617949 |
+| Personal Banking Associate - (Fixed Term Contract) | TD | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=95794c5b10cef17e |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=8ae3afe98d67dd85 |
+| Project Coordinator Intern | Calgary Municipal Land Corporation | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405367169 |
