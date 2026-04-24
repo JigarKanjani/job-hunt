@@ -4244,3 +4244,20 @@
 | Environmental Coordinator | Tidewater Midstream and Infrastructure | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404782524 |
 | Financial Administrator, VP Finance | University of Calgary | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4405685520 |
 | Capital Construction Coordinator | City of Calgary | 2026-04-23 | G | https://www.linkedin.com/jobs/view/4404449047 |
+| Regulatory & Environmental Compliance Specialist | Nureva | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=75d40b0e6b9947fa |
+| Case Coordinator - Centre for Refugee Resilience | Calgary Catholic Immigration Society | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=ac167bdb7b7ec6e8 |
+| Project Coordinator | City of Calgary | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=567b021ae8e46f90 |
+| Leave Advisor | Kiewit Corporation | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=5b2070cfb00465df |
+| Talent Acquisition Specialist | Millennium EMS Solutions Ltd. | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405077147 |
+| Project Coordinator | AFL | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406145364 |
+| Project Controls Coordinator II | Raise | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406105928 |
+| Regional Customer Service Team Lead | FirstService Residential Canada | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406114752 |
+| Security Advisor | City of Calgary | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=0c1c4a2af48318d7 |
+| HR Coordinator (Part-time) | Tenfold HR Solutions | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=8d40d8da6e9117b4 |
+| Sales (Fitness Advisor) - Calgary Deerfoot City | GoodLife Fitness | 2026-04-24 | N | https://www.linkedin.com/jobs/view/4403273708 |
+| Financial Administrator ¿ Financial Reporting | University of Calgary | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406131279 |
+| Filing Systems Analyst (Canada Summer Jobs Placement) | Easter Seals Alberta | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406127412 |
+| Clinical Systems Analyst | Alignerr | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406103821 |
+| Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405063897 |
+| Behaviour Outreach Facilitator - Full Time | Calgary Humane Society | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4406124700 |
+| Events Coordinator (Canada Summer Jobs Placement) | Easter Seals Alberta | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4406130273 |
