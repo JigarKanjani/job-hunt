@@ -4325,3 +4325,32 @@
 | Personal Banking Associate - (Fixed Term Contract) | TD | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=95794c5b10cef17e |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=8ae3afe98d67dd85 |
 | Project Coordinator Intern | Calgary Municipal Land Corporation | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405367169 |
+| Purchasing Coordinator I | MiTek | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=04bff78ff70e3939 |
+| production coordinator | Expertec | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=b6fca13b7e3fa329 |
+| transportation logistics manager | Sursinghia Transport | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=eb58015393740179 |
+| OPERATIONS CORDINATOR | Axiom® | Temporary Surface Protection | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405352659 |
+| Sr Advisor, Global Mobility | Nutrien | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405373396 |
+| Environmental Data Analyst | Millennium EMS Solutions Ltd. | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4404101817 |
+| Community Engagement Activation Coordinator (Ignite Host) | Better Business Bureau Alberta and East  | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406640512 |
+| Head of Client Platforms & Operations | Mawer Investment Management | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4404115132 |
+| Invasive Species Program Coordinator | Nature Conservancy of Canada / Conservat | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=9090451e26bd3294 |
+| Invasive Species Program Coordinator | Nature Conservancy of Canada / Conservat | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=8db040ab1b343666 |
+| Summer Job - Education Program Coordinator LINC | The Immigrant Education Society | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=fb81997d4ac0fa94 |
+| Summer Job - Education Outreach Program Coordinator | The Immigrant Education Society | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=736b16aabd0993b7 |
+| Senior Department Coordinator | University of Alberta | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=e6c73c4691ee6e01 |
+| Coordinator | PFP Canada | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=4a7aed3dad8d3410 |
+| Marketing Coordinator – Summer Student (8-week position - 35 | Northreach Society | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=6487d71e22ab0844 |
+| Guest Coordinator - Sales Associate - Call Centre Agent | Lucere Dermatology & Laser Clinic | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=b8b28a19771084c6 |
+| Administrator, Office | CNIB | 2026-04-24 | N | https://www.linkedin.com/jobs/view/4403788947 |
+| Sales (Fitness Advisor) - Calgary Canyon Meadows | GoodLife Fitness | 2026-04-24 | N | https://www.linkedin.com/jobs/view/4404108166 |
+| Security Analyst | Servus Credit Union | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=cdf93ff326a4590a |
+| CCS System Analyst (OpenText & Kofax Total Agility) | Government of Alberta | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4405382798 |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4403776990 |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4403799033 |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4403789440 |
+| Customer Service Representative | Cakeworks Inc. | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=c19abadc8461e7ff |
+| IT Governance Specialist (IAM / PAM) | Enterprise 1 Advisory Services | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=5d2d733ecf724076 |
+| Union Remittance Specialist/Payroll Accountant | CAM Industrial Solutions LLC | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4406678175 |
+| Service Desk Associate: Part Time - CHINOOK | The Home Depot Canada | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405374099 |
+| Client Services Associate (Investment) | CI Financial | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405378119 |
+| District Sales Associate | Mackenzie Investments | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405369712 |
