@@ -4261,3 +4261,7 @@
 | Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405063897 |
 | Behaviour Outreach Facilitator - Full Time | Calgary Humane Society | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4406124700 |
 | Events Coordinator (Canada Summer Jobs Placement) | Easter Seals Alberta | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4406130273 |
+| Senior Tactical Analyst | Alberta Health Services | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4405099082 |
+| Corporate Education - Learning Specialist | PBS Systems | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4403716187 |
+| Service Coordinator | Finning | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=01b0f0543fba055f |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406154150 |
