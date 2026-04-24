@@ -4280,3 +4280,17 @@
 | National Agronomy Lead -12 Month Term (Open to Remote) | Cargill | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=f9ec8dbb5cb59b68 |
 | Senior Claims Specialist, Liability - Calgary | Zurich Canada | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4395329648 |
 | Policy & Reward Specialist | LNG Canada Development Inc | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=bf94ac588fad0e70 |
+| Sales Coordinator | Accor | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=b192316d6a8aa249 |
+| Business Analyst | Pacer Group | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4403745665 |
+| Source to Pay Specialist - North America (Calgary, AB) | Orica | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4406612673 |
+| logistics Superisor | Solico Metal | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4403765158 |
+| Facilitator | Prospect Human Services | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=353e24c1bece5c7b |
+| Wellness Coordinator/ Administrative Assistant | Divine Spine Calgary | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=b4327068fef9414f |
+| Operations Analyst - Information Technologies | University of Calgary | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=6710853c2e1e1b50 |
+| Communications & Marketing Advisor | City of Calgary | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=945f8d9467c9b1b6 |
+| Resilience Coordinator | SmartICE | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=4ea7826c5c13832f |
+| IT Support Engineer | HelloFresh | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=9d8f28427fc84056 |
+| Security SOC Analyst - Remote | Employment Hero | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=6fd2c5eafe769111 |
+| Field Data Capture Analyst | Airswift | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406602996 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-04-24 | R | https://www.linkedin.com/jobs/view/4406614287 |
+| Customer Service Representative - Sales Desk | Alggin | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=db25d020b99f59eb |
