@@ -4276,3 +4276,7 @@
 | Senior Tactical Analyst | Alberta Health Services | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=fbda20114abedd6f |
 | Business Registry Coordinator - PT Temp | The Town of CAnmore | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=b49b96f58a321c5e |
 | Analyst | Alberta Health Services | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=b2405e11696c4357 |
+| National Agronomy Lead -12 Month Term (Open to Remote) | Cargill | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=e9e13df10ce1a516 |
+| National Agronomy Lead -12 Month Term (Open to Remote) | Cargill | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=f9ec8dbb5cb59b68 |
+| Senior Claims Specialist, Liability - Calgary | Zurich Canada | 2026-04-24 | J | https://www.linkedin.com/jobs/view/4395329648 |
+| Policy & Reward Specialist | LNG Canada Development Inc | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=bf94ac588fad0e70 |
