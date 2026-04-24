@@ -4273,3 +4273,6 @@
 | Specialist, Marketing Analytics | Wilder Institute/Calgary Zoo | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=213790552c093120 |
 | GHG Specialist | Dillon Consulting Limited | 2026-04-24 | G | https://ca.indeed.com/viewjob?jk=56800e3ad2fdb5d5 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405315249 |
+| Senior Tactical Analyst | Alberta Health Services | 2026-04-24 | J | https://ca.indeed.com/viewjob?jk=fbda20114abedd6f |
+| Business Registry Coordinator - PT Temp | The Town of CAnmore | 2026-04-24 | N | https://ca.indeed.com/viewjob?jk=b49b96f58a321c5e |
+| Analyst | Alberta Health Services | 2026-04-24 | R | https://ca.indeed.com/viewjob?jk=b2405e11696c4357 |
