@@ -4445,3 +4445,5 @@
 | Product Quality Analyst | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4394242994 |
 | Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405754537 |
 | Administrative Support IV | Alberta Health Services | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=c56fa92c186fe1d0 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4394242994 |
+| Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405754537 |
