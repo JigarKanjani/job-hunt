@@ -4440,3 +4440,8 @@
 | Go Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405736900 |
 | C++ Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405743313 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405745371 |
+| Volunteer Administrative Assistant | FAIED Professional Corporation (FPC), Ch | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4405756542 |
+| Learning Technology Coordinator, 1-year contract | KPMG Canada | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4384898545 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4394242994 |
+| Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405754537 |
+| Administrative Support IV | Alberta Health Services | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=c56fa92c186fe1d0 |
