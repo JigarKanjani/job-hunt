@@ -4447,3 +4447,7 @@
 | Administrative Support IV | Alberta Health Services | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=c56fa92c186fe1d0 |
 | Product Quality Analyst | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4394242994 |
 | Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405754537 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=ba169a57a1c3ee71 |
+| Data Analyst | ADF Medical | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406879388 |
+| Specialist – Continuous Improvement (Finance) | Air Liquide | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=28373cb01bc44b23 |
+| Client Specialist | Talbots | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405755869 |
