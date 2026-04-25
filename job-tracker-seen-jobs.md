@@ -4454,3 +4454,8 @@
 | OPERATIONS CORDINATOR | Axiom® | Temporary Surface Protection | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405761598 |
 | Construction Project Coordinator | D&D Commercial Roofing | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405764472 |
 | Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405769345 |
+| Carrier Sales Coordinator - Calgary | Bison Transport | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=06bcf23aab0fbae6 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=a130397a274c41a6 |
+| OPERATIONS CORDINATOR | Axiom® | Temporary Surface Protection | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405761598 |
+| Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405769345 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405792005 |
