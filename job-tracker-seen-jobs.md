@@ -4451,3 +4451,6 @@
 | Data Analyst | ADF Medical | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406879388 |
 | Specialist – Continuous Improvement (Finance) | Air Liquide | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=28373cb01bc44b23 |
 | Client Specialist | Talbots | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405755869 |
+| OPERATIONS CORDINATOR | Axiom® | Temporary Surface Protection | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405761598 |
+| Construction Project Coordinator | D&D Commercial Roofing | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405764472 |
+| Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405769345 |
