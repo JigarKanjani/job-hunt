@@ -4393,3 +4393,15 @@
 | Facilitator | Prospect Human Services Society | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406804007 |
 | Litigation Associate | Klopp Richards & Associates | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405706177 |
 | Advisor, Health & Safety (Calgary | Dollarama | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405388837 |
+| Business Systems Analyst | City of Calgary | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=ae9f968097c47b96 |
+| BIM/VDC Specialist - Buildings Shared Services | Graham Construction | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=54d520dbbfc6b842 |
+| Wellness Coordinator/ Administrative Assistant | Divine Spine | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=00bcc16755869c6e |
+| Beauty Advisor - Part Time | Sephora | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=d4016be9550c1c96 |
+| Beauty Advisor - Part Time | Sephora | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=e02d56baa9beb5de |
+| Program Administrative Assistant (Contract) | ECO Canada | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4406828430 |
+| Financial Advisor - Calgary, AB (15-Month Contract) | Scotiabank | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4405725383 |
+| Financial Planner | Wellington-Altus | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4405719660 |
+| Client Specialist | Talbots | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=bf4821f5fe122974 |
+| BMO Capital Markets Investment Banking Analyst, Calgary – Fa | BMO | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406816480 |
+| Plumbing - Part Time Customer Service Associate | RONA | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406817247 |
+| personal banking associate | BMO | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405880043 |
