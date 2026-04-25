@@ -4354,3 +4354,42 @@
 | Service Desk Associate: Part Time - CHINOOK | The Home Depot Canada | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405374099 |
 | Client Services Associate (Investment) | CI Financial | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405378119 |
 | District Sales Associate | Mackenzie Investments | 2026-04-24 | G | https://www.linkedin.com/jobs/view/4405369712 |
+| GIS Specialist | Tri Innovations | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=c0ac805d4888fa49 |
+| Project Controls Analyst | Suncor Energy | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=fc0ecdcac256b257 |
+| HSSE Advisor, Infrastructure | Stantec | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=9ab6a9aade3098ca |
+| Corporate Education - Learning Specialist | PBS Systems | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=a1c7d003e39c1f3d |
+| Union Remittance Specialist/Payroll Accountant | CAM Industrial Solutions | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=ca0166d324f093e4 |
+| Quality Assurance Specialist (Engineer/Technologist) | Stream-Flo | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=7a8e65fcbad8e0bb |
+| Project Coordinator - Commercial Projects | Alcor Facilities Management Inc | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=3c7e0658662ddd0f |
+| Project Controls Analyst | Suncor | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406810192 |
+| Business Analyst | Insight Global | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405708320 |
+| Jr. FP&A Analyst, Reporting & Forecasting | Brookfield Residential | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405719393 |
+| Analyst, Sales Strategy | Softchoice | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405393588 |
+| Analyst, Sales Systems | Softchoice | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405703394 |
+| Specialist, Business Event Marketing | Tourism Calgary | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406679831 |
+| Advancement & Event Coordinator | Rundle Schools | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405708267 |
+| Field Sales Support Specialist - Canada | White Cap Canada | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406667906 |
+| Office Coordinator | Turn Construction | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=a6f5decfef920c97 |
+| Administrator, Office | Canadian National Institute for the Blin | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=a86a31e912808b3a |
+| Recreational Coordinator - Summer Student | Catholic Social Services | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=b4d840fe670f52f2 |
+| Recreational Coordinator - Summer Student | Catholic Social Services | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=ac79f0f5dae560a2 |
+| Program Manager | The Brenda Strafford Foundation | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4406674845 |
+| Client Services Advisor | Carina Software Group | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4405721282 |
+| LSW - Licensed Social Worker Tutor | Varsity Tutors, a Nerdy Company | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4406690538 |
+| Business Systems Analyst | Alberta Pensions Services Corporation (A | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=0c95effd3d2e6a7f |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=8e7bf59ef7bb9dce |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=8189c3a65582effc |
+| Technical Support Specialist | Banff Centre for Arts and Creativity | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=29b1860094270bc1 |
+| Process Safety Engineer, Contractor | Inter Pipeline | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=260f58f96dd7aef3 |
+| HR Analyst | Mount Royal University | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4404121592 |
+| IT Support Engineer | HelloFresh | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406801320 |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406690955 |
+| Remote Services - Technical Support Specialist | Convergint | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406693931 |
+| LAA-26-20 - Governance & Corporate Counsel Facilitator | Legal Aid Alberta | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=eff7c8c7a9f155b3 |
+| Culinary Administrative Assistant - Casual Part Time (18+) | Calgary Stampede | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=1f3b29bc6d09707e |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-04-25 | G | https://ca.indeed.com/viewjob?jk=2462dcef97e5055a |
+| HSSE Advisor, Infrastructure | Stantec | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406827102 |
+| Specialist, Social Media | Tourism Calgary | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406682813 |
+| Facilitator | Prospect Human Services Society | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406804007 |
+| Litigation Associate | Klopp Richards & Associates | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405706177 |
+| Advisor, Health & Safety (Calgary | Dollarama | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405388837 |
