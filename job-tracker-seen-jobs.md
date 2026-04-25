@@ -4431,3 +4431,12 @@
 | Go Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405736900 |
 | C++ Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405743313 |
 | Financial Analyst (Remote) | Jobs Ai | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406856276 |
+| Human Resources Coordinator | Calgary Homeless Foundation | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=46a34889ff83272d |
+| IT Delivery Lead – Insurance Platforms | BMO | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4406843555 |
+| Emma House Family Support Worker - Relief | Inn from the Cold | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=1c60303a41427116 |
+| HR Administrator | Morgan Construction & Environmental Ltd. | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=754f165693ce127c |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4406835637 |
+| HR Analyst | Mount Royal University | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=4833356475befc1c |
+| Go Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405736900 |
+| C++ Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405743313 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405745371 |
