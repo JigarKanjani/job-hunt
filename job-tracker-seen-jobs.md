@@ -4405,3 +4405,16 @@
 | BMO Capital Markets Investment Banking Analyst, Calgary – Fa | BMO | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406816480 |
 | Plumbing - Part Time Customer Service Associate | RONA | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4406817247 |
 | personal banking associate | BMO | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405880043 |
+| Procurement Specialist (IT) - Senior | Recutify Inc. | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=67f7ce9467c61854 |
+| Lead Data analyst | VeeRteq Solutions Inc. | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=3cf596e0c940fc3d |
+| Network Analyst | Agilus Work Solutions | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405727823 |
+| Corporate Education - Learning Specialist | PBS Systems | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4404140917 |
+| Community and Social services worker | Community Kitchen Program | 2026-04-25 | N | https://ca.indeed.com/viewjob?jk=28bde2bf9d1d84ec |
+| Intermediate Front-End React Developer | atVenu | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=96f29b858596c2f5 |
+| OT Server Specialist | Atlantis IT Group | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=9eb268c7cf2e7f6b |
+| IT Technical Business Analyst - Intermediate | Recutify Inc. | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=c205be9c55ff4389 |
+| Techincal Developer Mulesoft | Recutify Inc. | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=995f2787508540d6 |
+| Remote :: Java Developer with GCP :: JD | Volgo Technologies | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=e5de220095fa3577 |
+| Business Intelligence Analyst - Intermediate - 703 | Recutify Inc. | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=6ea4ba9196db2c39 |
+| Python Developer | Atlantis IT Group | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=440f7a8cb4dc2032 |
+| Administrative Support III | Alberta Health Services | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405744090 |
