@@ -4418,3 +4418,16 @@
 | Business Intelligence Analyst - Intermediate - 703 | Recutify Inc. | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=6ea4ba9196db2c39 |
 | Python Developer | Atlantis IT Group | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=440f7a8cb4dc2032 |
 | Administrative Support III | Alberta Health Services | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405744090 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-25 | J | https://ca.indeed.com/viewjob?jk=bb558cdad2397114 |
+| Business Analyst and Organizational Management Specialist | ENMAX | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405749262 |
+| Business Solutions Analyst | ENMAX | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405752209 |
+| Enterprise Architect | ENMAX | 2026-04-25 | J | https://www.linkedin.com/jobs/view/4405748268 |
+| Administrative Assistant | Hull Services | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4404159292 |
+| Turtle Lodge – Night Counsellor | Hull Services | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4404151836 |
+| Mountainside – Child and Youth Care Counsellor | Hull Services | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4404163080 |
+| Turtle Lodge – Child and Youth Care Counsellor | Hull Services | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4404146882 |
+| Summer Recreation Worker | Hull Services | 2026-04-25 | N | https://www.linkedin.com/jobs/view/4404142965 |
+| Freelance WordPress Developer (Casual, Remote) | See Girl Work | 2026-04-25 | R | https://ca.indeed.com/viewjob?jk=52bb440b6a5ce81e |
+| Go Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405736900 |
+| C++ Developer | Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405743313 |
+| Financial Analyst (Remote) | Jobs Ai | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4406856276 |
