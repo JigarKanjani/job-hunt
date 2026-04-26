@@ -4462,3 +4462,7 @@
 | Client Care Coordinator | Juvea Aesthetics | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=92d4827935efe3a9 |
 | Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=34d1c4eee18a644c |
 | Financial Controller | Tiller Digital | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4407111127 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=6f9a99c855954f5d |
+| Game Data Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407121315 |
+| Shopify Developer (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407120359 |
+| Golang Developer (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407109417 |
