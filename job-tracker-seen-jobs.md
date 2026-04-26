@@ -4482,3 +4482,10 @@
 | RELIEF RESIDENT WORKER | McMan Youth, Family and Community Servic | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4405919905 |
 | Medium Voltage Commissioning Specialist | Spartan Controls | 2026-04-26 | R | https://ca.indeed.com/viewjob?jk=0af65c06e658cf49 |
 | YOUTH DEVELOPMENT COORDINATOR | McMan Youth, Family and Community Servic | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4405917915 |
+| property management operations coordinator | AM PM Properties Inc | 2026-04-26 | J | https://www.linkedin.com/jobs/view/4407129985 |
+| Beauty Advisor - Part Time | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=65de2691d0ae89ac |
+| Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=9e164d8e47fe6724 |
+| Beauty Advisor - Part Time | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=c75cff4ca1811e67 |
+| Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=ad3e25aa035440c2 |
+| Parttime Estimator and Administrative Assistant | Cornerstone Masonry and Exteriors Ltd. | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4405935901 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4405915952 |
