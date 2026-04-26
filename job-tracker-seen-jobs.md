@@ -4470,3 +4470,7 @@
 | Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=7e98c0c6d45aa49d |
 | Risk Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407111488 |
 | Marketing Communications Specialist | Nanalysis | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4403649951 |
+| Careers & WIL Advisor, Faculty of Science | University of Calgary | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=0e221c1695aa4e9c |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=01ba3cd76d59381d |
+| Data Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407135064 |
+| Careers & WIL Advisor, Faculty of Science | University of Calgary | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4407138076 |
