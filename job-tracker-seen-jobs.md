@@ -4469,3 +4469,4 @@
 | Crisis Operations Program Manager (Remote) | Jobs Ai | 2026-04-26 | J | https://www.linkedin.com/jobs/view/4407108492 |
 | Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=7e98c0c6d45aa49d |
 | Risk Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407111488 |
+| Marketing Communications Specialist | Nanalysis | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4403649951 |
