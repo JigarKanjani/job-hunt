@@ -4476,3 +4476,9 @@
 | Careers & WIL Advisor, Faculty of Science | University of Calgary | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4407138076 |
 | Merchandising Crew Associate | Shoppers Drug Mart | 2026-04-26 | G | https://ca.indeed.com/viewjob?jk=db8169c352449d6c |
 | Clinic Operations Coordinator | The Holistic Institute of Health and Fer | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4405064501 |
+| Renovation Lead Hand | NJL Construction | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=5d6c7b00e37f1656 |
+| Data Analyst | ADF Medical | 2026-04-26 | J | https://www.linkedin.com/jobs/view/4407138674 |
+| YOUTH DEVELOPMENT COORDINATOR (AWAKE OVERNIGHT) | McMan Youth, Family and Community Servic | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4405927806 |
+| RELIEF RESIDENT WORKER | McMan Youth, Family and Community Servic | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4405919905 |
+| Medium Voltage Commissioning Specialist | Spartan Controls | 2026-04-26 | R | https://ca.indeed.com/viewjob?jk=0af65c06e658cf49 |
+| YOUTH DEVELOPMENT COORDINATOR | McMan Youth, Family and Community Servic | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4405917915 |
