@@ -4474,3 +4474,5 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=01ba3cd76d59381d |
 | Data Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407135064 |
 | Careers & WIL Advisor, Faculty of Science | University of Calgary | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4407138076 |
+| Merchandising Crew Associate | Shoppers Drug Mart | 2026-04-26 | G | https://ca.indeed.com/viewjob?jk=db8169c352449d6c |
+| Clinic Operations Coordinator | The Holistic Institute of Health and Fer | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4405064501 |
