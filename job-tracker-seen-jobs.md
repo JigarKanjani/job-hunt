@@ -4466,3 +4466,6 @@
 | Game Data Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407121315 |
 | Shopify Developer (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407120359 |
 | Golang Developer (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407109417 |
+| Crisis Operations Program Manager (Remote) | Jobs Ai | 2026-04-26 | J | https://www.linkedin.com/jobs/view/4407108492 |
+| Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=7e98c0c6d45aa49d |
+| Risk Analyst (Remote) | Jobs Ai | 2026-04-26 | R | https://www.linkedin.com/jobs/view/4407111488 |
