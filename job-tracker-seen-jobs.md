@@ -4460,3 +4460,5 @@
 | Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-04-25 | R | https://www.linkedin.com/jobs/view/4405769345 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-25 | G | https://www.linkedin.com/jobs/view/4405792005 |
 | Client Care Coordinator | Juvea Aesthetics | 2026-04-26 | J | https://ca.indeed.com/viewjob?jk=92d4827935efe3a9 |
+| Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=34d1c4eee18a644c |
+| Financial Controller | Tiller Digital | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4407111127 |
