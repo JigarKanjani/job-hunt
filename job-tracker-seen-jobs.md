@@ -4505,3 +4505,8 @@
 | CS Specialist (Entry-Level) | Spocket | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405968194 |
 | Cost Controller | AtkinsRéalis | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407159971 |
 | Cost Controller | AtkinsRéalis | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407168839 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=e406cec0c9092f82 |
+| Personal Procurement & Research Specialist – AI Training & I | Crossing Hurdles | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4404684375 |
+| Product & Service Comparison Analyst – Data-Driven Consumer  | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404692353 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404687941 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407184429 |
