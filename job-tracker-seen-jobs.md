@@ -4501,3 +4501,7 @@
 | Implementation Specialist | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=b4342211e79346d8 |
 | Staff Developer | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=89973ac23389a6ad |
 | Staff Developer | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=cba54b916ef05b37 |
+| Senior Administrative Assistant | Cushman & Wakefield | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4407172790 |
+| CS Specialist (Entry-Level) | Spocket | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405968194 |
+| Cost Controller | AtkinsRéalis | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407159971 |
+| Cost Controller | AtkinsRéalis | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407168839 |
