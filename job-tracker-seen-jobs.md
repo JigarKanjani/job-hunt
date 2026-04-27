@@ -4518,3 +4518,12 @@
 | Financial Analyst | Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404687941 |
 | Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407423614 |
 | Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407412256 |
+| Supply Chain Manager | TEEMA Group | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=2ea5e871989864e7 |
+| Leader, Business and Technical Services | City of Calgary | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405993316 |
+| Marketing Coordinator, Streetside | StreetSide Developments Calgary | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4405829131 |
+| Client Intake Coordinator | Calgary Meals on Wheels | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4405987826 |
+| Site Administrator | Browns Industrial Services | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=52400d963c1b7728 |
+| Summer Job - Human Resources Administrator | YMCA of Northern Alberta | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=ba6478d3adcaf692 |
+| Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405990307 |
+| Human Resources (HR) Associate 1 | City of Calgary | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=0ea83ebf650aaf54 |
+| Project Scheduler | Manpower Alberta | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406205534 |
