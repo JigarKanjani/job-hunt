@@ -4527,3 +4527,19 @@
 | Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405990307 |
 | Human Resources (HR) Associate 1 | City of Calgary | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=0ea83ebf650aaf54 |
 | Project Scheduler | Manpower Alberta | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406205534 |
+| Controls/Engineer Specialist | Omega 365 | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=918f7a61f8995eb3 |
+| Recruitment Coordinator | City of Edmonton | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=fc8345112c5142de |
+| Operations Logistics Coordinator | RGO | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=b8f89c6e8e4ed781 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=96192a05d7d93f21 |
+| Purchasing Coordinator | IKO North America | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405134428 |
+| Project Coordinator | Avia NG Airport Consultants | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406210389 |
+| Ecommerce Content Coordinator | UFA | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405055048 |
+| Lead Specialist - SAP FICO - AP/AR/GL/TR | Parkland Corporation | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406218125 |
+| Lead Specialist - SAP FICO - AP/AR/GL/TR | Parkland Corporation | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406213278 |
+| Administration & Marketing Coordinator | Community Futures Lac La Biche | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=3db5b833e1c91fdd |
+| Client Care Coordinator / Physiotherapy Assistant | Euro Physical Therapy Lethbridge | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=4b1f7230e41cbc3d |
+| Program Manager | Epsilon Solutions Ltd. | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4407448691 |
+| Analyst, Early Talent Acquisition | Deloitte | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4405998730 |
+| Community Engagement Coordinator | Open Door Group | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406201844 |
+| IT Support Technician | EmployAbilities | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=15b740ea6aa2b4e6 |
+| Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405990307 |
