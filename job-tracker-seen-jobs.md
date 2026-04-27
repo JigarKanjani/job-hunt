@@ -4510,3 +4510,11 @@
 | Product & Service Comparison Analyst – Data-Driven Consumer  | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404692353 |
 | Financial Analyst | Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404687941 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407184429 |
+| Controls/Engineer Specialist | NSBOmega Guyana Inc. | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407421519 |
+| OpenClaw Specialist (Remote) | Hire Feed | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407405502 |
+| AI Agent Developer (Remote) | Hire Feed | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407416229 |
+| OpenClaw Agent Developer (Remote) | Hire Feed | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407417320 |
+| Rubric Developer (Remote) | Hire Feed | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407421260 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4404687941 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407423614 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407412256 |
