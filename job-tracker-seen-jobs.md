@@ -4543,3 +4543,30 @@
 | Community Engagement Coordinator | Open Door Group | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406201844 |
 | IT Support Technician | EmployAbilities | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=15b740ea6aa2b4e6 |
 | Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405990307 |
+| U.S. Sales & Operations Coordinator (Frozen Asian Food / CPG | H & M Food Ltd | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=c6f4732900fb0b6b |
+| Junior Supply Chain Expeditor | GN2 Engineering | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=370ac39ca3f467db |
+| Project Controls Analyst | Suncor Energy | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=7ffa543c54345c1c |
+| Supply Chain Specialist | Gradient Thermal Inc. | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406208901 |
+| Senior Deskside Analyst | National Bank of Canada | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407487237 |
+| Community Administrator | BGO | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=a7017e3dba400d1c |
+| Service Administrator | Chamco Industries | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=da4dc8c980c59268 |
+| Comms & Industry Engagement Coordinator | University of Alberta | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=6d0faaa2153c38d6 |
+| Indigenous & Community Relations Specialist | Suncor Energy | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=68f6e9171d86a7c7 |
+| Senior Advisor, Indigenous & Community Relations | Suncor Energy | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=47c76deef9266d2b |
+| Program Manager-Zelle | Ampstek | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406217269 |
+| Zelle Program Manager | Ampstek | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406209878 |
+| Administrative Assistant | Rural Routes to Climate Solutions | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406234058 |
+| Laboratory Analyst | Chief Medical Supplies Ltd. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=203ea28bcaa246c3 |
+| Regulatory Coordinator | Alberta Society of Professional Biologis | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=448d40d7e7188ab0 |
+| Temporary Wholesale Pricing Administrator | Suncor Energy | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=d8563d34e5c45cf3 |
+| Business Systems Analyst (Oil & Gas) | Airswift | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405158279 |
+| Commercial Analyst | InSync Systems | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4406214269 |
+| Licensed Real Estate Agent | Ken Rigel Group | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=7aa7c06b931d7d94 |
+| Customer Experience Associate | TD | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=96375113e879925a |
+| Leasing Agent | WestUrban Properties Management | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=b1ce0401564e5d94 |
+| Scheduler | Aecon Group Inc. | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=5cee19917d54ac18 |
+| Summer Administrative Support | Mount Royal University | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405131862 |
+| Front Desk Associate, Pavilion Cowork, Calgary | Pavilion Cowork | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406227212 |
+| Project Controls Coordinator | JSG (Johnson Service Group, Inc.) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405169087 |
+| Investly Business Development Associate - Calgary | Fidelity Canada | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405135770 |
+| Coordinator, Practice Group Billing | Borden Ladner Gervais LLP (BLG) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406230027 |
