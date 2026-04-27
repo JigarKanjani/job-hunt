@@ -4489,3 +4489,8 @@
 | Beauty Advisor - Flex | Sephora | 2026-04-26 | N | https://ca.indeed.com/viewjob?jk=ad3e25aa035440c2 |
 | Parttime Estimator and Administrative Assistant | Cornerstone Masonry and Exteriors Ltd. | 2026-04-26 | N | https://www.linkedin.com/jobs/view/4405935901 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-26 | G | https://www.linkedin.com/jobs/view/4405915952 |
+| Pricing & Contracts Analyst | Gibson Energy | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=2092254c3da04361 |
+| Royalty Analyst | Indian Oil and Gas Canada | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405945397 |
+| Remote Client Support and Sales Coordinator | REBIRTH | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=db56add800b57a6d |
+| (CAN) General Merchandise Associate | Walmart | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=4704b7d767abee94 |
+| Junior Project Controller | Turner & Townsend | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405959288 |
