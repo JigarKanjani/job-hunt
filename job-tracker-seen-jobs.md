@@ -4570,3 +4570,58 @@
 | Project Controls Coordinator | JSG (Johnson Service Group, Inc.) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405169087 |
 | Investly Business Development Associate - Calgary | Fidelity Canada | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405135770 |
 | Coordinator, Practice Group Billing | Borden Ladner Gervais LLP (BLG) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406230027 |
+| Purchasing Coordinator | IKO Industries | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=a01453e1d098c61a |
+| Procurement Specialist | Valard Construction | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=a98947a18e15c228 |
+| Controls Engineer-Specialist III | Pantheon Inc. | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=1299af9b545e424a |
+| Human Resources Coordinator | Calgary Homeless Foundation | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=722d45d668dcfb9f |
+| Analyst, Recycling Program Reporting - Remote | Circular Materials | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=36206e69a1502ed7 |
+| Guest Services Leader | Pilot Flying J | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=3cae629283402198 |
+| Sourcing Manager - Pet Category | NewAge Products Inc. | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=42e985c10626f7b4 |
+| Site Coordinator | AGF Group | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=21d4a3ca5bc110bd |
+| Administrative Team Lead | Prospect Human Services | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=3036ad02f73eb828 |
+| Data Security Analyst | Bow Valley College | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=f0939e708d0522fa |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=f29e0d7c017581ef |
+| Material Distribution Coordinator | Samaritan's Purse Canada | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406236271 |
+| Project Procurement Manager, EPCM (Contract) | Brunel | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407494510 |
+| Procurement Specialist | Valard Construction | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407514015 |
+| Data Analyst, Physiology & Pharmacology | University of Calgary | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407500539 |
+| Player Relations Coordinator | Calgary Sport & Social Club | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4406238324 |
+| Revenue Operations Proposal Associate | Strategic Risk Solutions | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405168612 |
+| Program Manager, Legal and Compliance | Hexagon Autonomous Solutions | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407499436 |
+| Application Support Analyst | Helical Pile Solutions Ltd. | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407532434 |
+| Senior Advisor Program Planning and Optimization | Enbridge | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4405184281 |
+| Team Lead, Business Applications | Helical Pile Solutions Ltd. | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407533319 |
+| Lead Specialist - SAP FICO - AP/AR/GL/TR | Parkland Corporation | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407501219 |
+| General Booking - Patient Experience Coordinator | Mayfair Diagnostics | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=1ef7506894474283 |
+| Community Engagement Coordinator | Open Door Group | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=c2d1f793c5fc3322 |
+| Community Support Worker | new age services | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=566ac0297c20ad2c |
+| Payroll Coordinator/ Finance Support | Mikisew Awasis Kisiwatsowin Society | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=65a8ca654f05d934 |
+| Building Operations Coordinator / Concierge | Catalyst Condo Management | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=a28dd19372078ec5 |
+| Administrative Assistant | Aerotek | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4405175227 |
+| Clinical Coordinator | Snore MD | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4407510450 |
+| Project Control Specialist | Indotronix International Corporation | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4407473962 |
+| Senior Financial Advisor - McKenzie Towne, Calgary, AB | Scotiabank | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4406219516 |
+| VOCR-Vocational Specialist | Lifemark Health Group | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4405175474 |
+| SharePoint Administrator | Helical Pile Solutions Ltd. | 2026-04-27 | N | https://www.linkedin.com/jobs/view/4407530270 |
+| Fish Processor | Centennial Food Solutions | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=6b593011678af323 |
+| Transaction Specialist | Kelly Services (Canada), Ltd. | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4406235148 |
+| Analyst- Financial | Western Financial Group | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4405163600 |
+| Help Desk Level 2 | Akkodis | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4406223655 |
+| HR Analyst | Mount Royal University | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407491280 |
+| ALA - Financial Analyst | AltaGas Ltd. | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4406233523 |
+| Editorial & Production Coordinator | MIDCURRENT | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4406211430 |
+| Labour Relations Specialist | The Salvation Army in Canada | 2026-04-27 | R | https://www.linkedin.com/jobs/view/4407510241 |
+| Administrative Assistant | Prairie Sky Strategy | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=6bfc0a95e1bfc3b0 |
+| Administrative Support | Enercare | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=c45ebe99f661c69d |
+| Front Desk Receptionist - Client Concierge | Flirt Cosmetics Studio | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=ec9205afc43d7a51 |
+| Investly Business Development Associate - Calgary | Fidelity Canada | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=c3050c76112d241a |
+| Administrative Support | Enercare Inc. | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407539240 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406215707 |
+| Customer Experience Associate | TD | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407513185 |
+| Customer Experience Associate | TD | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407505240 |
+| Rental Sales Agent - Part time | Avis Budget Group | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406226358 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405168713 |
+| HR & Office Administration Summer Student | Edon Management | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405193140 |
+| Community Administrator | BGO | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406227621 |
+| UService Service Advisor | University of Calgary | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407519249 |
+| Planner/Scheduler | JSG (Johnson Service Group, Inc.) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405153479 |
