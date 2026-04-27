@@ -4494,3 +4494,10 @@
 | Remote Client Support and Sales Coordinator | REBIRTH | 2026-04-27 | N | https://ca.indeed.com/viewjob?jk=db56add800b57a6d |
 | (CAN) General Merchandise Associate | Walmart | 2026-04-27 | G | https://ca.indeed.com/viewjob?jk=4704b7d767abee94 |
 | Junior Project Controller | Turner & Townsend | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405959288 |
+| Commercial Accounts Coordinator - Automotive | eBlock, Inc. | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=7777c8222ffe5b28 |
+| Commercial Accounts Coordinator - Automotive | eBlock, Inc. | 2026-04-27 | J | https://ca.indeed.com/viewjob?jk=3b150fcab46888d6 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-04-27 | J | https://www.linkedin.com/jobs/view/4407167454 |
+| Implementation Specialist | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=e56735a50239c204 |
+| Implementation Specialist | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=b4342211e79346d8 |
+| Staff Developer | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=89973ac23389a6ad |
+| Staff Developer | eBlock, Inc. | 2026-04-27 | R | https://ca.indeed.com/viewjob?jk=cba54b916ef05b37 |
