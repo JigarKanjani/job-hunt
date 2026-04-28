@@ -4662,3 +4662,12 @@
 | Administrator - Vice-Principal Trinity Christian School | Palliser School Division | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=1fbf062b76b3b9b1 |
 | Administrative Assistant to the AVP | Mount Royal University | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405192500 |
 | Health & Safety Coordinator - FIFO from Western Canada | Hecla Mining Company | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406240677 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=f14fdd6582d59e6a |
+| Admin Operations Specialist – Executive Support & AI Systems | Crossing Hurdles | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406297095 |
+| Facilities Coordinator - Corporate Services | Graham Construction | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=ea211edac286fd50 |
+| Senior Administrative Assistant | Raytheon | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4407824076 |
+| Senior Program Manager (Remote - Canada) | Inviso | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4406284654 |
+| Analyst, Programmer - 12-Month Contract | Trimac | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=8cec1fdbb34412e9 |
+| Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406503032 |
+| Technical Support & Customer Success Analyst – AI Workflow E | Crossing Hurdles | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406501241 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406501122 |
