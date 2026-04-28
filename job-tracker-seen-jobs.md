@@ -4625,3 +4625,40 @@
 | Community Administrator | BGO | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4406227621 |
 | UService Service Advisor | University of Calgary | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4407519249 |
 | Planner/Scheduler | JSG (Johnson Service Group, Inc.) | 2026-04-27 | G | https://www.linkedin.com/jobs/view/4405153479 |
+| HR Business Partner - Operations | De Havilland Aircraft of Canada Ltd | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=6da8cbbda61b6a62 |
+| Business Intelligence Specialist | Ledcor | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=e08dc3cec77ec96c |
+| Inventory Analyst | Fountain Tire | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=02eafb5d19c8c1a8 |
+| Inventory Analyst | Fountain Tire | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=d2c5dec25ed62a08 |
+| Application Analyst | ALBERTA CONSTRUCTION SAFETY ASSOCIATION | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=4a728fdbfdaa3056 |
+| Marketing Coordinator (term), Qualico Properties | Qualico | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=61310ec061751f71 |
+| Program Coordinator, Wellness | Canadian National Institute for the Blin | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=af24464ee6d5e9d9 |
+| Project Coordinator - RMWB | OCL Group Inc. | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=5a82cd92cffd6f78 |
+| Category Manager (eCommerce) | BIS Safety Software | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=c3195f6d67415c76 |
+| Organizational Effectiveness Specialist (12-Month Contract) | Fasken | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406255490 |
+| Business Intelligence Specialist | Ledcor | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407540692 |
+| Solution Specialist | Stantec | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407565765 |
+| Senior SAP Functional Specialist | CPKC | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407563903 |
+| Procurement and Financial Administrator | Mount Royal University | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405190651 |
+| Finance Transformation, Enterprise Performance Management, S | PwC Canada | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407539628 |
+| Community Support Worker PT | Calgary Alternative Support Services | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=cc8452171dce47a9 |
+| VOCR-Vocational Specialist | Lifemark Health Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=d2242fa3a6a98f7c |
+| Service Advisor | Charlesglen Toyota | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=cd2450e4dc4df640 |
+| Content Distribution Sales and Marketing Coordinator | Super Channel Entertainment Network | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=ec2c106121995cdc |
+| Freelance Influencer Coordinator | We Are Social | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=6f88a69a6e63f6ce |
+| Program Manager, Energy Efficiency and Renewables/ Responsab | Canadian Standards Association | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4407551127 |
+| Technical Training Specialist II | Resideo | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4407548866 |
+| Specialist Quality Assurance | CPKC | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=f2892ea32e58814b |
+| Laboratory Analyst | ALS Global | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=5025198857719d52 |
+| Government and Institutional Reporting Analyst | Lethbridge Polytechnic | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=75a915fbd734fa00 |
+| Business Intelligence Specialist | Ledcor | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=ec125be038ce1a00 |
+| Business Data Analyst | Explore Edmonton | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=2456d4ec2d7efbb3 |
+| Business Partner, Marketing Intelligence & Strategy | Travel Alberta | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=7f9f89112bd48bda |
+| Tourism Data & Insights Analyst | Travel Alberta | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=848d2b7d7fd9760c |
+| GIS Analyst | Onterris | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=1565373cca2a18ec |
+| Marketing Data Science Specialist | Superior Propane | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=86a1cfa1b04b1783 |
+| Process Engineer | Adecco | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406248440 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4407567524 |
+| Customer Experience Associate | TD | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=831198cf1dfb1c24 |
+| Administrator - Vice-Principal Trinity Christian School | Palliser School Division | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=1fbf062b76b3b9b1 |
+| Administrative Assistant to the AVP | Mount Royal University | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405192500 |
+| Health & Safety Coordinator - FIFO from Western Canada | Hecla Mining Company | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406240677 |
