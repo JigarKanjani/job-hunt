@@ -4703,3 +4703,18 @@
 | Associate – Corporate Finance & M&A | ElkLake Partners | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405583281 |
 | Internal Project Controller | CIMA+ | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4407888891 |
 | Compliance Associate | Ventum Financial | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405584166 |
+| System Specialist | Canlin Energy Corporation | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=a67cc3dbff20e8be |
+| Project Coordinator | Amrize | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=8d79962c67ae1c81 |
+| HSE Advisor - Alberta South | Canlin Energy Corporation | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=47629f41ca0564dc |
+| Project Coordinator - Student | Graham Construction | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=03e8bd6490fd6376 |
+| Customer Service Associate - Lumber & Building Materials | RONA | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408021720 |
+| Project Coordinator - Rail & Transit | AECOM | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405039379 |
+| Front Desk Care Coordinator | Lifemark Health Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=f44ab0419156f921 |
+| Student Financial Advisor | New West College | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4408038749 |
+| Policy Advisor | PETRONAS Canada | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4408027624 |
+| Novice Quality Assurance Analyst | atVenu | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4408029588 |
+| ServiceNow SPM Developer - Strategic Portfolio Management | EY | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4405573898 |
+| ServiceNow Business Process Consultant - ITSM AND HRSD | EY | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4405578840 |
+| High School Office Secretary | STEM Innovation Academy | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406594228 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406584744 |
+| Customer Service Associate- Paint | RONA | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4408027609 |
