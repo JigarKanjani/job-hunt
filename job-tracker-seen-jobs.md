@@ -4671,3 +4671,35 @@
 | Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406503032 |
 | Technical Support & Customer Success Analyst – AI Workflow E | Crossing Hurdles | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406501241 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406501122 |
+| Project Lead - Alberta Sheriffs Police Service | Government Of Alberta | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=56e26b1bfdc08463 |
+| Residential Claims Advisor II | TD | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=510ffb5bd09ccf02 |
+| Residential Claims Advisor II | TD | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=8b85742bce6783b8 |
+| Senior Advisor, Advisory Councils | Government Of Alberta | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=67aa0dbbd34ffb85 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=8f820b3da783918a |
+| Master Planner | Global Partner Solutions | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408001318 |
+| Front Desk Care Coordinator | Lifemark Health Group | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405556931 |
+| Marketing and Pricing Analyst | Superior Gas Liquids | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405568751 |
+| Controls Engineer  /  Specialist III | Agilus Work Solutions | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406570220 |
+| Project Coordinator - Construction | Sarina Homes | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407899218 |
+| Project Coordinator | Amrize | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405567964 |
+| HS&E Coordinator | Ledcor | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406522695 |
+| Operations Supervisor - Commercial Real Estate | JRoss Retail Recruiters | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408010163 |
+| Pension & Benefits Advisor | TransAlta | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407887903 |
+| Accounts Payable Coordinator 3-month contract | Xerxes | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407893042 |
+| Marketing Coordinator | CIR REALTY | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4407888957 |
+| Proposals and Bids Coordinator | Carmichael Engineering | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=7a0661aab5e66520 |
+| Senior Advisor, Market Compliance | TransAlta Corporation | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=0bb6a88021202c81 |
+| Pension & Benefits Advisor | TransAlta Corporation | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=901f852c1e655679 |
+| Settlements Analyst | TransAlta Corporation | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=625be3a5deb1bc66 |
+| Construction Project Administrator | Brava Development Corp. | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=f7a594d370f03f32 |
+| Virtual Financial Advisor - Brookfield Place Calgary | Scotiabank | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=5ac75ff81808ae25 |
+| Financial Advisor/ Senior Financial Advisor - TransCanada | Servus Credit Union | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4406581385 |
+| Marketing Communications Coordinator | Alberta Women Entrepreneurs | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4407526409 |
+| Mining Application Specialist - MineStar - Early Career | Caterpillar | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=0d3da748450df7f3 |
+| Data Analyst | Vintri Technologies | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=2b758a1f0f99ea08 |
+| I&T Resiliency and Data Governance Specialist | ENMAX | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406585108 |
+| Corporate Security Analyst | Clio | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406571703 |
+| Web3 Hedge Fund and Strategy Analyst (Remote-Canada) | Triumph Capital | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4405579065 |
+| Associate – Corporate Finance & M&A | ElkLake Partners | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405583281 |
+| Internal Project Controller | CIMA+ | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4407888891 |
+| Compliance Associate | Ventum Financial | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4405584166 |
