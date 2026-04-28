@@ -4718,3 +4718,46 @@
 | High School Office Secretary | STEM Innovation Academy | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406594228 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4406584744 |
 | Customer Service Associate- Paint | RONA | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4408027609 |
+| New Grad Trainee - Operations | Bison Transport | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=e04d68781807bad0 |
+| Construction Project Coordinator/Field Personnel | CTM Design Services Ltd. | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=6d73386247176a1f |
+| Distribution Logistics Coordinator | FMC Corporation | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=0c6ee598d85c6aa2 |
+| Strategic Sourcing Analyst | SGS | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=449b850ce0d7b574 |
+| Project Coordinator | York Realty Inc | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=88cefc81c7e0a6de |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-28 | J | https://ca.indeed.com/viewjob?jk=8c650f5b5dbbac1b |
+| Business Analyst – Microsoft Dynamics 365 | Enterprise Solutions Inc. | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406598685 |
+| Volume Planner | TC Energy | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405597321 |
+| Material Coordinator | ZealoTech People | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406595735 |
+| System Specialist | Canlin Energy Corporation | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408039641 |
+| Procurement Manager | DSJ Global | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406001090 |
+| Cost Controls Specialist | Airswift | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4405589472 |
+| Rail Logistics Scheduler | Superior Gas Liquids | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406006028 |
+| Analyst, IT Business - Information Technologies | University of Calgary | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408061069 |
+| Project Coordinator - Student | Graham | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408057736 |
+| HSE Advisor - Alberta South | Canlin Energy Corporation | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408053128 |
+| Data Annotation Specialist, Engineering | Cohere | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406590934 |
+| Lead Data Engineer- GCP | Mphasis | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4408057780 |
+| Temporary Associate Product Program Manager (18 months)  - C | Entrust | 2026-04-28 | J | https://www.linkedin.com/jobs/view/4406908053 |
+| Client Experience Coordinator | MK Auto Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=54eb8981d989c3ed |
+| Native Outreach Worker- Temporary | Calgary Catholic Immigration Society | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=a28730e48c6b1f61 |
+| Student Financial Advisor | New West College | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=cc6c816605c138cf |
+| Insurance Advisor | Westland Insurance Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=85e8c13c6173d392 |
+| I&T Resiliency and Data Governance Specialist | Enmax | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=cc25ef1f5bb58214 |
+| Location Administrator - Concorde Group | Concorde Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=df72575206fd77e1 |
+| Summer Job - Health, Safety & Child Protection Summer Progra | YMCA of Northern Alberta | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=6daeaf633e3d6d71 |
+| Fleet Asset Administrator | Rising Edge Group | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=944a3a7e1efb66a5 |
+| SALES COORDINATOR | Dick's Lumber & Building Supplies | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=43ab0cec873b6388 |
+| Production Coordinator | Heidelberg Materials | 2026-04-28 | N | https://ca.indeed.com/viewjob?jk=8bbe6bde34592fe3 |
+| Senior Graduate Specialist, Professional Programs, Faculty o | University of Calgary | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4408048300 |
+| Senior Environmental Regulatory Advisor | Jacobs | 2026-04-28 | N | https://www.linkedin.com/jobs/view/4408055680 |
+| Business Analyst - Summer Student | Jori International | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=54b106a494d01316 |
+| IT Coordinator | JOBBER | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=d3db5ea154502110 |
+| Compensation and Job Evaluation Specialist | WCB Alberta | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=792dbe03f5edd122 |
+| Information Security Specialist - Application Security | Wawanesa Insurance | 2026-04-28 | R | https://ca.indeed.com/viewjob?jk=5b4005388221e10c |
+| Power BI Developer | Ideaon | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4408045632 |
+| Mining Technology Implementation Specialist | Finning | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4406906416 |
+| Financial Analyst, Oil Sands Capital Accounting | Cenovus Energy | 2026-04-28 | R | https://www.linkedin.com/jobs/view/4408052866 |
+| Print Production Associate | Process Color Print Ltd | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=b853153a87d92bfb |
+| Contract Administrator - Architecture | CTM Design Services Ltd. | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=6e0e758da1cf8ba1 |
+| OMNI Customer Fulfillment Associate - Temp | Walmart | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=db893529443d00ae |
+| Research Associate, Cell Biology & Anatomy | University of Calgary | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4407504392 |
+| Personal Banking Associate | BMO | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4408057177 |
