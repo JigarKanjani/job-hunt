@@ -4784,3 +4784,5 @@
 | Administrative Support V | Primary Care Alberta | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=ef98b71912f8b2ff |
 | Natural Resources Group – Investment Banking Associate - Cal | JPMorganChase | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=ce60f2dc5115c19f |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4406978031 |
+| Senior Software License Asset Management Analyst | Mount Royal University | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=fa51ce398a9bb486 |
+| Student Project Coordinator – ALA Business and Clinical Supp | Alberta Health Services | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=b51f01c833d7c3e0 |
