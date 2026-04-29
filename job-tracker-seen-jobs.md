@@ -4824,3 +4824,50 @@
 | Market Risk Specialist | Pembina Pipeline Corporation | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408502673 |
 | HR/Payroll Administrator | Tech-Wood Building Components Ltd. | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407018825 |
 | Controller | Brownlee LLP | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407015686 |
+| Supply Chain Support Associate | CO-OP CRS | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=64996bea2b9f38c4 |
+| Team Lead – Marketing Operations Accounting | China National Offshore Oil | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=7ee32778abaef1f7 |
+| Logistics Coordinator | Advantec Global Systems | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=33b7fb5cfb5540da |
+| Operations Coordinator | Umdasch Group | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=5c7546761d65e4e7 |
+| Assistant Event Operations Coordinator | Flash Co. Photo Booth | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=b4572494474b0773 |
+| Licensed Trailer Technician Lead | Day & Ross | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=6ef483835bb7c1e6 |
+| Global Service Desk (GSD) Analyst | Long View Systems | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=c002dd39672d4371 |
+| Program Manager, Continuous Improvement, Supply Chain | Badger Daylighting Inc. | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=462bff8c25bdc915 |
+| Inventory Analyst | Rohit Group | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=a9cbf4ce6ffefe8b |
+| Customer Service Attendant - Yard, Star Building Materials | STAR BUILDING MATERIALS | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=814171e37680d94e |
+| Operations Coordinator | Umdasch Group | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406098795 |
+| Operations Coordinator | Doka | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407041622 |
+| Change Management Specialist | Insight Global | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407027877 |
+| Site Buyer | CertainTeed | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408539425 |
+| Indigenous Engagement Advisor | Northback | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407036676 |
+| Data Analyst, Excel | STRIVE Recruitment Inc. | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408546730 |
+| GTM Operations Analyst, Lead | Benevity | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408553814 |
+| Human Resources Coordinator | PURE Canadian Gaming | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407066129 |
+| Operations and Maintenance Integration Lead | AtkinsRéalis | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408531394 |
+| Operations and Maintenance Integration Lead | AtkinsRéalis | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408526892 |
+| Senior Engineer (Project Electrical Lead) | Kent | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407047884 |
+| Senior Specialist, TSXV Listings | TMX GROUP | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=41753b3779d5479e |
+| Family Services Administrator | McInnis & Holloway Funeral Home | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=8d18c7af7557f010 |
+| Client Service Administrator | Open Door Group | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=18343890d306acc0 |
+| Project Coordinator (PM-2) – Clinical Information Solution P | SQA Canada Inc | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=36793577dc33a444 |
+| Strategic Coordinator, Sport and Recreation | City of Edmonton | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=dce957e03767567c |
+| Intake Coordinator | Lifemark Health Group | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=a8733272ed4c7a62 |
+| Operations Specialist | Leston Holdings (1980) Ltd. | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=84354907c6883b89 |
+| Customer Service Desk Administrative Assistant | Mount Royal University | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4406098648 |
+| Temporary Full-time Administrative Assistant II | Pembina Hills School Division | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407057046 |
+| Branch Care Coordinator | Air Liquide | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408523700 |
+| Financial Advisor, Investment & Retirement Planning - 17th A | Scotiabank | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407045990 |
+| Marketing Coordinator | Calgary Municipal Land Corporation | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407055260 |
+| IT Support Specialist | Homes Alive Pets | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=d6ef127226fcff0f |
+| IT Support Technician - Co-op Opportunity | Southern Alberta Institute of Technology | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=51d55063df227e7d |
+| Global Service Desk (GSD) Analyst | Long View Systems | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=3db1935a61b1ab35 |
+| Data Services Developer Associate (September 2026 - Toronto  | IBM | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4406406493 |
+| Staff Analytics Engineer, Subledger Platform | Affirm | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4407038609 |
+| Apptio Developer | Apptoza Inc. | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4406406061 |
+| ServiceNow Developer | CPKC | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408554385 |
+| Cloud Services Tech Analyst | Calgary Board of Education | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408546585 |
+| Product Marketing Specialist | Pandell, an ESG Company | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408558014 |
+| Staff Analytics Engineer, Subledger Platform | Affirm | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4407033702 |
+| Indigenous Youth Program Facilitator (Full-Time) | TRELLIS SOCIETY FOR COMMUNITY IMPACT | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=4e0253270ae38b10 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407061236 |
+| Customer Experience Associate - Calgary, AB (11.25 hours/wee | Scotiabank | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407047871 |
+| Patent Coordinator | Aplin | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408534610 |
