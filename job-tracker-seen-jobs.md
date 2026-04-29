@@ -4804,3 +4804,23 @@
 | Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=3dd8a778fa4f51db |
 | Regulatory Technician/Advisor | Surge Energy Inc | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407003843 |
 | Personal Banking Associate | BMO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408291361 |
+| Recreational Activities Coordinator | Disabled Sailing Association of Alberta | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=56bace40cf859337 |
+| Supply Chain Manager | Upstream Data Inc | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=fdc29de4679a45fe |
+| Weddings and Events Planner | The Pendennis Weddings and Events | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=0a45302fff35c2a2 |
+| Logistics Coordinator | AdvanTec Marine | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408513039 |
+| Quality Coordinator- EH&S- 12-18 Month Contract | Wajax | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408287931 |
+| Sourcing Manager (Recruitment) | Hays | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408511052 |
+| Operations Analyst | Digital Commerce Group | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407016995 |
+| Jr. Advisor, People Experience | Passion Dental Group | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407023660 |
+| Legal Administrative Assistant - Trademark | Gowling WLG | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407027695 |
+| Payroll & HR Specialist | Parts Canada | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408507008 |
+| Client Service Administrator | Open Door Group | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407043025 |
+| IT Systems & Security Specialist | Pengcorp Ltd. | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4407027706 |
+| Global Service Desk (GSD) Analyst | Long View Systems | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4406083808 |
+| OpenClaw Specialist (Remote) | Quik Hire Staffing | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408509131 |
+| Administrative Assistant - US Tax | Moodys Law Firm | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=17d9fc0831b02d1b |
+| Insurance Agent | EFG | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=f9412475c501aa5b |
+| Customer Service Representative/Route Service Representative | Gateway Services Inc. | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408528051 |
+| Market Risk Specialist | Pembina Pipeline Corporation | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408502673 |
+| HR/Payroll Administrator | Tech-Wood Building Components Ltd. | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407018825 |
+| Controller | Brownlee LLP | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407015686 |
