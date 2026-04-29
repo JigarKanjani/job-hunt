@@ -4777,3 +4777,10 @@
 | OMNI Customer Fulfillment Associate | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=b616f228ba4366ab |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=5e83339ec9ee4c22 |
 | Customer Service Representative - PT | Wood Automotive Group | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408200812 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=09c7e40bdd356e15 |
+| Relief Community Support Worker Day Options | Calgary Alternative Support Services | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=60508215239027dd |
+| Time Entry Administrator, Weekend Shift | North American Construction Group | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=1d48c03a02ad8fe2 |
+| Virtual Financial Advisor - Brookfield Place, Calgary | Scotiabank | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=bab80034e29f7f2e |
+| Administrative Support V | Primary Care Alberta | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=ef98b71912f8b2ff |
+| Natural Resources Group – Investment Banking Associate - Cal | JPMorganChase | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=ce60f2dc5115c19f |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4406978031 |
