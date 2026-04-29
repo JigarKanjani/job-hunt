@@ -4871,3 +4871,46 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407061236 |
 | Customer Experience Associate - Calgary, AB (11.25 hours/wee | Scotiabank | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407047871 |
 | Patent Coordinator | Aplin | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408534610 |
+| Licensed Trailer Technician Lead | Day & Ross | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=5bcd1851e58e08a2 |
+| Branch Care Coordinator | Air Liquide | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=675857ead065e092 |
+| Jr. Advisor, People Experience | Passion Dental Group | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=a899ebce537ab970 |
+| Operations Supervisor | MTE Logistix | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=04a230e158012069 |
+| Buyer | COOEC | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=e33edbbfb4c2fd55 |
+| Contract Specialist | COOEC | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=dadfb91bd1a81c86 |
+| Equipment Projects Coordinator | MDA Auto Solutions Inc | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=fec431f27759ea89 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=a31aabf73bb33a55 |
+| ELECT Program Coordinator | MNA | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=7ba8acd9a74089c5 |
+| Automation Specialist | Orion Steel Group | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=1333847c80f43271 |
+| HR Coordinator | Orion Steel Group | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=08101440c96b7454 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=17ad56313a8fa943 |
+| Business Analyst | Charter | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408574827 |
+| Operations Analyst - Information Technologies | University of Calgary | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408559506 |
+| Transfers Analyst II | ATB Financial | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408574561 |
+| IMAC & IT Asset Management Specialist | Airswift | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406425003 |
+| Lead Electrical Engineer | Airswift | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406421333 |
+| Health Advisor (Hybrid) | Calgary Board Of Education | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=8bedbb89618f046b |
+| Service Advisor – Dalhousie NW | Canadian Tire Corporation, Ltd. | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=86a22eb6c50c950b |
+| Senior Specialist, TSXV Listings | TMX GROUP | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=0bf28187a352a6ed |
+| Commercial Insurance Advisor | HUB International | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=b246d54ea4890d5b |
+| Digital Sales Advisor | Westland Insurance Group | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=1ccca2e84936e252 |
+| HR/Payroll Administrator | Tech-Wood Building Components | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=d251c816e1147461 |
+| Program Coordinator (Summer Student) | Indo Canadian Women's Association | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=95942bc8be08d3bd |
+| Employment Intake and Assessment Coordinator - Gianna Centre | Catholic Social Services | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=56ab56e640b37a40 |
+| Project Coordinator | COOEC | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=675c46855268ac2d |
+| Accounts Payable Coordinator | St John Ambulance | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=9b0b21991784616c |
+| Chamber Operations & Member Services Coordinator | Cold Lake Regional Chamber of Commerce | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=475d6ccb9b66f390 |
+| Administrative Assistant | Co-operators | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408571447 |
+| Administrative Assistant | Apeiron Companies Inc. | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407099043 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4407097143 |
+| Facilities Intake Generalist -Information Technologies | University of Calgary | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408578078 |
+| Service Desk Technician | Edmonton International Airport | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=648d53c83d4ae3fb |
+| Operational Excellence Analyst | Orion Steel Group | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=db6313964535bfef |
+| Operational Excellence Analyst | Orion Steel Group | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=c3b085248c202043 |
+| TECHNICAL SPECIALIST I, STIMULATION LABORATORY SERVICES – (C | Trican Well Service | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=015ec56dcdc2c90f |
+| Customer Service Representative/Route Service Representative | Gateway Services Inc. | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=0e05801d7315f13d |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=769e9bc103547c4c |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=5d5bacdb8ba2f6fd |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=fd14273ce9793d7c |
+| (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=c1db8fe81832dc21 |
+| Leasing & Site Administrator | BGO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407050884 |
+| Personal Banking Associate | BMO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407871519 |
