@@ -4761,3 +4761,19 @@
 | OMNI Customer Fulfillment Associate - Temp | Walmart | 2026-04-28 | G | https://ca.indeed.com/viewjob?jk=db893529443d00ae |
 | Research Associate, Cell Biology & Anatomy | University of Calgary | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4407504392 |
 | Personal Banking Associate | BMO | 2026-04-28 | G | https://www.linkedin.com/jobs/view/4408057177 |
+| Physical Education, Leadership & Outdoor Ed Teacher - 1.0 FT | Foundations for the Future Charter Acade | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=0994fe02fee1827f |
+| Business Analyst | Long View Systems | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406026868 |
+| Enterprise Account Executive - Americas (West) | Ashby | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406939187 |
+| Logistics Operations Supervisor II Canada | Daimler Truck North America | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406027437 |
+| Supervisor, Event Coordination & Operations | ATCO | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406941155 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407573686 |
+| Real Time Analyst | ATCO | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406928867 |
+| Coordinator, Event Operations | ATCO | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4406934273 |
+| Centre Coordinator | Alberta Motor Association | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=88171ea983772882 |
+| Temporary Full-time Administrative Assistant II | Pembina Hills School Division | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=42af483ff881ebb6 |
+| home support worker | Golden Home Caregivers Corp. | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408215211 |
+| React UI Developer | Synechron | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4375584281 |
+| Signature Programs Specialist | Canadian Cancer Society | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4404473752 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=b616f228ba4366ab |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=5e83339ec9ee4c22 |
+| Customer Service Representative - PT | Wood Automotive Group | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408200812 |
