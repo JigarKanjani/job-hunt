@@ -4791,3 +4791,16 @@
 | Sophomore Summer Business Analyst Intern | McKinsey & Company | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=363ed040c019a787 |
 | AI Agent Developer (Remote) | Jobs Ai | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408259601 |
 | Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408259618 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=1b4bb11692196992 |
+| Operations Supervisor | Loomis Express | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408298317 |
+| Project Coordinator, Multi-Family Construction - Permanent - | Parker Huggett - A Division of LRO Staff | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4408502284 |
+| Accounts Payable Coordinator (Remote) | Waste Solutions | 2026-04-29 | J | https://www.linkedin.com/jobs/view/4407013602 |
+| Calgary Police Service - Rewards and Recognition Coordinator | City of Calgary | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=c5a8dca9d5766ec8 |
+| Patient Care Coordinator | Pivotal Physiotherapy | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=057924d1c8a8453b |
+| IT Service Desk Technician | Streamline I.T. Solutions Inc | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=dc60146f8abfbd05 |
+| Web3 DeFi, NFT and Metaverse Ecosystem Specialist (Remote-Ca | DesiverseDAO | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408265856 |
+| [REMOTE] Artifact Expert - Financial Analyst & IB - $80-$120 | Talent Wall | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4406098140 |
+| Administrative Assistant (Summer Position with Potential for | Energize Health | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=42134fd85ab72e06 |
+| Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=3dd8a778fa4f51db |
+| Regulatory Technician/Advisor | Surge Energy Inc | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407003843 |
+| Personal Banking Associate | BMO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4408291361 |
