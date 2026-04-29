@@ -4786,3 +4786,8 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4406978031 |
 | Senior Software License Asset Management Analyst | Mount Royal University | 2026-04-29 | J | https://ca.indeed.com/viewjob?jk=fa51ce398a9bb486 |
 | Student Project Coordinator – ALA Business and Clinical Supp | Alberta Health Services | 2026-04-29 | N | https://ca.indeed.com/viewjob?jk=b51f01c833d7c3e0 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408254676 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-04-29 | N | https://www.linkedin.com/jobs/view/4408262344 |
+| Sophomore Summer Business Analyst Intern | McKinsey & Company | 2026-04-29 | R | https://ca.indeed.com/viewjob?jk=363ed040c019a787 |
+| AI Agent Developer (Remote) | Jobs Ai | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408259601 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-04-29 | R | https://www.linkedin.com/jobs/view/4408259618 |
