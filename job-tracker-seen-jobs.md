@@ -4976,3 +4976,7 @@
 | Golang Developer | $80/hr Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407337553 |
 | Administrative Support IV | Alberta Health Services | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=2f6be68f0c6d29cb |
 | ( CAN) OMNI Customer Fulfillment associate | Walmart | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=d52a6b71547c8bae |
+| Technical Support Analyst | Lumen IT | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=55135dafda086d7b |
+| Manger, National Claims Casualty Vendor Program | Allstate Insurance | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=0212b3f367640642 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Front Desk Agent | Hotel Arts Group | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=8bada903980d9c78 |
