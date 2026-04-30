@@ -4956,3 +4956,12 @@
 | Security Program Manager - Healthcare | Paladin Security | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=dbc0aab939b7e970 |
 | Customer Experience Associate | TD | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408718487 |
 | Customer Experience Associate | TD | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408713568 |
+| Junior Analyst | High Tide | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=17edbe0a1da253f0 |
+| Service Advisor | Cochrane Toyota | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=49ba132078e04278 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=82e42130117efe0d |
+| FP&A Analyst - AI Evaluation | Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407331656 |
+| Golang Developer | $80/hr Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407337553 |
+| Customer Support Advisor | Brandt | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f4ef9bf93eeee83f |
+| Front Desk Agent | Hotel Arts Group | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408739718 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407332705 |
+| Office Survey Technologist | Aplin Martin | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408735770 |
