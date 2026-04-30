@@ -4951,3 +4951,8 @@
 | Part-Time Sales Associate | Match Retail | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f271521e031ef5e9 |
 | Technical Customer Service Agent I | Telus | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=be60912398beabfa |
 | Technical Customer Service Agent I | TELUS | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407091392 |
+| Marketing Coordinator, Broadview Homes | Broadview Homes | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=c480fd5b5e61173d |
+| Senior Analyst FP&A | Parkland Corporation | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406442479 |
+| Security Program Manager - Healthcare | Paladin Security | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=dbc0aab939b7e970 |
+| Customer Experience Associate | TD | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408718487 |
+| Customer Experience Associate | TD | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408713568 |
