@@ -5017,3 +5017,48 @@
 | Administrative Assistant - Casual Part Time | Calgary Stampede | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=6f5ddc3d29abd4c0 |
 | New Home Sales Associate (12-Month Contract Position) | Mattamy Homes | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f7f0e4a4407bd076 |
 | Global Tax Provision Specialist | Enerflex Ltd. | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4406491907 |
+| Quotations Specialist | City Electric Supply | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=7801ba38b6b60dbc |
+| HR Coordinator | Brookfield Properties | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=9aa6122d6779a589 |
+| Reverse Inventory Coordinator (Calgary South) | Trail Appliances AB/SK | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=296e959b952c2089 |
+| Senior Project Coordinator | ENTRUST SOLUTIONS GROUP CANADA INC | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=4cec20bb8b70b497 |
+| Support Services Analyst (6 months contract) | Sobeys | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=db8278d274ebda91 |
+| Project Accounting Analyst | Turner & Townsend Pty Limited | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=c956e688694bd400 |
+| Junior Project Coordinator - Electrical | Powerlink Electrical Ltd | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=9d0f7d600dfd82b7 |
+| Program Coordinator – Entrepreneurship & Community Engagemen | Africa Centre | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=150c148697ceb312 |
+| Policy Analyst | University of Alberta | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=f6b920e1245957dc |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=b9cab678418614d3 |
+| Supply Chain Specialist | Harvest Operations Corp. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407630717 |
+| Summer Helper – Building Operations | CBRE | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409079171 |
+| HR Coordinator | Brookfield Residential | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407632191 |
+| Reverse Inventory Coordinator (Calgary South) | Trail Appliances AB/SK | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409066930 |
+| Coordinator, SHE&S, Midstream/Downstream | Nutrien | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406732329 |
+| Process Improvement Specialist- Claims | Co-operators | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409081572 |
+| Analyst Program Management | CPKC | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409065589 |
+| Corporate Planning Analyst | Obsidian Energy Ltd. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407627745 |
+| Pricing & Product Information Specialist | Veseris | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407645232 |
+| Marketing Coordinator Intern | RedPoint Media | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=26d29c6089aab906 |
+| Indigenous Outreach Worker- Temporary- Immediate Start | Calgary Catholic Immigration Society (CC | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=40c451d5d39f0c3d |
+| Jr Social Media Coordinator & Content Creator | RAW Sports | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=32b441daa4e68c22 |
+| Investment Specialist | HUB International | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=6658564409e85e1f |
+| Administrative Assistant, Human Resources | Town of Slave Lake | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=62ac8597eba52ae6 |
+| Coordinator, SHE&S, Midstream/Downstream | Nutrien | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=ff7687703df49049 |
+| Marketing Coordinator | Prostate Cancer Centre | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=eb6b349987bb7d4d |
+| Coordinator, Accounting | OEG Sports & Entertainment | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=06191ec82fc1156a |
+| Administrative Officer | Alberta Teachers Association | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=83ee5e3723e3dfc3 |
+| Telecom Support and Administrative Assistant - Information T | University of Calgary | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4409082318 |
+| HR & Payroll Coordinator | SFC Energy North America | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4409092623 |
+| Communications Specialist (Student) | Calgary Drop IN & Rehab Society Centre | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=7da158c0673a44ab |
+| IT Data Analyst - 18 Month Term | City of Airdrie | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=f73c4ccc734c9f21 |
+| RISK INSURANCE ANALYST | Ensign Energy Services Inc. | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=3737660d7c6d8a25 |
+| Apptio Developer | Apptoza Inc. | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4406731306 |
+| Junior GIS Analyst | Klohn Crippen Berger | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407643575 |
+| Arabic Ai  Data Trainer - Remote | YO IT Consulting | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407646020 |
+| Application Support Specialist | ThoughtStorm | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407646139 |
+| Receptionist (Part-Time) – Wellness Clinic | Vitality BioMed | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=4195644aff3a32cb |
+| Customer Service Representative (Calgary Crowfoot) Part Time | Trail Appliances AB/SK | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f652942b7dac503a |
+| Pet Care Associate - Boarding & Daycare - SEASONAL | Petfinity | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=91d935466e44f47b |
+| Karma Receptionist (Wellness Exchange Role) | Vitality BioMed Ltd. | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407624356 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407629488 |
+| Payroll Administrator | AGAT Laboratories | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4406723465 |
+| Customer Service Representative (Calgary Crowfoot) Part Time | Trail Appliances AB/SK | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4409081121 |
+| People & Culture Advisor | Forward Level | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407647225 |
