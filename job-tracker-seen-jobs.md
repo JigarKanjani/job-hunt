@@ -4914,3 +4914,40 @@
 | (CAN) OMNI Customer Fulfillment Associate - Temporary - 6 mt | Walmart | 2026-04-29 | G | https://ca.indeed.com/viewjob?jk=c1db8fe81832dc21 |
 | Leasing & Site Administrator | BGO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407050884 |
 | Personal Banking Associate | BMO | 2026-04-29 | G | https://www.linkedin.com/jobs/view/4407871519 |
+| Project Governance Analyst | AltaLink | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=33f3e285244f658f |
+| Indigenous Engagement Advisor | Northback Holdings Corporation | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=867e22cf92da42c2 |
+| Guest Service Team Lead | Hilton Garden Inn & Homewood Suits Calga | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=53c21e5e32055bb4 |
+| Senior Indirect Tax Analyst | TC Energy | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=eb78aa8b530e9375 |
+| Indigenous Engagement Advisor | Northback Holdings Corporation | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=b6ea1b63e5b95169 |
+| IT Support Analyst | KAG Canada | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=96debffb27fc53ce |
+| 2026 PepsiCo Beverages Sales Leadership Program | PepsiCo | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406407847 |
+| Business Coordinator - New Graduate | Amrize | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406412979 |
+| TechEdge Service Coordinator | Patterson Companies, Inc. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4408589720 |
+| Senior Cybersecurity and Compliance Analyst - Landmark | Halliburton | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407086485 |
+| Project Management Coordinator | Colliers | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4408595398 |
+| Residential Leasing & Tenant Coordinator | Rohit Group | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4408593144 |
+| Financial Advisor, Investment & Retirement Planning - 17th A | Scotiabank | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=3a9b65713fb5c960 |
+| Customer Solutions Advisor- Calgary | Scotiabank | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=fd43426fe2471495 |
+| Case Manager | TRELLIS SOCIETY FOR COMMUNITY IMPACT | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=1291c7387aac739a |
+| 26-13 Board of Examiners Coordinator | The Association of Professional Engineer | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=2d9afd515eb84cdf |
+| Harm Reduction Coordinator (Contractor, Temporary) | Caan Communities, Alliances & Networks | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=fc52c42f2a4fd054 |
+| Care Coordinator | Lifemark Health Group | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=0507be4fbec59c3e |
+| Justice and Compassion - Ministry Coordinator | Sherwood Park Alliance Church | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=0c74f0a0ad75844b |
+| Marketing Coordinator, Broadview Homes | Broadview Homes | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4408596317 |
+| Administrative Assistant | Hays | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4406406979 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4407081689 |
+| Cloud Data Developer - Databricks | Canadian Natural | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=1c2ac598e95a04c3 |
+| Records Management Specialist | Samaritan's Purse | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=301a49c17d25fe4d |
+| data analyst - informatics and systems | Superasia wholesale distributors ltd. | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=eb3d30740a7dfdce |
+| ServiceNow Developer | CPKC | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=c0f9e32f414a7898 |
+| Cloud Data Developer - Databricks | Canadian Natural Resources Limited (CNRL | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407081266 |
+| Security Developer | Raise | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4408598974 |
+| Project Governance Analyst | AltaLink | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4408700794 |
+| Front Desk Guest Experience Expert Seasonal | Marriott International | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f46500fcf1e3e6b3 |
+| Casual Customer Service Representative (Aquatic Centre) | Town of Strathmore | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=1ce263ba2e1782c9 |
+| Customer Experience Associate | TD | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=5edc98a9a27cc642 |
+| Customer Experience Associate | TD | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=6e637590224b3bb5 |
+| Customer Experience Associate - Calgary, AB (11.25 hours/wee | Scotiabank | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=1299476a08e8558b |
+| Part-Time Sales Associate | Match Retail | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f271521e031ef5e9 |
+| Technical Customer Service Agent I | Telus | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=be60912398beabfa |
+| Technical Customer Service Agent I | TELUS | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407091392 |
