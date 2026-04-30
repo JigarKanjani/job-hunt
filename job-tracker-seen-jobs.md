@@ -4965,3 +4965,14 @@
 | Front Desk Agent | Hotel Arts Group | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408739718 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407332705 |
 | Office Survey Technologist | Aplin Martin | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4408735770 |
+| Coordinator I - Furnishings & Equipment | Alberta Health Services | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=b0481bbb708745c2 |
+| Project Coordinator (Health/CIS) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=56518ddee8b8d3ba |
+| Procurement Student | Siemens Energy | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4396384372 |
+| Junior Analyst | High Tide Inc. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407358766 |
+| Power Transmission Engineering Leader | Arup | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4408764688 |
+| FP&A Analyst - AI Evaluation | Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407331656 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Software Quality Analyst - Mandarin Simplified - Remote in C | TransPerfect | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407344813 |
+| Golang Developer | $80/hr Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407337553 |
+| Administrative Support IV | Alberta Health Services | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=2f6be68f0c6d29cb |
+| ( CAN) OMNI Customer Fulfillment associate | Walmart | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=d52a6b71547c8bae |
