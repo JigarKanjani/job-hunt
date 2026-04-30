@@ -4994,3 +4994,26 @@
 | LMS & eLearning Specialist | De Havilland Aircraft of Canada Limited | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409002274 |
 | [Remote] PLM Implementation Specialist | Rhodes Wolfe | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4406480927 |
 | Telecom Expense Management Analyst / Remote | Apetan Consulting LLC | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409014154 |
+| RFP Specialist (Commercial Cleaning & Facilities Services) | Green & Gold Cleaning | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=f5cabba3cc381fd2 |
+| Collision Advisor | Webb's 14 41 Ford Ltd | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=a119b286d15311f2 |
+| Contract Specialist | Hatch | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4376908674 |
+| TechEdge Service Coordinator | Patterson Companies, Inc. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409026400 |
+| Vendor Maintenance and Inventory Specialist | Mount Royal University | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406498785 |
+| Specialist, Data Engineering - Hybrid | Alberta Energy Regulator (AER) | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409036781 |
+| Marketing & Design Coordinator | Scoria World | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=b86f3ee52bedcacf |
+| HR Administrator | Bayshore HealthCare | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=d37993a02bab201c |
+| Social Worker ( Grande Prairie) | Easter Seals | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=7ef5a105ddb2f4e6 |
+| Social Worker ( Red Deer) | Easter Seals | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=63826cb94e087533 |
+| Social Worker ( Medicine Hat) | Easter Seals | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=3dc21d2b47696a33 |
+| Governance Coordinator | Law Society of Alberta | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=0f1ff7b446b16f66 |
+| Sales Coordinator | FWS | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4409022782 |
+| Disability Case Manager | Sun Life | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4407620686 |
+| Marketing Coordinator | Osten & Victor Alberta Tennis Centre | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4409041842 |
+| LMS & eLearning Specialist | De Havilland Aircraft of Canada Ltd | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=7ba99e85e0a4316d |
+| Business Systems Analyst | PCL Construction | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=927aec9e5b7add4d |
+| Support Services Analyst (6 months contract) | Sobeys | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409035759 |
+| Service Desk Technician - Evenings | Bennett Jones | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4406707131 |
+| Gas Commercial Specialist (Relocation to Saudi Arabia is Req | aramco | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409020909 |
+| Administrative Assistant - Casual Part Time | Calgary Stampede | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=6f5ddc3d29abd4c0 |
+| New Home Sales Associate (12-Month Contract Position) | Mattamy Homes | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=f7f0e4a4407bd076 |
+| Global Tax Provision Specialist | Enerflex Ltd. | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4406491907 |
