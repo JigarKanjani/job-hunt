@@ -4980,3 +4980,17 @@
 | Manger, National Claims Casualty Vendor Program | Allstate Insurance | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=0212b3f367640642 |
 | Subrogation Specialist | Remote | Crossing Hurdles | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4407358027 |
 | Front Desk Agent | Hotel Arts Group | 2026-04-30 | G | https://ca.indeed.com/viewjob?jk=8bada903980d9c78 |
+| Coordinator I - Furnishings and Equipment | Alberta Health Services | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=d62aa5e640ae6909 |
+| Sales Coordinator | Foundation | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=9f248b2a48313f2f |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-04-30 | J | https://ca.indeed.com/viewjob?jk=9f9b04a7f73bd150 |
+| Supply Chain Lead (Strategic Sourcing & Innovation Focus) | Global Power Technologies | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4381067933 |
+| Sr Advisor, Global Mobility | Nutrien | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4406702101 |
+| Project Coordinator | TNT Engineering Ltd. | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4407397573 |
+| Field Project Coordinator | INSITUFORM TECHNOLOGIES LIMITED | 2026-04-30 | J | https://www.linkedin.com/jobs/view/4409014308 |
+| Daycare Coordinator | Childrens Choice Community Child Care Se | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=67f8e8cf9927848d |
+| Enrollment + Digital Media Coordinator | Dance Magic Studio | 2026-04-30 | N | https://ca.indeed.com/viewjob?jk=a547c06656cc3b23 |
+| Sales & Marketing Coordinator | Charton Hobbs | 2026-04-30 | N | https://www.linkedin.com/jobs/view/4407386502 |
+| System & Database Analyst | Atlantic Central | 2026-04-30 | R | https://ca.indeed.com/viewjob?jk=17cd4e2742194a64 |
+| LMS & eLearning Specialist | De Havilland Aircraft of Canada Limited | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409002274 |
+| [Remote] PLM Implementation Specialist | Rhodes Wolfe | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4406480927 |
+| Telecom Expense Management Analyst / Remote | Apetan Consulting LLC | 2026-04-30 | R | https://www.linkedin.com/jobs/view/4409014154 |
