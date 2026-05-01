@@ -5099,3 +5099,15 @@
 | Personal Banking Associate Trainee | TD | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=7c7fc7398150a652 |
 | Scheduler - FULL TIME | Allied Universal | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409102555 |
 | Client Experience Specialist | Edward Jones | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407652804 |
+| Key Lead/Budtender (SellSafe Certificate Required) | Kindling Cannabis | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=1b1a6fb17c394f3d |
+| Senior Contracts Specialist (Contingent Workforce) | Trans Mountain | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407679155 |
+| Senior Project Coordinator | ENTRUST Solutions Group | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407664929 |
+| Program Manager | ATB Financial | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409142489 |
+| Client Experience Specialist | Edward Jones | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=5dafdca5b4551928 |
+| Payroll Administrator | AGAT Laboratories | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=350798b5056dbd43 |
+| Donor Portfolio Specialist | Stars | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=823e693ec7c16363 |
+| Term Part-time Supply Management Coordinator - Education Cen | Rocky View Schools | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=d37782048ab381d0 |
+| Office & HR Administrator | H3M Environmental | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4409143667 |
+| Technical Support Engineer | iNTERFACEWARE | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=a56d8e50ce22e5aa |
+| Collections Analyst (12-Month Term) | Parkland Corporation | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4406766269 |
+| Computer Sales Associate (Full Time) | Best Buy Canada | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4406764839 |
