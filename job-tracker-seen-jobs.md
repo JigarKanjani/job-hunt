@@ -5142,3 +5142,12 @@
 | Data Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387348401 |
 | HubSpot Developer, API Integrations & Workflow Automation (R | Pave Talent | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407902798 |
 | Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407905178 |
+| Sign and Production Coordinator | SpeedPro Imaging | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=c567e92570a04d60 |
+| Marketing Coordinator | SafeLink Alberta | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=62bc616b34344cf3 |
+| Application Analyst | Energy Safety Canada | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409400805 |
+| Business Intelligence Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387335867 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387332939 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409402580 |
+| Golang Developer (Remote) | Quik Hire Staffing | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409197689 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407905178 |
+| TypeScript Developer (Remote) | Jobs Ai | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409403432 |
