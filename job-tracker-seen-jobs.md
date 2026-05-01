@@ -5151,3 +5151,20 @@
 | Golang Developer (Remote) | Quik Hire Staffing | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409197689 |
 | Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407905178 |
 | TypeScript Developer (Remote) | Jobs Ai | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409403432 |
+| Service Coordinator - Security Solutions | Convergint | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=6a023fec4a6087b4 |
+| Supply Chain Advisor | TAQA | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=8c64ec2c28a988ac |
+| Regional IT Lead | Source Energy Services Ltd. | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=d9934b98dfe675c4 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=45c1b86cdb6363e1 |
+| Business Analyst | Abuburo Kosua Technology Solutions | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407921648 |
+| Project Coordinator (Material Coordinator) | BuzzClan | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407212027 |
+| Senior Business Systems Analyst | Co-operators | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409407989 |
+| Senior Design Coordinator | HDR | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=e36df92736a38a5c |
+| Junior Estimator / Coordinator | Kang Construction Ltd. | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=a4b3dc057717ada1 |
+| Customer Service Administrator | ColdFront | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=7d610b1e6c690094 |
+| Senior Systems Administrator | PC eSolutions | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=3026bfffa2b28e5d |
+| Case Manager | Aakom-Kiyii Health Services | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=02698addb2d0b17a |
+| Fractional - HR SPECIALIST | Forteh | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407928640 |
+| Technical Program Manager I - Hardware (Remote) | Quik Hire Staffing | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4409425309 |
+| Fractional - HR SPECIALIST | Forteh | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407935676 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4409428362 |
+| Athlete Services Coordinator - Dinos, Faculty of Kinesiology | University of Calgary | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409418227 |
