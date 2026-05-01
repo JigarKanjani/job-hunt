@@ -5062,3 +5062,40 @@
 | Payroll Administrator | AGAT Laboratories | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4406723465 |
 | Customer Service Representative (Calgary Crowfoot) Part Time | Trail Appliances AB/SK | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4409081121 |
 | People & Culture Advisor | Forward Level | 2026-04-30 | G | https://www.linkedin.com/jobs/view/4407647225 |
+| Project Coordinator | West Cirque Construction Inc | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=2cf5035497d8b981 |
+| Collection Specialist | Dentons | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=9b9688420a0d6dc3 |
+| Technical Records Specialist | Flair Airlines Ltd. | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=e1f987bc84f261f6 |
+| Field Operations Coordinator | Oviatt Contracting | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=6fdc7c94914d6606 |
+| BENCH Project Lead | The Immigrant Education Society | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=624f34c9892386d3 |
+| Program Manager, Continuing Professional Development | CANADIAN CARDIOVASCULAR SOCIETY | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=82e55666e6e95dc9 |
+| Coordinator, Calgary Area (Contract) | Girl Guides of Canada | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=e0f8f607b12f2b32 |
+| Contract Formation Specialist | Agilus Work Solutions | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407091279 |
+| Administrative Coordinator | Syngenta | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409108311 |
+| Talent Acquisition Specialist | Bird Construction | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409113549 |
+| Talent Acquisition Specialist | Bird Construction | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409115546 |
+| Senior Program Manager, Food & Beverage - Canada | DNV | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4406760252 |
+| Senior Software QA - Technical Advisor QA - Landmark | Halliburton | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407655238 |
+| Senior Security Analyst (Offensive Security & Penetration Te | Raise | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409128355 |
+| Accounts Payable Coordinator | Gowling WLG | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407654131 |
+| Social Media Coordinator | Honens | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=18ea5d398cb4f676 |
+| People + Culture Advisor | Forward Level | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=771d99f15a3465f5 |
+| LRM Coordinator, Denny's | Denny's | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=d08b6b19e6bf68fe |
+| LRM Coordinator, Denny's | Northland Properties | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=39db787bbe63963c |
+| Office Operations & Accounting Coordinator | Intelica Solutions Inc. | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=b3a2dcae652dd2a1 |
+| (Remote) Temporary Billing Administrator / Full-time (Calgar | ClaimsPro LP | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4406755244 |
+| Field Engineering Coordinator | Kent | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=5507c419bcaaa293 |
+| Transportation Specialist | Canadian Cancer Society | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=a570cd9c26889b6d |
+| Accounting Analyst II | Finning | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=23272636954d8927 |
+| Specialist Engineer - Global Engineering | Orica | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=90d32979fd5ac91f |
+| SAP Security Analyst | Raise | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409128357 |
+| Transportation Specialist | Canadian Cancer Society | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407652143 |
+| Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multi | Deloitte | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409130237 |
+| Junior GIS Analyst | Klohn Crippen Berger | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409107077 |
+| Financial Analyst | Top Tier Talent Group | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409112882 |
+| Clinical Systems Analyst | Alignerr | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409117764 |
+| Scheduler - FULL TIME | Allied Universal | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=9bab7e2dee89db98 |
+| Specialist Reliability Engineer | Suncor Energy | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=0fe27d2c56d7e24f |
+| Personal Banking Associate Trainee | TD | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=ef7c21b5403284fd |
+| Personal Banking Associate Trainee | TD | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=7c7fc7398150a652 |
+| Scheduler - FULL TIME | Allied Universal | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409102555 |
+| Client Experience Specialist | Edward Jones | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407652804 |
