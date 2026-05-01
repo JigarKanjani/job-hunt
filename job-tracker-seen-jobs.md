@@ -5125,3 +5125,10 @@
 | Member Services Associate / Receptionist | KidStrong | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4406786519 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407683837 |
 | Spécialiste de produits / Product Specialist | Eaton | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4398821569 |
+| Procurement Specialist I | Alberta Health Services | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=ff092e14bf169f04 |
+| Senior Analyst, CS Strategy and Analytics | Clio | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4397618103 |
+| Business Analyst (Remote) | Hire Feed | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409179346 |
+| Recreation & Community Programs Coordinator – Activity Plann | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407697128 |
+| Human Resources Specialist | Remote | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4385017056 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387348401 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4398818541 |
