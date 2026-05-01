@@ -5168,3 +5168,54 @@
 | Fractional - HR SPECIALIST | Forteh | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407935676 |
 | Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4409428362 |
 | Athlete Services Coordinator - Dinos, Faculty of Kinesiology | University of Calgary | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409418227 |
+| Supply Chain Optimization Specialist | CO-OP CRS | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=006642c202ce7189 |
+| Buyer I | AltaLink | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=b3f530f9502733bd |
+| Sales and Reservations Coordinator | Element by Westin Calgary Downtown | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=8680b3cd63ef6a3b |
+| Payroll & Group Benefits Analyst | Avmax Aviation Services | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=5019fe58b82ce140 |
+| Athlete Services Coordinator - Dinos, Faculty of Kinesiology | University of Calgary | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=0c18100501f7988b |
+| Network Security Analyst Calgary | Compugen Inc | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=8c6216b57588b203 |
+| Safeguarding Research Specialist | University of Alberta | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=ce6bec8fee9f2483 |
+| Yard & Equipment Return Coordinator | New West Equipment Services Ltd | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=f332d438bbf592ba |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=9c23b9a447af8934 |
+| Supply Chain Advisor | TAQA Group | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407954534 |
+| Buyer I | AltaLink | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409477955 |
+| Project Engineer/Coordinator (Well Pad Program – Controls In | Tetranex Solutions Inc. | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407232595 |
+| Care Coordinator | Lifemark Health Group | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407218789 |
+| Collection Specialist (12-month Opportunity) | Dentons | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407232485 |
+| Project Coordinator - Infrastructure | Graham | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409533073 |
+| Project Coordinator, Faculty of Social Work | University of Calgary | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409497643 |
+| Health & Safety Coordinator | BUILD IT | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4409499322 |
+| IT Specialist | MOBILTEX CorTalk | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407946809 |
+| IT Systems & Security Specialist | Pengcorp Ltd. | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407960778 |
+| Office Administrator | Benelogix Benefits Inc. | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=286ccb8809729271 |
+| Benefits Administrator | GroupSource Limited Partnership | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=9146d315ff1482c0 |
+| Office Administrator/Accounts Payable | TerraBurst | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=ae2f627328607cb7 |
+| Outreach Program Coordinator (Contract, Maternity Leave Cove | Kids Cancer Care Foundation of Alberta | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=00a5275ba8ff285d |
+| CSP–SLP Coordinator | Edmonton Integrated Services | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=4df39effc0a625e5 |
+| Program Coordinator (Maternity Leave Coverage) | Edmonton Integrated Services | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=0235df61424a496d |
+| Senior Case Manager | Wawanesa Insurance | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=e637488c135a311b |
+| Housing First Case Manager | Centerpoint Facilitation | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=1fc498be44098095 |
+| Accounting & Client Services Coordinator | Evolve Chartered Professional Accountant | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=b7b3676dca976698 |
+| HR Administrator | ICE Western Sales | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=de2128ba45385f9a |
+| Office Administrator | Benelogix Benefits Inc. | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407964716 |
+| Human Resources Advisor | Alberta Health Services | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407683523 |
+| Policy Analyst | Government of Alberta | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407961477 |
+| Benefits Administrator | GroupSource LP | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407960803 |
+| Quality Control Analyst/Tester | Farber Debt Solutions | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=ed7ada4c9f173a8b |
+| Field Systems Programmer | Trimac Transportation | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407955540 |
+| Research Platform Cloud Designer - Information Technologies | University of Calgary | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409501446 |
+| Administrative Assistant | Shirin Group | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=dfface06673274bc |
+| Veterinary Assistant/Receptionist | Creek Side Veterinary Hospital | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=c4cd6b1f28c89016 |
+| Sales Associate -Temporary/Full-time (Glenbrook) - Canada Su | Women In Need Society | 2026-05-01 | G | https://ca.indeed.com/viewjob?jk=cffedf793b37271f |
+| Receptionist - AgeCare Dawson | AgeCare | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409487888 |
+| Receptionist - AgeCare Dawson | AgeCare | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409505146 |
+| Receptionist | Hays | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409504316 |
+| Receptionist Casual AgeCare Dawson | AgeCare | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409496504 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407958637 |
+| Customer Experience Associate | TD | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409506314 |
+| Customer Service Associate- Seasonal | RONA | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409485476 |
+| Service Coordinator - Security Solutions | Convergint | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409451909 |
+| Equipment Coordinator - Calgary Yard | Jardeg | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4409492872 |
+| New Home Sales Associate | WestCreek Homes | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407940880 |
+| People & Culture Advisor | Forward Level | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407951632 |
+| Associate Lawyer - Corporate Energy | Urban Legal Recruitment Inc. | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407964753 |
