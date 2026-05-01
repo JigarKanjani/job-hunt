@@ -5132,3 +5132,13 @@
 | Human Resources Specialist | Remote | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4385017056 |
 | Data Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387348401 |
 | Spécialiste de produits / Product Specialist | Eaton | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4398818541 |
+| Senior Buyer | High Tide Inc. | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407914592 |
+| Business Analyst (IT & Security Projects) | n2psystems | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=fbd5332bdd3028ed |
+| Health & Safety Administrator | Frontier Construction Products Ltd. | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=2bd10618e66992e4 |
+| Human Resources Specialist | Remote | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4385017056 |
+| Head of Product - AIVM (Agentic AI & Blockchain Platform) -  | ChainGPT | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=56879abb75f9b4f6 |
+| Business Intelligence Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387335867 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387332939 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4387348401 |
+| HubSpot Developer, API Integrations & Workflow Automation (R | Pave Talent | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407902798 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4407905178 |
