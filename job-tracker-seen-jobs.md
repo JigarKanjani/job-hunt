@@ -5111,3 +5111,17 @@
 | Technical Support Engineer | iNTERFACEWARE | 2026-05-01 | R | https://ca.indeed.com/viewjob?jk=a56d8e50ce22e5aa |
 | Collections Analyst (12-Month Term) | Parkland Corporation | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4406766269 |
 | Computer Sales Associate (Full Time) | Best Buy Canada | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4406764839 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-01 | J | https://ca.indeed.com/viewjob?jk=ddb9c21005040db7 |
+| Procurement Specialist I | Alberta Health Services | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407683526 |
+| Senior Analyst, Family Office Services | MNP | 2026-05-01 | J | https://www.linkedin.com/jobs/view/4407677887 |
+| Social Worker, Extended Health Team & Coordinated Attachment | Calgary Foothills Primary Care Network | 2026-05-01 | N | https://ca.indeed.com/viewjob?jk=decc5abda19a7d10 |
+| Administrative Assistant (Remote) | AI Jobs | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4409178036 |
+| Child & Family Social Worker – Case Management & AI Evaluati | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407688800 |
+| School Social Worker – Student Support Services & Behavioral | Crossing Hurdles | 2026-05-01 | N | https://www.linkedin.com/jobs/view/4407683787 |
+| Data Analyst (Remote) | AI Jobs | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409156925 |
+| IT Support Specialist (Remote) | Hired | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409147879 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409175061 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-01 | R | https://www.linkedin.com/jobs/view/4409175059 |
+| Member Services Associate / Receptionist | KidStrong | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4406786519 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407683837 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4398821569 |
