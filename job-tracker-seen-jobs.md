@@ -5281,3 +5281,11 @@
 | Receptionist Casual - AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=2359b4cf22392ac5 |
 | Receptionist Casual - AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409555456 |
 | Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409563430 |
+| Social Media Growth Lead | Black & White Zebra | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=1dfe48b705ae29e0 |
+| Social Media Growth Lead | Black & White Zebra | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=2cb3866ed6a0179a |
+| Operational Clinical Informatics Lead | Alberta Health Services | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4407995705 |
+| Ingenium Developer | Simploy Private Limited | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=9db3c272511c8563 |
+| Business/Technical Analyst | Parkland County | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=6e1d6b40d034d6de |
+| Business Analyst III | Finning | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=b6f3b838c33fab16 |
+| Cloud Infrastructure Specialist (Remote) | Onboard | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409575228 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409571188 |
