@@ -5219,3 +5219,49 @@
 | New Home Sales Associate | WestCreek Homes | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407940880 |
 | People & Culture Advisor | Forward Level | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407951632 |
 | Associate Lawyer - Corporate Energy | Urban Legal Recruitment Inc. | 2026-05-01 | G | https://www.linkedin.com/jobs/view/4407964753 |
+| Project Coordinator | McGregor & Thompson | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=1a7e1e7bcedbeb1c |
+| Corporate Tax Analyst | Gibson Energy | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=d8c8616cadd7b8af |
+| Advisor Talent Acquisition | CPKC | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=4e5108da186d5677 |
+| Training Coordinator | Rocky Mountain Equipment | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=d8028d4b3798cbab |
+| Clinical Trials Action Plan, Program Manager | Canadian Cancer Society | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=33788510092d023f |
+| Sr Digital Operations Analyst | Suncor Energy | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=20da2b0fa4bf0135 |
+| Public Relations Coordinator | ALBERTA CONSTRUCTION SAFETY ASSOCIATION | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=4091d28f73aa9aa4 |
+| Student Supply Chain & Fleet Management Coordinator | Bird Construction | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409535856 |
+| Advisor Talent Acquisition | CPKC | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409558352 |
+| Sr Digital Operations Analyst | Suncor | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409557226 |
+| Operations Supervisor - Commercial Real Estate | JRoss Retail Recruiters | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409532563 |
+| Operations Supervisor | FedEx Canada | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409538618 |
+| Market Analyst | Flint Hills Resources | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4407230805 |
+| Strategic Finance Lead (Revenue) | Affirm | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4407971760 |
+| Care Coordinator | Lifemark Health Group | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=ed11ffb70204a768 |
+| Payroll and Benefits Advisor | Sunshine Village Ski & Snowboard Resort | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=8ff84da10208994f |
+| Payroll and Benefits Advisor | Sunshine Village Ski & Snowboard Resort | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=804a17f438bbb664 |
+| Intermediate Property Analyst | Cenovus Energy | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=28811eeaceaf21d5 |
+| Billing Analyst (12-month contract) | McCarthy Tétrault | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=cdde6d1a5f723081 |
+| Program Coordinator - Environment & Climate Resilience | City of Edmonton | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=badd83cde42b4ebf |
+| Reception and Site Services Coordinator (14 month contract) | Champion Petfoods | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=083f66da52588f42 |
+| Sales Coordinator (Full Time - MAT Leave Contract - 6 Months | Accor | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=05b6aa3e08cf09bf |
+| Clinical Trials Action Plan, Program Manager | Canadian Cancer Society | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407960991 |
+| Construction Projects Coordinator | Canadian Natural Resources Limited (CNRL | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407971144 |
+| Academic Advisor | Mount Royal University | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407235060 |
+| Sales (Fitness Advisor) - Calgary Creekside | GoodLife Fitness | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407239130 |
+| Junior HRIS Analyst | Natus Medical Incorporated | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=3932528ae30cc7a5 |
+| Learning Strategies and Intervention Coordinator | Rundle Schools | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4407976068 |
+| Technical Business Analyst | Raise | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4407983556 |
+| IT Support Coordinator (Remote - EST) | Riipen | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409518440 |
+| Foreclosure Administrative Assistant | MLT Aikins LLP | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=482ff2f0f86c2665 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=75bb5fbc4a6d14f5 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=90d4327392a2082a |
+| Customer Service/Route Service Representative | Gateway Services Inc. | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=2c8ddd591ef7d0ee |
+| Personal Banking Associate Trainee | TD | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=00f5c57875e98df2 |
+| Personal Banking Associate Trainee | TD | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=6580ca47d5c731fa |
+| Business Development Associate | BEST - For a Cleaner World | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=38e1c61239111ac5 |
+| Receptionist - Workplace Services | Deloitte | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409543238 |
+| MOC Administrator | Raise | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409559257 |
+| Customer Service/Route Service Representative | Gateway Services Inc. | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409520397 |
+| Business Development Associate | BEST | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409541727 |
+| Universal Financial Associate - Buffalo Run | Servus Credit Union | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4407973730 |
+| Universal Financial Associate Mobile Support - City of Calga | Servus Credit Union | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4407979651 |
+| Universal Financial Associate - TransCanada | Servus Credit Union | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4407982583 |
+| Investment Funds Advisor | RBC | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409528897 |
+| Oracle Financial Management Consultant, Associate | PwC Canada | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409528315 |
