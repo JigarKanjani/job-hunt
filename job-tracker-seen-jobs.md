@@ -5312,3 +5312,4 @@
 | Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4376994177 |
 | Order Management Analyst – Data Accuracy | $80/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408316478 |
 | Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=bccb3d1abbf145c7 |
