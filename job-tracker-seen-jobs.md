@@ -5265,3 +5265,19 @@
 | Universal Financial Associate - TransCanada | Servus Credit Union | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4407982583 |
 | Investment Funds Advisor | RBC | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409528897 |
 | Oracle Financial Management Consultant, Associate | PwC Canada | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409528315 |
+| Specialist, Employer Engagement - TalentED | Calgary Economic Development | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=9e25a8216dd57f22 |
+| Administrative Coordinator, Ancillary Services | University of Calgary | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409551604 |
+| Data Analyst, School of Public Policy | University of Calgary | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4409547631 |
+| Team Lead - 3 month Term - Calgary | CBI Home Health | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4408309011 |
+| ERP Business Analyst (Accounting Background) | Blue Sky Consulting | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4407992779 |
+| Ujima Leadership Development Program Coordinator (Edmonton) | Africa Centre | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=09ad04662488ee40 |
+| Recreation Leader 2 – Assistant Summer Camp Coordinator | City of St. Albert | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=51de5953edf12885 |
+| Client Support Coordinator | Global Traffic Group | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=379b0acb8c095e4c |
+| Security Administrative Assistant | Heritage Park Historical Village | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4409550632 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407997075 |
+| Benefits & Core HR Specialist | Calgary Co-op | 2026-05-02 | N | https://www.linkedin.com/jobs/view/4407990834 |
+| IT Support Coordinator (Remote - EST) | Riipen Networks Inc. | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=cf79479534a6a52d |
+| Intermediate Property Analyst | Cenovus Energy | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409546901 |
+| Receptionist Casual - AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://ca.indeed.com/viewjob?jk=2359b4cf22392ac5 |
+| Receptionist Casual - AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409555456 |
+| Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409563430 |
