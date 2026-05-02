@@ -5316,3 +5316,7 @@
 | Philanthropy Coordinator | Shelter Movers of Toronto | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=21dcefb563535b3d |
 | network administrator | Fort McMurray Toyota | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=3e6f4f63c68f069f |
 | C# Developer (Remote) | Placed | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409597964 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=a9857b5d60bca6fa |
+| Culinary Operations Coordinator | EMBLEMS | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=e1d5606bfb9a56e5 |
+| Database & IT Specialist | Raytheon | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=f5c1883efc5e9e49 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4408331921 |
