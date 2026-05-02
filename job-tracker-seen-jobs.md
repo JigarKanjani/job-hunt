@@ -5304,3 +5304,10 @@
 | Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408318010 |
 | Order Management Analyst – Data Accuracy | $80/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408316478 |
 | Database & IT Specialist | Raytheon | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409577589 |
+| Coordinator, Administration | Regional Municipality of Wood Buffalo | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=d557204c3f865819 |
+| Coordinator, Organizational Management | Regional Municipality of Wood Buffalo | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=168f477c30aef4c7 |
+| Coordinator, Community | Regional Municipality of Wood Buffalo | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=f41b573f6a8f35e7 |
+| Coordinator, Council and Committee | Regional Municipality of Wood Buffalo | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=9e9261339a07d518 |
+| Business Analyst | Alberta Health Services | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=baaf86440dd1931a |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| Order Management Analyst – Data Accuracy | $80/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408316478 |
