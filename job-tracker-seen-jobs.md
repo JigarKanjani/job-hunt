@@ -5311,3 +5311,4 @@
 | Business Analyst | Alberta Health Services | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=baaf86440dd1931a |
 | Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4376994177 |
 | Order Management Analyst – Data Accuracy | $80/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408316478 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4376994177 |
