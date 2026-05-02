@@ -5289,3 +5289,13 @@
 | Business Analyst III | Finning | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=b6f3b838c33fab16 |
 | Cloud Infrastructure Specialist (Remote) | Onboard | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409575228 |
 | Financial Analyst (Remote) | Quik Hire Staffing | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4409571188 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=566e74968be373ce |
+| Enterprise Architect | ENMAX | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4408302909 |
+| Digital Services Infrastructure Analyst | Bird Construction | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=a8bc7eb57c1d49d3 |
+| Data Analyst, School of Public Policy | University of Calgary | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=42ff5f465721e7b0 |
+| Administrative Coordinator, Ancillary Services | University of Calgary | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=ea86574cd36164ad |
+| Project Coordinator, Faculty of Social Work | University of Calgary | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=be1a54c29dd839c5 |
+| Research Platform Cloud Designer - Information Technologies | University of Calgary | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=a7ab50e04cac6130 |
+| I&T Resiliency and Data Governance Specialist | ENMAX | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4407997962 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408318010 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4408312667 |
