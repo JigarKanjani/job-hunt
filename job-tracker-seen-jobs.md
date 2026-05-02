@@ -5299,3 +5299,8 @@
 | I&T Resiliency and Data Governance Specialist | ENMAX | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4407997962 |
 | Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408318010 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4408312667 |
+| Service Desk Analyst | Calgary Board Of Education | 2026-05-02 | J | https://ca.indeed.com/viewjob?jk=63bfec996e288667 |
+| Business Analyst II | Finning | 2026-05-02 | J | https://www.linkedin.com/jobs/view/4408317307 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408318010 |
+| Order Management Analyst – Data Accuracy | $80/hr Remote | Crossing Hurdles | 2026-05-02 | R | https://www.linkedin.com/jobs/view/4408316478 |
+| Database & IT Specialist | Raytheon | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4409577589 |
