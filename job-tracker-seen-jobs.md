@@ -5331,3 +5331,5 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4408374247 |
 | Learning Coordinator | KPMG Canada | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4378355638 |
 | Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
+| JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4388223034 |
+| Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
