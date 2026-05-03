@@ -5334,3 +5334,9 @@
 | JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4388223034 |
 | Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
 | JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4388223034 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-03 | J | https://ca.indeed.com/viewjob?jk=d70148752951097e |
+| Coordinator | PFP Canada | 2026-05-03 | N | https://ca.indeed.com/viewjob?jk=52fc7da1707f8501 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247390384 |
