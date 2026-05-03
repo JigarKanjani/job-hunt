@@ -5333,3 +5333,4 @@
 | Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
 | JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4388223034 |
 | Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
+| JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4388223034 |
