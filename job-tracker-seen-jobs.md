@@ -5329,3 +5329,5 @@
 | Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-05-03 | N | https://www.linkedin.com/jobs/view/4409853444 |
 | Cloud Infrastructure Specialist (Remote) | Onboard | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4409839648 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4408374247 |
+| Learning Coordinator | KPMG Canada | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4378355638 |
+| Mortgage Associate (Alberta) | Perch | Mortgages, simplified | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4409848694 |
