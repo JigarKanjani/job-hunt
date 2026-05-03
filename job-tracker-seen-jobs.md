@@ -5325,3 +5325,7 @@
 | Guest Service Agent | Pomeroy Lodging | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4407297227 |
 | Projects and Partnerships Coordinator | Black Eco Bloom | 2026-05-03 | J | https://www.linkedin.com/jobs/view/4409848370 |
 | Associate | The TJX Companies, Inc. | 2026-05-03 | G | https://ca.indeed.com/viewjob?jk=5b68b53f831b64b3 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-03 | J | https://ca.indeed.com/viewjob?jk=282334c085082745 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Jobs Ai | 2026-05-03 | N | https://www.linkedin.com/jobs/view/4409853444 |
+| Cloud Infrastructure Specialist (Remote) | Onboard | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4409839648 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4408374247 |
