@@ -5344,3 +5344,7 @@
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-03 | J | https://ca.indeed.com/viewjob?jk=774ea8de81a04318 |
+| Engineer in Training I - Data Intelligence & Decision Suppor | Enbridge | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4407715860 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4408391119 |
+| Social Media Coordinator | Digital Shift® | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4407710995 |
