@@ -5320,3 +5320,6 @@
 | Culinary Operations Coordinator | EMBLEMS | 2026-05-02 | N | https://ca.indeed.com/viewjob?jk=e1d5606bfb9a56e5 |
 | Database & IT Specialist | Raytheon | 2026-05-02 | R | https://ca.indeed.com/viewjob?jk=f5c1883efc5e9e49 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-02 | G | https://www.linkedin.com/jobs/view/4408331921 |
+| Youth Climate & Mental Wellness Program Coordinator | EL Shama C.A.R.E.S FOUNDATION Inc | 2026-05-03 | N | https://ca.indeed.com/viewjob?jk=55a6f21ba8f9fffc |
+| General Merchandise Associate | Walmart | 2026-05-03 | G | https://ca.indeed.com/viewjob?jk=0fcdedea2c89470f |
+| Guest Service Agent | Pomeroy Lodging | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4407297227 |
