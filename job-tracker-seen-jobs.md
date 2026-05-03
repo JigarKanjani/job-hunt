@@ -5340,3 +5340,7 @@
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4247390384 |
