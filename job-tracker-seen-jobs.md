@@ -5323,3 +5323,5 @@
 | Youth Climate & Mental Wellness Program Coordinator | EL Shama C.A.R.E.S FOUNDATION Inc | 2026-05-03 | N | https://ca.indeed.com/viewjob?jk=55a6f21ba8f9fffc |
 | General Merchandise Associate | Walmart | 2026-05-03 | G | https://ca.indeed.com/viewjob?jk=0fcdedea2c89470f |
 | Guest Service Agent | Pomeroy Lodging | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4407297227 |
+| Projects and Partnerships Coordinator | Black Eco Bloom | 2026-05-03 | J | https://www.linkedin.com/jobs/view/4409848370 |
+| Associate | The TJX Companies, Inc. | 2026-05-03 | G | https://ca.indeed.com/viewjob?jk=5b68b53f831b64b3 |
