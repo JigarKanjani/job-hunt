@@ -5442,3 +5442,29 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408916503 |
 | Associate | Cushman & Wakefield | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410094975 |
 | Summit Readiness Associate, Commercial Development Programs  | Scotiabank | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408930237 |
+| Workload Administrator (Logistics & Data Analytics) | K’(Prime) Technologies Inc | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=d66e36ee819cf989 |
+| Learning Experience Specialist | Calgary Drop IN & Rehab Society Centre | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=302504d7bfe596de |
+| Logistics Coordinator | Origen RV Accessories Ltd. (DBA - RV Sna | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=aa985a870c3bba6b |
+| Commercial Construction Project Coordinator | Synergy Group of Companies | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=617780a10c885fce |
+| Commercial Construction Project Coordinator | Synergy Group of Companies | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=25f377b13ea347e3 |
+| Workforce Development Specialist - Gianna Centre (CF) | Catholic Social Services | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=65474302d44e54a3 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=432adb56052a5f37 |
+| ESC Administrative Coordinator, Schulich School of Engineeri | University of Calgary | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410232542 |
+| Contracts Administrator | Trans Mountain | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408925635 |
+| Service Performance Specialist | Finning | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408933613 |
+| Senior Research Analyst | Leger | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410248759 |
+| Senior Mineral Land Analyst | NES Fircroft | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408920808 |
+| Business Analyst  - remote | Aplin | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410234665 |
+| Construction Safety Advisor | CCS Contracting Ltd. | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=0589891027796fc9 |
+| Commercial Insurance Advisor | HUB International | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=292bb4717b25648d |
+| Resident Advisor | Campus Living Centres | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=7f1078fadc9a28fa |
+| Administrative Assistant, Department Head | University of Calgary | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4410235416 |
+| Administrative Coordinator | The Kidney Foundation of Canada | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408921681 |
+| Sr Tax Analyst | Pembina Pipeline Corporation | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410263025 |
+| Commercial Spares Administrator (Calgary) | Bell Flight | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408921817 |
+| Maximo developer-100% Remote | Ideaon | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410244690 |
+| Customer Service Representative | Raintech  Irrigation | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=249106943e5c4bde |
+| Customer Experience Associate | TD | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410242322 |
+| Customer Experience Associate | TD | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410252151 |
+| Customer Service Representative (Part Time) | Best Buy Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408110837 |
+| Property Field Claims Specialist | Allstate Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408927543 |
