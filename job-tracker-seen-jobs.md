@@ -5352,3 +5352,6 @@
 | Culinary Operations Coordinator | Accor | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=bb90bb55cd38aa75 |
 | Domino's Customer Service Representative (6544 4 St NE) | Domino's | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=031ea9b060f4481e |
 | Front Desk Agent - Full Time Morning (Monday - Friday) | Motel 6 Airdrie | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=7e2d3db4850ce6bb |
+| Senior Business Analyst | MatchBox Consulting Group | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410007810 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4409891758 |
+| Front Desk Representative | Sage Meadows Allied Health Physiotherapy | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=7b8932402e27bb13 |
