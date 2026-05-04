@@ -5361,3 +5361,8 @@
 | AI Quality Analyst – Critical Reasoning & Model Evaluation | | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408639880 |
 | Data Analyst - AI | $30/hr Remote | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408644325 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408641329 |
+| Crisis Operations Program Manager | $60/hr Remote | Crossing Hurdles | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4399180080 |
+| Computer Vision Data Analyst – Image Annotation & AI Evaluat | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408654830 |
+| Computer Vision Data Analyst – Image Annotation & AI Evaluat | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408652802 |
+| Image Annotation Specialist – Visual Reasoning & Data Labeli | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408644849 |
+| MOC Administrator | Brunel | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408650533 |
