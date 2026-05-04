@@ -5378,3 +5378,17 @@
 | Full Time Frontline/Receptionist | Diva Salonspa Chinook | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=b6432833ee18f185 |
 | Receptionist | Armco | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410074595 |
 | Client Relations Specialist - Western Region | Weidmüller Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4407773832 |
+| Talent Acquisition Specialist | Advanced Medical Solutions | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=d3c87c81fbfd57ff |
+| Sr Environmental Specialist | Graham | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410082435 |
+| Senior Business Analyst - Cyber Security | Akkodis | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408907136 |
+| Child and Youth Worker (Calgary/Airdrie) | Closer to Home Community Services | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=40b1b1d16d994fb7 |
+| Case Manager | WCB Alberta | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=7330c75d2d403dc7 |
+| Administrative Coordinator | Capilano Playschool | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=8b505edceecae88c |
+| FINPRO Senior Client Advisor | Marsh Risk | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4410087106 |
+| Benefits Administrator | GroupSource LP | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408911061 |
+| ReactJS Developer | Smash Reality Inc. | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=1f5595903d39b6b2 |
+| Cyber Governance & Compliance Specialist | Intact | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=b943bb5791591f5b |
+| Administrative Support, Payroll, Benefits and HR | Platinum Fire and Security LTD | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=a32d9e99e30b4cf3 |
+| Royal Service Agent (Part-time) | Fairmont | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=c1af7d5c3bccc69e |
+| Policy Advisor | Government Of Alberta | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=1481e047fea57a5b |
+| Customer Service Representative | Fresh Prep 🇨🇦 | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408900316 |
