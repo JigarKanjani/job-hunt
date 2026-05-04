@@ -5366,3 +5366,15 @@
 | Computer Vision Data Analyst – Image Annotation & AI Evaluat | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408652802 |
 | Image Annotation Specialist – Visual Reasoning & Data Labeli | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408644849 |
 | MOC Administrator | Brunel | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408650533 |
+| Construction Administrator & Warranty Coordinator | Aspen Creek Designer Homes | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=ab6a0edf6ddcb689 |
+| Service Advisor or Service Office Lead | Red Deer Peterbilt | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=63827a3cedbd20b9 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=39d066a2a84ed94c |
+| Senior Contracts Specialist (Contractor) | Trans Mountain | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408665871 |
+| Server Specialist | PeopleToGo Inc. | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4410078317 |
+| Communications Specialist | Insight Global | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408681689 |
+| Computer Network and Systems Administrator | Ethnos360 | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=6c472ef074a81d92 |
+| Surface Land Analyst | Millennium Land Ltd | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=68994522b2b64595 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410038889 |
+| Full Time Frontline/Receptionist | Diva Salonspa Chinook | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=b6432833ee18f185 |
+| Receptionist | Armco | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410074595 |
+| Client Relations Specialist - Western Region | Weidmüller Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4407773832 |
