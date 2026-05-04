@@ -5355,3 +5355,9 @@
 | Senior Business Analyst | MatchBox Consulting Group | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410007810 |
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4409891758 |
 | Front Desk Representative | Sage Meadows Allied Health Physiotherapy | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=7b8932402e27bb13 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=1cd98a6bfb5bcdbb |
+| Product Specialist - Fire Prevention - Canada | First Due | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=a48f4a57bc9f116e |
+| Education & Research Analyst – Content Evaluation & Quality  | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408650456 |
+| AI Quality Analyst – Critical Reasoning & Model Evaluation | | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408639880 |
+| Data Analyst - AI | $30/hr Remote | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408644325 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408641329 |
