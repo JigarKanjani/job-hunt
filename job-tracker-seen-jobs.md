@@ -5392,3 +5392,53 @@
 | Royal Service Agent (Part-time) | Fairmont | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=c1af7d5c3bccc69e |
 | Policy Advisor | Government Of Alberta | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=1481e047fea57a5b |
 | Customer Service Representative | Fresh Prep 🇨🇦 | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408900316 |
+| Contractor - Junior Contract Analyst | China National Offshore Oil | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=cbf65b073e7fc99f |
+| Sr Environmental Specialist | Graham Construction | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=c7af798198b73868 |
+| Rental Coordinator | EllisDon Corporation | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=1e1b680c6da06be6 |
+| Service Coordinator | Hopewell Residential | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=be3ce8be28c47b93 |
+| Health & Safety Coordinator | Contemporary Office Interiors | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=5cccdbb5b8d8f47c |
+| Project Coordinator | VETS Sheet Metal | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=fd6e48ba988c12a5 |
+| Senior Planner | Fluor Corp. | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=f7d21dbf4d20bd16 |
+| Senior IT Technical Business Analyst - STBA 26-04998 | NavitasPartners | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=3e8556cf703c3fd1 |
+| Senior IT Technical Business Analyst - STBA 26-04998 | NavitasPartners | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=8cf6a35f6a6d2288 |
+| Senior IT Technical Business Analyst - STBA 26-04998 | NavitasPartners | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=ab0d87f7f9d3d8bb |
+| Senior IT Technical Business Analyst - STBA 26-04998 | NavitasPartners | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=362b4ae349702eb9 |
+| Planning and Development Coordinator | Sturgeon County | 2026-05-04 | J | https://ca.indeed.com/viewjob?jk=cada9c61701d8bb8 |
+| Rental Coordinator | EllisDon | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410086753 |
+| Contracts Coordinator | Agilus Work Solutions | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408930378 |
+| Administrative Coordinator | Norton Rose Fulbright | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410227420 |
+| Advisor, Talent Acquisition | BBA Consultants | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410227458 |
+| Senior Planner | Fluor Corporation | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4410218694 |
+| Senior Mineral Land Analyst | InSync Systems | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408919291 |
+| Administrative Assistant | WCG International Consultants Ltd. | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=883a28a872e1863c |
+| Advisor, Stakeholder and Community Engagement | Inter Pipeline | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=05f8d06142e7f598 |
+| Commercial Insurance Advisor | BrokerLink | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=a039835576a36641 |
+| Senior Advisor, Regulatory Approvals | Cenovus Energy | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=355a565280051186 |
+| Property Administrator | EPIC Investment Services | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=2d9833418d691555 |
+| Community Recruitment Coordinator (1-Year Contract, Full Tim | Fable | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=e9e2a1965340fc95 |
+| Business Process Coordinator | Ledcor | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=4194e44f44f03cee |
+| Travel & Administrative Specialist | Travel Masters | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=581693f4ce54dac2 |
+| Marketing & Business Development Coordinator (Remote) | Innostrat Global Pvt. Ltd. | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=c396e7f5961ad538 |
+| Environmental Administrative Assistant | WSP in Canada | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4407796949 |
+| Administrative Assistant | WCG Services | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4410217844 |
+| Advisor, Expert Support, Collective Retirement Savings | Desjardins | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408106015 |
+| Total Wealth Planner - Calgary, AB | Scotiabank | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408926262 |
+| Policy Advisor | Government of Alberta | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4408930254 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-04 | N | https://www.linkedin.com/jobs/view/4410202686 |
+| IT Technical Business Analyst | Vantix Systems Inc | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=07685be4ffdfe0f1 |
+| AI Systems Analyst | CANTIRO | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=58e5668fd36606bc |
+| Platform Infrastructure Engineer (Containers) | Menlo Security | 2026-05-04 | R | https://ca.indeed.com/viewjob?jk=6e6cae933d074d57 |
+| Guest Experience Specialist - YYC | Signature Aviation | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4403252486 |
+| Brand Specialist - Calgary, AB | Beauty Barrage | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410231148 |
+| AI Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4408909368 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410089796 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-04 | R | https://www.linkedin.com/jobs/view/4410088814 |
+| Royal Service Agent | Fairmont | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=d4518b765c43c968 |
+| Customer Service Representative (Part Time) | Best Buy | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=34b60c9d53ec9a6c |
+| Customer Service Representative | Calgary JCC | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=2f39942481a6632c |
+| Customer Service Representative (Part Time) | Best Buy | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=7b5058564bfa1a6a |
+| Sales Associate -Temporary/Full-time (Richmond) - Canada Sum | Women In Need Society | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=c06510092a964476 |
+| Documentation Specialist I | Essex Lease Financial Corporation | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=977c70e6b94c3cf8 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408916503 |
+| Associate | Cushman & Wakefield | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410094975 |
+| Summit Readiness Associate, Commercial Development Programs  | Scotiabank | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408930237 |
