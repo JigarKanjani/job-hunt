@@ -5348,3 +5348,7 @@
 | Engineer in Training I - Data Intelligence & Decision Suppor | Enbridge | 2026-05-03 | R | https://www.linkedin.com/jobs/view/4407715860 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4408391119 |
 | Social Media Coordinator | Digital Shift® | 2026-05-03 | G | https://www.linkedin.com/jobs/view/4407710995 |
+| Clinic Operations Coordinator | The Holistic Institute of Health and Fer | 2026-05-04 | J | https://www.linkedin.com/jobs/view/4408601040 |
+| Culinary Operations Coordinator | Accor | 2026-05-04 | N | https://ca.indeed.com/viewjob?jk=bb90bb55cd38aa75 |
+| Domino's Customer Service Representative (6544 4 St NE) | Domino's | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=031ea9b060f4481e |
+| Front Desk Agent - Full Time Morning (Monday - Friday) | Motel 6 Airdrie | 2026-05-04 | G | https://ca.indeed.com/viewjob?jk=7e2d3db4850ce6bb |
