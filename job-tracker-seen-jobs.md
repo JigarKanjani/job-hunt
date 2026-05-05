@@ -5514,3 +5514,17 @@
 | OMNI Customer Fulfillment Associate (4-5AM shifts) | Walmart | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=34221de6663e0961 |
 | OMNI Customer Fulfillment Associate | Walmart | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=6d027342209b4d7b |
 | Receptionist- Casual | COGIR Real Estate | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4410518320 |
+| Team Lead Residential Program Permanent Full-Time | Calgary Alternative Support Services | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=6cb4eff9e12ae07c |
+| Enrolment Services Advisor - Recurring Part-Time | University of Calgary | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=8dbf2ec1ad3aefb6 |
+| Enrolment Services Advisor, Office of the Registrar | University of Calgary | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=507f32e428a07e39 |
+| Contracts Administrator | Trans Mountain Corporation Inc. | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=8712a6629be92311 |
+| ESC Administrative Coordinator, Schulich School of Engineeri | University of Calgary | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=8c5d1bb46616980d |
+| Total Wealth Planner - Calgary, AB | Scotiabank | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=baac6a42df0a2f87 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=0b7df2eb6071609d |
+| Day Options - Community Support Worker | Calgary Alternative Support Services | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=37918517772effbc |
+| Administrative Assistant, Department Head | University of Calgary | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=2e8b3aa37f3ca949 |
+| Global Investment Banking Analyst, Fall 2026 Analyst (Calgar | CIBC | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410512842 |
+| Financial Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409301413 |
+| Staff Engineer - Escalations (Platform/ Cloud) | Kinaxis | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4401549978 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409307427 |
+| Customer Service Representative | WD WIAN Test Company Page | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4410530658 |
