@@ -5566,3 +5566,20 @@
 | Cloud Infrastructure Specialist (Remote) | Quik Hire Staffing | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410714001 |
 | Content Marketing Specialist | Konstruct Digital | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409377101 |
 | Paid Ads Specialist | Konstruct Digital | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409358362 |
+| Project Coordinator | Inter-Co Division 10 Inc. | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409375526 |
+| Project Coordinator | Soletanche Bachy Canada Inc. | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410725266 |
+| Health and Safety Analyst | Onterris | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4408427745 |
+| Tap Room Coordinator | Labatt Breweries of Canada | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410726408 |
+| Applications Specialist | Finning | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409357813 |
+| Admissions Advisor (Education Sales & Call Center Focus) | RCB College | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=e416001265682265 |
+| Lease & Loan Administrator I | Essex Lease Financial Corporation | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=73005fdd1ad5d1b9 |
+| HR & Governance Coordinator | Public Services Health & Safety Associat | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=f6a1ce03ac5f4b06 |
+| Bookkeeper/Administrative Assistant & Payroll Coordinator | Lucere Dermatology & Laser Clinic | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=1c8e0f03bc93cb5a |
+| Administrative Assistant/Receptionist | Tamarack Physiotherapy | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=62252462aef79f74 |
+| Office Administrator | Agilus Work Solutions | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4409375857 |
+| Product Specialist - Fire Prevention | First Due | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=593bf66e7f214008 |
+| Merchant Support Specialist | Helcim | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410728144 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410731114 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410733108 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410725350 |
+| Jr. Quality Control Associate | HelloFresh | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=c9c97d49e79e0e2c |
