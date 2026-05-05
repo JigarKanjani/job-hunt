@@ -5546,3 +5546,23 @@
 | Financial Analyst – Investment & Document Evaluation | Remot | CapitexAI | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409325055 |
 | Banking Research Specialist | Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409353335 |
 | Customer Service Representative | Saint-Gobain | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=59b931538b62a78e |
+| Client Services Coordinator | Cornerstone Engineering Ltd | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=d62323c01aa2dfbe |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=79c84bd8fb7b3789 |
+| A&D Contract Analyst | Sproule ERCE | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410706651 |
+| Senior Analyst | Kelly Services (Canada), Ltd. | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409369353 |
+| PMO Governance Documentation Lead | Turner & Townsend | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4400007123 |
+| Summer Program Teacher & Assistant Camp Coordinator | Family Advancement Association | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=6c41c7bb13c4ad83 |
+| Circle Coordinator | PARO Centre for Women's Enterprise | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=78c49ca440095bc0 |
+| Finanacial Advisor - Commission Only | Lavern Rankin - Eau Claire Partners Inc. | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408432057 |
+| Sr. Human Resource Advisor (Hybrid) | Calgary Board of Education | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4410594582 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Quik Hire Staffing | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4410704137 |
+| AI Trainer - Advanced Tamil Fluency (Calgary) | Prolific Academic Ltd | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=4fff0688e922cc04 |
+| Business Data Analyst | StackAdapt | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=3345702b6aa1c58a |
+| Process Online Analyzer Specialist (Relocation to Saudi Arab | aramco | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410724020 |
+| Event Administrator | Contemporary Career Consultants | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409375013 |
+| Banking Research Specialist | Remote | CapitexAI | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409353335 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410583791 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410596547 |
+| Cloud Infrastructure Specialist (Remote) | Quik Hire Staffing | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410714001 |
+| Content Marketing Specialist | Konstruct Digital | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409377101 |
+| Paid Ads Specialist | Konstruct Digital | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409358362 |
