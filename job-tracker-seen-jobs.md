@@ -5535,3 +5535,14 @@
 | Financial Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409301413 |
 | Financial Analyst – Investment & Document Evaluation | Remot | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409325055 |
 | Administrative Support IV | Alberta Health Services | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=80eebef2d6efdee9 |
+| Contractor - Junior Contract Analyst | China National Offshore Oil | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=1bb664fe9c165e6d |
+| Team Lead – Marketing Operations Accounting | China National Offshore Oil | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=8253807bfbd53518 |
+| Analyst | Alberta Health Services | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409345447 |
+| IT Oil Sands Solutions Analyst | China National Offshore Oil | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=480a4ac14e54d7e3 |
+| Trainer - Provincial Training Specialist | Alberta Health Services | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4409352375 |
+| Consultant, Requirements Analyst - Pension Administration | Aon | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410566643 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408999785 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410558926 |
+| Financial Analyst – Investment & Document Evaluation | Remot | CapitexAI | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409325055 |
+| Banking Research Specialist | Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409353335 |
+| Customer Service Representative | Saint-Gobain | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=59b931538b62a78e |
