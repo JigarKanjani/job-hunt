@@ -5468,3 +5468,35 @@
 | Customer Experience Associate | TD | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4410252151 |
 | Customer Service Representative (Part Time) | Best Buy Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408110837 |
 | Property Field Claims Specialist | Allstate Canada | 2026-05-04 | G | https://www.linkedin.com/jobs/view/4408927543 |
+| Analyst, Tax | Inter Pipeline | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=0a0f68b37bd1b488 |
+| Individual Giving Coordinator | Calgary Food Bank | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=6246a44c5a1d6776 |
+| Insolvency Advisor | Bromwich+Smith | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=e49b63b38e47515d |
+| Ground Support Equipment (GSE) Maintenance & Management Spec | De Havilland Aircraft of Canada Ltd | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=7fb0a6d1d8108a89 |
+| Senior Advisor Data and Automation | Enbridge | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=b312d77b28401b20 |
+| Project Coordinator, Real Estate Management | WSP | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=a6c5603e85753a14 |
+| Senior AI Creative Automation Lead | CSC Generation | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=3cb36e26b39a2d3c |
+| Contractor Management Analyst | SECURE | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410264091 |
+| Procurement Manager | DSJ Global | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4408125387 |
+| PepsiCo Beverages Supply Chain Co-Op | PepsiCo | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4408131239 |
+| Administrative Coordinator | Syngenta | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410263398 |
+| Analyste, Soutien aux utilisateurs, One Port | KPMG Canada | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410275998 |
+| IT Oil Sands Solutions Analyst | China National Offshore Oil | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=3e828e9be446ddaf |
+| Senior Tax Advisor | Suncor Energy | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=3467a08287b7e7f9 |
+| Recruitment and Engagement Coordinator | Home Instead | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=ce55c625779a5431 |
+| Coordinator, Marketing & Business Development | McCarthy Tétrault | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4410255752 |
+| Veterinary Assistant, Receptionist, Tuscany Veterinary Hospi | VCA Animal Hospitals | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408938035 |
+| Regional Engagement Coordinator - Southern Alberta (Calgary, | Gateway Association Alberta | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408926915 |
+| IT Support Technician L2 | MAARA Consulting | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=8eb8584e4a6893ae |
+| Support Analyst, EUS, One Port | KPMG Canada | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410289134 |
+| Commercial Spares Administrator (Calgary) | Textron | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408156144 |
+| Personal Trainer | Anytime Fitness Asia | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408921919 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410269884 |
+| Royal Service Agent (Part-time) | Accor | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=a6c41831a4c86ddd |
+| Royal Service Agent | Accor | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=d7946c830e2b8e15 |
+| Customer Experience Associate | TD | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=a7fa57a49fa9afbf |
+| Personal Banking Associate Trainee | TD | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=3379215d53ec2acd |
+| Customer Experience Associate | TD | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=a1923759d967e69b |
+| Royal Service Agent (Part-time) | Fairmont Hotels & Resorts | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408938604 |
+| Royal Service Agent | Fairmont Hotels & Resorts | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408951493 |
+| Sales Associate Full Time - Southcentre Mall | WOW! mobile boutique | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408924910 |
+| Sales Associate Full Time - Chinook Centre | WOW! mobile boutique | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408935758 |
