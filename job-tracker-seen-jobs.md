@@ -5528,3 +5528,10 @@
 | Staff Engineer - Escalations (Platform/ Cloud) | Kinaxis | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4401549978 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409307427 |
 | Customer Service Representative | WD WIAN Test Company Page | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4410530658 |
+| Analyst | Alberta Health Services | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=401e7ba694f93e9f |
+| Trainer - Provincial Training Specialist | Alberta Health Services | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=67f1c40821ff281a |
+| Trainer - Provincial Training Specialist | Alberta Health Services | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=009ac78322ea1db1 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408999785 |
+| Financial Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409301413 |
+| Financial Analyst – Investment & Document Evaluation | Remot | Crossing Hurdles | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409325055 |
+| Administrative Support IV | Alberta Health Services | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=80eebef2d6efdee9 |
