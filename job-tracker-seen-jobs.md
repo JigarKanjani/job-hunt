@@ -5583,3 +5583,46 @@
 | WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410733108 |
 | WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410725350 |
 | Jr. Quality Control Associate | HelloFresh | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=c9c97d49e79e0e2c |
+| Office Coordinator/Inside Sales | Amrize | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=66254ab56ab55f58 |
+| Analyst, Tax | Inter Pipeline | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=e256ea942f8d994d |
+| Client Coordinator | Avenir | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=ba958c6ee3a2c9e4 |
+| Field Progress and Reporting Lead | Fluor Corp. | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=b362363774f1ae8b |
+| Business Analyst | Pacer Group | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409702750 |
+| Summer Student - Inventory & Supply Chain | Applied Industrial Technologies - Canada | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410738527 |
+| Project Coordinator | De Havilland Aircraft of Canada Limited | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410763914 |
+| Office Coordinator/Inside Sales | Amrize | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4408442535 |
+| Client Coordinator | Avenir LLP | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410767252 |
+| Senior Program Manager – Digital Banking Operations & Automa | Wissen Technology | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410765883 |
+| Operations Supervisor - Commercial Real Estate | JRoss Retail Recruiters | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410728525 |
+| Team Lead (Full time) - Beacon Hill | RCL - Reitmans Canada Ltd/Ltée | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410770651 |
+| School Program Manager, Alpha - $150,000/year USD | Crossover | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409709071 |
+| Financial Analyst | Brunel | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4409383877 |
+| Field Progress and Reporting Lead | Fluor Corporation | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4410767620 |
+| Regional Service Coordinator | SMS Equipment Inc. | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=c6943ce7ca06456d |
+| Project Administrator | Dillon Consulting Limited | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=fc2bce900f17828f |
+| Field Coordinator - Well Servicing | ironsight | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=10ed3b1497321e58 |
+| Patient Care Coordinator | Dominion Medical Centres | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=ef773dd6b0313f8c |
+| Community & Experience Coordinator (Front of House + Admin) | The Real Estate District | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=19c6f4048fe68dfa |
+| PChAD – Child and Youth Care Counsellor | Hull Services | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408446532 |
+| Office Administrator | Remuda Building | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4409706024 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408441101 |
+| Global Markets, Equity Research, Fall 2026 Analyst (Calgary) | CIBC | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4410751656 |
+| Summer Student – Data Management Specialist | Hull Services | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=4fc9d9e4802ed8bc |
+| Summer Student – Data Management Specialist | Hull Services | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408455453 |
+| Global Transaction Banking, Cash Management Fall 2026 Analys | CIBC | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410757394 |
+| Financial Analyst | InSync Systems | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409389202 |
+| Office Administrator | JEI Tech | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410749251 |
+| Executive Administrator | Canadian Cattle Identification Agency | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4409387872 |
+| Business Systems Analyst | The Salvation Army in Canada | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410758951 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410744581 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410742653 |
+| (Remote) Support Analyst | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410745467 |
+| (Remote) Support Analyst | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410745464 |
+| (Remote) Support Analyst | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410747337 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410731850 |
+| (Remote) Support Analyst | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410746421 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4410731844 |
+| Administrative Assistant (Canada Summer Job) | The Mustard SEED Society | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=efb2bc3b2c730920 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409711230 |
+| Intermediate Customer Onboarding Specialist, Clio Work | Clio | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409399418 |
+| Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4382802025 |
