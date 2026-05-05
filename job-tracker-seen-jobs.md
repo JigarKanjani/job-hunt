@@ -5500,3 +5500,17 @@
 | Royal Service Agent | Fairmont Hotels & Resorts | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408951493 |
 | Sales Associate Full Time - Southcentre Mall | WOW! mobile boutique | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408924910 |
 | Sales Associate Full Time - Chinook Centre | WOW! mobile boutique | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4408935758 |
+| Jr. Purchasing Agent | JATEC | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=ca8109f6d5953fd4 |
+| Remote Client Services Analyst | QHR Technologies | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=b29dcf8de58b5e59 |
+| Remote Client Services Analyst | QHR Technologies | 2026-05-05 | J | https://ca.indeed.com/viewjob?jk=3fe3f9499fc59719 |
+| 700124 - Personal Care Specialist (12-month  Contract) | Cencora | 2026-05-05 | J | https://www.linkedin.com/jobs/view/4408151873 |
+| Sr. Human Resource Advisor (Hybrid) | Calgary Board Of Education | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=3865ce23ebedfa48 |
+| AI & Governance Platforms Administrator | Finning | 2026-05-05 | N | https://ca.indeed.com/viewjob?jk=fb75d1133a812033 |
+| Enrolment Services Advisor - Recurring Part-Time | University of Calgary | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408968024 |
+| Enrolment Services Advisor, Office of the Registrar | University of Calgary | 2026-05-05 | N | https://www.linkedin.com/jobs/view/4408968025 |
+| Commercial Spares Administrator (Calgary) | Bell Textron Inc. | 2026-05-05 | R | https://ca.indeed.com/viewjob?jk=fc0f68b23806f1f4 |
+| Technical Support Specialist (2026-011) | Circle Cardiovascular Imaging | 2026-05-05 | R | https://www.linkedin.com/jobs/view/4408971057 |
+| Licensed Real Estate Agent: Ready to Scale Your Success? | Ken Rigel Group | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=53f883c9995d2a28 |
+| OMNI Customer Fulfillment Associate (4-5AM shifts) | Walmart | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=34221de6663e0961 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-05 | G | https://ca.indeed.com/viewjob?jk=6d027342209b4d7b |
+| Receptionist- Casual | COGIR Real Estate | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4410518320 |
