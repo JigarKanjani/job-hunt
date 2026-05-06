@@ -5647,3 +5647,14 @@
 | Administrative Support II - Anatomic Pathology Department | Alberta Precision Labs | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=7aa302034ca1ae3f |
 | Project Administrator | Dillon Consulting Limited | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=323aeb4695331261 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409794194 |
+| Estimating Coordinator - 1 Year Contract (Temporary) | Inflector Environmental Services | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=09bd793abeccc34a |
+| shipping and receiving coordinator | ABI Mouldings Ltd. | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4410969789 |
+| Procurement Systems Analyst (Smart Materials) | AtkinsRéalis | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409915651 |
+| Procurement Systems Analyst (Smart Materials) | AtkinsRéalis | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409904902 |
+| Functional Recovery Support Case Manager | Homewood Health | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=b4c4d7550ed95be2 |
+| Grants Coordinator | Community Foundation of Southeastern Alb | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=126a043f189b9aa7 |
+| Office Coordinator | Omada Rail Systems | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=f66ed895be1f13bc |
+| Office Coordinator | Egis Group | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=7010ad07b2024922 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4408862295 |
+| ServiceNow SecOps Developer | Ampstek | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409932247 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4408855130 |
