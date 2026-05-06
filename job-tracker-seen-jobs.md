@@ -5626,3 +5626,14 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409711230 |
 | Intermediate Customer Onboarding Specialist, Clio Work | Clio | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4409399418 |
 | Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-05-05 | G | https://www.linkedin.com/jobs/view/4382802025 |
+| Operations Admin Support | WELL Health Technologies Corp | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=53516b6d041be7e0 |
+| Showroom Coordinator | DIVINE HARDWOOD FLOORING LTD. | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=697aeae5ca0c1640 |
+| Submission Officer | BLS International | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4408488287 |
+| Events & Program Coordinator | St. Albert Seniors Association | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=df01882a2c3f6666 |
+| Employee Engagement & Events Coordinator | Kidco Construction Ltd. | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=d44619c119a4c506 |
+| Case Manager (YTA) - Full Time | TRELLIS SOCIETY FOR COMMUNITY IMPACT | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=27ad00e7b9b46d68 |
+| Security Patrol Officer | Mahogany Homeowners Association | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=3274816089cad142 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=5ea1f2189745013e |
+| Customer Service Representative | BMO | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4410943600 |
+| Full-Time Customer Service Representative - Calgary | Keolis Commuter Services | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4410955998 |
+| Associate | Blackstone Commercial Real Estate Servic | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409757170 |
