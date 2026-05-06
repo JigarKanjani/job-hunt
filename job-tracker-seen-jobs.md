@@ -5637,3 +5637,13 @@
 | Customer Service Representative | BMO | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4410943600 |
 | Full-Time Customer Service Representative - Calgary | Keolis Commuter Services | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4410955998 |
 | Associate | Blackstone Commercial Real Estate Servic | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409757170 |
+| Senior Financial Analyst | Acute Care Alberta | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=eb1a40ae7c346482 |
+| Project Controls Analyst | Aim Land Services | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=daf74bcd3df32014 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=f958d73afe5a9c74 |
+| Administrative Assistant to the Chair | Mount Royal University | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=4195bf69510e956d |
+| Data Analyst | Affinity | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4400784894 |
+| Administrative Support IV | Alberta Precision Labs | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=e40ae82e5f5179f8 |
+| Administrative Support IV | Alberta Precision Labs | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=150905aa9412857e |
+| Administrative Support II - Anatomic Pathology Department | Alberta Precision Labs | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=7aa302034ca1ae3f |
+| Project Administrator | Dillon Consulting Limited | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=323aeb4695331261 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409794194 |
