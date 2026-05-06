@@ -5658,3 +5658,25 @@
 | Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4408862295 |
 | ServiceNow SecOps Developer | Ampstek | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409932247 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4408855130 |
+| Junior Buyer/Expeditor | Hatch | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=58d08835a48d2f4c |
+| Purchasing Coordinator | Canada Medical Ltd | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=3dfed3759f3b9b1b |
+| Supply Chain System Analyst | BlueWater Group | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=81f58f6a5b5a2e67 |
+| Supply Chain Manager (Building Materials) | Lotus Group | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409927989 |
+| Management Consultant / Business Analyst - Calgary (future o | Sia | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4411205217 |
+| Contracts Advisor | Suncor | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4410950072 |
+| Project Coordinator | Executive Millwork Inc. | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4410985889 |
+| Finance & Controlling Analyst | Summit Search Group | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409948185 |
+| Mental Health Worker – Summer Student Position | Potential Place Society | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=3eaa0fb8682a5e3d |
+| Location Administrator - Concorde Group | Concorde Group | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=ed85b0790858e349 |
+| Supply Chain Coordinator @ Biosteel | Coachwood Group | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=f98f4a93a9c16c61 |
+| Disability Case Analyst/Case Manager | Manulife | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=eaf7cbb1503c9074 |
+| Regional Administrator, Training and Support | Northview Residential REIT | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4409934911 |
+| Data Analyst, HR | The Salvation Army in Canada | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4411201246 |
+| Embedded System Developer | Outlaw Automation Inc. | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=392f9a401153b84e |
+| ServiceNow Developer SecOps | Spruce InfoTech Inc. | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4410994357 |
+| ServiceNow Developer | Spruce InfoTech Inc. | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4411201249 |
+| ServiceNow SecOps Developer | Ampstek | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409928553 |
+| Specialist Reservoir Engineer | Suncor | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4410936099 |
+| AI Evaluation Specialist | Remote | Crossing Hurdles | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409925826 |
+| Order Management Specialist | eTeam | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4408869789 |
+| Temporary Payroll Specialist | Surerus Murphy Joint Venture | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409947641 |
