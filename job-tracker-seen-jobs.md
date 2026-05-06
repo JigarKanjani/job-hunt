@@ -5728,3 +5728,51 @@
 | Operations Support Specialist | NEWGEN CLEANING SERVICES | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=3ffc66a7721c9454 |
 | Reception-Store - Front Desk Receptionist | MaKami College | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411250201 |
 | Customer Support Specialist (New Grads) | Clio | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409966724 |
+| Field Equipment Task Lead | Jacobs | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=d59b4134661e1208 |
+| Logistics Coordinator | Amrize | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=47664beb02f987c3 |
+| Leadhand Trouble Response (PLT) (Nights) | Enmax | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=59c0e7c8b014fd0a |
+| Cometic Operations Specialist | Rejuvenation Medical Group | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=fd398a6f0c002268 |
+| Infrastructure Analyst- Business Analyst II | Bow Valley College | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=b5ae7788c76a23e8 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=1ace05ca4aace1fc |
+| Senior Financial Analyst | Parkland Corporation | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409204289 |
+| Advisor Talent Acquisition- Fixed Term | CPKC | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4411235997 |
+| 700124 - Personal Care Specialist (12-month  Contract) | Cencora | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4408887836 |
+| Logistics Supervisor | AGAT Laboratories | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409214160 |
+| Leadhand Trouble Response (PLT) (Nights) | ENMAX | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409973567 |
+| Senior Mineral Land Analyst | Adecco | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409993429 |
+| Propulsion Systems Engineering Specialist | De Havilland Aircraft of Canada Limited | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4411240745 |
+| Community Support Worker Residential Program (Permanent Part | Calgary Alternative Support Services | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=2fff58e7a9297c61 |
+| PT Community Support Worker - Calgary | Calgary Alternative Support Services | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=85d7ee8f1c5e4a28 |
+| Community Support Worker Float - Day Program | Calgary Alternative Support Services | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=beed9f9ff9131f37 |
+| Client Navigation Worker | CUPS | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=ab192a591e922908 |
+| Office Administrator (Construction Project Support) | MCG Careers | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=ff12614d5aa47179 |
+| Client Services Coordinator & Technical Support Coordinator  | Alberta Avenue Medical Clinic | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=e62500e6e11048e7 |
+| Sales and Reservations Coordinator | Concord Hospitality | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=431091dffd436c8a |
+| OFFICE ADMINISTRATOR - SUMMER CONTRACT | Troy Life & Fire Safety Ltd. | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4409997360 |
+| Mental Health Specialist | Calgary John Howard Society | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=288876a18e97d0a3 |
+| Enterprise Application Analyst, Permanent Full-Time | LAC LA BICHE COUNTY | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=172ab7d0e56b3cd4 |
+| Research Analyst | JLL | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=9d09b28a54023b6c |
+| Technical Support Specialist (2026-017) | circle cardiovascular imaging | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=a19873bbd85a15a3 |
+| Ignition Developer | Tarco | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409980493 |
+| Maximo Developer | Enterprise Solutions Inc. | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409994022 |
+| ServiceNow SecOps Developer | Ampstek | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409985322 |
+| ServiceNow SecOps Developer | Ampstek | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409995110 |
+| Accounting Administrator (AP/AR Admin) | Black Diamond Lodging & Accommodations | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4408474519 |
+| Analyst, Risk and Compliance | Odyssey Trust Company | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409219188 |
+| Administrative - MAC United Soccer Club | Muslim Association of Canada | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=a1f79187ea70ecf4 |
+| Front Desk Associate GYMVMT Calgary Place | GYMVMT | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=5c4db5860077773d |
+| Propulsion Systems Engineering Specialist | De Havilland Aircraft of Canada Ltd | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=6dc4ee10fa96d222 |
+| Customer Service Representative (Full Time) | Best Buy | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=32fbb30cd8929e07 |
+| Associate | RBC | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=b9ef3fd83d15b9e9 |
+| Compliance Officer | Paladin Airport Security Services | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=2c1a0ca255cef025 |
+| GRM Rotational Associate, Credit Adjudication | RBC | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=9af6a9c7928136c4 |
+| Front Desk Agent | Concord Hospitality | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=1170b39e7b86bc45 |
+| "At Your Service" AYS Agent | Concord Hospitality | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=bb118bd8829d1b83 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409991341 |
+| Customer Experience Associate | TD | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411274182 |
+| Customer Experience Associate | TD | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411263323 |
+| Customer Service Representative (Full Time) | Best Buy Canada | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409220093 |
+| Customer Service Representative | Innospec Inc. | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409984382 |
+| Service Coordinator | Wiseworth Canada Industries 1996 Ltd. (A | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411277067 |
+| New Grad - Commodities Market Contracts Advisor | Suncor | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411236823 |
+| Associate Lawyer - Banking & Financial Services | Urban Legal Recruitment Inc. | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4398190155 |
