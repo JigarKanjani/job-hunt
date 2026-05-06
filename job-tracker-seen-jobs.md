@@ -5680,3 +5680,16 @@
 | AI Evaluation Specialist | Remote | Crossing Hurdles | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409925826 |
 | Order Management Specialist | eTeam | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4408869789 |
 | Temporary Payroll Specialist | Surerus Murphy Joint Venture | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409947641 |
+| Advisor, Human Resources Distribution Center (Balzac) | Dollarama | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=a685e4d290a06482 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=31e3e57326d48c75 |
+| Junior Buyer/Expeditor | Hatch | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409969257 |
+| Senior People & Culture Benefits Advisor | TELUS | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409955559 |
+| Field Equipment Task Lead | Jacobs | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4411209563 |
+| Advisor, Human Resources Distribution Center (Balzac) | Dollarama | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409943871 |
+| Safety & Project Administration Coordinator | Gator Construction Group Inc. | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=20d97fcaa144de1c |
+| Administrative Coordinator | GFI Solutions Ltd. | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=c3fe99e428ee55e7 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4400784835 |
+| AI Evaluation Specialist | Remote | Crossing Hurdles | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4409925826 |
+| Legal Administrative Assistant | Preszler Injury Lawyers | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=97b2d838ce73955a |
+| Document Control Specialist | Kiewit | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4389310664 |
+| Sales Associate | Blackstone Commercial Real Estate Servic | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409942819 |
