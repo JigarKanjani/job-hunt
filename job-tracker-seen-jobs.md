@@ -5693,3 +5693,38 @@
 | Legal Administrative Assistant | Preszler Injury Lawyers | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=97b2d838ce73955a |
 | Document Control Specialist | Kiewit | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4389310664 |
 | Sales Associate | Blackstone Commercial Real Estate Servic | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409942819 |
+| Sales & Customer Support Specialist | Sto Canada Ltd. | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=bd180d4bd885ef61 |
+| Service Coordinator | Finning | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=5599d1d314cb02c5 |
+| Senior People & Culture Benefits Advisor | Telus | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=5e5a507f08c72580 |
+| People and Culture Coordinator | Wood's Homes | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=8530b90e1706f739 |
+| Administrative Coordinator | NEXT Kids Inc., | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=327b83d618840c93 |
+| Base Material Coordinator | Top Aces | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=fafacb7e3607fec3 |
+| Project Planner/Scheduler (Intermediate to Senior Level) | Tetranex Solutions Inc. | 2026-05-06 | J | https://ca.indeed.com/viewjob?jk=099bbc2d06ce9cc7 |
+| Logistics Coordinator | Amrize | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4408880906 |
+| Analyste en indemnisation II | Intact | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409951931 |
+| Accident Benefits Claims Specialist | Intact | 2026-05-06 | J | https://www.linkedin.com/jobs/view/4409963654 |
+| Senior Youth & Family Counsellor - Community Psychiatric Uni | Wood's Homes | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=d2c91fcbc0b9cdaa |
+| Financial Controls Analyst | Canadian Natural | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=8fd9492932c3b108 |
+| Office Administrator - Summer Contract | Troy Life & Fire Safety Ltd. | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=c77866c412118a34 |
+| Program Coordinator, Impact Guarantee | Scale Collaborative | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=4f35ac114ed9a126 |
+| Events and Marketing Coordinator | Linezero | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=e655e602ec5aa873 |
+| Administration (Surgical Coordinator) | Visionmax Eye Centre | 2026-05-06 | N | https://ca.indeed.com/viewjob?jk=667d300c9641dbd4 |
+| Analyst, Early Talent Acquisition | Deloitte | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4411240361 |
+| Payroll and Benefits Administrator | Trotter & Morton Group of Companies | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4409970512 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-06 | N | https://www.linkedin.com/jobs/view/4411246016 |
+| Technical support specialist – information technology (IT) | Uniway Computers | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=6ba22ed6315cf0c5 |
+| Corporate Planning & Reporting Analyst | Government Of Alberta | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=71c803c85d8e0a3e |
+| Analyst, Cyber Security | Precision Drilling | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=421f38ba2fc64f85 |
+| Power Apps Developer | Harris Computer | 2026-05-06 | R | https://ca.indeed.com/viewjob?jk=6db34abbede04f93 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4400784835 |
+| Analyst, Global Investment Banking - Project Advisory & Fina | RBC | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4411235328 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-06 | R | https://www.linkedin.com/jobs/view/4411219739 |
+| Reception-Store - Front Desk Receptionist | MaKami College | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=55a6d2c2c9b263f1 |
+| Receptionist Casual-Aspen Calgary Alberta, CAN View Job | Silvera For Seniors | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=e130dc5294c92e06 |
+| Night Auditor/Front Desk Agent | Holiday Inn Express and Suites | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=7855deffa6f677fe |
+| Sales Associate, New Car | Kaizen Automotive Group | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=0af49d831029a978 |
+| Customer Experience Associate | TD | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=85268c071a2a519c |
+| Customer Experience Associate | TD | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=940ee3865b774d2d |
+| Operations Support Specialist | NEWGEN CLEANING SERVICES | 2026-05-06 | G | https://ca.indeed.com/viewjob?jk=3ffc66a7721c9454 |
+| Reception-Store - Front Desk Receptionist | MaKami College | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411250201 |
+| Customer Support Specialist (New Grads) | Clio | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4409966724 |
