@@ -5868,3 +5868,30 @@
 | Sales Associate | Maple Craft Inc. | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=a5b2d78a99bc1241 |
 | Sales Associate | Maple Craft Inc. | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=8c77a80ed2dd19c6 |
 | Alumni Programs Specialist, VP Development and Alumni | University of Calgary | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411636589 |
+| Enterprise Client Executive - Calgary | NetApp | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=4834dd6c9d39f10e |
+| Carbon Project Analyst (Calgary) | EarthRenew Inc. / Replenish Nutrients Lt | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=c9c9c1fdee310f8c |
+| Field Project Coordinator | Azuria Water Solutions | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=570882a3d9590cc5 |
+| Production Planner | Dynamic Source Manufacturing Inc. | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=385c81fcfc3b044f |
+| IT Security Analyst | Stantec | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=898e4a52793d3e16 |
+| Business Services Analyst | Government Of Alberta | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=f11d6258a221c67d |
+| Sr Advisor, Global Mobility | Nutrien | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411652453 |
+| Marketing Financial Planning & Analysis (FP&A) Senior Analys | Pembina Pipeline Corporation | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411655326 |
+| Economics Senior Analyst | Pembina Pipeline Corporation | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411652616 |
+| Geographic Information Systems (GIS) Forester (Natural Asset | Mount Royal University | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409600757 |
+| Field Project Coordinator | Azuria Water Solutions | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411653657 |
+| Human Resources and Payroll Coordinator (12-18 Month Contrac | Daytona Homes | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=aa92bfd70de12ebb |
+| Business Coordinator | Cold Shot | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=55725e3673fd3abb |
+| Logistics Coordinator | Acuren | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=9cbdf5a93e757bd9 |
+| Administrator Benefits Administration (contract) | Sobeys | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411679361 |
+| LIVE IN RESIDENT CARE WORKER | McMan Youth, Family and Community Servic | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4410845138 |
+| Payroll & Benefits Specialist | Adecco | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4410811827 |
+| IT Support Specialist | Titan IT & Video Services Ltd. | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=900b27d2a7045b24 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411673015 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411672122 |
+| Clinic Experience Associate | CBI HEALTH | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=d3cbb3a1d2b25204 |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=4e74d87292a7a941 |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=9f76bb80c30dfd11 |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=eb1782cc8150e13b |
+| Veterinary Specialist, Critical Care, Western Veterinary Spe | VCA Canada | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=446059fa8a9ffa51 |
+| Customs Brokerage Agent | Expeditors | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4409602648 |
+| Customer Onboarding Specialist | Clio | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410845078 |
