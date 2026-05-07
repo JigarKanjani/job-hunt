@@ -5843,3 +5843,13 @@
 | Field Sales Agent - Calgary South East | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=567f09d2e1b39d00 |
 | Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=32a1707c85e50fd8 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410479423 |
+| Proposal Specialist (Contract 20 mos) | Dexterra Group | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4402635766 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409274092 |
+| Operations or Administrative Analyst | $80/hr Remote | Crossing Hurdles | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4409264936 |
+| Program Manager, Digital Customer Success (Remote, CAN) | CrowdStrike | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4390053169 |
+| Quality Review Specialist | Remote | Crossing Hurdles | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4409272369 |
+| Human Capital Systems Analyst | MNP | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=978e5d3cb7bfce59 |
+| IT Security Analyst | Stantec | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411626485 |
+| ServiceNow SecOps Developer | Ampstek | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410497283 |
+| AI Operations Analyst | ABC Fitness | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410497115 |
+| Research / Evaluation Analyst | Remote | Crossing Hurdles | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4409267629 |
