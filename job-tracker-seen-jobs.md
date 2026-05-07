@@ -5823,3 +5823,23 @@
 | Specialist, Environmental Site Assessment | Calgary Airports | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=1c2e0c12151c04e5 |
 | Receptionist - Workplace Services | Deloitte | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=8793f79b0cc382e2 |
 | Service Support Associate - 12 Month Contract | Canada Life | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410446044 |
+| Supply Chain Coordinator | Earth Drilling | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=75bfdc2f3d580853 |
+| Employer Relations Specialist - CCPD | University of Calgary | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=60740c269b7ad229 |
+| Senior Financial Analyst | Parkland Corporation | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=008adf85da58b1e7 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=c2d888d0ab3d3e46 |
+| Administrative Assistant | Property Tax Services | Colliers | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4402646665 |
+| Program Manager, Digital Customer Success (Remote, CAN) | CrowdStrike | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4390053168 |
+| Program Manager, Digital Customer Success (Remote, CAN) | CrowdStrike | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4390053167 |
+| Program Manager, Digital Customer Success (Remote, CAN) | CrowdStrike | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4390047595 |
+| Staff Cloud Platform Engineer | Kinaxis | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=a3eb8be265b3f4a5 |
+| Technical Developer - Microsoft Dynamics 365 Customer Engage | EY | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4409241978 |
+| AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410474580 |
+| Engineering Specialist | Remote | CodeGeniusRecruit | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410475518 |
+| Field Sales Agent - Calgary South | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=819a37d9f93c2895 |
+| Field Sales Agent - Calgary North West | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=c7186321faceb149 |
+| Field Sales Agent - Calgary East Hills | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=29da69a647f4ec4b |
+| Field Sales Agent - Calgary North | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=11cef76efa3c66dd |
+| Field Sales Agent - Airdrie | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=9b6adc768cbca267 |
+| Field Sales Agent - Calgary South East | OSL Direct - Bell Authorized Agent | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=567f09d2e1b39d00 |
+| Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=32a1707c85e50fd8 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410479423 |
