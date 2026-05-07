@@ -5929,3 +5929,49 @@
 | Receptionist | MNP | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410841621 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410848852 |
 | Litigation Associate | Loberg Ector LLP | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410847419 |
+| Senior Civil Engineering Technologist /Project Coordinator | Gator Construction Group Inc. | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=4a401b647dc752c1 |
+| Safety Program Coordinator | Valard Construction | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=e2a0517505cc7fe0 |
+| Physical Education & Leadership Teacher - 1.0 FTE - NHS - Pr | Foundations for the Future Charter Acade | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=6ebc096479fef530 |
+| Transportation Engineer | HDR | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=5667e32001675e94 |
+| Retread/Technical Solutions Field Specialist - Canada | Continental | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=9965fe30493e114e |
+| Administrative Assistant/Operations Support Coordinator | Kerridge Concrete Ltd | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=057782746fc07f5d |
+| Site Safety Advisor, Commercial Construction (Calgary) | Anthem Properties | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=42c361c5db5339e3 |
+| Safety Program Coordinator | Valard Construction | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=a7e7dca160c21f3d |
+| Donor Engagement Specialist - Fund Development Division | Edmonton Public Library | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=d3c1d0e32a8eedfc |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=375f71b82d7b9b18 |
+| Junior Buyer | EnergyLink International | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4410841830 |
+| Space Planner, Cumming School of Medicine | University of Calgary | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411817356 |
+| Key Lead - CF Chinook Centre, Abercrombie & Fitch | Abercrombie & Fitch Co. | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409613977 |
+| Accounts Receivable Analyst | Long View Systems | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409630369 |
+| Business Analyst, IT (Parental Leave Coverage) | Calgary Zoo | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4410846933 |
+| Senior Advisor, Commercial Portfolio Optimization | Enbridge | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409633101 |
+| Pipeline Engineering Specialist | Enbridge | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409617825 |
+| Builder Administrator (Calgary South) Temporary | Trail Appliances AB/SK | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=b09fdea8d24be4db |
+| Academic Medicine and Health Services Program Coordinator | University of Alberta | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=ba19c842bf5747d0 |
+| Marketing and Box Office Coordinator | Town of Whitecourt | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=4ec5e49c19307870 |
+| Field Case Manager - 12 Month Contract | Cencora | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=fc408d93d777a7f6 |
+| Field Case Manager- 12-month contract | Cencora | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=4e97eba0e229613b |
+| Administrative Assistant (Hospitality Support Team) | Lake Louise Inn | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=61eea8fee9626b75 |
+| Administrator, Programs | Northern Lakes College | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=717cc85b453d149e |
+| Research Coordinator - Clinical Trials Funding Administratio | University of Alberta | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=6e2078e247be0010 |
+| Marketing Coordinator (Co-op) | Masv | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=8b0df845a1e22fc9 |
+| Production & Procurement Coordinator | Hawk Machine Works | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=b76b040a5854e3a3 |
+| Everyday Banking Advisor - Calgary North Hill | ATB Financial | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411818570 |
+| Field Case Manager - 12 Month Contract | Cencora | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4409621315 |
+| Business Analyst | CDAT Software Inc. | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=7485a14002af8ab4 |
+| Business Intelligence Analyst – Intermediate - BIA 26-05251 | NavitasPartners | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=ba82cc2d47ae8282 |
+| Business Intelligence Analyst – Intermediate - BIA 26-05251 | NavitasPartners | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=c72428097f853908 |
+| Business Intelligence Analyst – Intermediate - BIA 26-05251 | NavitasPartners | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=c7e40c9b646cafcb |
+| Business Intelligence Analyst – Intermediate - BIA 26-05251 | NavitasPartners | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=899f330e659b3d36 |
+| Business Intelligence Analyst – Intermediate - BIA 26-05251 | NavitasPartners | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=6cc9e70658a51a2b |
+| Summer Student - Junior Process Engineer | Integrated Sustainability | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411826053 |
+| Application Support Analyst | Long View Systems | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4409620691 |
+| Equalizations Analyst | Canadian Natural Resources Limited (CNRL | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410869238 |
+| Financial Reporting & Budgeting Systems Consultant (Solver) | Callow & Associates Management Consultan | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411801417 |
+| Service Desk Analyst – Tier 1 | Yardstick Technologies Inc. | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411814743 |
+| Gas Scheduler | Citi | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=df31a01474c26267 |
+| Associate, Canada | Boston Consulting Group | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=0158f4776d64556c |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411813458 |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411811434 |
+| Customer Experience Associate | TD | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411822163 |
+| Project Administrator | Worley | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411804937 |
