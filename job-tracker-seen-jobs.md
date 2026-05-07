@@ -5818,3 +5818,8 @@
 | Customer Service Representative (Motivator) - Calgary Shepar | GoodLife Fitness | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4409226233 |
 | Equipment Rental Specialist | Sunbelt Rentals, Inc. | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411291951 |
 | Controller (Confidential) | RECRUITMENT PARTNERS INC. | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411287074 |
+| Talent Acquisition Specialist | CASA Mental Health | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=b885355839a061e7 |
+| Employer Relations Specialist - CCPD | University of Calgary | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411425328 |
+| Specialist, Environmental Site Assessment | Calgary Airports | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=1c2e0c12151c04e5 |
+| Receptionist - Workplace Services | Deloitte | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=8793f79b0cc382e2 |
+| Service Support Associate - 12 Month Contract | Canada Life | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410446044 |
