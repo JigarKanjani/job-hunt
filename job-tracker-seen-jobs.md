@@ -5776,3 +5776,45 @@
 | Service Coordinator | Wiseworth Canada Industries 1996 Ltd. (A | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411277067 |
 | New Grad - Commodities Market Contracts Advisor | Suncor | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4411236823 |
 | Associate Lawyer - Banking & Financial Services | Urban Legal Recruitment Inc. | 2026-05-06 | G | https://www.linkedin.com/jobs/view/4398190155 |
+| Transportation Engineer-in-Training/Technologist | Associated Engineering | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=1465631605cca38f |
+| Auto Claims Advisor I | TD | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=b5ff286223b383dd |
+| Autobody Repair Planner- Capital Chevrolet Buick GMC Calgary | Capital Automotive Group | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=1482bae7c923fe2a |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=af934b565896fccf |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=f84bbe695a4aea13 |
+| Service Coordinator | Wiseworth Canada Industries | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=85771fc5b738ff22 |
+| Logistics Supervisor | AGAT Laboratories | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=4f0c99c0f3e0f5c3 |
+| Senior Financial Analyst | Parkland Corporation | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=d303b19e0b9bb18b |
+| purchasing manager | Rose Building Maintenance Ltd. | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=c6b4e54f2a67892a |
+| Education Specialist - Camps & Comm. Prog. | TELUS World of Science - Edmonton | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=1a3718d06350938e |
+| Regional Operations Support Specialist-EN | Guillevin | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409209784 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409213537 |
+| Senior Associate, Operations and Procurement | PwC Canada | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411298366 |
+| Strategic Finance Analyst II (Revenue) | Affirm | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4410403498 |
+| Accounts Payable Administrator | FPG | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=4065f16cdd5a3c66 |
+| Business Advisor - McKenzie Towne Centre, Calgary, AB | Scotiabank | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=3e921974d5fed42c |
+| Business Advisor - Cranston, Calgary, AB | Scotiabank | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=87ebba83212439d8 |
+| Business Advisor - Mahogany, Calgary, AB | Scotiabank | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=2c53e9322c3dacc5 |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=f479547017462dfa |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=752c002eca6eed1e |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=1300c8b2ce781175 |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=c1ec7548fa25c39b |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=61ecb70598f1e3e5 |
+| People and Culture Coordinator - Term Certain 12 Months | Agriculture Financial Services Corporati | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=836af851d3084333 |
+| Client Coordinator, Venture | Navacord | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=a38ca803c8ae5300 |
+| Administrative Assistant | Davey Tree | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=78ffdfaadd8f4065 |
+| Senior Program Manager - Alberta/BC | TELUS | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4409987990 |
+| Communications Specialist | Alberta Civil Liberties Research Centre | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4410404074 |
+| AI Aware-Partner Enablement & Business Operations Analyst —  | Globetechgrp | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=50feb5f32a5b2fb6 |
+| Specialist Data Science and AI | CPKC | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=2c64d82ecff0f2dd |
+| Research Analyst | JLL | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=620eedc2317ccd14 |
+| Analyste en systèmes de vente | Softchoice | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4408928835 |
+| Specialist Data Science and AI | CPKC | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411414103 |
+| Strategic Finance Analyst II (Revenue) | Affirm | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410405448 |
+| Staff Cloud Platform Engineer | Kinaxis | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411401472 |
+| Receptionist - Lola Lash Bar CROWFOOT | Lola Lash Bar | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=c59ae00e2e4c9ea7 |
+| Entry Level Customer Service Representative | Harvestaff | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=fd0ebf1adcef3397 |
+| Sales Associate, Used Car | Kaizen Automotive Group | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=67409441cfe6b42b |
+| Front Desk Agent | Concord Hospitality | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=739dc45758fad9a1 |
+| Customer Service Representative (Motivator) - Calgary Shepar | GoodLife Fitness | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4409226233 |
+| Equipment Rental Specialist | Sunbelt Rentals, Inc. | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411291951 |
+| Controller (Confidential) | RECRUITMENT PARTNERS INC. | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411287074 |
