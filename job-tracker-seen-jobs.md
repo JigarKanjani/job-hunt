@@ -5895,3 +5895,37 @@
 | Veterinary Specialist, Critical Care, Western Veterinary Spe | VCA Canada | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=446059fa8a9ffa51 |
 | Customs Brokerage Agent | Expeditors | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4409602648 |
 | Customer Onboarding Specialist | Clio | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410845078 |
+| Supply Chain Coordinator | Bird Construction | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=ae2990f3eac68eb5 |
+| Tax Analyst - Corporate Services | Graham Construction | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=d45552abd380a341 |
+| Part-Time Client & Event Logistics Coordinator | Flash Co. Photo Booth | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=46fa7acb38c3b21b |
+| Accounts Payable Coordinator - Maternity Leave Coverage | Cornerstone Building Brands | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=cde9398187dc503f |
+| Project Coordinator | Bilton Welding and Manufacturing | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=311bceba25a3ee7a |
+| Technical Specialist, Project Management | Defence Construction Canada | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=fff56f6aec20732e |
+| Digital Construction Coordinator | Bird Construction | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=13a85e2ecd8e6d5d |
+| Donor Engagement Specialist - Fund Development Division | City of Edmonton | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=47e1dc7afd51fb3b |
+| Operations Administrator | Superior Propane | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409619495 |
+| Credit Analyst | STRIVE Recruitment Inc. | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411691815 |
+| Municipal Infrastructure Lead | Hays | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411699345 |
+| GRC Analyst | Benevity | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411809202 |
+| IT Security Analyst | Norton Rose Fulbright | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411688575 |
+| Accounts Payable Coordinator - Maternity Leave Coverage | Cornerstone Building Brands | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409619399 |
+| Field Case Manager - 12 Month Contract | Cencora | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4409612930 |
+| Office Administrator/Bookkeeper | Point to Point Structures Corp | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=75caa75bdbd16167 |
+| Fisheries Coordinator | Ocean Wise | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=54a571d1b1dc5a18 |
+| Safety Program Coordinator | Valard Construction | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411812236 |
+| Builder Administrator (Calgary South) Temporary | Trail Appliances AB/SK | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411698942 |
+| Human Resources Services Administrator | Advanced Medical Solutions | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411802222 |
+| Mental Health Support Worker - AgeCare Mount Royal | AgeCare | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411806181 |
+| Program Manager, CRM and Customer Insights (Customer Analyti | Signal49 Research | 2026-05-07 | N | https://www.linkedin.com/jobs/view/4411699327 |
+| Social Media Insights Analyst (Health/Pharma/Banking) | Dentsu | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=bb483b4e47d33a2b |
+| IT Administrator | Davis Automotive Group | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=49f6904a19d191f9 |
+| Systems Implementation Coordinator | Park Paving | 2026-05-07 | R | https://ca.indeed.com/viewjob?jk=96361a4c690d009f |
+| Maximo Technical Developer | IBM | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4409623157 |
+| Grant Management Specialist | United Way of Calgary and Area | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410846032 |
+| Communications Coordinator | Ava Industries | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410842571 |
+| General Merchandise Associate | Walmart | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=f71a728de372836f |
+| Canadian Tax Associate | Moodys Law Firm | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=a2fc7a9b29ffe253 |
+| Business Development Associate | Pkf Antares Professional Corporation | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=b5c7b99da188282d |
+| Receptionist | MNP | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410841621 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410848852 |
+| Litigation Associate | Loberg Ector LLP | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4410847419 |
