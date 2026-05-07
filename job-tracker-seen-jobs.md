@@ -5853,3 +5853,18 @@
 | ServiceNow SecOps Developer | Ampstek | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410497283 |
 | AI Operations Analyst | ABC Fitness | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410497115 |
 | Research / Evaluation Analyst | Remote | Crossing Hurdles | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4409267629 |
+| Team lead/Treatment coordinator | Auburn Bay Dental | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=709960409bdc6235 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-07 | J | https://ca.indeed.com/viewjob?jk=66c10cfa11d4b62f |
+| Production Planner | De Havilland Aircraft of Canada Limited | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4411620959 |
+| Project Coordinator (Municipal Infrastructure) | Chandos Construction | 2026-05-07 | J | https://www.linkedin.com/jobs/view/4406268085 |
+| Appointment Coordinator/ Receptionist | Perfect Fit Automotive Group | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=28809d895122d1ff |
+| Family Violence Prevention Worker - Domestic Violence Team | Niitoiyis Family Support Society | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=51713207710c5a98 |
+| Career Advisor | Prospect Human Services | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=8fceb3c84c8a42e1 |
+| Proposal Coordinator | International Cooling Tower | 2026-05-07 | N | https://ca.indeed.com/viewjob?jk=3240fc37bc704b1c |
+| ServiceNow Developer (only T4) | Ampstek | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410497767 |
+| ServiceNow SecOps Developer || Calgary, AB (Hybrid Onsite) | Ampstek | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410490699 |
+| Human Capital Systems Analyst | MNP | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4410803397 |
+| Sr Tech Analyst, SF (Temporary) | Nutrien | 2026-05-07 | R | https://www.linkedin.com/jobs/view/4411632822 |
+| Sales Associate | Maple Craft Inc. | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=a5b2d78a99bc1241 |
+| Sales Associate | Maple Craft Inc. | 2026-05-07 | G | https://ca.indeed.com/viewjob?jk=8c77a80ed2dd19c6 |
+| Alumni Programs Specialist, VP Development and Alumni | University of Calgary | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411636589 |
