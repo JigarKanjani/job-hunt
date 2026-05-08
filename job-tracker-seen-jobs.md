@@ -5975,3 +5975,39 @@
 | Customer Experience Associate | TD | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411811434 |
 | Customer Experience Associate | TD | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411822163 |
 | Project Administrator | Worley | 2026-05-07 | G | https://www.linkedin.com/jobs/view/4411804937 |
+| Operations Administrator | Superior Propane | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=d246b373ebc3a03a |
+| Project Coordinator - Construction | Fort Sands Construction Ltd | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=493e88136872995c |
+| Equalizations Analyst | Canadian Natural | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=f393bfa0aff3638a |
+| Business Analyst, IT (Parental Leave Coverage) | Wilder Institute/Calgary Zoo | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=3b5a816d6102687f |
+| Accounts Receivable Analyst | Long View Systems | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=99428d0f737ab075 |
+| Pipeline Engineering Specialist | Enbridge | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=9d0df0d739aa0bc8 |
+| Field Technical Specialist - Electrical | Fluor Corp. | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=febb2855c9b07ac0 |
+| Communications Coordinator | City of Edmonton | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=f8b391c2fd1db356 |
+| MISC 25/26 - 10: Transportation Coordinator | Greater St. Albert Catholic Schools | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=86d9e3911e6269ea |
+| Advisor, Guest Experience | CMH Heli-Skiing & Summer Adventures | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=39da996010944231 |
+| Specialist, Heli-Sales | CMH Heli-Skiing & Summer Adventures | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=ab21265317cf5b86 |
+| Supply Chain Coordinator | Bird Construction | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411828760 |
+| Carrier Support Analyst | Amrize | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409629690 |
+| Specialist, Locomotive Maintenance Strategy 1 | CPKC | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411853396 |
+| Data Center Technician, Data Center Operations | Amazon Web Services (AWS) | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411842254 |
+| Digital Service Specialist (Full-Time) | YMCA Calgary | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=536512587fa187da |
+| Carrier Support Analyst | Amrize | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=b2da965ea1a95f79 |
+| Intermediate Database Administrator | Shane Homes | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=19be20f0fd65f5aa |
+| 26/27 School Social Worker (Competition #S2526-0211) | WOLF CREEK SCHOOL DIVISION | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=284d51b93860b3ce |
+| Sales Coordinator | True Key Hotels & Resorts | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=f7b9b5226a574c67 |
+| Service Coordinator | Finning | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=605769ab37a6ef6a |
+| Service Coordinator | Finning | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=ff532040845e2869 |
+| Workforce Coordinator | Bird Construction | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411830760 |
+| Strength & Conditioning Instructor and Personal Trainer (Par | YMCA Calgary | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=9c4db540556e3d48 |
+| information technology (it) system administrator | Davis Automotive Group | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=e6c082dab4686e59 |
+| Staff Platform Engineer | Agiloft | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=b4bf52b835f434f0 |
+| Specialist, Locomotive Maintenance Strategy 1 | CPKC | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=ebe6d2748e44334c |
+| Government and Institutional Reporting Analyst | Lethbridge Polytechnic | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=f7f84a1637b128e0 |
+| Intermediate Process Engineer | VulcanX | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4410862521 |
+| Italian Data Trainer - Remote | YO IT Consulting | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4410879875 |
+| Clinical Systems Analyst | Alignerr | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411841773 |
+| AI Discovery Associate (Fall 2026) | AltaML | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=42a5b45e0a543159 |
+| Clinic Experience Associate | CBI Health | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411840316 |
+| HR Services Associate | Kinaxis | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411841514 |
+| Customer Service Representative (Contract, Part-time) | LodgeLink | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409630829 |
+| Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409621829 |
