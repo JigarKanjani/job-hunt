@@ -6011,3 +6011,19 @@
 | HR Services Associate | Kinaxis | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411841514 |
 | Customer Service Representative (Contract, Part-time) | LodgeLink | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409630829 |
 | Associate Vice President, Indigenization and Decolonization | Mount Royal University | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409621829 |
+| Junior Buyer | ENERGY LINK | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=0446fa3918524550 |
+| Housing Navigation Specialist (6 month contract - 4 days a w | Women's Centre of Calgary | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=d70f1556f5ffce4d |
+| PRODUCT ADVISOR | Stampede Leasing Ltd | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=45e7d386a735d99f |
+| Financial Planner | BMO | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411272135 |
+| Jr. Parts Advisor | Wood Automotive Group | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409660251 |
+| Senior Coordinator, Accounts Receivable | Avenue Living | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4410896900 |
+| Awards Lead (Volunteer) | Joule Women's Energy Network | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411005582 |
+| Health & Safety Advisor | Colas Western Canada Inc. | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409632165 |
+| Program Manager, Quality and Client Experience, ATB Client C | ATB Financial | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409667212 |
+| Summer Camp Counsellor - ( Canada Summer Jobs) | Easter Seals Alberta | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411852658 |
+| Operations Administrative Assistant, Columbia Icefield | Pursuit Collection | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411002476 |
+| Sr. Subcontracts Administrator | Colas Canada Inc. | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4409667177 |
+| Business Analyst | Xpera Risk Mitigation & Investigation | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=d9415ec1c2e5f2f3 |
+| Personal Banking Associate | BMO | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411862431 |
+| Gas Scheduler | Citi | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411000382 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411008841 |
