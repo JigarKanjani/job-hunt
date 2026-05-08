@@ -6069,3 +6069,20 @@
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411388264 |
 | Intermediate Customer Support Specialist | Clio | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4370715339 |
 | Remote sales associates | Alliance Security Technology | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411357922 |
+| Inventory Analyst | Avmax Aviation Services | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=fcd8108a8f6251ef |
+| Data Analyst, Settlement Platforms | Digital Commerce Group | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411392649 |
+| Supporting Services (SSA) Contract Manager - East Region & C | Baker Hughes | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409141165 |
+| Senior Business Analyst | Optiom Inc. | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412109971 |
+| Branch Administrator | National Bank of Canada | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411717007 |
+| Office Administrative Assistant | Robinson Outreach at RiverCross Ranch (R | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411391741 |
+| Banking advisor | National Bank of Canada | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411398862 |
+| Sales Specialist | CGIS (CG Industrial Specialties) | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411720007 |
+| Digital Content Coordinator | Calgary Wild FC | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411386743 |
+| Compensation Analyst | SMS Equipment Inc. | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=63c2dd411498a6f5 |
+| Analyste à la conformité | Co-operators Assurance et services finan | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4412119310 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411380546 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411395209 |
+| Front Desk Agent | Wingate by Wyndham | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=e9fa556b08af1cdf |
+| Administrative Professional - Wealth Management | BDO Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412121262 |
+| Associate | National Bank of Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411702394 |
+| AI Engineer - Generative & Agentic AI | BDO Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412122229 |
