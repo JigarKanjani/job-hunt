@@ -6029,3 +6029,20 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411008841 |
 | Senior Business Analyst - Health Insurance (Fully Remote) | CoverGo | Insurtech | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409670643 |
 | Office Administrator | alberta erosion & sediment control | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=b9bd6948bb096942 |
+| Space Planner, Cumming School of Medicine | University of Calgary | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=3b0e5cf0260770b1 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=344977db41ce2db8 |
+| Product Specialist - Grid Automation | ABB | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4380189153 |
+| Lead - Battery Energy Storage Systems (BESS) - Texas | GHD | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4308539580 |
+| Administrative Assistant - Fully Remote | Mercor | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411334036 |
+| People Operations Specialist - Fully Remote | Mercor | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411341273 |
+| School Social Worker - Fully Remote | Mercor | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411335327 |
+| Analyst Intern, Resource Evaluation & Advisory - Fall 2026 - | Deloitte | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4409690006 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4409695447 |
+| Junior Investment Analyst - Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411312856 |
+| Consulting Analyst - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411348149 |
+| Network Specialist - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411331302 |
+| Threat Detection Specialist - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411316797 |
+| Investment Analyst - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411325826 |
+| Alumni Programs Specialist, VP Development and Alumni | University of Calgary | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=a6de1077ed3aa78d |
+| SALES ASSOCIATE | Bikini Village | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409693466 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411341643 |
