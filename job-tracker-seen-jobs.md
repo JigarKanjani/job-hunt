@@ -6046,3 +6046,18 @@
 | Alumni Programs Specialist, VP Development and Alumni | University of Calgary | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=a6de1077ed3aa78d |
 | SALES ASSOCIATE | Bikini Village | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4409693466 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411341643 |
+| Geographic Information Systems (GIS) Forester (Natural Asset | Mount Royal University | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=7e98262792209766 |
+| Procurement Contract Specialist II | Worley | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4403127100 |
+| Problem Management Analyst | ATB Financial | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4410778755 |
+| Channel Sales Operations Specialist | Clio | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4379696620 |
+| Microsoft Dynamics 365 F&O Senior Supply Chain Management Co | BDO Canada | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4402297663 |
+| home support worker | Adokam Home Care | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411873530 |
+| Healthcare Planner 1 | HDR | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4379694424 |
+| Healthcare Planner 2 | HDR | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4379690594 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411859870 |
+| Technical Trainer | Edmonton Public Schools | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=24fd4fb70620ae96 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4409695447 |
+| Astrophysics Specialist - Fully Remote | Upto $90/hr | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411316825 |
+| Literary Specialist - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411337170 |
+| Care Coordination Specialist - Fully Remote | Upto $95/hr Pa | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411330280 |
+| Overnight Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4400494497 |
