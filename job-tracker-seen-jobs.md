@@ -6149,3 +6149,54 @@
 | Summer Student, Office Administration | Cadillac Fairview | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412183343 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411752934 |
 | Agent principal, Communications et marketing (les Prairies e | Canada Mortgage and Housing Corporation  | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411758549 |
+| Math & Leadership Teacher - 1.0 FTE - NHS - Probationary | Foundations for the Future Charter Acade | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=f3d89a243d3fad03 |
+| Lead Mitigation Techician | First General Fort McMurray | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=1a9954712e807758 |
+| Community Partnerships Lead | CMHA Edmonton | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=33d160f52042102b |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=8d15d02fc5525b17 |
+| Category Specialist - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412184832 |
+| Advisor, Procurement, Corporate - Saskatoon, SK or Calgary,  | Nutrien | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412177992 |
+| Corporate Financial Planning & Analysis Analyst Analyst | Pembina Pipeline Corporation | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412197475 |
+| Operations System Technician | Canlin Energy Corporation | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412187569 |
+| Corporate Operations Generalist | Edon Management | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411792063 |
+| Service Coordinator | Hercules Crane & Lifting Supplies | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411775447 |
+| GRC Analyst, Information security | Bennett Jones | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412193471 |
+| Accounts Receivable Specialist | Altis | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411756756 |
+| Sr Analyst, Business Applications | Pembina Pipeline Corporation | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412196568 |
+| Advisor Financial Reporting | Enbridge | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411760994 |
+| Investment Specialist | BMO | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411764739 |
+| Procurement Data Analyst Student | PCL Construction | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412184470 |
+| Business Analyst | Veridian Tech Solutions, Inc. | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411774373 |
+| Client Experience Coordinator | MK Auto Group | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=e7ed9a8e60d63698 |
+| Administrative Assistant – Program Support (Temporary/Full-t | Women In Need Society | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=61569c9e9b458b17 |
+| Senior Administrative Assistant | IG Wealth Management | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=49e62992b35f4343 |
+| Community Support Worker (Female) | new age services | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=297be50a707bdc9c |
+| Community Resource Worker, Complex Needs | DDRC | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=6af83ec2f8ff3598 |
+| Senior Specialist, Compensation | FYidoctors | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=461457d7b510c899 |
+| Development and Enagagement Coordinator | CMHA Edmonton | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=76d22d07d22da122 |
+| Volunteer Coordinator (Summer Term) | SLS Centre | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=717e6df92ba5bb39 |
+| Project Coordinator | Westburne | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=7a628979443606ed |
+| Events & Sponsorship Administrator | Calgary Chamber of Commerce | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4412195163 |
+| Administrative Assistant – Program Support (Temporary/Full-t | WINS (Women In Need Society) | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411789144 |
+| Program Facilitator - (Temporary/Full-time) - Canada Summer  | WINS (Women In Need Society) | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411793040 |
+| Senior Officer, Communications and Marketing | Canada Mortgage and Housing Corporation  | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4412190859 |
+| Specialist, Experience Management | Bennett Jones | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4398628484 |
+| Reporting Analyst (Power BI & Data Analytics) - REPANAL 26-0 | NavitasPartners | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=69c5ded60d7610bc |
+| Reporting Analyst (Power BI & Data Analytics) - REPANAL 26-0 | NavitasPartners | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=91760ebab76251d2 |
+| Reporting Analyst (Power BI & Data Analytics) - REPANAL 26-0 | NavitasPartners | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=d8e320a32ad8c3cd |
+| Reporting Analyst (Power BI & Data Analytics) - REPANAL 26-0 | NavitasPartners | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=5c401757c23f68be |
+| Reporting Analyst (Power BI & Data Analytics) - REPANAL 26-0 | NavitasPartners | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=6373678ddb49220f |
+| Data Analyst | Shell | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=d4a2d40e60f61916 |
+| Reporting Analyst (2) | Vantix Systems Inc | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=d594c5a53f040c89 |
+| IT Infrastructure and Systems Administrator Administrative P | The King's University (CA) | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=f34a99c3fc65cbdb |
+| Sr Specialist SAP Plant Maintenance | Parkland Corporation | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411763757 |
+| Network Security Analyst Calgary | Compugen Inc | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4407959855 |
+| Reporting Analyst | SereneAid | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411762977 |
+| FP&A Analyst (Remote - Canada only) | Cytel | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411767520 |
+| Receptionist I (2026-0184) | Carewest - Innovative Health Care | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=34cf61a6923f7de2 |
+| IAM Specialist | Sobeys | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=3f2674083118a6bb |
+| Program Facilitator - (Temporary/Full-time) - Canada Summer  | Women In Need Society | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=75b254388a6ead88 |
+| Kids Coding Camp Facilitator - (Temporary/Full-time) - Canad | Women In Need Society | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=92eebd0f6d662c0b |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=4ed2164689d931d8 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=e7d3fe2c5ffe84ed |
+| Kids Coding Camp Facilitator - (Temporary/Full-time) - Canad | WINS (Women In Need Society) | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411782311 |
+| Associate, Commercial Real Estate Banking - Calgary | Scotiabank | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4368931594 |
