@@ -6061,3 +6061,11 @@
 | Literary Specialist - Fully Remote | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411337170 |
 | Care Coordination Specialist - Fully Remote | Upto $95/hr Pa | Mercor | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411330280 |
 | Overnight Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4400494497 |
+| Low Carbon Strategy Advisor | Parkland Corporation | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4400158494 |
+| Specialist, Client & Business Development | Osler, Hoskin & Harcourt LLP | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4390040820 |
+| Shipping/Receiving Coordinator | ChampionX | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=2d2890939da008e7 |
+| Coordinator, Legacy and Gift Planning | Canadian Red Cross | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4403130006 |
+| HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4402356593 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411388264 |
+| Intermediate Customer Support Specialist | Clio | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4370715339 |
+| Remote sales associates | Alliance Security Technology | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411357922 |
