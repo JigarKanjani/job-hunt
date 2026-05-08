@@ -6027,3 +6027,5 @@
 | Personal Banking Associate | BMO | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411862431 |
 | Gas Scheduler | Citi | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411000382 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411008841 |
+| Senior Business Analyst - Health Insurance (Fully Remote) | CoverGo | Insurtech | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4409670643 |
+| Office Administrator | alberta erosion & sediment control | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=b9bd6948bb096942 |
