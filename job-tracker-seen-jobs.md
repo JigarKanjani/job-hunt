@@ -6120,3 +6120,32 @@
 | Receptionist | Mabbott & Company | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411713743 |
 | (CAN) Electronics Associate | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411728319 |
 | OMNI Customer Fulfillment Associate - Temp | Walmart Canada | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411731137 |
+| Senior IT Analyst (MSP) | Payran Systems | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=1380e8f995fea4bd |
+| Marketing Coordinator | Hopewell Residential | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=c861e4220e596459 |
+| Project Coordinator | Allied Projects Ltd. | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=465c79ac3717d555 |
+| Supply Chain Manager | Weston Store | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=4ad5b4c460965979 |
+| Project Planner | Johal's Trucking Inc | 2026-05-08 | J | https://ca.indeed.com/viewjob?jk=a414037028e36e16 |
+| Senior Pursuit Specialist | Stantec | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4411771033 |
+| Analyst Costing Analysis | CPKC | 2026-05-08 | J | https://www.linkedin.com/jobs/view/4412184158 |
+| Events Coordinator | The Glencoe Club | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=1f84f322df6942b9 |
+| Care Coordinator | Lifemark Health Group | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=0c66ad705de3d109 |
+| Administrative Coordinator (Temporary) | ATCO Energy Systems | 2026-05-08 | N | https://ca.indeed.com/viewjob?jk=b5f2babdb52dab5e |
+| office administrator | Sunder Building Supplies | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411751475 |
+| Financial Advisor - Calgary, AB (12-Month Contract) | Scotiabank | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4412169883 |
+| Intermediate Air Quality Specialist | WSP in Canada | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4391388277 |
+| Environment Specialist | ENMAX | 2026-05-08 | N | https://www.linkedin.com/jobs/view/4411744909 |
+| Field Technical Support | HP | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=dab493e311898221 |
+| Field Technical Support | HP | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=bf88adcbcdea496f |
+| System Administrator | Ecco Supply | 2026-05-08 | R | https://ca.indeed.com/viewjob?jk=6f2ad299849bf659 |
+| Process Safety Engineer | PETRONAS Canada | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4412181193 |
+| BI Analyst (Power BI / Data Analytics) | SereneAid | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4411758515 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-08 | R | https://www.linkedin.com/jobs/view/4412174174 |
+| Receptionist - Sales | Charlesglen Toyota | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=03f111a5829d7d08 |
+| Reservations Agent | Accor | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=14c7db8e4b2ec577 |
+| Receptionist - Weekends Part-Time - Walden Heights | AgeCare | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412172911 |
+| Reservations Agent | Fairmont Hotels & Resorts | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411752435 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412153793 |
+| Customer Service Representative (Motivator) – Calgary Richmo | GoodLife Fitness | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412158773 |
+| Summer Student, Office Administration | Cadillac Fairview | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4412183343 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411752934 |
+| Agent principal, Communications et marketing (les Prairies e | Canada Mortgage and Housing Corporation  | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411758549 |
