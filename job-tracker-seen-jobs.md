@@ -6261,3 +6261,15 @@
 | First Officer - Dash 8 | Ledcor | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4411266891 |
 | 3D Data Annotation Specialist | $25/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412457611 |
 | Sales Associate | Colliers | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4174535918 |
+| Planner | Alberta Health Services | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=063969f33a9ad06d |
+| Procurement Specialist III | Alberta Health Services | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=e7806919e8669531 |
+| Procurement Manager | Amrize | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4400875538 |
+| Client Success Specialist | Aon | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4411981690 |
+| Customer Connections Specialist | Labatt Breweries of Canada | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4403549497 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| 3D Data Annotation Specialist | $25/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412457611 |
+| Administrative Support IV | Alberta Health Services | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=9104af4eea3f64d4 |
+| Administrative Support IV | Alberta Health Services | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=2112962dd2d66c71 |
+| Personal Banking Associate | BMO | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411258784 |
+| Dairy Frozen Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411961189 |
+| Investment Advisor | RBC Dominion Securities | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4381901008 |
