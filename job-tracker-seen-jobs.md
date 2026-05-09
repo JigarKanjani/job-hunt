@@ -6285,3 +6285,7 @@
 | Environment Specialist | Enmax | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=707c69090893c78a |
 | Account Specialist (Hybrid) - Small Medium Business | TELUS | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4304331792 |
 | Sales Associate | Talbots | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412482398 |
+| Inside Sales Coordinator, Remote, Full-Time | AlterNetive Converged Solutions Inc. | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=02c16c52aacdcf85 |
+| Start Immediately Office Administrator & Client Coordinator  | Infiniti Medical Clinic | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=40571e3faa47431e |
+| Preventative Maintenance Associate | Boardwalk | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411997843 |
+| Facility Operations Specialist | Honeywell | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4346689401 |
