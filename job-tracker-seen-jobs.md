@@ -6200,3 +6200,32 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-08 | G | https://ca.indeed.com/viewjob?jk=e7d3fe2c5ffe84ed |
 | Kids Coding Camp Facilitator - (Temporary/Full-time) - Canad | WINS (Women In Need Society) | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4411782311 |
 | Associate, Commercial Real Estate Banking - Calgary | Scotiabank | 2026-05-08 | G | https://www.linkedin.com/jobs/view/4368931594 |
+| Analyst Costing Analysis | CPKC | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=75598f061cda4262 |
+| Senior Contracts Administrator | Fluor Corp. | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=6e5d3268e4e92566 |
+| PepsiCo Beverages: 2026 Supply Chain Leadership Program | PepsiCo | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412415001 |
+| Senior Contracts Administrator | Fluor Corporation | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412416802 |
+| Project Specialist | Wolseley Canada Inc. | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4411900100 |
+| Media Buyer / Creative Strategist | Sweat Pants Agency | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412412657 |
+| Specialist, Regulatory Compliance | CPKC | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412416770 |
+| Account & Project Coordinator | DLEAF - A Full-Service Marketing Agency | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412420078 |
+| Accounts Payable Specialist | CoolIT Systems | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412417319 |
+| Procurement Specialist | Arctic Spas (Blue Falls Manufacturing) | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412424017 |
+| Media Buyer / Creative Strategist | Sweat Pants Agency | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412421131 |
+| Talent Acquisition Administrator (Contract) | Canadian Cancer Society | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=43772456f1afa14c |
+| Building Systems Coordinator | PCL Construction | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=330040f195c3554c |
+| Senior Lending Advisor - Horizon Square, Calgary, AB | Scotiabank | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=ff290e976c4e249d |
+| Project Coordinator | Westburne | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=a685c7658c4f87e6 |
+| Administrative Assistant / Receptionist | AGAT Laboratories | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411908975 |
+| Talent Acquisition Coordinator | Bird Construction | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411798941 |
+| Events Coordinator | The Glencoe Club | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411919348 |
+| Compliance Coordinator | Canadian Blood Services | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411798245 |
+| Project Coordinator | Rexel Canada | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411915281 |
+| Business Analyst | Medavie | 2026-05-09 | R | https://ca.indeed.com/viewjob?jk=f236e3e828913ddb |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4411912772 |
+| Armenian AI Data Trainer - Remote | YO IT Consulting | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412425118 |
+| Associate Lawyer – Construction Litigation | Gowling WLG | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=bb43a3c5914930b7 |
+| Receptionist I (2026-0184) | Carewest - Innovative Health Care | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=c379d507fadae22d |
+| Specialist Reservoir Engineer | Suncor Energy | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=180d608ec4c69449 |
+| Receptionist I (2026-0184) | Carewest Innovative Health Care | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412407334 |
+| Associate | RBC Dominion Securities | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412199870 |
+| Customer Operations Associate I | Affirm | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411917432 |
