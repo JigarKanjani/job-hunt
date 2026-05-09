@@ -6229,3 +6229,22 @@
 | Receptionist I (2026-0184) | Carewest Innovative Health Care | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412407334 |
 | Associate | RBC Dominion Securities | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412199870 |
 | Customer Operations Associate I | Affirm | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411917432 |
+| Operations & Business Controller | LaPrairie Group of Companies | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=9c1bbfc4dc512361 |
+| Operations & Business Controller | LaPrairie Group of Companies | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=c862e5f3defa1f73 |
+| Reception Coordinator | Children's Cottage Society | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=6e95ed368ca7e2b0 |
+| Low Carbon Strategy Advisor | Parkland Corporation | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412438621 |
+| Records Technician Analyst | Agilus Work Solutions | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4410868279 |
+| Delivery Coordinator | Wood Automotive Group | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412435575 |
+| Low Carbon Strategy Advisor | Parkland Corporation | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412448044 |
+| Junk Removal Specialist | Southwind | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=4b93d29e7a0aaaa2 |
+| Specialty Referral Coordinator | Sherwood Park Primary Care Network | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=11b2c7828afbfb0c |
+| Administrative Assistant / Receptionist | AGAT Laboratories | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411939684 |
+| Financial Advisor Wealth Advice Centre (18 Month Term) | ATB Financial | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4412439411 |
+| Talent Acquisition Administrator (Contract) | Canadian Cancer Society | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4412442379 |
+| Payroll & Benefits Administrator- Term | Agilus Work Solutions | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4410871243 |
+| Everyday Banking Advisor - Chestermere | ATB Financial | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4411203620 |
+| Business Analyst (BI) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-05-09 | R | https://ca.indeed.com/viewjob?jk=754243da6c2c98c2 |
+| (CAN) Consumables Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411959186 |
+| Commercial Insurance Advisor | BrokerLink | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411954405 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411962195 |
+| Overnight Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411956285 |
