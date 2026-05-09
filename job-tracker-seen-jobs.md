@@ -6289,3 +6289,6 @@
 | Start Immediately Office Administrator & Client Coordinator  | Infiniti Medical Clinic | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=40571e3faa47431e |
 | Preventative Maintenance Associate | Boardwalk | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411997843 |
 | Facility Operations Specialist | Honeywell | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4346689401 |
+| Reclamation Planner | Canadian Natural Resources Limited (CNRL | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4410881078 |
+| Service Desk Technician | Calian | 2026-05-09 | R | https://ca.indeed.com/viewjob?jk=49650764313a97c8 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412493455 |
