@@ -6248,3 +6248,10 @@
 | Commercial Insurance Advisor | BrokerLink | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411954405 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411962195 |
 | Overnight Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411956285 |
+| Team Leader, CF Chinook Centre | Saje Natural Wellness | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=9a631b3e1a3dc277 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=475fef001e18c19d |
+| Summer Market Garden Workers | Hull Services | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4412453236 |
+| Exercise Trainer, Physiology & Pharmacology | University of Calgary | 2026-05-09 | R | https://ca.indeed.com/viewjob?jk=de4a2e27f276d85d |
+| Associate | RBC | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=ab8f98a6111c3b2e |
+| Advisor | Acute Care Alberta | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=eb693a726b1388bd |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411981062 |
