@@ -6278,3 +6278,10 @@
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4411995265 |
 | Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4403827222 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412478225 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-09 | J | https://ca.indeed.com/viewjob?jk=0ae0b8b73f8297b1 |
+| Senior, Economic Advisory (Calgary) | EY | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4392663187 |
+| Quality Control Lead | CoolIT Systems | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4402736587 |
+| Quality Specialist - Water Infrastructure | Graham | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4403549465 |
+| Environment Specialist | Enmax | 2026-05-09 | N | https://ca.indeed.com/viewjob?jk=707c69090893c78a |
+| Account Specialist (Hybrid) - Small Medium Business | TELUS | 2026-05-09 | N | https://www.linkedin.com/jobs/view/4304331792 |
+| Sales Associate | Talbots | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4412482398 |
