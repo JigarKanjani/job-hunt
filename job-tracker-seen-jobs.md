@@ -6273,3 +6273,8 @@
 | Personal Banking Associate | BMO | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411258784 |
 | Dairy Frozen Associate | Walmart Canada | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411961189 |
 | Investment Advisor | RBC Dominion Securities | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4381901008 |
+| Integrated Logistics Support Specialist | Raytheon | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4392064890 |
+| Technical Solutions Specialist (IFM) | Dexterra Group | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4381607015 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4411995265 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412478225 |
