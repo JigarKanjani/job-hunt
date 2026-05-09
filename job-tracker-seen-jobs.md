@@ -6255,3 +6255,9 @@
 | Associate | RBC | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=ab8f98a6111c3b2e |
 | Advisor | Acute Care Alberta | 2026-05-09 | G | https://ca.indeed.com/viewjob?jk=eb693a726b1388bd |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4411981062 |
+| Senior Specialist, Compensation | FYihealth group | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4412448728 |
+| Parts Advisor - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4402741895 |
+| Architect, Operations Research | Kinaxis | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4391121716 |
+| First Officer - Dash 8 | Ledcor | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4411266891 |
+| 3D Data Annotation Specialist | $25/hr Remote | Crossing Hurdles | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412457611 |
+| Sales Associate | Colliers | 2026-05-09 | G | https://www.linkedin.com/jobs/view/4174535918 |
