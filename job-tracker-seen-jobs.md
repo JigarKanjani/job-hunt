@@ -6323,3 +6323,7 @@
 | Personal Banking Associate | TD | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4334932016 |
 | Senior Financial Analyst | Rogers Communications | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4367798820 |
 | Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4389817934 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=a9821bbc7e1397c1 |
+| Paid Search Lead | FreshBooks | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4410251998 |
+| Veterinary Receptionist | Seton Veterinary Clinic | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=26a841c249f0edd4 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412603562 |
