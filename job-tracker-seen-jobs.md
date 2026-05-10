@@ -6310,3 +6310,8 @@
 | Digital Marketing Specialist | Minto Group | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4391731054 |
 | OMNI Customer Fulfillment Associate | Walmart | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=ca754815d1f430ee |
 | Financial Controls Analyst | Canadian Natural Resources Limited (CNRL | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4410403133 |
+| Project Controls Lead | FLINT Corp. | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4365630678 |
+| Configuration Management/Data Management Specialist | Raytheon | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4392075121 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412392061 |
+| AI Evaluation Specialist – Remote - $60–$200/hr | The UVA VEC | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412386686 |
+| Junior Cost Controller | AtkinsRéalis | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4402976500 |
