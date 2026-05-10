@@ -6315,3 +6315,6 @@
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412392061 |
 | AI Evaluation Specialist – Remote - $60–$200/hr | The UVA VEC | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412386686 |
 | Junior Cost Controller | AtkinsRéalis | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4402976500 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=069cd827ab71e963 |
+| Administrative Assistant / Receptionist | AGAT Laboratories | 2026-05-10 | N | https://www.linkedin.com/jobs/view/4412600088 |
+| Security Systems Technician - Service | Convergint | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4391731207 |
