@@ -6321,3 +6321,5 @@
 | Business Analyst | Teckhorizon Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412580139 |
 | Analyste chevronné.e - Données et information (D&I) / Advanc | Electronic Arts (EA) | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4363219790 |
 | Personal Banking Associate | TD | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4334932016 |
+| Senior Financial Analyst | Rogers Communications | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4367798820 |
+| Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4389817934 |
