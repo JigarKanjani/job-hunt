@@ -6309,3 +6309,4 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412371391 |
 | Digital Marketing Specialist | Minto Group | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4391731054 |
 | OMNI Customer Fulfillment Associate | Walmart | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=ca754815d1f430ee |
+| Financial Controls Analyst | Canadian Natural Resources Limited (CNRL | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4410403133 |
