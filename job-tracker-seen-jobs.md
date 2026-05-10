@@ -6318,3 +6318,6 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=069cd827ab71e963 |
 | Administrative Assistant / Receptionist | AGAT Laboratories | 2026-05-10 | N | https://www.linkedin.com/jobs/view/4412600088 |
 | Security Systems Technician - Service | Convergint | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4391731207 |
+| Business Analyst | Teckhorizon Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412580139 |
+| Analyste chevronné.e - Données et information (D&I) / Advanc | Electronic Arts (EA) | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4363219790 |
+| Personal Banking Associate | TD | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4334932016 |
