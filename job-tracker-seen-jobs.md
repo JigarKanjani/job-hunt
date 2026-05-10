@@ -6301,3 +6301,5 @@
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412337426 |
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412334418 |
 | Reporting Analyst | Fille Consulting Inc. | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412324105 |
+| Sales Associate (with Renewal Assistance) | Boardwalk | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412353824 |
+| Bakery associate | Walmart Canada | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412355696 |
