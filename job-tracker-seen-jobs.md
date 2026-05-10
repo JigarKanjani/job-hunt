@@ -6307,3 +6307,5 @@
 | Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=fd8cb473ec1e2b44 |
 | Administrative Assistant- Summer Job | Future Stars Cricket Foundation | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=353d7c86506400fe |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412371391 |
+| Digital Marketing Specialist | Minto Group | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4391731054 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=ca754815d1f430ee |
