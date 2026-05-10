@@ -6292,3 +6292,12 @@
 | Reclamation Planner | Canadian Natural Resources Limited (CNRL | 2026-05-09 | J | https://www.linkedin.com/jobs/view/4410881078 |
 | Service Desk Technician | Calian | 2026-05-09 | R | https://ca.indeed.com/viewjob?jk=49650764313a97c8 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-09 | R | https://www.linkedin.com/jobs/view/4412493455 |
+| Marketing Automation Specialist | Gowling WLG | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4331945754 |
+| Geographic Information Systems (GIS) Forester (Natural Asset | Mount Royal University | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4412339241 |
+| Sr Supply Chain Specialist (Procurement), Supply Chain, Albe | Gilead Sciences | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4356232397 |
+| Music Marketing Coordinator | GPM Music Group | 2026-05-10 | N | https://ca.indeed.com/viewjob?jk=0e0f576ad2e4f0bb |
+| Administrative Assistant / Receptionist | AGAT Laboratories | 2026-05-10 | N | https://www.linkedin.com/jobs/view/4412333512 |
+| Nutrition Sales Specialist – Acute Care (Edmonton) | Abbott | 2026-05-10 | N | https://www.linkedin.com/jobs/view/4407582805 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412337426 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412334418 |
+| Reporting Analyst | Fille Consulting Inc. | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412324105 |
