@@ -6303,3 +6303,7 @@
 | Reporting Analyst | Fille Consulting Inc. | 2026-05-10 | R | https://www.linkedin.com/jobs/view/4412324105 |
 | Sales Associate (with Renewal Assistance) | Boardwalk | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412353824 |
 | Bakery associate | Walmart Canada | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412355696 |
+| Sports Program Coordinator - Summer Job | Future Stars Cricket Foundation | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=6bdee8ed8459181c |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-10 | J | https://ca.indeed.com/viewjob?jk=fd8cb473ec1e2b44 |
+| Administrative Assistant- Summer Job | Future Stars Cricket Foundation | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=353d7c86506400fe |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412371391 |
