@@ -6331,3 +6331,11 @@
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412619307 |
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412630083 |
 | GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412620286 |
+| COORDINATOR, OPERATIONS SUPPORT, Advisory Services - Calgary | BDC | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=3ba224a5af12976f |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412599599 |
+| Field Material Coordinator | Orion Group | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412638143 |
+| Sales Administrator (Summer Student) | Trico Residential | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=b0bc02992fb08236 |
+| Security Analyst - Fully Remote | Mercor | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412614996 |
+| Ophthalmic and Administrative Assistant | Calgary Eye Centre | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=b1b3e0a668ae2440 |
+| Sales Administrator (Summer Student) | Trico Homes | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=935f8dbae3f21f13 |
+| (CAN) Consumables Associate | Walmart Canada | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412635791 |
