@@ -6327,3 +6327,7 @@
 | Paid Search Lead | FreshBooks | 2026-05-10 | J | https://www.linkedin.com/jobs/view/4410251998 |
 | Veterinary Receptionist | Seton Veterinary Clinic | 2026-05-10 | G | https://ca.indeed.com/viewjob?jk=26a841c249f0edd4 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-10 | G | https://www.linkedin.com/jobs/view/4412603562 |
+| Office Administrator | Alberta Bountiful Markets Ltd. | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=48e7a77141907d71 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412619307 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412630083 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412620286 |
