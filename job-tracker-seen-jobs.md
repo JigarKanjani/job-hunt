@@ -6346,3 +6346,23 @@
 | Product & Service Comparison Analyst – Data-Driven Consumer  | Crossing Hurdles | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412730318 |
 | Technical Specialist | Eaton | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4393713524 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412669360 |
+| Parts & Inventory Lead | Upstream Data Inc | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=882c99aead40816e |
+| Demand Planner | De Havilland Aircraft of Canada Limited | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413035718 |
+| Manufacturing Analyst | Coca-Cola Canada Bottling Limited | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413026590 |
+| Lead, Capital Project Management Consulting | City of Calgary | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4411764124 |
+| Lead, Infrastructure Services Project Management Practice | City of Calgary | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4411763342 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412763014 |
+| Administrative Assistant | Edmonton Community Legal Centre | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=a99ed4218becb9cf |
+| 2026 Wealth Management, Fall Administrative Assistant (4-16  | RBC Dominion Securities | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4404049148 |
+| Strategy & Operations Analyst | Remote | Crossing Hurdles | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412747711 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413028936 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413038302 |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413028878 |
+| Oracle Cloud Junior Analyst - Remote Anywhere in Canada | VetStrategy | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4332861432 |
+| Golang Developer | $80/hr Remote | Crossing Hurdles | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412749976 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412762742 |
+| Financial Analyst | $95/hr Remote | Crossing Hurdles | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412754472 |
+| FT Coordinator | FLINT Corp. | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=0d4824218f8748f3 |
+| Corporate WCB Coordinator | City of Calgary | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=80a5b9addf35e2c0 |
+| Field Training Coordinator | City of Calgary | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=23c1cf12f7363909 |
+| Business Development Associate | PICTON Investments | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413035759 |
