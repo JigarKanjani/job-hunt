@@ -6437,3 +6437,37 @@
 | Customer Service Associate | RONA | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412950722 |
 | Associate Philanthropy | CNIB | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413106806 |
 | Client Service Associate, BMO Nesbitt Burns | BMO | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413144798 |
+| Demand Planner | De Havilland Aircraft of Canada Ltd | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=680d2b3077dfd482 |
+| Municipal Engineering-Municipal Infrastructure Lead | Al-Terra | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=458f526f0680d8fc |
+| Learning and Development Specialist - Hybrid Remote | COBS Bread | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=282fb5facffd73a0 |
+| Marketing and Communications Specialist | PTW Energy Services Ltd. | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=a7ae25b12ee94374 |
+| Operations Administrator | RMC GROUP OF COMPANIES | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=6f3ea7c0820755e4 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=9e9a704dcbf971b1 |
+| Senior Procurement Specialist (1-year Term Position) | Alberta Securities Commission | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412970892 |
+| FT Coordinator | FLINT Corp. | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412982600 |
+| Contract Manager | Finning | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413174125 |
+| Accountant, Retail, Operations Acctg - Saskatoon, SK or Calg | Nutrien | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412980432 |
+| Sales Operations Coordinator, Meetings & Conventions | Tourism Calgary | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412980664 |
+| AML Data Analyst | Neo Financial | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412975755 |
+| Global Banking & Markets Operations-Gas & Power Logistics-Ca | Goldman Sachs | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412987544 |
+| AI Specialist | Nutrien | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412975650 |
+| Corporate Development Analyst | Cenovus Energy | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413157878 |
+| Small Business Training Department Coordinator | Momentum Community Economic Development  | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=b03b93aaf4612594 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=37f08d9fd99f645f |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=470fbd73f8a6db3f |
+| Clinical Data Coordinator | Prostate Cancer Centre | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=99f4e6ad58beec0f |
+| Visitor Experience Coordinator | Explore Cochrane (Cochrane Tourism Assoc | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=e375a324cdba01b1 |
+| Intake & Assessment Counsellor | Carya | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412986572 |
+| Administrative Coordinator | Alta Genetics | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4413158577 |
+| Application Developer | Sobeys | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=2aba4b24ecb0d561 |
+| Application Developer | Sobeys | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=cd7c7e36b921d7ae |
+| Strategy Analyst - 17 Month Term | ATB Financial | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412992175 |
+| Credit Risk Analyst | Helcim | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412993106 |
+| Learning and Development Specialist - Hybrid Remote | COBS Bread | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412992088 |
+| Receptionist | Enercare | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=4ee78ba25b177e83 |
+| Customer Service Representative | Calgary North Decorating Benjamin Moore | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=598a7fec4e20abb1 |
+| Branch Scheduler | GardaWorld | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=aaad8f7d1a33da06 |
+| Receptionist | Enercare Inc. | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412994076 |
+| Personal Banking Associate | TD | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412974602 |
+| Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4411258815 |
+| Moving Associate (Part-Time) | WINS (Women In Need Society) | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413164438 |
