@@ -6366,3 +6366,74 @@
 | Corporate WCB Coordinator | City of Calgary | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=80a5b9addf35e2c0 |
 | Field Training Coordinator | City of Calgary | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=23c1cf12f7363909 |
 | Business Development Associate | PICTON Investments | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413035759 |
+| HSE Coordinator | Strike Group | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=5bfe3a5937ea26f0 |
+| HSE Coordinator | Strike Group | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=19a170d36f848e7b |
+| Business Systems Lead | Syngenta | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=21164b8fd7b1673d |
+| Turnover Coordinator | Strike Group | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=33dda1833fba2be6 |
+| Daycamp Leader | Trico Centre for Family Wellness | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=9b3d2d5832cae929 |
+| Training Specialist (Emergency Response) | SGS | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=e7f67772ab9a7313 |
+| CLIENT SERVICES & ORDER COORDINATOR | I of the B Holder | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=9ffeaba54f109396 |
+| Corporate Development Analyst | Cenovus Energy | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=f4aef05587a5254e |
+| Project Coordinator | North Star Contracting | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=99cfbfb0b47b9849 |
+| Plant Operations 3rd Class Shift Engineer | Concorde Airport Services | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=87e2130b8f7b3789 |
+| Warranty Advisor | Rocky Mountain Equipment | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=8a656ef640955ee6 |
+| Client Care Specialist | Abell Pest Control | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=7cfbe03bbdc37d2a |
+| Project Coordinator | Volker Stevin | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=efc27cef6d35a43c |
+| ALA - Senior Financial Analyst | AltaGas | 2026-05-11 | J | https://ca.indeed.com/viewjob?jk=aa61dca37e65ee42 |
+| Submission Officer - Calgary | BLS International | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413138770 |
+| Administrative Operations Support Senior Coordinator | Air Canada | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413138364 |
+| Sourcing Partner (Recruitment) | Hays | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412951052 |
+| Team Lead Contract | Sobeys | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412955552 |
+| Operations Coordinator - Afternoon - [Contract] | Sobeys | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412952647 |
+| Asset Management Advisor - Network Planning | Suncor | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413142277 |
+| Financial Analyst | Adecco | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413141846 |
+| Senior Functional Business Analyst (MMS) | Alberta Electric System Operator (AESO) | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413152057 |
+| PEOPLE & CULTURE COORDINATOR | McMan Youth, Family and Community Servic | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412953079 |
+| Quality Assurance Specialist II | Affirm | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413126409 |
+| Marketing Coordinator | MatchBox Consulting Group | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4413116387 |
+| Outreach Coordinator - Part Time | YMCA Calgary | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=4d39b00bea91f218 |
+| FT Coordinator | FLINT Corp. | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=759ca802b160318b |
+| Social Media & Content Advisor | Wilder Institute/Calgary Zoo | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=0cac72aad5b92b7b |
+| Portfolio Architect Specialist | Cenovus Energy | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=e1efcbe13a1370a5 |
+| Interim Payroll and Benefits Specialist | StaffingPedia.INC | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=215ee4092977e7b5 |
+| Donor Database Administrator | Habitat for Humanity Southern Alberta | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=c7dcd9aa5af117dd |
+| Older Adult Services Nav-CARE Coordinator | Camrose & District FCSS | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=03dc6611055bdc93 |
+| Coordinator, Drainage and Brushing, One Year Term Full-Time | LAC LA BICHE COUNTY | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=5919fe77a3b09210 |
+| Field Case Manager | Cencora | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=17272f0db9dc0e94 |
+| Case Manager - West Coast (Remote) | Sentrex Health Solutions | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=10ee618d008fe569 |
+| Administrative Assistant 2 | McMan Youth, Family and Community Servic | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=dbbbbde076de1e84 |
+| Logistics Coordinator | Armada Diesel | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=e1ff719cf9387c64 |
+| Community Engagement Coordinator- Canada Summer Job Position | Valour Place | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=0a7c6037ecb1e98c |
+| Human Resources Coordinator | Vision Credit Union Ltd | 2026-05-11 | N | https://ca.indeed.com/viewjob?jk=80be31a6805cbb9f |
+| Training Specialist (Emergency Response) | SGS | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412953802 |
+| HSE Coordinator | PCL Construction | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412956841 |
+| Vehicle Graphics & Signs Sales Coordinator | Ignition Digital Graphics Ltd. | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4413133047 |
+| Brand Activation Specialist (Stampede) | HotTakes | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4408373795 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412937574 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412950478 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-11 | N | https://www.linkedin.com/jobs/view/4412942821 |
+| Parts Accessories Specialist | Shaganappi GM | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=6c442afd15a0d971 |
+| Business Analyst | Vantix Systems Inc | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=f6fe1be608664811 |
+| Financial Analyst / CRE / Junior | Smart Capital Center | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=fd1b851f4c3ce8d0 |
+| Mobile Apps Systems Analyst | Vantix Systems Inc | 2026-05-11 | R | https://ca.indeed.com/viewjob?jk=cbdf16e166c4f347 |
+| Compliance Analyst (Legal Risk & Compliance Department) | Fasken | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4384279210 |
+| Maximo Technical Developer | IBM | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412955792 |
+| Application Developer | Sobeys | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413111761 |
+| Infrastructure & Systems Administrator | Carina Software Group | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412931763 |
+| Financial Analyst | PETRONAS Canada | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412968131 |
+| Leasing Specialist | Boardwalk | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413123207 |
+| Analyst, CMHC Multifamily Program | Timbercreek | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412952027 |
+| Application Developer | Sobeys | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413106883 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412941983 |
+| Quality Assurance Specialist II | Affirm | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4413128353 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412957022 |
+| Maximo Technical Developer | IBM | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412962480 |
+| Corporate Controller | Vault Group | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=6a92a76a45d56186 |
+| Evaluation Specialist | CUPS | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=998e21556690c3e1 |
+| Project Controller/Scheduler | Strike Group | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=1cbc9c008a414660 |
+| Sales Associate -Temporary/Full-time (Manchester) - Canada S | Women In Need Society | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=2d150d4900217308 |
+| Branch Scheduler | GardaWorld | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413139761 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413152448 |
+| Customer Service Associate | RONA | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412950722 |
+| Associate Philanthropy | CNIB | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413106806 |
+| Client Service Associate, BMO Nesbitt Burns | BMO | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413144798 |
