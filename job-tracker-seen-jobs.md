@@ -6339,3 +6339,10 @@
 | Ophthalmic and Administrative Assistant | Calgary Eye Centre | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=b1b3e0a668ae2440 |
 | Sales Administrator (Summer Student) | Trico Homes | 2026-05-11 | G | https://ca.indeed.com/viewjob?jk=935f8dbae3f21f13 |
 | (CAN) Consumables Associate | Walmart Canada | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412635791 |
+| COORDINATOR, OPERATIONS SUPPORT, Advisory Services - Calgary | BDC | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412728799 |
+| Team Lead Alberta - Community Support Services | FirstService Residential Canada | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412727735 |
+| Personal Procurement & Research Specialist – AI Training & I | Crossing Hurdles | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412715895 |
+| Auto Body Parts Coordinator (29 St) | Boyd Autobody & Glass | 2026-05-11 | J | https://www.linkedin.com/jobs/view/4412655663 |
+| Product & Service Comparison Analyst – Data-Driven Consumer  | Crossing Hurdles | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4412730318 |
+| Technical Specialist | Eaton | 2026-05-11 | R | https://www.linkedin.com/jobs/view/4393713524 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412669360 |
