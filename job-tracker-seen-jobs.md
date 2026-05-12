@@ -6585,3 +6585,33 @@
 | Customer Service Representative | BMO | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413729734 |
 | Customer Service Representative | Hertz | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413824021 |
 | Financial Management Associate (18-month contract) | EY | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413801796 |
+| Education Program Coordinator | The Educational Partnership Foundation ( | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=faac43fb8c8fe116 |
+| Booking Team Lead | Pureform Radiology | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=30959aa980439fc0 |
+| Support Analyst (End User Support – Engineering, Technology) | Peloton Well Focused | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=c50beaceda7bc45a |
+| Advancement Coordinator | West Island College | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=f72b1c8c74b16d92 |
+| Talent Acquisition Specialist | Fairmont | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=3207d7ff42caaad2 |
+| Contract Conformance Specialist (CCS) | Indotronix Avani Group | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413828755 |
+| Contract Specialist | Indotronix Avani Group | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413836447 |
+| Contract Conformance Specialist | JSG (Johnson Service Group, Inc.) | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413836480 |
+| Control Room Management Specialist | TC Energy | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4410319630 |
+| Client Services Analyst | Enerflex Ltd. | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4410312759 |
+| Compliance Specialist, Gas Control | TC Energy | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4410308837 |
+| Senior Governance, Reporting & Quality Assurance Analyst | Co-operators | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413746679 |
+| Turnaround Planner | Insight Global | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413832696 |
+| Analyst, Financial Reporting | Avenue Living | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413767187 |
+| Specialist I Digital Solutions | Enbridge | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4410312699 |
+| AR/AP & Collections Specialist | Evore Steel | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413834508 |
+| Senior Procurement Specialist | Worley | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413745883 |
+| Procurement Specialist | Worley | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413740924 |
+| Client Service and Volunteer Coordinator | Calgary Legal Guidance Society | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=7d2c684c11e6487c |
+| Safety Advisor | Cedarglen Homes | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=1be29b9d7f445f2c |
+| Youth & Family Counsellor I / II - Wheatland | Wood's Homes | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=cb1ea1a39244242a |
+| Education Program Coordinator | The Educational Partnership Foundation ( | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=41154b9e3ab9f283 |
+| Full time permanent Activity Coordinator | Rocky Senior Housing Council | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=1ac7ea7b0ca27abb |
+| Human Resources Coordinators | Tenfold HR Solutions | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=fa872a7ec2fced35 |
+| Human Resources Coordinator | Mainroad Group | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=396743a7d4a1627a |
+| Senior Technical Program Manager- Remote | BeyondTrust | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413742907 |
+| Technical Support Specialist I, FME Form/Flow | Safe Software | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=73f0183180f62298 |
+| Receptionist (Evening and Weekends)- Beltline | SKA Thermal Spa | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=df885be1d70b6b4b |
+| Zen Serene Spa is Hiring – Part-Time Spa Receptionist (Subco | Zen Serene | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=07ed409bf061337b |
+| Personal Banking Associate | BMO | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413063095 |
