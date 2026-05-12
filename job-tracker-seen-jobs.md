@@ -6512,3 +6512,24 @@
 | Summer Student - Youth Soccer Coach & Project Associate | Calgary Chinooks FC | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=a3bd4457a61bace9 |
 | Receptionist Non Union - Casual | Sienna Senior Living | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413519346 |
 | Customer Experience Associate | TD | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413244565 |
+| Azure Specialist | ALBERTA SECURITIES COMMISSION | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=c3760d231aaee7c0 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=a96590512e6e68fb |
+| Operational Excellence Analyst | InterPro Pipe + Steel | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4404341777 |
+| Client Care Specialist | Abell Pest Control | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413401314 |
+| Shift Leader - JOEY Crowfoot | JOEY Restaurant Group | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4290749456 |
+| (CAN) People Lead | Walmart Canada | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4401629254 |
+| Transportation Engineer (Intermediate/Senior) | Associated Engineering | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4401670405 |
+| Seismic Imaging Analyst | Viridien | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4398877544 |
+| HR Coordinator | InterPro Pipe + Steel | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4404343788 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413526293 |
+| Senior Analyst, PeopleSoft - Information Technologies | University of Calgary | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=1a6885b39ca57f85 |
+| Senior Procurement Specialist (1-year Term Position) | ALBERTA SECURITIES COMMISSION | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=0bb2213b2a2b50a6 |
+| Quality Control Coordinator | North American Construction Group | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=dc263ec1dbb50661 |
+| Entry Level Client Services Coordinator | ParaMed Home Health Care | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413416155 |
+| Architectural Contract Administrator | TalentSphere Staffing Solutions | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4314892069 |
+| Power Platform & AI Solutions Developer | Intelbyte | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=88b75bfe02c78158 |
+| Process Technologist | Associated Engineering | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4401667428 |
+| Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413531309 |
+| Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413539374 |
+| Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413549082 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413543145 |
