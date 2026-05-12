@@ -6471,3 +6471,34 @@
 | Personal Banking Associate | TD | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4412974602 |
 | Research Associate, Faculty of Veterinary Medicine | University of Calgary | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4411258815 |
 | Moving Associate (Part-Time) | WINS (Women In Need Society) | 2026-05-11 | G | https://www.linkedin.com/jobs/view/4413164438 |
+| AML Data Analyst | Neo Financial | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=175a8a6753d1c516 |
+| Contract Manager | Finning | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=7e0b690da129ee19 |
+| Operations Accountant, AIT | Canadian Natural Resources Limited (CNRL | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413185322 |
+| Senior Strategy Analyst | FreshBooks | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4411267957 |
+| Intake Advisor - Health and Wellness | Suncor | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413216683 |
+| Asset Management Advisor - Network Planning | Suncor Energy | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=695ff8e4dfb80151 |
+| Intake Advisor - Health and Wellness | Suncor Energy | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=6d130141d9db0e42 |
+| Human Resources & People Operations Coordinator | GetQuorum | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=4ffc85f8097248de |
+| Resource Coordinator | Tacten Industrial | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=b7ab79dfdc8c7628 |
+| District HRPD Coordinator | PCL Construction | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=81da149029dc6386 |
+| Assessment Facilitator | MaKami College | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=8b12d3b8c5a2f01b |
+| MLS Administrative Assistant | University of Alberta | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=05cf1e62f036c1be |
+| Evening/Weekend Administrative & Client Care Coordinator | Sitka Health Collective Ltd. | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=a26b2702dfe56934 |
+| Payroll & Benefits Administrator | De Havilland Aircraft of Canada Limited | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413233247 |
+| Case Manager - West Coast (Remote) | Sentrex Health Solutions | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4412986688 |
+| CNC Application Specialist | Source Atlantic | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=3434fb7eca129c2c |
+| GOAPRDJP00000915 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413217526 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413207737 |
+| Customer Experience Associate | TD | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=5a96578c12cf4362 |
+| Personal Banking Associate | TD | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=e6f8d22d74bddb2d |
+| Sales Associate Full Time - Marlborough Mall | Wow! Mobile Boutique | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=f569906bf95867c1 |
+| Sales Associate Full Time - Marlborough Mall | Wow! Mobile Boutique | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=83e3ae9f438a447f |
+| Customer Service Representative (Motivator) - Calgary Stephe | GoodLife Fitness | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4410114158 |
+| (CAN) Distribution Centre Team Associate - Staple Stock II ( | Walmart Canada | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413186037 |
+| Part Time Customer Service Representative | U-Haul | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413208873 |
+| Dairy Frozen Associate | Walmart Canada | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413189015 |
+| Customer Service Associate - Temp | RONA | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413246170 |
+| Sales Associate | Carters Inc. | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413216652 |
+| Tool Rental Associate : Part Time (Temp) - COUNTRY HILLS | The Home Depot Canada | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413193301 |
+| Platform Professional Services Associate Consultant (Remote, | CrowdStrike | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4412990530 |
+| Sales Associate Full Time - Marlborough Mall | WOW! mobile boutique | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413204729 |
