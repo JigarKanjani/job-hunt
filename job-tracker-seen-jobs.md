@@ -6533,3 +6533,55 @@
 | Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413539374 |
 | Data Analyst | $80/hr Remote | Crossing Hurdles | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413549082 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413543145 |
+| Operations Coordinator | Bremic Carriers Inc. | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=bf9f42802668836d |
+| Social Media and Event Coordinator | Trico Homes | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=9b9dabbbd32692e1 |
+| Marketing Coordinator | OSTEN & VICTOR Alberta Tennis Centre | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=81db1c778935b44b |
+| HSE Coordinator | Hutton Safety Group | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=ea2163e545e125a1 |
+| Helpdesk Analyst (Calgary South) | Trail Appliances AB/SK | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=8d286b41b6ced711 |
+| Coordinator/Quality Management | Flair Canada | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=f4cd890f49210431 |
+| Maintenance Planner | FLINT Corp. | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=8ece238d28b191d2 |
+| Human Resources Coordinator - Recruitment & Onboarding | Black & McDonald Limited | 2026-05-12 | J | https://ca.indeed.com/viewjob?jk=f76a5863bdfa678e |
+| Supply Chain Specialist | Gradient Thermal Inc. | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413826380 |
+| Material Coordinator | Hays | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413709909 |
+| Procurement Specialist | CoolIT Systems | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413812490 |
+| Project Coordinator | Clark Builders | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413709917 |
+| Corporate Planning and Economics Analyst | TAQA Group | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413820668 |
+| Joint Venture Coordinator | PETRONAS Canada | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413734067 |
+| Senior Sales Compensation Analyst | Clio | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413804767 |
+| Customer Success & Operations Associate | CoolIT Systems | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413802885 |
+| Client Design & Delivery Coordinator (Tenant Coordinator) | Cadillac Fairview | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413729249 |
+| Senior Consultant / Consultant - Enterprise Value Creation - | Deloitte | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4393569050 |
+| Helpdesk Analyst (Calgary South) | Trail Appliances AB/SK | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413715836 |
+| Part-Time / Fractional Project Quality & Plant Integration L | VulcanX | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413825407 |
+| Recruitment Marketing Specialist | Garmin | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413491839 |
+| IT Solutions Analyst | McMillan LLP | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=149bb29ea488a6a1 |
+| Payroll Administrator | Urban Systems | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=3b8961fbc981bf68 |
+| Community Engagement Coordinator | Can-Der Group | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=63d7d38df7d7aa07 |
+| Booking Coordinator | Gateway Health Solutions (Gateway Surger | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=8185787c21a8f85c |
+| Human Resources Coordinator - Recruitment & Onboarding | Black & McDonald Limited | 2026-05-12 | N | https://ca.indeed.com/viewjob?jk=8fc3bae0e85f1894 |
+| Administrative Assistant (Health and Safety) | Heritage Park Historical Village | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413735634 |
+| Administrative Assistant (Volunteer Program Assistant) | Heritage Park Historical Village | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413736560 |
+| Administrative Assistant | Aerotek | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4410197727 |
+| Project Coordinator | North Star Contracting Inc. | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413589134 |
+| Colleague Experience Administrator (CEA) In-Training | Loblaw Companies Limited | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413720916 |
+| Student Admissions Advisor | Robertson College | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413742471 |
+| Analyste principal(e), Rapports, gouvernance et assurance qu | Co-operators Assurance et services finan | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4413819743 |
+| Developer Analyst | Canadian Natural | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=56d96483e414f6c8 |
+| Technical Business Analyst | Vantix Systems Inc | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=aefeeb41045bb9ab |
+| Technical Analyst - Intermediate | Vantix Systems Inc | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=4d88f01daaae835f |
+| Data Analytics Specialist | Vantix Systems Inc | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=009b2c74bb255369 |
+| Information Technology Coordinator | Flair Flexible Packaging | 2026-05-12 | R | https://ca.indeed.com/viewjob?jk=4a6a8fe4ed877069 |
+| Application Developer | Sobeys | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413494758 |
+| Application Developer | Sobeys | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413485818 |
+| Information Management System Specialist (Hexagon SDx and Sm | AtkinsRéalis | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413479966 |
+| Information Management System Specialist (Hexagon SDx and Sm | AtkinsRéalis | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413497785 |
+| Executive Administrator | Canadian Cattle Identification Agency | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413598816 |
+| Reporting Analyst | BuzzClan | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4410196873 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413718305 |
+| [Remote] PLM Implementation Specialist | Rhodes Wolfe | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413810380 |
+| School Receptionist | Edge School for Athletes | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=5fba854a6f12d37c |
+| Guest Services Agent / Shuttle Driver - SEASONAL | Sheraton | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=6640e36ef24f2264 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413831381 |
+| Customer Service Representative | BMO | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413729734 |
+| Customer Service Representative | Hertz | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413824021 |
+| Financial Management Associate (18-month contract) | EY | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413801796 |
