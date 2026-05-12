@@ -6502,3 +6502,13 @@
 | Tool Rental Associate : Part Time (Temp) - COUNTRY HILLS | The Home Depot Canada | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413193301 |
 | Platform Professional Services Associate Consultant (Remote, | CrowdStrike | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4412990530 |
 | Sales Associate Full Time - Marlborough Mall | WOW! mobile boutique | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413204729 |
+| (CAN) Team Leader Operations - Casepack (Afternoons - Wednes | Walmart Canada | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4410149200 |
+| Analyst 1 | Bureau Veritas | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4413518437 |
+| Operations Accountant | Canadian Natural Resources Limited (CNRL | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4412978899 |
+| Network Analyst - Calgary | Compugen Inc | 2026-05-12 | J | https://www.linkedin.com/jobs/view/4405704241 |
+| Investment Counsellor | BMO | 2026-05-12 | N | https://www.linkedin.com/jobs/view/4362344682 |
+| Process Engineer | Canadian Natural Resources Limited (CNRL | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4412924553 |
+| Azure Specialist | Alberta Securities Commission | 2026-05-12 | R | https://www.linkedin.com/jobs/view/4413253516 |
+| Summer Student - Youth Soccer Coach & Project Associate | Calgary Chinooks FC | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=a3bd4457a61bace9 |
+| Receptionist Non Union - Casual | Sienna Senior Living | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413519346 |
+| Customer Experience Associate | TD | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413244565 |
