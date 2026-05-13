@@ -6615,3 +6615,19 @@
 | Receptionist (Evening and Weekends)- Beltline | SKA Thermal Spa | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=df885be1d70b6b4b |
 | Zen Serene Spa is Hiring – Part-Time Spa Receptionist (Subco | Zen Serene | 2026-05-12 | G | https://ca.indeed.com/viewjob?jk=07ed409bf061337b |
 | Personal Banking Associate | BMO | 2026-05-12 | G | https://www.linkedin.com/jobs/view/4413063095 |
+| Senior Financial Analyst | Eaton | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=b991361cff3dbe73 |
+| CLDRSRC9591 - Data Analytics Specialist -Remote Contract | Cloud Resourcing | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=d7acba2b2e8b2622 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413903848 |
+| Health & Safety Coordinator | Trans Mountain | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413913324 |
+| Service Support Analyst | PBS Systems | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410352534 |
+| Relief Resident Support Worker | The Salvation Army | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=cee4836747dbc1c8 |
+| Administrative Assistant | RBC | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4413925309 |
+| Trainers/Facilitators (Roster Position) | ECO Canada | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4410368030 |
+| Office Administrator | AVY Technologies LLP | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4413817897 |
+| Financial & Legal Compliance Analyst | $90/hr Remote | Crossing Hurdles | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413867327 |
+| Word Document Specialist - Fully Remote | Mercor | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413907466 |
+| AI Training Specialist - Fully Remote | Upto $80/hr | Mercor | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413912383 |
+| Personal Banking Associate | TD | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=6463839d1c5839f3 |
+| Customer Service Rep | Westlake Pipe & Fittings | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410349138 |
+| Part Time Sales Associate, adidas Signal Hill (#2031) | adidas | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410355256 |
+| Flooring Sales Specialist | Millhouse Carpet Ltd. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4413842063 |
