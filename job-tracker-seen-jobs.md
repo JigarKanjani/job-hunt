@@ -6690,3 +6690,40 @@
 | Associate Lawyer - Insurance Litigation | Urban Legal Recruitment Inc. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414128982 |
 | Scheduler - Nuclear Construction | Kiewit | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4403992952 |
 | Business Development Associate | Tykans Group Inc. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414139367 |
+| Business Operations Coordinator, Haskayne Centres | University of Calgary | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=894135867c0149f0 |
+| Facilities Support Coordinator | CPKC | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=151384d181c558a6 |
+| Project Coordinator - Hollow Metal, Aluminum Entrances & Arc | Limitless Automatics & Doors Inc | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=8fcb67ec94403d8b |
+| Manufacturing Analyst | Coca-Cola Canada Bottling Limited | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=c97b89961dee5ca8 |
+| HR Coordinator | O.N.E. Transport Group | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=f89931bc90c301db |
+| Project Coordinator | MAXX NORTH AMERICA SERVICES LTD | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=9ac27ba6fb5e9557 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=3b470ca06c590f89 |
+| LTL Western Team Lead | Bison Transport Inc. | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414162870 |
+| Contract Conformance Specialist | Manpower Alberta | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414161291 |
+| Mailroom Coordinator | FGL Sports Ltd | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414230635 |
+| Facilities Support Coordinator | CPKC | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414255667 |
+| Analyst, Financial Planning & Analysis | Benevity | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414283036 |
+| Brand and Marketing Lead - EY Assurance | EY | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410627754 |
+| Senior Continuing Education Specialist (15-month contract) | CIRO / OCRI | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414270445 |
+| Senior Continuing Education Specialist (12-month contract) | CIRO / OCRI | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414278258 |
+| Stepping Stones – Child and Youth Care Counsellor | Hull Services | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=6d91e73247be22a9 |
+| Investment Advisor | RBC | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=694d5db4c5a64036 |
+| Service Advisor - Northland Volkswagen | AutoCanada | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=ba45a49b233a6d0a |
+| Research Coordinator | University of Alberta | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=5d80d6743bc6642f |
+| Youth IT Coordinator | Garacad Development Society | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=a8291e05a0ea660a |
+| Specialist, Office of the President and CEO | MS Canada | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414253708 |
+| Administrative Assistant, U.S. Corporate Tax | MNP | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414159991 |
+| Communications Coordinator | Western Financial Group | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414171286 |
+| IT Support Assistant | Pregnancy & Infant Loss Support Centre | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=4a067fbd093b5355 |
+| IT Business Analyst | FPG | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=755b6d45cbba5c1d |
+| Mining Intelligent Coordinator / IT Technician – Mine Site | Five Hills Canada Limited | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=f40eabcca11d5c56 |
+| Technical Analyst (Support Services) | Farm Credit Canada | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=19ba2407b5f73a0b |
+| Infrastructure Specialist | MVP Talent Corp | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4414257521 |
+| Service Desk Analyst | Western Financial Group | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4414153998 |
+| CA-Specialist: Full-Time, Part-Time, and Part-Time Temporary | Apple | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4414153652 |
+| Reporting Analyst | Bevertec | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4414251493 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4414256037 |
+| Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=681294e58fd396b0 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414180342 |
+| Customer Experience Associate | TD | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414279371 |
+| Sales Associate | Minto Group | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414237770 |
+| Corporate / Real Estate Associate (Mid-Level) | gpac | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410622848 |
