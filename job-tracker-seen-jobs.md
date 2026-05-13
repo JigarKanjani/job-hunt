@@ -6631,3 +6631,13 @@
 | Customer Service Rep | Westlake Pipe & Fittings | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410349138 |
 | Part Time Sales Associate, adidas Signal Hill (#2031) | adidas | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410355256 |
 | Flooring Sales Specialist | Millhouse Carpet Ltd. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4413842063 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=5455f66c14f6bb12 |
+| Workplace Experience Coordinator - 6 month contract | CBRE | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413926985 |
+| Senior Health & Safety Advisor | Trans Mountain | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413890212 |
+| Host / Hostess / Guest Service Leader - JOEY Crowfoot | JOEY Restaurant Group | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4278271880 |
+| Administrative Assistant(Canada Summer Jobs Intern) | Strathcona Place Society | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=dd86abe737800bfb |
+| Computer Systems Analyst | Remote | Crossing Hurdles | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413859857 |
+| Administrative Support IV | Alberta Precision Labs | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=05f2891f772338a9 |
+| Administrative Support IV | Alberta Precision Labs | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=7612ab23578cfde2 |
+| Samsung Sales Associate - Market Mall - Calgary, AB | OSL Retail Services Inc | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=2646afd46a57b779 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4413886214 |
