@@ -6657,3 +6657,36 @@
 | AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413894537 |
 | Technology Advisor | Acquire Technology Solutions | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414108930 |
 | Vans: Sales Associate - Chinook Center | Vans | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4392133432 |
+| Coordinator, Human Resources (Contract) | TriSummit Utilities Inc. | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=b9211d31e5fc9c39 |
+| Finance & Bookkeeping Specialist | Max Early Childhood Services | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=0af65f6a066f46ee |
+| Business Analyst, Talent Development (14 Month Term) | ATB Financial | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=de91f62f12f598c2 |
+| Operations Coordinator | RMC GROUP OF COMPANIES | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=94a499e86f3d684c |
+| Production Planner | Marsan Foods | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=1819c4df8c7a0ed9 |
+| Senior GIS Analyst | Government Of Alberta | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=a3b59c850a77d250 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=af8f00f81e0cca09 |
+| Business Analyst | Insight Global | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414146629 |
+| Business Analyst, Talent Development (14 Month Term) | ATB Financial | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414214605 |
+| Operations Coordinator | Umdasch Group | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410609583 |
+| Operations Coordinator | Doka | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414127611 |
+| Operations Lead | Nutrien | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410612691 |
+| Business Operations Coordinator, Haskayne Centres | University of Calgary | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414206486 |
+| Corporate and Financial Systems Analyst | Harvest Operations Corp. | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414131737 |
+| Administrative Assistant | Bath Fitter | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=77d8aa0d03cdfa70 |
+| Social Worker | Extendicare | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=fa2f030951f7ecd4 |
+| Recreation Coordinator | Christenson Group of Companies | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=33bd956c9b2ccf1a |
+| Project Management Coordinator | Government Of Alberta | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=4fad1d4a1ee3dcb9 |
+| Workforce Coordinator | Clearwater Energy | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=52c9cac48a6f128d |
+| Education Program Coordinator (Calgary) | The Educational Partnership Foundation | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414139196 |
+| Sr Financial Analyst, Cedar | Pembina Pipeline Corporation | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414220225 |
+| SAP Security Analyst & SAP Junior Security Analyst | Government Of Alberta | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=2e76fe08591ecaef |
+| Technical Trainer I | Nabors Industries | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413998914 |
+| Hotel Front Desk Agent/Night Auditor | Holiday Inn Express & Suites | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=90817f9d9a56e780 |
+| Technical Sales Specialist | Eaton | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=221ac48ce3e0ebe4 |
+| Customer Experience Associate | TD | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=f3177e75eafa5377 |
+| Sales Associate | Minto Group Inc. | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=b5c0ce72217b8b89 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410620349 |
+| SALES ASSOCIATE | La Vie En Rose | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414215036 |
+| Police Officer | Calgary Police Service | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414137577 |
+| Associate Lawyer - Insurance Litigation | Urban Legal Recruitment Inc. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414128982 |
+| Scheduler - Nuclear Construction | Kiewit | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4403992952 |
+| Business Development Associate | Tykans Group Inc. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414139367 |
