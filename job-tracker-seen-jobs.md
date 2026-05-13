@@ -6727,3 +6727,29 @@
 | Customer Experience Associate | TD | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414279371 |
 | Sales Associate | Minto Group | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414237770 |
 | Corporate / Real Estate Associate (Mid-Level) | gpac | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4410622848 |
+| Sr Analyst, Procurement Value Management - Saskatoon, SK or  | Nutrien | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=0242e1f43952d9dc |
+| CET Analyst | NRG Energy | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=57b4e164c14f7de4 |
+| Lead Hand | Intelcom | Dragonfly | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=630449b231cec1d1 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=6d8e8120041305f3 |
+| COMPS - Technical Business Analyst | Boardwalk | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=2d927739af39d330 |
+| Product Lead, P-K-S | Nutrien | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=3fcc411f985dd339 |
+| Program Manager- Senior Reliability, Maintenance, and Engine | Amazon.com | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=940f19b94ae292c6 |
+| Buyer | Wajax | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414287670 |
+| Sr Analyst, Procurement Value Management - Saskatoon, SK or  | Nutrien | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410636943 |
+| Advisor, External Communications and Media Relations | Alberta Securities Commission | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414267796 |
+| Cyber Security Operational Technology Senior Analyst | Pembina Pipeline Corporation | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414281971 |
+| Facilities Planning Specialist | Trans Mountain | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414191273 |
+| Senior Analyst Cybersecurity Operations | Nutrien | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410635892 |
+| Product Lead, P-K-S | Nutrien | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410632958 |
+| Community Support Worker Team Lead | The Mustard SEED Society | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=3063a8c2acf5970b |
+| People & Culture Coordinator | Paladin Security | 2026-05-13 | N | https://ca.indeed.com/viewjob?jk=e0b68b6221bbd119 |
+| Senior Continuing Education Specialist | CIRO / OCRI | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414270448 |
+| Financial Advisor- Secondment | CIBC | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414298141 |
+| Claims Investigation Specialist | Canada Life | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414182296 |
+| Pension Administrator | GBL | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4414180501 |
+| BUSINESS CENTRAL FINANCIAL ANALYST | Habitat for Humanity Edmonton | 2026-05-13 | R | https://ca.indeed.com/viewjob?jk=466d874cefebfb85 |
+| Receptionist (Part-time) | Fish Creek Executive Centre | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=609c504b7c3041d6 |
+| Business Data & AI Specialist (Calgary, AB) - Hybrid | Enbridge | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=d1e5e95a27d869c7 |
+| Sales Specialist - Network for AI - Large Enterprise Account | Hewlett Packard Enterprise | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414286840 |
+| SAP Specialist (Billing) | K&K Global Talent Solutions INC. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414276823 |
+| Junior Talent Agent | Six Degrees Music & Sound | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414182065 |
