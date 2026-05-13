@@ -6641,3 +6641,19 @@
 | Administrative Support IV | Alberta Precision Labs | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=7612ab23578cfde2 |
 | Samsung Sales Associate - Market Mall - Calgary, AB | OSL Retail Services Inc | 2026-05-13 | G | https://ca.indeed.com/viewjob?jk=2646afd46a57b779 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4413886214 |
+| Purchasing Specialist | Packers Plus | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=780754cc5d8ec50a |
+| Project Coordinator | Calroc Industries Inc. | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=f54e7c8280d67fdd |
+| Controlling Analyst | Vallourec | 2026-05-13 | J | https://ca.indeed.com/viewjob?jk=d58c67defbda406e |
+| Procurement Manager | DSJ Global | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413105227 |
+| Logistics & Customer Service Supervisor | Amrize | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4410613236 |
+| Equipment Rental Specialist | Sunbelt Rentals, Inc. | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413993003 |
+| Aon Advance Client Success Specialist | Aon | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4413967477 |
+| Controlling Analyst | Vallourec - North America | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4414129113 |
+| PAS Support Analyst - Senior | CGI | 2026-05-13 | J | https://www.linkedin.com/jobs/view/4393264327 |
+| Senior Policy Advisor | Trans Mountain | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4407603194 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-13 | N | https://www.linkedin.com/jobs/view/4413980491 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413983154 |
+| Game Engine Developer (Cocos2d-x, C++) | Remote | Crossing Hurdles | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413896313 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-05-13 | R | https://www.linkedin.com/jobs/view/4413894537 |
+| Technology Advisor | Acquire Technology Solutions | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414108930 |
+| Vans: Sales Associate - Chinook Center | Vans | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4392133432 |
