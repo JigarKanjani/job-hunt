@@ -6799,3 +6799,20 @@
 | OMNI Customer Fulfillment Associate | Walmart | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=07fe8675bedaad91 |
 | Truck Scheduler, Refined Products | Gibson Energy | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414442352 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411126956 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=538af660d1018d77 |
+| Clinical Research Informatics Specialist, Clinical Neuroscie | University of Calgary | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=8338c84c25b81c6d |
+| Advisor, External Communications and Media Relations | ALBERTA SECURITIES COMMISSION | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=6c4a9bf9688ef43f |
+| Workplace Experience Coordinator - 6 month contract | CBRE | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414573338 |
+| Administrative Coordinator | Norton Rose Fulbright | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414572035 |
+| Senior Advisor Matter Management & Recognition | Norton Rose Fulbright | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414569093 |
+| Database Specialist - Application Support and Development | Kinaxis | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4404855816 |
+| Supply Chain Specialist | $40/hr Remote | Crossing Hurdles | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414473012 |
+| Fulfillment Operations Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414473013 |
+| Relief Support Worker - Community | Calgary Alternative Support Services | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=0953c649f5ecdd81 |
+| Marketing Coordinator | Business Instincts Group | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=943bb1513a7f0312 |
+| Health & Safety Coordinator | Trans Mountain Corporation Inc. | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=67d1684f0a74ee66 |
+| Stepping Stones – Child and Youth Care Counsellor | Hull Services | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4411136586 |
+| Training and Development Administrator | Johnson Controls | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4402815822 |
+| Asset Management Specialist - 6 Month Term | City of Airdrie | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=d711835cf75a2c8f |
+| Security Automation Engineer, 18-month Term | Kinaxis | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4405468707 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414475159 |
