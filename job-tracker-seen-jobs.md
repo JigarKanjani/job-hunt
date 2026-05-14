@@ -6816,3 +6816,21 @@
 | Asset Management Specialist - 6 Month Term | City of Airdrie | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=d711835cf75a2c8f |
 | Security Automation Engineer, 18-month Term | Kinaxis | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4405468707 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414475159 |
+| Project Coordinator | Robert B Somerville Co Ltd. | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=283422d44c3b7db1 |
+| Shop Coordinator | Celeros Flow Technology | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414571806 |
+| Inventory Associate | 7-Eleven | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411171504 |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4402853445 |
+| Senior Global Compensation Specialist | Enerflex Ltd. | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4396864022 |
+| Data Migrations Specialist | Clio | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4404460460 |
+| GIS Analyst | Onterris | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4402814970 |
+| Analyste financier senior - Bureau des assoicés | Norton Rose Fulbright | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4411174176 |
+| ServiceNow Business Process Consultant (Remote) | DXC Technology | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4321514283 |
+| Application Security Developer | Clio | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4366085415 |
+| Data Analytics Specialist | Cenergy International Services | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414464886 |
+| Visual Reasoning Specialist | $40/hr Remote | Crossing Hurdles | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414471404 |
+| Receptionist - Full Time | Back & Body Health | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=12bc60db92eb2a84 |
+| Sales Associate | Staples Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4404515955 |
+| Sales Associate (FT) - #110 Signal Hill | Staples Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4404964093 |
+| Vans: Sales Associate - Crossiron Mills | Vans | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4366070932 |
+| Entry Level Customer Service (Work From Home) | American Income Life Insurance Company | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414603687 |
+| Rental Coordinator | Manulift | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4405621086 |
