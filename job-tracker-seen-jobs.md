@@ -6753,3 +6753,33 @@
 | Sales Specialist - Network for AI - Large Enterprise Account | Hewlett Packard Enterprise | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414286840 |
 | SAP Specialist (Billing) | K&K Global Talent Solutions INC. | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414276823 |
 | Junior Talent Agent | Six Degrees Music & Sound | 2026-05-13 | G | https://www.linkedin.com/jobs/view/4414182065 |
+| Senior Digital Delivery Analyst – SAP S/4 | Suncor Energy | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=8f14c0771135283b |
+| Reporting & Systems Analyst | Strike Group | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=aa222343fcb71111 |
+| Equipment Maintenance Coordinator | Mammoet | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=86048eb36919a6f3 |
+| Equipment Maintenance Coordinator | Mammoet | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=24ba4a64e5881284 |
+| Inventory Analyst | Johnson Controls | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=789278e5ff4ec626 |
+| Senior WFM Analyst, Data Visualization | Intact | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414404279 |
+| Contract Security Coordinator | Bell | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414294712 |
+| Senior Technical Talent Acquisition Specialist (12 Month Con | Clio | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414400651 |
+| Senior Digital Delivery Analyst – SAP S/4 | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414513952 |
+| CET Analyst | NRG Energy | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4410642820 |
+| Turnaround Procurement Coordinator (Temporary) | CF Industries | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414504783 |
+| Environmental Coordinator | City of Calgary | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=51dbf4d5f20f2548 |
+| Service Advisor | Fraserway RV | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414199582 |
+| Social Worker | Extendicare | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414534465 |
+| Senior Policy Analyst | Government of Alberta | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414422080 |
+| Application Analyst | Shabech IT Services Incorporated | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=fe35168334733db4 |
+| Development Product Analyst | City of Calgary | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=99ac2233e32da619 |
+| Analyst, Customer Care and Billing | ATCO | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=cfacb68a67c513cb |
+| Business Analyst | Long View Systems | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=c0f38b98289aa1ff |
+| Client Support Specialist | Trustly | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=fc73b819b8b0085f |
+| business operations analyst | LOGO CARGO | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=f485ffd9bbe398b1 |
+| Application Developer | Sobeys | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414510641 |
+| Application Developer | Sobeys | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414511528 |
+| Oracle EBS Projects Functional Developer | Stantec | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414523495 |
+| IT Support Assistant | Pregnancy & Infant Loss Support Centre | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414408045 |
+| Customer Service Representative | Smurfit Westrock | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414505726 |
+| Customer Experience Specialist | Tesla | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414525634 |
+| Commercial Account Associate | HUB International | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4410664489 |
+| Marketing Specialist, Foundational Industries | KPMG Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414523370 |
+| Marketing Specialist, Foundational Industries | KPMG Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414515581 |
