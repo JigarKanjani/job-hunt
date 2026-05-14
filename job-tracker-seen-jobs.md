@@ -6907,3 +6907,54 @@
 | Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411520076 |
 | Customer Finance Support & Office Administrator | Nutreco | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414730477 |
 | Lease Compliance Administrator | PrairieSky Royalty Ltd. | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414719922 |
+| Senior Contracts Specialist | TransAlta Corporation | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=275751598b821c36 |
+| Pensions & Savings Specialist | Suncor Energy | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=e83eedee36700d25 |
+| Senior Information Security Analyst | PAYWORKS INC. | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=e5341b6ec0aa1274 |
+| CEP -Team Lead, Day Space | Distress Centre Calgary | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=5bc0286f21982b41 |
+| Stewardship & Donor Relations Specialist | Alzheimer Society of Alberta and NWT | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=47262c0cb0cb2752 |
+| Corporate Development Analyst | Cenovus Energy | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=f807eb5fa4a74163 |
+| Intermediate Property Analyst | Cenovus Energy | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=8d0b4804ec4be002 |
+| Specialist - Procurement | WestJet | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414904933 |
+| Contracts Advisor | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414904862 |
+| Logistics and Administrative Assistant | Robert Half | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414734708 |
+| Joint Venture Coordinator | PETRONAS Canada | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414922331 |
+| Commercial Contract Manager - Construction (Calgary, AB) | Burns & McDonnell | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414736783 |
+| Market Research & Data Analyst (Entry Level) | Amrize | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411524680 |
+| Asset Management Advisor - Network Planning | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414913222 |
+| Global Investment Banking Analyst, Fall 2026 Analyst (Calgar | CIBC | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414908286 |
+| Senior Digital Delivery Analyst – SAP S/4 | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414900982 |
+| Sr Digital Operations Analyst | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414917090 |
+| Senior EMS Modelling Engineer or Analyst | Alberta Electric System Operator (AESO) | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414746650 |
+| Program Manager - Aircraft Appearance | WestJet | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414911337 |
+| Construction Planner - Midstream | Suncor | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414900983 |
+| Facilities Intake Generalist - Information Technologies | University of Calgary | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=de8a310d27418f52 |
+| Market Research & Data Analyst (Entry Level) | Amrize | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=5f859b3939c91dcb |
+| Summer Job - Employment Initiatives Coordinator | The Immigrant Education Society | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=794bb9ba215dae97 |
+| Summer Job - Employment Outreach Prog. Coordinator | The Immigrant Education Society | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=d48e2326caefc615 |
+| Waste Outreach Educator | City of Edmonton | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=956f5d4c2194c2b1 |
+| Portfolio Architect Specialist | Cenovus Energy | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=4a70df279012501f |
+| Intake Advisor - Health and Wellness | Suncor | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414921037 |
+| Concierge Service Case Manager | HUB International | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4411548043 |
+| IT Service Center Analyst - Summer Student | De Havilland Aircraft of Canada Limited | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414916601 |
+| Pensions & Savings Specialist | Suncor | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414915225 |
+| Wealth Advisor | BDO Canada | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414928917 |
+| Global Markets, Equity Research, Fall 2026 Analyst (Calgary) | CIBC | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414901780 |
+| Regulatory Advisor | Strathcona Resources Ltd. | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414914164 |
+| Patient Services Specialist Casual | FYihealth group | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414758382 |
+| Patient Services Specialist Casual | FYidoctors | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4411535279 |
+| Junior System Integration Analyst | MetaFactor | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=b8ebe4932cd5779b |
+| Data Developer | Strathcona Resources Ltd. | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414913149 |
+| Process Safety Engineer | PETRONAS Canada | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414907808 |
+| IT Coordinator | MNP | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414755258 |
+| Global Transaction Banking, Cash Management Fall 2026 Analys | CIBC | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414901781 |
+| Specialist Reservoir Engineer | Suncor | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414902920 |
+| Power Apps Developer | Harris Computer | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414680639 |
+| Self Employed Personal Trainer - Edmonton Green | The Gym Group | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414753844 |
+| Cost/Project Controller | Sancon Contracting Ltd | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=b8d585a0801082ae |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414759108 |
+| Customer Experience Associate - Walden Gate, Calgary (15h/we | Scotiabank | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414758080 |
+| Site HSE Advisor | ATCO Structures | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414742978 |
+| Customer Service Representative - Milwaukee Tool | Techtronic Industries Canada Inc. | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411528459 |
+| Personal Banking Associate | BMO | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414947125 |
+| Sales Associate | Colliers | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414661906 |
+| Scheduler | Strathcona Resources Ltd. | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414918029 |
