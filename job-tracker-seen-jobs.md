@@ -6958,3 +6958,38 @@
 | Personal Banking Associate | BMO | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414947125 |
 | Sales Associate | Colliers | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414661906 |
 | Scheduler | Strathcona Resources Ltd. | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414918029 |
+| Category Manager - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=baf8c8bf08f1a647 |
+| Technical Program Manager, Software | SMART Technologies | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=ddb8bb39bed5798b |
+| Project Coordinator | Ruby Rock Asphalt Works Ltd. | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=31e6dabb10a279d6 |
+| Automotive Service Coordinator - DJs Garage, Banff | Discover Banff Tours | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=83e1cf6be50e33bc |
+| Office Coordinator | My Viva Inc | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=b3f852da68fcd001 |
+| Senior Contracts Specialist | TransAlta | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414974016 |
+| Buyer | Fresh Direct Produce Ltd. | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414775146 |
+| Business Coordinator - 12 Month Term | ATB Financial | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414961138 |
+| Category Manager - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411548326 |
+| Operations Support | Nutrien | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411548325 |
+| Sample Logistics Technician (Shipping/Receiving) | Bureau Veritas | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414772549 |
+| Applications Specialist | Nutrien | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411553083 |
+| Senior Analyst, PeopleSoft - Information Technologies | University of Calgary | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4413165014 |
+| Senior Analyst Tidal Financial Services | Enbridge | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411535514 |
+| Centre Operations Lead, Centre for Health Informatics and W2 | University of Calgary | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414932628 |
+| Material Planner | Worley | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414963196 |
+| Health and Safety Coordinator (Canada Summer Job) | The Mustard SEED Society | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=09ea4e2639041ed1 |
+| Concierge Service Case Manager | HUB International | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=cc49ec1028fa9921 |
+| Program Supervisor / Case Manager | EmployAbilities | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=5cf8f852414c67cc |
+| Field Case Manager - 12 month contract | Cencora | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=4ab2f4e7c6fd22a4 |
+| Advisor Financial Reporting | Enbridge | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4411541453 |
+| Research Website Coordinator, Faculty of Social Work | University of Calgary | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414946230 |
+| Client Services Coordinator | Avison Young | Canada | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414737985 |
+| Office Coordinator | Revive Wellness Inc. | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414753542 |
+| Group Benefits Administrator | First Canadian Financial Group | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414774094 |
+| Software Support Specialist | Explorer Software Inc. | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=78d73fd8c02a5937 |
+| IT Service Center Analyst - Summer Student | De Havilland Aircraft of Canada Ltd | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=2551345e74149ff3 |
+| Product Support Specialist - Remote Canada | Bold Commerce | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=0571f134e9062cd6 |
+| Canada Summer Jobs - Advancement/Fundraising Administrative  | River Valley School | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=a494024e433a267b |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=c69fd5a51778fff4 |
+| Customer Experience Associate | TD | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414940367 |
+| Digital Work - ACM Specialist | F12.net | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414946701 |
+| Commercial Advisor | Enbridge | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411545451 |
+| Wealth Experience Associate | ATB Financial | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414944887 |
+| Pipeline Construction Specialist | Enbridge | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411537518 |
