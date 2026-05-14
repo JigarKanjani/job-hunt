@@ -6783,3 +6783,19 @@
 | Commercial Account Associate | HUB International | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4410664489 |
 | Marketing Specialist, Foundational Industries | KPMG Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414523370 |
 | Marketing Specialist, Foundational Industries | KPMG Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414515581 |
+| Geospatial Platform Analyst | Government Of Alberta | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=7d254b15eb893079 |
+| Advisor Regulatory Affairs | Enbridge | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411105871 |
+| Leasing Specialist | Boardwalk | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414437542 |
+| Technical Business Analyst | Boardwalk | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414456475 |
+| Senior Revenue Operations Analyst | Circle Cardiovascular Imaging | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414524860 |
+| ServiceNow Senior Delivery Lead | Accenture | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414453237 |
+| Clinical Research Informatics Specialist, Clinical Neuroscie | University of Calgary | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414520955 |
+| Inventory Analyst | Johnson Controls | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411117257 |
+| Application Security Analyst | TTTECH | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414537397 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414455546 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414554198 |
+| Truck Scheduler, Refined Products | Gibson Energy | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=bc83e0e195b4ddb8 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=079d35a48a1b60f1 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=07fe8675bedaad91 |
+| Truck Scheduler, Refined Products | Gibson Energy | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414442352 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411126956 |
