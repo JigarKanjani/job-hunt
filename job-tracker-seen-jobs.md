@@ -6834,3 +6834,20 @@
 | Vans: Sales Associate - Crossiron Mills | Vans | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4366070932 |
 | Entry Level Customer Service (Work From Home) | American Income Life Insurance Company | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414603687 |
 | Rental Coordinator | Manulift | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4405621086 |
+| AI Specialist | United Way | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=561646b28392e510 |
+| Supply Chain Optimization Specialist | Federated Co-operatives Limited | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411194289 |
+| Supply Chain Student | De Havilland Aircraft of Canada Limited | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414600979 |
+| Service Desk Analyst | PeopleToGo Inc. | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414624067 |
+| Proposal Specialist - Construction | Graham | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4405443783 |
+| Summer Student Jr Career Advisor | Prospect Human Services | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=2b658cbe512ed398 |
+| Production & Projects Administrator | SEED Homes | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414484559 |
+| Colleague Experience Administrator (CEA) In-Training | Loblaw Companies Limited | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414622490 |
+| Facilities Intake Generalist - Information Technologies | University of Calgary | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414619477 |
+| WHS Specialist | Amazon | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4404910178 |
+| Beauty Specialist | Loblaw Companies Limited | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414614614 |
+| IT Applications & Integration Analyst, Digital Solutions - E | Keolis | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=436586cd0e13ed90 |
+| Sr Tech Analyst, SF (Temporary) | Nutrien | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414634051 |
+| Reporting Analyst | Akkodis | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414494300 |
+| Marketing & Administrative Assistant | :AM CLEANING YYC | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=92ea02b23774746a |
+| Health & Safety Specialist | Onterris | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=27c8ee30d23bc932 |
+| Baggage Service Associate - Calgary Airport | BEUMER Group | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4392477083 |
