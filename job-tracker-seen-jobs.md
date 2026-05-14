@@ -6851,3 +6851,59 @@
 | Marketing & Administrative Assistant | :AM CLEANING YYC | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=92ea02b23774746a |
 | Health & Safety Specialist | Onterris | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=27c8ee30d23bc932 |
 | Baggage Service Associate - Calgary Airport | BEUMER Group | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4392477083 |
+| MSC - Calgary | Operations Support Coordinator | Metro Supply Chain | 2026-05-14 | J | https://ca.indeed.com/viewjob?jk=21a2b260b3bf989b |
+| Purchasing Coordinator | IKO North America | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411196657 |
+| Senior Logistics Specialist | Agilus Work Solutions | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414723143 |
+| Natural Gas Fundamentals Analyst | Macquarie Group | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411188664 |
+| Data Analyst | Bird Construction | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414683587 |
+| Operational Excellence Analyst | InterPro Pipe + Steel | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414902299 |
+| Buyer | Trouw Nutrition | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414715619 |
+| Intermediate Property Analyst | Cenovus Energy | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414637498 |
+| Contract Conformance Specialist | NES Fircroft | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414719336 |
+| Software Data Analyst | Ameresco | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414492780 |
+| Service Coordinator | Finning | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414497668 |
+| Membership Services Officer | Alberta Union of Provincial Employees | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414709403 |
+| Compliance Specialist, Gas Control | TC Energy | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411506344 |
+| MarTech Implementation Specialist - Contract | Chatterson | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414711284 |
+| HR Coordinator | InterPro Pipe + Steel | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414699341 |
+| Supervisor Building Operations | Colliers | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414673801 |
+| Building Operations Supervisor | Enright Capital | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4413750123 |
+| Senior Analyst, Applications | Avenue Living | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4407536596 |
+| Control Room Management Specialist | TC Energy | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4411187815 |
+| Corporate Development Analyst | Cenovus Energy | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414651153 |
+| Project Controls Analyst, Turnarounds | Keyera | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414725986 |
+| Industrial Wastewater Program Lead - Power Practice | HDR | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414725566 |
+| Industrial Wastewater Program Lead - Oil, Gas and Chemicals  | HDR | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414729543 |
+| Talent Acquisition Coordinator | Bird Construction | 2026-05-14 | J | https://www.linkedin.com/jobs/view/4414671996 |
+| Recovery Navigator | Aventa Treatment Foundation for Women | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=c7b1388ed6a0fb18 |
+| Family Counsellor | Recovery Alberta | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=af6afe369e133b2e |
+| Family Counsellor | Recovery Alberta | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=ba99d59477c82f86 |
+| Recruitment & On-boarding Coordinator | Covenant House International | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=c2d89e98a20f5abd |
+| Facility Events Coordinator | PCL Construction | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=157ff37b0a891ade |
+| Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-05-14 | N | https://ca.indeed.com/viewjob?jk=770aec970b3f5de9 |
+| Flight Department Operations Coordinator | AirSprint Private Aviation | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414747058 |
+| SUN LIFE FINANCIAL ADVISOR | Sun Life | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414720519 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414727474 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414731188 |
+| Advisor Trainee- Advisor Development Program | Sun Life | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414707903 |
+| Child Youth Care Worker (CF) - Family Violence Community Out | Catholic Social Services Alberta | 2026-05-14 | N | https://www.linkedin.com/jobs/view/4414723585 |
+| Application Analyst – Intermediate - AAI 26-05576 | NavitasPartners | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=e145a869beb1c48e |
+| Application Analyst – Intermediate - AAI 26-05576 | NavitasPartners | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=f876ca8ccf18b05b |
+| Application Analyst – Intermediate - AAI 26-05576 | NavitasPartners | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=d9ea4e69ebcee21b |
+| Application Analyst – Intermediate - AAI 26-05576 | NavitasPartners | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=d66d446b2f7236f1 |
+| Application Analyst – Intermediate - AAI 26-05576 | NavitasPartners | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=eda345a7cb791890 |
+| IT Coordinator | MNP | 2026-05-14 | R | https://ca.indeed.com/viewjob?jk=06706613fe78b5d5 |
+| Business Analyst | Mastech Digital | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4411530307 |
+| Specialist - IT Product Support | Marsh | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414648296 |
+| Payroll Administrator | Commissionaires Southern Alberta | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414710764 |
+| Application Analyst - ServiceNow, ITSM | ALL JANS | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414670210 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414684700 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4414906076 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4412934581 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4412936475 |
+| (Remote) Support Specialist | Harris Computer | 2026-05-14 | R | https://www.linkedin.com/jobs/view/4412933596 |
+| Customer Experience Associate | TD | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=dac6da5300c71cd2 |
+| Personal Banking Associate | TD | 2026-05-14 | G | https://ca.indeed.com/viewjob?jk=242a48ad677a603d |
+| Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411520076 |
+| Customer Finance Support & Office Administrator | Nutreco | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414730477 |
+| Lease Compliance Administrator | PrairieSky Royalty Ltd. | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414719922 |
