@@ -6993,3 +6993,38 @@
 | Commercial Advisor | Enbridge | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411545451 |
 | Wealth Experience Associate | ATB Financial | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4414944887 |
 | Pipeline Construction Specialist | Enbridge | 2026-05-14 | G | https://www.linkedin.com/jobs/view/4411537518 |
+| E-Commerce Coordinator | Senville | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=c6ebd0edc3ae1f65 |
+| Senior Investor Relations Advisor | Canadian Natural | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=ad487f15a02abbe7 |
+| Site HSE Advisor | ATCO | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=dc4e60b19c350bc6 |
+| Specialist, Relay For Life Youth, Fundraising | Canadian Cancer Society | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=dfa35738836103b3 |
+| Credit & Fraud Specialist | NRG Energy | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4411549835 |
+| Site-Based SMP Coordinator/Specialist – (Mineral Processing) | Ausenco | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4414792086 |
+| Expert AI Advisor | Raise | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415300288 |
+| Investigations Lead, Conduct & Discipline | CPA Calgary Chapter | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4411567029 |
+| Complaints Lead, Conduct & Discipline | CPA Calgary Chapter | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4411549941 |
+| Turnaround Procurement Coordinator (Temporary) | CF Industries | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4414699073 |
+| Student Supply Chain Coordinator | Bird Construction | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4414900111 |
+| Curriculum Coordinator | The BUSY School | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=9ee3b94e262fdd7f |
+| Youth & Family Counsellor I / II - Foster Care Network | Wood's Homes | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=6de5a062fa8c9178 |
+| Youth & Family Counsellor I / II - IOH CPL | Wood's Homes | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=9dc271e3c3f3712b |
+| Recovery Transitions Navigator (CONTRACT) | Calgary Drop IN & Rehab Society Centre | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=ae2e6e31c1576137 |
+| Project Controls Analyst, Turnarounds | Keyera Corp | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=09b102db335ea18f |
+| Campus Office Administrator & Career Education Teacher | OneSchool Global | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=b913256b8110212e |
+| People & Culture Coordinator | Edmonton International Airport | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=4fa43b3a1663abbe |
+| Learning Design & Quality Assurance Coordinator | University of Alberta | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=d13975c7a22ebf07 |
+| Administrative Assistant | Mount Royal University | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4411552697 |
+| Administrative Assistant | BEST | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414994443 |
+| Member Experience Advisor - Linden (Casual) | Servus Credit Union | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4412931836 |
+| Senior Lending Advisor - Southcentre, Calgary, AB | Scotiabank | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414783616 |
+| Customer Support Specialist -(Calgary, AB) | Fullscript | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414975428 |
+| Summer Student Jr Career Advisor | Prospect Human Services Society | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414964284 |
+| Workforce Coordinator | Bird Construction | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414684540 |
+| network administrator | YMM General Contracting | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=860ca3ff6f3a1059 |
+| Curriculum and Educational Resources Specialist | Mount Royal University | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4411542856 |
+| Clinical Systems Analyst | Alignerr | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4414984485 |
+| Analyste I, Opérations | TD | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4414978743 |
+| Rust Developer - Remote | YO IT Consulting | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415001110 |
+| Guest Service Agent | Pomeroy Lodging | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4411553455 |
+| Switchboard Agent | Pomeroy Lodging | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4411545834 |
+| Sales Associate | Staples Canada | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4414984814 |
+| Patent Coordinator | Gowling WLG | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4414767756 |
