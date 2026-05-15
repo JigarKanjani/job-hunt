@@ -7124,3 +7124,47 @@
 | District Administrator | Brenntag | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=e42f080005c477c8 |
 | Test Automation Specialist | First Canadian Financial Group | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=a108d3bc3c77fb12 |
 | Financial Analyst | RECRUITMENT PARTNERS INC. | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415500754 |
+| IT Applications Analyst (Student/Co-op) | De Havilland Aircraft of Canada Ltd | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=905fbb8502cdcfe1 |
+| Operations Supervisor - Distribution | DHL | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=c9d681e0e88f1b35 |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=d50dc2aff5d6ffcb |
+| Employment Resource Centre Coordinator | Prospect Human Services | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=626469e5902e26ab |
+| Software Applications & Integration Lead | Valard Construction | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=55340a0c162b1f84 |
+| Business Analyst | Raise | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415097783 |
+| Project Procurement Manager | Hatch | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405060264 |
+| Team Lead, Sourcing and Contracting | NorthRiver Midstream Inc. | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415080980 |
+| Non- Ferrous Buyer | InterPro Pipe + Steel | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415527692 |
+| Regional Lead – Transportation | Master | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415531093 |
+| Truck Logistics Scheduler | Superior Plus Propane | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4412035211 |
+| Senior Project Planner (Power Delivery) | WSP in Canada | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405021687 |
+| Senior Project Planner (Power Delivery) | WSP in Canada | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405022734 |
+| Junction Box - Lead Hand | Modine Manufacturing Company | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415533336 |
+| Surface Land Analyst | Keyera | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415105443 |
+| Analyst, Infrastructure | Alberta Investment Management Corporatio | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415098855 |
+| Dayforce WFM Analyst - R8dius | Deloitte | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405843704 |
+| Oil Sands Royalty Analyst | Adecco | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415089927 |
+| Senior Strategy and Analytics Specialist | Clio | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415099991 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415539239 |
+| Employer Liaison | Prospect Human Services | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=28009266df719e80 |
+| Employer Liaison - 1 year Contract | Prospect Human Services | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=695138e1f1673ad4 |
+| Personal Banking Advisor - Calgary Westwinds | ATB Financial | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=867c6b0208d320ac |
+| Payroll Specialist - Part time | Acerta Energy | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=1d22523a4600bea6 |
+| Administrative Assistant/Service Coordinator (ft) | Revolution Fire Protection | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=d428f9d35379a8f1 |
+| Client Coordinator, CL | Navacord | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=a336b9167ae14e5d |
+| Client Coordinator, CL | Navacord | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=51fd7a9f964dd9c5 |
+| Yard Coordinator- Trench Edmonton | Cooper Equipment Rentals | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=8df0c33fb3a2be39 |
+| Regulatory Authorizations Advisor | Keyera | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415102622 |
+| Service Administrator | Primoris Services Corporation | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=d5ee501b58a6c3b7 |
+| Customer Success Specialist | ironsight | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=770ecd5ac6e39c6b |
+| Information Technology Support Specialist | Hays | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415533126 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415531472 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415525688 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415524719 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415537423 |
+| Leasing Agent | Emerald Management & Realty Ltd. | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=b595570266ec2595 |
+| Administrative Support 3 & 4 Talent Pool | Government Of Alberta | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=54d692d238cd045a |
+| Receptionist- Full Time- Permanent | Regional Fertility Program (RFP) | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=76659f7d20315262 |
+| Weekend Front Desk Associate | Evolve Strength Seton | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=e670f93d1b919ec7 |
+| Health Promotion Facilitator | Mosaic Primary Care Network | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=270eea7df1a7a18e |
+| Receptionist I (2026-0220) | Carewest Innovative Health Care | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415507661 |
+| Customer Service Representative (Motivator) - Calgary Trinit | GoodLife Fitness | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4412046080 |
+| Sales Associate | Rogers Communications | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405053978 |
