@@ -7028,3 +7028,24 @@
 | Switchboard Agent | Pomeroy Lodging | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4411545834 |
 | Sales Associate | Staples Canada | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4414984814 |
 | Patent Coordinator | Gowling WLG | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4414767756 |
+| Fleet Maintenance Service Advisor | XTL Transport Inc. | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=ee3a46e12a7c2bc3 |
+| Integrated Construction Technology Specialist | PCL Construction | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=0a74257d93f92b82 |
+| Annual Giving Fundraising Coordinator | Calgary Humane Society | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4414989853 |
+| Pricing Analyst | Applied Industrial Technologies - Canada | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415320551 |
+| Network Analyst | Norton Rose Fulbright | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415008043 |
+| Integrated Remote Operations Center (iROC) Mining Technical  | Worley | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415309460 |
+| Strategic Operations Consultant (Finance & Leadership) | The Inspired Enterprise | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4414799502 |
+| Lead Senior Network Consultant-Consultancy Assignmemt | 14x Solutions (Private) Limited | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4411572356 |
+| Patent Coordinator | Gowling WLG | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=d5778abffa86133a |
+| Fleet and Lease Administrator (Temporary) | Wood Automotive Group | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415323025 |
+| Child and Youth Support Worker | Columbia College | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414798403 |
+| Marketing Coordinator (Summer) - Videography Focus, Faculty  | University of Calgary | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414990857 |
+| Behavioral Aid Support Worker | Columbia College | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4414782816 |
+| Business Systems Analyst | PCL Construction | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=a447d29c37a955ea |
+| Process Technician | Canadian Natural Resources Limited (CNRL | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4414798750 |
+| Web developer | Super GeoAI Technology Inc. | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415323415 |
+| Autonomous Haulage Systems (AHS) Mining Technical Consultant | Worley | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415306553 |
+| AI Quality Analyst – Critical Reasoning & Model Evaluation | | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415022059 |
+| AI Evaluation Specialist – Analytical Review & Structured Fe | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415011219 |
+| Regional Maintenance Associate - Multi-Residential (Calgary, | Morguard | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=81ec57088e4b3e80 |
+| Over-the-Counter Associate | Walmart Canada | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4411562895 |
