@@ -7049,3 +7049,21 @@
 | AI Evaluation Specialist – Analytical Review & Structured Fe | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415011219 |
 | Regional Maintenance Associate - Multi-Residential (Calgary, | Morguard | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=81ec57088e4b3e80 |
 | Over-the-Counter Associate | Walmart Canada | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4411562895 |
+| Supply Planning Senior Analyst | Tenaris | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=347e6b234db96db4 |
+| Centre Operations Lead, Centre for Health Informatics and W2 | University of Calgary | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=257fd6604120e2dc |
+| Marketing Coordinator (Summer) - Videography Focus, Faculty  | University of Calgary | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=a5751cd66534bd56 |
+| Analyst, Pricing | Trimac | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=088abcd732951f82 |
+| Analyst, Pricing | Trimac | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=336cb4ab0be3c11b |
+| Senior Analyst, Clean Economy | Deloitte | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415320964 |
+| COORDINATOR, OPERATIONS SUPPORT (ADVISORY SERVICES) - Calgar | BDC | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415019475 |
+| COORDINATEUR, SOUTIENX AUX OPERATIONS (SERVICES DE CONSEILS) | BDC | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415331315 |
+| Lead Cost Specialist - Project Controls | Fluor Corporation | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4402658308 |
+| GHG Specialist | Dillon Consulting Limited | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405891676 |
+| ADMS Lead Engineer | TRC Companies, Inc. | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4396673568 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415024102 |
+| Research Website Coordinator, Faculty of Social Work | University of Calgary | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=dff8be5e3a9c4a5d |
+| Quality Review Specialist | Remote | Crossing Hurdles | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415026049 |
+| ServiceNow Developer | RSM Canada | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415010273 |
+| Research / Evaluation Analyst | Remote | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415015208 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415339438 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415024459 |
