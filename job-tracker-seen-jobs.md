@@ -7115,3 +7115,12 @@
 | Adoption & Change Management Specialist | F12.net | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415382975 |
 | HSE Specialist - Temporary | NOV | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4401670982 |
 | Associate Lawyer – Commercial & Residential Real Estate | W3Global | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415093304 |
+| Intermediate/Senior Materials/Geotechnical Technologist (2+  | Terracon Geotechnique Ltd | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=5ce6f22535c246fc |
+| Product Management specialist | Brenntag | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=3294af380a96331b |
+| Senior Financial Analyst | Gowling WLG | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4378480381 |
+| Legal Administrative Assistant - Trademark | Gowling WLG | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415098615 |
+| HR & Systems Coordinator | MasterBUILT Hotels | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415097568 |
+| Business Analyst, Technology Transformation | Rohit Group | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=9b26e3f082b1b08f |
+| District Administrator | Brenntag | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=e42f080005c477c8 |
+| Test Automation Specialist | First Canadian Financial Group | 2026-05-15 | R | https://ca.indeed.com/viewjob?jk=a108d3bc3c77fb12 |
+| Financial Analyst | RECRUITMENT PARTNERS INC. | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415500754 |
