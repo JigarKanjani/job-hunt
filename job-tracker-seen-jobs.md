@@ -7091,3 +7091,27 @@
 | Front Desk Associate - Calgary Talent Pool | Myo | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405042135 |
 | Associate | RBC Dominion Securities | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405831609 |
 | Natural Gas Scheduler | Macquarie Group | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4403241282 |
+| Operations Coordinator | Bremic Carriers Inc. | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=9cc2a749a8a8a85a |
+| Crew Lead Painter | Tough Painting | 2026-05-15 | J | https://ca.indeed.com/viewjob?jk=bfc2bf8cc5ba13b5 |
+| Leave Advisor | Kiewit | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405052563 |
+| Crown Royalty Analyst | IFG - International Financial Group | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415079622 |
+| IT Applications Analyst (Student/Co-op) | De Havilland Aircraft of Canada Limited | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415387177 |
+| Senior Analyst | Superior Gas Liquids | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4412014532 |
+| Summer Student- Building Operations | CBRE | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415378754 |
+| Data Center Technician III, Data Centre Operations | Amazon Web Services (AWS) | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4384337427 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415398466 |
+| Tailings Technology Lead | WSP in Canada | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405061911 |
+| Showroom & Admin Coordinator | The Carpet Studio Inc | 2026-05-15 | N | https://ca.indeed.com/viewjob?jk=3e2c5afef9dc3a9d |
+| Community and Employer Engagement Specialist | WCG Services | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4405876950 |
+| Contract Administrator | Aecon Group Inc. | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4382837312 |
+| Advisor Accounting | Enbridge | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4412006847 |
+| Wealth Advisor | Connor, Clark & Lunn Private Capital Ltd | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4406611553 |
+| Payroll & HR Specialist | Robert Half | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415076934 |
+| Developer | Insight Global | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415082208 |
+| Security Systems Technician | Convergint | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4374152162 |
+| Account Administrator | Axis Insurance | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4390271130 |
+| HR & Payroll Administrator | Robert Half | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415078605 |
+| Purchasing Specialist | Orpyx® | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415100177 |
+| Adoption & Change Management Specialist | F12.net | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415382975 |
+| HSE Specialist - Temporary | NOV | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4401670982 |
+| Associate Lawyer – Commercial & Residential Real Estate | W3Global | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415093304 |
