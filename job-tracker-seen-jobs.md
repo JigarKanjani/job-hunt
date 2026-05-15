@@ -7067,3 +7067,27 @@
 | Research / Evaluation Analyst | Remote | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415015208 |
 | Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415339438 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415024459 |
+| Procurement Manager | DSJ Global | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4412002472 |
+| Senior Cost Analyst | Worley | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415343788 |
+| Corporate Tax Analyst | Gibson Energy | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4393055777 |
+| AltaGas - Senior Compensation Analyst | AltaGas Ltd. | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4392569947 |
+| Senior Crown Royalty Analyst | Brunel | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415056923 |
+| Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415353621 |
+| Spatial Data Specialist (Contract) | BGIS | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4405010611 |
+| Transportation Engineers/Designers | ISL | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4406106288 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-15 | J | https://www.linkedin.com/jobs/view/4415365548 |
+| WHS Specialist, YYC6 WHS Team | Amazon | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4405889823 |
+| Hearing Instrument Specialist | Beltone | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4379335371 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415351354 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-15 | N | https://www.linkedin.com/jobs/view/4415373093 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415375012 |
+| AI Evaluation Specialist | Remote | Crossing Hurdles | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415027732 |
+| Online Data Analyst - French Speakers | TELUS Digital AI Data Solutions | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415354647 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415356976 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415378204 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415363895 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-15 | R | https://www.linkedin.com/jobs/view/4415354503 |
+| Casual Receptionist | CHMT | 2026-05-15 | G | https://ca.indeed.com/viewjob?jk=ae16555b7a433826 |
+| Front Desk Associate - Calgary Talent Pool | Myo | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405042135 |
+| Associate | RBC Dominion Securities | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405831609 |
+| Natural Gas Scheduler | Macquarie Group | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4403241282 |
