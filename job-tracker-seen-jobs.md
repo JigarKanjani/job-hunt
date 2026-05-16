@@ -7275,3 +7275,6 @@
 | IT Field Specialist | Neighbourly Pharmacy | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4344962299 |
 | Managing Consultant SAP Finance Project Systems | IBM | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4372615875 |
 | GO Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415189903 |
+| Senior Master Production Planner | Cargill | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412098321 |
+| Style Advisor PT | Genuine Design | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=26dae4c2fb8eea87 |
+| GO Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415189903 |
