@@ -7278,3 +7278,9 @@
 | Senior Master Production Planner | Cargill | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412098321 |
 | Style Advisor PT | Genuine Design | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=26dae4c2fb8eea87 |
 | GO Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415189903 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415879830 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415885733 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415888719 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415886684 |
+| Personal Banking Associate Trainee | TD | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4335947110 |
+| Sales Associate-Print&Services #110 | Staples Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4416005014 |
