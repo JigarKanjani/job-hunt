@@ -7224,3 +7224,25 @@
 | Fixed Ops Automotive Software Trainer | PBS Systems | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4412081226 |
 | Receptionist- Full Time- Permanent | Aspire Fertility Austin | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415172171 |
 | Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4412082029 |
+| Proposal Coordinator - Buildings | Graham | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415849847 |
+| Service Coordinator | Prevost | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4406673798 |
+| Senior Consultant, Enterprise Assortment Planning | Canadian Tire Corporation | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4396013505 |
+| Beauty Advisor- Sally Beauty- 05606 | Sally Beauty | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4062751537 |
+| Enterprise Account Executive | Benevity | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4406666252 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=20f1f6cf339ac0fc |
+| Specialist, Field IT Support | Johnson Controls | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=bf07b524fdb73b40 |
+| IT Systems Administrator | The Brick | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=3baea2b95b539e6a |
+| IT Systems Administrator | LFL Group | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=12bc5684e5bb9b98 |
+| Intermediate Process Engineer | WSP in Canada | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415178180 |
+| CyberDet & Underground EIS Specialist | Dyno Nobel | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4397509081 |
+| Data Quality Analyst (Japanese) | $11/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415173403 |
+| Financial Data Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415178289 |
+| Healthcare Data Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415861292 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415852150 |
+| C# Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415181438 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415849253 |
+| Legal Counsel, Office of the General Counsel | ALBERTA SECURITIES COMMISSION | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=f83d519cb7e66503 |
+| Financial Controller - Canada | Garmin | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=f391bdbeafd9fcf1 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415180211 |
+| Customer Service Representative | WD WIAN Test Company Page | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415858305 |
+| Sales Associate - CosmoProf Store # 07439 | CosmoProf Beauty | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4062568324 |
