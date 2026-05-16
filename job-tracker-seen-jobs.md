@@ -7215,3 +7215,12 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4412050369 |
 | Employment Resource Centre Coordinator | Prospect Human Services Society | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415577301 |
 | Associate, Audit | PKF ANTARES | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415134463 |
+| Portfolio Resource Coordinator - Calgary Healthcare | Paladin Security | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=8c801d2caedb2db9 |
+| Field Supervisor - Existing Installations (Service Leader) | Schindler Group | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412080207 |
+| Full/Part-time Administrative & Client Services Coordinator  | Tonic Kitchen + Bar | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=9b0aa6d629151c69 |
+| Customized Employment Specialist | Open Door Group | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=ae70496310a793cd |
+| Business Development Administrator | Lifemark Health Group | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=f3f13c7ad4b8e27d |
+| Data Analyst | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=542f036122c0dfb7 |
+| Fixed Ops Automotive Software Trainer | PBS Systems | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4412081226 |
+| Receptionist- Full Time- Permanent | Aspire Fertility Austin | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415172171 |
+| Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4412082029 |
