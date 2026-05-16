@@ -7168,3 +7168,50 @@
 | Receptionist I (2026-0220) | Carewest Innovative Health Care | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4415507661 |
 | Customer Service Representative (Motivator) - Calgary Trinit | GoodLife Fitness | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4412046080 |
 | Sales Associate | Rogers Communications | 2026-05-15 | G | https://www.linkedin.com/jobs/view/4405053978 |
+| Specialist Software Cloud Developer | CPKC | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=18385bd071243437 |
+| Sales & Vehicle Acquisition Specialist | Kaizen Automotive Group | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=bb75fad36dee4711 |
+| Community Coordinator - Warranty (12-Month Contract) | Mattamy Homes | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=ab6bd0d1b5c6877d |
+| Customer Care Coordinator | Mattamy Homes | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=540ddfa20beb1566 |
+| Analyst Engineering Operations | CPKC | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=163bae6a6dc0d75b |
+| Supply Chain Manager | MSCP Heat Management Solutions | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=ea5174a9e1685d2a |
+| Enforcement Services Operations Supervisor | Strathcona County | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=a085a4d7ded39ceb |
+| Fleet Analyst | Strathcona County | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=da651e3d3e37b06b |
+| Festival Coordinator | Banff Centre for Arts and Creativity | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=fcd2a9a5b1f7db23 |
+| Business Analyst - LMS | Agilus Work Solutions | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415128424 |
+| (CAN) People Lead | Walmart Canada | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412053189 |
+| Logistics Field Support Supervisor | Amrize | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412050595 |
+| Logistics Field Support Supervisor | Amrize | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4412052401 |
+| Marketing Operations Specialist (6-Month Contract) | Fasken | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415152199 |
+| HSE Coordinator | Hutton Safety Group | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415121904 |
+| Analyst Engineering Operations | CPKC | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415805431 |
+| Intermediate Application Analyst | WestJet | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415804331 |
+| Specialist Software Cloud Developer | CPKC | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415810316 |
+| Advisor Pension Plan Management | CPKC | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4405170662 |
+| Service Administrator | Kaizen Automotive Group | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=df779ce5e7f6b004 |
+| New Home Sales Administrator | Mattamy Homes | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=fb408150dbd14b92 |
+| Program Coordinator (CF) - Employment Training Programs | Catholic Social Services | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=948d166222c2d492 |
+| Program Coordinator | University of Alberta | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=0fee4c9ee252810c |
+| Coordinator, Student Support Services | Athabasca University | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=4938314fcaea99f3 |
+| Client Coordinator, Venture | Navacord | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=ec37984017ab5e89 |
+| Festival Coordinator | Banff Centre for Arts and Creativity | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=4a6a59f8b7d3d9be |
+| Academic Specialist | NorQuest College | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=240512e1b3276417 |
+| Sales Coordinator Intern | Dougall Media | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=abdc60a0189566b7 |
+| Marketing & Administrative Assistant | :AM CLEANING YYC | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415159232 |
+| Employer Liaison | Prospect Human Services Society | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415577302 |
+| Employer Liaison - 1 year Contract | Prospect Human Services Society | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415578323 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415139774 |
+| MS Dynamics 365 System Administrator / BI Analyst | Central Alberta Immigrant Women's Associ | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=16b63156e63ddf62 |
+| Automation Advisor | Suncor Energy | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=ca0c13407ad0b3ef |
+| Specialist I TIS AI and Data Analytics | Enbridge | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=9dac933224ea5feb |
+| Front-End Developer II - ShareGate Migrate [Web Experience] | Workleap | 2026-05-16 | R | https://ca.indeed.com/viewjob?jk=f2b44c5bf772c10c |
+| Infrastructure Specialist | Taleo Project Services Inc | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415138343 |
+| Service Coordinator | Prospect Human Services Society | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415567929 |
+| Korean Data Trainer - Remote | YO IT Consulting | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415160171 |
+| Client Care Specialist - Centre Street Veterinary Clinic | VetCare Canada | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=432d18c37e4880c9 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=a6db40e445a4ae9a |
+| Associate, Office Administration, Summer Student | Acera Insurance Services Ltd. | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=0dfaf3c412144497 |
+| Contracting Administrator | iA Financial Group (Industrial Alliance) | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415590858 |
+| Sales Associate-Print&Services Shawnessy | Staples Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415812332 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4412050369 |
+| Employment Resource Centre Coordinator | Prospect Human Services Society | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415577301 |
+| Associate, Audit | PKF ANTARES | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415134463 |
