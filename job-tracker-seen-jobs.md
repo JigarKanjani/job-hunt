@@ -7246,3 +7246,15 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415180211 |
 | Customer Service Representative | WD WIAN Test Company Page | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415858305 |
 | Sales Associate - CosmoProf Store # 07439 | CosmoProf Beauty | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4062568324 |
+| Underwriting Specialist, Eastern Region | Zurich Canada | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4344087162 |
+| Insurance Advisor | Westland Insurance Group Ltd. | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4404130397 |
+| Senior Financial Analyst | Raytheon | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4406838584 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415872009 |
+| Coordinator, Recruitment | Regional Municipality of Wood Buffalo | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=993aa637bb573ff2 |
+| Facility Booking Coordinator | Regional Municipality of Wood Buffalo | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=d3cffe2ee63b590b |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415857652 |
+| Senior Design & Research Operations Specialist | Clio | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4343874999 |
+| Facility Booking Coordinator | Regional Municipality of Wood Buffalo | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4415859609 |
+| Administrative Assistant | Covenant Health Canada | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4411588691 |
+| C# Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415181438 |
+| Territory Sales Associate - Lethbridge, Canada (1‑year contr | The Hershey Company | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4366512766 |
