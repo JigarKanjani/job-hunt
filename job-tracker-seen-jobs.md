@@ -7270,3 +7270,8 @@
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415870092 |
 | Research Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415868122 |
 | Full Time Sales Associate | Pet Valu | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4330589575 |
+| Integration Integrated Product Team Lead | Raytheon | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4397310268 |
+| Senior Managing Consultant SAP Supply Chain (IM-LE) | IBM | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4372621676 |
+| IT Field Specialist | Neighbourly Pharmacy | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4344962299 |
+| Managing Consultant SAP Finance Project Systems | IBM | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4372615875 |
+| GO Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415189903 |
