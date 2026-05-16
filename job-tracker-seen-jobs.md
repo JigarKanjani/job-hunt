@@ -7284,3 +7284,6 @@
 | Research Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415886684 |
 | Personal Banking Associate Trainee | TD | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4335947110 |
 | Sales Associate-Print&Services #110 | Staples Canada | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4416005014 |
+| Program Coordinator / APP Instructor | ILAC Education Group | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=b8462a9782378ce3 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=e7b5c8c30c24bdb0 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415411243 |
