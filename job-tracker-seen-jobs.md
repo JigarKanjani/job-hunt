@@ -7258,3 +7258,15 @@
 | Administrative Assistant | Covenant Health Canada | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4411588691 |
 | C# Developer | $65/hr Remote | Crossing Hurdles | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415181438 |
 | Territory Sales Associate - Lethbridge, Canada (1‑year contr | The Hershey Company | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4366512766 |
+| Senior Master Production Planner | Cargill | 2026-05-16 | J | https://ca.indeed.com/viewjob?jk=7d38534921282a68 |
+| Infrastructure Integrated Product Team Lead | Raytheon | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4397303574 |
+| Marketing Specialist (12 month contract) | KPMG Canada | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415886110 |
+| Leadhand Trouble Response (PLT) (Nights) | ENMAX | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415196271 |
+| Sales Enablement & Key Accounts Specialist | KPMG Canada | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4415869172 |
+| e-Commerce Specialist | Siemens | 2026-05-16 | J | https://www.linkedin.com/jobs/view/4396067417 |
+| Commercial Insurance Advisor | Westland Insurance Group Ltd. | 2026-05-16 | N | https://www.linkedin.com/jobs/view/4404127521 |
+| Tax Staff- Global Compliance and Reporting-Toronto 1 | EY | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4373674082 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415868120 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415870092 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-16 | R | https://www.linkedin.com/jobs/view/4415868122 |
+| Full Time Sales Associate | Pet Valu | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4330589575 |
