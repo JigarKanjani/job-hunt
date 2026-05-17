@@ -7287,3 +7287,9 @@
 | Program Coordinator / APP Instructor | ILAC Education Group | 2026-05-16 | N | https://ca.indeed.com/viewjob?jk=b8462a9782378ce3 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-16 | G | https://ca.indeed.com/viewjob?jk=e7b5c8c30c24bdb0 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-16 | G | https://www.linkedin.com/jobs/view/4415411243 |
+| Proposal Coordinator | MacDonald Search Group | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415406804 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4416001346 |
+| Housekeeping Office Coordinator | Fairmont Hotels & Resorts | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415419682 |
+| Customer Service Instant Return Representative | Hertz | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415415726 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4412214150 |
+| Sales Support Associate III | Coach | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4412215128 |
