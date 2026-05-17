@@ -7299,3 +7299,7 @@
 | Patient Care Coordinator | Noir Medical Aesthetics Corporation | 2026-05-17 | N | https://ca.indeed.com/viewjob?jk=302736220d000731 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415467011 |
 | Sales Associate | Torrid | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4397398381 |
+| Team Lead - Home & Gift | Bass Pro Shops | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4375410800 |
+| Coordinator Baby/Petit Club Club Med Resorts Canada or overs | Club Med | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4167481958 |
+| Wine Sales Specialist Club Med Resorts Canada or overseas | Club Med | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4167489193 |
+| Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4405754537 |
