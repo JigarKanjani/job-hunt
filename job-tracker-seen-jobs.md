@@ -7308,3 +7308,6 @@
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416015781 |
 | Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4405754537 |
 | Research Analyst (Remote) | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416036507 |
+| Business Development Advisor | Fort Sands Construction Ltd | 2026-05-17 | J | https://ca.indeed.com/viewjob?jk=aa83590dcd9784bb |
+| Information Technology Help Desk Support | CloudOrbis Inc. | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4415466344 |
+| Sales Associate-Print&Services | Staples Canada | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4406888922 |
