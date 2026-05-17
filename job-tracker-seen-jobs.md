@@ -7311,3 +7311,6 @@
 | Business Development Advisor | Fort Sands Construction Ltd | 2026-05-17 | J | https://ca.indeed.com/viewjob?jk=aa83590dcd9784bb |
 | Information Technology Help Desk Support | CloudOrbis Inc. | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4415466344 |
 | Sales Associate-Print&Services | Staples Canada | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4406888922 |
+| Admin Team Lead | Siksika Family Services Corporation | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415467430 |
+| Intakes and Investigations Team Lead | Siksika Family Services Corporation | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415460500 |
+| Intake Worker – SCEIS | Siksika Family Services Corporation | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415446848 |
