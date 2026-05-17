@@ -7293,3 +7293,6 @@
 | Customer Service Instant Return Representative | Hertz | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415415726 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4412214150 |
 | Sales Support Associate III | Coach | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4412215128 |
+| Office Operations & Accounting Coordinator | Intelica Solutions Inc. | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4416013585 |
+| Business Intelligence Analyst I – Environment, Health & Safe | Finning | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415430072 |
+| Business Intelligence Analyst I – Environment, Health & Safe | Finning | 2026-05-17 | R | https://ca.indeed.com/viewjob?jk=a337e16bbd86530d |
