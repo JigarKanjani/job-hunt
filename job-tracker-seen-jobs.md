@@ -7303,3 +7303,8 @@
 | Coordinator Baby/Petit Club Club Med Resorts Canada or overs | Club Med | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4167481958 |
 | Wine Sales Specialist Club Med Resorts Canada or overseas | Club Med | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4167489193 |
 | Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4405754537 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4416014823 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416017697 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416015781 |
+| Unreal Engine Developer - DirectX / OpenGL / Vulkan | $60/hr | Crossing Hurdles | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4405754537 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416036507 |
