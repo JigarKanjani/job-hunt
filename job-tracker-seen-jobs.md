@@ -7296,3 +7296,6 @@
 | Office Operations & Accounting Coordinator | Intelica Solutions Inc. | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4416013585 |
 | Business Intelligence Analyst I – Environment, Health & Safe | Finning | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415430072 |
 | Business Intelligence Analyst I – Environment, Health & Safe | Finning | 2026-05-17 | R | https://ca.indeed.com/viewjob?jk=a337e16bbd86530d |
+| Patient Care Coordinator | Noir Medical Aesthetics Corporation | 2026-05-17 | N | https://ca.indeed.com/viewjob?jk=302736220d000731 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415467011 |
+| Sales Associate | Torrid | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4397398381 |
