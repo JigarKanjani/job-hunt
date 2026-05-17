@@ -7316,3 +7316,8 @@
 | Intake Worker – SCEIS | Siksika Family Services Corporation | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415446848 |
 | Youth Coordinator – SETS | Siksika Family Services Corporation | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415446847 |
 | Sr. Environmental Construction Specialist | Jacobs | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4367405001 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4416047393 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416060192 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416061232 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416057378 |
+| Receptionist/Administrative Assistant | Calgary Integrative Medicine | 2026-05-17 | G | https://ca.indeed.com/viewjob?jk=3cf316388eec9137 |
