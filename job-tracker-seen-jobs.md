@@ -7314,3 +7314,5 @@
 | Admin Team Lead | Siksika Family Services Corporation | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415467430 |
 | Intakes and Investigations Team Lead | Siksika Family Services Corporation | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415460500 |
 | Intake Worker – SCEIS | Siksika Family Services Corporation | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415446848 |
+| Youth Coordinator – SETS | Siksika Family Services Corporation | 2026-05-17 | N | https://www.linkedin.com/jobs/view/4415446847 |
+| Sr. Environmental Construction Specialist | Jacobs | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4367405001 |
