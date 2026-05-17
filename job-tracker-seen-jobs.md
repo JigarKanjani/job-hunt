@@ -7321,3 +7321,8 @@
 | Research Analyst (Remote) | Hire Feed | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416061232 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416057378 |
 | Receptionist/Administrative Assistant | Calgary Integrative Medicine | 2026-05-17 | G | https://ca.indeed.com/viewjob?jk=3cf316388eec9137 |
+| Operations Supervisor - Calgary | Porte Communities | 2026-05-17 | J | https://ca.indeed.com/viewjob?jk=7d5083ce27400bb6 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-05-17 | J | https://www.linkedin.com/jobs/view/4415468854 |
+| Microsoft 365 Business Analyst / Functional Consultant | iomer internet solutions inc. | 2026-05-17 | R | https://ca.indeed.com/viewjob?jk=b06ac1513fb226e8 |
+| Associate Technical Support Analyst - Remote | Optum | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416058609 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415449763 |
