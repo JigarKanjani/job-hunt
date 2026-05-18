@@ -7346,3 +7346,13 @@
 | Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416248002 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416218666 |
 | Research Analyst (Remote) | Hire Feed | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416230552 |
+| Deals Desk Analyst, Oil | Trafigura | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=00546edf07a70f0d |
+| Business Analyst | Tekgence Inc | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4415685361 |
+| Global Banking & Markets Operations - Gas & Power Logistics  | Goldman Sachs | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4415685775 |
+| Deals Desk Analyst, Oil | Trafigura | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4412808824 |
+| Client Care Coordinator (Beddington/Rockyview) | Amplifon | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4416255812 |
+| Client Support Coordinator | Flexible Remote Opportunity | Create Your Life | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4416248875 |
+| Backend Java Developer | Galent | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416277076 |
+| Market Research Analyst | Compeer Financial | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4415572014 |
+| Construction Labourer — Interior Office Build | Norberg Properties | 2026-05-18 | G | https://ca.indeed.com/viewjob?jk=7c77f22d287a5c72 |
+| Asset Protection Associate - Must have Albert Security Licen | Walmart Canada | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4412805913 |
