@@ -7328,3 +7328,11 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415449763 |
 | Administrative Assistant – Lift Operations and Maintenance | Sunshine Village Ski & Snowboard Resort | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=b66dfcf3a94fbc5b |
 | Administrative Assistant – Lift Operations and Maintenance | Sunshine Village Ski & Snowboard Resort | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=2bc0a83606dbb743 |
+| Contract & Procurement Specialist | Stantec | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=f343ceed75d0a2a0 |
+| Contract & Procurement Specialist | Stantec | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4416099220 |
+| Business Growth Advisor | Remote | Unlock Your True Greatness | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4412250783 |
+| data quality analyst | Maple Projects | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=ff6bee800e0871cc |
+| Surface Mining Automation Engineer | Worley | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416062694 |
+| Underground Mining Automation Engineer | Worley | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416083451 |
+| Clinic Receptionist | Chaparral Physiotherapy & Massage | 2026-05-18 | G | https://ca.indeed.com/viewjob?jk=a7bed443a814f895 |
+| (CAN) Electronics Associate | Walmart Canada | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4412259183 |
