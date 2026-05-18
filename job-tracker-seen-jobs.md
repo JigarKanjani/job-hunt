@@ -7368,3 +7368,7 @@
 | ERP Application Analyst | ALTA GENETICS | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=322cb4bb975ee104 |
 | Database Administrator | CloudVital | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4415708358 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416296198 |
+| Team Leader, CF Chinook Centre | Saje Natural Wellness | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=5729285ce12ebe07 |
+| Senior Marketing Specialist (remote work) | Quantum Leap Mindset | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4412821514 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4415720145 |
+| Global Intelligence Information Specialist, AVP | Morgan Stanley | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4404485482 |
