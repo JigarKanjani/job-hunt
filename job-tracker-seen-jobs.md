@@ -7326,3 +7326,5 @@
 | Microsoft 365 Business Analyst / Functional Consultant | iomer internet solutions inc. | 2026-05-17 | R | https://ca.indeed.com/viewjob?jk=b06ac1513fb226e8 |
 | Associate Technical Support Analyst - Remote | Optum | 2026-05-17 | R | https://www.linkedin.com/jobs/view/4416058609 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-17 | G | https://www.linkedin.com/jobs/view/4415449763 |
+| Administrative Assistant – Lift Operations and Maintenance | Sunshine Village Ski & Snowboard Resort | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=b66dfcf3a94fbc5b |
+| Administrative Assistant – Lift Operations and Maintenance | Sunshine Village Ski & Snowboard Resort | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=2bc0a83606dbb743 |
