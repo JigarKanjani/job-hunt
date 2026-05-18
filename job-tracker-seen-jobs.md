@@ -7356,3 +7356,15 @@
 | Market Research Analyst | Compeer Financial | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4415572014 |
 | Construction Labourer — Interior Office Build | Norberg Properties | 2026-05-18 | G | https://ca.indeed.com/viewjob?jk=7c77f22d287a5c72 |
 | Asset Protection Associate - Must have Albert Security Licen | Walmart Canada | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4412805913 |
+| Senior Engineer (Project Electrical Lead) | Kent | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4415706250 |
+| Client Care Coordinator (Beddington/Rockyview) | Amplifon Canada | 2026-05-18 | N | https://ca.indeed.com/viewjob?jk=57047fb11631b45e |
+| Quotation & Spreadsheet Coordinator (Sales Support Administr | Fenrich Financial | 2026-05-18 | N | https://ca.indeed.com/viewjob?jk=d76aa1ae5475c2b1 |
+| Operations Specialist - NCI | BrokerLink | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4407453475 |
+| Data Analyst - DA 26-05709 | NavitasPartners | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=c256fcd03f254581 |
+| Data Analyst - DA 26-05709 | NavitasPartners | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=9693246e357d3b8e |
+| Data Analyst - DA 26-05709 | NavitasPartners | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=da09da5942cd2347 |
+| Data Analyst - DA 26-05709 | NavitasPartners | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=90b94eb281da9c7d |
+| Data Analyst - DA 26-05709 | NavitasPartners | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=b007911b7f01dac3 |
+| ERP Application Analyst | ALTA GENETICS | 2026-05-18 | R | https://ca.indeed.com/viewjob?jk=322cb4bb975ee104 |
+| Database Administrator | CloudVital | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4415708358 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416296198 |
