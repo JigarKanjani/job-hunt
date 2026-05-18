@@ -7336,3 +7336,13 @@
 | Underground Mining Automation Engineer | Worley | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416083451 |
 | Clinic Receptionist | Chaparral Physiotherapy & Massage | 2026-05-18 | G | https://ca.indeed.com/viewjob?jk=a7bed443a814f895 |
 | (CAN) Electronics Associate | Walmart Canada | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4412259183 |
+| Payroll Specialist (Temp) | Surerus Murphy Joint Venture | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4416234567 |
+| Senior Analyst, Treasury | Neo Financial | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4334570448 |
+| SAP IS-U Lead / Solution Architect | InfoSpeed Services, Inc. | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4415663882 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4416227936 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4416218342 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4416228994 |
+| Quality Assurance Mobile Automation Engineer | Genpact | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4354190969 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416248002 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416218666 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416230552 |
