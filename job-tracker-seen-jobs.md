@@ -7372,3 +7372,10 @@
 | Senior Marketing Specialist (remote work) | Quantum Leap Mindset | 2026-05-18 | N | https://www.linkedin.com/jobs/view/4412821514 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4415720145 |
 | Global Intelligence Information Specialist, AVP | Morgan Stanley | 2026-05-18 | G | https://www.linkedin.com/jobs/view/4404485482 |
+| Lead Cloud Engineer | S&P Global | 2026-05-18 | J | https://ca.indeed.com/viewjob?jk=027f0a672e58bdd9 |
+| Business Analyst | Tekgence Inc | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4415733207 |
+| Service Leader | Chipotle Mexican Grill | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4416427366 |
+| ERP Application Analyst | Alta Genetics | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4412830887 |
+| Site Safety Officer (NCSO) | Framerz Inc. | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4412836754 |
+| Project Coordinator | Jayson Global | 2026-05-18 | N | https://ca.indeed.com/viewjob?jk=6d5f5c6c2b958053 |
+| Data Analyst | Teckhorizon Inc | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416416778 |
