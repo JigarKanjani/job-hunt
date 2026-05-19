@@ -7379,3 +7379,12 @@
 | Site Safety Officer (NCSO) | Framerz Inc. | 2026-05-18 | J | https://www.linkedin.com/jobs/view/4412836754 |
 | Project Coordinator | Jayson Global | 2026-05-18 | N | https://ca.indeed.com/viewjob?jk=6d5f5c6c2b958053 |
 | Data Analyst | Teckhorizon Inc | 2026-05-18 | R | https://www.linkedin.com/jobs/view/4416416778 |
+| Program Manager, Product Security (Remote, CAN) | CrowdStrike | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4412861084 |
+| Program Manager, Product Security (Remote, CAN) | CrowdStrike | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4412846209 |
+| Program Manager, Product Security (Remote, CAN) | CrowdStrike | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4412852160 |
+| Case Manager | McMan | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=02f84591259ef218 |
+| Program Manager, Product Security (Remote, CAN) | CrowdStrike | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4412842965 |
+| Program Manager, Product Security (Remote, CAN) | CrowdStrike | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4412849164 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416467250 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=a8979a7e3ee6a71c |
+| 70240 Associate Winners Deerfoot City Calgary | TJX Canada – Winners, Marshalls, HomeSen | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416441758 |
