@@ -7388,3 +7388,9 @@
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416467250 |
 | (CAN) General Merchandise Associate | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=a8979a7e3ee6a71c |
 | 70240 Associate Winners Deerfoot City Calgary | TJX Canada – Winners, Marshalls, HomeSen | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416441758 |
+| office administrator / receptionist | HWN energy | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=c330f3419ef42706 |
+| RQ00118 - Programmer/Analyst - Level 2 | Source Code | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=57319b292e1c6d20 |
+| Int IT Technical Business Analyst - GOAPRDJP00000740 | Source Code | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=6c9dfdf5b8ba6165 |
+| Int. Business Intelligence Analyst - GOAPRDJP00000703 | Source Code | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=5b4ac9379517303d |
+| Financial Analyst - Fully Remote | Mercor | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416492123 |
+| Marketing Specialist - Fully Remote | Mercor | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416491180 |
