@@ -7443,3 +7443,49 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=470cf2112992eff4 |
 | OMNI Customer Fulfillment Associate (4am shifts) | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=dd4f905e41a321e4 |
 | Fund Development Associate - Calgary | SET Advisors Inc. | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415939255 |
+| Payroll/Human Resources Coordinator | The Immigrant Education Society | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=52ec2b2558618aef |
+| Administrative Assistant & Personal Coordinator | Palmer Swystun & Associates | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=1ed836cd026553f4 |
+| Crown Royalty Analyst | Cenovus Energy | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=193c7d606d749082 |
+| Emergency Management Advisor | Southern Alberta Institute of Technology | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=3175a714ff2e9fc7 |
+| Transaction Analyst | JLL | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=c888b5655799a109 |
+| Fleet and Asset Coordinator | Scandinavian Building Services | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=1d73672390722ebd |
+| Central Stores Coordinator | Hays | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416950218 |
+| supply chain supervisor | Soleterra d'Italia | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416943380 |
+| Aircraft Materials Coordinator - Calgary | WestJet | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416939795 |
+| Pricing Analyst | Trimac Transportation | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415951169 |
+| Senior Digital Delivery Analyst – SAP S/4 | Suncor | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416933768 |
+| Marketing & Commercial Data Analyst | Vermilion Energy | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416947015 |
+| Asset Management Advisor - Network Planning | Suncor | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416940711 |
+| Business Systems Analyst (Oil & Gas) | Airswift | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4413355591 |
+| Product Content Specialist [209706] | Aquent | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4406514499 |
+| Business Advisor - University District, Calgary, AB | Scotiabank | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415958565 |
+| Compensation Specialist | Servus Credit Union | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415952096 |
+| Operations Coordinator | InFocus Film School | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415951053 |
+| Training Standards and Competency Coordinator | De Havilland Aircraft of Canada Limited | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416950225 |
+| Quality Assurance Practice Lead | PwC Canada | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4408001115 |
+| Associate, Treasury Management Officer, GTB - Calgary | Scotiabank | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415947919 |
+| Transportation Manager | ATL Heavy Haul Inc | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415950167 |
+| Senior Proposals Administrator | Bird Construction | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=f6dd230be662393a |
+| Waste Outreach Coordinator | City of Edmonton | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=c04d789da5cee64b |
+| Equipment Coordinator | FLINT Corp. | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=75f6eeb0f15c8b02 |
+| Contract Administrator | Turner & Townsend | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415955575 |
+| Event Administrator | Contemporary Career Consultants | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415949296 |
+| Intake Advisor - Health and Wellness | Suncor | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416931853 |
+| CASE MANAGER | McMan Youth, Family and Community Servic | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415953194 |
+| Change Communication Specialist | Addmore Group | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416933193 |
+| Teacher - Trinity Christian School - Temporary Part-Time Ele | The Palliser School Division | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415938901 |
+| Pensions & Savings Specialist | Suncor | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416948158 |
+| Senior Lending Advisor - Calgary Financial Centre, Calgary,  | Scotiabank | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415958566 |
+| Senior Policy Advisor, Sustainability Policy & Research | Export Development Canada | Exportation  | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415947098 |
+| Marketing Coordinator | Adams Limitless | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416943954 |
+| Strength & Conditioning Instructor and Personal Trainer (Par | YMCA Calgary | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=e76af63447dbcc0a |
+| Marketing & Commercial Data Analyst | Vermilion Energy | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=151f196ffe363bcb |
+| Product Specialist (French) | LawDepot.com | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=09e7485647ab6fe8 |
+| Analyst, IT Service Desk | FYihealth group | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415957633 |
+| Leasing Specialist | Boardwalk | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415947180 |
+| Security Systems Technician | Convergint | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416929486 |
+| Cyber Security Analyst - Remote | Aurora Cannabis Inc. | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415943666 |
+| Strategic Proposal Analyst - Remote Work | BairesDev | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415958526 |
+| Counter Sales Associate, Calgary | Wolseley Canada, Inc. | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=dee4942ee9a85cb8 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415948896 |
+| Banking Advisor | National Bank of Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4413367000 |
