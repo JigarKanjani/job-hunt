@@ -7489,3 +7489,41 @@
 | Counter Sales Associate, Calgary | Wolseley Canada, Inc. | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=dee4942ee9a85cb8 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415948896 |
 | Banking Advisor | National Bank of Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4413367000 |
+| Training Standards and Competency Coordinator | De Havilland Aircraft of Canada Ltd | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=2e3c64a35e57c8b5 |
+| Transaction Analyst | JLL | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=59023aec134dcd19 |
+| Office Administrator/Project Coordinator Construction | Turn Key Renovations | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=c446c3b00a82bfce |
+| Board Certified Behavior Analyst (BCBA) | Centre for Autism Services Alberta | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=016ed8f36a865760 |
+| Booking Coordinator | Acadia Community Association  | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=6a81590bf41300a8 |
+| Transportation & Installation Coordinator | York Realty Inc | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=5832121c427cd642 |
+| Inventory Analyst | AltaSteel | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=176e8b2d536aed37 |
+| Supply Chain Manager - Calgary, AB | Upstream Data Inc. | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416967457 |
+| ALA - Indigenous SCM Engagement Specialist | AltaGas Ltd. | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415969195 |
+| Procurement Specialist, Steel | BEUMER Group | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415960609 |
+| Orthopaedic Research Coordinator, Surgery | University of Calgary | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416950735 |
+| Program Manager | GHD | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415957816 |
+| Digital Sales Advisor | Westland Insurance Group | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=e318955ae1da8f56 |
+| Relief Resident Support Worker | The Salvation Army | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=0822b258ed6753c1 |
+| Relief Resident Support Worker | The Salvation Army | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=a26b8c3025946f59 |
+| Accounts Receivable Administrator | AirSprint Private Aviation | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=38ae1d2f1b377370 |
+| Office Administrator | JMS Construction | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=03218dc40eeaf224 |
+| Recovery Coach Academy of Canada - Operations & Systems Coor | ROSC Solutions Group | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=0927b00953324762 |
+| Social Media & Asset Coordinator | Tourism Jasper | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=5300cfb017b2560c |
+| Client Experience Specialist - Calgary | Canada Life | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415967213 |
+| HES Specialist | Parkland Corporation | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4413364289 |
+| Total Rewards Specialist | Drax Group | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416973089 |
+| Librarian (Library Information Specialist) | Canada Energy Regulator | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=e5c281764d402098 |
+| Deskside Field Support Analyst (Fly In/Fly Out) | Compugen Inc | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=7dbca2bfee476ca7 |
+| Helpdesk Technician | Catalis Holdco Inc | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=131f250b6b2aff8a |
+| Total Rewards Specialist | Drax | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=36e453aa26195fe9 |
+| Analyst, IT Service Desk | FYidoctors | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4413364237 |
+| Asset Performance Management (APM) Consultant / Specialist | Wood | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416949760 |
+| Full Time Product Care Specialist (Mobile Klinik) | Market M | TELUS | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4400784835 |
+| Corporate Operations & HR Systems Generalist | Edon Management | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4413375243 |
+| Graduate Program Administrator, Chemical & Petroleum Enginee | University of Calgary | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416970563 |
+| IT Desktop Administrator | The Brick | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416957945 |
+| Casual Receptionist Hillcrest | Extendicare | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=6b991df57c348ecf |
+| Major Gifts Officer | Unison For Generations 50+ | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=65353c0982978c92 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=5ef4fda8f571dcf8 |
+| Customer Experience Associate | TD | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416965610 |
+| Associate, Labour & Employment | Bennett Jones | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4413367340 |
+| Junior Controller | Goldbeck Recruiting | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415967460 |
