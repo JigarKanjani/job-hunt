@@ -7394,3 +7394,14 @@
 | Int. Business Intelligence Analyst - GOAPRDJP00000703 | Source Code | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=5b4ac9379517303d |
 | Financial Analyst - Fully Remote | Mercor | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416492123 |
 | Marketing Specialist - Fully Remote | Mercor | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416491180 |
+| Production Planner | TransCanada Turbines | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4405128915 |
+| Compliance Lead, Product Advisory | Affirm | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4406261016 |
+| Insurance Analyst | Capital Power | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=a0c77fbe86c2bd48 |
+| Compliance Analyst | $66/hr Remote | Crossing Hurdles | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4405990307 |
+| Engineering Specialist | $25/hr Remote | Crossing Hurdles | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415764658 |
+| Financial Analyst | Remote | Crossing Hurdles | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4404687941 |
+| Financial Analyst | $25/hr Remote | Crossing Hurdles | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4415787132 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415780321 |
+| (CAN) Bakery Associate | Walmart Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4405195564 |
+| Parts Associate | Cochrane Toyota | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416616113 |
+| (CAN) Dairy Frozen Associate | Walmart Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4405501341 |
