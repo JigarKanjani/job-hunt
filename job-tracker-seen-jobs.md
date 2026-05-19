@@ -7405,3 +7405,41 @@
 | (CAN) Bakery Associate | Walmart Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4405195564 |
 | Parts Associate | Cochrane Toyota | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416616113 |
 | (CAN) Dairy Frozen Associate | Walmart Canada | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4405501341 |
+| Supply Chain Manager - Calgary, AB | Upstream Data Inc | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=6415a6d43246f576 |
+| Analyst, IT Service Desk | FYidoctors | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=4ae83e190ba382d5 |
+| Senior Program Manager – Sustaining Capital Project Alliance | Wood | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=9b6610a8d053687b |
+| Senior Program Manager – Sustaining Capital Project Alliance | Wood PLC | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=cec4c965bc0ea4cc |
+| Business Analyst Consultant | Olade Consulting Inc | 2026-05-19 | J | https://ca.indeed.com/viewjob?jk=7ecfcf22fc6355f3 |
+| Supply Chain Analyst | Net2Source (N2S) | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415556197 |
+| Lead Estimator - Renovations & Custom | RENOVA Homes & Renovations | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415923775 |
+| Project Coordinator | Rangeland Engineering | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415933578 |
+| Data Operations Specialist | Brilliant Harvest Inc. | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415908978 |
+| Business Systems Analyst – Collateral Management | NLB Services | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415936136 |
+| Senior Administrative Assistant, Quality, Operations | MNP | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415907727 |
+| Customer Experience Specialist – Left-Hand Side | Loblaw Companies Limited | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4416678603 |
+| Specialist Quality Assurance | CPKC | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4407553902 |
+| Investment Analyst/Associate | SAF Group | 2026-05-19 | J | https://www.linkedin.com/jobs/view/4415907993 |
+| Child and Youth Worker (Calgary/Airdrie) | Closer to Home Community Services | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=e656705050da450a |
+| Teacher - Trinity Christian School - Temporary Part-Time Ele | Palliser School Division | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=c6e00e0ebced0102 |
+| Appointment Coordinator - Audi Edmonton North | The Jim Pattison Auto Group | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=8b6b625e105ea32d |
+| Appointment Coordinator - Audi Edmonton North | The Jim Pattison Auto Group | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=16a40881fc08ba58 |
+| Equipment Coordinator | FLINT Corp. | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=dfbecd920c64dcb0 |
+| HSE Coordinator | Golderado Contracting Corp | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=f7a60f24ae404e90 |
+| Client Delivery Coordinator | CDAT Software Inc. | 2026-05-19 | N | https://ca.indeed.com/viewjob?jk=f36062a6557dd0ad |
+| CIRO Licensed Associate Investment Advisor | Shafik Hirani's Private Wealth Managemen | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415914414 |
+| Senior Policy Advisor, Sustainability Policy & Research | Export Development Canada | Exportation  | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415947098 |
+| Digital Collections Coordinator (Contract, Part-Time) | Canada's Sports Hall of Fame | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4415918075 |
+| Festival Coordinator | Banff Centre for Arts and Creativity | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4412030997 |
+| ServiceNow HRSD Senior Specialist | REMOTE | CANADA | Sonova Group | 2026-05-19 | N | https://www.linkedin.com/jobs/view/4416913589 |
+| Asset Performance Management (APM) Consultant / Specialist | Wood | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=1ec095df78f653a3 |
+| Asset Performance Management (APM) Consultant / Specialist | Wood PLC | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=b25b6a0ef8337c6b |
+| Technical Support Specialist | ABSORB | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=7872a709f926b399 |
+| Compensation Specialist | Servus Credit Union | 2026-05-19 | R | https://ca.indeed.com/viewjob?jk=0197958fb3bbcab1 |
+| Analyste de Soutien à la Mission - Équipe Centrale de l'Audi | Deloitte | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4406549554 |
+| Enterprise Risk Management Specialist - Relocation to Saudi  | aramco | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416682561 |
+| Data Analyst, Governance & Resilience | West Edmonton Mall Property Inc. (West E | 2026-05-19 | R | https://www.linkedin.com/jobs/view/4416206924 |
+| Customer Service Representative (CSR) | Contemporary Coachworks | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=a8aff802f41215a3 |
+| Receptionist II (2026-0173) | Carewest - Innovative Health Care | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=38813af7eb5da884 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=470cf2112992eff4 |
+| OMNI Customer Fulfillment Associate (4am shifts) | Walmart | 2026-05-19 | G | https://ca.indeed.com/viewjob?jk=dd4f905e41a321e4 |
+| Fund Development Associate - Calgary | SET Advisors Inc. | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415939255 |
