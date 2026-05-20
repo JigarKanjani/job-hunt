@@ -7715,3 +7715,23 @@
 | Customer Service Associate - Plumbing | RONA | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4417385417 |
 | Concessions Customer Services Representative | Calgary Zoo | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416313976 |
 | Event Coordinator (Contract) - Canada Summer Jobs | ECO Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4417403063 |
+| Business Analyst - Calgary, AB | Magnum Cementing Services | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=0415d00a6eabb47f |
+| Data Centre Operations III , Data Centre Operations | Amazon Web Services | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=74ee4bc1cd74254c |
+| Lead Props | Alberta Ballet | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=7b364efa29585658 |
+| Individual Giving Coordinator | Calgary Inter-Faith Food Bank Society | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=30b7a96201cdea2d |
+| Senior Corporate Continuity Advisor | FortisAlberta | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=f14bc79565045f6a |
+| Lead Project Engineer | DMC Mining Services | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=4c6e70b7a73e534f |
+| Canada Gas – Business Analyst Rotation Program | TC Energy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413651680 |
+| Business Analyst, Asset Integrity | Precision Drilling | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417408662 |
+| People & Office Operations Coordinator | Righteous Gelato | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417410454 |
+| Data Document Coordinator | Blackline Safety | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417391730 |
+| IT Product Specialist | Marsh | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417408587 |
+| Events & Engagement Coordinator | Students' Association of Mount Royal Uni | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=2eaa70629e83aee5 |
+| Accounting & Office Administrator | TSGI Corporation | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=48d468d4c04a429e |
+| Coverage Office Administrator (part time) - All Locations | Momentum Health | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=836e037b419aa967 |
+| OFFICE ADMINISTRATOR | Troy Life & Fire Safety Ltd. | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416328808 |
+| Regional Administrative Assistant (Residential Properties) | Avenue Living Residential | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416329692 |
+| Collections Analyst | Arundel Capital | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=590954bf83dbf5e6 |
+| Data Document Coordinator | Blackline Safety | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=79e3f0b9c19d7c2a |
+| Distribution Centre Analyst | The Brick | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417392608 |
+| Sales Associate | WIRELESSWAVE / WAVE SANS FIL | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416321692 |
