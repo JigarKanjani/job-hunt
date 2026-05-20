@@ -7581,3 +7581,22 @@
 | Community Program Manager | Remote | Crossing Hurdles | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416116477 |
 | Onboarding Coordinator | Alberta Health Services | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416121349 |
 | Business Systems Administrator | Reimagined Parking | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=c102efe238ad16fb |
+| Orthopaedic Research Coordinator, Surgery | University of Calgary | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=4329978ace5be721 |
+| Quality Assurance & Vendor Management Specialist | NRG Energy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4405592763 |
+| Senior Financial Analyst | Kinaxis | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4408065827 |
+| Strategic Advisory Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4405588860 |
+| Safety and Compliance Administrator | Seaboard Transport Group | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=fa65cd92bf229280 |
+| Coordinator, Fleet Services | Trimac | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=b32658752b914388 |
+| Field Administrator | FLINT Corp. | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417076199 |
+| Equipment Coordinator | FLINT Corp. | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417072285 |
+| Proposal Specialist – Marketing & Product | Alberta Blue Cross | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4406037149 |
+| Graduate Program Administrator, Chemical & Petroleum Enginee | University of Calgary | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=6f982644a8e4f7c6 |
+| IT Desktop Administrator | The Brick | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=edacf18c59f9cc59 |
+| IT Desktop Administrator | LFL Group | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=54db35145e2bd095 |
+| Data Quality Analyst (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416114843 |
+| Response Quality Analyst (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416124598 |
+| Data Analyst (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416111931 |
+| Data Labeling Analyst (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416132264 |
+| Data Annotation Specialist (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416111932 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416129822 |
+| Asset Protection Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4406003382 |
