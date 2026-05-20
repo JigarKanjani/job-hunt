@@ -7527,3 +7527,39 @@
 | Customer Experience Associate | TD | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4416965610 |
 | Associate, Labour & Employment | Bennett Jones | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4413367340 |
 | Junior Controller | Goldbeck Recruiting | 2026-05-19 | G | https://www.linkedin.com/jobs/view/4415967460 |
+| Team Lead, Operations | City of Calgary | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=b4d91e97bfbec369 |
+| Procurement Specialist & Inventory Control Specialist | Centennial Food Solutions | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=befb90f209df16d7 |
+| Supply Chain Business Analyst | Robinson | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=bdd11757d06c3ff9 |
+| Supply Chain Business Analyst | Robinson | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=89022d633b1e1979 |
+| Project Coordinator (Utilities) | Ledcor | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=0efbb90ba47bbf9c |
+| Junior Buyer/Expeditor | Stantec | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4416998565 |
+| Crown Royalty Analyst | Cenovus Energy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4416981268 |
+| Senior Business Analyst | Cenovus Energy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4416979271 |
+| Center of Excellence Advisor | Kinaxis | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417011018 |
+| Grants Specialist | Government of Alberta | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4415999336 |
+| Senior Space Mission Systems Specialist (12-month contract) | GHGSAT | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4416976830 |
+| Technical Talent Acquisition Specialist (12 month fixed term | Clio | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4415981872 |
+| Learning Operations Specialist | KPMG Canada | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417008395 |
+| Senior Analyst - Pricing | EECOL Electric | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413374306 |
+| Accounting Officer | Property Management | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=543fcc85d0334ad3 |
+| Patient Success Coordinator | Resolve Sleep Health Inc | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=53b3483b610e4d22 |
+| Patient Success Coordinator | Resolve Sleep Health Inc | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=1d56f4146c4f570a |
+| Senior Business Analyst | Cenovus Energy | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=73a9fb9ef5893927 |
+| Health and Safety Coordinator | Whitson Construction | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=ad1c9ebf040cd54b |
+| Program Coordinator / APP Instructor | ILAC Education Group | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=345979c0c26cf9d0 |
+| Contract Administrator | Stantec | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417009504 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4415975904 |
+| Sr Financial Analyst Cedar | Pembina Pipeline Corporation | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416987215 |
+| Digital Sales Advisor | Westland Insurance Group Ltd. | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4413372451 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4415986325 |
+| Project Coordinator (Utilities) | Ledcor | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416987381 |
+| Administrative Assistant | City of Calgary | 2026-05-20 | G | https://ca.indeed.com/viewjob?jk=41da896df15e1abf |
+| Pipeline Scheduler | Inter Pipeline | 2026-05-20 | G | https://ca.indeed.com/viewjob?jk=b343ac32944ce33f |
+| Receptionist II (2026-0173) | Carewest Innovative Health Care | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416980563 |
+| Counter Sales Associate, Calgary | Wolseley Canada Inc. | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416975492 |
+| Over-the-Counter Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4413383194 |
+| Lumber Associate: Part Time Temp - BEACON HILL | The Home Depot Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4415992205 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4413380337 |
+| Stock Unloader Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4413375437 |
+| Sales Associate | SNDL Inc. | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4415962769 |
+| Pipeline Scheduler | Inter Pipeline | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4415990210 |
