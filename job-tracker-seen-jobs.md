@@ -7563,3 +7563,21 @@
 | Stock Unloader Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4413375437 |
 | Sales Associate | SNDL Inc. | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4415962769 |
 | Pipeline Scheduler | Inter Pipeline | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4415990210 |
+| Junior Buyer/Expeditor | Stantec | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=364a1c39aa258de2 |
+| Marketing Coordinator | OSTEN & VICTOR Alberta Tennis Centre | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=abd241cd749508dd |
+| Senior Client Relationship Specialist | RBC | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=f4e3f4ebef1b3da7 |
+| Senior Client Relationship Specialist | RBC | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=6d77cf6ea0253d85 |
+| Analyst, Application Systems & Data - Hybrid | Alberta Energy Regulator (AER) | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417024819 |
+| Technical Business Analyst | Boardwalk | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4416112517 |
+| LOGISTICS MGMT SPEC | Naval Air Warfare Center Training System | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417041718 |
+| Contract Administrator | Stantec | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=61b982cdd2183ace |
+| SOS Coordinator - Full-Time, Contract (until end of June 202 | Reimagined Parking | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=ab34a91155d31e3a |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416120395 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416115538 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416113573 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416111574 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416117458 |
+| Arts & Culture Program Manager | Remote | Crossing Hurdles | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416115296 |
+| Community Program Manager | Remote | Crossing Hurdles | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416116477 |
+| Onboarding Coordinator | Alberta Health Services | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416121349 |
+| Business Systems Administrator | Reimagined Parking | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=c102efe238ad16fb |
