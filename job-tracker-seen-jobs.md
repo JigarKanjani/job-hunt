@@ -7622,3 +7622,43 @@
 | Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417074584 |
 | AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417080939 |
 | Research Analyst (Remote) | Hire Feed | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417087785 |
+| Shop Coordinator | Celeros Flow Technology | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=98fd438af4e1f741 |
+| Human Resources Advisor | CUPS | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=a45e6639618a5795 |
+| River Hall - Program Manager | Aire commune | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=cc4ce8cfd7b3771f |
+| Restoration Emergency Coordinator | Rocky Cross Consrtuction | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=2e6ae1212a6de682 |
+| Client Care & Scheduling Coordinator | Handyman Heroes | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=1f1f54dd48d71ad4 |
+| Finance and Payroll Coordinator | Artistic Stairs Ltd. | 2026-05-20 | J | https://ca.indeed.com/viewjob?jk=cb4b26c2c82fd1bc |
+| Supply Chain Process Enablement & Automation Analyst | TC Energy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413613971 |
+| Inventory Manager | WINS (Women In Need Society) | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413618710 |
+| Development Coordinator | Precision Drilling | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417345081 |
+| Team Lead, TA Coordinator | Nutrien | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413622633 |
+| EHS Coordinator & Advanced First Aid Attendant | Cornerstone Building Brands | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4413627568 |
+| Research Analyst | Leger | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417330740 |
+| Third Key (Team Leader) - Market mall | Nestlé Nespresso SA | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417360004 |
+| Product Content Specialist [209706] | Aquent | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417342254 |
+| HR Coordinator | Vita Diagnostics | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=071ddc83bfeb6a38 |
+| Outreach Worker ( 1 year term) | The Calgary Chinese Elderly Citizens' As | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=dffa257ca15056d8 |
+| Administrative Assistant | The Calgary Chinese Elderly Citizens' As | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=3ecedf2e861b03ae |
+| Department Coordinator | University of Alberta | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=242f0201b4faa791 |
+| Team Lead, TA Coordinator | Nutrien | 2026-05-20 | N | https://ca.indeed.com/viewjob?jk=e29b714394609381 |
+| Change Communication Specialist | Quarry Consulting | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417322722 |
+| Veterinary Assistant, Receptionist, Shawnessy South Animal H | VCA Animal Hospitals | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416196798 |
+| Remote Accounting Specialist ($100/hr) - 75409 | Turing | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417351354 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417327949 |
+| Application Developer | Sobeys | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=e6c61a6eb182a894 |
+| Electrical Engineer – Solar PV Systems | CT Logics Inc. | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=ad6da0538d0a9145 |
+| SAP HCM Functional Analyst | Precision Drilling | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4386392033 |
+| WindServer System Administrator | WSP in Canada | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4406903209 |
+| Leasing Specialist | Boardwalk | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416315099 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417328915 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417334873 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417343587 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417337750 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417344049 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417332904 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417327303 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417335117 |
+| Veterinary Assistant, Receptionist, Shawnessy South Animal H | VCA Canada | 2026-05-20 | G | https://ca.indeed.com/viewjob?jk=c9ccf5d9cb7499eb |
+| Customer Service Representative | Vestis Corporation | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4417327560 |
+| Salesforce System Administrator | Bell | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4417357412 |
+| Pottery Barn Stock Associate | Pottery Barn | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4408086788 |
