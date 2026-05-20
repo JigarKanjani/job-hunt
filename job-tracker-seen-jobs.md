@@ -7600,3 +7600,25 @@
 | Data Annotation Specialist (English) | $11/hr Remote | Crossing Hurdles | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4416111932 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416129822 |
 | Asset Protection Associate | Walmart Canada | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4406003382 |
+| Facilities Coordinator - Corporate Services | Graham | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4407583837 |
+| Data Analyst | Imploy | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417086882 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417068996 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-20 | J | https://www.linkedin.com/jobs/view/4417094167 |
+| Safety and Compliance Administrator | The Seaboard Transport Group | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4417319159 |
+| Program Specialist, Payments Support | FreshBooks | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4416164112 |
+| Project Controls Specialist | Aecon Group Inc. | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4385284493 |
+| Compensation and Benefits Analyst | Western Financial Group | 2026-05-20 | N | https://www.linkedin.com/jobs/view/4406912874 |
+| Research Analyst | Léger | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=3c71fb725406b696 |
+| Privacy and Security Analyst, BC Health Workday | Provincial Health Services Authority (PH | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=19c0034902d2f5bb |
+| Data Quality Analyst -- KUMDC5806582 | Compunnel Inc. | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417330034 |
+| Intermediate IT Services Specialist | Clio | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4406910708 |
+| Process Engineer - Sulfur Recovery-Relocate to Saudi Arabia, | aramco | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417097790 |
+| Process Engineer - Solomon Benchmarking - Refinery Experienc | aramco | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417308119 |
+| Field Compliance Coordinator- Relocate to Saudi Arabia, Perm | aramco | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417313686 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417080997 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417088848 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417088409 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417089404 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417074584 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417080939 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417087785 |
