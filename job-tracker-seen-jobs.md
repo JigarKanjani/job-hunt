@@ -7762,3 +7762,17 @@
 | Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4375278371 |
 | 70240 Associate MPC Deerfoot City Calgary | Winners | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=84b35db2ea36a5cd |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416391945 |
+| Managing Consultant - Energy Supply Chain | Wood Mackenzie | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=f67a51acf9e1dff6 |
+| Senior Transportation Planner | McElhanney | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4361139684 |
+| Enterprise Experience Product Designer Associate (September  | IBM | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4406418159 |
+| Project Accountant Lead | FLINT Corp. | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4377560988 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417715645 |
+| Residential Leasing Specialist | Centron Group | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4417736582 |
+| Supply Chain Analyst | Net2Source (N2S) | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4417737661 |
+| Data Annotation Specialist | $98/hr Remote | Crossing Hurdles | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416520976 |
+| 3D Data Annotation Specialist | $25/hr Remote | Crossing Hurdles | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416531936 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417709737 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417722455 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417710846 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417717553 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417720669 |
