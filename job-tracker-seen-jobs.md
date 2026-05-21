@@ -7776,3 +7776,36 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417710846 |
 | Research Analyst (Remote) | Hire Feed | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417717553 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417720669 |
+| Proposal and Vendor Relations Coordinator | Metricline Projects Ltd. | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=0353bcc46d421874 |
+| On Call - Specialist | Fear is Not Love Society | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=01a4e10ef87b4864 |
+| Proposal Lead | ISL Engineering and Land Services | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=63eb3d43bdd762aa |
+| Software Development Team Lead | Momentm | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=8d164861a7eb65ce |
+| Contract Formation Specialist | Roska DBO | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=5a7ecc38247822a8 |
+| Logistics Manager, Canada East | Superior Propane | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=1de04d649293c300 |
+| Installation Operations Specialist - Healthcare Imaging Syst | Philips | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=23f25b77bb28fa30 |
+| Supply Chain Analyst | Net2Source (N2S) | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417752720 |
+| Senior Contract Specialist | Airswift | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414036028 |
+| Senior Application Support Specialist | CPKC | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4408709305 |
+| Senior Advisor, Global Benefits - Calgary, AB or Saskatoon,  | Nutrien | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414009824 |
+| Senior SCM Information Technology Contracts Advisor | Cenovus Energy | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417760455 |
+| Crime Prevention Specialist | TD | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417739840 |
+| Senior Rail Engineering Advisor | AECOM | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4316101116 |
+| Accounting Support Specialist | MNP | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4395478607 |
+| Payroll Specialist | Robert Half | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416589986 |
+| Service Advisor – Pacific Place | Canadian Tire Corporation, Ltd. | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=e66c38dd7405f0d2 |
+| Sports Program Coordinator - Sports & Recreation | Nordiq Alberta | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=edfad7f723783152 |
+| Independent Contractor – Membership & Events Coordinator | Western Canada Onsite Wastewater Managem | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=315310959873dde3 |
+| S2627-02 Early Childhood Division Assistant Coordinator | Northern Lights Public Schools | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=0b034f8157bc9881 |
+| Mobile Mortgage Specialist | TD | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4377098153 |
+| HRBP - Strategic Talent Advisor (Temporary - 12 Month Contra | WSP in Canada | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4407057176 |
+| Document Control Coordinator | Ledcor | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4415567950 |
+| Patient Services Specialist | FYidoctors | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=dc8afb5a52df589e |
+| Patient Services Specialist - Casual | FYidoctors | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=0d803882cb9f50cb |
+| Help Desk Engineer - Remote Canada Only | Blue Mantis | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=9b4ab992bd23557c |
+| Canderel - Tenant Services Coordinator (Stantec Tower) | Canderel | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=0738334de140aa41 |
+| Front Desk Agent | Holiday Inn Express Calgary South | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=8b8c4b4a9dd80da5 |
+| Guest Service Agent | Clique Hotels & Resorts Calgary | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=19567697de103da8 |
+| Controller | Surerus Murphy Joint Venture | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=c2b484f8eba0dbcd |
+| Customer Service Representative | Traffic Tech | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416599188 |
+| Intermediate Document Controller | Rangeland Engineering | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416574776 |
+| Customer Service Representative | BMO | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4417750508 |
