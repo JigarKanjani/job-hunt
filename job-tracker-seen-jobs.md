@@ -7809,3 +7809,42 @@
 | Customer Service Representative | Traffic Tech | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416599188 |
 | Intermediate Document Controller | Rangeland Engineering | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416574776 |
 | Customer Service Representative | BMO | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4417750508 |
+| Crime Prevention Specialist | TD | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=c818aa9166ca2378 |
+| Accounts Payable Attest Analyst | Canadian Natural | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=4d03eee02f54f85d |
+| Senior Advisor, Global Benefits - Calgary, AB or Saskatoon,  | Nutrien | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=496b3836b3802fc8 |
+| Field Safety Advisor | Valard Construction | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=02695c1092f43978 |
+| Field Safety Advisor | Valard Construction | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=d51c1f1fb759a8d4 |
+| Field Safety Advisor | Valard Construction | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=a6c53a2c3aa3d64a |
+| Service Coordinator | Sunbelt Rentals, Inc. | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417799496 |
+| Accounts Payable Coordinator | Amrize | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414043362 |
+| Proposal Lead | ISL | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417790090 |
+| Conferencing Solutions - IT Analyst | Deloitte | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417795514 |
+| Operations Supervisor | Foresight Recruitment Group | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417778911 |
+| Customer Care Lead | Boardwalk | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416595346 |
+| Senior Mine Permitting Specialist | WSP in Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4395927616 |
+| Senior Talent Acquisition Advisor | National Bank of Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417796680 |
+| Inventory Analyst | Fountain Tire | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416705791 |
+| Supply Chain Data Analyst | Convergint | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4386970523 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417791314 |
+| Office Administrator | HelloFresh | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=565cf8c79d06842e |
+| HR & Payroll Specialist | Parts Canada Development Co. | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=c98db3c4ed2b2d20 |
+| Payables Attesting Analyst | Canadian Natural | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=c11058472ec0cdaa |
+| Resident Experience Coordinator | Emmanuel Home | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=0f9da350d3c2b867 |
+| Case Management Coordinator (CMC) – Life & Disability Servic | Alberta Blue Cross | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=974656f5dfb5f6ab |
+| marketing coordinator | Swift Innovations Inc. | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=8f246fcb3743b7b0 |
+| Office Administrator | Grey Owl Engineering Ltd | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4416709566 |
+| Client Services Administrator - (Contract) | AGAT Laboratories | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4418001525 |
+| Administrative Assistant | CanWest Concrete | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4416716271 |
+| Recovery, Stabilization and Detox (RSD) – Weekend Child and  | Hull Services | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4414032604 |
+| S2627-02 Early Childhood Division Assistant Coordinator | Northern Lights Public Schools | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4416711707 |
+| business data analyst | Prime Floor Distribution Inc | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=9221fce91ea59373 |
+| Beauty Specialist | Shoppers Drug Mart | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416709584 |
+| Database Administrator | Tata Consultancy Services | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416710303 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417793516 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417787364 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417788408 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417799245 |
+| Customer Service Representative | Traffic Tech Inc. | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=4894f7058f404761 |
+| Outbound Sales Call Specialist – Closer | Franctal Studio | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=cf7f2f86faf3c05a |
+| Front Desk Agent (Part-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416708726 |
+| Preventative Maintenance Associate | Boardwalk | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416704313 |
