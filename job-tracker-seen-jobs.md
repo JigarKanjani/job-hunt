@@ -7747,3 +7747,18 @@
 | Coverage Office Administrator | CBI Health | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4417474305 |
 | IT Support Technician / Integration Support | Compugen Inc | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416375762 |
 | Receptionist | CBI Health | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4417480114 |
+| Trade Compliance Analyst | Johnson Controls | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=e403d0e0a2a6051e |
+| Procurement Specialist, Procurement Services | University of Calgary | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=0ac5f607f654e101 |
+| Distribution Centre Analyst | The Brick | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=9c4d8844225cb5c9 |
+| Safety Specialist | Trimac | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=86fcf7d6f4d20e34 |
+| Senior Proposal Specialist | HDR | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4385291060 |
+| Privacy Program Lead | Fasken | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4396354481 |
+| Field Operations Coordinator | Amrize | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4398638952 |
+| Senior Inventory Specialist | NDT Global | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4408705642 |
+| Project Accounting Coordinator | LaPrairie Group of Companies | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=5cedcdab53700ce4 |
+| Community Engagement Facilitator | E4C | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4408096167 |
+| Residential Leasing Specialist | Centron | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=bf2b629f1e5ec1e4 |
+| Provincial Technical Services Specialist | Canadian Mental Health Association | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=c704420a38bbc1ea |
+| Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4375278371 |
+| 70240 Associate MPC Deerfoot City Calgary | Winners | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=84b35db2ea36a5cd |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416391945 |
