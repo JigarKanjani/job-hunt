@@ -7848,3 +7848,52 @@
 | Outbound Sales Call Specialist – Closer | Franctal Studio | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=cf7f2f86faf3c05a |
 | Front Desk Agent (Part-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416708726 |
 | Preventative Maintenance Associate | Boardwalk | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416704313 |
+| Senior SCM Information Technology Contracts Advisor​ | Cenovus Energy | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=bb3c136e98784101 |
+| Project Coordinator - CANA Construction Co. Ltd. - Scotia Pl | Cana Group of Companies | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=8591ce651ccbde62 |
+| Seniors Intensive Case Manager | CUPS | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=b1e9d70931b065dd |
+| Showroom Coordinator | DIVINE HARDWOOD FLOORING LTD. | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=3bfd768539ef52b2 |
+| Patient Experience Coordinator | Innovative Sport Medicine | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=9b2c23c6b72f0ceb |
+| Shelter Coordinator | Bigstone Health Commission | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=38eddb79dfe166fa |
+| Marketing Coordinator | Leston Holdings (1980) Ltd. | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=560d6bfc71a94277 |
+| Project Coordinator - Utilities | Black & McDonald Limited | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=a021967607d342c7 |
+| Project Coordinator - Utilities | Black & McDonald Limited | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=684e114819c23d71 |
+| Senior Cybersecurity and Compliance Analyst - Landmark | Halliburton | 2026-05-21 | J | https://ca.indeed.com/viewjob?jk=f8d284bb62576c45 |
+| Intermediate Procurement Specialist (Buyer / Expeditor) | WSP in Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414025891 |
+| Supply and Transportation Administrator | Superior Propane | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414030868 |
+| Underwriting Support - Account Analyst | Liberty Mutual Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416709930 |
+| Program's Business & Finance Integration Analyst | De Havilland Aircraft of Canada Limited | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4418000912 |
+| Program Manager (Mining) | GHD | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416722055 |
+| Learning Coordinator | BDO Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4418005701 |
+| Retread/Technical Solutions Field Specialist - Canada | Continental | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4411681857 |
+| Reliability, Availability, Maintainability, Safety (RAMS) Le | WSP in Canada | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4376434274 |
+| Project Coordinator - Rail & Transit | AECOM | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414047109 |
+| Coordinator, Special Events | University of Calgary | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4418025354 |
+| Community Access - Community Support Worker | Columbia Training Centre | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=ab248f645305bf46 |
+| Communications Coordinator ( Canada Summer Jobs Placement) | Easter Seals | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=3cd403c826acf4b6 |
+| Database & API Administrator | Network Innovations (NI) | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=e2c7635367585a69 |
+| Office Administrator/Receptionist | BMD Painting | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=3fcfa277de725410 |
+| Bookkeeper/Administrator | Rymar Synthetic Grass & Rubber | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=59d6d2d7627001fc |
+| Reception/Office Administrator | Canwest Concrete Cutting | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=794dc92225943604 |
+| Case Worker | Alcove Addiction Recovery for Women | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=bf24018cd8d0231e |
+| Patient Services Specialist | FYihealth group | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4416711997 |
+| Graduate Student Support and Advising Specialist, Faculty of | University of Calgary | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4418009755 |
+| Client Services Administrator - (Contract) | AGAT Laboratories | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4414043734 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4415558573 |
+| Priority Issues Coordinator | Government of Alberta | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4416701921 |
+| Learning Coordinator | BDO Canada | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4418023190 |
+| Associate Program Manager - 18 month contract | Cencora | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4414031874 |
+| Data Analyst | Vantix Systems Inc | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=f4a4b5b9ad4ae169 |
+| Credit Analyst | Dynamic Capital Equipment Finance Inc. | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=db510f23a06a77da |
+| BASE ADMINISTRATOR – (RDC) | Trican Well Service | 2026-05-21 | R | https://ca.indeed.com/viewjob?jk=8dbb65593ac6cdc7 |
+| Quality Assurance Analyst | Ava Industries | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416593441 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4417794475 |
+| Front Desk Agent (Part-Time, Seasonal) | Accor | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=4f6b28e85d22bf53 |
+| Maintenance Controller | Flair Airlines Ltd. | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=434ab60e7a18c205 |
+| Major Gifts Officer | Kerby Centre | 2026-05-21 | G | https://ca.indeed.com/viewjob?jk=4a820e514acb5fb6 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4416714999 |
+| Personal Banking Associate | BMO | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418010681 |
+| Personal Banking Associate | TD | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418008786 |
+| Standard Operating Procedures Coordinator, VP Research | University of Calgary | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418003994 |
+| Personal Banking Associate- (Mandarin & Cantonese Language s | TD | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418025361 |
+| Environment Advisor, Wildlife | Burgundy Diamond Mines | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4414034951 |
+| Receptionist | Cassels Brock & Blackwell LLP | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418013824 |
