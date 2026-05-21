@@ -7735,3 +7735,15 @@
 | Data Document Coordinator | Blackline Safety | 2026-05-20 | R | https://ca.indeed.com/viewjob?jk=79e3f0b9c19d7c2a |
 | Distribution Centre Analyst | The Brick | 2026-05-20 | R | https://www.linkedin.com/jobs/view/4417392608 |
 | Sales Associate | WIRELESSWAVE / WAVE SANS FIL | 2026-05-20 | G | https://www.linkedin.com/jobs/view/4416321692 |
+| Team Lead | eXp Realty | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416388414 |
+| IPSE PROGRAM MANAGER / SERVICE LEAD | Nuvella Haven Care | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416396122 |
+| Specialist, Environmental Site Assessment | Calgary Airports | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4414245628 |
+| Intermediate Transportation Planner | Parsons Corporation | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4417467301 |
+| Business Analyst | Insight Global | 2026-05-21 | J | https://www.linkedin.com/jobs/view/4416393253 |
+| Coverage Office Administrator | CBI HEALTH | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=988e23f8746fc425 |
+| Family Counsellor | Recovery Alberta | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=b24eb933406eeec0 |
+| Family Counsellor | Recovery Alberta | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=529f328f04f0dbfb |
+| Registered Psychologist/Registered Social Worker/Provisional | Evluni | 2026-05-21 | N | https://ca.indeed.com/viewjob?jk=015cb41e4d8fed71 |
+| Coverage Office Administrator | CBI Health | 2026-05-21 | N | https://www.linkedin.com/jobs/view/4417474305 |
+| IT Support Technician / Integration Support | Compugen Inc | 2026-05-21 | R | https://www.linkedin.com/jobs/view/4416375762 |
+| Receptionist | CBI Health | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4417480114 |
