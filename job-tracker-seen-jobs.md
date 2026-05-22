@@ -8017,3 +8017,72 @@
 | Automation Solutions Integration Specialist, Vice President | Morgan Stanley | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4407634772 |
 | Controller | Savanna Drilling Corp. | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417168527 |
 | Digital Marketing Coordinator (Contract) - Canada Summer Job | ECO Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418151388 |
+| Hub Coordinator - TAWAW Family Resource Network | Miskanawah Community Services Associatio | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=b0e10c37d2a59f2c |
+| Project Coordinator, Geospatial & Adv Tech | GeoVerra | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=feab0d126bab984a |
+| Training and Standards Specialist | AirSprint Private Aviation | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=00f11b114b1e6fdf |
+| Child and Youth Support Specialist | Discovery House | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=ea080edfc1951261 |
+| Family Outreach & Wellness Proj. Coordinator | The Immigrant Education Society | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=9b56e608ec416ec9 |
+| Capital Analyst, Generation | Enmax | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=16fb6481e7627284 |
+| Voyageur Trade Program (VTP) Coordinator | MNA | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=ed931bb4b45da078 |
+| Project Coordinator | Valard Construction | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=fd9a96326c59ed09 |
+| Project Coordinator | Valard Construction | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=f5987efbf2b98178 |
+| Project Coordinator | Valard Construction | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=e0c5a924a604b2c5 |
+| Project Coordinator | Valard Construction | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=9177147eade36af9 |
+| Project Coordinator | Wood Buffalo Paving Ltd. | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=f51a082a598ff4b0 |
+| Production & Logistics Support | Soil Synergy | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=a9a7ab2bb1645d68 |
+| Travel & Workforce Logistics Coordinator | Paradigm Building Solutions Ltd | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=85cff063c4e24ad8 |
+| Inventory & Logistics Analyst | ZEROCOR Tubulars | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417197682 |
+| Buyer | The Bolt Supply House Ltd. | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418416865 |
+| Buyer II | Finning | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417500728 |
+| Capital Analyst, Generation | ENMAX | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417199295 |
+| Project Field Work Planner | TC Energy | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414359624 |
+| Procurement Manager | The Bolt Supply House Ltd. | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418436152 |
+| Field Work Planner | TC Energy | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414359625 |
+| Project Coordinator | McCrum's Office Furnishings | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418425203 |
+| Corporate & HR Operations Generalist | Edon Management | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417197357 |
+| Human Resources Advisor | CUPS Calgary AB | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416593571 |
+| Document Management Specialist | Victor Energy | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418436021 |
+| Child Development Worker | Discovery House | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=49f02ed1e2dab531 |
+| Audit Advisor | FortisAlberta | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=5197663af52413f4 |
+| Design Team Project Administrator | Boardwalk | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=6401fc3b0d097cd4 |
+| Accounting - Expense Administrator | Burnet, Duckworth & Palmer | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=5fac86901c6f1288 |
+| HR/Safety Coordinator | Sinclair Supply Ltd | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=bb439228a752edf1 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=6d571ef456c2afcc |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=e7682443d7233970 |
+| Intensive Case Management Worker (FT) - St. Josephine | Catholic Social Services | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=728cb6afbb3185ad |
+| Office Administrator & Operations Coordinator | 780Handyman of Grande Prairie | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=3a0b9390d0dcabbc |
+| Automotive Service Advisor | Affordable Auto Repair | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=00c2f0b1947cf59a |
+| Front Desk Care Coordinator | Lifemark Health Group | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=0eecaa6b8dc84dc6 |
+| Resource Coordinator | Easter Seals Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418431101 |
+| Facilities and Client Coordinator | Cassels Brock & Blackwell LLP | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418413942 |
+| Catering Administrator | Part-Time | Spruce Meadows | Oak View Group | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417185435 |
+| Implementation Specialist | TTTECH | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418427150 |
+| IT Governance and Cyber Security Coordinator | TAQA Group | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417451148 |
+| Project Field Work Planner | TC Energy | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4414364544 |
+| Sales Coordinator | Sprouse Fire & Safety | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418429673 |
+| Family Engagement Coordinator | Métis Nation within Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417505661 |
+| Teaching Quality Coordinator | University of Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418440196 |
+| MBA Program Advisor | University of Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418432621 |
+| Community Engagement Specialist | Calgary Drop IN & Rehab Society Centre | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=5412705398022063 |
+| Document Management Specialist | Victor Energy | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=4a8a51be064b0348 |
+| Casual Scheduling Coordinator | Paladin Security | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=52037ec7ab2eaab0 |
+| Specialist - Marketing | EECOL Electric | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4414365604 |
+| Remediation Systems SME | GHD | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417199446 |
+| HSE Administrator | SECURE | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418432825 |
+| User Support Specialist - Part-Time | Kids Help Phone | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417196544 |
+| Mining Application Support Specialist | Dexcent | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417196808 |
+| Major Gifts Officer | Werklund Centre | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=79ffb3b3cd5a0fc0 |
+| Wealth Associate | Canaccord Genuity Group Inc. | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417508593 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417504416 |
+| Personal Banking Associate | TD | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418436103 |
+| Customer Experience Associate | TD | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418436102 |
+| Customer Experience Associate | TD | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418433223 |
+| Customer Experience Associate | TD | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418424360 |
+| Customer Experience Associate | TD | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418416772 |
+| Customer Service Associate - Seasonal | RONA | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418198817 |
+| Customer Service Representative | BMO | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418432154 |
+| Customer Service Specialist, Parking and Transportation | University of Calgary | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418435131 |
+| Lumber & Building Materials - Customer Service - Temp PT | RONA | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418410522 |
+| Investment & Retirement Specialist | Canada Life | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417505381 |
+| Investment Specialist | BMO | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418422382 |
+| HSE Advisor | SECURE | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418437651 |
