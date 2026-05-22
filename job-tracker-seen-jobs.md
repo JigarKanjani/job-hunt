@@ -7897,3 +7897,42 @@
 | Personal Banking Associate- (Mandarin & Cantonese Language s | TD | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418025361 |
 | Environment Advisor, Wildlife | Burgundy Diamond Mines | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4414034951 |
 | Receptionist | Cassels Brock & Blackwell LLP | 2026-05-21 | G | https://www.linkedin.com/jobs/view/4418013824 |
+| Business Analyst - Planning & Economics | China National Offshore Oil | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=f30cfe4926f05500 |
+| Risk Analyst | China National Offshore Oil | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=7fcf3da1cbd81543 |
+| Business Analyst - Planning & Economics | China National Offshore Oil | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=529ec7ac44fc5f6b |
+| Senior Financial Analyst | Mission Environmental Services Group | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=a0bb85de047f5691 |
+| Inventory Analyst | Fountain Tire | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=5688ef3c71213eee |
+| Scheduling Administrator, Star Building Materials | STAR BUILDING MATERIALS | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=e2bfedf0df0649af |
+| Coordinator, Sustainability | Calgary Airports | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416753214 |
+| Corporate Real Estate - Business Analyst | WestJet | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416753262 |
+| Support Specialist | Showpass | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416739709 |
+| (CAN) Team Leader, Operations Administration (Mon,Tues,Thurs | Walmart Canada | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414067014 |
+| Accounting Operations Supervisor (15 Month Term) | Calgary Airports | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416763098 |
+| Analyst, Climate Risk & Resilience | WSP in Canada | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416759485 |
+| Analyste en changements climatiques | WSP in Canada | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416749477 |
+| Sales Operations Consultant (Remote Canada) | Directive | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418028978 |
+| Sr Maintenance Planner | Suncor | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4416764081 |
+| Team Leader | Dollarama | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414049470 |
+| Human Resources Coordinator | Intercontinental Truck Body | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=8f4ac0daff391d20 |
+| Communications & Marketing Advisor | City of Calgary | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=b8eb2adde0f4bd3d |
+| Regulatory Compliance Advisor/Technologist | Cenovus Energy | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=9639340e5460370a |
+| Fair Entry Administrator - Part-time | City of Calgary | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=2e6b1a34c0f12de1 |
+| Business Continuity & Emergency Planner, Recreation & Social | City of Calgary | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=93bfff5b562dcaf2 |
+| Recreation Coordinator - Casual | The Journey Club | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=17faf59a463e0a65 |
+| Learning Coordinator | BDO | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=986d16788f4d4796 |
+| Talent Acquisition Specialist | Prelude | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=93786e5338a9eccd |
+| Housing Placement Administrator | GEF Seniors Housing | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=d850206b5dae9f0b |
+| Faculty/School Administrative Assistant | Mount Royal University | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4414058228 |
+| Office Administrator | Factor_ | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418040651 |
+| Scheduling Administrator, Star Building Materials | Star Building Materials Edmonton | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4418032970 |
+| Business Analyst | City of Calgary | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=4b09618013e910a7 |
+| Specialist, Technology Support - Logistics (Wednesday-Saturd | Walmart | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=979b0c47ffcf1f31 |
+| Intermediate Developer- 8 month term | WestJet | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4416741554 |
+| Specialist, Technology Support - Logistics (Wednesday-Saturd | Walmart Canada | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4414066036 |
+| EFS Analyst | Government of Alberta | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4416745505 |
+| Clinical Systems Analyst | Alignerr | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418056610 |
+| Environment Advisor, Wildlife | Burgundy Diamond Mines | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=c1c4910db15b1346 |
+| Administrative Professional | BDO Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4414055897 |
+| Customer Service Associate - Plumbing | RONA | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4414070354 |
+| Scheduler | Airswift | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418064600 |
+| Billing Specialist | SECURE | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418032613 |
