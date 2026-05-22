@@ -7971,3 +7971,17 @@
 | Standard Operating Procedures Coordinator, VP Research | University of Calgary | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=029cce3f16e3b1bb |
 | Research Associate, Oncology | University of Calgary | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=a472bc71c71bea25 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417119515 |
+| Shop Coordinator | Celeros Flow Technology | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414346319 |
+| Risk & Control Specialist | Sovereign Insurance | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417146563 |
+| Senior Maintenance Planner | De Havilland Aircraft of Canada Limited | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418132739 |
+| Planner 2 | City of Calgary | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4415954210 |
+| Crop Protection Product Lead | Syngenta | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418103678 |
+| Rail Systems Design Lead | Mott MacDonald | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4341092573 |
+| Highways Lead - Alberta | CIMA+ | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418126913 |
+| Coordinator, Facility Management | Defence Construction Canada | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4402745739 |
+| Systems Engineer, Production | Clio | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4407610933 |
+| Part-time System Administrator | AxE IT Consulting | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417146438 |
+| Statistical Analyst | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417121979 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417145047 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4387348401 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418125429 |
