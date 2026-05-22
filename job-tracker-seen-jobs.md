@@ -7951,3 +7951,23 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417105615 |
 | (CAN) Electronics Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417108621 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417112516 |
+| Coordinator, Special Events | University of Calgary | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=fa4bb7915feaa4cf |
+| Graduate Student Support and Advising Specialist, Faculty of | University of Calgary | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=ccd810609acbadfa |
+| Senior Buyer | Worley | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418092653 |
+| Analyst Advertising | Sobeys | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418075775 |
+| Aviation Planner | Arup | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4408776278 |
+| Lead Process Engineer | Worley | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4377156341 |
+| Senior Technology Operations Analyst - SAP SuccessFactors/ E | EY | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414077970 |
+| Business Analyst | $25/hr Remote | Crossing Hurdles | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417115272 |
+| Internal Compliance Analyst | Calgary Board Of Education | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=4987f4aa6b98199c |
+| Banquets - Coordinator | Moxies | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=75e3ee733b5be820 |
+| AI Platform Administrator | KPMG Canada | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4409131252 |
+| Career Counsellor | Lifemark Health Group | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4384499499 |
+| Network Analyst | Edmonton Public Schools | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=84c26468aa4c79e6 |
+| Billing Specialist | SECURE | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=d46c7647e0407e98 |
+| Junior Automation Technologist | Associated Engineering | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4406752021 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Systems Analyst, Enterprise Information Management | NAIT (Northern Alberta Institute of Tech | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4409070701 |
+| Standard Operating Procedures Coordinator, VP Research | University of Calgary | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=029cce3f16e3b1bb |
+| Research Associate, Oncology | University of Calgary | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=a472bc71c71bea25 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417119515 |
