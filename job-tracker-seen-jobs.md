@@ -7985,3 +7985,35 @@
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417145047 |
 | Data Analyst | Remote | Crossing Hurdles | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4387348401 |
 | Clinical Data Analyst (Remote) | Hire Feed | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418125429 |
+| Analyst or Associate Risk Management Solutions | National Bank of Canada | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=d622c07d798ae83c |
+| Business Analyst - Content Migration - Canada | ReVisionz | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418138849 |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417179353 |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417175403 |
+| Supply Chain Contract Analyst, Power & Energy Solutions Oper | TC Energy | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414357567 |
+| Business Management Lead – Integrated Engineering | Barr Engineering Co. | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414341335 |
+| Audit Advisor | FortisAlberta | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417169369 |
+| Project Coordinator, Geospatial & Adv Tech | GeoVerra | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417154996 |
+| Lead Piping Estimator - Energy Construction | Kiewit | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4387725351 |
+| Senior Specialist, Digital Finance | ATB Financial | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418147940 |
+| Fleet Coordinator | Source Energy Services | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417165106 |
+| Surgical Coordinator | Acumen Clinic | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=ce74eb3d2dee14fd |
+| Senior Payroll Coordinator | Robert Half | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417168498 |
+| Operational Regulatory Compliance Coordinator | University of Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4414340765 |
+| Payroll Coordinator | PCL Construction | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4391936727 |
+| Financial Analyst/Intermediate Financial Analyst | Vastian | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=07b36f53f0b4f2c2 |
+| Functional IT Analyst | Medavie | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=4e364179411bbc4b |
+| Functional IT Analyst | Medavie | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=067a9a4ca48d493f |
+| Product Support Specialist | Insignia Software Corporation | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=8241fc92cd5fc742 |
+| Rental Home Specialist | Avana Holdings Inc. | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=0fde334e5244580e |
+| Payroll & 401K Specialist (Remote Canada) | LARK | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=a46f7e49337582d4 |
+| IT Support Engineer | HelloFresh | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418189145 |
+| Application Developer | Prairie Payments Joint Venture | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4417160875 |
+| Data Analyst | RECRUITMENT PARTNERS INC. | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418184232 |
+| Remote Finance & Research Analyst ($100/hr) - 42463 | Turing | 2026-05-22 | R | https://www.linkedin.com/jobs/view/4418192046 |
+| Front Desk Agent | Country Inn and Suites by Radisson Calga | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=215b422b68344cab |
+| Salesforce Administrator | Parkland Corporation | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4414354295 |
+| Associate, Family Office Services | MNP | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4407696297 |
+| Field Sales Specialist - MDU (Calgary) | Rogers Communications | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4397622335 |
+| Automation Solutions Integration Specialist, Vice President | Morgan Stanley | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4407634772 |
+| Controller | Savanna Drilling Corp. | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417168527 |
+| Digital Marketing Coordinator (Contract) - Canada Summer Job | ECO Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418151388 |
