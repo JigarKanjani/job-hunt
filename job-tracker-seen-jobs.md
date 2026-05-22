@@ -7936,3 +7936,18 @@
 | Customer Service Associate - Plumbing | RONA | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4414070354 |
 | Scheduler | Airswift | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418064600 |
 | Billing Specialist | SECURE | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418032613 |
+| Senior Buyer | Worley | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=699eb5bdaae49d13 |
+| Buyer/Expeditor | Vista Projects | 2026-05-22 | J | https://ca.indeed.com/viewjob?jk=4b94353089fc405d |
+| Regulatory Compliance Advisor/Technologist | Cenovus Energy | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4417101554 |
+| Collections Team Lead | PBS Systems | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4414072658 |
+| Chef d’équipe des données (Data Team Lead) | IQVIA Laboratories | 2026-05-22 | J | https://www.linkedin.com/jobs/view/4418068526 |
+| Family Counsellor | Recovery Alberta | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=54563a4eb8138771 |
+| Billing Coordinator | GetQuorum | 2026-05-22 | N | https://ca.indeed.com/viewjob?jk=458608ac56b702c9 |
+| #26-02 Administrative Assistant | North Eastern Ontario Family and Childre | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4414091234 |
+| Program Coordinator (CF) - Employment Training Programs | Catholic Social Services Alberta | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417113173 |
+| Indigenous Wellness Coordinator | Alberta Health Services | 2026-05-22 | N | https://www.linkedin.com/jobs/view/4417105925 |
+| Analyst Advertising | Sobeys | 2026-05-22 | R | https://ca.indeed.com/viewjob?jk=7037a392cc947ba0 |
+| Administrative Support IV | Recovery Alberta | 2026-05-22 | G | https://ca.indeed.com/viewjob?jk=78634bcbfff5b7ab |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417105615 |
+| (CAN) Electronics Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417108621 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417112516 |
