@@ -8153,3 +8153,7 @@
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418607325 |
 | Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4407905178 |
 | Selling Associate-Chinook Centre | Victoria’s Secret & Co. | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4400308716 |
+| Billing Analyst (12-month contract) | McCarthy Tétrault | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4409536501 |
+| Part-Time HR Advisor | Clear Sky Limited (Spain) | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=f68a29bd47814dc2 |
+| Reserving Actuarial Analyst | Coalition Inc. | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=7418882f3ba39d1a |
+| Remotely Piloted Aircraft Systems Platform I.T./Network Spec | MDA Space | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4407958282 |
