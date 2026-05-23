@@ -8131,3 +8131,25 @@
 | Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4375265579 |
 | General Merchandise Associate | Walmart Canada | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4407237872 |
 | Sales Associate - Northland Volkswagen | AutoCanada | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4398190031 |
+| Operations Program Delivery Lead, Project Management | Bird Construction | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418488989 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418496587 |
+| Operations Supervisor (Specialized Sulfur Operations) | GFL Environmental Inc. | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4409542539 |
+| Coordinator, Emergency Management | Regional Municipality of Wood Buffalo | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=e1995e48729b98f0 |
+| Administrative Coordinator | Trust Home Comfort Ltd. | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=78d78da34d362b40 |
+| Server Liaison - JOEY Chinook | JOEY Restaurant Group | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4359578041 |
+| Home Advisor, RBC Advice Centre | RBC | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4375458210 |
+| Virtual Mortgage Specialist - Calgary, AB (Mandarin/Cantones | Scotiabank | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4407950609 |
+| Investment Advisor | RBC Dominion Securities | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4409464013 |
+| Coordinator, Emergency Management | Regional Municipality of Wood Buffalo | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4418487842 |
+| Business Intelligence Analyst | Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4387335867 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4387332939 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418612103 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418497549 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418495616 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4408318010 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418602536 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418490973 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418607325 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4407905178 |
+| Selling Associate-Chinook Centre | Victoria’s Secret & Co. | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4400308716 |
