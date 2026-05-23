@@ -8173,3 +8173,4 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418619454 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418630435 |
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418625454 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4417578536 |
