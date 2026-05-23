@@ -8122,3 +8122,12 @@
 | Administrative Assistant, Assurance & Accounting | MNP | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4417534629 |
 | Administrative Support IV | Alberta Precision Labs | 2026-05-23 | G | https://ca.indeed.com/viewjob?jk=b97cd7287b91f400 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4417546628 |
+| Internal medicine specialist | WELL Health Diagnostic Centres | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4418497140 |
+| Facilitator - Vocational Services | Lifemark Health Group | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4407218790 |
+| Environmental Project Coordinator | GHD | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4407964464 |
+| Career Counsellor | Lifemark Health Group | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4385429033 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4387332939 |
+| Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4375275403 |
+| Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4375265579 |
+| General Merchandise Associate | Walmart Canada | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4407237872 |
+| Sales Associate - Northland Volkswagen | AutoCanada | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4398190031 |
