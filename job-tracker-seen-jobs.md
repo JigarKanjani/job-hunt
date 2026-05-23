@@ -8157,3 +8157,7 @@
 | Part-Time HR Advisor | Clear Sky Limited (Spain) | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=f68a29bd47814dc2 |
 | Reserving Actuarial Analyst | Coalition Inc. | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=7418882f3ba39d1a |
 | Remotely Piloted Aircraft Systems Platform I.T./Network Spec | MDA Space | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4407958282 |
+| Social Media Specialist | Everbrave | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417577211 |
+| Rail Systems Integration Lead | Mott MacDonald | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4341521976 |
+| Lead Project Counsel – Transportation & Infrastructure | WSP in Canada | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4375538155 |
+| 70240 Associate MPC Deerfoot City Calgary | Winners | 2026-05-23 | G | https://ca.indeed.com/viewjob?jk=01126811e9ff1da6 |
