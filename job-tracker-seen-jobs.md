@@ -8165,3 +8165,11 @@
 | transportation logistics manager | Sursinghia Transport | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=6ac0e0803d2f4061 |
 | Health & Safety Administrator (HSA) | Armour Equipment | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=27cd66aa49aec513 |
 | Audio Quality Assurance Specialist | $50/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4417560548 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418636503 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418621432 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418628518 |
+| Audio Quality Assurance Specialist | $50/hr Remote | Crossing Hurdles | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4417560548 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418632433 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418619454 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418630435 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418625454 |
