@@ -8108,3 +8108,17 @@
 | Client Care Specialist - Centre Street Veterinary Clinic | VetCare Canada | 2026-05-23 | G | https://ca.indeed.com/viewjob?jk=f56e53e37288ed7a |
 | Customer Service Representative | BMO | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4418471232 |
 | Implementation Specialist | AbaData | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4418460915 |
+| HSE Advisor | SECURE | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=dc8dfd785c4698ec |
+| Customer Service Specialist, Parking and Transportation | University of Calgary | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=69062eba5457245e |
+| Health & Safety Coordinator | FlatironDragados | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=f4f489da94655342 |
+| Learning Operations Specialist | KPMG Canada | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418478730 |
+| Senior Design Coordinator | HDR | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4407942856 |
+| Store Lead | Moores Clothing | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4409521536 |
+| Vehicle Inspection Specialist | OPENLANE | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4407255860 |
+| Intermediate to Senior Transportation Design Engineer | WSP in Canada | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417534825 |
+| Anthropologie Back of House Specialist | Anthropologie | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=3a2e3871cce629b2 |
+| HSE Administrator | SECURE | 2026-05-23 | N | https://ca.indeed.com/viewjob?jk=4a3175dba504b6ed |
+| office administrator | Sunder Building Supplies | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4418477621 |
+| Administrative Assistant, Assurance & Accounting | MNP | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4417534629 |
+| Administrative Support IV | Alberta Precision Labs | 2026-05-23 | G | https://ca.indeed.com/viewjob?jk=b97cd7287b91f400 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4417546628 |
