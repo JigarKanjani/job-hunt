@@ -8086,3 +8086,25 @@
 | Investment & Retirement Specialist | Canada Life | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4417505381 |
 | Investment Specialist | BMO | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418422382 |
 | HSE Advisor | SECURE | 2026-05-22 | G | https://www.linkedin.com/jobs/view/4418437651 |
+| Parts Support Analyst | PBS Systems | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=6820ffd96ac23a58 |
+| Materials Pricing Analyst | CDN Controls ULC | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=e0407827e148144e |
+| Senior Analyst, Operating Cost (Calgary, AB) - Hybrid | Enbridge | 2026-05-23 | J | https://ca.indeed.com/viewjob?jk=8d5776279fbf5bd0 |
+| Business Development and New Ventures Analyst & Senior Analy | Pembina Pipeline Corporation | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418479253 |
+| Parts Support Analyst | PBS Systems | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4414384760 |
+| Recruitment System Specialist | FLINT Corp. | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4418483147 |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417555136 |
+| Associate Specialist - Scheduling | Parkland Corporation | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417549200 |
+| Leasing Specialist | Boardwalk | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417533684 |
+| Client Benefits Advisor (Remote – Calgary Focus | Open Acros | Altig Organization- Globe Life AO | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4417553054 |
+| Research Grants Officer, Office of Research Services | University of Calgary | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4416368614 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-05-23 | J | https://www.linkedin.com/jobs/view/4414392680 |
+| Client Services Administrator - Evenings | AGAT Laboratories | 2026-05-23 | N | https://www.linkedin.com/jobs/view/4414393443 |
+| Intern, AI & Agentic Automation Engineering (Summer 2026) | Symend | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=a5ea45df59d0573b |
+| Property Administrator-Residential | Morguard | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=a2a68ec641a3cf57 |
+| Leasing Administrator-Residential | Morguard | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=4d6ce468574b4405 |
+| Project Coordinator (Infrastructure and Sustainable Energy) | GeoVerra | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=1436a8034609945b |
+| Project Coordinator (Infrastructure and Sustainable Energy) | GeoVerra | 2026-05-23 | R | https://ca.indeed.com/viewjob?jk=256877cc34988d67 |
+| Automotive Accounting Software Onboarding Specialist | PBS Systems | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4414391653 |
+| Client Care Specialist - Centre Street Veterinary Clinic | VetCare Canada | 2026-05-23 | G | https://ca.indeed.com/viewjob?jk=f56e53e37288ed7a |
+| Customer Service Representative | BMO | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4418471232 |
+| Implementation Specialist | AbaData | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4418460915 |
