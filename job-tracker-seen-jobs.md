@@ -8217,3 +8217,8 @@
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418691009 |
 | Front Desk Agent (Full-Time, Seasonal) | Accor | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=531c93f34d310bfc |
 | Front Desk Agent (Full-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417850172 |
+| Front Desk Receptionist / Guest Experience Coordinator | Hammam Retreat & Spa | 2026-05-24 | J | https://ca.indeed.com/viewjob?jk=7e43962a3c552a14 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon.com | 2026-05-24 | J | https://ca.indeed.com/viewjob?jk=1d5521893b09e5e2 |
+| Client Services Associate (Investment) | CI Financial | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417845292 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417844236 |
+| Sales Associate | Staples Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4418693142 |
