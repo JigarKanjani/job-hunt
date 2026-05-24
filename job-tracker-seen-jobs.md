@@ -8197,3 +8197,8 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418671318 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418670317 |
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418674281 |
+| Piping Field Coordinator - Energy Construction | Kiewit | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4359191578 |
+| Factory Test Specialist | CoolIT Systems | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4398721270 |
+| Project Coordinator | Oakforge Home Renovations Ltd | 2026-05-24 | N | https://ca.indeed.com/viewjob?jk=86fcef3d05c55b8a |
+| Proposal Coordinator | Aecon Group Inc. | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4398178540 |
+| Sales Associate | Talbots | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417805470 |
