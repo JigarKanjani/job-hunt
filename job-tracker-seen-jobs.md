@@ -8211,3 +8211,9 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418680859 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418673833 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418672998 |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418667934 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418677891 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418691009 |
+| Front Desk Agent (Full-Time, Seasonal) | Accor | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=531c93f34d310bfc |
+| Front Desk Agent (Full-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417850172 |
