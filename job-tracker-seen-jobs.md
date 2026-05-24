@@ -8183,3 +8183,7 @@
 | Sales Associate | Holt Renfrew | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4407283307 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417596640 |
 | Over-the-Counter Associate | Walmart Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4399321038 |
+| Oracle P2C Lead (Project Costing, Financials, Billing) | Accenture | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4387787572 |
+| Host / Hostess / Guest Service Leader - JOEY Eau Claire | JOEY Restaurant Group | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4375998037 |
+| Server / Server Liaison - JOEY Crowfoot | JOEY Restaurant Group | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4271738879 |
+| Server Liaison - JOEY Barlow | JOEY Restaurant Group | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4375976904 |
