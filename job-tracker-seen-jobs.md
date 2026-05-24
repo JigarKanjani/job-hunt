@@ -8187,3 +8187,13 @@
 | Host / Hostess / Guest Service Leader - JOEY Eau Claire | JOEY Restaurant Group | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4375998037 |
 | Server / Server Liaison - JOEY Crowfoot | JOEY Restaurant Group | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4271738879 |
 | Server Liaison - JOEY Barlow | JOEY Restaurant Group | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4375976904 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4418682128 |
+| Host / Hostess / Guest Service Leader - JOEY Barlow | JOEY Restaurant Group | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4375976885 |
+| Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4414855325 |
+| Proposal Coordinator | Clean Harbors | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4400648586 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418668372 |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418673393 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418676327 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418671318 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418670317 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418674281 |
