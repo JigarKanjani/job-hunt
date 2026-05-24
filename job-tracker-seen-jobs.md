@@ -8205,3 +8205,9 @@
 | Team Leader | Dollarama | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4360561720 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=eb38b46ee2c5d213 |
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Financial Analyst, Sales & Operations | Mountain View Lube | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4417840147 |
+| Cleaning Specialist | All Details Property Solutions | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4417847131 |
+| Program Coordinator (CF) - Employment Training Programs | Catholic Social Services Alberta | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4417843104 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418680859 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-24 | R | https://www.linkedin.com/jobs/view/4418673833 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4247390384 |
