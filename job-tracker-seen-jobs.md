@@ -8202,3 +8202,6 @@
 | Project Coordinator | Oakforge Home Renovations Ltd | 2026-05-24 | N | https://ca.indeed.com/viewjob?jk=86fcef3d05c55b8a |
 | Proposal Coordinator | Aecon Group Inc. | 2026-05-24 | N | https://www.linkedin.com/jobs/view/4398178540 |
 | Sales Associate | Talbots | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417805470 |
+| Team Leader | Dollarama | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4360561720 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=eb38b46ee2c5d213 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4247390384 |
