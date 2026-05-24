@@ -8177,3 +8177,9 @@
 | Family Law Associate | Progressive 50%–60% Fee-Split Model | | Bellagio Law | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=61f625896cb74b9a |
 | Customer Service Representative | U-Haul | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4418452674 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4414846870 |
+| Environmental Planner | Dillon Consulting Limited | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4400589247 |
+| Beauty Specialist | Loblaw Companies Limited | 2026-05-24 | J | https://www.linkedin.com/jobs/view/4418662812 |
+| Underwriting Associate | Peoples Group | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4368071632 |
+| Sales Associate | Holt Renfrew | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4407283307 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417596640 |
+| Over-the-Counter Associate | Walmart Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4399321038 |
