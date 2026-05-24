@@ -8174,3 +8174,5 @@
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418630435 |
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-23 | R | https://www.linkedin.com/jobs/view/4418625454 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-23 | G | https://www.linkedin.com/jobs/view/4417578536 |
+| Family Law Associate | Progressive 50%–60% Fee-Split Model | | Bellagio Law | 2026-05-24 | G | https://ca.indeed.com/viewjob?jk=61f625896cb74b9a |
+| Customer Service Representative | U-Haul | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4418452674 |
