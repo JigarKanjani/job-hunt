@@ -8230,3 +8230,21 @@
 | Disability Case Manager | TEEMA Group | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=df8c09d478e2db81 |
 | Stakeholder Relations Advisor | Canadian Natural Resources Limited (CNRL | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4417874390 |
 | Preventative Maintenance Associate | Boardwalk | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4417869090 |
+| HSE Coordinator | AtkinsRéalis | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418959326 |
+| Residential Service Specialist - Residential (Calgary, AB) | Morguard | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418938397 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418933849 |
+| HSE Coordinator | AtkinsRéalis | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418949439 |
+| Placement Officer | Red Deer Polytechnic | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=bb7e97e85d9544e6 |
+| HSE Coordinator | AtkinsRéalis | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=21c3258a8860504d |
+| HSE Coordinator | AtkinsRéalis | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=f6c0224cb380e716 |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418939543 |
+| Remote Financial Trading Specialist ($100/hr) - 75402 | Turing | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418946355 |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418948552 |
+| Coding Specialist | Remote | Crossing Hurdles | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4417866912 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418946461 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418944514 |
+| Remote Quantitative Analyst (Finance) - 75403 | Turing | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418954250 |
+| JavaScript Developer | $55/hr Remote | Crossing Hurdles | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4388223034 |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=2cd0d56879d14f5f |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=776d85ea04729429 |
+| Regional Maintenance Associate - Multi-Residential (Calgary, | Morguard | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418946326 |
