@@ -8248,3 +8248,30 @@
 | Electrical Construction Administrator | AtkinsRéalis | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=2cd0d56879d14f5f |
 | Electrical Construction Administrator | AtkinsRéalis | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=776d85ea04729429 |
 | Regional Maintenance Associate - Multi-Residential (Calgary, | Morguard | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418946326 |
+| Financial Planning Analyst (10 Month Term) | Calgary Airports | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418459555 |
+| Lending Specialist | BMO | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418967160 |
+| Project Coordinator | Buttcon | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4415216753 |
+| Senior Corporate Continuity Advisor | FortisAlberta | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4417898543 |
+| Project Coordinator, Construction | Bucci Developments | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418976138 |
+| Senior Specialist, Compensation | FYidoctors | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4412436302 |
+| Enterprise Account Executive (Calgary) | Verkada | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4369970362 |
+| Advisor, Product Safety (Hybrid) | NOVA Chemicals | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4391200624 |
+| Procurement Specialist | MatchBox Consulting Group | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418983017 |
+| Client Advisor, AX Chinook Centre (FT) | Giorgio Armani | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=f2d153175cdbdaed |
+| Office Administrator (part time) - Westbrook Location | Momentum Health | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=766fd16b77aa935d |
+| Corporate Communications Specialist (4 Year Term) | Calgary Airports | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418446834 |
+| Recruitment Specialist - Hr Professional - Career Move (Remo | Inspiring Lives Today | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4415219189 |
+| Client Advisor, AX Chinook Centre (FT) | Giorgio Armani | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4417877604 |
+| Senior Financial Analyst, Research Accounting | University of Calgary | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418969143 |
+| Intermediate Vegetation Specialist | Jacobs | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4369980039 |
+| Course Scheduling and Timetabling Coordinator | University of Alberta | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4415214819 |
+| Records Management Coordinator | Java Holdings Ltd | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418956969 |
+| Coordination & Administrative Assistant | UNOPS | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4414016010 |
+| Data Governance Specialist | Alberta Recycling Management Authority | 2026-05-25 | R | https://ca.indeed.com/viewjob?jk=a70c13810f46a907 |
+| Calgary Police Service - Police Information Research Special | City of Calgary | 2026-05-25 | R | https://ca.indeed.com/viewjob?jk=aa55cf57f88adc5d |
+| Financial Analyst – Investment & Document Evaluation | Remot | CapitexAI | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4417882301 |
+| Banking Research Specialist | Remote | CapitexAI | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418200121 |
+| Spa Reception Agent (Full Time) | Hyatt Regency | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418957863 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Agente de recepción de spa | Hyatt Regency | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418200521 |
