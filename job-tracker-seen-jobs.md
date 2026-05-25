@@ -8222,3 +8222,4 @@
 | Client Services Associate (Investment) | CI Financial | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417845292 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417844236 |
 | Sales Associate | Staples Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4418693142 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon Web Services (AWS) | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418912297 |
