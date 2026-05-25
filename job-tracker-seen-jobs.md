@@ -8223,3 +8223,10 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4417844236 |
 | Sales Associate | Staples Canada | 2026-05-24 | G | https://www.linkedin.com/jobs/view/4418693142 |
 | Engineering Operations Technician (EOT), Data Center Enginee | Amazon Web Services (AWS) | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418912297 |
+| Payables Attesting Analyst | Canadian Natural Resources Limited (CNRL | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4417866453 |
+| Operations Accountant, AIT | Canadian Natural Resources Limited (CNRL | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4417859503 |
+| Accounts Payable Attest Analyst | Canadian Natural Resources Limited (CNRL | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4417870408 |
+| Business Development & Client Success Lead | Transcend Solutions Inc. | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418934261 |
+| Disability Case Manager | TEEMA Group | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=df8c09d478e2db81 |
+| Stakeholder Relations Advisor | Canadian Natural Resources Limited (CNRL | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4417874390 |
+| Preventative Maintenance Associate | Boardwalk | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4417869090 |
