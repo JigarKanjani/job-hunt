@@ -8275,3 +8275,70 @@
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Agente de recepción de spa | Hyatt Regency | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418200521 |
+| Business Development Specialist - Electrical | Graybar Canada Limited | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=a8c2e457247a4168 |
+| Sales & Booking Coordinator | Mahogany Homeowners Association | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=18e688f291829529 |
+| Senior Financial Analyst | Brookfield Properties | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=41f2bffcb1bebd52 |
+| Hollow Metal Project Coordinator (Entry Level Training Oppor | Gunthers Building Center | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=d918e1489464c28e |
+| Transportation Engineer-in-Training | WATT Consulting Group | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=b2ca4287be7fd575 |
+| Parts Coordinator | MK Auto Group | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=ed0458bb3fc278e1 |
+| Branch Care Coordinator | Air Liquide | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=88f43040237dbf1e |
+| Community Support Coordinator Community Link (1 Permanent Fu | Calgary Alternative Support Services | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=de1a1d8a560b0090 |
+| Senior Financial Analyst, Research Accounting | University of Calgary | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=8716048c129fcbd5 |
+| Company Safety Officer - Calgary Shop | Alstar Group of Companies Ltd. | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=af80e48fbdada347 |
+| FRACTURING TECHNICAL SPECIALIST/TRAINEE – (CAT) | Trican Well Service | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=c87bd73719213483 |
+| Guest Services Leader | Pilot Flying J | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=ae9025530272e660 |
+| Supply Chain Manager | Cross Country Canada Supplies and Rental | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=d2553a7da6d478e3 |
+| AltaGas - Jr. Project Control Analyst | AltaGas | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=260f42f8208eb717 |
+| EDI Engagement Coordinator (Permanent Part-Time) | Red Deer Polytechnic | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=a93f794e8ca2a78c |
+| Senior Treasury Analyst | Rohit Group | 2026-05-25 | J | https://ca.indeed.com/viewjob?jk=0db6ae48567182e9 |
+| Assistant Buyer | Lammle's Western Wear | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418218305 |
+| AltaGas - Jr. Project Control Analyst | AltaGas Ltd. | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418215204 |
+| Inventory Accountant | Superior Gas Liquids | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4415245442 |
+| Customer Experience Specialist | Engage Building Products | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418219048 |
+| Administrative Coordinator | Invest Alberta | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418201908 |
+| Business Planning Senior Analyst or Analyst | Pembina Pipeline Corporation | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418987825 |
+| Senior Analyst, Merchandising & Mapping | Loblaw Companies Limited | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418998373 |
+| Coordinator, Learning & Development | Calgary Airports | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4418993203 |
+| Land Senior Analyst and Land Negotiator Advisor | Pembina Pipeline Corporation | 2026-05-25 | J | https://www.linkedin.com/jobs/view/4419109415 |
+| FRONT DESK RECEPTIONIST (Client Experience Coordinator) | SELIS BEAUTY | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=847dfa56cfa7ccce |
+| HSE Coordinator | Canoco | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=4ac9e9ff2405e420 |
+| Community Outreach Advocate | The Mustard SEED Society | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=841edb1f16eef98a |
+| Community Access Outreach Worker | Calgary John Howard Society | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=e81a36938b472d9d |
+| Dementia Support Navigator - Community Inclusion | Alzheimer Society of Calgary | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=c4474e8d34f2370d |
+| Youth & Family Counsellor I / II | Wood's Homes | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=29274f73791da55a |
+| IT Systems Administrator - 1.0 FTE - CO - Probationary | Foundations for the Future Charter Acade | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=86ababb8525d34fa |
+| Program Coordinator (CP) - LVA | Catholic Social Services | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=e439c72beab1d863 |
+| Project Administrator/Safety Coordinator - On-Site | MCL Power Inc | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=b69f29af7aa683c3 |
+| Concierge Service Case Manager | HUB International | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=9a86aa6bc224c9e5 |
+| Athletics Services Coordinator | Red Deer Polytechnic | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=447e95bfa84e37c1 |
+| Team/Business Coordinator | Cushman & Wakefield | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=2affe9c5154e32b6 |
+| Commercial Property Coordinator | Lansdowne Equity Ventures Ltd./LandBank  | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=f850ecf22b1c6fbd |
+| Branch Care Coordinator | Air Liquide | 2026-05-25 | N | https://ca.indeed.com/viewjob?jk=e9cf805b1ef9cfc8 |
+| Project Coordinator - Multi-Family Residential | Axiom Builders | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418992133 |
+| Administrative Assistant | CIBC | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418997693 |
+| Specialist, Talent Programs | Calgary Airports | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418993204 |
+| People & Culture Advisor | Heritage Park Historical Village | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418996471 |
+| Project Administrator | Aecon Group Inc. | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418225001 |
+| Lending & Portfolio Services Specialist (15 Month Contract) | Peoples Group | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418207182 |
+| Leasing Coordinator | MLA Canada | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4417885964 |
+| Coordinator, Electrical - Major Projects | Calgary Airports | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418985810 |
+| Enhanced Outbound Advisor | ATCO | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418215166 |
+| Financial Advisor - CIRO-MFD | CIBC | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418997694 |
+| Senior Financial Advisor - 7th & 7th, Calgary, AB | Scotiabank | 2026-05-25 | N | https://www.linkedin.com/jobs/view/4418211137 |
+| Library System Analyst | Insignia Software Corporation | 2026-05-25 | R | https://ca.indeed.com/viewjob?jk=212ed79fde88bdfd |
+| Compliance Assurance Analyst | ATB Financial | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4419100620 |
+| Data Annotation Specialist, Safety | Cohere | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418219266 |
+| AML Risk & Methodology Specialist | AMA - Alberta Motor Association | 2026-05-25 | R | https://www.linkedin.com/jobs/view/4418998405 |
+| Customer Service and Administration Assistant | VOLLEYBALLSTUFF | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=616ed45afd03d7ad |
+| Receptionist - Northland Volkswagen | AutoCanada | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=a6452592889b8bc2 |
+| Licensed Barber or Hairstylist – Hair System Installation Sp | SELIS BEAUTY | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=4bccb0338cf07bdb |
+| Community Engagement Facilitator | Alzheimer Society of Calgary | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=1323800cf866ca6d |
+| Business Development Associate | Pkf Antares Professional Corporation | 2026-05-25 | G | https://ca.indeed.com/viewjob?jk=5004c83c69af97d3 |
+| Receptionist - Northland Volkswagen | AutoCanada | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418223080 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418216186 |
+| Personal Banking Associate | BMO | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418998532 |
+| Sales Associate | WIRELESSWAVE / WAVE SANS FIL | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418222120 |
+| Neurodiversity Support Advisor, Student Accessibility Servic | University of Calgary | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4419101523 |
+| Personal Banking Advisor - Calgary Westwinds | ATB Financial | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4415567670 |
+| Pipeline Scheduler | South Bow | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418202707 |
+| Document Control Specialist III | JSG (Johnson Service Group, Inc.) | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418210335 |
