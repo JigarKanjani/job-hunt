@@ -8375,3 +8375,71 @@
 | Corporate Engagement Associate | United Way of Calgary and Area | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418256592 |
 | Summit Readiness Associate, Commercial Development Programs  | Scotiabank | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4408954602 |
 | North American Plant Controller | Robert Half | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418263400 |
+| Sales Coordinator | Northwest Tank Lines | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=93cafe132c2631e5 |
+| Operations Engineer - Secondment | Rheaume Engineering Inc | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=3f7ee9e35993dd48 |
+| Safety Coordinator, AB Canada | Safety Worxs | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=a3f7b67df82d951c |
+| Asset & Shop Coordinator | Milo Electric and Plumbing | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=a0a9c47b1956c3d7 |
+| Construction Project Coordinator | West Cirque Construction Inc | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=1e756419e0fdf366 |
+| Department Leader (nights) | Princess Auto | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=49364ade0f9fdfb1 |
+| Construction Coordinator | The Sutherland Group of Companies | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=a87edf7048fa2a89 |
+| Maintenance Analyst | Tourmaline Oil Corp | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418507167 |
+| Lead Coordinator - Equipment Buying Program (12-Month Term) | Parkland Corporation | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4416843867 |
+| Business Analyst – Financial Systems | Convverge, Inc | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419520732 |
+| Financial Planning & Analysis (FP&A Analyst), Seismic Soluti | Computer Modelling Group | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419521234 |
+| Senior Analyst- Distribution Strategy & Onboarding | WestJet | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419483840 |
+| IT Business Analyst | iA Financial Group (Industrial Alliance) | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419480965 |
+| Dynamics 365 F&O Senior Supply Chain Management Consultant | BDO Canada | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419513347 |
+| Inside Sales Specialist | OSP Microcheck | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419516180 |
+| Quality Network - Project Coordinator | EY | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4416835710 |
+| Field Project Coordinator | Azuria Water Solutions | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418291725 |
+| SENIOR ADVISOR, PRODUCT DEVELOPMENT AND SRATEGIC INITIATIVES | BDC | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418519166 |
+| Field Project Coordinator | INSITUFORM TECHNOLOGIES LIMITED | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419504044 |
+| Material Hanlder Sleeman | Ryder System, Inc. | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418517185 |
+| Cultural Programming and Events Coordinator, Student Experie | University of Calgary | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419514645 |
+| Material Treatment and Testing Technician | Carbon Upcycling Technologies | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418503122 |
+| Project Civil Coordinator - NPI - Mining & Metals | Ausenco | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418286820 |
+| Oracle Fusion ERP Technical Reports and OIC Consultant | IBM | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4416835744 |
+| Senior Analyst, Real-World Evidence (RWE) Platform | University of Calgary | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419520633 |
+| Care Coordinator | Lifemark Health Group | 2026-05-26 | N | https://ca.indeed.com/viewjob?jk=54193b9c8105270d |
+| Project Coordinator - Millwork & Commercial Projects | Cabinet Expressions Ltd. | 2026-05-26 | N | https://ca.indeed.com/viewjob?jk=7c98625233ea9175 |
+| Sales Enablement Coordinator | NextGen Automation | 2026-05-26 | N | https://ca.indeed.com/viewjob?jk=b8663acb32c7e1d4 |
+| Care Coordinator - Administrative Support | Genuine Home and Health Services | 2026-05-26 | N | https://ca.indeed.com/viewjob?jk=0b6c2d944194dbd2 |
+| Project Administrator | Klohn Crippen Berger | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4418504522 |
+| Program Manager, Digital Customer Success | Clio | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4418281752 |
+| Residential Leasing Coordinator | Royop | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4419526592 |
+| Insolvency Advisor | BDO Canada | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4419528245 |
+| Specialist, Relay For Life Youth, Fundraising | Canadian Cancer Society | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4414772726 |
+| Analyst, Benefits - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4416860036 |
+| Technical Program Manager / Strategic Delivery Lead | ResolvMD | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4418279999 |
+| Personal Trainer | Inside Out Total Wellness | 2026-05-26 | R | https://ca.indeed.com/viewjob?jk=0765b18b2da07ecc |
+| IT Business Analyst | FLINT Corp. | 2026-05-26 | R | https://ca.indeed.com/viewjob?jk=e10744252b3b03eb |
+| Computer Network and Systems Technician | Atlas trailer Coach Products | 2026-05-26 | R | https://ca.indeed.com/viewjob?jk=4bd5b6bc7ac2223b |
+| IT Support Analyst | Precision Well Servicing | 2026-05-26 | R | https://ca.indeed.com/viewjob?jk=b0787df17091eda4 |
+| Analyste en soutien technique - 12 mois | Co-operators Assurance et services finan | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4418299887 |
+| Technical Support Analyst - 12 months | Co-operators | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419520845 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419489146 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419485312 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419498122 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419481845 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419486361 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419482506 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=e081cfb750e5a73b |
+| Customer Service Representative (Part Time) | Best Buy | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=e41cc4d8c453663b |
+| Customer Service Representative | Saint-Gobain | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=0d366d2c33e9ed49 |
+| Customer Service Representative (Part Time) | Best Buy | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=3489eb4a81081a62 |
+| Sales Associate - Hyatt Infiniti | AutoCanada | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=500df251df146995 |
+| Customer Service Representative - South (Part Time) | YMCA Calgary | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=af26076caeb2ddfb |
+| Sales Associate -Temporary/Full-time (Glenbrook) - Canada Su | Women In Need Society | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=4427e814c4894da9 |
+| Customer Service Instant Return Representative | Hertz | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418296663 |
+| Customer Service Associate - Hardware | RONA | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4419505604 |
+| Customer Service Associate GARDEN CENTER | RONA | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4419499983 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418510376 |
+| Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4416836617 |
+| Customer Service Representative (Motivator) - Calgary Mount  | GoodLife Fitness | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4416853276 |
+| Building Services Coordinator | Armco | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4419509992 |
+| Customer Service Rep - Residential Properties (Live-out) | Boardwalk | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418284516 |
+| Service Desk Associate: Part Time - NORTH HILLS | The Home Depot Canada | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418296538 |
+| Customer Service Representative | LodgeLink | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4416832820 |
+| Game Facilitator | Activate Games | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4419465773 |
+| Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4416841283 |
+| Investment Specialist | BMO | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4417402183 |
