@@ -8352,3 +8352,26 @@
 | Customer Experience Associate | TD | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=bb30c1fdb32c5cc0 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4415259283 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4415275219 |
+| Shipping/Receiving Coordinator (Temporary) | ChampionX | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4409736132 |
+| Intermediate Project Controls Analyst | WSP in Canada | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418269256 |
+| Project Coordinator | Integricon | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418259396 |
+| Managed Services Coordinator | Benevity | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418272132 |
+| GTM Operations Analyst, Lead | Benevity | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418262231 |
+| MineStar Application Specialist | Caterpillar Inc. | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4415548484 |
+| Pursuit Leader | Arcadis | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4416824161 |
+| GRC Analyst | Benevity | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418266228 |
+| Enterprise Account Executive | Benevity | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418269178 |
+| GRC Analyst | Benevity | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418261251 |
+| Business Coordinator | TEKsystems | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4419199591 |
+| Philanthropy Officer | United Way of Calgary and Area | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4418264475 |
+| AI Training Specialist (Global Egocentric Video) | Toloka Annotators | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4419414704 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4408999785 |
+| Online Data Analyst | Part-time in Canada | TELUS Digital AI Data Solutions | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419442055 |
+| Golang Developer | $80/hr Remote | Crossing Hurdles | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4418230836 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4419412574 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=9608bd75e7d1cc5f |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=c2694ffa8ac94d06 |
+| Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=136e2d328ca981e1 |
+| Corporate Engagement Associate | United Way of Calgary and Area | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418256592 |
+| Summit Readiness Associate, Commercial Development Programs  | Scotiabank | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4408954602 |
+| North American Plant Controller | Robert Half | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4418263400 |
