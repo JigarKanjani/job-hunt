@@ -8342,3 +8342,13 @@
 | Personal Banking Advisor - Calgary Westwinds | ATB Financial | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4415567670 |
 | Pipeline Scheduler | South Bow | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418202707 |
 | Document Control Specialist III | JSG (Johnson Service Group, Inc.) | 2026-05-25 | G | https://www.linkedin.com/jobs/view/4418210335 |
+| Service Advisor & Customer Experience Coordinator | Western Tractor | 2026-05-26 | J | https://ca.indeed.com/viewjob?jk=9b38ee30a420af76 |
+| Lead, Executive Operations | Alberta Health Services | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418249361 |
+| Technical Business Analyst | Boardwalk | 2026-05-26 | J | https://www.linkedin.com/jobs/view/4418248363 |
+| Program Coordinator (CF) - Employment Training Programs | Catholic Social Services Alberta | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4418247378 |
+| Strategic Initiatives Officer | University of Alberta | 2026-05-26 | N | https://www.linkedin.com/jobs/view/4415263311 |
+| Service Desk Technician | ARC BUSINESS SOLUTIONS | 2026-05-26 | R | https://ca.indeed.com/viewjob?jk=5bd4cafb718c74ce |
+| Support Analyst | ATB Financial | 2026-05-26 | R | https://www.linkedin.com/jobs/view/4418032168 |
+| Customer Experience Associate | TD | 2026-05-26 | G | https://ca.indeed.com/viewjob?jk=bb30c1fdb32c5cc0 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4415259283 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4415275219 |
