@@ -8443,3 +8443,34 @@
 | Game Facilitator | Activate Games | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4419465773 |
 | Leasing and Site Administrator (6 month Contract) | GWL Realty Advisors | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4416841283 |
 | Investment Specialist | BMO | 2026-05-26 | G | https://www.linkedin.com/jobs/view/4417402183 |
+| Project Coordinator | The Roof Hospital | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=37d1273efdd46580 |
+| Dynamics 365 F&O Senior Supply Chain Management Consultant | BDO | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=d7a0085f4b02a2b3 |
+| Benefits Analyst | CPKC | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=ad93a65251aae6fa |
+| Transportation Supervisor | Core-Mark International, Inc. | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=9da4ebe6110b6597 |
+| Inventory Planner | City of Edmonton | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=39508d3d3057c093 |
+| Logistics Coordinator | ZEROCOR Tubulars | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418539282 |
+| Benefits Analyst | CPKC | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419555978 |
+| Production Coordinator | Startec Compression & Process and Starte | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418541554 |
+| Project Coordinator | Dexterra Group | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419576441 |
+| Transportation Supervisor | Core-Mark International | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418521928 |
+| Managed Products Technical Coordinator | Startec Compression & Process and Starte | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418532620 |
+| Parts Advisor (Mercedes-Benz South Calgary) | Go Auto | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419532914 |
+| Specialist Disability Management | CPKC | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419575752 |
+| Project Planner, Post Graduate | Mount Royal University | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4416873269 |
+| Project Electrical HV Coordinator (NPI) – Mining & Minerals | Ausenco | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418536462 |
+| Real Estate Transaction Coordinator | Scout & Spruce Consulting Inc | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=f18da4b21294a387 |
+| Coordinator, Utility Generalists | City of Calgary | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=4306cb59cb396fb0 |
+| administrative coordinator | OMEGA FIRE MINISTRIES CALGARY BRANCH 2 | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=22353c95d9f4b8b2 |
+| Quality Network - Project Coordinator | EY | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=dcb7821c27474430 |
+| Parts Advisor (Mercedes-Benz South Calgary) | Go Auto | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=a4ad9067dca244d9 |
+| Lead Coordinator - Equipment Buying Program (12-Month Term) | Parkland Corporation | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=89ac5ba6d5f57ad9 |
+| Centre Coordinator | Rocky View Foundation | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=42bf940eb07cfb77 |
+| Project Administrator | Klohn Crippen Berger | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419539528 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419560967 |
+| Senior Financial Advisor - Bridlewood, Calgary, AB | Scotiabank | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419561883 |
+| Sales BDC Specialist (Macleod Trail Toyota) | Go Auto | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419552703 |
+| RPA / Automation Specialist | XCIS Consulting Inc | 2026-05-27 | R | https://ca.indeed.com/viewjob?jk=6d175438ff13300f |
+| Business Analyst and IT Coordinator | EFW Radiology | 2026-05-27 | R | https://ca.indeed.com/viewjob?jk=a462e1ade5a67794 |
+| Application Specialist - Valves & Actuation (Temporary 18 mo | Spartan Controls | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4418545696 |
+| Volumetric Accounting Analyst | South Bow | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4418518755 |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4419574858 |
