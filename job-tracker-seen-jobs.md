@@ -8474,3 +8474,16 @@
 | Application Specialist - Valves & Actuation (Temporary 18 mo | Spartan Controls | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4418545696 |
 | Volumetric Accounting Analyst | South Bow | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4418518755 |
 | Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4419574858 |
+| Production Coordinator | Startec | 2026-05-27 | J | https://ca.indeed.com/viewjob?jk=93c0d9c996601f3a |
+| Marketing Coordinator | Norton Rose Fulbright | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419579915 |
+| Intermediate/Senior Environmental Specialist | SUMMIT | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418558563 |
+| Family Counsellor | Recovery Alberta | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=56c261684d67d7f0 |
+| Family Counsellor - Emerging Adult Service Engagement/Design | Recovery Alberta | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=c20402610351a11e |
+| Coordinator I | Alberta Health Services | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4418576097 |
+| social media coordinator | Jai Homes | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419581893 |
+| Administrative Support IV | Recovery Alberta | 2026-05-27 | G | https://ca.indeed.com/viewjob?jk=0d7dfbe97bd6cc0f |
+| Renewal Agent | Boardwalk | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418563759 |
+| Customer Service Rep - Residential Properties (Live-in) | Boardwalk | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418562716 |
+| Overnight Associate | Walmart Canada | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418567418 |
+| Preventative Maintenance Associate | Boardwalk | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418562718 |
+| Administrative Support III | Alberta Health Services | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418554921 |
