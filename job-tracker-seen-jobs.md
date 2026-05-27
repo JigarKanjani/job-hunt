@@ -8487,3 +8487,22 @@
 | Overnight Associate | Walmart Canada | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418567418 |
 | Preventative Maintenance Associate | Boardwalk | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418562718 |
 | Administrative Support III | Alberta Health Services | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418554921 |
+| Business Analyst | ZealoTech People | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418807088 |
+| Master Data Analyst | BuzzClan | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4417219762 |
+| Senior Data Analyst | FTI Consulting | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4419876207 |
+| Accounting Operations Coordinator | Western Financial Group | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4409749244 |
+| Legal Coordinator | Trans Mountain | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4418517422 |
+| Virtual Mortgage Specialist - Calgary, AB | Scotiabank | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4400067726 |
+| Data Annotation Specialist, Modern Standard Arabic (MSA) | Cohere | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4409724429 |
+| Data Annotation Specialist, Arabic Language Najdi/Hijazi Dia | Cohere | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4409712631 |
+| Lead Data Scientist Stochastic Modeling | S&P Global | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4378401857 |
+| Inventory Planner (ID: 55290) | City of Edmonton | 2026-05-27 | J | https://www.linkedin.com/jobs/view/4416848985 |
+| Project Coordinator | Site Resource Group Limited Partnership | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=92fd0e167ddc3724 |
+| Project Coordinator | Site Resource Group Limited Partnership | 2026-05-27 | N | https://ca.indeed.com/viewjob?jk=ac966d8a26274736 |
+| Administrative Assistant | The Vantage Talent Group | 2026-05-27 | N | https://www.linkedin.com/jobs/view/4419867707 |
+| Data Analyst with a particular focus in emissions compliance | Azzera | 2026-05-27 | R | https://ca.indeed.com/viewjob?jk=71804bfd82272aba |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4419858903 |
+| Research Analyst (Remote) | Hire Feed | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4419870576 |
+| Financial Analyst (Remote) | Hire Feed | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4419858738 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-27 | R | https://www.linkedin.com/jobs/view/4419852754 |
+| Customer Service Representative (Calgary Sunridge) | Trail Appliances AB/SK | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4419891112 |
