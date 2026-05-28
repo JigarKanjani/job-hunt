@@ -8755,3 +8755,33 @@
 | Document Controller | Stantec | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420610152 |
 | Customer Service Representative- Canadian Resident | Aspira | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420618075 |
 | Customer Service Representative- Canadian Resident | Aspira | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420605535 |
+| Event Experience Coordinator | e=mc2 events | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=d6ea72686f25d111 |
+| Senior Accounts Payable Coordinator | SINOPEC CANADA ENERGY LTD. | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=1521e8f9e87e154c |
+| Senior Consultant, Environmental Compliance Advisor (Permitt | Environmental Resources Management | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=9e61faa24c0e9363 |
+| Service Coordinator - Up to 18-month contract | Arpac Storage Systems | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=a3d959a92e1b0c74 |
+| Safety Program Analyst | Rockwell Automation | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=037c73e19472666d |
+| Service & Operations Planning Lead | Finning | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419353328 |
+| Safety Program Analyst | Rockwell Automation | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420623772 |
+| Entry Level Client Services Coordinator | ParaMed Home Health Care | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420628347 |
+| Senior Analyst, Credit Risk (Future Opportunities) | Neo Financial | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420630292 |
+| M&E Coordinator - CANA Construction Co. Ltd. | CANA Group of Companies | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417683429 |
+| IBM Maximo (MAS ) Technical Specialist | Accenture | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419344425 |
+| Senior Media Buyer at AIOS — Remote, $150k–$250k/yr inc equi | AIOS | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420603599 |
+| Scheduling Officer | Bow Valley College | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=9e43a102a45ff07b |
+| Volunteer Coordinator (Term Position, 20 hours a week) | MNP Community and Sport Centre | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=fc12561dcc70b9d8 |
+| Entry Level Client Services Coordinator | ParaMed Home Health Care | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=4a3b41ebf9f5f804 |
+| Project Coordinator (Temporary maternity leave coverage posi | Blue Mountain Power Co-op | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=d0bda7f0a011835e |
+| Organizational Effectiveness Coordinator' | Agilus Work Solutions | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419348520 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417695074 |
+| Curriculum Coordinator | University of Alberta | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420630394 |
+| Caseworker - 14-Month Contract | Cencora | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417683260 |
+| Service Administrator | Wajax | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420637292 |
+| Junior Product Analyst | Appletree Medical Group | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=87105b5be00ce0c7 |
+| IT Systems Administrator | First Nation Land Governance Registry In | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=70db8fd452d9f32f |
+| System Analyst Scheduling Intern | Pembina Pipeline Corporation | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420627627 |
+| Specialist, Systems | Canada Mortgage and Housing Corporation  | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420621789 |
+| Payroll Administrator (Permanent - Fulltime) | The Brenda Strafford Foundation | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420615953 |
+| Business Analyst | TEEMA | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419333524 |
+| School Secretary/Office Assist | Calgary Board Of Education | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=a9c36fed01bdc319 |
+| Administrative Secretary E Schools | Calgary Board Of Education | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=f0335491fe32f934 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4417699068 |
