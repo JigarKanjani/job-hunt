@@ -8695,3 +8695,63 @@
 | Guest Services Agent | Hilton Garden Inn Calgary Airport | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=5e203f61a85c9904 |
 | Billing Agent | Englobe | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419092721 |
 | Global Mobility Tax - Associate | Vialto | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4210552863 |
+| Senior Logistic Specialist | Cascades | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=fa0013357d4d7dfe |
+| Payroll Analyst | AltaLink | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=c15b807c01aabc55 |
+| Engineering Lead, Distribution | Iconic Power Systems Inc. | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=4c616cd5d89e18ba |
+| Estimator Construction Project Coordinator | Glacier West | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=52dd645042685298 |
+| Full Time Sales Lead | Pandora Jewelry | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=3c3ac3699d9b0463 |
+| Business Analyst, Innovation | MNP | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419318334 |
+| Junior Buyer | Roofmart | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420606741 |
+| Senior Procurement Specialist | URUS Group | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419342030 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417682051 |
+| Analyst or Associate Risk Management Solutions | National Bank of Canada | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417676331 |
+| Business Development Specialist | WTS Logistics Inc | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419304802 |
+| Operations Accountant | Canadian Natural Resources Limited (CNRL | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4418272980 |
+| Senior Fleet Transactions Specialist | WestJet | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420608169 |
+| Estimation Lead | Startec Compression & Process and Starte | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420494635 |
+| Payroll Analyst | AltaLink | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420487882 |
+| Analyste ou associé solutions de gestion des risques | National Bank of Canada | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417660745 |
+| Client Services Specialist | MNP | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419320312 |
+| Corporate Security Specialist | Parkland Corporation | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417690049 |
+| Sales / Business Development Specialist | W3Global | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419315413 |
+| Ports & Marine Market Leader | CIMA+ | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420621030 |
+| Software Quality Assurance Analyst | OPI | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419338004 |
+| Team Lead, Business Applications | Helical Pile Solutions Ltd. | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420606847 |
+| Team Leader | Dollarama | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417666652 |
+| Senior Investor Relations Advisor | Canadian Natural Resources Limited (CNRL | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4414766589 |
+| Operations, Supply Chain & Procurement Professionals | Raise Workforce | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4414222299 |
+| Case Worker | Homes for Heroes Foundation | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=e92a23693b83008a |
+| Service Admin Coordinator | Levitt-Safety | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=f717dfc25f01fef7 |
+| Wellness Coordinator | Native Counselling Services of Alberta | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=3aeb3a671668e336 |
+| Construction Accounting Coordinator / Senior Bookkeeper | Chalex Construction Ltd. | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=1525645860ca9898 |
+| Social Worker - Contract | South Calgary Primary Care Network | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=00129f3fe9aac1ae |
+| Social Worker | South Calgary Primary Care Network | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=1d3b1cab98ee07f8 |
+| Research Coordinator, Faculty of Social Work | University of Calgary | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420626102 |
+| Intake Specialist | MSH Americas -  Diot-Siaci Group | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420610980 |
+| Sexual and Gender-Based Violence Support Advisor | University of Calgary | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420614697 |
+| Sales (Fitness Advisor) - Calgary Canyon Meadows | GoodLife Fitness | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417658927 |
+| Sales (Fitness Advisor) - Calgary Richmond Square | GoodLife Fitness | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417659945 |
+| Custodial and Event Support Worker | Heritage Park Historical Village | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420605947 |
+| Elementary Teacher & Campus Office Administrator | OneSchool Global | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417674882 |
+| Youth Case Coordinator – Employment Navigation | E4C | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420490994 |
+| Curriculum Coordinator | University of Alberta | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417680438 |
+| Data Developer | Tundra Oil and Gas | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=d0420612e0d6e717 |
+| Collateral Management Analyst | Alberta Investment Management Corporatio | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=fcb6fa9add604430 |
+| Engagement & Reporting Analyst | Indotronix Avani Group | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419343285 |
+| Intermediate Process Engineer | Tetranex Solutions Inc. | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4417674884 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420493284 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420496352 |
+| Desktop Support Engineer | Berean Group International, Inc. | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420605339 |
+| Network Administrator | Robert Half | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419355087 |
+| Administrative Assistant for Fund Development & Events and C | Alberta Adolescent Recovery Centre | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=87f90eb2110aef7c |
+| Customer Service Representative | Cornerstone Building Brands | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=5147179256f9693e |
+| Area Sales Associate | Genesis Land Development Corp. | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=e72fb4d934a25f65 |
+| Summer Student - Administrative | ENVIROS | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=1fa7b3132c3782f3 |
+| Wealth Associate | National Bank of Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4417659897 |
+| Receptionist | Christ The Redeemer Catholic Schools | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419325058 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4417682159 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419334252 |
+| Personal Banking Associate | BMO | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420621186 |
+| Document Controller | Stantec | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420610152 |
+| Customer Service Representative- Canadian Resident | Aspira | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420618075 |
+| Customer Service Representative- Canadian Resident | Aspira | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420605535 |
