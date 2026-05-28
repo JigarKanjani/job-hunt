@@ -8566,3 +8566,38 @@
 | Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4418858084 |
 | Customer Service Associate - Hardware | RONA | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4419955350 |
 | Garden center Customer Service Associate - Temp | RONA | 2026-05-27 | G | https://www.linkedin.com/jobs/view/4419963100 |
+| Credit Analyst | Dynamic Capital Equipment Finance | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=4d4716c30bdd8748 |
+| Team Leader (On Call) - Community Stabilization | Wood's Homes | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=14f7b5255a65e165 |
+| Senior Application System Analyst | Sobeys | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=ed32d83207097ae9 |
+| Project Coordinator - Enterprise Program Office (Term) | Edmonton International Airport | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=49818eb17be6461c |
+| Crude Oil Scheduling Analyst | Enbridge | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=1899432c708cb5d0 |
+| Logistics Coordinator | DMC Recruitment Group | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419953391 |
+| HR Analyst | Mount Royal University | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417281108 |
+| Procurement Manager | DSJ Global | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417277247 |
+| Parts Advisor (Macleod Trail Toyota) | Go Auto | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419993459 |
+| Payroll Coordinator | Roneta | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4418868761 |
+| Talent Acquisition Specialist | Bird Construction | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420210330 |
+| Product Lead – Row Crop Fungicides, Insecticides, Plant Grow | Syngenta | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419995386 |
+| Inside Sales Team Lead | DMC Recruitment Group | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420230263 |
+| Family Support Counsellor I / II - Youth Community Support P | Wood's Homes | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=3af5d5b636f50b35 |
+| Learning Systems & Instructional Design Specialist | TransAlta Corporation | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=66362cd3132be141 |
+| Principal Analyst, Large Load Intelligence - 26150 | Enverus | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=77cbf4849813f165 |
+| Human Resources Coordinator | Harbor of Health Home Care Services Inc. | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=b7fa827989496e9a |
+| Financial Systems Support Advisor | TransAlta Corporation | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=d3beb07bf06e7c89 |
+| Administrative Assistant | Pantheon Inc | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4418875059 |
+| Administrative Assistant III | Brunel | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4418853933 |
+| Benefits Specialist - No Experience Required - Remote | American Income Life Insurance Company | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420232053 |
+| Virtual Business Advisor, Canadian Banking - Calgary | Scotiabank | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4418891070 |
+| Sales BDC Specialist (Macleod Trail Toyota) | Go Auto | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419991510 |
+| Lead Grants Specialist | Government of Alberta | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4418885405 |
+| Delivery Coordinator : Full Time (ACHESON) | The Home Depot Canada | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4418870564 |
+| Associate, Large Load Intelligence - 26150D | Enverus | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=03de95e35e0362f2 |
+| Performance Analyst | City of Edmonton | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=1064cbf8a62a3696 |
+| Business Analyst Level III (Remote) | Neumo Holdings LLC | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=bddde83462c7d27a |
+| Business Intelligence Developer (Informatica & Azure Data Fa | TEKsystems | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419982661 |
+| Business Intelligence Developer (Informatica & Azure Data Fa | TEKsystems | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419976920 |
+| HRIS Analyst | RECRUITMENT PARTNERS INC. | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419982517 |
+| Associate, Power Assets - 26209 | Enverus | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=dc9ab4af1ba89e3b |
+| Pro Account Sales Associate: Full Time - TUSCANY | The Home Depot Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4418878172 |
+| Customer Experience Specialist | Tesla | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420214812 |
+| Summit Readiness Associate, Commercial Development Program ( | Scotiabank | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4418885358 |
