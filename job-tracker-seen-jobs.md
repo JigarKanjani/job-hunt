@@ -8653,3 +8653,45 @@
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420420326 |
 | Development Coordinator, Medicine Development, VP Developmen | University of Calgary | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419125621 |
 | Marketing Associate | Aramark Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420449233 |
+| Supply Chain Analyst | DV8 Energy | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=aa446e4e0e4bdd9b |
+| Estimation Lead | Startec | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=495e438c0f30b31c |
+| Senior Contract Advisor (Relocation to Saudi Arabia is requi | aramco | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420464256 |
+| Senior Logistic Specialist | Cascades | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419302224 |
+| Collateral Management Analyst | Alberta Investment Management Corporatio | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419300362 |
+| Financial Analyst | TC Energy | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417657526 |
+| Analyste, Stratégie de vente | Softchoice | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4408933771 |
+| Used Equipment Advisor - Temp | Finning | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419076781 |
+| Jr. Organizational Effectiveness Engagement Coordinator | Manpower Alberta | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419087241 |
+| SAP Security & GRC Analyst | Symhas | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419073681 |
+| Project Coordinator I | JSG (Johnson Service Group, Inc.) | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419085395 |
+| Environment Operations Lead | Canadian Natural Resources Limited (CNRL | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419095084 |
+| Marketing Coordinator | Vesta Properties | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419067937 |
+| Social Media & Content Coordinator Calgary | Wild Folk | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419091226 |
+| Senior Actuarial Insights Analyst | Co-operators | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420456218 |
+| Senior Vendor Audit Specialist | Hays | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420466773 |
+| Senior Specialist – Vendor Audit & AI Enablement (CWC) | Hays | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420447552 |
+| Elementary Teacher & Campus Office Administrator | OneSchool Global | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=d0a88228f38762e8 |
+| Property Administrator | Welcome Co | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=07aaac0043ba5102 |
+| Client Care Coordinator | IMPACT Health Innisfail | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=a08255b45eae97b5 |
+| Client Care Coordinator | IMPACT Health Innisfail | 2026-05-28 | N | https://ca.indeed.com/viewjob?jk=005ddc5972c9eba9 |
+| Child Care Centre Administrative Assistant- Mckenzie Towne,  | BrightPath Early Learning & Child Care | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420481001 |
+| Administrative Assistant III | NES Fircroft | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419097270 |
+| Residential Service Specialist - Residential (Calgary, AB) | Morguard | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420459868 |
+| Receptionist / Office Administrator | Bluestar Engineering Ltd. | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419095462 |
+| Mortgage Specialist | BMO | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4228507268 |
+| Support Specialist (Overnight) / Spécialiste du soutien | Paramount Commerce | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420466472 |
+| Financial Advisor/ Senior Financial Advisor - Crowfoot | Servus Credit Union | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419300456 |
+| Social Worker - Contract | South Calgary Primary Care Network | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417659453 |
+| Social Worker | South Calgary Primary Care Network | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417659451 |
+| Sr. Coordinator, Payroll | Trimac Transportation | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419083650 |
+| Graphic Designer and Content Coordinator | Vesta Properties | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419078598 |
+| Wellness Coordinator | Native Counselling Services of Alberta | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419084657 |
+| Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417670095 |
+| Business Analyst, Innovation | MNP | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=8d281add11201e67 |
+| Onsite Technical Support Executive | Raytech Consulting Services | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=8fa224ca96838783 |
+| Digital Marketing Specialist | Vesta Properties | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419090024 |
+| Application Engineer / Specialist – Automation and Drives | Siemens | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4389859474 |
+| Virtual Receptionist / Med Spa Patient Experience Representa | Jump Contact | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=42e49f8425337d05 |
+| Guest Services Agent | Hilton Garden Inn Calgary Airport | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=5e203f61a85c9904 |
+| Billing Agent | Englobe | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419092721 |
+| Global Mobility Tax - Associate | Vialto | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4210552863 |
