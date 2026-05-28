@@ -8601,3 +8601,25 @@
 | Pro Account Sales Associate: Full Time - TUSCANY | The Home Depot Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4418878172 |
 | Customer Experience Specialist | Tesla | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420214812 |
 | Summit Readiness Associate, Commercial Development Program ( | Scotiabank | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4418885358 |
+| Sales BDC Specialist (Macleod Trail Toyota) | Go Auto | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=0107853048bdfdce |
+| Job Posting Title (CAN) Distribution Centre Team Associate - | Walmart Canada | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417645058 |
+| (CAN) Distribution Centre Team Associate - Operations (HVDC  | Walmart Canada | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417642090 |
+| (CAN) Distribution Centre Team Associate - Operations III (H | Walmart Canada | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417642091 |
+| Implementation Specialist | AbaData | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4420281833 |
+| Senior Reclamation Specialist | Onterris | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4399778549 |
+| Azure AI Foundry Subject Matter Expert (Remote Advisory) | Prolific | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419013828 |
+| Senior Risk Specialist, NRP | Sovereign Insurance | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4410406822 |
+| Material Coordinator | Johnson Controls | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4408827228 |
+| Buyer / Purchasing Agent – Supply Chain & Procurement | Remo | Crossing Hurdles | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419016787 |
+| Sr Associate, Tax Process Strategy & Solutions | RSM | 2026-05-28 | R | https://ca.indeed.com/viewjob?jk=2fa88e2a73646a44 |
+| Business developer | Captivea | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419028384 |
+| Machine Learning Engineer, ML Systems and Infrastructure | Autodesk | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4409941727 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420273698 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420269985 |
+| AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4410474580 |
+| Financial Analyst - Fully Remote | Upto $100/hr | Mercor | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420291049 |
+| Security Analyst - Fully Remote | Upto $90/hr | Mercor | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420283301 |
+| Buying Specialist - Fully Remote | Upto $1000 Part-time | Mercor | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420277400 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=e307e3d7e63b4c1c |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419018647 |
+| General Merchandise Associate | Walmart Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4409221268 |
