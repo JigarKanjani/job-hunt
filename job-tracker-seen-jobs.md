@@ -8623,3 +8623,33 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=e307e3d7e63b4c1c |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419018647 |
 | General Merchandise Associate | Walmart Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4409221268 |
+| Logistics & E-commerce Coordinator | Sarjesa Inc. | 2026-05-28 | J | https://ca.indeed.com/viewjob?jk=32dae783fcbee9aa |
+| ALA - Analyst, Corporate Accounting | AltaGas Ltd. | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4409984531 |
+| Project Controls Lead | NES Fircroft | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419066558 |
+| Sales Coordinator | Germain Hôtels | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417648637 |
+| Professional Transition Opportunity for Experienced Procurem | 3 Years On A Rock | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417645579 |
+| Senior Category Manager – Chemicals | Airswift | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417648355 |
+| Strategic Sourcing & Contracts Advisor | Airswift | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417638622 |
+| Sales Specialist -PRO | RONA | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4371045916 |
+| Planner 2 | City of Calgary | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419075308 |
+| Senior HSE Coordinator | Graham | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4411203867 |
+| Technical Sales Specialist | Univar Solutions | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4411278061 |
+| Lead IT SAP SD | Parkland Corporation | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4417665030 |
+| Project Controls Lead | Brunel | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4419059907 |
+| Base Material Coordinator | Top Aces | 2026-05-28 | J | https://www.linkedin.com/jobs/view/4411260862 |
+| Administrative Assistant | Airswift | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417637643 |
+| Mortgage Fulfillment Officer | Neo Financial | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4380127403 |
+| Content & Media Specialist - Brand | Method Recruiting, a 3x Inc. 5000 compan | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4411256307 |
+| Food Prep Worker | Aramark Canada | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4420460016 |
+| Analyst, Energy and Treasury Support | Nutrien | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4417659326 |
+| Project Coordinator, Geomatics | GeoVerra | 2026-05-28 | N | https://www.linkedin.com/jobs/view/4419066669 |
+| Business Process and Change Consultant | City of Calgary | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419063865 |
+| Sr Associate, Tax Process Strategy & Solutions | RSM Canada | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419065273 |
+| MEAN Stack Developer with Kafka | Iris Software Inc. | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420443468 |
+| Performance Analyst (ID: 55237) | City of Edmonton | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4419062765 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420408893 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420416673 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420404967 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-28 | R | https://www.linkedin.com/jobs/view/4420420326 |
+| Development Coordinator, Medicine Development, VP Developmen | University of Calgary | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4419125621 |
+| Marketing Associate | Aramark Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4420449233 |
