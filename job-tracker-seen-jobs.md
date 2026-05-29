@@ -8947,3 +8947,34 @@
 | Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421214956 |
 | Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421232317 |
 | Rail Traffic Controller | CPKC | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421220664 |
+| Analyst, Customs (Temporary) - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=c59bbf381bc8b566 |
+| Community Relations Administration Specialist | The Salvation Army | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=9761f70c091f213c |
+| REGULATORY COORDINATOR | Bowron Environmental Group | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=5fed168e67a51c8b |
+| Execution Specialist - Non Fresh | Sobeys | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=f0b869cb2ad8ba85 |
+| Supply Management Professional - Conventional Operations | Canadian Natural Resources Limited (CNRL | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422052968 |
+| Billing Coordinator | Dentons | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4417980604 |
+| Contracts Specialist - Major Projects | Canadian Natural Resources Limited (CNRL | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422062303 |
+| Lead, Cost Control | Trans Mountain | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422057657 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421254116 |
+| Finance Operations Support | Airswift | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421232197 |
+| Senior Survey & Construction Coordinator | Spartan Delta Corp. | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422063090 |
+| Social Media Marketing Specialist | Verity Life Solutions | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422061255 |
+| Technical Lead | Capgemini | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421253647 |
+| Procurement Manager | Volant Products Inc. | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421242487 |
+| Project Procurement Officer | Government of Alberta | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422051450 |
+| Contract Procurement Consultant | Government of Alberta | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422044621 |
+| Community Support Worker | new age services | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=a55ebec7b596ba62 |
+| Compliance Fleet Safety Administrator | Pembina Pipeline Corporation | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421239713 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4417978823 |
+| HR Coordinator | West Edmonton Mall Property Inc. (West E | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420977949 |
+| Financial Coordinator | Government of Alberta | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422058314 |
+| Bookstore Coordinator | Concordia University of Edmonton | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4417980596 |
+| Business Analyst | Agilus Work Solutions | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422060402 |
+| CRM Technical Business Analyst | Canadian Cancer Society | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422081052 |
+| Contract IT Data Analyst | Agilus Work Solutions | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422058811 |
+| Cloud Data Developer | Canadian Natural Resources Limited (CNRL | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422070054 |
+| Dotnet Developer | Triunity Software, Inc. | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417973913 |
+| Customer Business Specialist | Nestlé | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421244945 |
+| Distribution Centre Technical Specialist | NCR Voyix | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417986207 |
+| Receptionist I (2026-0323) | Carewest - Innovative Health Care | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=a83661aa59824a00 |
+| Receptionist | Kenn Borek Air | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421252379 |
