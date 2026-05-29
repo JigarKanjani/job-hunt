@@ -8882,3 +8882,68 @@
 | Major Gifts & Corporate Partnerships Officer | Heritage Park Historical Village | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=f8bcd0bce03e90dc |
 | Donor Stewardship and Communications Advisor | Heritage Park Historical Village | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=7cc45ce8a1c40051 |
 | Mobile Mortgage Specialist | TD | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4390679217 |
+| Senior Supply Chain Specialist | EXCHANGER INDUSTRIES LIMITED | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=7ae72e49e20fabe3 |
+| Program Manager - Canada Summer Jobs (Calgary Chapter) | Muslim Association of Canada | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=2b1ba2d78d8d0f19 |
+| SERVICE DESK ANALYST – (CAT) | Trican Well Service | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=2e24e44edec573ed |
+| QC Coordinator | Inline Group Inc. | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=880368dca825c77a |
+| Research Coordinator, Department of Medicine | University of Calgary | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=60ad3ec4656f08c6 |
+| AI Workflow & Product Coordinator | Eye Recommend | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=a9982ca699b33a33 |
+| Cost Allocation Financial Analyst | Trans Mountain Corporation Inc. | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=99a1bf056857c6ac |
+| Health & Safety Coordinator | Contemporary Office Interiors | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=234e68b20c1b8a3f |
+| Industrial Development Coordinator | CPKC | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=662cc76a1bd0b548 |
+| Enterprise Data Modeler - Hybrid | Alberta Energy Regulator | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=dd3c79cb78273ab8 |
+| ServiceNow Analyst | Suncor Energy | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=36498287afce8f60 |
+| Marketing Coordinator - Canada Summer Jobs (Calgary Chapter) | Muslim Association of Canada | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=5231bc365f45e409 |
+| Program Coordinator - Canada Summer Jobs (Calgary Chapter) | Muslim Association of Canada | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=0c09cca51044272c |
+| Contract Specialist | COOEC | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=fa01adcca49cd0e4 |
+| Buyer | COOEC | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=4e42574fe2ea19f3 |
+| Equipment Coordinator | Manulift | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=bdb4aeec04c0f363 |
+| Department Leader (evenings) | Princess Auto | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=731f1ba0b39e07ad |
+| Analyst, Customs (Temporary) - Saskatoon, SK or Calgary, AB | Nutrien | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4417976743 |
+| Industrial Development Coordinator | CPKC | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421221601 |
+| Marketing and Pricing Analyst | Superior Gas Liquids | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4417966923 |
+| Deal Specialist | BMO | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421248126 |
+| Indigenous Compliance Coordinator | Tecnicas Reunidas | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4417970703 |
+| Research Coordinator, Department of Medicine | University of Calgary | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421247150 |
+| Insolvency Analyst, Personal Debt Solutions | BDO Canada | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421227726 |
+| Project Coordinator | Modus Structures Inc | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421247357 |
+| Office Administrator - Canada Summer Jobs (Calgary Chapter) | Muslim Association of Canada | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=321dd4c4a1f2720d |
+| Testing Coordinator | GE Vernova | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=6c1420f43111fe8f |
+| Bookstore Coordinator | Concordia University of Edmonton | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=9f5c2c58dfa1a065 |
+| Project Coordinator | COOEC | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=9085f98477f4ffb7 |
+| Recruitment Coordinator | FLINT Corp. | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=2be39c92511155c4 |
+| Community Program Coordinator | Mount Royal University | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4417963637 |
+| Senior Program Manager - GSC - US | Sysco Canada Inc. | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421203911 |
+| Senior Research Program Manager | University of Calgary | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421228969 |
+| Senior Organizational Change Management Specialist | Raise | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421222482 |
+| New Business Administrator | IDC Worldsource Insurance Network Inc. | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422035703 |
+| Community Wellness Facilitator | Carya | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422038692 |
+| Research Coordinator- Werklund School of Education | University of Calgary | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420231641 |
+| Family & Community Facilitator | Carya | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422037774 |
+| Senior Financial Advisor - East Village, Calgary, AB | Scotiabank | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422043661 |
+| Government Relations Analyst | Trans Mountain | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422060170 |
+| Learning Specialist - English as Additional Language (EAL) - | Rocky View Schools | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422056267 |
+| Systems Specialist, Desktop Architecture | KPMG Canada | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421223176 |
+| Career Advisor | Government of Alberta | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4422037817 |
+| Execution Specialist - Non Fresh | Sobeys | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4421228656 |
+| Business Analyst | Alberta Central | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=5d8df3dcc9e87c15 |
+| Workday Analyst | Alberta Investment Management Corporatio | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=e21cbc55e83fd889 |
+| Digital Developer- Wordpress | Black Duck Software | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=235db11e970a8926 |
+| IT Data Analyst | InSync Systems | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422043109 |
+| Digital Developer- Wordpress | Black Duck | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4422054260 |
+| ServiceNow Analyst | Suncor | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421218426 |
+| Technology Procurement Specialist | Bird Construction | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420988942 |
+| Geocycle AI Ordering Systems Intern | Amrize | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417967724 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421201789 |
+| Developer, Blue Yonder WMS Technology (Remote – Boucherville | RONA | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421222568 |
+| Administrative - Canada Summer Jobs (Calgary Chapter) | Muslim Association of Canada | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=8cc5550dda1eb9e0 |
+| Rail Traffic Controller | CPKC | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=86ea1674fde61245 |
+| Community Associate | Regus | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421205205 |
+| PIA Client Service Associate | TD | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421232674 |
+| Customer Service Representative - DCCHail Calgary | AutoCanada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4422054438 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4422057490 |
+| Customer Service Associate - Plumbing | RONA | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421228389 |
+| Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421222837 |
+| Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421214956 |
+| Receptionist Casual AgeCare Shawnee | AgeCare | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421232317 |
+| Rail Traffic Controller | CPKC | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421220664 |
