@@ -8785,3 +8785,35 @@
 | School Secretary/Office Assist | Calgary Board Of Education | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=a9c36fed01bdc319 |
 | Administrative Secretary E Schools | Calgary Board Of Education | 2026-05-28 | G | https://ca.indeed.com/viewjob?jk=f0335491fe32f934 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-28 | G | https://www.linkedin.com/jobs/view/4417699068 |
+| Senior SOC Analyst | Suncor Energy | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=597c0f245f06aeda |
+| Full Time Sales Lead | Pandora Jewelry | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=685076ee42bb7a88 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=6bcf129440263fab |
+| Business Analyst - People Systems | WestJet | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420670356 |
+| Finance Analyst - Construction | Kiewit | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4419340866 |
+| Development Coordinator, Qualico Communities | Qualico Communities Calgary | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420638783 |
+| Senior Finance Analyst - Energy Construction | Kiewit | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4419335975 |
+| Operations Lead - Full Time | SEPHORA | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420643572 |
+| Legal Counsel - Technology & Digital (Commercial Contracts) | MNP | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4419376455 |
+| Business Partner Specialist | Government of Alberta | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4419371563 |
+| Reservations Coordinator | Moraine Lake Bus Company | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=33b29e35efbc0b5d |
+| Sr. Treatment Coordinator | Passion Dental Group | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=cfecdd6db7d748b8 |
+| Commercial Insurance Advisor | Westland Insurance Group | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=1588fe52dc8e83ee |
+| Senior Financial Analyst | Cenovus Energy | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=764c4c648ac7c076 |
+| Intake Specialist | MSH International Canada | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=42c7106da783d68f |
+| Coordinator, Accessible Technology Programs & SmartLife Coac | Canadian National Institute for the Blin | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=3fc9cbf5c7f3d442 |
+| Administrative Assistant | Stantec | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420678189 |
+| Financial Advisor/ Senior Financial Advisor - Seton | Servus Credit Union | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4419362134 |
+| Service Advisor (Audi Royal Oak) | Go Auto | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420649057 |
+| Service Advisor (Macleod Trail Toyota) | Go Auto | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420646163 |
+| Project Coordinator | API (Applied Pharmaceutical Innovation) | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4414373681 |
+| Housing Support Worker - AHS | E4C | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420683162 |
+| Business Analyst - People Systems | WestJet Airlines | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=4a1a898691bd194c |
+| Technical Support Specialist, Avaya Tier 2 | Anovia | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=08ce728864209cc2 |
+| Clinical Systems Analyst | Alignerr | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420670100 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420635962 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420648310 |
+| Administrative Assistant | Stantec | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=365a441246fe1120 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=8043e546d9bc813f |
+| Business Development Representative (Calgary Office) | Fidelity Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4373403052 |
+| Accounting Software Implementation Project Coordinator | Callow & Associates Management Consultan | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420647036 |
+| Controller | Forge Performance Group | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4419370031 |
