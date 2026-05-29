@@ -8817,3 +8817,17 @@
 | Business Development Representative (Calgary Office) | Fidelity Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4373403052 |
 | Accounting Software Implementation Project Coordinator | Callow & Associates Management Consultan | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420647036 |
 | Controller | Forge Performance Group | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4419370031 |
+| Senior Financial Analyst | Cenovus Energy | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420678924 |
+| Procurement Specialist I | Alberta Health Services | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421002186 |
+| Coordinator I | Alberta Health Services | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421002611 |
+| Family Counsellor | Recovery Alberta | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=a55c87498207cb96 |
+| Volunteer Marketing Coordinator | Mystic Moonlight Masquerade Ball & Gala  | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420823498 |
+| Client Systems Analyst II | Southern Alberta Institute of Technology | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=0b71120a561f95c2 |
+| Residential Service Specialist - Residential (Calgary, AB) | Morguard | 2026-05-29 | R | https://ca.indeed.com/viewjob?jk=d11f71ced329b166 |
+| Financial Analyst | Alberta Health Services | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420899241 |
+| Physical Security Technology Specialist | TC Energy | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417913347 |
+| Detective Specialist - Fully Remote | Upto $1700 | Mercor | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420686494 |
+| Receptionist | Vista Projects | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=a00dcbd2310f061b |
+| Summer Student &amp;#8211; Administrative | Enviros WSA | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420697062 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4417926098 |
+| Administrative Support III | Alberta Health Services | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420884847 |
