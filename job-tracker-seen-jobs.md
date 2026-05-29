@@ -8831,3 +8831,29 @@
 | Summer Student &amp;#8211; Administrative | Enviros WSA | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420697062 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4417926098 |
 | Administrative Support III | Alberta Health Services | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4420884847 |
+| Event Sales Coordinator | Wilder Institute/Calgary Zoo | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=603db141351af0c2 |
+| Healthcare Equipment Specialist | Alberta Health Services | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=f1e271094dc071f4 |
+| Sexual and Gender-Based Violence Support Advisor | University of Calgary | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=29cce25c99631f60 |
+| Research Coordinator, Faculty of Social Work | University of Calgary | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=ecb9552295a7ba49 |
+| HR Advisor - Field | Chandos Construction | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4408304095 |
+| Risk and Change Integration Lead | Airswift | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4402626343 |
+| Senior Federal Pursuits Lead | HDR | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4401465999 |
+| Enterprise Business Development Representative | Sidetrade | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421708081 |
+| Senior Consultant, Enterprise Performance Management - Anapl | KPMG Canada | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4403169257 |
+| Coordinator I | Alberta Health Services | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=2bf1f838acee0f3d |
+| Sr. Coordinator, Payroll | Trimac | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=2ed2a2a1c90f8657 |
+| Volunteer Coordinator (Term Position, 20 hours a week) | MNP Community & Sport Centre | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420924178 |
+| Insurance Advisor Life, Health & Wealth | RBC Insurance | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4380103461 |
+| Reverse Mortgage Specialist | EQ Bank | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4244820105 |
+| office administrative assistant | Advance Pallet and Lumber Ltd. | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420936181 |
+| Project Coordinator | Chandos Construction | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4390236597 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421781557 |
+| C++ Developer – Competitive Programming | $70/hr Remote | Crossing Hurdles | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421432741 |
+| Infrastructure Analyst | AutoCanada | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4401835552 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4421488681 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4409695447 |
+| Astrophysics Specialist - Fully Remote | Upto $90/hr | Mercor | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4411316825 |
+| Employment Litigation Associate | Ogletree Deakins | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=6a9be048762880fb |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421471708 |
+| CONSUMABLES ASSOCIATE | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4409623597 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4409620772 |
