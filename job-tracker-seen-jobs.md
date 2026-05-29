@@ -8857,3 +8857,28 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421471708 |
 | CONSUMABLES ASSOCIATE | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4409623597 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4409620772 |
+| Youth Programming Lead Hand - Overnight | Heritage Park Historical Village | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=f913b918c6cf8500 |
+| Métis Interpreter/Demonstrator | Heritage Park Historical Village | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=a3fc017534ea3d67 |
+| Treaty 7 (First Nations) Interpreter/Demonstrator | Heritage Park Historical Village | 2026-05-29 | J | https://ca.indeed.com/viewjob?jk=8600a67dc99752f0 |
+| Supply Chain Manager | CQ Search Group Ltd. | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4421794707 |
+| Senior Program Manager | Jumbo Interactive Limited | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4422006499 |
+| Senior Program Manager | STRIDE Management Corp | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420964156 |
+| Client Success Specialist Team Lead | Aon | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4380903348 |
+| Team Lead, Payroll & HR Operations | Steel Reef | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4420963500 |
+| Claims Specialist | CNA Insurance | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4409608960 |
+| Quality Assurance Lead Auditor | CoolIT Systems | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4401473734 |
+| Automation Control Specialist | Lassonde | 2026-05-29 | J | https://www.linkedin.com/jobs/view/4407103680 |
+| People & Culture Advisor | Heritage Park Historical Village | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=743901d5872ddd78 |
+| Maintenance Administrator | Heritage Park Historical Village | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=4ca69d8394045c79 |
+| Administrative Assistant (Health and Safety) | Heritage Park Historical Village | 2026-05-29 | N | https://ca.indeed.com/viewjob?jk=f8ea409df7fb1d7e |
+| Reception and Site Services Coordinator (14 month contract) | Mars | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4408306823 |
+| Document Control Administrator | Net2Source (N2S) | 2026-05-29 | N | https://www.linkedin.com/jobs/view/4420438428 |
+| Business developer | Captivea | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417955125 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420948194 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4409695447 |
+| Calypso Support Analyst – Fixed Income & Interest Rate Deriv | Luxoft | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420947965 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4420948282 |
+| Administrative Assistant (Volunteer Program Assistant) | Heritage Park Historical Village | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=4a5cac7af2492509 |
+| Major Gifts & Corporate Partnerships Officer | Heritage Park Historical Village | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=f8bcd0bce03e90dc |
+| Donor Stewardship and Communications Advisor | Heritage Park Historical Village | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=7cc45ce8a1c40051 |
+| Mobile Mortgage Specialist | TD | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4390679217 |
