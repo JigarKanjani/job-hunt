@@ -9085,3 +9085,7 @@
 | Statistical Analyst (Remote) | Hire Feed | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421374096 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421378057 |
 | Administrative Assistant (Temporary 12 month contract) | LASIK MD | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=4e7ef451990026c1 |
+| digital marketing coordinator | Levilla Restaurant | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421372348 |
+| Brand Ambassador/Team Lead | Chai Spice Inc. | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4418341826 |
+| Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421366421 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4421376188 |
