@@ -9031,3 +9031,12 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4418320432 |
 | Receptionist I (2026-0323) | Carewest Innovative Health Care | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4421314160 |
 | Business Controller | Epiroc | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4422089316 |
+| Senior Research Program Manager | University of Calgary | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=d20dbcb19aacb8d4 |
+| (CAN) People Lead | Walmart Canada | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4400872367 |
+| Security Analyst | Viral Nation | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=e2e98ae48ad5e89c |
+| AI Evaluation Specialist | $35/hr Remote | Crossing Hurdles | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4422524458 |
+| Technician Assistant, Veterinary Surgery - VCA Canada Wester | VCA Canada | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=9e6183de1b4b62ac |
+| Service Centre Sales Associate | Blue Grass | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=812f76ff400e96c9 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4422511164 |
+| Personal Banking Associate | BMO | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4419509707 |
+| Manufacturing Production Associate - Weekend Shift | Metrie | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4403564094 |
