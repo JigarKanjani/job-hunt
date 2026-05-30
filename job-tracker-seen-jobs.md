@@ -9082,3 +9082,6 @@
 | Child Youth Care Worker (CF) - Family Violence Community Out | Catholic Social Services Alberta | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418351345 |
 | C++ Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421380037 |
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421371078 |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421374096 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421378057 |
+| Administrative Assistant (Temporary 12 month contract) | LASIK MD | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=4e7ef451990026c1 |
