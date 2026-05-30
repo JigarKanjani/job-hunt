@@ -9040,3 +9040,12 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4422511164 |
 | Personal Banking Associate | BMO | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4419509707 |
 | Manufacturing Production Associate - Weekend Shift | Metrie | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4403564094 |
+| Senior Consultant, Enterprise Performance Management - Anapl | KPMG Canada | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4403154480 |
+| Service Leader | Chipotle Mexican Grill | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4411261340 |
+| Community Program Coordinator | Mount Royal University | 2026-05-30 | N | https://ca.indeed.com/viewjob?jk=4fb9c42067236e04 |
+| Salesforce Platform Administrator | Finning | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422510289 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418321824 |
+| Business Analyst | Alberta Health Services | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=cf936768e5caf16d |
+| Service Now Developer | KPMG Canada | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4381949019 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4411781813 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4411722801 |
