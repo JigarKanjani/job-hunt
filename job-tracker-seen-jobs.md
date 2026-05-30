@@ -9074,3 +9074,11 @@
 | Dietary Worker | Aramark Canada | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421336900 |
 | National Clinical Specialist Advanced Wound Care | Essity | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4411718286 |
 | Mortgage Agent | Dominion Lending Centres Inc | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4422530716 |
+| Lead Budgeting, Forecasting & Financial Reporting (2026-0321 | Carewest Innovative Health Care | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421358924 |
+| Account Executive – BAS Enterprise Solutions | Convergint | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4343318013 |
+| Mobile Mortgage Advisor - (Commission Only) - Calgary, Alber | CIBC | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4411794184 |
+| Administrative Assistant (Temporary 12 month contract) | LASIK MD | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421349985 |
+| Personal Insurance Advisor | BrokerLink | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4411948562 |
+| Child Youth Care Worker (CF) - Family Violence Community Out | Catholic Social Services Alberta | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418351345 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421380037 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421371078 |
