@@ -9016,3 +9016,18 @@
 | Family & Community Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=b3b98256f1ddfac5 |
 | Community Wellness Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=c250c09156af6fe9 |
 | Family & Community Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=020b10ab2014f6ab |
+| Client Coordinator | Tap And Tint | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=e458b4566f2705e8 |
+| Supportive Living Coordinator | Father Lacombe High School | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=4b72bceed4a95705 |
+| Contract Maintenance Planner | Agilus Work Solutions | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422099139 |
+| Contract Maintenance Planner  /  Scheduler | Agilus Work Solutions | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422501058 |
+| Salesforce Platform Administrator | Finning | 2026-05-30 | N | https://ca.indeed.com/viewjob?jk=ab111e984544bdd9 |
+| Administrative Assistant - Building Administration | PBS Systems | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418321484 |
+| Reunification Support Worker – PEI | Siksika Family Services Corporation | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422083779 |
+| Junior Administrative Assistant | Microserve | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418327462 |
+| Protective Services Officer II - Community Mobile Unit | Alberta Health Services | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422094356 |
+| Protective Services Officer II - Community Mobile Unit | Alberta Health Services | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422506049 |
+| Protective Services Officer II - Community Mobile Unit | Alberta Health Services | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422096273 |
+| Customer Service Representative | Wood Automotive Group | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4421307190 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4418320432 |
+| Receptionist I (2026-0323) | Carewest Innovative Health Care | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4421314160 |
+| Business Controller | Epiroc | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4422089316 |
