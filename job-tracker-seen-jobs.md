@@ -9049,3 +9049,15 @@
 | Service Now Developer | KPMG Canada | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4381949019 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4411781813 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4411722801 |
+| Conferencing Solutions - IT Analyst | Deloitte | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=693fcd33e537261b |
+| Collision Support Specialist | Fix Network World | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4400436833 |
+| Enterprise Account Executive | Saviynt | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4323102442 |
+| Family Counsellor | Recovery Alberta | 2026-05-30 | N | https://ca.indeed.com/viewjob?jk=dad4b03bbd439808 |
+| Consultant/Senior Consultant, Economic Advisory | Deloitte | 2026-05-30 | N | https://ca.indeed.com/viewjob?jk=4385e2f39c541416 |
+| Program Manager, Human Resources and Safety | Regional Municipality of Wood Buffalo | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421336259 |
+| Collections Coordinator | Regional Municipality of Wood Buffalo | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421347143 |
+| Pension and Benefits Administrator | People Corporation | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4417517503 |
+| Administrative Assistant | Covenant Health Canada | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418323962 |
+| Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418306957 |
+| Statistical Analyst (Remote) | Hire Feed | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421348369 |
+| Centralized Services Compliance Analyst | Yardstick Technologies Inc. | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4411779387 |
