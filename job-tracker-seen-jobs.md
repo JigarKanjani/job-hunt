@@ -9061,3 +9061,12 @@
 | Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4418306957 |
 | Statistical Analyst (Remote) | Hire Feed | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421348369 |
 | Centralized Services Compliance Analyst | Yardstick Technologies Inc. | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4411779387 |
+| Supply Chain Manager | Alessi Search Group | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421355621 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4418338276 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4418342245 |
+| Team Lead, Talent Acquisition | ROSEN | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4411785992 |
+| Supply Chain Manager | RECRUITMENT PARTNERS INC. | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4412195807 |
+| Service Advisor | Fountain Tire | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422525557 |
+| Insurance Advisor | Western Financial Group | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4412168580 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421354546 |
+| Spécialiste de produits / Product Specialist | Eaton | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4418336307 |
