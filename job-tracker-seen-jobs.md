@@ -8978,3 +8978,41 @@
 | Distribution Centre Technical Specialist | NCR Voyix | 2026-05-29 | R | https://www.linkedin.com/jobs/view/4417986207 |
 | Receptionist I (2026-0323) | Carewest - Innovative Health Care | 2026-05-29 | G | https://ca.indeed.com/viewjob?jk=a83661aa59824a00 |
 | Receptionist | Kenn Borek Air | 2026-05-29 | G | https://www.linkedin.com/jobs/view/4421252379 |
+| Network Deployment Project Coordinator | EOS IT Solutions | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=893af72604ea5111 |
+| Supplier Quality Engineering Lead | De Havilland Aircraft of Canada Ltd | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=146052deacf562aa |
+| CRM Technical Business Analyst | Canadian Cancer Society | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=3fb21c69bb9e444f |
+| Senior Network Specialist | Sobeys | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=a80cd2e5a7e565aa |
+| Senior Program Manager | Sysco | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=eb69e55679602a2b |
+| Exchange Planner | Finning | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=3dd9aa3769b01adf |
+| Superior Gas Liquids 1631 - Marketing & Pricing Analyst | Superior Propane | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=7e34536a127adace |
+| Field Service Technician Lead (310T or 421A) | Orange EV | 2026-05-30 | J | https://ca.indeed.com/viewjob?jk=f39046c30743b864 |
+| Business Continuity Specialist | Canadian Blood Services | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421258412 |
+| Supplier Quality Engineering Lead | De Havilland Aircraft of Canada Limited | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421302061 |
+| InEight Estimating Program Specialist | Bird Construction | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421270584 |
+| Senior Market Design Analyst | Alberta Electric System Operator (AESO) | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422078658 |
+| Community Relations Administration Specialist | The Salvation Army in Canada | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422083158 |
+| Program Manager | Modern People Solutions | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422076584 |
+| Senior Risk Specialist, Enterprise Risk Management | Suncor | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421297046 |
+| InEight Program Delivery Lead | Bird Construction | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421284008 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421257704 |
+| Factory Test Specialist | CoolIT Systems | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422065703 |
+| Advisor, MEAL, Impact and Gender Equity | Modern People Solutions | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4422081507 |
+| Specialist Software Cloud Developer | CPKC | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421296253 |
+| AI Enablement Lead / Product Owner | Addmore Group | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4420474639 |
+| Cyber OT Security Sales Lead-Process Automation | Honeywell | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4421262387 |
+| Senior Property Administrator | Envision Property Management Ltd | 2026-05-30 | N | https://ca.indeed.com/viewjob?jk=83b6cd41670039ae |
+| Financial Advisor - Calgary, AB (Contract until September, 2 | Scotiabank | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4422078697 |
+| Cloud Data Developer | Canadian Natural | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=f6073d7111692215 |
+| Application Solutions Developer | CDN Controls ULC | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=7afcecee956d57f6 |
+| Specialist Software Cloud Developer | CPKC | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=f8053ad32f7f200e |
+| Systems Analyst (2 Year Term) | The Association of Professional Engineer | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=725a640fb147cc8a |
+| Systems Analyst (2 Year Term) | The Association of Professional Engineer | 2026-05-30 | R | https://ca.indeed.com/viewjob?jk=4c7124cf2704f668 |
+| Application Solutions Developer | CDN | 2026-05-30 | R | https://www.linkedin.com/jobs/view/4421271690 |
+| Building & Office - Administrative Assistant | PBS Systems | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=c9c715a292a98f59 |
+| Front Desk Guest Experience Expert | Marriott International | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=d4ed7ad787558712 |
+| Administrative Assistant | City of Calgary | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=72ed39f7ccf61f1f |
+| Customer Service Representative - DCCHail Calgary | AutoCanada | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=3ed340e1f4263497 |
+| Safe Workplace Administrator | City of Calgary | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=8f5a2d0eb3995d84 |
+| Family & Community Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=b3b98256f1ddfac5 |
+| Community Wellness Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=c250c09156af6fe9 |
+| Family & Community Facilitator | Carya | 2026-05-30 | G | https://ca.indeed.com/viewjob?jk=020b10ab2014f6ab |
