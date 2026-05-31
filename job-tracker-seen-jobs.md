@@ -9106,3 +9106,9 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=2f4d7094156a04f3 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422565116 |
 | Manufacturing Production Associate - Day Shift | Metrie | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4403547939 |
+| Financial Planning Specialist | RBC | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4381681771 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421630298 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421620289 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421628299 |
+| Manufacturing Production Associate - Night Shift | Metrie | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4403565065 |
