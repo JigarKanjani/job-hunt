@@ -9097,3 +9097,6 @@
 | Staff Cloud Platform Engineer | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=ad4907060112c62b |
 | Database Specialist - Application Support and Development | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=897ca8e2bcc0f681 |
 | Security Automation Engineer, 18-month Term | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=67b814a86713167c |
+| Purchasing Manager | Hardy Sales | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=449c1f84cbf511e8 |
+| Ontario Litigation Case Manager / Legal Assistant Needed – L | World Academy | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=565e503cbf749d52 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4418372533 |
