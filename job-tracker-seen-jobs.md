@@ -9112,3 +9112,7 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421620289 |
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421628299 |
 | Manufacturing Production Associate - Night Shift | Metrie | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4403565065 |
+| Risk Analyst | Turner & Townsend | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4402734442 |
+| Colleague Experience Administrator (CEA) | Loblaw Companies Limited | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4421619518 |
+| Curriculum Administrative Assistant | SunMETA Group | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=cebd118cadd89e6b |
+| Investment Associate | RBC Dominion Securities | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422563519 |
