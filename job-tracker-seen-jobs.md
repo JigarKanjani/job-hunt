@@ -9089,3 +9089,11 @@
 | Brand Ambassador/Team Lead | Chai Spice Inc. | 2026-05-30 | J | https://www.linkedin.com/jobs/view/4418341826 |
 | Events & Communications Coordinator | Concordia University of Edmonton | 2026-05-30 | N | https://www.linkedin.com/jobs/view/4421366421 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-30 | G | https://www.linkedin.com/jobs/view/4421376188 |
+| Health & Safety Coordinator | FlatironDragados | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=7c722e31481a3efd |
+| Architect, Operations Research | Kinaxis | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=78b6e63cf9fb4073 |
+| Environmental Health Safety Specialist | The Vendor Group (TVG) | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4422518978 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4418364020 |
+| network administrator | Central Protection Services | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=9173c7814a03043e |
+| Staff Cloud Platform Engineer | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=ad4907060112c62b |
+| Database Specialist - Application Support and Development | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=897ca8e2bcc0f681 |
+| Security Automation Engineer, 18-month Term | Kinaxis | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=67b814a86713167c |
