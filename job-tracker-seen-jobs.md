@@ -9100,3 +9100,9 @@
 | Purchasing Manager | Hardy Sales | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=449c1f84cbf511e8 |
 | Ontario Litigation Case Manager / Legal Assistant Needed – L | World Academy | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=565e503cbf749d52 |
 | Community Resource Worker, Complex Needs | DDRC | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4418372533 |
+| Vendor Manager | ATCO | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4417445491 |
+| Contract Analyst | UNIPEC America, Inc. | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4421601473 |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=b7afb32966b5773a |
+| (CAN) General Merchandise Associate | Walmart | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=2f4d7094156a04f3 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422565116 |
+| Manufacturing Production Associate - Day Shift | Metrie | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4403547939 |
