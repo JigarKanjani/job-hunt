@@ -9117,3 +9117,10 @@
 | Curriculum Administrative Assistant | SunMETA Group | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=cebd118cadd89e6b |
 | Investment Associate | RBC Dominion Securities | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422563519 |
 | Client Engagement Coordinator | Remote Flexible Role | Create Your Life | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421615586 |
+| Lead Generation Specialist | sensen.ai | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4422572744 |
+| Location Administrator | Crop Management Network | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=b99f81491bc93537 |
+| Location Administrator | Crop Management | 2026-05-31 | R | https://ca.indeed.com/viewjob?jk=729980c050413fa2 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421624876 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421623838 |
+| Personal Banking Associate | TD | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4336823542 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - S | Signet Jewelers | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4267350267 |
