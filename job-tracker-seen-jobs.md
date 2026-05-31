@@ -9116,3 +9116,4 @@
 | Colleague Experience Administrator (CEA) | Loblaw Companies Limited | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4421619518 |
 | Curriculum Administrative Assistant | SunMETA Group | 2026-05-31 | G | https://ca.indeed.com/viewjob?jk=cebd118cadd89e6b |
 | Investment Associate | RBC Dominion Securities | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422563519 |
+| Client Engagement Coordinator | Remote Flexible Role | Create Your Life | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421615586 |
