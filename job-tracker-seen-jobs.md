@@ -9124,3 +9124,8 @@
 | C# Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421623838 |
 | Personal Banking Associate | TD | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4336823542 |
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - S | Signet Jewelers | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4267350267 |
+| Rail Logistics Coordinator | Suncor Energy | 2026-05-31 | J | https://ca.indeed.com/viewjob?jk=277e74e1fc3710ed |
+| Rail Logistics Coordinator | Suncor | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4421626954 |
+| Content Specialist | Indigenous Energy Monitor | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4422565734 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421624886 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-05-31 | R | https://www.linkedin.com/jobs/view/4421612806 |
