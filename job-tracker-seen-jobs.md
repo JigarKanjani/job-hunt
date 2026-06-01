@@ -9133,3 +9133,5 @@
 | Program Coordinator | Autism Aspergers Friendship Society of C | 2026-05-31 | J | https://www.linkedin.com/jobs/view/4421640069 |
 | Community Resource Worker, Complex Needs | DDRC | 2026-05-31 | N | https://www.linkedin.com/jobs/view/4418381758 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422585817 |
+| HR Generalist - Operations | Air Liquide | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421646445 |
+| Reporting Coordinator | Vertex Resource Group Ltd. | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422809357 |
