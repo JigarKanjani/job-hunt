@@ -9137,3 +9137,31 @@
 | Reporting Coordinator | Vertex Resource Group Ltd. | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422809357 |
 | Infrastructure Analyst | Whitecap Resources Inc. | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421675570 |
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422825514 |
+| Senior Analyst, Value Realization & Analytics - Saskatoon, S | Nutrien | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=319c1d6e6a881424 |
+| Project Coordinator | Buttcon Limited | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=2340c87790a86a6e |
+| Senior Analyst, Value Realization & Analytics - Saskatoon, S | Nutrien | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418761728 |
+| Rail Logistics Scheduler | Superior Gas Liquids | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418768705 |
+| Solution Analyst, Data | Nutrien | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418768715 |
+| Financial Analyst, Fixed Assets | Superior Propane | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418758507 |
+| Cyber Security Analyst | DIRTT | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4422889882 |
+| Project Coordinator | Net2Source (N2S) | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421842653 |
+| Specialist Cybersecurity Vulnerability Management | Enbridge | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418765727 |
+| Sr Solutions Analyst, Data Services | Nutrien | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418776564 |
+| Vendor Audit Specialist | BuzzClan | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418754639 |
+| Marketing Specialist Product & Communications | TechJutsu | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4422894622 |
+| QA/QC Lead - Field Operations | CDN | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4416929341 |
+| Lessons Coordinator / Receptionist | Rockstar Music | 2026-06-01 | N | https://ca.indeed.com/viewjob?jk=4084ce59fc2c2c93 |
+| Building Services Coordinator | Armco Capital Inc | 2026-06-01 | N | https://ca.indeed.com/viewjob?jk=8b91f1440fea9369 |
+| Client Service Data Administrator | Kinsted Wealth | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423210351 |
+| Cyber Security Advisor, PCI Compliance | City of Calgary | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4422894210 |
+| Intermediate Front-End Developer | Canadian Cattle Identification Agency (C | 2026-06-01 | R | https://ca.indeed.com/viewjob?jk=be91600f5fd1280c |
+| Application Support Engineer -- KUMDC5818173 | Compunnel Inc. | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421865155 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421833053 |
+| Research Analyst (Remote) | Hire Feed | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421820250 |
+| Financial Analyst | $25/hr Remote | Crossing Hurdles | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4422874405 |
+| Financial Analyst (Remote) | Hire Feed | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421816267 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421820207 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421811435 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421826214 |
+| Calgary Police Service - Administrative Assistant | City of Calgary | 2026-06-01 | G | https://ca.indeed.com/viewjob?jk=09cca3c0fbb2b5fb |
+| Sales Associate, Seasonal | Crocs, Inc. | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4418769557 |
