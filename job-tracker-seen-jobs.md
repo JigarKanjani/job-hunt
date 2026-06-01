@@ -9165,3 +9165,59 @@
 | API Developer (Remote) | Quik Hire Staffing | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421826214 |
 | Calgary Police Service - Administrative Assistant | City of Calgary | 2026-06-01 | G | https://ca.indeed.com/viewjob?jk=09cca3c0fbb2b5fb |
 | Sales Associate, Seasonal | Crocs, Inc. | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4418769557 |
+| Investment Analyst | TransAlta Corporation | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=43b305c5110b311a |
+| Project Coordinator | Westburne | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=1015b2aa576bffed |
+| Application Analyst | Chartered Professional Accountants of Al | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=4f65462f4ad8c458 |
+| Project Coordinator | Colas | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=f3d044be7998e3d5 |
+| HR Coordinator, Talent Acquisition | Seequent | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=0292019f9d89374d |
+| Proposal Coordinator | QuickFix Handyman Inc. | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=f58c955ad11335d0 |
+| People & Culture Coordinator (12 Month Contract) | Shane Homes | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=a251affc0910a162 |
+| Senior Scheduler/Planner - Talent Pool | Turner & Townsend Pty Limited | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=e0e2881242662631 |
+| Specialist, Canadian Truck | Nutrien | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=fe86197b03a5ff92 |
+| Junior Logistics Analyst | Louis Dreyfus Company | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=8aff1bfe55fdc11d |
+| Financial Analyst | Incognito Software | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=60c5757390ef4aba |
+| OPERATIONS & INVENTORY COORDINATOR | Chateau Lighting | 2026-06-01 | J | https://ca.indeed.com/viewjob?jk=a60bde47422171fb |
+| Junior Logistics Analyst | Louis Dreyfus Company | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418782378 |
+| Master Data Analyst | Dasro Consulting Inc. | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4422106097 |
+| Procurement Advisor - Cores | Suncor | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4422105677 |
+| Coordinator, Global Logistics | WestJet | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421891838 |
+| Supply Chain Manager | Bird Construction | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421893202 |
+| Contract IT Data Analyst | Agilus Work Solutions | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418783244 |
+| Data & Automation Analyst | Robert Half | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4423248187 |
+| Project Coordinator-EN | Guillevin | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418783771 |
+| Strategic Communications Coordinator- 12 Month Contract | KPMG Canada | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4422105584 |
+| Project Planner/Scheduler | AtkinsRéalis | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421883408 |
+| Project Coordinator-FR | Guillevin | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4418797802 |
+| Data Analyst | Robert Half | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4423257331 |
+| Paralegal (Compliance, Privacy and Corporate contracts) | TechJutsu | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4423248431 |
+| Clinical Support Specialist | University of Alberta | 2026-06-01 | N | https://ca.indeed.com/viewjob?jk=4399af5a298fae6d |
+| Administrative Assistant | Elves Special Needs Society | 2026-06-01 | N | https://ca.indeed.com/viewjob?jk=c463bb74f3837874 |
+| Administrative Assistant, Office of the Corporate Secretary | Calgary Board of Education | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423235771 |
+| Administrative Assistant | GiCor lodging projects ltd. | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423253723 |
+| Project Planner/Scheduler | AtkinsRéalis | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4421869972 |
+| ServiceNow Administrator | Stantec | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4421887917 |
+| Marketing & Communications Specialist | Bird Construction | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4421882807 |
+| HR Digital Workday HCM & Recruiting Analyst | Agilent Technologies | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4422122097 |
+| Senior Financial Advisor - West Springs, Calgary, AB | Scotiabank | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423252868 |
+| Financial Advisor, Investment & Retirement Planning - Airdri | Scotiabank | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423263852 |
+| Major Gifts Officer | Werklund Centre | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4423268278 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-01 | N | https://www.linkedin.com/jobs/view/4421860901 |
+| Cyber Security Analyst | TEEMA | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4423264686 |
+| (Remote) Level 2 Support Specialist | Harris Computer | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421880868 |
+| (Remote) Level 2 Support Specialist | Harris Computer | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421875931 |
+| (Remote) Level 2 Support Specialist | Harris Computer | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421882599 |
+| ServiceNow Administrator | Stantec | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4422108017 |
+| (Remote) Level 2 Support Specialist | Harris Computer | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421873929 |
+| (Remote) Level 2 Support Specialist | Harris Computer | 2026-06-01 | R | https://www.linkedin.com/jobs/view/4421886036 |
+| Part-time Administrative Assistant/Receptionist | Mandel & Associates Ltd. | 2026-06-01 | G | https://ca.indeed.com/viewjob?jk=a4e9d3f72af783ec |
+| FINANCE CONTRACT ADMINISTRATOR | Calgary (Balzac) Tractorland | 2026-06-01 | G | https://ca.indeed.com/viewjob?jk=42ff32330de25b0d |
+| Beauty Sales Specialist (Full-Time) | Modern Beauty | 2026-06-01 | G | https://ca.indeed.com/viewjob?jk=259d39193a76b8e8 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4419200698 |
+| Sales Associate | Brookfield Residential | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423260624 |
+| Customer Experience Associate - Calgary, AB (30 hours/week) | Scotiabank | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423259821 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4418795820 |
+| Financial Service Representative - LendDirect Office 1563 | LendDirect | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4421867549 |
+| Overnight Associate | RONA | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422116008 |
+| Relationship Associate | OPENLANE | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4419201121 |
+| Insurance Advisor, Personal Lines | MMI Insurance | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423231568 |
+| Financial Controller | Peters & Co. Limited | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423240940 |
