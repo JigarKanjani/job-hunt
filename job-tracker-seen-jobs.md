@@ -9135,3 +9135,5 @@
 | 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-05-31 | G | https://www.linkedin.com/jobs/view/4422585817 |
 | HR Generalist - Operations | Air Liquide | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421646445 |
 | Reporting Coordinator | Vertex Resource Group Ltd. | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422809357 |
+| Infrastructure Analyst | Whitecap Resources Inc. | 2026-06-01 | J | https://www.linkedin.com/jobs/view/4421675570 |
+| 6 - month Front Desk Agent | Grey Eagle Resort & Casino | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4422825514 |
