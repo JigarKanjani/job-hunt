@@ -9258,3 +9258,11 @@
 | Community Associate | Regus | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4422178132 |
 | Customer Experience Associate - Brooks, AB (18.75 hours/week | Scotiabank | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4423408550 |
 | Health & Safety Administrator | KLS Earthworks & Environmental | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4422167155 |
+| Payroll Advisor | New West Truck Centres | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=4adfd473a4dafdd8 |
+| Senior Consultant, SAP Procurement Public Cloud | KPMG Canada | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422345167 |
+| Family Counsellor | Recovery Alberta | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=b61182552b296bdd |
+| Design Team Project Administrator | Boardwalk | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4423871040 |
+| Cloud Solutions Analyst | Alberta Investment Management Corporatio | 2026-06-02 | R | https://ca.indeed.com/viewjob?jk=5b6f260880e256b2 |
+| Cloud Solutions Analyst | Alberta Investment Management Corporatio | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4423879018 |
+| Engineering Specialist | $25/hr Remote | Crossing Hurdles | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4423842644 |
+| Associate, Mortgages | Alberta Investment Management Corporatio | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4423859973 |
