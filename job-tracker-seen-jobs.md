@@ -9266,3 +9266,25 @@
 | Cloud Solutions Analyst | Alberta Investment Management Corporatio | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4423879018 |
 | Engineering Specialist | $25/hr Remote | Crossing Hurdles | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4423842644 |
 | Associate, Mortgages | Alberta Investment Management Corporatio | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4423859973 |
+| AI Analyst | PCL Construction | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=032b01981a50fcda |
+| Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4412988401 |
+| Lead - Indigenous Relations | Alberta Health Services | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423924179 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422372604 |
+| Senior Platform Analyst | Quarry Consulting | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422420096 |
+| Coordinator I | Alberta Health Services | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423924182 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4413526293 |
+| Delivery Analyst - Term | The Seaboard Transport Group | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423918220 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4419252585 |
+| Group Short Term Disability Claims Specialist | Equitable | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4417691396 |
+| Business Systems Analyst | PCL Construction | 2026-06-02 | R | https://ca.indeed.com/viewjob?jk=871996ab641ac4c7 |
+| Platform Support Analyst, North America (PST/MST Time Zone) | Instanda | 2026-06-02 | R | https://ca.indeed.com/viewjob?jk=8f9c24eb73a48900 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422383283 |
+| Work From Home: Online Data Analyst - French (CA) | TELUS Digital AI Data Solutions | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422388969 |
+| Visual Content Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4413555330 |
+| Strategic Finance Analyst | Remote | Crossing Hurdles | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4403611127 |
+| Research Analyst (Remote) | Quik Hire Staffing | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422384259 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422386303 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422396468 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422400198 |
+| Full Time Sales Associate | Pet Valu | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4423925485 |
+| Sub Prequalification Coordinator | Stantec | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4422413246 |
