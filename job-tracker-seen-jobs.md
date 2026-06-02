@@ -9221,3 +9221,40 @@
 | Relationship Associate | OPENLANE | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4419201121 |
 | Insurance Advisor, Personal Lines | MMI Insurance | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423231568 |
 | Financial Controller | Peters & Co. Limited | 2026-06-01 | G | https://www.linkedin.com/jobs/view/4423240940 |
+| Executive Assistant & Operations Coordinator | Social Boss | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=3379738852098e78 |
+| sales&marketing support specialist | Ramtech Environmental Products | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=419fba246ebbf560 |
+| Supply Management Professional – Corporate Contracts | Canadian Natural | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=fb57fc2231c4915b |
+| Sourcing and Contracting Specialist – Oilsands (Mining) | Canadian Natural | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=d5c903ae250869a6 |
+| Supply Management Lead | Canadian Natural | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=0c08eaa22e88022f |
+| Heavy Equipment Rental Coordinator | Morgan Construction & Environmental Ltd. | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=17a2f8a38e149b34 |
+| Service Operations Coordinator | Superior Propane | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=2ed7bae775a92e3a |
+| Full Time Sales Lead | Pandora Jewelry | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=6edad18c2e983fee |
+| Part Time Sales Lead | Pandora Jewelry | 2026-06-02 | J | https://ca.indeed.com/viewjob?jk=aba2932c53d2a5ac |
+| Application Analyst | CPA Calgary Chapter | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4419206837 |
+| Quality Engineering Analyst/Consultant - R8dius | Deloitte | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422301077 |
+| Pricing Analyst | Insight Global | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423297108 |
+| Supply Management Professional – Corporate Contracts | Canadian Natural Resources Limited (CNRL | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423276550 |
+| Service Advisor (Jaguar-Land Rover Calgary) | Go Auto | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423411345 |
+| Senior Promotions Specialist | Stantec | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422190485 |
+| Advanced Process Control Specialist/Engineer | Spartan Controls | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423417388 |
+| Business Development Coordinator (6-month contract) | Fasken | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4423400349 |
+| First Nations/Inuit/Métis Candidates: Quality Engineering An | Deloitte | 2026-06-02 | J | https://www.linkedin.com/jobs/view/4422196266 |
+| Accounting and Administrative Coordinator | MegaPixx Media Ltd | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=b9d27632aa8d15b3 |
+| Referral Coordinator / Specialist Navigator | Alberta Cardiology and Medical | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=d27c3585f7e9a91c |
+| Part-Time Office Administrator - Morning Shift | Convergint | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=a9405dfcc5de811b |
+| Community Disability Support Worker | Above and Beyond Care Services Inc | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=4891384cc2496acb |
+| Community Disability Support Worker | Above and Beyond Care Services Inc | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=a2ef731bb735bd9d |
+| Community Disability Support Worker | Above and Beyond Care Services Inc | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=9e84609f74acafa4 |
+| Design Team Project Administrator | Boardwalk | 2026-06-02 | N | https://ca.indeed.com/viewjob?jk=d86a88b49e66a26d |
+| Specialized Program Coordinator - Internationally Educated M | Mount Royal University | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4419221459 |
+| Part-Time Office Administrator - Morning Shift | Convergint | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4422189142 |
+| Marketing Coordinator | Perkins&Will | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4422162098 |
+| Senior IM Program Analyst | Government of Alberta | 2026-06-02 | N | https://www.linkedin.com/jobs/view/4423407629 |
+| Support Specialist | Bulletproof InfoTech | 2026-06-02 | R | https://ca.indeed.com/viewjob?jk=ed711e905a498fa1 |
+| Training Specialist | Intelex | 2026-06-02 | R | https://ca.indeed.com/viewjob?jk=8bf8d15514bf6416 |
+| Integration Developer | Sovereign Insurance | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4423299625 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-06-02 | R | https://www.linkedin.com/jobs/view/4422188257 |
+| Business Sales Agent - Calgary | OSL Direct - Bell Authorized Agent | 2026-06-02 | G | https://ca.indeed.com/viewjob?jk=a0a890423f1c5de6 |
+| Community Associate | Regus | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4422178132 |
+| Customer Experience Associate - Brooks, AB (18.75 hours/week | Scotiabank | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4423408550 |
+| Health & Safety Administrator | KLS Earthworks & Environmental | 2026-06-02 | G | https://www.linkedin.com/jobs/view/4422167155 |
