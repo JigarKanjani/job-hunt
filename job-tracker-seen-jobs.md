@@ -9336,3 +9336,35 @@
 | IT Support & Deployment Technician | First Response Technical Services Inc | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=a8cac8d04164946a |
 | Administrative Support III, Immunization Booking – Health Li | Primary Care Alberta | 2026-06-03 | G | https://ca.indeed.com/viewjob?jk=c6edfea872956d81 |
 | Onsite/Remote Event Coordinator | Kreative House Consulting | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4422670995 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4413903848 |
+| EHG Billing Specialist | Osler, Hoskin & Harcourt LLP | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4410197061 |
+| Business Application Specialist | RBC Dominion Securities | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4413297057 |
+| (CAN) Distribution Centre Team Associate - Operations (Part- | Walmart Canada | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4420111086 |
+| Human Resources Coordinator - Recruitment & Onboarding | Black & McDonald Limited | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4413801391 |
+| Health & Safety Coordinator | BUILD IT | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4410340408 |
+| Technical Services Specialist | TransCanada Turbines | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4404347729 |
+| Category Specialist - Vendor Management Inventory | City of Edmonton | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4419640531 |
+| Veterinary Assistant, Receptionist, Royal Oak Animal Hospita | VCA Animal Hospitals | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424009181 |
+| Procedure Specialist – Electrophysiology (Calgary / Edmonton | Abbott | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4422908838 |
+| Sr. Business Analyst | Yochana | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424213408 |
+| Sr. Business Analyst | Enterprise Solutions Inc. | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4423973601 |
+| MEAN Stack Developer | Iris Software Inc. | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4418814072 |
+| Quality Assurance Automation Engineer | Synechron | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4364433553 |
+| Sr Systems Integrator | CQ Search Group Ltd. | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4424095941 |
+| Cybersecurity Data Analyst (Remote) | Soho Square Solutions | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4420121187 |
+| Operations Analyst - Microsoft Office | Remote | Crossing Hurdles | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4413553192 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422938865 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422926994 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422932913 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422942295 |
+| Research Analyst (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422932840 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4403615170 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422934816 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422923666 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422926555 |
+| General Merchandise Associate | Walmart | 2026-06-03 | G | https://ca.indeed.com/viewjob?jk=98d862be97fc8b58 |
+| General Merchandise Associate | Walmart | 2026-06-03 | G | https://ca.indeed.com/viewjob?jk=40eb12106d009233 |
+| Accounting & Administrative Team Members | Reggin Technical Services Ltd | 2026-06-03 | G | https://ca.indeed.com/viewjob?jk=b99cb2fd4c483766 |
+| General Merchandise Associate | Walmart Canada | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4420113060 |
+| Data Services Consultant Associate (September 2026 - Toronto | IBM | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4410199626 |
+| Learning & Development Advisor - Corporate Services | Graham | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4413156859 |
