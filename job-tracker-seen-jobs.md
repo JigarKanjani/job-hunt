@@ -9426,3 +9426,68 @@
 | Commercial Real Estate Agent | LIANG Commercial Real Estate | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4407784540 |
 | Contract Administrator | Net2Source (N2S) | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4422610563 |
 | Contract Administrator | Net2Source (N2S) | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4422983532 |
+| Human Resources - Senior Specialist Talent Acquisition | Sobeys | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=69c59c9ee66da3b3 |
+| Project Coordinator | BUILD IT | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=4b2a3fd37506a5d1 |
+| Community Relations Administration Specialist | The Salvation Army | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=d4a5b6b698665d57 |
+| Health & Safety Coordinator | BUILD IT | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=caf43f2c32b37013 |
+| Resource Specialist - Family Services | The Salvation Army | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=41afd82210d5a77b |
+| Summer Student - Estimation & Operations | ATCO | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=4fc852f737dc7695 |
+| Administrative & Operations Coordinator | APEX CONTRACTORS | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=ab6c87acae921a5e |
+| Full-Time and Part-Time Client Experience Coordinator | Nose Creek Sport Physiotherapy | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=f05abf7df46ad2d8 |
+| People & Culture Coordinator | Bird Construction | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=37b24a711ddc0dd3 |
+| Category Manager, Corporate, IT & Tail Spend | Superior Propane | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=de4207e0b858a70f |
+| Software Asset Management Analyst | ATCO | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=6b95084d3250542e |
+| Day Camp Leader | The Salvation Army | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=ced2cd976b6eeb6d |
+| Financial Analyst (Finance) | 3C Information Solutions | 2026-06-03 | J | https://ca.indeed.com/viewjob?jk=97bf20b6b3089584 |
+| Project Coordinator | BUILD IT | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423047058 |
+| Tenant Services Coordinator | Armco | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423047558 |
+| Building Services Coordinator | Armco | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423055389 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4420162141 |
+| Planner | Airswift | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423044672 |
+| Regional Category Growth Specialist, Protein | Sysco Canada Inc. | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423044933 |
+| Strategic Analyst, Emerging Technology | BMO | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423043819 |
+| Senior Accounting Analyst, SAP Master Data Management | PETRONAS Canada | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423032376 |
+| Engineer in Training, Operations Coordination | Alberta Electric System Operator (AESO) | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4424249658 |
+| Indigenous Research Coordinator (Grants), Research Services | University of Calgary | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423052241 |
+| Team Lead Remote Operations Center | Enbridge | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4420166017 |
+| JUNIOR SERVICE ADVISOR - CALGARY SERVICE | Grand Touring Automobiles | 2026-06-03 | J | https://www.linkedin.com/jobs/view/4423041733 |
+| Level III Program Supervisor/Coordinator for Childcare Centr | Lakeland Ridge Childcare & OSC Ltd. | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=f8433d3ed9516784 |
+| Program Coordinator | Saamis Immigration Services Association | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=ee179c6c89762689 |
+| Field Case Manager | Cencora | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=20b6a1f2e28e9879 |
+| Arcade Shark Part-Time Administrative & Business Development | Arcade Shark Inc. | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=a1fac7b1edeb7e43 |
+| Branch Administrator | Bidell Gas Compression | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=2ee5d84c0f734c03 |
+| Beauty Advisor - Part Time | Sephora | 2026-06-03 | N | https://ca.indeed.com/viewjob?jk=d70dd7508ab03e51 |
+| Administrative Assistant - AgeCare Dawson | AgeCare | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4423034902 |
+| Senior Research Program Manager, Community Health Sciences | University of Calgary | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4422414983 |
+| Research Administrator, Community Health Sciences | University of Calgary | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4422605175 |
+| Health & Safety Coordinator | BUILD IT | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4423039702 |
+| Turnaround Planner | Airswift | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4420163079 |
+| Philanthropy Officer | United Way of Calgary and Area | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424249717 |
+| Full-Time Curriculum Coordinator - 2026-2027 | Peace River School Division | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424255237 |
+| Human Resources Coordinator | Morskate Manufacturing Ltd. | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424247880 |
+| Human Resources Advisor | AMA - Alberta Motor Association | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4419590088 |
+| Family School Liaison Counsellor | Grande Yellowhead Public School Division | 2026-06-03 | N | https://www.linkedin.com/jobs/view/4424241938 |
+| Junior Business Analyst | Millennium Insurance Corporation | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=62ea80be611be94c |
+| Revenue Operations Analyst (Temporary Full-Time – 6-Month Te | H2Safety Services | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=364037817383e94e |
+| CRE Operations Analyst | Smart Capital Center | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=7bdb8eeb9f55c78a |
+| Customer Care Specialist - Day Shift | Gigadat | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=8901b08ea04c9122 |
+| Intermediate Database Administrator (DBA) | WestJet Airlines | 2026-06-03 | R | https://ca.indeed.com/viewjob?jk=d9c98357623afcb7 |
+| Laboratory Quality Assurance Specialist - Calgary | AGAT Laboratories | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4419614142 |
+| Early Professional, Geographic Information Systems Science | WSP in Canada | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4424255347 |
+| Junior Process / Project Engineer | ChemEdge Engineering Ltd | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4424253585 |
+| SAP BW-ABAP Developer - Fixed Term | CPKC | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4423031392 |
+| Business Performance Analyst | The Headhunters Recruitment | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4422418207 |
+| Software Asset Management Analyst | ATCO | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4424267184 |
+| Business Solutions Analyst | University of Alberta | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4423048836 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-03 | R | https://www.linkedin.com/jobs/view/4423045163 |
+| Evaluation and Data Specialist | Luna Child and Youth Advocacy Centre | 2026-06-03 | G | https://ca.indeed.com/viewjob?jk=90f438cd5fdb8928 |
+| Receptionist | Armco | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423051460 |
+| Receptionist Regular Part Time [SN RECEP4 0.19] Agecare Shaw | AgeCare | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423035848 |
+| Contact Centre Service Agent (BC/AB - Remote) | The Travel Corporation | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4420146444 |
+| Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4424259364 |
+| Location Analytics Associate | CBRE | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423033927 |
+| Optical Associate | FYihealth group | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4424268213 |
+| Wealth Management Associate Program (January 2027)  - Privat | Scotiabank | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4424246877 |
+| Customer Experience Associate | TD | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423044494 |
+| Customer Experience Associate | TD | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423042928 |
+| Wealth Management Associate Program (January 2027)- ScotiaMc | Scotiabank | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4424251597 |
