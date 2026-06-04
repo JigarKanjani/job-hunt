@@ -9558,3 +9558,33 @@
 | Overnight Associate | Walmart Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4420716411 |
 | Sanitation Associate | 7-Eleven | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423376430 |
 | Sales Associate - Crowfoot Hyundai | AutoCanada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4404455907 |
+| Supply Chain Analyst | Telematic Controls Inc | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=0b6d6c19272b53ea |
+| Business Analyst - (GenAI & oil & Gas Domain) | Enterprise Solutions Inc. | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424428351 |
+| Business Analyst – FIS Payments | KTek Resourcing | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423525049 |
+| Service Operations Coordinator | Superior Propane | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420720862 |
+| Senior Advisor, Infrastructure Advisory | Colliers Project Leaders | Canada | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423511878 |
+| Senior Security Analyst | OnX | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424432144 |
+| Data Scientist - Specialist | Hays | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423501380 |
+| Building Automation System Specialist | Calgary Board of Education | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423399946 |
+| Coordinator, Utility Generalists | City of Calgary | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424273857 |
+| Senior Business Analyst | CBL Solutions | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423501007 |
+| Contract Administrator | Hardline Engineering | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=cd9b19801e62112d |
+| Office Administrator | Gateway Trailer Repairs Ltd. | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=8e1f2e7974ddd127 |
+| Document Control Administrator | Hardline Engineering | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=d9eba5dc8175966a |
+| Human Resources Coordinator | Rogers Wireless | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=d1b61824bde18007 |
+| Corporate Governance Coordinator | RJC Engineers | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=e5337dc11c15d8b4 |
+| Surgical Coordinator | Bow River Medical Specialists | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=140d86f192e4fcc8 |
+| Branch Administrative Assistant | Bidell Gas Compression | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=38929e863a57178a |
+| Administrative Coordinator | JayJaxx Controls Inc. | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=faf555cd1ed6d865 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423512826 |
+| Administrative Assistant | CIBC | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423513775 |
+| Administrative Assistant | Solaris MCI | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4424437333 |
+| Personal Insurance Advisor | BrokerLink | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4405403050 |
+| Senior Technical Support Specialist | nesto | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4393521327 |
+| Global Service Desk (GSD) Analyst - Part Time | Long View Systems | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4420737581 |
+| Analyst, Capital Governance & Data Management | EPCOR | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423518117 |
+| Operational Technology Infrastructure Analyst | Pembina Pipeline Corporation | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423516731 |
+| Pursuit Cost Controller | Arcadis | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4403055024 |
+| Associate Consultant - 26187D | Enverus | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4414483784 |
+| Controller | Robert Half | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424433089 |
+| Animal Care Technician, Office of the Associate Dean (Resear | University of Calgary | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423511385 |
