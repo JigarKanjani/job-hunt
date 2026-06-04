@@ -9522,3 +9522,12 @@
 | Ramp Agent | FedEx Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423069606 |
 | Sales Associate Full Time - Market Mall | WOW! mobile boutique | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424269951 |
 | Ramp Agent | FedEx Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423088163 |
+| Marketing & Customer Experience Specialist | LessThan3 Inc. | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=413821bf2b3638fb |
+| Operations Business Analyst | Rogers Communications | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424345266 |
+| Analyste d'affaires, Opérations | Rogers Communications | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424353211 |
+| Lead Hand Service Shop | JT Equipment Corp | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423320968 |
+| Continuous Improvement Analyst | HelloFresh | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424339276 |
+| Parts Specialist | Brandt Group of Companies | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424332251 |
+| BIM/VDC Specialist | PCL Construction | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=cea473bc7cbb8400 |
+| Operations Business Analyst | Rogers Communications | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424368100 |
+| General Merchandise Associate | Walmart Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424335204 |
