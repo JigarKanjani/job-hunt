@@ -9491,3 +9491,34 @@
 | Customer Experience Associate | TD | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423044494 |
 | Customer Experience Associate | TD | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4423042928 |
 | Wealth Management Associate Program (January 2027)- ScotiaMc | Scotiabank | 2026-06-03 | G | https://www.linkedin.com/jobs/view/4424251597 |
+| Business Solutions Analyst | Cenovus Energy | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=98fc2c8fbceb5177 |
+| Product Specialist (Sales Module) | PBS Systems | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=a5307f461da6d4af |
+| Buyer | Safety Express Ltd | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=cc93869a2581f25d |
+| Buyer | Safety Express Ltd | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=5f6df2985d50ec9f |
+| Maintenance Reliability Specialist | Strathcona Resources Ltd. | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423308041 |
+| Package Specialist-SAP HANA SCM MM | IBM | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420157791 |
+| People & Culture Coordinator | Bird Construction | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423093034 |
+| Clinic Coordinator (14-Month Maternity Leave Coverage) | McAtee Psychology | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423306163 |
+| Program Manager | Spartan Controls | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424296289 |
+| Employee Relations Advisor | Kinaxis | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423085635 |
+| Data Centre Operations III , Data Centre Operations | Amazon Web Services (AWS) | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423068503 |
+| Customer Experience Lead Customer Experience Lead - Calgary, | Scotiabank | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424275978 |
+| Studio Lead, Calgary | HDR | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424268839 |
+| Field Cost Analyst | Manpower Alberta | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424277115 |
+| (CAN) Distribution Centre Team Associate - Operations II (Sh | Walmart Canada | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420157381 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=0bc994e276b4b8aa |
+| Communications & Marketing Advisor | City of Calgary | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=d0b790f6f16d5cba |
+| Banking Advisor Intern | RBC | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=32053cc9540fa45e |
+| Food Co-worker (FT) | IKEA | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=1f460242fe7eef2f |
+| Food Co-worker (PT) | IKEA | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=6980149121846005 |
+| Coordinator, Organizational Development & Effectiveness | Athabasca University | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=32be62a993845ba2 |
+| PCVRS Quality Assurance Coordinator (remote position) | Lifemark Health Group | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=00875f72babd3639 |
+| QUAC-Quality Assurance Coordinator | Lifemark Health Group | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=7c2f2a7e3096b657 |
+| Receptionist / Office Assistant | DWF | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423082141 |
+| Link Worker | Carya | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4424270488 |
+| Revenue Operations Data Analyst | Nozomi Networks | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=432dc27a41f3409a |
+| Application Developer | Stantec | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423304271 |
+| Receptionist / Office Assistant | DWF | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=deccf8c6bf046eb8 |
+| Ramp Agent | FedEx Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423069606 |
+| Sales Associate Full Time - Market Mall | WOW! mobile boutique | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424269951 |
+| Ramp Agent | FedEx Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423088163 |
