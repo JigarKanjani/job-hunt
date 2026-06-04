@@ -9588,3 +9588,60 @@
 | Associate Consultant - 26187D | Enverus | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4414483784 |
 | Controller | Robert Half | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424433089 |
 | Animal Care Technician, Office of the Associate Dean (Resear | University of Calgary | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423511385 |
+| Quality Assurance Analyst | Omega 365 | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=4389807277a8e537 |
+| Buyer | Omega 365 | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=f25270248d06691c |
+| Operations Associate | Crate and Barrel | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=cb394e2b98488df3 |
+| Construction Operations Lead | Ava maintenance manage | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=7ed39a5c6538d524 |
+| Operations Administrator | Southern Alberta Regional Victim Serving | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=c7a7515256fcf0b5 |
+| Case Manager - 1 year contract | ENVIROS | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=1940c9eeea5d2340 |
+| Strategic Supply Chain Management | Net2Source (N2S) | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423569817 |
+| Business Analyst | Infotek Consulting Inc. | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420748309 |
+| Business Analyst | Insight Global | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424429970 |
+| Operations Scheduler | HomeFree Homecare | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424432858 |
+| Intermediate QA Analyst | WestJet | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423571007 |
+| Salesforce Business Analyst | TechDoQuest | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420754227 |
+| Sales Coordinator, Western Canada | Armstrong Fluid Technology | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423547442 |
+| Analyste de données | Co-operators Assurance et services finan | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424466577 |
+| Sales Operations & AI Enablement Specialist (2026-024) | Circle Cardiovascular Imaging | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423569854 |
+| Accounts Payable Specialist | Dentons | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420752265 |
+| Procurement Coordinator | Brookfield Residential | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424452537 |
+| Service Appointment Coordinator - Hyatt Infiniti | AutoCanada | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424463519 |
+| Business Relationship Specialist | Rocky Brands, Inc. | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424459234 |
+| Inventory Manager | Bell | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4419908614 |
+| Communications Coordinator, O'Brien Institute for Public Hea | University of Calgary | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423588031 |
+| Senior Associate Talent Development Advisor | 123Dentist | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424449917 |
+| Project Coordinator, Geomatics | GeoVerra | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424456689 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4423589037 |
+| Senior Transportation Design Engineer | WSP in Canada | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4420751482 |
+| Service Appointment Coordinator - Hyatt Infiniti | AutoCanada | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=76cb415810b96ef3 |
+| Volunteer Coordinator | Hispanic Arts Society | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=d399529754e20f37 |
+| Supply Chain Manager - Canada | SureWerx | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=4696a71dadc2364e |
+| Billing Coordinator- 12 Month Contract | Gowling WLG | 2026-06-04 | N | https://ca.indeed.com/viewjob?jk=1139ad409e8b22a2 |
+| Administrator Shipping/Receiving-FT | Sobeys | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423554911 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4424452232 |
+| Founding Circle: Coaches, Facilitators, Practitioners & Lead | Unlimited Health Collective | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423551093 |
+| Salesforce CPQ Administrator | Black Diamond Group | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4420753398 |
+| Data Analyst, HR | The Salvation Army in Canada | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4423558732 |
+| Plant Administrator | ATCO | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4424465634 |
+| Environmental Data & GIS Specialist | Parsons | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=522b84db6080006c |
+| Power Fundamentals & Structuring Analyst | TC Energy | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=bc62c83d12f97366 |
+| IT Support Specialist | S76 | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=c39256d0d9443613 |
+| Systems Administrator | UNIPEC America, Inc. | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423560584 |
+| Technical Business Analyst | Procom | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4420742763 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423549761 |
+| API Developer (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423570038 |
+| C# Developer (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423545604 |
+| C++ Developer (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423552585 |
+| Controller | Centennial Food Solutions | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=38571febfe88ecb8 |
+| Animal Care Technician, Office of the Associate Dean (Resear | University of Calgary | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=39e8bcf1e48894b4 |
+| Document Control Specialist | ICE Western Sales | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=145185595fab8d24 |
+| Showroom Associate | Superprem Industries | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=2579bc2d9c9306a6 |
+| Moving Associate (Part-Time) | Women In Need Society | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=4586526bdfc009ab |
+| Summer Lunch Program Administrator (Full Time) - Canada Summ | YMCA Calgary | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=4ae263846fb43c4f |
+| Phone Support and Customer Service Agent | Reach | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4415548102 |
+| Customer Service Representative (Calgary South) | Trail Appliances AB/SK | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4421210209 |
+| Customer Service Representative Calgary, AB | BearCom Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4386478769 |
+| Customer Service Representative | TWO MEN AND A TRUCK® | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4346368358 |
+| Receptionist | The Salvation Army in Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424439992 |
+| Temporary Administrative Support (Full and Part-time) | University of Calgary | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4422661902 |
+| Associate, Commercial Banking (Corporate Finance Group) | BMO | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4422133336 |
