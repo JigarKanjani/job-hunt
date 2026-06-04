@@ -9531,3 +9531,30 @@
 | BIM/VDC Specialist | PCL Construction | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=cea473bc7cbb8400 |
 | Operations Business Analyst | Rogers Communications | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424368100 |
 | General Merchandise Associate | Walmart Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4424335204 |
+| Senior (Technical) Business Analyst | Alberta Health Services | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=72d2cfc2a4e2a3f4 |
+| Treasury Analyst | Finning | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=509ee1e13286f65c |
+| Building Automation System Specialist | Calgary Board Of Education | 2026-06-04 | J | https://ca.indeed.com/viewjob?jk=7dde6bbfc89841d7 |
+| Materials Coordinator (Temporary) | TransCanada Turbines | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4405291767 |
+| Treasury Analyst | Finning | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4424349761 |
+| Investment Advisor | RBC Dominion Securities | 2026-06-04 | J | https://www.linkedin.com/jobs/view/4414231736 |
+| Community Resource Worker, Complex Needs | DDRC | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4420704575 |
+| Service Advisor - Northland Volkswagen | AutoCanada | 2026-06-04 | N | https://www.linkedin.com/jobs/view/4414164875 |
+| Business Analyst - Technical | Alberta Health Services | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=c5c8908df2b04a35 |
+| IT Analyst II | Alberta Health Services | 2026-06-04 | R | https://ca.indeed.com/viewjob?jk=0384866e5aeebb35 |
+| Platform Engineer | KBC A Yokogawa Company | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423355951 |
+| Platform Engineer, Databases | Clio | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4413898701 |
+| IT Business Systems Analyst | CF Industries | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4404915999 |
+| Business Reporting Analyst (Excel & PowerPoint) | Remote | Crossing Hurdles | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424392324 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423364399 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423365451 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423377186 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423365565 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423376326 |
+| GPU Developer | Remote | CodeGeniusRecruit | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424344804 |
+| Financial Analyst | $65/hr Remote | Crossing Hurdles | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424363480 |
+| Financial Analyst | $65/hr Remote | Crossing Hurdles | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4424369771 |
+| AI Agent Developer (Remote) | Quik Hire Staffing | 2026-06-04 | R | https://www.linkedin.com/jobs/view/4423376605 |
+| Veterinary Assistant, Receptionist, Royal Oak Animal Hospita | VCA Canada | 2026-06-04 | G | https://ca.indeed.com/viewjob?jk=f67c8e645b190c7c |
+| Overnight Associate | Walmart Canada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4420716411 |
+| Sanitation Associate | 7-Eleven | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4423376430 |
+| Sales Associate - Crowfoot Hyundai | AutoCanada | 2026-06-04 | G | https://www.linkedin.com/jobs/view/4404455907 |
