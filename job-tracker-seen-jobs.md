@@ -9787,3 +9787,39 @@
 | Administrative Assistant - FT -Calgary | Coast Claims Insurance | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=843045d59e0bfcf5 |
 | Cosmetics Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421152773 |
 | Associate, Internal Sales, Intermediary Distribution | BMO | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4405438346 |
+| Financial Analyst | Petronas Canada | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=1a8990bd4125bcb7 |
+| Enterprise Account Executive (US & Canada) | Kevel | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=3a38079e440ec18d |
+| Operational Accounting Analyst | Midstream LPG Partnership | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=6c8e4736743131f1 |
+| Operational Accounting Analyst | Midstream Energy Partners | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424619061 |
+| Materials Coordinator II | NES Fircroft | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4421194078 |
+| Logistics Supervisor - Oil & Gas | Brunel | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424605366 |
+| Logistics First Line Supervisor II | NES Fircroft | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4421193034 |
+| Technical Business Analyst | Boardwalk | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424620149 |
+| Quality Advisor | TransCanada Turbines | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424759823 |
+| Accounts Payable Specialist | WestJet | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424901411 |
+| Le/La  Leader commercial - Partenaires Services (Services Pa | Schneider Electric | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424593915 |
+| Junk Removal Specialist | 1-800-GOT-JUNK? | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=154c341e37686034 |
+| Community of Practice Coordinator | MaKami College | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=16960064e0327851 |
+| Patient Care Coordinator | Edgar Psychological | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=d99c571910726187 |
+| Administrative Assistant | Moodys Private Client | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424763733 |
+| Office Administrator | SMART Technologies | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4421173756 |
+| Family Resource Worker | Prairie Land School Division 25 | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424609616 |
+| AI Training Specialist (Egocentric Video) | Toloka Annotators | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424775110 |
+| People & Culture Coordinator | Bird Construction | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4414678897 |
+| Network Administrator | STEEL-CRAFT DOOR PRODUCTS LTD. | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=ac99d7f27e5e4ccd |
+| technical support specialist - wholesale trade | PGS Equipment ltd. | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=0f32d8351aedb54c |
+| Software Test Developer | SMART Technologies | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4411525530 |
+| Digital Services Infrastructure Analyst | Bird Construction | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4414690335 |
+| Receptionist / Administrative Assistant | Pro Tax Block Corp. | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=da346bc8e090f1bb |
+| Veterinary Receptionist | Westland Veterinary Hospital | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=31225c9847e1f3e8 |
+| General Merchandise Associate | Walmart | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=c3f7fe1ec2ecc8c3 |
+| Client Experience Coordinator | Lux Windows and Doors | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=faadf1d36d4c3937 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=12f512031be46ef6 |
+| Personal Banking Associate | TD | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=72517345e4d236c7 |
+| Sales Associate Full Time - Sunridge Mall | WOW! mobile boutique | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424617683 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421186110 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421190081 |
+| Private Banking Associate Fall 2026 Co-op, Calgary, AB | CIBC | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424797274 |
+| Environmental Project Controller | WSP in Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4393085404 |
+| Sales Specialist (PRO) | RONA | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424795565 |
+| Project Scheduler | Phasor Engineering Inc | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424904321 |
