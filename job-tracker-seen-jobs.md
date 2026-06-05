@@ -9744,3 +9744,13 @@
 | Consumables Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4402426356 |
 | Sales Associate - Tower Chrysler Dodge Jeep Ram | AutoCanada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4404714282 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4411556114 |
+| Salesforce Business System Analyst | Iris Software Inc. | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424587193 |
+| Building Future Leaders Program – Production Supervisor | IKO North America | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4411503614 |
+| Pricing Analyst | Applied Industrial Technologies - Canada | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4415313745 |
+| Family Counsellor | Recovery Alberta | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=34d1e56fc636854a |
+| E-Commerce Analyst | Cozey | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=2f72428d74d57424 |
+| Analyst II, Business Solutions (WMHS) | WM | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=8b29210866bd6c40 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424721190 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424731136 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424716779 |
+| Guest Agent II | Fairmont Hotels & Resorts | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424561958 |
