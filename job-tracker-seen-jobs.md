@@ -9754,3 +9754,36 @@
 | Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424731136 |
 | Remote Quantitative Analyst (Finance) | Turing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424716779 |
 | Guest Agent II | Fairmont Hotels & Resorts | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424561958 |
+| Service Coordinator - Up to 18-month contract | Arpac Storage Systems | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=5561f3825cf449e6 |
+| Logistics Coordinator | NTS Amega West Canada, Ltd. | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=b68f3685895cbb6c |
+| Production Planner/Scheduler | STATS Group International Inc | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=7956876b40e1ed11 |
+| Supply Chain Management | Net2Source (N2S) | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424746270 |
+| Materials Coordinator II | Brunel | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424591860 |
+| Master Data Analyst | Tourmaline Oil Corp | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424611046 |
+| Services Partners Sales Leader | Schneider Electric | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424599025 |
+| Compliance Officer | COSL Canada Ltd. | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424603168 |
+| Team Lead, Development (18-month term position) | Alberta Securities Commission | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424749394 |
+| Senior Learning and Development Specialist | Avenue Living Residential | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4406911080 |
+| Business System Analyst | Iris Software Inc. | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424608133 |
+| Specialist IT Controls | CPKC | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4343808627 |
+| Test Specialist (CDU) | CoolIT Systems | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4393024885 |
+| Lead Electrical Engineer | Airswift | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4421247455 |
+| Hearing Care Coordinator | BELTONE HEARING CENTER | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=051987c50d9c42df |
+| Drilling Administrator | Tourmaline Oil Corp | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424582828 |
+| Analyste-expert/analyste-experte en évaluation quantitative  | Bank of Canada | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424592523 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424724997 |
+| Human Resources Administrator | SNDL Inc. | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4421164644 |
+| COBOL Developer | Corpay | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=25eadc560652f474 |
+| Proof Services Processing Associate | Symcor | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424752323 |
+| Learning Systems Analyst | ZealoTech People | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424604070 |
+| Product Support Representative - Power Systems | Wajax | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424737889 |
+| Application Engineer / Specialist - Automation and Industria | Siemens | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4383259678 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424770301 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424772274 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Quik Hire Staffing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424763273 |
+| Network and Systems Administrator | Prairie College | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424739092 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424769329 |
+| Full Time -Remote-entry-level Automation & AI Application De | A.T. Consulting & Recruiting Inc. | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424587745 |
+| Administrative Assistant - FT -Calgary | Coast Claims Insurance | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=843045d59e0bfcf5 |
+| Cosmetics Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421152773 |
+| Associate, Internal Sales, Intermediary Distribution | BMO | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4405438346 |
