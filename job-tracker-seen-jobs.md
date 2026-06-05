@@ -9823,3 +9823,50 @@
 | Environmental Project Controller | WSP in Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4393085404 |
 | Sales Specialist (PRO) | RONA | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424795565 |
 | Project Scheduler | Phasor Engineering Inc | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424904321 |
+| Specialist Data Management | CPKC | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=a5af48eb230ec533 |
+| Business Analyst | Hexagon Autonomous Solutions | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424792956 |
+| Materials Coordinator | Pantheon Inc | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424793190 |
+| Logistics First Line Supervisor | Airswift | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4421197027 |
+| Specialist Data Management | CPKC | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424904543 |
+| Sales Specialist - Risk Mitigation | Baker Hughes | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424791778 |
+| Financial Analyst | PETRONAS Canada | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424796527 |
+| Technical Business Analyst | Mastech Digital | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4421174324 |
+| Senior Claims Specialist – Management Liability Professional | Aviva Canada | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4319265304 |
+| Technical Program Manager, Software | SMART Technologies | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4411522543 |
+| Training Systems Analyst | Hays | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424906506 |
+| Civil Field Specialist, Rail | HDR | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424604454 |
+| NetSuite Analyst | Blackline Safety | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424925080 |
+| Solutions Specialist 1 | Computacenter | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4372765737 |
+| Category Lead, Strategic Procurement (Construction), Supply  | University of Calgary | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424910256 |
+| Contract & Procurement Specialist | Government of Alberta | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424608829 |
+| Senior HSE Coordinator | TRAXX Coachlines | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=b0e6baac8f072ed3 |
+| Project Coordinator | Carlson Construction Ltd. | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=e8a62fda1120a57b |
+| Marketing Coordinator | Solara Hot Tubs & Patio | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=9c07e33b852890ea |
+| Youth Work Experience Coordinator (re:VISION) | Miskanawah | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424608782 |
+| Administrative Assistant  - FT -Calgary | Coast Claims Insurance Services | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424921028 |
+| Administrative Assistant | CCA Truck Driver Training Ltd. | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424603965 |
+| Housing Case Manager | Miskanawah | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424601689 |
+| Mortgage Specialist | BMO | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424914165 |
+| Mortgage Specialist | BMO | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424905980 |
+| Mortgage Specialist | BMO | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4424922108 |
+| Senior Personal Lines Advisor | HUB International | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4421183356 |
+| Senior Quantitative Analyst (Financial Markets) | Bank of Canada | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4421183245 |
+| Market Analyst | Canada Energy Regulator | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=8e3c1e3463748890 |
+| Technical Business Analyst | Boardwalk | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=2696582c726d4729 |
+| Application Support Analyst - ACX Corporate Support | AutoCanada | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=7e70da72965bec1b |
+| System Administrator | Grande Prairie Police Service | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=9b1c3a6d76b9b63e |
+| Process Engineer | Acero Engineering | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424601876 |
+| Administrative Assistant | CCA Truck Driver Training Ltd. | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=fb719660935c1936 |
+| Receptionist/Administration | Empire Kitchen and Bath Ltd | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=124287213dd4b08c |
+| Sales Associate -Temporary/Full-time (Manchester) - Canada S | Women In Need Society | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=6913f28ed98c42c9 |
+| Sales Associate -Temporary/Full-time (Macleod Plaza) - Canad | Women In Need Society | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=4ca3586fd383c4ba |
+| Beauty Advisor - Part Time | Sephora | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=8f670529eb70e805 |
+| Project Scheduler | Phasor Engineering | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=d401af6cf360bc76 |
+| FP Client Service Associate | TD | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424917193 |
+| Personal Banking Associate | TD | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424922167 |
+| Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424604786 |
+| Customer Experience Associate- (Fixed Term Contract) | TD | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424927112 |
+| Post Doctoral Associate in Knowledge Mobilization, Implement | University of Calgary | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424919165 |
+| Survey Specialist | Airswift | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421179283 |
+| Project Cost Controller - Turnaround | Airswift | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421182072 |
+| Controller, Southern Alberta | Bird Construction | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4414673983 |
