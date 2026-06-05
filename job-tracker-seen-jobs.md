@@ -9701,3 +9701,46 @@
 | Cloud Infrastructure Specialist (Remote) | Hire Feed | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424142626 |
 | IT Analyst I | Alberta Health Services | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424511743 |
 | Front Desk Agent | Hotel Arts Group | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=3d88cd828e84e5f0 |
+| Accounting Coordinator | RESA Power | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4380298135 |
+| Accounting Coordinator - AR/Collections | RESA Power | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4415252602 |
+| Enterprise Field Account Executive | Alteryx | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4414744529 |
+| Transportation Planning Co-op (Fall 2026) | HDR | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4405065335 |
+| Geotechnical Practice Leader | Langan Engineering & Environmental Servi | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4291963768 |
+| Technical Sales Specialist | Eaton | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4411191086 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4412763014 |
+| Business Analyst | $25/hr Remote | Crossing Hurdles | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4423916032 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4413526293 |
+| Operations Administrator 1 | Aggreko | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4404973838 |
+| Server Liaison - JOEY Eau Claire | JOEY Restaurant Group | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4371986479 |
+| Heavy Equipment Specialist (CDO) | Finning | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4414701634 |
+| Dealer Relations Coordinator | OPENLANE | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4403254849 |
+| Branch Care Coordinator | Air Liquide | 2026-06-05 | N | https://www.linkedin.com/jobs/view/4404907707 |
+| Cybersecurity Analyst | Edmonton Public Schools | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=15d10cd3d09d412d |
+| IT Analyst I | Alberta Health Services | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=4f016f7cecdffa52 |
+| IT Analyst II | Alberta Health Services | 2026-06-05 | R | https://ca.indeed.com/viewjob?jk=5345016645723040 |
+| Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4413531309 |
+| Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4413539374 |
+| Strategy & Operations Analyst | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4412747711 |
+| Business Reporting Analyst (Excel & PowerPoint) | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424392324 |
+| AI Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4408909368 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4403827222 |
+| Visual Content Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4413555330 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Data Annotation Specialist | $98/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4416520976 |
+| Financial Data Analyst | $30/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4418276445 |
+| Statistical Analyst | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4417121979 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4408999785 |
+| Financial Data Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4416898974 |
+| Operations Analyst - Microsoft Office | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4413553192 |
+| Coding Specialist | Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4417866912 |
+| Computational Engineering Specialist | $60/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4418572724 |
+| C# Developer | $65/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4415181438 |
+| Business Analyst III | Finning | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4414489670 |
+| Analyste d’affaires intermédiaire | Exposant 3 | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4396464508 |
+| Specialist | Covenant Health Canada | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4419273050 |
+| Audio Quality Assurance Specialist | $50/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4417560548 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4421781557 |
+| Sales Associate | Colliers | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4414668598 |
+| Consumables Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4402426356 |
+| Sales Associate - Tower Chrysler Dodge Jeep Ram | AutoCanada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4404714282 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4411556114 |
