@@ -9692,3 +9692,12 @@
 | Front Desk Agent | Pomeroy Lodging | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4420757839 |
 | Sales Associate (Land Rover Royal Oak) | Go Auto | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424106318 |
 | Financial Controller | MacDonald Search Group | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4424474631 |
+| E-Commerce Coordinator | Calgary Co-operative Association Limited | 2026-06-05 | J | https://ca.indeed.com/viewjob?jk=ec24a959ddc2c43b |
+| Marketing Senior Coordinator | AVEVA | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424513477 |
+| Case Manager &amp;#8211; Triveri | Enviros WSA | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424141723 |
+| Mortgage Specialist | RBC | 2026-06-05 | J | https://www.linkedin.com/jobs/view/4424163090 |
+| Senior Accounting Assistant - Small Claims Coordinator | City of Edmonton | 2026-06-05 | N | https://ca.indeed.com/viewjob?jk=ced852376f4a804d |
+| Technical Support Engineer, Alpha (Remote) - $60,000/year US | Crossover | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4423987405 |
+| Cloud Infrastructure Specialist (Remote) | Hire Feed | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424142626 |
+| IT Analyst I | Alberta Health Services | 2026-06-05 | R | https://www.linkedin.com/jobs/view/4424511743 |
+| Front Desk Agent | Hotel Arts Group | 2026-06-05 | G | https://ca.indeed.com/viewjob?jk=3d88cd828e84e5f0 |
