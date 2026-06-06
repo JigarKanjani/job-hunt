@@ -9937,3 +9937,10 @@
 | Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Quik Hire Staffing | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425126551 |
 | Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425118387 |
 | Production Associate - Utility IV | Cintas Canada | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4402677211 |
+| Coordinator, People & Culture | Orennia | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=b1fb4fef72b8f7d9 |
+| Stage Experience Lead - Full Time | SEPHORA | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4415530178 |
+| Team Lead, Insurance Advisors | Westland Insurance Group Ltd. | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4404117608 |
+| Project Administrator | Black Professionals Canada | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424505556 |
+| CA Financial Advisor | Edward Jones | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424688031 |
+| Senior Commercial Insurance Advisor | Westland Insurance Group Ltd. | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4404126525 |
+| Office & Event Coordinator (Part-Time, Remote) | BMA Conventions | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424680025 |
