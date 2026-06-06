@@ -9922,3 +9922,18 @@
 | Credit-Free Instructor - Personal Fitness Trainer Diploma | Mount Royal University | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=e9e22306ebeb8a8d |
 | Business Systems Programmer | Northwestern Polytechnic | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=0e72a4ac1fb18d33 |
 | Administrative Support IV | Alberta Health Services | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=61c3b463a77aab5f |
+| Project Specialist, Transmission Assets | TransAlta | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4405879818 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4406682963 |
+| District Administrator | Brenntag | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4415561146 |
+| Gyro Field Specialist | SLB | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=b5031a1bec2ecbc7 |
+| Business Analyst, Technology Transformation | Rohit Group | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4415512419 |
+| Healthcare Data Analyst (Remote) | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425118485 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425116492 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425112496 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425111445 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425114429 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425107589 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425108455 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Quik Hire Staffing | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425126551 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425118387 |
+| Production Associate - Utility IV | Cintas Canada | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4402677211 |
