@@ -9960,3 +9960,6 @@
 | Change & Contract Manager | FlatironDragados | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4415120834 |
 | Healthcare Data Analyst (Remote) | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425147297 |
 | Customer Service Associate - Plumbing/Electrical - PT | RONA | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4425150551 |
+| Senior Quantitative Analyst (Financial Markets) | Bank of Canada | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=edc89d261f3fb1a5 |
+| Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=7322cddbb6bf46d1 |
+| Mountain Sports Sales Associate (Seasonal) | Decathlon | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4425138746 |
