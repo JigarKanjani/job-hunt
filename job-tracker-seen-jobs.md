@@ -9944,3 +9944,9 @@
 | CA Financial Advisor | Edward Jones | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424688031 |
 | Senior Commercial Insurance Advisor | Westland Insurance Group Ltd. | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4404126525 |
 | Office & Event Coordinator (Part-Time, Remote) | BMA Conventions | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424680025 |
+| Brand Sales Specialist- Infrastructure | IBM | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4412044475 |
+| Digital Solution Delivery Lead | Jacobs | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4395723200 |
+| Network Specialist | Raytheon | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=b7ca88ce02247f41 |
+| Data Services Developer Associate (September 2026 - Toronto  | IBM | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4412056431 |
+| Project Scheduler | Raytheon | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=8daf29b32fbb2db7 |
+| Employment Litigation Associate | Ogletree Deakins | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4373014426 |
