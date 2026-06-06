@@ -9870,3 +9870,34 @@
 | Survey Specialist | Airswift | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421179283 |
 | Project Cost Controller - Turnaround | Airswift | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4421182072 |
 | Controller, Southern Alberta | Bird Construction | 2026-06-05 | G | https://www.linkedin.com/jobs/view/4414673983 |
+| Project Coordinator - Commercial Glazing | Durabuilt Windows & Doors | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=e42c3a3b8dba5302 |
+| Program Manager - Vocational Services Department | Lifemark Health Group | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=90c0e6d2045b1de9 |
+| PCVRS Quality Assurance Coordinator (remote position) | Lifemark Health Group | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421518694 |
+| Intermediate / Senior Genesys Cloud CX Specialist (Contract) | Tykans Group Inc. | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421508905 |
+| Senior Analyst | ATCO Structures | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4424648124 |
+| Product Specialist (Sales Module) | PBS Systems | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421525009 |
+| Advisor, Business Support | RECRUITMENT PARTNERS INC. | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4424978646 |
+| NPI Coordinator | Johnson Controls | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421508741 |
+| PCVRS Quality Assurance Coordinator (remote position) | Lifemark Health Group | 2026-06-06 | N | https://ca.indeed.com/viewjob?jk=99440971d62da46a |
+| office administrator | Sunder Building Supplies | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4425100116 |
+| Talent Management and Culture Coordinator | Banff Centre for Arts and Creativity | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4420756606 |
+| Senior Registration Advisor | Concordia University of Edmonton | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4421515807 |
+| Senior Admissions Advisor | Concordia University of Edmonton | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4421501877 |
+| administrative officer | ERA Granite | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424986191 |
+| Human Resources & Talet Acquisition Specialist (Remote) | Hire Feed | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4424985184 |
+| Specialist Business Intelligence | BHP | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=b90362b8183f4f0c |
+| technical support specialist – information technology (IT) | Uniway Computers NW | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=871807180075b6ed |
+| Cloud Infrastructure Specialist (Remote) | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424989235 |
+| AI Adversarial Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424967892 |
+| AI Red Team Specialist - Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424979092 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424974953 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424969911 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424967895 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4424964964 |
+| Receptionist | Vision Group | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=a76354cf67c055de |
+| Receptionist | TLC Laser Eye Centers | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424968944 |
+| Customer Experience Associate | TD | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424962550 |
+| Administrative Specialist, Advanced Underwriting | iA American Warranty Group | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424643883 |
+| Administrative Support IV | Alberta Health Services | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424659385 |
+| Small Capital Projects Associate | Boardwalk | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424670167 |
+| Part Time Leasing Agent | Realstar | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4421520785 |
