@@ -9915,3 +9915,10 @@
 | Associate, Order Fulfillment | Holt Renfrew | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424664599 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4412056117 |
 | Stock Movement Associate | Holt Renfrew | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4412052058 |
+| Gyro Field Specialist | SLB | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421566047 |
+| Specialist | Covenant Health Canada | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421561071 |
+| Advisor - Financial Planning | Covenant Health Canada | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4421140214 |
+| home support worker | Adokam Home Care | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4425123061 |
+| Credit-Free Instructor - Personal Fitness Trainer Diploma | Mount Royal University | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=e9e22306ebeb8a8d |
+| Business Systems Programmer | Northwestern Polytechnic | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=0e72a4ac1fb18d33 |
+| Administrative Support IV | Alberta Health Services | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=61c3b463a77aab5f |
