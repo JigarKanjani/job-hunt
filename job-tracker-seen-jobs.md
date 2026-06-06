@@ -9957,3 +9957,6 @@
 | Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425141353 |
 | Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425148272 |
 | Dayforce WFM Analyst - R8dius | Deloitte | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4405851558 |
+| Change & Contract Manager | FlatironDragados | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4415120834 |
+| Healthcare Data Analyst (Remote) | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425147297 |
+| Customer Service Associate - Plumbing/Electrical - PT | RONA | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4425150551 |
