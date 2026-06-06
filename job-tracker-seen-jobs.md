@@ -9950,3 +9950,10 @@
 | Data Services Developer Associate (September 2026 - Toronto  | IBM | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4412056431 |
 | Project Scheduler | Raytheon | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=8daf29b32fbb2db7 |
 | Employment Litigation Associate | Ogletree Deakins | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4373014426 |
+| Coordinator, Payroll | Regional Municipality of Wood Buffalo | 2026-06-06 | N | https://ca.indeed.com/viewjob?jk=2e051d2069f2e097 |
+| QA Automation Engineer | dutch | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=6f4320c7bf1d8867 |
+| Contractor-05- CI/CD Automation Engineer | Mphasis | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4421566578 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425141332 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425141353 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4425148272 |
+| Dayforce WFM Analyst - R8dius | Deloitte | 2026-06-06 | R | https://www.linkedin.com/jobs/view/4405851558 |
