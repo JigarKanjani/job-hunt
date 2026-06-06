@@ -9901,3 +9901,17 @@
 | Administrative Support IV | Alberta Health Services | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424659385 |
 | Small Capital Projects Associate | Boardwalk | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424670167 |
 | Part Time Leasing Agent | Realstar | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4421520785 |
+| Program Manager | Acute Care Alberta | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=eee842a8d5de6929 |
+| Category Lead, Strategic Procurement (Construction), Supply  | University of Calgary | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=76c9491fda926f93 |
+| Sales Enablement Specialist | Convverge, Inc | 2026-06-06 | J | https://www.linkedin.com/jobs/view/4425102212 |
+| Office Administrator | MMi Electrical Services Inc. | 2026-06-06 | N | https://ca.indeed.com/viewjob?jk=b5f2f754db6b3615 |
+| Senior Advisor | Primary Care Alberta | 2026-06-06 | N | https://ca.indeed.com/viewjob?jk=ea30c645eb050be5 |
+| Community of Practice Coordinator | MaKami College | 2026-06-06 | N | https://ca.indeed.com/viewjob?jk=fd8e1609e316a579 |
+| Career Counsellor | Lifemark Health Group | 2026-06-06 | N | https://www.linkedin.com/jobs/view/4403269401 |
+| Data Migration Specialist — 12- month contract | Catalis Holdco Inc | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=ac5e0400feeb587a |
+| Specialist | Covenant Health Canada | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=f66d5cf75b3afa2f |
+| Site Trainer | North American Construction Group | 2026-06-06 | R | https://ca.indeed.com/viewjob?jk=e5945d5a08063a47 |
+| Post Doctoral Associate in Knowledge Mobilization, Implement | University of Calgary | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=79c7da5b07c8c84a |
+| Associate, Order Fulfillment | Holt Renfrew | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4424664599 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4412056117 |
+| Stock Movement Associate | Holt Renfrew | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4412052058 |
