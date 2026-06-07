@@ -9971,3 +9971,7 @@
 | Specialist, Field IT Support | Johnson Controls | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4412071962 |
 | Spécialiste de support à distance - Services Digitaux / Digi | Trane Technologies | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4396063288 |
 | Technical Office Engineer | Maroon Karan Co. | 2026-06-07 | G | https://www.linkedin.com/jobs/view/4425172891 |
+| Specialist - IT ETRM System (Lead/Principal) | Parkland Corporation | 2026-06-07 | N | https://www.linkedin.com/jobs/view/4373706880 |
+| Access & Privacy Coordinator, Grande Prairie Police Service | City of Grande Prairie | 2026-06-07 | N | https://www.linkedin.com/jobs/view/4421586841 |
+| Coordinator, Community | Regional Municipality of Wood Buffalo | 2026-06-07 | N | https://www.linkedin.com/jobs/view/4425181390 |
+| Gallery Support Associate | RH | 2026-06-07 | G | https://www.linkedin.com/jobs/view/4406619545 |
