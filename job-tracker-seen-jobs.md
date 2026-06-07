@@ -9986,3 +9986,5 @@
 | Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425184668 |
 | Clinical Data Analyst (Remote) | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425199245 |
 | Healthcare Data Analyst (Remote) | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425198486 |
+| Account Technical Leader | IBM | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4372618833 |
+| Senior Systems Interface / Integration Specialist | WSP in Canada | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4344235922 |
