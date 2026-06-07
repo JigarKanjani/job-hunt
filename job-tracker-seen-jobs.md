@@ -9975,3 +9975,14 @@
 | Access & Privacy Coordinator, Grande Prairie Police Service | City of Grande Prairie | 2026-06-07 | N | https://www.linkedin.com/jobs/view/4421586841 |
 | Coordinator, Community | Regional Municipality of Wood Buffalo | 2026-06-07 | N | https://www.linkedin.com/jobs/view/4425181390 |
 | Gallery Support Associate | RH | 2026-06-07 | G | https://www.linkedin.com/jobs/view/4406619545 |
+| Training Development & Life Cycle Support IPT Lead | Raytheon | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4396599807 |
+| Software Development IPT Lead | Raytheon | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4397302684 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425182700 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425178619 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425186594 |
+| Healthcare Data Analyst (MD, DO, MBBS, or equivalent) - Remo | Quik Hire Staffing | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425196533 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Quik Hire Staffing | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425187553 |
+| Clinical Data Analyst (Remote) | Quik Hire Staffing | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425193540 |
+| Clinical Data Analyst (MD, DO, MBBS, or equivalent) - Remote | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425184668 |
+| Clinical Data Analyst (Remote) | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425199245 |
+| Healthcare Data Analyst (Remote) | Hire Feed | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425198486 |
