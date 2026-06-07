@@ -9995,3 +9995,5 @@
 | Construction Project Coordinator | Mid-West Design & Construction Ltd. | 2026-06-07 | J | https://ca.indeed.com/viewjob?jk=125f5a2a555d0782 |
 | Senior Project Coordinator | Mid-West Design & Construction Ltd. | 2026-06-07 | J | https://ca.indeed.com/viewjob?jk=a2958c295bc685d4 |
 | Full-time Project Coordinator/Estimator | Mid-West Design & Construction Ltd. | 2026-06-07 | J | https://ca.indeed.com/viewjob?jk=9478bfb0c8e0649e |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4425411546 |
+| Service Coordinator - Acheson | Manitoulin Transport | 2026-06-07 | J | https://www.linkedin.com/jobs/view/4421900466 |
