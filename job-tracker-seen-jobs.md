@@ -9963,3 +9963,7 @@
 | Senior Quantitative Analyst (Financial Markets) | Bank of Canada | 2026-06-06 | J | https://ca.indeed.com/viewjob?jk=edc89d261f3fb1a5 |
 | Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-06-06 | G | https://ca.indeed.com/viewjob?jk=7322cddbb6bf46d1 |
 | Mountain Sports Sales Associate (Seasonal) | Decathlon | 2026-06-06 | G | https://www.linkedin.com/jobs/view/4425138746 |
+| (Remote) Cloud and System Administrator | Harris Computer | 2026-06-07 | R | https://ca.indeed.com/viewjob?jk=8100d50a0bb4346e |
+| (Remote) Cloud and System Administrator | Harris Computer | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425166088 |
+| (Remote) Cloud and System Administrator | Harris Computer | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425153179 |
+| Junior Real Estate Rental Leasing Associate | SunPeak Property Management | 2026-06-07 | G | https://ca.indeed.com/viewjob?jk=79a69d7afabae54c |
