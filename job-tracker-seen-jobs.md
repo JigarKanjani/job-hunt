@@ -9967,3 +9967,7 @@
 | (Remote) Cloud and System Administrator | Harris Computer | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425166088 |
 | (Remote) Cloud and System Administrator | Harris Computer | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4425153179 |
 | Junior Real Estate Rental Leasing Associate | SunPeak Property Management | 2026-06-07 | G | https://ca.indeed.com/viewjob?jk=79a69d7afabae54c |
+| Business Intelligence Analyst I – Environment, Health & Safe | Finning | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4415420559 |
+| Specialist, Field IT Support | Johnson Controls | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4412071962 |
+| Spécialiste de support à distance - Services Digitaux / Digi | Trane Technologies | 2026-06-07 | R | https://www.linkedin.com/jobs/view/4396063288 |
+| Technical Office Engineer | Maroon Karan Co. | 2026-06-07 | G | https://www.linkedin.com/jobs/view/4425172891 |
