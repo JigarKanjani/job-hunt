@@ -10027,3 +10027,40 @@
 | Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425230736 |
 | Remote Finance & Research Analyst ($100/hr) | Turing | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425475613 |
 | Remote Quantitative Analyst (Finance) | Turing | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425610665 |
+| Procurement Specialist | Exergy Solutions Inc. | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=ca65e099c45dd346 |
+| Operations Administrator - Keep a Growing, Purpose‑Driven Co | Great West Radon Ltd. | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=2216744102a44457 |
+| Supply Management Analyst | Canadian Natural Resources Limited (CNRL | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425273597 |
+| Contracts Specialist – Oil Sands | Canadian Natural Resources Limited (CNRL | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425271920 |
+| Project Controls Specialist | Shell | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425269554 |
+| Contracts Analyst | Badger Infrastructure Solutions | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425624599 |
+| Portfolio Analyst | Hopewell Real Estate Services | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425637488 |
+| Multi-Location Customer Service Specialist | Sherwin-Williams | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425637438 |
+| Process Engineering Discipline Lead - SAGD/ Heavy Oil CPF | Equinox Engineering Ltd. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4413094541 |
+| Specialist, Proposals & Pursuits | Bennett Jones | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4421969052 |
+| salesforce business Analyst | VySystems | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425617860 |
+| Practice Advisor | Alberta Real Estate Association | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425259435 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425602954 |
+| Community Support Worker, casual | DDRC | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=06e4be91498ae620 |
+| Case Manager, Community Connections & Empowerment Initiative | Accessible Housing | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=fded976b102cdf0f |
+| Team & Culture, Admin Coordinator | WinSport | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=c6111d448dbac604 |
+| HRIS & Data Analyst | WinSport | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=7f95be56764b59f3 |
+| Hub Allowance Administrator | Canadian Natural Resources Limited (CNRL | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425257964 |
+| Volunteer Worker | DDRC | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4421974045 |
+| Learning & Development Administrator | Black Diamond Group | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4421512232 |
+| Jr Analyst, Corporate Development | TwelveSix Services | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425280394 |
+| Fund Development Officer | Mamas for Mamas | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425282384 |
+| Early Years Coordinator - Children & Family Services | Métis Nation within Alberta | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4418778887 |
+| System Engineering (Platforms) | General Dynamics Mission Systems | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=375babd293559199 |
+| Business Systems Developer | Kingston Midstream | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425284024 |
+| Process Engineer | Gibson Energy | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425291275 |
+| System Engineering (Platforms) | General Dynamics Mission Systems–Canada | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425639534 |
+| Business Intelligence Analyst | BSL Consulting | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425645430 |
+| Business Intelligence Analyst | ThoughtStorm | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425262821 |
+| Business Intelligence Analyst | Amyantek | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425627381 |
+| Data Scientist Specialist | Canadian Natural Resources Limited (CNRL | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4424481151 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425604912 |
+| Counter Sales Associate | Lennox | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425628779 |
+| Multi-Location Customer Service Specialist | Sherwin-Williams | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425622634 |
+| Administrative Associate- Wealth Management | The Vantage Talent Group | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425638488 |
+| SALES ASSOCIATE | La Vie En Rose | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425620805 |
+| Sandbox Agentic Engineer (Remote, CAN) | CrowdStrike | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4421985133 |
