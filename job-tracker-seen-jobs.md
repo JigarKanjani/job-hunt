@@ -10016,3 +10016,14 @@
 | Experiment Readiness Specialist - Fully Remote | Upto $120/h | Mercor | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425456652 |
 | Feedback Synthesis Specialist - Remote | Upto $120/hr | Mercor | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425470533 |
 | PRD Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425466611 |
+| Part-time - In Field Operations - Calgary | Roar Communications Inc. | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=0d20d318452c82b1 |
+| Compliance Analyst, Group Audit | Wellington-Altus Private Wealth Inc. | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=c044107808a1177b |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425494610 |
+| Payroll Specialist | Robert Half | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425260015 |
+| Financial Analyst | Sovereign Insurance | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425227908 |
+| Business  System Analyst with Salesforce | Iris Software Inc. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425235865 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425490708 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425615560 |
+| Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425230736 |
+| Remote Finance & Research Analyst ($100/hr) | Turing | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425475613 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425610665 |
