@@ -10064,3 +10064,38 @@
 | Administrative Associate- Wealth Management | The Vantage Talent Group | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425638488 |
 | SALES ASSOCIATE | La Vie En Rose | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425620805 |
 | Sandbox Agentic Engineer (Remote, CAN) | CrowdStrike | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4421985133 |
+| Supply Management Analyst | Canadian Natural | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=9cd7bf2ac9224670 |
+| Contracts Specialist – Oil Sands | Canadian Natural | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=4d05708879fcf6b8 |
+| Project Support Specialist | Rheaume Engineering Inc | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=898524569727e923 |
+| Admissions Coordinator | New Beginnings AB | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=a4edde8859be67cc |
+| Coordinator Talent Acquisition | CPKC | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425671576 |
+| Team & Culture, Admin Coordinator | WinSport | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425675312 |
+| SAP MM Procurement | Infosprint Technologies | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4421970592 |
+| Analyst FP&A | WestJet | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425687191 |
+| Senior Analyst FP&A | WestJet | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425671440 |
+| Talent Acquisition Coordinator - Contract | Amrize | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4421997085 |
+| HRIS & Data Analyst | WinSport | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425675311 |
+| Crossing Analyst | Hays | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425685297 |
+| Digital Marketing & Analytics Specialist | Kinaxis | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425661705 |
+| Display & Production Specialist | Display Dynamics Ltd. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425294729 |
+| Governance & Systems Coordinator | Canada Bridges | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425296745 |
+| Technical Business Analyst | Boardwalk | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425296421 |
+| Ecosystems Team Lead | Stantec | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425669879 |
+| Sales & Finance Business Performance Specialist | IKEA | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425291335 |
+| Youth Development Coordinator (Awake Overnight) | McMan Youth, Family and Community Servic | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=9648e37e1da4f0b1 |
+| Marketing Advisor II | BrokerLink | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=5bce6f41230c6b8d |
+| Hub Allowance Administrator | Canadian Natural | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=1f91c43887d32a84 |
+| Design Team Project Administrator | Boardwalk | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425283573 |
+| Senior On-Site Service Specialist | Ricoh USA, Inc. | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425645700 |
+| Asset/GIS Coordinator | Town of Edson | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=a9044b4639a17369 |
+| Communications Coordinator | Canada Bridges | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425514069 |
+| QA Automation Engineer | Synechron | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4421976418 |
+| Information Technology Support Specialist | Blueshift Computer Technology Inc | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4424635391 |
+| Insurance Processor | Western Financial Group | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425294928 |
+| Managed Services Analyst | AGLC | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4422201085 |
+| High School Office Secretary | STEM Innovation Academy | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425509015 |
+| Controller | VEERUM | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425669605 |
+| Payroll & Benefits Administrator | RECRUITMENT PARTNERS INC. | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425642957 |
+| Associate Lawyer - Banking & Financial Services | Urban Legal Recruitment Inc. | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425288628 |
+| WEC Specialist - GY HT | Airswift | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425692127 |
+| Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425290439 |
