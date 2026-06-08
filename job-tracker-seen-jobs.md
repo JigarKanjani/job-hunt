@@ -10099,3 +10099,51 @@
 | Associate Lawyer - Banking & Financial Services | Urban Legal Recruitment Inc. | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425288628 |
 | WEC Specialist - GY HT | Airswift | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425692127 |
 | Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425290439 |
+| Fleet Coordinator | BAAC Construction Inc. | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=a86115c2ac49ad70 |
+| Specialist, Employer Engagement (TalentED) | Calgary Economic Development | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=ba38271df2c67521 |
+| Coordinator, Marketing- Faculty of Kinesiology | University of Calgary | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=00795cf1200d4a12 |
+| SENIOR FINANCIAL ANALYST - (CAT) | Trican Well Service | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=8357d7c82503754f |
+| Senior Cyber Security Specialist - Cyber Incident Management | Sobeys | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=b18504669f43f860 |
+| Safety Advisor | Arctic Arrow Group | 2026-06-08 | J | https://ca.indeed.com/viewjob?jk=518ac439f01d24eb |
+| Materials Management Specialist | TC Energy | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4422211631 |
+| Data Analyst | Tundra Oil & Gas | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425536193 |
+| Procurement Specialist, Steel | BEUMER Group | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425546083 |
+| Buyer - Building Materials | Modus Structures Inc | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425909329 |
+| ALA - Financial Analyst | AltaGas Ltd. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425541130 |
+| Joint Venture Analyst / Auditor | Integrity Audit and Accounting Ltd | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425696424 |
+| Senior Financial Analyst | Trican Well Service Ltd. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425523032 |
+| Senior Planner & Scheduler - LRT & Bridge Infrastructure | Graham | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425925190 |
+| Quality Assurance & Quality Control Coordinator, Minerals &  | BEUMER Group | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425546087 |
+| Coordinator, Marketing- Faculty of Kinesiology | University of Calgary | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425699724 |
+| Coordinator, Office of the Associate Deans (Student Experien | University of Calgary | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425917556 |
+| Regional Category Growth Specialist, Seafood & Poultry | Sysco Canada Inc. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425913353 |
+| Safety Advisor | Arctic Arrow Powerline Group Ltd. | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425922139 |
+| Analyst Wholesale Customer Support | Sobeys | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425907371 |
+| Business Development Advisor — Southern Alberta | Mitacs | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425528525 |
+| Portfolio & System Analyst (Contract) | Trans Mountain | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425529332 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425698720 |
+| Lead Hand, Millwright, Facilities Management | University of Calgary | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425694767 |
+| Senior Communications Officer (English-Services) (On-Site) | Radio-Canada | 2026-06-08 | J | https://www.linkedin.com/jobs/view/4425910131 |
+| Client Care Coordinator (Full-time) | Assurance Home Care | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=339be7b3591a722c |
+| Admissions Advisor | MCG College | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=72d65395b574690e |
+| Service Advisor – Richmond Square | Canadian Tire Corporation, Ltd. | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=5d8cd1ce087ae4e9 |
+| Field Case Manager – PSPSync Northern Ontario (18 Month Cont | PSPSync | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=f6bf84afb6f38599 |
+| Administrator, Programs (Internal) | Northern Lakes College | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=1089648e646c568a |
+| Project Coordinator | RBKS Construction Ltd. | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=8d5c3d42daa571b9 |
+| Examination Maintenance Administrator | Athabasca University | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=f6daaf0b114a2be4 |
+| Human Resources Advisor- Benefits | St. Michael's Health Group | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=7d083ede18356274 |
+| Branch Coordinator | Leavitt Machinery | 2026-06-08 | N | https://ca.indeed.com/viewjob?jk=e55197e8120af747 |
+| Project Administrator | Contemporary Career Consultants | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425529328 |
+| [B] Mental Health Support Worker - AgeCare Mount Royal | AgeCare | 2026-06-08 | N | https://www.linkedin.com/jobs/view/4425906344 |
+| Business Intelligence Analyst – Intermediate - BIA 26-06809 | NavitasPartners | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=cecac728efc18934 |
+| Business Intelligence Analyst – Intermediate - BIA 26-06809 | NavitasPartners | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=2ee0a6fb28f903fb |
+| Business Intelligence Analyst – Intermediate - BIA 26-06809 | NavitasPartners | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=7014ce281ef24eb5 |
+| Business Intelligence Analyst – Intermediate - BIA 26-06809 | NavitasPartners | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=dd9d701d9289301b |
+| Business Intelligence Analyst – Intermediate - BIA 26-06809 | NavitasPartners | 2026-06-08 | R | https://ca.indeed.com/viewjob?jk=cbbd203a372c8b00 |
+| Business Analyst | Net2Source (N2S) | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425919084 |
+| Intermediate Business Intelligence Analyst | Bevertec | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425904436 |
+| GoLang Developer (Remote Canada) | Damcosoft | 2026-06-08 | R | https://www.linkedin.com/jobs/view/4425534458 |
+| Customer Service Representative (Part Time) | Best Buy | 2026-06-08 | G | https://ca.indeed.com/viewjob?jk=18312ee6865296a7 |
+| Cost Controller | Trans Mountain Corporation Inc. | 2026-06-08 | G | https://ca.indeed.com/viewjob?jk=97aaed86b49293e0 |
+| Associate, Private Equity | Alberta Investment Management Corporatio | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425920500 |
+| Contract Administrator | Hays | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425936349 |
