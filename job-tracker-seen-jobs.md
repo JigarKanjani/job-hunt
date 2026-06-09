@@ -10184,3 +10184,17 @@
 | Business/Marketing Services Coordinator | CBRE | 2026-06-09 | G | https://ca.indeed.com/viewjob?jk=4c7574f825825874 |
 | Customer Service Representative (Part Time) | Best Buy Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4422232461 |
 | Project Administrator | Black Professionals Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425556837 |
+| Coordinator, Office of the Associate Deans (Student Experien | University of Calgary | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=a8004a4e7b63ffe6 |
+| Lead Hand, Millwright, Facilities Management | University of Calgary | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=f3f817de00b5ff14 |
+| Clinical Research Coordinator, Department of Medicine | University of Calgary | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=909f0ae191930cee |
+| Senior Program Manager, Product Operations(Supply Chain Plat | Kinaxis | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=e04639f464c094a2 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4426312061 |
+| Officer, Delivery Services - Temporary Assignment | Canada Post / Postes Canada | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4422278200 |
+| Promotions Specialist | Stantec | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425575918 |
+| Analyste stagiaire, Programmes de recrutement universitaire  | Deloitte | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4422254973 |
+| FT Community Support Worker - Calgary | Calgary Alternative Support Services | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=55ff05ede4164e63 |
+| Data Annotation Specialist | $98/hr Remote | Crossing Hurdles | 2026-06-09 | R | https://www.linkedin.com/jobs/view/4425814302 |
+| Natural Resources Group - Investment Banking Associate - Can | JPMorganChase | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4422249983 |
+| Sales Associate - CosmoProf Store # 07346 | CosmoProf Beauty | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4062569608 |
+| Beauty Advisor (Inside Sales) Sally Beauty 05624 | Sally Beauty | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4062753718 |
+| Agent, Services de livraison | Canada Post / Postes Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4422290110 |
