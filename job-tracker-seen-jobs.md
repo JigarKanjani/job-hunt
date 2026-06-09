@@ -10147,3 +10147,30 @@
 | Cost Controller | Trans Mountain Corporation Inc. | 2026-06-08 | G | https://ca.indeed.com/viewjob?jk=97aaed86b49293e0 |
 | Associate, Private Equity | Alberta Investment Management Corporatio | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425920500 |
 | Contract Administrator | Hays | 2026-06-08 | G | https://www.linkedin.com/jobs/view/4425936349 |
+| Night Auditor & Hotel Operations | Marriott International | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=a82b5430f85863cf |
+| Digital Marketing & Analytics Specialist | Kinaxis | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=528ffbc678e66701 |
+| Part Time Sales Lead | Pandora Jewelry | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=ad669ce3a20cc300 |
+| Planning and Data Analyst | City of Edmonton | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=2ecbff232108faf1 |
+| Document Production Services (DPS) Specialist | PwC Canada | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425960076 |
+| Senior Program Manager, Product Operations(Supply Chain Plat | Kinaxis | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425947263 |
+| Portfolio Lead | AtkinsRéalis | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4417092342 |
+| Technology Development Lead | NanosTech | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425543720 |
+| Team Lead | Website Production | POD Marketing Inc. | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425568154 |
+| Information Security Analyst | Mount Royal University | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4422213843 |
+| Senior Communications Officer (English-Services) (On-Site) | CBC/Radio-Canada | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425531737 |
+| Portfolio Lead | AtkinsRéalis | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4417084943 |
+| Service Advisor (Land Rover Royal Oak) | Go Auto | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425938447 |
+| Accounting Coordinator (Part Time) | RECRUITMENT PARTNERS INC. | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425920505 |
+| Coordinator Talent Acquisition | CPKC | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=e82915b9b9c315f4 |
+| Office Administrator | MET INTERIORS | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=7f9cd6b5dff4ffc4 |
+| Regional Foster Coordinator | BC SPCA | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=0cfab8014d0fad09 |
+| Regional Foster Coordinator | BC SPCA | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=4b863d45e392f34b |
+| Governance Coordinator | MacEwan University | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=cc7d3fb0c91d6971 |
+| Sales Operations Analyst | KORE WIRELESS | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=3946c19e9196229b |
+| Governance Coordinator - Office of University Governance | MacEwan University | 2026-06-09 | N | https://www.linkedin.com/jobs/view/4425979083 |
+| help desk specialist | AR trading | 2026-06-09 | R | https://ca.indeed.com/viewjob?jk=9221282442a62bba |
+| Systems Integrator & Backup Network Administrator | Dougall Media | 2026-06-09 | R | https://ca.indeed.com/viewjob?jk=bfaca7b0454a5c9d |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-06-09 | R | https://www.linkedin.com/jobs/view/4425952686 |
+| Customer Service Representative (Part Time) | Best Buy | 2026-06-09 | G | https://ca.indeed.com/viewjob?jk=7830801e64f73f24 |
+| Customer Service Sales Representative | The Bugman Pest Control Services | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425282487 |
+| Agent Principal ou Agente Principale des Communications (Ser | CBC/Radio-Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425962576 |
