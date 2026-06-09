@@ -10198,3 +10198,12 @@
 | Sales Associate - CosmoProf Store # 07346 | CosmoProf Beauty | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4062569608 |
 | Beauty Advisor (Inside Sales) Sally Beauty 05624 | Sally Beauty | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4062753718 |
 | Agent, Services de livraison | Canada Post / Postes Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4422290110 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4422713227 |
+| Senior Application Systems Analyst | TEKsystems | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4426318060 |
+| Solutions Engineer III - Enterprise Solutions Consultant I - | Halliburton | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425816751 |
+| Event & Partnerships Coordinator | Kreative House Consulting | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425826379 |
+| Sourcing Specialist | Bradken | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4415720934 |
+| Appointment Coordinator | CanadaOne Auto Group | 2026-06-09 | N | https://ca.indeed.com/viewjob?jk=404f80cf2c5bb4ff |
+| Hearing Aid Specialist or Audiologist | Amplifon | 2026-06-09 | N | https://www.linkedin.com/jobs/view/4425838371 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-09 | R | https://www.linkedin.com/jobs/view/4426317831 |
+| Litigation Associate - 3 to 6 years' experience | Osler, Hoskin & Harcourt LLP | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4247579333 |
