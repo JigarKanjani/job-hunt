@@ -10174,3 +10174,13 @@
 | Customer Service Representative (Part Time) | Best Buy | 2026-06-09 | G | https://ca.indeed.com/viewjob?jk=7830801e64f73f24 |
 | Customer Service Sales Representative | The Bugman Pest Control Services | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425282487 |
 | Agent Principal ou Agente Principale des Communications (Ser | CBC/Radio-Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425962576 |
+| Team Lead | Website Development | POD Marketing | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=0cd88b0828748856 |
+| Team Lead | Website Production | POD Marketing | 2026-06-09 | J | https://ca.indeed.com/viewjob?jk=3ead48acc035a16e |
+| Marketing Specialist | Robert Half | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425593204 |
+| Lead, Customer Advocacy | Affirm | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4425575530 |
+| Fleet Coordinator | BAAC | 2026-06-09 | J | https://www.linkedin.com/jobs/view/4422235435 |
+| Analyst Intern, Early Talent & Campus Programs - Fall 2026 - | Deloitte | 2026-06-09 | N | https://www.linkedin.com/jobs/view/4422262286 |
+| Admin Services Coordinator | CBRE | 2026-06-09 | R | https://ca.indeed.com/viewjob?jk=5f534fc50e64579b |
+| Business/Marketing Services Coordinator | CBRE | 2026-06-09 | G | https://ca.indeed.com/viewjob?jk=4c7574f825825874 |
+| Customer Service Representative (Part Time) | Best Buy Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4422232461 |
+| Project Administrator | Black Professionals Canada | 2026-06-09 | G | https://www.linkedin.com/jobs/view/4425556837 |
