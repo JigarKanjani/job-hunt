@@ -10351,3 +10351,25 @@
 | Pricing Associate (12-Month Contract) | GroupSource Limited Partnership | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=f9841934b913662b |
 | Finance Administrator | Primary Care Collaborative Practice | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=d54f33edb42ebfa5 |
 | Pricing Associate (12-Month Contract) | GroupSource LP | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4426017404 |
+| Project Planning and Scheduling Lead | Vista Projects | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=ea1b021f38cd8c54 |
+| Planner / Scheduler - Intermediate | OCL Group Inc. | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=4351d6d74071ac6a |
+| Cloud Solutions Analyst | Canadian Cancer Society | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426047177 |
+| Benefits Advisor, Human Capital | MNP | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426043623 |
+| Communications Specialist | Closer to Home Community Services | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426738903 |
+| Onshore Production Certificate Escalation Lead | Aon | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426729659 |
+| Specialist, Inclusion, Diversity & Equity | KPMG Canada | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426750100 |
+| Investment Advisor | RBC Dominion Securities | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426741666 |
+| Specialist, Truth and Reconciliation & Indigenous Recruitmen | KPMG Canada | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426743729 |
+| Resources (Power/ Industrial/ Waste) Right of Way Business C | HDR | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426055023 |
+| Collections Specialist (6 Month Contract) | KPMG Canada | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426743726 |
+| Collections Specialist (6 Month Contract) | KPMG Canada | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426741863 |
+| Junior Treasury Analyst | Rohit Group | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4411220288 |
+| Senior Financial Analyst | Alberta Health Services | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426036471 |
+| Business Analyst | Remote | Crossing Hurdles | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426039717 |
+| Project Coordinator - Civil | OCL Group Inc. | 2026-06-10 | N | https://ca.indeed.com/viewjob?jk=9b6042146517a4e9 |
+| Facilities Coordinator | STURGEON PUBLIC SCHOOLS | 2026-06-10 | N | https://ca.indeed.com/viewjob?jk=e39373a3aa0c4cc3 |
+| Content & Community Coordinator (Ego) Club Med Resorts Canad | Club Med | 2026-06-10 | N | https://www.linkedin.com/jobs/view/4426726597 |
+| Technical Program Manager | Edmonton's AI Playground | 2026-06-10 | N | https://www.linkedin.com/jobs/view/4426042262 |
+| Systems Support (3-Month Term) | Rocky | 2026-06-10 | R | https://ca.indeed.com/viewjob?jk=81ce2e7d193c444d |
+| Web Developer I | LawDepot | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4423102247 |
+| Receptionist | Vision Group | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4424944474 |
