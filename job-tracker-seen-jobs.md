@@ -10373,3 +10373,26 @@
 | Systems Support (3-Month Term) | Rocky | 2026-06-10 | R | https://ca.indeed.com/viewjob?jk=81ce2e7d193c444d |
 | Web Developer I | LawDepot | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4423102247 |
 | Receptionist | Vision Group | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4424944474 |
+| Records Management Coordinator | Java Holdings | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=77bd48415cf00ba3 |
+| Debt Collection Business Advisor | Altamira for freelancers | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=d141410700c1f28d |
+| Buyer | ENMAX | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426101273 |
+| Records Management Coordinator | Java Holdings Ltd | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4427009707 |
+| Business Lead, Lifecycle Services | Rockwell Automation | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4416978312 |
+| Senior Talent Acquisition Specialist | Agilus Work Solutions | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426086452 |
+| Technical Sales Specialist - Control Panels | Wajax | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4416920287 |
+| Design Leadership - Future Opportunities | Neo Financial | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4346796539 |
+| Paint Line Lead | Eaton | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4423127885 |
+| Encore - Q400 - Pilot - First Officer - 2026 - YYC | WestJet | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4417056096 |
+| Business Development & Leadership Associate | The Rhonda Lemoine | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426099520 |
+| Senior Talent Management Advisor | Hays | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4427016425 |
+| Production Worker – Night Shift | Lassonde | 2026-06-10 | N | https://www.linkedin.com/jobs/view/4413341141 |
+| Landlord Liaison Worker | Native Counselling Services of Alberta | 2026-06-10 | N | https://www.linkedin.com/jobs/view/4426104191 |
+| Junior CAD Systems Developer | EXCHANGER INDUSTRIES LIMITED | 2026-06-10 | R | https://ca.indeed.com/viewjob?jk=249eacbd424da185 |
+| Reporting Technician | Kelly | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4426085621 |
+| Infor LN Developer / Canada (Remote) - Contract | AceStack | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4426057983 |
+| Administrative Support IV | Recovery Alberta | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=e32c84d8fbc637f3 |
+| Customer Service Representative - Sales Desk (Manufacturing) | Alggin | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=9aac75ea2bd0a3d4 |
+| Calgary Police Service - Rewards and Recognition Coordinator | City of Calgary | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=495f25cf39e3aafc |
+| Customer Service Representative | Cornerstone Building Brands | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4423121684 |
+| Associate | Stack'd Consulting Inc. | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4423130789 |
+| Scheduler | Aecon Group Inc. | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4406221956 |
