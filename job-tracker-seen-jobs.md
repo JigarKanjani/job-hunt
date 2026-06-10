@@ -10471,3 +10471,15 @@
 | Production and Sales Associate | Evoked | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=7d4c654a3361d8c5 |
 | Customer Service Representative | Jim Peplinski Capital | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4426147624 |
 | Customer Service Representative | BMO | 2026-06-10 | G | https://www.linkedin.com/jobs/view/4427108205 |
+| Carpentry and Maintenance Lead | Maple Tree Consulting and Support Servic | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=1ebdde43eeee605e |
+| Onsite Support Analyst | SNDL | 2026-06-10 | J | https://ca.indeed.com/viewjob?jk=79da10b6c0097a8b |
+| Planner & Scheduler - Water and Waste Water Infrastructure | Graham | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4427101795 |
+| Customer Fleet Advisor - Power & Energy | Finning | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426167501 |
+| Payroll Specialist | Contemporary Career Consultants | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426159531 |
+| Legal Counsel - Business Operations | Canadian Natural Resources Limited (CNRL | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426152648 |
+| Buyer | White Cap Canada | 2026-06-10 | J | https://www.linkedin.com/jobs/view/4426565161 |
+| Investment Advisor | RBC | 2026-06-10 | N | https://ca.indeed.com/viewjob?jk=5fc8699749ac2c1d |
+| Registered Psychologist, Provisional Psychologist, or Regist | Shift Psychological | 2026-06-10 | N | https://ca.indeed.com/viewjob?jk=2d0ae70d3d3f15ea |
+| LEM Business Analyst | Canadian Natural Resources Limited (CNRL | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4426156619 |
+| Families Forward Facilitator | YWCA | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=f54e1b74a8763352 |
+| Controller | KPLI Global | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=edf132d362ffd891 |
