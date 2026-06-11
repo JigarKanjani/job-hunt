@@ -10483,3 +10483,45 @@
 | LEM Business Analyst | Canadian Natural Resources Limited (CNRL | 2026-06-10 | R | https://www.linkedin.com/jobs/view/4426156619 |
 | Families Forward Facilitator | YWCA | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=f54e1b74a8763352 |
 | Controller | KPLI Global | 2026-06-10 | G | https://ca.indeed.com/viewjob?jk=edf132d362ffd891 |
+| Project Controls Analyst | City of Calgary | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=b9161435f5183ab3 |
+| Coordinator, Human Resources | ATCO | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=c5be4f9b08f3ded0 |
+| Planner-In-Training | City of Calgary | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=a2217b39570f8b76 |
+| Financial Analyst | S.i. Systems | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=3e3790a10c50fabd |
+| After Hours Team Leader | Wood's Homes | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=e2b2d7395e7f4b5b |
+| Procurement Specialist (Term) | Edmonton International Airport | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=bab65498dd694507 |
+| Senior Analyst - Fleet | WestJet Airlines | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=a76188a197a3bc17 |
+| Fleet Management Lead | North American Construction Group | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=ea803b91424185bf |
+| Supplier Invoicing Support Analyst | TAQA Group | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426185316 |
+| Scheduling Analyst | ENMAX | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426176712 |
+| Category Specialist | WestJet | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427137577 |
+| Senior Analyst - Fleet | WestJet | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427156036 |
+| Client Service Specialist | People Corporation | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426175987 |
+| Crop Protection Specialist | CNH | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427137157 |
+| Specialist, Orphaning & Insolvency | Alberta Energy Regulator (AER) | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427130497 |
+| Business Advisor - Douglas Square, Calgary, AB | Scotiabank | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426185333 |
+| Lead Cleaner And Operations Coordinator | Premsol Inc | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426194231 |
+| Municipal Infrastructure Lead | Hays | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427148208 |
+| Information Technology Support Specialist | Tech People 247 | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4423177587 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426199263 |
+| Engineering Operations Technician (EOT) | Amazon Web Services (AWS) | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427126313 |
+| Coordinator, Human Resources | ATCO | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426181540 |
+| Recruitment Coordinator | Ledcor | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427123074 |
+| Technical Field Advisor | Mitsubishi Power Canada, Ltd. | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426194097 |
+| Floor Coordinator | The Dufresne Group | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427131401 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=6177047a41fdaa6b |
+| sales and promotions coordinator | Aerotex Interiors Inc. | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=b4f70604ca88528a |
+| Office Administrator | De Havilland Aircraft of Canada Limited | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4427150286 |
+| Financial Advisor - Calgary, AB | Scotiabank | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4426187356 |
+| Systems Administrator | The Association of Professional Engineer | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=2330fc9a6cec1f5a |
+| Systems Administrator | The Association of Professional Engineer | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=a5a8f775c103864b |
+| Proposal Specialist | Vertex Resource Group Ltd. | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4426186504 |
+| System Controller Trainer | Alberta Electric System Operator (AESO) | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4427144410 |
+| GOAPRDJP00000919 - Business Intelligence Analyst - Intermedi | S M Software Solutions Inc | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4427136554 |
+| Specialist, Orphaning & Insolvency | Alberta Energy Regulator | 2026-06-11 | G | https://ca.indeed.com/viewjob?jk=3bd3f53593b3ce02 |
+| Receptionist | Wellington-Altus | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4426176956 |
+| Sales Support Associate - 12 Month Contract | Canada Life | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4426176953 |
+| Business Development Associate | PKF ANTARES | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4426175833 |
+| Receptionist - AgeCare Dawson | AgeCare | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427150409 |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4426198303 |
+| Customer Service Representative | U-Haul | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4423174829 |
+| Information Management Specialist | RECRUITMENT PARTNERS INC. | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427119121 |
