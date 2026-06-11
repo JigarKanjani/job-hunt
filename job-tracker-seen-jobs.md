@@ -10525,3 +10525,13 @@
 | Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4426198303 |
 | Customer Service Representative | U-Haul | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4423174829 |
 | Information Management Specialist | RECRUITMENT PARTNERS INC. | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427119121 |
+| Team Lead, Dealer Engagement | PBS Systems | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4423619060 |
+| Skilled Trades & Construction Vendors | Quantum Construction Management | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426210707 |
+| Track: Young People’s Lodge – Child and Youth Care Counsello | Hull Services | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4423619406 |
+| Youth Recovery Program (YRP) – Weekday Child and Youth Care  | Hull Services | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4423622311 |
+| Planner | Alberta Health Services | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4427163963 |
+| Project Coordinator | Alberta Health Services | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4427175561 |
+| Tools Coordinator | Bird Construction | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4427163889 |
+| Marketing Coordinator | Reach First | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4423615679 |
+| Property Administrator/Accountant | Yorkton Equity Group Inc. | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=14c94d8fee3b4f2c |
+| Administrative Support IV | Alberta Health Services | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427181492 |
