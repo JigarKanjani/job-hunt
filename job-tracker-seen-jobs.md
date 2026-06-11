@@ -10550,3 +10550,43 @@
 | Remote Quantitative Analyst (Finance) | Turing | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4427520134 |
 | Administrative Support IV – Virtual MD/OCTP | Primary Care Alberta | 2026-06-11 | G | https://ca.indeed.com/viewjob?jk=fdb36ca4ad9a4411 |
 | Administrative Support IV | Primary Care Alberta | 2026-06-11 | G | https://ca.indeed.com/viewjob?jk=43d49f7eb7829355 |
+| Field Coordinator | BUILD IT | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=7128c89209613094 |
+| Communications & Design Coordinator | The Ranchmen's Club | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=0cc1733e55c79bae |
+| Staff ERP Application Engineer (Netsuite Financials) | Lime | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=041f605467e682f1 |
+| Refurbishing Coordinator-Part-Time-Temporary | Ritchie Bros. | 2026-06-11 | J | https://ca.indeed.com/viewjob?jk=da6e39f5955f59f4 |
+| Supply Chain Specialist | Gradient Thermal Inc. | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4423690748 |
+| Lead - Night Shift Loading | Oldcastle BuildingEnvelope | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427665079 |
+| Project Coordinator - Roads & Bridge Infrastructure | Graham | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427665050 |
+| Corporate Support Coordinator | Deveraux Group of Companies | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426659452 |
+| Document Control Analyst - Intermediate | Airswift | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4424802602 |
+| Field Coordinator | BUILD IT | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427629408 |
+| HR Advisor - Field | Chandos Construction | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4424804883 |
+| Lead Land Analyst | Canada West Land | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4423691820 |
+| Advisor TIS Network Planning | Enbridge | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4423697928 |
+| Procurement Specialist, Steel | BEUMER Group | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4424801671 |
+| Investment Fund Analyst | Alberta Securities Commission | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427636660 |
+| VIP Engagement Specialist, iGaming (Calgary-based) | NeoPollard Interactive | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426675236 |
+| Senior Land Analyst | Canada West Land | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4424814205 |
+| Technology Sales Specialist – Integration | IBM | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4424810522 |
+| Treasury Sales Officer | Bank of America | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427650901 |
+| Business Advisor - Chestermere, AB | Scotiabank | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426669119 |
+| Program Manager | The Brenda Strafford Foundation | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427657071 |
+| VIP Engagement Lead, iGaming (Calgary-based) | NeoPollard Interactive | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426655809 |
+| Marketing Specialist | Gowling WLG | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426687178 |
+| Senior Specialist, Career and Professional Development Offic | University of Calgary | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4427651521 |
+| Supply Chain Analyst | ChampionX | 2026-06-11 | J | https://www.linkedin.com/jobs/view/4426667445 |
+| Mineral Lease & Contracts Analyst- Land Advisor II | Pantheon Inc. | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=9218337b359a520e |
+| Student Success: Youth Support Worker (Grade 6 - 12 ) - 2026 | Calgary French and International School | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=e6a27c51654f78c6 |
+| Energy Supply Analyst AND Energy Market Analyst | Canada Energy Regulator | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=3d595bf51fd17908 |
+| ADMINISTRATION - OFFICE ADMINISTRATOR | Ensign Energy Services Inc. | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=4faf09b0fdc670b6 |
+| Payroll and Human Resources Coordinator | Lead Foundation | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=bb8263c43a02ae49 |
+| Administrative Coordinator / Accounting Assistant | GridIron Drilling Services Partnership | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=c08ac3e9193e3add |
+| Lessard Community League Administrative Coordinator | Lessard Community League | 2026-06-11 | N | https://ca.indeed.com/viewjob?jk=d8020214280d5009 |
+| Human Resources Advisor | City of Edmonton | 2026-06-11 | N | https://www.linkedin.com/jobs/view/4424826048 |
+| Business Analyst | Helm Operations Software inc | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=fc9741f36db9f179 |
+| EverPro - Growth & Markets Analyst (Remote, Canada) | Evercommerce | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=199a108641fea3f7 |
+| Technical Support Analyst | iTel Networks Inc | 2026-06-11 | R | https://ca.indeed.com/viewjob?jk=c9c665e931978398 |
+| Records Analyst, A&D | Harvest Operations Corp. | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4424806916 |
+| SOC Tier 1 Analyst | MNP | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4426655474 |
+| Associate, Valuations & Financial Structuring | Nutrien | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4424807956 |
+| Associate Designer | Critical Mass | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427638846 |
