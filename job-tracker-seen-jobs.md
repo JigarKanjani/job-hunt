@@ -10602,3 +10602,14 @@
 | Project Analyst | EarthRenew Inc. / Replenish Nutrients Lt | 2026-06-12 | R | https://ca.indeed.com/viewjob?jk=19f635405726a192 |
 | Product Support Specialist I | Affirm | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4426909666 |
 | Transaction Closing Support, Analyst - QC - (REMOTE) | eXp Realty | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4427921949 |
+| Senior Compensation Analyst | Parkland Corporation | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4416771651 |
+| Project Coordinator | Traugott Building Contractors Inc. | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4424864444 |
+| Medium Enterprise Account Executive - oCFO | Workday | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4414035446 |
+| REGISTERED SOCIAL WORKER / MENTAL HEALTH THERAPIST | Nuvella Haven Home & Care Services | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=274e560d2cdcc457 |
+| Part Time Receptionist & Client Experience Coordinator | Lisa Patrick | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=dfae1eb1d8cbf48f |
+| Yard Worker | Amrize | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4398871367 |
+| Corporate HSE Coordinator, Systems & Assurance - Michels Can | Michels Canada | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4414052223 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4424881369 |
+| transportation logistics coordinator | LUBANA TRUCKING | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427955009 |
+| Talent Acquisition Specialist | Apex Geomatics Construction Surveyors Lt | 2026-06-12 | R | https://ca.indeed.com/viewjob?jk=b4200d3520dfbdba |
+| Remote Finance & Research Analyst ($100/hr) | Turing | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4427961653 |
