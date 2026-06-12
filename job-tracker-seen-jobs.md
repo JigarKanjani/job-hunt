@@ -10613,3 +10613,26 @@
 | transportation logistics coordinator | LUBANA TRUCKING | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427955009 |
 | Talent Acquisition Specialist | Apex Geomatics Construction Surveyors Lt | 2026-06-12 | R | https://ca.indeed.com/viewjob?jk=b4200d3520dfbdba |
 | Remote Finance & Research Analyst ($100/hr) | Turing | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4427961653 |
+| Facilities and Capital Lead | University of Alberta | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=0b0dd54df0e5bf1b |
+| Tax Analyst | Kassen Recruitment | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427997114 |
+| Operations Coordinator/Executive Assistant | TwelveSix Services | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4426959963 |
+| Staffing Specialist | Randstad Canada | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4426976812 |
+| NA Brand Marketing Specialist / Spécialiste marketing | Parkland Corporation | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4424888948 |
+| Marketing Specialist & Leasing Coordinator | AM PM Properties Inc | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4426974282 |
+| Material & Processes Engineer | De Havilland Aircraft of Canada Limited | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427981585 |
+| Senior Communications Advisor | TC Energy | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4425309402 |
+| Catastrophe Claims Advisor | TD | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428107037 |
+| Project Coordinator | Hopewell Development | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427976115 |
+| Lead Data Scientist | Fullscript | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428100180 |
+| Program Coordinator | University of Alberta | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=85a97ccea08bc74a |
+| Administrative Assistant (Full-Time Maternity Leave Coverage | Vantage Community Services | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4426979867 |
+| Land Administrator | ZealoTech People | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4426961992 |
+| Spiritual Care Coordinator (2025-1548) | Carewest Innovative Health Care | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4428103112 |
+| Flex Services Coordinator – Member Claims & Data Interface | Alberta Blue Cross | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4425311271 |
+| HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4426965039 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427981483 |
+| Treasury Analyst, Reporting and Compliance | Rohit Group | 2026-06-12 | R | https://ca.indeed.com/viewjob?jk=a9f3df9daeaf177f |
+| Business Systems Analyst (Temonos) / Toronto, ON (Remote) -  | AceStack | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4426955872 |
+| Labor Relations Specialist | The Salvation Army in Canada | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4428110114 |
+| Associate Lawyer | Getz Collins & Associates | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=a82825afc6b7a0b0 |
+| Document Controller | Airswift | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428109476 |
