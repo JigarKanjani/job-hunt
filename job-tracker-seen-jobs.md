@@ -10590,3 +10590,15 @@
 | SOC Tier 1 Analyst | MNP | 2026-06-11 | R | https://www.linkedin.com/jobs/view/4426655474 |
 | Associate, Valuations & Financial Structuring | Nutrien | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4424807956 |
 | Associate Designer | Critical Mass | 2026-06-11 | G | https://www.linkedin.com/jobs/view/4427638846 |
+| Analyst | Acute Care Alberta | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=3dd9383cb0d8b395 |
+| Senior SAP Supply Chain Functional Analyst | Dasro Consulting Inc. | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427904745 |
+| Product Support Specialist I | Affirm | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4426933047 |
+| Specialist - Physical Security & Compliance | Canadian Blood Services | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427911540 |
+| Leasing Specialist | Boardwalk | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4426922546 |
+| Senior SAP Project Systems Functional Analyst | Dasro Consulting Inc. | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427914652 |
+| Senior Technical Support Analyst, Alpha (Remote) - $60,000/y | Crossover | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4425894458 |
+| Tax Analyst | Kassen Recruitment | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427913468 |
+| Indigenous Affairs Administrator | SLB | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=76fb1312b7267deb |
+| Project Analyst | EarthRenew Inc. / Replenish Nutrients Lt | 2026-06-12 | R | https://ca.indeed.com/viewjob?jk=19f635405726a192 |
+| Product Support Specialist I | Affirm | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4426909666 |
+| Transaction Closing Support, Analyst - QC - (REMOTE) | eXp Realty | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4427921949 |
