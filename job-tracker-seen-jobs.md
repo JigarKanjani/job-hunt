@@ -10636,3 +10636,61 @@
 | Labor Relations Specialist | The Salvation Army in Canada | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4428110114 |
 | Associate Lawyer | Getz Collins & Associates | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=a82825afc6b7a0b0 |
 | Document Controller | Airswift | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428109476 |
+| Administrative & School Operations Coordinator | Acton Academy Calgary Central | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=a14db521cc6ea900 |
+| Payment Processing Advisor / Customer Service Representative | PBS Systems | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=83f25c46c6cf81b4 |
+| Construction Project Coordinator | Zgemi West Inc | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=2cf5bea246926456 |
+| Project Coordinator | Zgemi West Inc | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=1e33cf8483df6a77 |
+| Jr. Business Systems & Data Analyst | Remuda Building Ltd | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=813d3448b0e87743 |
+| Operations Specialist (Management Trainee Program) | Waste Connections | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=13d9f057e91e595c |
+| Coordinator, Competition | Hockey Alberta | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=740679c0fd891550 |
+| Fleet Coordinator | Seaboard Transport Group | 2026-06-12 | J | https://ca.indeed.com/viewjob?jk=5672924064893cdf |
+| Senior Rail Strategic Planning Specialist | Pembina Pipeline Corporation | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428176234 |
+| Regulatory and Land Services Analyst | Trans Mountain | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427227510 |
+| Data Analyst Specialist I, Work Management Technology | Enbridge | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4425319528 |
+| Business and Process Analyst | Open Door Group | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427226670 |
+| Dedicated Client Service Advisor | BMO | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428167467 |
+| Workface Planner | Worley | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428165828 |
+| Marketing Specialist | Canada Powered By Women | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427227485 |
+| Advisor, SCM Systems & Automation | Cenovus Energy | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428183146 |
+| Senior Regulatory & Land Services Analyst | Trans Mountain | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427233073 |
+| Lead, Line Protection Programs | Kingston Midstream | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427213633 |
+| Senior NGL Commercial Analyst | Pembina Pipeline Corporation | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428168899 |
+| Payroll Accounting Specialist (Hybrid) | Calgary Board of Education | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428168432 |
+| Indigenous Compliance Coordinator | Morson Edge (Canada) | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427225315 |
+| Senior Data Analyst & Developer (Hybrid) | Calgary Board of Education | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428152596 |
+| Junior Marketing Coordinator | Top Tier Education Corp | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428156952 |
+| Senior Marine Exports Specialist | Pembina Pipeline Corporation | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4428170319 |
+| Firearms Officer | Government of Alberta | 2026-06-12 | J | https://www.linkedin.com/jobs/view/4427222321 |
+| Program Coordinator (Contract) | Careers at ECO Canada | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=9139c2e0e7f62546 |
+| Design Coordinator | HDR | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=8b73b9128caca1e8 |
+| Insurance Planning Specialist | Servus Credit Union | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=a41c3647780722e6 |
+| Housing Support Worker | Closer to Home Community Services | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=6b33e8835ccf63b3 |
+| Community Support Worker | new age services | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=e8b530732d9063a5 |
+| Community Support Worker (Female) | new age services | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=a7252ddac4d63fcc |
+| Clinical Program Coordinator | University of Alberta | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=4edf66cf0035853c |
+| Project Coordinator | University of Alberta | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=30f71f721c40c5e0 |
+| Salon Coordinator | Hillary & Co Hair Salon  | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=b9107c4926b8f5a7 |
+| Finance & Budget Coordinator | City of Grande Prairie | 2026-06-12 | N | https://ca.indeed.com/viewjob?jk=fc0abe3302b0b97c |
+| Project Administrator - LCUR | Trane Technologies | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427221189 |
+| Advancement Administrative Assistant | Rundle Schools | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427214816 |
+| Legal Administrative Assistant - Energy/Corporate | Stikeman Elliott LLP | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4428151293 |
+| Senior Advisor, Research Operations and Strategic Support, F | University of Calgary | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4428162600 |
+| Financial Advisor, Investment & Retirement Planning (Canada) | Scotiabank | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427213362 |
+| Financial Advisor, Investment & Retirement Planning - Marda  | Scotiabank | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427222306 |
+| Financial Advisor, Investment & Retirement Planning- Royal O | Scotiabank | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4427212367 |
+| HS&E Field Advisor | Ledcor | 2026-06-12 | N | https://www.linkedin.com/jobs/view/4428173409 |
+| Desktop Support Technician | Yochana | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4427211840 |
+| Business Analyst - Enterprise Commons Human Resources | City of Edmonton | 2026-06-12 | R | https://www.linkedin.com/jobs/view/4425315672 |
+| Administrative Assistant | Beaverco | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=7d484a2a6d406994 |
+| Administrative Assistant | The Hill Companies | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=fce91ce4923acd6f |
+| Customer Service Representative | Perfect Home Furniture | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=66d58edda68f3990 |
+| Sales Associate -Temporary/Full-time (Beltline) - Canada Sum | Women In Need Society | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=7e286d7dfd23cfaf |
+| Sales Associate -Temporary/Full-time (Dover) - Canada Summer | Women In Need Society | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=5d14f15d9b4bed8f |
+| Sales Associate -Temporary/Full-time (Glenbrook) - Canada Su | Women In Need Society | 2026-06-12 | G | https://ca.indeed.com/viewjob?jk=6f9afcc56e478f5c |
+| Receptionist Casual AgeCare Walden Heights | AgeCare | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428153503 |
+| Associate, Shareholder Services | Odyssey Trust Company | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4425313745 |
+| Guest Services Agent | Germain Hôtels | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4425332442 |
+| Customer Service Representative | Soho Square Solutions | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4425331567 |
+| Natural Gas Scheduler | PETRONAS Canada | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428157203 |
+| Sales Associate | Tudotsu | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428150636 |
+| Regional Environmental Health and Safety Specialist | Trane Technologies | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4427224192 |
