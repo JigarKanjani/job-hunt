@@ -10764,3 +10764,8 @@
 | Engineer / Utility Coordinator (Senior) EOI Calgary | Hatch | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4417193961 |
 | Catering Administrator | Part-Time | Spruce Meadows | Oak View Group | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4417185435 |
 | Personal Banking Associate Trainee | TD | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4416969571 |
+| Human Resources Coordinator | Inline Group Inc. | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=046cc75000f971c3 |
+| Learning Commons Facilitator - Calgary Christian Elementary  | The Palliser School Division | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427288547 |
+| Regular Full Time School Administrative Assistant III and  E | Pembina Hills School Division | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427401429 |
+| Sales Associate-Print&Services | Staples Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428379628 |
+| Sales Associate | Cole Haan | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428365983 |
