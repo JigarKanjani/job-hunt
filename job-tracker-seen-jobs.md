@@ -10760,3 +10760,7 @@
 | Food Counter Worker | OPA! of Greece | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427287366 |
 | Principal Analyst, Power Markets – Long-Term Forecasting - 2 | Enverus | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4368727894 |
 | Customer Service Representative | Perfect Home Furniture | 2026-06-13 | G | https://ca.indeed.com/viewjob?jk=4d6373e211aab466 |
+| Chef d’équipe des données (Data Team Lead) | IQVIA | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4394715989 |
+| Engineer / Utility Coordinator (Senior) EOI Calgary | Hatch | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4417193961 |
+| Catering Administrator | Part-Time | Spruce Meadows | Oak View Group | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4417185435 |
+| Personal Banking Associate Trainee | TD | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4416969571 |
