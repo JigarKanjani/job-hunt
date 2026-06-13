@@ -10740,3 +10740,12 @@
 | Selling Associate-CrossIron Mills | Victoria’s Secret & Co. | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428314935 |
 | Lot Associate : Part Time - MARLBOROUGH | The Home Depot Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427263455 |
 | Merchandising Execution Associate : Part Time - MARLBOROUGH | The Home Depot Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427264457 |
+| Senior Solution Consultant, Operation Research Lead (Supply  | Kinaxis | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=5866decbb2528895 |
+| Business Intelligence Analyst –Information Technology | Alberta Blue Cross | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4406645179 |
+| Senior Research Coordinator, Alberta Children's Hospital Res | University of Calgary | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=f0647c77f6e57a28 |
+| Senior Advisor, Research Operations and Strategic Support, F | University of Calgary | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=2a83e16b6dbbfd2f |
+| Computational Engineering Specialist | $60/hr Remote | Crossing Hurdles | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4427258887 |
+| Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4375266572 |
+| Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4375269513 |
+| Security Systems Installer (un) | Johnson Controls | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4414345456 |
+| Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4425366251 |
