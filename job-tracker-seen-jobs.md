@@ -10726,3 +10726,17 @@
 | Customer Service Representative | City of Calgary | 2026-06-13 | G | https://ca.indeed.com/viewjob?jk=5ca0646dbc87f364 |
 | Customer Service Representative | U-Haul | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428301288 |
 | Controller – Part Time or Fractional | Denizen | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427241791 |
+| Banquets - Coordinator | Moxies | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=f91aaa38cdf35d85 |
+| Lead Coordinator - Equipment Buying Program (12-Month Term) | Parkland Corporation | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427268257 |
+| Lead Coordinator - Equipment Buying Program (12-Month Term) | Parkland Corporation | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427262275 |
+| Leasing Specialist | Boardwalk | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427269393 |
+| Payment Processing Advisor / Customer Service Representative | PBS Systems | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4425351631 |
+| Quality Assurance/Testing Analyst | TEKsystems | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428317158 |
+| Mortgage Specialist | RBC | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428329115 |
+| Inside Sales Performance Specialist | PBS Systems | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4425358418 |
+| Housing Support Worker | Closer to Home Community Services | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428322435 |
+| Banquets - Coordinator | Moxies | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428306820 |
+| Child Youth Care Worker - Sebastian House - (CF) | Catholic Social Services Alberta | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427261413 |
+| Selling Associate-CrossIron Mills | Victoria’s Secret & Co. | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428314935 |
+| Lot Associate : Part Time - MARLBOROUGH | The Home Depot Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427263455 |
+| Merchandising Execution Associate : Part Time - MARLBOROUGH | The Home Depot Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427264457 |
