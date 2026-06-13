@@ -10694,3 +10694,35 @@
 | Natural Gas Scheduler | PETRONAS Canada | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428157203 |
 | Sales Associate | Tudotsu | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4428150636 |
 | Regional Environmental Health and Safety Specialist | Trane Technologies | 2026-06-12 | G | https://www.linkedin.com/jobs/view/4427224192 |
+| Advisor, SCM Systems & Automation | Cenovus Energy | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=192459100079bdc5 |
+| Client Success Specialist | TMX GROUP | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=753ae7330d8003e7 |
+| Client Success Specialist | TMX GROUP | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=8273a1cc6de37d06 |
+| Payroll & Benefits Lead | Canada Diagnostic Centres | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=759521faeb147058 |
+| BigID Functional Lead | Capgemini | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=a7023d4bbe6e2523 |
+| Logistics coordinator | Superior Plus Propane | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=ea64431df7d4ab80 |
+| Logistics coordinator | Superior Propane | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=4379d5d3be4663dd |
+| Production Administrative Coordinator | Banff Centre for Arts and Creativity | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=3f72cc1d291e8dce |
+| Business Analyst | Hexagon | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=0ca0363819b8b288 |
+| Senior Supply Chain Project Coordinator | Hexagon | 2026-06-13 | J | https://ca.indeed.com/viewjob?jk=465a83062fa7528d |
+| SAP Functional Analyst – Supply Chain | Raise | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428300372 |
+| Operations Specialist (Management Trainee Program) | Waste Connections of Canada | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4425329708 |
+| WHS Specialist | Amazon | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428179619 |
+| Senior Solution Consultant, Operation Research Lead (Supply  | Kinaxis | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428185845 |
+| Communications Account Coordinator | Worthington PR & Story | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427219625 |
+| Advisor, Safety Risk Management | WestJet | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428199350 |
+| Coordinator, Structural - Major Projects | Calgary Airports | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428195370 |
+| Group Training Specialist | Clio | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427236469 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428192388 |
+| Medium Enterprise Account Executive | Workday | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4425330852 |
+| Underwriting Specialist, Delegated Authority | Sovereign Insurance | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427234987 |
+| Ramp Service Lead U, YYC (Part Time, Relief) | WestJet | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428313098 |
+| Operations Supervisor | FedEx Canada | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428184609 |
+| Access and Privacy Administrator | City of Calgary | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=713a152d1fdd649f |
+| HS&E Field Advisor | Ledcor | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=24b67b7b2b92d899 |
+| Office Administrator | MMi Electrical Services Inc. | 2026-06-13 | N | https://ca.indeed.com/viewjob?jk=5a745ffd9998f6ce |
+| Community Impact Coordinator | E4C | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428314135 |
+| Reporting Analyst (18-Month Maternity Leave Coverage) | Freson Bros. | 2026-06-13 | R | https://ca.indeed.com/viewjob?jk=24b000bd391ca538 |
+| Business Analyst - Enterprise Commons Human Resources | City of Edmonton | 2026-06-13 | R | https://ca.indeed.com/viewjob?jk=d4e5b154d39e9e34 |
+| Customer Service Representative | City of Calgary | 2026-06-13 | G | https://ca.indeed.com/viewjob?jk=5ca0646dbc87f364 |
+| Customer Service Representative | U-Haul | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428301288 |
+| Controller – Part Time or Fractional | Denizen | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427241791 |
