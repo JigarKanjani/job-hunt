@@ -10769,3 +10769,7 @@
 | Regular Full Time School Administrative Assistant III and  E | Pembina Hills School Division | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427401429 |
 | Sales Associate-Print&Services | Staples Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428379628 |
 | Sales Associate | Cole Haan | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428365983 |
+| Agricultural Product Sales Specialist - Canada | JCB North America | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4425389834 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4425395131 |
+| Student Employment Opportunity - Branch Associate - Part-Tim | Chit Chats | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428367818 |
+| Part-Time Market Sales Associate | The Canadian Seltzer Company | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427292639 |
