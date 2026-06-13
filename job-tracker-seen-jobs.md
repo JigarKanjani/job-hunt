@@ -10755,3 +10755,8 @@
 | Youth Worker, Fort Chipewyan | Regional Municipality of Wood Buffalo | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428363454 |
 | Senior Proposal Coordinator | Arcadis | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4357459944 |
 | Dietary Worker | Aramark Canada | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428388073 |
+| Desktop Support Specialist | Yochana | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427404158 |
+| Catering Administrator | Part-Time | Spruce Meadows | Oak View Group | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4417185435 |
+| Food Counter Worker | OPA! of Greece | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4427287366 |
+| Principal Analyst, Power Markets – Long-Term Forecasting - 2 | Enverus | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4368727894 |
+| Customer Service Representative | Perfect Home Furniture | 2026-06-13 | G | https://ca.indeed.com/viewjob?jk=4d6373e211aab466 |
