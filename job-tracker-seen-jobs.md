@@ -10749,3 +10749,8 @@
 | Platform Professional Services Consultant (Remote, CAN) | CrowdStrike | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4375269513 |
 | Security Systems Installer (un) | Johnson Controls | 2026-06-13 | R | https://www.linkedin.com/jobs/view/4414345456 |
 | Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4425366251 |
+| Business Analyst/RFP Process Consultant | TEKsystems | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4428343477 |
+| Buyer | ENMAX | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4427296056 |
+| Interim Lead | SEPHORA | 2026-06-13 | J | https://www.linkedin.com/jobs/view/4418182535 |
+| Youth Worker, Fort Chipewyan | Regional Municipality of Wood Buffalo | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4428363454 |
+| Senior Proposal Coordinator | Arcadis | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4357459944 |
