@@ -10776,3 +10776,5 @@
 | Program Coordinator | New Brunswick Bible Institute | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428600042 |
 | SOC Tier 1 Analyst | MNP | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4427402916 |
 | Mortgage Specialist | RBC | 2026-06-14 | G | https://ca.indeed.com/viewjob?jk=9a4c185a5e954f6f |
+| Conferencing Solutions - IT Analyst | Deloitte | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=8b4e614dc4323994 |
+| Small Capital Projects Associate | Boardwalk | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4427423305 |
