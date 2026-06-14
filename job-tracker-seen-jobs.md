@@ -10781,3 +10781,10 @@
 | Coordinator, Learning Centre: Calgary | Deloitte | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=abc0c4119af85c29 |
 | Compliance Analyst | River Cree Resort & Casino | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428634379 |
 | Administrative Assistant | KPMG Canada | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4418604569 |
+| Leadership & Personal Growth Associate | Happy Healthy Life | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428617653 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428629963 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428631789 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428633765 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428623865 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428616901 |
+| Sales Associate-Print&Services | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4418658267 |
