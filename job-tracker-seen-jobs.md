@@ -10798,3 +10798,5 @@
 | Activity Leader – Simulation Specialist | Calian Group | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4427436487 |
 | Human Resources Specialist (Remote) | Quik Hire Staffing | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4428658168 |
 | Cloud-Based Platform Programmer (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428651076 |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=b652c1c6df545810 |
+| General Projects Associate (Labourer) | Boardwalk | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4427437491 |
