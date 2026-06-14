@@ -10788,3 +10788,9 @@
 | Korean Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428623865 |
 | Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428616901 |
 | Sales Associate-Print&Services | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4418658267 |
+| Compliance Analyst | River Cree Resort & Casino | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4427435681 |
+| Test Administrator (Psychological Assessments) | Calian Group | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4427427983 |
+| Global Mobility Specialist (Remote) | Quik Hire Staffing | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4428648194 |
+| Competency Advisor | Civeo North America | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4418621637 |
+| Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428633958 |
+| Sales Associate | Cole Haan | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428623932 |
