@@ -10778,3 +10778,6 @@
 | Mortgage Specialist | RBC | 2026-06-14 | G | https://ca.indeed.com/viewjob?jk=9a4c185a5e954f6f |
 | Conferencing Solutions - IT Analyst | Deloitte | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=8b4e614dc4323994 |
 | Small Capital Projects Associate | Boardwalk | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4427423305 |
+| Coordinator, Learning Centre: Calgary | Deloitte | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=abc0c4119af85c29 |
+| Compliance Analyst | River Cree Resort & Casino | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428634379 |
+| Administrative Assistant | KPMG Canada | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4418604569 |
