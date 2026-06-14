@@ -10773,3 +10773,6 @@
 | International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-13 | N | https://www.linkedin.com/jobs/view/4425395131 |
 | Student Employment Opportunity - Branch Associate - Part-Tim | Chit Chats | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4428367818 |
 | Part-Time Market Sales Associate | The Canadian Seltzer Company | 2026-06-13 | G | https://www.linkedin.com/jobs/view/4427292639 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4428600042 |
+| SOC Tier 1 Analyst | MNP | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4427402916 |
+| Mortgage Specialist | RBC | 2026-06-14 | G | https://ca.indeed.com/viewjob?jk=9a4c185a5e954f6f |
