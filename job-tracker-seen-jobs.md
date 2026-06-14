@@ -10800,3 +10800,8 @@
 | Cloud-Based Platform Programmer (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428651076 |
 | Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-06-14 | J | https://ca.indeed.com/viewjob?jk=b652c1c6df545810 |
 | General Projects Associate (Labourer) | Boardwalk | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4427437491 |
+| Part-Time Business Operations Coordinator | Blue Method Solutions | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4427449398 |
+| Motorcycle Technical Support & Retail/Dealer Support Special | AdMore Lighting Inc. | 2026-06-14 | R | https://ca.indeed.com/viewjob?jk=27f2af36d031e7c8 |
+| Back End Developer (AI Infrastructure) | Alignerr | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428641673 |
+| Sales Associate | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428643774 |
+| Temporary Sales Associate Shawnessy | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428655699 |
