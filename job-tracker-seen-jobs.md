@@ -10805,3 +10805,7 @@
 | Back End Developer (AI Infrastructure) | Alignerr | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428641673 |
 | Sales Associate | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428643774 |
 | Temporary Sales Associate Shawnessy | Staples Canada | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428655699 |
+| Project Design Coordinator | BOND Creative Inc. | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4110557012 |
+| Career Transition & Leadership Consultant | Popcorn Potential | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4427447507 |
+| Individual Disability Senior Case Manager | Manulife | 2026-06-14 | N | https://ca.indeed.com/viewjob?jk=b102dd0c7eb7df68 |
+| Digital Marketing Analyst | Lazy Day Raft Rentals | 2026-06-14 | R | https://ca.indeed.com/viewjob?jk=38d4b6411d6c7387 |
