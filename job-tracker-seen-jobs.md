@@ -10794,3 +10794,7 @@
 | Competency Advisor | Civeo North America | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4418621637 |
 | Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428633958 |
 | Sales Associate | Cole Haan | 2026-06-14 | G | https://www.linkedin.com/jobs/view/4428623932 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4425729947 |
+| Activity Leader – Simulation Specialist | Calian Group | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4427436487 |
+| Human Resources Specialist (Remote) | Quik Hire Staffing | 2026-06-14 | N | https://www.linkedin.com/jobs/view/4428658168 |
+| Cloud-Based Platform Programmer (Remote) | Hire Feed | 2026-06-14 | R | https://www.linkedin.com/jobs/view/4428651076 |
