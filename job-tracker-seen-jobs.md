@@ -10820,3 +10820,24 @@
 | Data Analyst (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428823076 |
 | Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4427487201 |
 | Site Reliability Specialist (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428829119 |
+| Marketing Services Coordinator | Gas Alberta Energy | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4426973828 |
+| Resident Service Coordinator | Hines | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427711654 |
+| Marketing Coordinator | cmi | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427735044 |
+| HR Technology Analyst | Spartan Controls | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427715252 |
+| Payroll Specialist | Robert Half | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427711958 |
+| Construction Survey - Tecnical Drafting Lead | Olsen North Land Surveying Ltd. | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4428877463 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4428878373 |
+| Sr Technical Program Manager – AI Delivery & Operations - Re | Duck Creek Technologies | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427481858 |
+| People & Culture Advisor | United Active Living  | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=68b2681660af5cf4 |
+| Data Coordinator | Tsuu T'ina nation | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=324488baeb5abe60 |
+| Service Admin Coordinator | Levitt-Safety | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=b4d80a901c314559 |
+| Seismic Data Administrator | PULSE | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4426994911 |
+| AI Transformation Specialist | Foundation | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=36de6b64cf926908 |
+| Application Developer | Sobeys | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428879323 |
+| Data Privacy Specialist | Millennium Software and Staffing Inc | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4427733052 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428873308 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428865396 |
+| Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-06-15 | G | https://ca.indeed.com/viewjob?jk=f1805733f8716479 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Property Administrator | Hays | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4428880047 |
+| Controller | Robert Half | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427709714 |
