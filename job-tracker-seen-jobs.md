@@ -10841,3 +10841,49 @@
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4247390384 |
 | Property Administrator | Hays | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4428880047 |
 | Controller | Robert Half | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427709714 |
+| Project Control Analyst | AltaLink | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=b1dfeac98dd07fe1 |
+| Community Development Intensive Case Manager | CUPS | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=4769ff13e0b2d704 |
+| Coordinator/Procurement | Flair Canada | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=eae137ab8dbce6f5 |
+| Procurement Manager | Zen Residential | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=e25d8b134a553088 |
+| Senior Pricing Analyst | National Seating & Mobility | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=0fe48ea66be9f21b |
+| Junior HR Consultant (HR Coordinator) | A&A Consulting | 2026-06-15 | J | https://ca.indeed.com/viewjob?jk=cc0913474b4c4f82 |
+| Inventory Operations Analyst | Arrow Workforce Solutions | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427765015 |
+| Business Analyst (Student/Co-op) | De Havilland Aircraft of Canada Limited | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429113978 |
+| Special Projects Coordinator, Supply Chain Management | University of Calgary | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429144550 |
+| Project Control Analyst | AltaLink | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429139270 |
+| Planning and Reporting Advisor | Government of Alberta | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427758582 |
+| Senior Pricing Analyst | National Seating & Mobility | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4426431552 |
+| Specialist Corporate Accounting | CPKC | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429127694 |
+| Senior Analyst, Finance Business Partner - Corporate 1 | Nutrien | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4426447001 |
+| Service Specialist | Canada Life | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427759655 |
+| Analyste - Gestion de projet SAP (Premières Nations, Métis,  | Deloitte | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427740964 |
+| Data Center Estimating Lead | Linesight | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427751904 |
+| Cash Management Specialist, Private Wealth | BMO | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429146446 |
+| Contracts Analyst | UNIPEC America, Inc. | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429107965 |
+| Health Safety Environment Advisor | Agilus Work Solutions | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427775016 |
+| Team Lead (Full time) - Beacon Hill | RCL - Reitmans Canada Ltd/Ltée | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429130408 |
+| Field Leader - Solids Control - Canada Remote | Stage 3 Separation | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4429132276 |
+| Beauty Advisor - Full Time | Sephora | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=fd9eebfc0acfdeaa |
+| Beauty Advisor - Full Time | Sephora | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=4326352052b8bd61 |
+| DONOR GRANTS COORDINATOR | The Calgary Foundation | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=b7ab68e2932760be |
+| Outreach Program Coordinator | Schizophrenia Society of Alberta | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=55e0148475c89031 |
+| Program Coordinator & Administrator | Canadian Imperial Advantage | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=8f1bdc21fe09574d |
+| Programs & Grants Coordinator | Northeastern Alberta Aboriginal Business | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=ca380a480bd54d35 |
+| Program & Administrative Support Coordinator | Between Friends | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=a2393902b5d686c0 |
+| Orthodontic Financial Coordinator (Full Time) | City Orthodontics & Pediatric Dentistry | 2026-06-15 | N | https://ca.indeed.com/viewjob?jk=78d83337d9726988 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4429131613 |
+| Administrative Assistant | Lifemark Health Group | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4426471009 |
+| Senior Analyst | Superior Gas Liquids | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4426458129 |
+| Programs Facilitator | The Brenda Strafford Foundation | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4429150880 |
+| Graduate & Dual Degree Program Administrator | University of Alberta | 2026-06-15 | N | https://www.linkedin.com/jobs/view/4426422699 |
+| Business Analyst (Student/Co-op) | De Havilland Aircraft of Canada Ltd | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=b4bf35c54e7ff6dd |
+| Graphics Designer/Multimedia Specialist | Canada Energy Regulator | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=83352bd23e803b67 |
+| Service Desk Analyst | eHealth Saskatchewan | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=816d69e6f87b8e0a |
+| Network Infrastructure and Operations Analyst | Pason Systems Corp | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=1bd7127791f1ffae |
+| Business Analyst | Alberta Municipalities | Strength in Mem | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4429137034 |
+| Mobile Sales Associate (Full Time) | Best Buy | 2026-06-15 | G | https://ca.indeed.com/viewjob?jk=5d520c98fcd8f37b |
+| Mortgage Agent | True North Mortgage | 2026-06-15 | G | https://ca.indeed.com/viewjob?jk=69e8d36ebe87ddf7 |
+| Customer Service Representative | Arrow Workforce Solutions | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427739978 |
+| Inside Sales Associate II | ADI Global Distribution | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4429122679 |
+| Controller | Millennium EMS Solutions Ltd. | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427750683 |
+| Associate, Internal Sales, Intermediary Distribution, Calgar | BMO | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4429141561 |
