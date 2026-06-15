@@ -10812,3 +10812,11 @@
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4428661616 |
 | Golf Simulator Tech Support Specialist | Par2Pro | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=c6364fbd1fefbf4b |
 | Associate, Order Fulfillment | Holt Renfrew | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427441962 |
+| Market Design Analyst | Alberta Electric System Operator (AESO) | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427482498 |
+| SENIOR ANALYST, PORTFOLIO MANAGEMENT - Ontario, Atlantic, Pr | BDC | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427472756 |
+| SENIOR ANALYST, PORTFOLIO MANAGEMENT - Ontario, Atlantic, Pr | BDC | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4427478774 |
+| Power Market Sector Lead, Canada | HDR | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4388533814 |
+| Platform Support Analyst | Entain | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=e7039bae1c23d7ea |
+| Data Analyst (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428823076 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4427487201 |
+| Site Reliability Specialist (Remote) | Hire Feed | 2026-06-15 | R | https://www.linkedin.com/jobs/view/4428829119 |
