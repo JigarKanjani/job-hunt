@@ -10809,3 +10809,6 @@
 | Career Transition & Leadership Consultant | Popcorn Potential | 2026-06-14 | J | https://www.linkedin.com/jobs/view/4427447507 |
 | Individual Disability Senior Case Manager | Manulife | 2026-06-14 | N | https://ca.indeed.com/viewjob?jk=b102dd0c7eb7df68 |
 | Digital Marketing Analyst | Lazy Day Raft Rentals | 2026-06-14 | R | https://ca.indeed.com/viewjob?jk=38d4b6411d6c7387 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-06-15 | J | https://www.linkedin.com/jobs/view/4428661616 |
+| Golf Simulator Tech Support Specialist | Par2Pro | 2026-06-15 | R | https://ca.indeed.com/viewjob?jk=c6364fbd1fefbf4b |
+| Associate, Order Fulfillment | Holt Renfrew | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427441962 |
