@@ -10921,3 +10921,15 @@
 | Specialist Corporate Accounting | CPKC | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=fbec99732a4e8100 |
 | Vehicle Service Agent (Downtown Calgary branch) | SIXT | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4429198865 |
 | Scheduler- AgeCare SkyPointe | AgeCare | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4429203315 |
+| Project Coordinator | Bird Construction | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=37afe9cedae9cf25 |
+| Material Program Manager | Raytheon | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=d32a82d459f28885 |
+| Travel Coordinator | Nuna Group of Companies | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=a7f4b2489fa223a8 |
+| Project Coordinator | Bird Construction | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429210887 |
+| Power Platform & AI Developer Intern | Intelbyte | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=d046f346c917a1ba |
+| Recruitment Specialist | Covenant Health Canada | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=55772a4953dd719e |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429234663 |
+| Administrative Support III | Primary Care Alberta | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=1a24f08e4c5de61e |
+| Administrative Support IV | Primary Care Alberta | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=fc1644c5861885a4 |
+| Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426485920 |
+| Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426498052 |
+| Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426477915 |
