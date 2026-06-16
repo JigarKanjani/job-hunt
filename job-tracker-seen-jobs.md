@@ -10966,3 +10966,50 @@
 | Korean Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429504879 |
 | Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429517740 |
 | Front Desk Associate GYMVMT / HER GYMVMT- Trans Canada Centr | GYMVMT | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=a5cf92e83947cefc |
+| Project Coordinator (Construction) | West Cirque Construction Inc | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=35718f835acef0fb |
+| Sales/Marketing & Business Coordinator | Commissionaires | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=956aca0524138d98 |
+| Project Analyst | Cyient | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426845986 |
+| Policy Analyst | Alberta Grains | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428089038 |
+| Senior Contracts Specialist | TransAlta | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429561506 |
+| Senior Client Insights Analyst | Norton Rose Fulbright | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428086097 |
+| Administrative Operations Coordinator | Horse Gear Canada Ltd | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428086380 |
+| Branch Operations Lead | Worldpac | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428089472 |
+| Procurement Specialist | Agilus Work Solutions | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428044636 |
+| Charting Coordinator II, Astral Media Outdoor LP, Bell Media | Bell | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429567757 |
+| HR Advisor/Generalist II | Brunel | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428050976 |
+| Junior/Intermediate Accident Benefits Advisor | Aviva Canada | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428041982 |
+| Senior Project Leader - Advisory Services - 26148 | Enverus | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4408681728 |
+| Parts Counter Advisor, Retail | Kaizen Automotive Group | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428068035 |
+| Service Advisor | Kaizen Automotive Group | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428062915 |
+| Cloud Azure Engineer (Lead) and Azure Cloud Site Reliability | Raas Infotek | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429574078 |
+| Quality Assurance Advisor | Airswift | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426861491 |
+| Housing Focused Shelter Worker - Calgary Women's Shelter (Pa | The Mustard SEED Society | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=cd7b5649c40bb4dd |
+| Housing Focused Shelter Worker - Calgary Women's Shelter | The Mustard SEED Society | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=2ebd804625432f0d |
+| Leasing and Community Administrator | Welcome Co | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=b4099c1a0a9e8b18 |
+| Customer Care Administrator | PERI | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=0ec5cb55e485f573 |
+| Administrative Operations Coordinator | Horse Gear Canada Ltd. | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=0ac65b04be8addc4 |
+| Customer Care Administrator | PERI | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4429583017 |
+| Customer Care Administrator | PERI Canada | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4429566406 |
+| Intermediate Architectural Contract Administrator | DIALOG | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4429580005 |
+| Human Resources Coordinator | Morskate Manufacturing Ltd. | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4428072424 |
+| HR Administrator | Go Auto | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4428087660 |
+| IT Support Technician (Junior) | CTECH Consulting Group | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=61d559a949a97233 |
+| Mining Technology Implementation Specialist | Finning | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=686a7f94cf1d046a |
+| Food & Beverage - Administration & Training Coordinator | Fairmont | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=0088ae013acfb0bb |
+| Mining Technology Implementation Specialist | Finning | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4428056805 |
+| Release Engineer - RHEL Migration / Platform Modernization | Capgemini | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429570056 |
+| Applications Support Analyst II | RECRUITMENT PARTNERS INC. | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4419107682 |
+| Bookkeeper/Administrative Assistant | Magma CPA | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=58245896f1411d48 |
+| Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=6fd4b652d7fec8cc |
+| Field Representative II, Area Customer Service | Ricoh USA, Inc. | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4429113023 |
+| Receptionist | GuestTek Interactive Entertainment Ltd. | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426846734 |
+| Associate | Richardson Wealth | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428079501 |
+| Accounting Associate | LPi Group | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428080579 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426853919 |
+| Sales Associate | Kaizen Automotive Group | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428062914 |
+| Community Associate | TradeSpace | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4427204027 |
+| Child Development Advisor - Nose Creek Elementary School | Rocky View Schools | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428074856 |
+| Customer Service Instant Return Representative | Hertz | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428075678 |
+| Agent(e) de sécurité bilingue - GRC (Gouvernance, Risque et  | Bell | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4423083699 |
+| Service Advisor | Kaizen Automotive Group | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428076011 |
