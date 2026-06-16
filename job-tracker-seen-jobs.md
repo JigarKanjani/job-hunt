@@ -10887,3 +10887,37 @@
 | Inside Sales Associate II | ADI Global Distribution | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4429122679 |
 | Controller | Millennium EMS Solutions Ltd. | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4427750683 |
 | Associate, Internal Sales, Intermediary Distribution, Calgar | BMO | 2026-06-15 | G | https://www.linkedin.com/jobs/view/4429141561 |
+| Special Projects Coordinator, Supply Chain Management | University of Calgary | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=28d0621ab0623ace |
+| Process Coordinator | Amrize | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=8aaf32921f0ec4fd |
+| Therapeutic Specialist, Calgary | Boehringer Ingelheim | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=8bcbbdf2eb804cc8 |
+| District Sales Coordinator | Amrize | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=0992596a554d7dcb |
+| Senior Analyst | Capital Power | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=2719e1ab12ce3dcf |
+| Resident Service Coordinator | Hines | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=23433ef92755c7a1 |
+| Donor Development Specialist (FT) DCR | Catholic Social Services | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=671698dcbd08a777 |
+| Team Leader, Prairie Mall | Saje Natural Wellness | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=0bdfff87de41f166 |
+| Process Coordinator | Amrize | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426469379 |
+| Analyst-Ops Intelligence and Performance (Contact Centre) | WestJet | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4427791274 |
+| First Nations/Inuit/Métis Candidates: Analyst, SAP Project M | Deloitte | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429184704 |
+| District Sales Coordinator | Amrize | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426462408 |
+| Community Engagement Officer | Forge Performance Group | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428009246 |
+| First Officer- Challenger 604 | Execaire Aviation | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4427772535 |
+| Branch Buyer | Wolseley Canada Inc. | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429153847 |
+| Financial Advisor - High River | Servus Credit Union | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426688376 |
+| Measurement Analyst | Tourmaline Oil Corp | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4427784286 |
+| Office Administrator Assistant | PYTHON X-PRESS | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=ed516b4d2cd170e3 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=3427745f0487b4e8 |
+| People & Culture Advisor | Calgary Drop IN & Rehab Society Centre | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=ac7f997a8dd188cb |
+| Calgary Police Service - Payroll Analyst | City of Calgary | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=01d966edb912190c |
+| Intermediate Architectural Contract Administrator | Dialog | 2026-06-16 | N | https://ca.indeed.com/viewjob?jk=02faea5a78be86d5 |
+| Senior Administrative Assistant | WestJet | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4428008287 |
+| Administrative Assistant III - Training | City of Grande Prairie | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4426469273 |
+| Fleet Coordinator | CBRE | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4429203345 |
+| Junior Systems Consultant, Smart Assist – N-Able | Long View Systems | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=bec433211b941f98 |
+| IT Support Technician L2 | MSP Corp. | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=a7bdc29fb6ca337a |
+| Climate Change Analyst | City of Edmonton | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=109d190defc28a8e |
+| IT Specialist L3 | MSP Corp. | 2026-06-16 | R | https://ca.indeed.com/viewjob?jk=ba081f20653f3dba |
+| Administrative Assistant - Strategic Partnerships | Mayfair Diagnostics | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=e6e1283eb47f8af0 |
+| Office Adminstrator | Mott MacDonald | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=df4d89250bbe106a |
+| Specialist Corporate Accounting | CPKC | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=fbec99732a4e8100 |
+| Vehicle Service Agent (Downtown Calgary branch) | SIXT | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4429198865 |
+| Scheduler- AgeCare SkyPointe | AgeCare | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4429203315 |
