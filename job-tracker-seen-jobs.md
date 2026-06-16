@@ -10933,3 +10933,36 @@
 | Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426485920 |
 | Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426498052 |
 | Personal Banking Associate Trainee | TD | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4426477915 |
+| Senior Compliance Specialist | Wellington-Altus Private Wealth Inc. | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=596b39bcb270a845 |
+| Senior Financial Analyst - Mining Sales | SMS Equipment Inc. | 2026-06-16 | J | https://ca.indeed.com/viewjob?jk=36d4918ccb5064e4 |
+| Inventory Operations Analyst | Arrow Workforce Solutions | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428057200 |
+| SAP S/4HANA Functional Analyst | BuzzClan | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426837955 |
+| IT Infrastructure Analyst - Network/Firewall | Graham | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4418978332 |
+| Analyst Wholesale Customer Support (12 months contract) | Sobeys | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429542635 |
+| Investment Banking Analyst | Canaccord Genuity Group Inc. | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4417883745 |
+| Category Manager, Fuel & Car Wash | Circle K | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4418217613 |
+| Turnaround Planner | Airswift | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426850016 |
+| Managed Services Coordinator | City of Calgary | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428051178 |
+| Logistics Operations Supervisor II Canada | Daimler Truck North America | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426858033 |
+| Specialist Talent Acquisition Programs and Governance | CPKC | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4419125458 |
+| Talent Acquisition Specialist | Volker Stevin | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428051266 |
+| Coordinator II - Specialist, Fire and Life Safety | Alberta Health Services | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429533126 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4426820757 |
+| Structural Field Coordinator - Energy & Nuclear Construction | Kiewit | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4359212157 |
+| Learning Experience & Technology Lead | Zurich Canada | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428061169 |
+| Financial Advisor, Investment & Retirement Planning (Canada) | Scotiabank | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4428046153 |
+| Senior Website Content Specialist | Stantec | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429528472 |
+| Test Specialist (Evening Shift) | CoolIT Systems | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4418222609 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-16 | J | https://www.linkedin.com/jobs/view/4429529048 |
+| Contract Administrator | Adecco | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4428043231 |
+| Administrator Benefits Administration (contract) | Sobeys | 2026-06-16 | N | https://www.linkedin.com/jobs/view/4429527853 |
+| Conseiller(ère), Analyste des exigences en administration de | Aon | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4410567556 |
+| Java Developer | Apptad | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4428045261 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429539075 |
+| Data Quality Analyst | Remote | Crossing Hurdles | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4426824508 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429503988 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429519658 |
+| Data Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429541107 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429504879 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-16 | R | https://www.linkedin.com/jobs/view/4429517740 |
+| Front Desk Associate GYMVMT / HER GYMVMT- Trans Canada Centr | GYMVMT | 2026-06-16 | G | https://ca.indeed.com/viewjob?jk=a5cf92e83947cefc |
