@@ -11013,3 +11013,33 @@
 | Customer Service Instant Return Representative | Hertz | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428075678 |
 | Agent(e) de sécurité bilingue - GRC (Gouvernance, Risque et  | Bell | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4423083699 |
 | Service Advisor | Kaizen Automotive Group | 2026-06-16 | G | https://www.linkedin.com/jobs/view/4428076011 |
+| Advisor, Governance & Enablement - Fieldglass - Calgary, AB  | Nutrien | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=c40a9bbda369ade2 |
+| Advisor, Governance & Enablement - Fieldglass - Calgary, AB  | Nutrien | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=db012a7d811bc365 |
+| SAP Project Coordinator | CPKC | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=5bf5db762c15e299 |
+| Glazing Project Coordinator | Flynn Group of Companies | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=810866943ab3e5e2 |
+| Employee Development Analyst [12-month TEMP] | Canadian Natural | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=a0a99193dcc9313b |
+| Sr Risk Analyst | Suncor Energy | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=d7a59a0666017f8c |
+| Dealer Engagement Specialist (Accounting Module) | PBS Systems | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=583a1f171f44c3de |
+| Planned Giving Specialist | Canadian Wildlife Federation | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=0d8fe11d979cc67d |
+| Senior Specialist, Compliance Assurance | Alberta Energy Regulator (AER) | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4429739635 |
+| SAP Project Coordinator | CPKC | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4427312265 |
+| New Installations & Modernizations Coordinator | Schindler Group | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4424897908 |
+| Coordinator Technical Training- Calgary | CPKC | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4427305276 |
+| Underwriting Specialist, National Accounts Casualty | CNA Insurance | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4428423903 |
+| Electrical Reliability Planner | Amrize | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4427312020 |
+| Senior Engineer or Analyst, Reliability Standards | Alberta Electric System Operator (AESO) | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4416309892 |
+| EverPro - Growth & Markets Analyst (Remote, Canada) | EverCommerce | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4427613034 |
+| Maintenance Planner II | Sofina Foods Canada | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4429741401 |
+| Coordinator Technical Training- Calgary | CPKC | 2026-06-17 | N | https://ca.indeed.com/viewjob?jk=c6d78b2dbea76730 |
+| Sr. Advisor, Governance & Enablement, Fieldglass -Systems -  | Nutrien | 2026-06-17 | N | https://ca.indeed.com/viewjob?jk=fa2d02af3c9da3f4 |
+| Engage Analyst | City of Calgary | 2026-06-17 | N | https://ca.indeed.com/viewjob?jk=5c87130fe71090ef |
+| Conference Sales Coordinator | Banff Centre for Arts and Creativity | 2026-06-17 | N | https://ca.indeed.com/viewjob?jk=b968c80bb972904b |
+| Marketing Reporting Accountant | Petronas Canada | 2026-06-17 | R | https://ca.indeed.com/viewjob?jk=778ed4fac00c547c |
+| HR Business Analyst, Reporting & Analytics | Southern Alberta Institute of Technology | 2026-06-17 | R | https://ca.indeed.com/viewjob?jk=a7ed0c6438f5a182 |
+| Project Controls Analyst | Suncor Energy | 2026-06-17 | R | https://ca.indeed.com/viewjob?jk=534b2a957fab962c |
+| Marketing Reporting Accountant | PETRONAS Canada | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4427317222 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4429747407 |
+| Receptionist | Smith + Andersen | 2026-06-17 | G | https://ca.indeed.com/viewjob?jk=7b3f90e7ccf56c26 |
+| Financial Recovery Specialist, On-Call | City of Calgary | 2026-06-17 | G | https://ca.indeed.com/viewjob?jk=f2c5c239768f2be9 |
+| Financial Recovery Specialist | City of Calgary | 2026-06-17 | G | https://ca.indeed.com/viewjob?jk=7291e139a897ab5f |
+| Agent, Service à la clientèle I | TD | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4429741735 |
