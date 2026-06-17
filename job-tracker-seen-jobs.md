@@ -11058,3 +11058,20 @@
 | Consultant/Senior Consultant, Economic Advisory | Deloitte | 2026-06-17 | N | https://ca.indeed.com/viewjob?jk=a38121a1d2a3afa5 |
 | Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services Alberta | 2026-06-17 | N | https://www.linkedin.com/jobs/view/4428445886 |
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4428486235 |
+| Quality Coordinator | TWIN STAFFING | 2026-06-17 | J | https://ca.indeed.com/viewjob?jk=d15ed25e233cfab5 |
+| Environmental Planner | Onterris | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4416853800 |
+| Team Lead, Insurance Advisors | Westland Insurance Group Ltd. | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4416859296 |
+| Senior Asset Management Advisory Professional | Arcadis | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4427353649 |
+| AI Solutions Analyst - Contact Center Technologies | NRG Energy | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4408462422 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-17 | J | https://www.linkedin.com/jobs/view/4429946425 |
+| Public Administrator | $65/hr Remote | Crossing Hurdles | 2026-06-17 | N | https://www.linkedin.com/jobs/view/4428477749 |
+| Public Sector Specialist | $65/hr Remote | Crossing Hurdles | 2026-06-17 | N | https://www.linkedin.com/jobs/view/4428482696 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4429958303 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4429956265 |
+| Equity Research Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4418564128 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4428466773 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4429953295 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-17 | R | https://www.linkedin.com/jobs/view/4429939858 |
+| Project Scheduler | Net2Source (N2S) | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4429939854 |
+| Sales Support Associate III | Coach | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4427342891 |
+| Sales Associate-Print&Services | Staples Canada | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4410771308 |
