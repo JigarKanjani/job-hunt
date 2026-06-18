@@ -11137,3 +11137,36 @@
 | Developer - Data and Analytics Engineer | Covenant Health Canada | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=3e14e75b6306e583 |
 | Data Annotation Specialist | $40/hr Remote | Crossing Hurdles | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430195997 |
 | Sales Associate - Northland Volkswagen | AutoCanada | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=e405d0ebd1f46542 |
+| Supply Coordinator | Alberta Health Services | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=c3073c0a2d37a653 |
+| Commercial Credit Analyst - Winnipeg, Saskatoon, Calgary (Ne | BMO | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430126674 |
+| (CAN) People Lead | Walmart Canada | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4417250164 |
+| Accident Benefit Claims Advisor | TD | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430463002 |
+| Buyer | Parkland Corporation | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429022660 |
+| Footwear/Camo Team Lead | Bass Pro Shops | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4420203535 |
+| Enterprise Developer | 7-Eleven | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430436862 |
+| Service Leader | Chipotle Mexican Grill | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4419970471 |
+| Customer Experience Lead (18-Month Contract)- Innisfail, Alb | Scotiabank | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4418859053 |
+| Supply Chain Manager | $65/hr Remote | Crossing Hurdles | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430437375 |
+| Accident Benefit Claims Advisor | TD | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=33881dffc9d289b4 |
+| Legal Administrative Assistant | McCarthy Tétrault | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4419900833 |
+| System Server Administrator | KPMG Canada | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4420277092 |
+| Project Administrator | Worley | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4419992070 |
+| Disaster Recovery Analyst - Governance, Risk & Compliance | Alberta Health Services | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=f55a568f450f45c7 |
+| SAP Functional Analyst | Plato | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=f93996e7ee8a916f |
+| Curam Developer | Plato | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=030c3b95d8353cb2 |
+| Financial Analyst | Raytheon | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4429015949 |
+| Payroll System Analyst - Michels Canada | Michels Canada | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4399567201 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430411775 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430421682 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4420273698 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4420269985 |
+| Online Data Analyst English Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430412769 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430424911 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430438096 |
+| Online Data Analyst - French Speakers (WFH/Remote) | TELUS Digital AI Data Solutions | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430434118 |
+| RPA Developer – Information Technology | Alberta Blue Cross | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4409219255 |
+| QA Analyst, Intermediate | Sundayy | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4429042252 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430436893 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430445836 |
+| Administrative Support III | Alberta Health Services | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429098594 |
+| Appliances Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4409745141 |
