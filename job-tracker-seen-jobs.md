@@ -11170,3 +11170,40 @@
 | Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430445836 |
 | Administrative Support III | Alberta Health Services | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429098594 |
 | Appliances Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4409745141 |
+| Senior Buyer | Calgary Board Of Education | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=2c5347def61e7d43 |
+| Financial Analyst | Raytheon | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=c45d6a6587ee4296 |
+| Logistics Analyst | Superior Gas Liquids | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427854146 |
+| Master Data Analyst | ZealoTech People | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429324557 |
+| Category Manager | CoolIT Systems | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4418828783 |
+| Operations Analyst | Tourmaline Oil Corp | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429333278 |
+| Future Leaders Program – Management | Emco Corporation: Plumbing, HVAC, Waterw | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427832843 |
+| Payroll Analyst | Calgary Police Service | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429328053 |
+| Business Analyst - Telecom (Oracle BRM & DOC1) | Wipro | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429318428 |
+| Consultant/Senior Consultant, Economic Advisory | Deloitte | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4419937593 |
+| Market Risk Analyst | SPECTRAFORCE | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430488230 |
+| Leader, Project Controls | City of Calgary | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429329300 |
+| Senior Specialist, Regulatory | NorthRiver Midstream Inc. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429335306 |
+| Team Lead, Asset Integrity | Tourmaline Oil Corp | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429329267 |
+| Enterprise Architect | Calgary Police Service | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429329001 |
+| Senior Advisor, Global Benefits | Nutrien | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430494599 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430463379 |
+| Peer Support Worker | Northeast Addiction and Mental Health Ce | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=d5a10c7d66e81e33 |
+| Policy and Market Coordinator | Alberta Grains | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=5672ca26a444112d |
+| Career Counsellor | Lifemark Health Group | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4427858288 |
+| Virtual Financial Advisor - Brookfield Place, Calgary 1 | Scotiabank | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429322168 |
+| Parking Coordinator | Alberta Health Services | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429309702 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4427857302 |
+| Coordinator, Construction Services | Defence Construction Canada | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4418849138 |
+| Service Coordinator | Motion | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4389770978 |
+| Process Engineer | Hexion Inc. | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=2d4d5eb379aed80f |
+| Digital Workplace Analyst | JSG (Johnson Service Group, Inc.) | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4429327453 |
+| Data Annotation Specialist, Japanese | Cohere | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4409716532 |
+| Quality Assurance Automation Engineer | Synechron | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4414008782 |
+| Simulation Specialist | CoolIT Systems | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4409734397 |
+| Data Analyst, HR | The Salvation Army in Canada | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430480571 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430460926 |
+| Customer Service Rep | Canada Cartage | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4430472641 |
+| Student Employment Opportunity - Branch Associate - Part-Tim | Chit Chats | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4430491705 |
+| Event Support Associate | Altis Recruitment | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429322761 |
+| Associate, Power Assets - 26209 | Enverus | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4418855445 |
+| Maintenance Associate (Residential Property) | Avenue Living Residential | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429351114 |
