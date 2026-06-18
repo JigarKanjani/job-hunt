@@ -11207,3 +11207,60 @@
 | Event Support Associate | Altis Recruitment | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429322761 |
 | Associate, Power Assets - 26209 | Enverus | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4418855445 |
 | Maintenance Associate (Residential Property) | Avenue Living Residential | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429351114 |
+| Technical Support Specialist | Wiz-Tec Computing Technologies Inc | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=76c37c1f1ec97614 |
+| Senior Safety Advisor, Emergency Management | Suncor Energy | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=2d7e9730069cee81 |
+| Enterprise Architect - Microsoft Dynamics 365 Finance & Oper | Long View Systems | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=451bdd22700b9049 |
+| Fund Operations Analyst | Invico Capital Corporation | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=c8c78d1d5bee8ec0 |
+| Analyst Corporate Reporting | CPKC | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=0ef5fc604d18401c |
+| Project Coordinator 1 (ICI Buildings) | Maple Reinders Constructors | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=2acb92c5f4fe7e33 |
+| Senior Marketing Services Specialist | Fluor Corp. | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=67655520c01b0da0 |
+| CS-01 – IT Infrastructure Support Analyst (Stream 1) and IT  | Government of Canada | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=6d9a3239f70102e7 |
+| Marketing & Customer Experience Specialist | LT3 Advanced Technology Group | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=db944334778af048 |
+| Procurement Coordinator | The Fastener Group Ltd. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429348600 |
+| Analyst, Digital Content | Mark's | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430720356 |
+| Analyst Corporate Reporting | CPKC | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430731393 |
+| Fund Operations Analyst | Invico Capital Corporation | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429366385 |
+| Salesforce Business Analyst | VySystems | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430720992 |
+| Area Operations Coordinator | Securitas Canada | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427856846 |
+| Lead QA Analyst | ICE | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4389906345 |
+| Intermediate Marketing Services Specialist | Fluor Corporation | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430742262 |
+| Technical Sales Engineer/Specialist | Xylem | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430717266 |
+| Senior Accountant - Operations | Calgary Zoo | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429346514 |
+| Shipping and Receiving Specialist | Kelly Services (Canada), Ltd. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429351804 |
+| Customer Care Lead | Boardwalk | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429354564 |
+| Senior Marketing Services Specialist | Fluor Corporation | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430729514 |
+| Data Governance Analyst | Hays | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430743246 |
+| Outbound Lead Development Representative - Canada | AVEVA | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429355327 |
+| Digital Sales Specialist - BIL | Xplore Inc. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427845812 |
+| Education Outreach Program Coordinator | Psychologists' Association of Alberta | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=29085dd9bbb90bc6 |
+| Human Resources and Payroll Coordinator - Mat Leave Coverage | Daytona Homes | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=8aaf869f213c4f2c |
+| Clinical Research Coordinator - ALS and Neuromuscular Resear | University of Alberta | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=cbbf3087945e2a6f |
+| STWC Recovery Coordinator | Bearspaw First Nation | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=8892ad0d02304ff0 |
+| Financial Centre Administrator- Calgary | Sun Life | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429359573 |
+| Access Management Services Administrator | Alberta Electric System Operator (AESO) | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429376144 |
+| Communications Advisor | Alberta Electric System Operator (AESO) | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4426686776 |
+| Financial Advisor - Okotoks, AB | Scotiabank | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429372252 |
+| Master Data Analyst | Agilus Work Solutions | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429369440 |
+| Senior Consultant - People Consulting - Workforce Advisory a | EY | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4427857983 |
+| Part-Time Child Development Advisor - Nose Creek Elementary  | Rocky View Schools | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4429361980 |
+| Specialist Legal Counsel | Suncor Energy | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=b681a9616bbb7411 |
+| IT Application Systems Analyst | City of Red Deer | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=659609d7e81250b9 |
+| Analyst Corporate Reporting | CPKC | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=7dc4a41c1a372193 |
+| E-Commerce Analyst | Cozey | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=c45b5eb067f3eb55 |
+| Analyst, Digital Content | Canadian Tire Corporation, Ltd. | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=1c270266103cdfaa |
+| Analyst, Digital Content | Canadian Tire Corporation, Ltd. | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=2d18e464343e5028 |
+| Technical Support & Development Specialist | AgraGPS | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=084e82e9ef621a74 |
+| QA Intermediate Software Test Analyst | Pason Systems Corp | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=c897909e1a98e8dc |
+| Python Developer -- KUMDC5832494 | Compunnel Inc. | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430727448 |
+| Analyst Corporate Reporting | CPKC | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430726989 |
+| Security Developer | Raise | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430724958 |
+| Application Engineering Specialist – Alberta | Armstrong Fluid Technology | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430715563 |
+| Specialist Legal Counsel | Suncor | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430723935 |
+| Production Specialist - Quality Control | Schenk Architectural Imports Ltd. | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=908015095cab5212 |
+| Agent principal administration | National Bank of Canada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4427841954 |
+| Sentence Administrator | Government of Alberta | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429391160 |
+| Personal Banking Associate Trainee | TD | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4409563576 |
+| Wealth Associate | National Bank of Canada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4427856820 |
+| Rental Sales Agent (Calgary International Airport) | SIXT | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4427858662 |
+| Methods Change Management Agent | De Havilland Aircraft of Canada Limited | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4430732453 |
+| Rail Specialist | Brunel | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429353680 |
