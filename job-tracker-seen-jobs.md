@@ -11122,3 +11122,18 @@
 | Data Coordinator, Psychiatry | University of Calgary | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=56c2e023e64d95af |
 | Receptionist | Bluestar Engineering Ltd. | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4428780988 |
 | Sales Associate - Northland Volkswagen | AutoCanada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4428769928 |
+| Analyst, Early Talent Acquisition (6 month contract) | Deloitte | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=82c189eba4b9b9e9 |
+| Analyst, Corporate Banking | RBC | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430406663 |
+| Analyst/ Associate - RBC Rundle, Global Energy Investment Ba | RBC | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430408081 |
+| Informatics Advisor / Customer Service Representative | PBS Systems | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427832478 |
+| Planner & Scheduler | EllisDon | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430185864 |
+| Procurement Manager | American Garden | GEMCO - Global Export  | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430421021 |
+| Aviation Planner | WSP in Canada | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4429019367 |
+| Family Counsellor | Recovery Alberta | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=71ca7bac49416892 |
+| Analyst, Early Talent Acquisition | Deloitte | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=af99e7d899846ccf |
+| Administrative Assistant | RBC Dominion Securities | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4430404810 |
+| Health, Safety & Environment Administrator | EllisDon | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4430403684 |
+| Research I - Data Analyst | Recovery Alberta | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=4ba7079714f4f76a |
+| Developer - Data and Analytics Engineer | Covenant Health Canada | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=3e14e75b6306e583 |
+| Data Annotation Specialist | $40/hr Remote | Crossing Hurdles | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430195997 |
+| Sales Associate - Northland Volkswagen | AutoCanada | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=e405d0ebd1f46542 |
