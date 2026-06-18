@@ -11075,3 +11075,50 @@
 | Project Scheduler | Net2Source (N2S) | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4429939854 |
 | Sales Support Associate III | Coach | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4427342891 |
 | Sales Associate-Print&Services | Staples Canada | 2026-06-17 | G | https://www.linkedin.com/jobs/view/4410771308 |
+| Senior ERP Consultant (Remote) | Octane Canada | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=b22df2047e9fd620 |
+| Logistics Specialist | Amrize | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=e108e8e4b97d5331 |
+| Business Intelligence Analyst | China National Offshore Oil | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=f4faa0d926ec6720 |
+| V10 Apex Performance Specialist | PBS Systems | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=dded4b93bc9a30b3 |
+| Administrative Coordinator | Canada Post | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=1c6d98eaa866393a |
+| Senior Tax Analyst | Superior Propane | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=1786aa7bb091f963 |
+| Analyst Operational Technical Support | CPKC | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=29d01d0c8230c2ff |
+| Informatics Advisor / Customer Service Representative | PBS Systems | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=4c1e3c3719379026 |
+| Specialist, Product Support | Gordon Food Service | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=29c2ce890bb8a9de |
+| Enterprise Developer | 7-Eleven | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=57991a8c0f610044 |
+| Transportation and Compliance Coordinator - Strathmore, AB | Magnum Cementing Services | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=f999b7e6eeda7912 |
+| system integration analyst | CAC Enterprises Group Inc. | 2026-06-18 | J | https://ca.indeed.com/viewjob?jk=5bb72e1b864aae72 |
+| Logistics Specialist | Amrize | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427394786 |
+| Rotable Coordinator | Jazz Aviation LP | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4427801757 |
+| Analyst Operational Technical Support | CPKC | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430183076 |
+| Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430175683 |
+| Specialist, Product Support | Gordon Food Service - Canada | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430159625 |
+| Engineer, Operations Coordination | Alberta Electric System Operator (AESO) | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4424252468 |
+| Project Coordinator, Construction (Calgary) | Anthem Properties Group Ltd. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430183292 |
+| Project Coordinator | Brookfield Residential | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4428766699 |
+| Lead, Fleet Transition | WestJet | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430171444 |
+| Key Account Leader | Mott MacDonald | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4430156503 |
+| PSP Analyst | Brunel | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4428751952 |
+| Crown Land Analyst | Tytan Land Services Ltd. | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4428778911 |
+| IT Business Analyst | Softchoice | 2026-06-18 | J | https://www.linkedin.com/jobs/view/4428748958 |
+| Lead HR Coordinator | SIXTH SENSE RESOURCES LTD. | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=c7a4c8fb9b79ba00 |
+| Health, Safety & Environment Administrator | EllisDon Corporation | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=6125d49b1e10d9cb |
+| Sales Enablement Coordinator | NextGen Automation | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=dbf26545e88c25af |
+| Sales Enablement Coordinator | NextGen Automation | 2026-06-18 | N | https://ca.indeed.com/viewjob?jk=815283a83f269ec6 |
+| Office Administrator | Brandt Group of Companies | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4430159587 |
+| Child Care Centre Administrative Assistant- Mckenzie Towne,  | BrightPath Early Learning & Child Care | 2026-06-18 | N | https://www.linkedin.com/jobs/view/4430154473 |
+| Shopify Designer / Implementation Specialist | Midknight Genius | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=79700b10f025b8b1 |
+| Clinical Business Analyst | Altera Digital Health | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=9e42d7011b784210 |
+| Business Analyst Specialist I - Marketing & Risk Management | Enbridge | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=76941d6bf20a4e12 |
+| Analyst Operational Technical Support | CPKC | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=cf47835ae6c17d00 |
+| Junior Developer - Marketing & Risk Management Systems | Enbridge | 2026-06-18 | R | https://ca.indeed.com/viewjob?jk=3dfe1ea9a8510af6 |
+| Processing Tech | GeologicAI | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4427396879 |
+| Administrator | Vertex Resource Group Ltd. | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430174842 |
+| Process Engineer- Water | Stantec | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430175417 |
+| Analyst Operational Technical Support | CPKC | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430163675 |
+| E-Invoicing Support Analyst | RECRUITMENT PARTNERS INC. | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4430141596 |
+| Systems and Services Strategist - Modernization, IMT and Res | Government of Alberta | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4428768965 |
+| Application Support Engineer, Trilogy (Remote) - $60,000/yea | Crossover | 2026-06-18 | R | https://www.linkedin.com/jobs/view/4428783734 |
+| Receptionist (Casual) | The Brenda Strafford Foundation | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=134d1da598f7c1df |
+| Data Coordinator, Psychiatry | University of Calgary | 2026-06-18 | G | https://ca.indeed.com/viewjob?jk=56c2e023e64d95af |
+| Receptionist | Bluestar Engineering Ltd. | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4428780988 |
+| Sales Associate - Northland Volkswagen | AutoCanada | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4428769928 |
