@@ -11264,3 +11264,26 @@
 | Rental Sales Agent (Calgary International Airport) | SIXT | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4427858662 |
 | Methods Change Management Agent | De Havilland Aircraft of Canada Limited | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4430732453 |
 | Rail Specialist | Brunel | 2026-06-18 | G | https://www.linkedin.com/jobs/view/4429353680 |
+| Safety Advisor | City of Calgary | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=22eefa5c09af6118 |
+| Research and Education Advisor, Indigenous Ways of Knowing,  | University of Calgary | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=eeff25d926a6b89f |
+| Lead Training Officer, Special Projects | City of Calgary | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=5b6ca5e115fb78a1 |
+| Procurement Manager | Zen Residential Ltd. | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4427897825 |
+| Mining Application Specialist - MineStar | Caterpillar Inc. | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430779813 |
+| Office Coordinator II | CoolIT Systems | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429603232 |
+| Senior Project Management Analyst - Audit | Deloitte | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430793212 |
+| Strategic Finance Analyst (Data & Analytics) | FCC / FAC | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430760935 |
+| LNG Business Development Lead | HDR | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429383996 |
+| Commercial Risk Analyst | AMA - Alberta Motor Association | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430114688 |
+| Marketing Coordinator | Hopewell Development | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430788698 |
+| HR Technology (SuccessFactors) Analyst | Spartan Controls | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429612594 |
+| Indigenous Engagement & Reconciliation Specialist, Faculty o | University of Calgary | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=14a80ecb49b933c8 |
+| Senior Construction Contract Administrator | Stantec | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=08f2f22426e76fbe |
+| Policy Service Administrator | iA Financial Group (Industrial Alliance) | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430778165 |
+| Disability Service Worker, Full-Time | Taproot Community Support Services | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429609534 |
+| Housing Placement Administrator | Alberta Continuing Care Association | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430763972 |
+| Member Success Coordinator (Part-Time, Remote) | Floww Digital | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=510ccbfac9a32490 |
+| Mining Application Specialist - MineStar | Caterpillar | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=37f4b409aab44cfe |
+| Specialist, Wilder Canada Action Plan Training | Wilder Institute/Calgary Zoo | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=fd7e715611ff3fdd |
+| Land Agent - Sudbury | Aim Land Services | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=78c01fe8887d0537 |
+| Sales Associate | Talbots | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429605657 |
+| Customer Service Representative | Hertz | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429601281 |
