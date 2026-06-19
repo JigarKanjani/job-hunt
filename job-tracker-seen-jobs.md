@@ -11308,3 +11308,42 @@
 | Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430939826 |
 | Controller | Insight Recruitment Inc. | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429666702 |
 | Property Coordinator | Primaris REIT | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429665757 |
+| Product Support Specialist – Technical Solutions | Transmission Supplies Ltd | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=384b8fa03520c73d |
+| Procurement & Fleet Support | Town of Vegreville | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=a8de661de1f1ed31 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon.com | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=0248221daf818727 |
+| Inventory Analyst - Fuel | Parkland Corporation | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428266088 |
+| Strategic Sourcing Specialist | CoolIT Systems | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4418835642 |
+| Senior Contract Specialist | Net2Source (N2S) | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430963997 |
+| Advisor, Procurement, Corporate - Calgary, AB or Saskatoon,  | Nutrien | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428272057 |
+| Category Management Specialist | Federated Co-operatives Limited | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428253918 |
+| Operational Risk Analyst | Co-operators | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430977582 |
+| Accounts Payable Specialist | Robert Half | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429687563 |
+| Lead Professional, Project Controls | WSP in Canada | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429666809 |
+| Salesforce Business Analyst | BURGEON IT SERVICES | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428273134 |
+| Senior Specialist, Financial Solutions | Canada Mortgage and Housing Corporation  | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4410997906 |
+| Safety Advisor | City of Calgary | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429692228 |
+| Information Management Specialist - PM | Ampstek | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429660855 |
+| Research Coordinator | Healthy City Lab | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429675802 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430982550 |
+| Lead Piping and Plant Layout Engineer (100%) - Base in Zuric | Climeworks | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430980291 |
+| Inventory Support Specialist | Fort Garry Industries | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4419646613 |
+| Senior Surface Land Coordinator | Strathcona Resources Ltd. | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=8aa946c63726c7de |
+| Administrator, COO Office | Chartered Professional Accountants of Al | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=bd1510f2aa47cd5e |
+| Project Administrator | Volker Stevin | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429680472 |
+| Dietary Worker | Aramark Canada | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430983418 |
+| Branch Administrator | Barnhart Crane & Rigging | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429670985 |
+| Service Coordinator | Finning | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429675799 |
+| Service Coordinator | Finning | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429673887 |
+| Support Analyst | Manulife | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=897ebff1b272799c |
+| Administrator (Support & Operations) | HCLTech | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=c84a78b6c5fe3522 |
+| Financial Analyst | TC Energy | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4428266359 |
+| Logistics Coordinator | PERI Canada | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430996052 |
+| Data Analyst (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430966643 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430983073 |
+| Site Reliability Specialist (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430965809 |
+| Traffic Coordinator | Corus Entertainment | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=5caacd669e7354d3 |
+| Associate, Corporate Banking, Corporate & Investment Banking | TD Securities | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430978386 |
+| LMC-Labour Market Coordinator | Lifemark Health Group | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4428271209 |
+| Resource Management Sr Associate - Consulting | RSM Canada | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4419377209 |
+| Administrative Assistant - CIBC Wood Gundy | CIBC | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430979896 |
+| Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430980868 |
