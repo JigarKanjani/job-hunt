@@ -11296,3 +11296,15 @@
 | Training Coordinator | Brandt | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=91a0a86579a73caf |
 | Communications Specialist | Calgary Foothills Primary Care Network | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=6743bcc75d0b24f6 |
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429629815 |
+| Operations Supervisor - Afternoon shift | CCLS (Canada Cartage Logistics Solutions | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428236788 |
+| Information Management Specialist - PM (Digital Project Deli | Ampstek | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4429671047 |
+| Commercial Insurance Advisor | Westland Insurance Group Ltd. | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4417681911 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430944795 |
+| Lead EIC Engineer (100%) - Base in Zurich, Switzerland | Climeworks | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430964100 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430954188 |
+| C/C++ Developer | Process Fusion Inc | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=01a9e9f92246aa57 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430942568 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430938867 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430939826 |
+| Controller | Insight Recruitment Inc. | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429666702 |
+| Property Coordinator | Primaris REIT | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429665757 |
