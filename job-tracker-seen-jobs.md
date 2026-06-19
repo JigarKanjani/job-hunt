@@ -11347,3 +11347,47 @@
 | Resource Management Sr Associate - Consulting | RSM Canada | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4419377209 |
 | Administrative Assistant - CIBC Wood Gundy | CIBC | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430979896 |
 | Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430980868 |
+| Advisor, Procurement, Corporate - Calgary, AB or Saskatoon,  | Nutrien | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=89a818206abfd172 |
+| Logistics Coordinator | PERI | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=c87f9c96c5e00c66 |
+| Education Coordinator | SafeLink Alberta | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=838715857318c11d |
+| Operations Engineer in Training | HWN Energy Ltd. | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=8db704df869f99df |
+| Procurement Manager, Villas | Kensington | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=e462eea3c0de6bef |
+| Technologist Operations | Purolator | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=a774456dd28ab854 |
+| Supply Chain Analyst | UFA | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4426923152 |
+| Logistics Specialist | Amrize | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428506317 |
+| Logistics Coordinator | PERI | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430988995 |
+| Process Coordinator | Amrize | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428503319 |
+| Supply Chain Administrator | UFA | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4426921157 |
+| Jr. Project Coordinator | Amrize | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428500406 |
+| Learning and Development Coordinator | Blake, Cassels & Graydon LLP | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430000687 |
+| Project Coordinator | Amrize | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428294321 |
+| Training Systems Analyst | Hays | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430984920 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon Web Services (AWS) | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430999397 |
+| Technical Lead - Payments | Servus Credit Union | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4427756014 |
+| Lead Designer | Qualus | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4388473852 |
+| Inventory Coordinator | Air Liquide | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4431139101 |
+| Business Development & Content Coordinator (Part-Time) | Stampede Moving And Storage Ltd | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=1487ea3bb6bdb6b5 |
+| 887 EN - Advisor, Sales Operations | Export Development Canada | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=b41fd25b80ae0f1c |
+| Orthodontic Clinic Administrator | Passion Dental Group | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=0c7e4faa61bc0346 |
+| Service Coordinator | Finning | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=3be280ad3f97dc29 |
+| Service Coordinator | Finning | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=595fb5c8f524880a |
+| Service Coordinator | Finning | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=3e87ba937e49a2a6 |
+| Recreation Coordinator | Vantage Living Inc. | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=b7fa833a59735c3f |
+| Administrative Assistant | Sublatus | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430017486 |
+| Administrative Assistant | Kelly Services (Canada), Ltd. | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430010575 |
+| Equipment Planner (Calgary/Edmonton) - Kiewit Equipment Serv | Kiewit | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4402181347 |
+| Client Intake Lawyer | Litco Law | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429696148 |
+| Health & Safety Coordinator | Amrize | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4428506355 |
+| Design Team Project Administrator | Boardwalk | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429696791 |
+| Financial Advisor | ATBL_Experior | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4429651966 |
+| District Sales Coordinator | Amrize | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4428284373 |
+| Talent Acquisition Coordinator - Contract | Amrize | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4428293357 |
+| Senior Analyst - IT Security | EECOL Electric | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4417969182 |
+| Analyste, soutien | Manulife | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=4e007be5d8e1c626 |
+| ServiceNow Developer | Bird Construction | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4431122293 |
+| Digital Marketing Analyst | Aplin | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4430991602 |
+| Associate, Corporate Banking, Corporate & Investment Banking | TD | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=dc9721dcf22abaed |
+| Human Resources Administrator (Temporary) | The Glencoe Club | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=7e4cc15e2d398b44 |
+| Sales Associate | Rogers Communications | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4418299708 |
+| Hydro Scheduler | TransAlta | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430988668 |
+| Controller | Hunters Squared Recruitment | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429697357 |
