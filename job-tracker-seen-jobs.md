@@ -11287,3 +11287,12 @@
 | Land Agent - Sudbury | Aim Land Services | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=78c01fe8887d0537 |
 | Sales Associate | Talbots | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429605657 |
 | Customer Service Representative | Hertz | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429601281 |
+| Office Services Coordinator | Teck Resources Limited | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=cd40b359e0a4b8d9 |
+| Quality Assurance & Control Specialist | AuthenBalance Corporation | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=a9c99c701bf09425 |
+| Sales Team Lead | Stichting Mission on Wheels | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430920413 |
+| Office Services Coordinator | Teck Resources Limited | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428219664 |
+| Connected Support Specialist | Bosch Truck Group / Bosch Idealease | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430905893 |
+| Equipment Coordinator | FlatironDragados | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=cdbc2ad396a4acdd |
+| Training Coordinator | Brandt | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=91a0a86579a73caf |
+| Communications Specialist | Calgary Foothills Primary Care Network | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=6743bcc75d0b24f6 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429629815 |
