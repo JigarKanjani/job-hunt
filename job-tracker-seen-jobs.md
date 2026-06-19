@@ -11391,3 +11391,31 @@
 | Sales Associate | Rogers Communications | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4418299708 |
 | Hydro Scheduler | TransAlta | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430988668 |
 | Controller | Hunters Squared Recruitment | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4429697357 |
+| Shallow Utilities Project Coordinator | Dunwald & Fleming Enterprises Ltd. | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=398add1f5f1e1af8 |
+| Human Resources Coordinator | Century Downs Racetrack and Casino | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=f638ec615441529c |
+| Category Management Specialist | CO-OP CRS | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=a33565b01a5218de |
+| Project Coordinator (New Graduate) – Foundations | Ledcor | 2026-06-19 | J | https://ca.indeed.com/viewjob?jk=444f9b7603a2bc3c |
+| Human Resources Coordinator | Trican Well Service Ltd. | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430014908 |
+| Senior RSS Compensation Analyst | Co-operators Assurance et services finan | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430025088 |
+| Package Specialist - SAP Customer Experience (CX) | IBM | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4428298536 |
+| Senior Performance Marketing Specialist | Clever Digital Marketing | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4426648421 |
+| Senior Surface Land Coordinator | Strathcona Resources Ltd. | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4431117658 |
+| Analyste du risque opérationnel | Co-operators Assurance et services finan | 2026-06-19 | J | https://www.linkedin.com/jobs/view/4430014880 |
+| Project Administrator | Volker Stevin | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=e7a299a0345cca42 |
+| Service and Facility Coordinator | ICE Western Sales | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=3498e02d6091e5ea |
+| Project Coordinator/Estimator | Thuro Inc. | 2026-06-19 | N | https://ca.indeed.com/viewjob?jk=2e0702c219f82031 |
+| Administrative Assistant 3 | The Church of Jesus Christ of Latter-day | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430013970 |
+| Sentence Administrator | Government of Alberta | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430026054 |
+| Child Development Advisor - Bow Valley High School | Rocky View Schools | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430000968 |
+| Financial Advisor, Investment & Retirement Planning - Calgar | Scotiabank | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430010926 |
+| Education Coordinator | SafeLink Alberta | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430001626 |
+| Regulatory Specialist | Government of Alberta | 2026-06-19 | N | https://www.linkedin.com/jobs/view/4430004960 |
+| Jr. System Administrator Onprem | Kilton Inc. | 2026-06-19 | R | https://ca.indeed.com/viewjob?jk=96bfdd5429746b07 |
+| Maximo Technical Developer | IBM | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4428284505 |
+| Customer Success Engineer - Automation - Application Develop | IBM | 2026-06-19 | R | https://www.linkedin.com/jobs/view/4428288500 |
+| Customer Service Associate | Mega Courts Pickleball and Tennis LTD | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=b16d2da07604a461 |
+| LMC-Labour Market Coordinator | Lifemark Health Group | 2026-06-19 | G | https://ca.indeed.com/viewjob?jk=2e22fc88f8b7b8e4 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430037014 |
+| Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430012901 |
+| Customer Service Representative | BMO | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4431157120 |
+| Associate, Corporate Banking, Corporate & Investment Banking | TD | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4431134242 |
