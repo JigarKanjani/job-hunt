@@ -11493,3 +11493,7 @@
 | eLearning Specialist | University of Alberta | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4421234951 |
 | Audio Data Annotation Specialist (Basic JSON Skills) | $25/h | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430093099 |
 | Speech Annotation Specialist (Basic JSON Handling) | $25/hr  | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430074693 |
+| AI Architect/Lead Consultant (NLP / Transformers) | Celebal Technologies | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4428553544 |
+| Healthcare Technology & Operations Coordinator | ALIZAF CARE | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=164d4bcb1d1998e2 |
+| Environmental Specialist - FI/FO | Kiewit | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4422072339 |
+| Personal Banking Associate Trainee | TD | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4421290759 |
