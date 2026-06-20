@@ -11440,3 +11440,10 @@
 | Client Care Specialist - Calgary Animal Referral & Emergency | VCA Animal Hospitals | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430043111 |
 | Customer Service Representative | U-Haul | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4431174471 |
 | Geomatics Training Specialist | Spatial Technologies | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430027429 |
+| Appliance Sales Specialist: Full Time - AIRDRIE | The Home Depot Canada | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430071113 |
+| Senior Oracle Functional Specialist – Maintenance Cloud | BURNCO Rock Products Ltd | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4402676815 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4428527663 |
+| Senior Financial Systems Analyst – Financial Planning & Anal | Alberta Blue Cross | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4428508643 |
+| Project Controls Specialist | SITE Resource Group | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430067698 |
+| Family Counsellor | Recovery Alberta | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=001944f07a0ebb42 |
+| Indigenous Wellness Coordinator | Alberta Health Services | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4430065723 |
