@@ -11501,3 +11501,12 @@
 | Office Administrator | Alliance Insurance Associates | 2026-06-20 | R | https://ca.indeed.com/viewjob?jk=a748a35665141a80 |
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430304229 |
 | Shawnessy Sales Associate-Print&Services | Staples Canada | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4431352203 |
+| Client Services Coordinator | Cornerstone Engineering Ltd | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=109b6a04bc536bb5 |
+| Project Coordinator | Project Coordinator | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=c6ee1f52b5e975a1 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431354451 |
+| Human Resources Coordinator | Century Downs Racetrack and Casino | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430302260 |
+| Receptionist / Optical Assistant | Monterey Vision Centre | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4430314086 |
+| Open Position: Administrative Assistant (Full Time: Remote) | Hypertext Web Solutions LLC | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4431339674 |
+| HR Advisor | PCL Construction | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4427687827 |
+| Project Coordinator 1 (ICI Buildings) | Maple Reinders | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4430707727 |
+| Student Employment Opportunity - Branch Associate - Part-Tim | Chit Chats | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4431356404 |
