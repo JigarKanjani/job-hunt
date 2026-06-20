@@ -11447,3 +11447,17 @@
 | Project Controls Specialist | SITE Resource Group | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430067698 |
 | Family Counsellor | Recovery Alberta | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=001944f07a0ebb42 |
 | Indigenous Wellness Coordinator | Alberta Health Services | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4430065723 |
+| Integrated Logistics Support Lead | Raytheon | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431300722 |
+| Training Development Lead | Raytheon | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431195748 |
+| Service Leader | Chipotle Mexican Grill | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4421241179 |
+| Relief III Support Worker | Calgary Alternative Support Services | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=4bda6e41cb85cb44 |
+| Coordinator, Community Programs | Newcomer Centre | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=3440e18936fddbab |
+| Coordinator, Case Management | Newcomer Centre | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=a9a353c1fb3f9773 |
+| Site- Senior Human Resources Specialist | Fluor Corporation | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4419522089 |
+| Maintenance Analyst | North American Construction Group | 2026-06-20 | R | https://ca.indeed.com/viewjob?jk=118413dfda1866bd |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430059913 |
+| Data Analyst (Excel) | $55/hr Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430065964 |
+| Excel Specialist | $55/hr Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430077242 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430069383 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4417974192 |
+| Associate Technical Consultant, Environmental Scientist | Worley | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4403118864 |
