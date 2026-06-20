@@ -11419,3 +11419,24 @@
 | Customer Experience Associate - Calgary, AB (15 hours/week) | Scotiabank | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4430012901 |
 | Customer Service Representative | BMO | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4431157120 |
 | Associate, Corporate Banking, Corporate & Investment Banking | TD | 2026-06-19 | G | https://www.linkedin.com/jobs/view/4431134242 |
+| Production Coordinator | Solico Metal | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=5d6f7903f73e2509 |
+| Operations Analyst | City of Calgary | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=9618aab776a32f94 |
+| Calgary Police Commission - Administrative Coordinator | City of Calgary | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=8c610e734251a877 |
+| OPERATIONS engineer in TRAINING | HWN energy | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=0d2b722304047581 |
+| Asset Management Planning Analyst | City of Edmonton | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=01db8e9539396301 |
+| Intermediate and Senior Analyst - Transformation | WestJet | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431187352 |
+| Operations Support Technician | WASH | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431183551 |
+| Quantitative Analytics Lead | Affirm | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430058025 |
+| Social Media Content Specialist | Wild Threads | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430038938 |
+| 70280 - Store Coordinator | TJX Canada – Winners, Marshalls, HomeSen | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431152989 |
+| Senior Land Management Specialist | Government of Alberta | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430063299 |
+| Administrative Assistant | City of Calgary | 2026-06-20 | N | https://ca.indeed.com/viewjob?jk=30ab0bf9ee678904 |
+| Administrator, COO Office | CPA Calgary Chapter | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4428524050 |
+| Administrative Assistant 3 | A Igreja de Jesus Cristo dos Santos dos  | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4431169738 |
+| Recruitment Specialist - Western Canada | PepsiCo | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4428505845 |
+| Recruitment Specialist - Western Canada | PepsiCo | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4428288821 |
+| Community Engagement Facilitator | E4C | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4431171593 |
+| Administrative Assistant | Sublatus Inc. | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=d82ad9c86bf637dd |
+| Client Care Specialist - Calgary Animal Referral & Emergency | VCA Animal Hospitals | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430043111 |
+| Customer Service Representative | U-Haul | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4431174471 |
+| Geomatics Training Specialist | Spatial Technologies | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430027429 |
