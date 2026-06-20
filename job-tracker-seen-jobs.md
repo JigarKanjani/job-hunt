@@ -11468,3 +11468,20 @@
 | Audio Data Annotation Specialist (Basic JSON Skills)  | Remo | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430085344 |
 | Speech Annotation Specialist (Basic JSON Handling)  | Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430083382 |
 | Client Care Specialist - Calgary Animal Referral & Emergency | VCA Canada | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=a5f798f3c5d4e1fe |
+| Contract & Renewals Specialist | Algo | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4430072793 |
+| Health and Safety Advisor | Engineered Air | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4420996633 |
+| Senior Specialist  - Cybersecurity | Parkland Corporation | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431321637 |
+| Capital Markets and Accounting Advisory Services, Senior Ass | PwC Canada | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4403135389 |
+| Cleaning Services Worker Lead | Aramark Canada | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4431314823 |
+| Human Resources Specialist (Remote) | Hire Feed | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4431316779 |
+| Data Analyst (Audio Annotation) | $25/hr Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430081567 |
+| Data Analyst (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431334522 |
+| Audio Data Annotation Specialist (Basic JSON Skills) | $25/h | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430093099 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431328618 |
+| Speech Annotation Specialist (Basic JSON Handling) | $25/hr  | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430074693 |
+| Financial Analyst (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431326614 |
+| Financial Analyst (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431327416 |
+| Quality Assurance Automation Specialist (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431322692 |
+| Site Reliability Specialist (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431314759 |
+| Residence Life Coordinator - 1 Year Contract, AVP Strategy E | University of Calgary | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=96c0fa6e63e1aa1b |
+| News Specialist, Communication Services, VP External Relatio | University of Calgary | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=0c13102fa82d6a89 |
