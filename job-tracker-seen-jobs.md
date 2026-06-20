@@ -11485,3 +11485,11 @@
 | Site Reliability Specialist (Remote) | Hire Feed | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4431314759 |
 | Residence Life Coordinator - 1 Year Contract, AVP Strategy E | University of Calgary | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=96c0fa6e63e1aa1b |
 | News Specialist, Communication Services, VP External Relatio | University of Calgary | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=0c13102fa82d6a89 |
+| 70280 - Store Coordinator | Marshalls | 2026-06-20 | J | https://ca.indeed.com/viewjob?jk=5d95f057c191a740 |
+| Recruitment Specialist | Lean Six Search | Supply Chain Recruitme | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4431334628 |
+| XM Account Team Lead | Salt XC | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4417956908 |
+| Key Lead - CF Chinook Centre, Hollister | Abercrombie & Fitch Co. | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4411714388 |
+| Training Specialist (Emergency Response) | SGS | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4429173018 |
+| eLearning Specialist | University of Alberta | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4421234951 |
+| Audio Data Annotation Specialist (Basic JSON Skills) | $25/h | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430093099 |
+| Speech Annotation Specialist (Basic JSON Handling) | $25/hr  | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430074693 |
