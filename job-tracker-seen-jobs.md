@@ -11461,3 +11461,10 @@
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4430069383 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4417974192 |
 | Associate Technical Consultant, Environmental Scientist | Worley | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4403118864 |
+| Employee Development Analyst [12-month TEMP] | Canadian Natural Resources Limited (CNRL | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4428094559 |
+| Recruitment Coordinator | FLINT Corp. | 2026-06-20 | J | https://www.linkedin.com/jobs/view/4421234940 |
+| Caseworker | Working for a Member of Parliament / Tra | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4421212362 |
+| Excel Specialist | $55/hr Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430077242 |
+| Audio Data Annotation Specialist (Basic JSON Skills)  | Remo | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430085344 |
+| Speech Annotation Specialist (Basic JSON Handling)  | Remote | Crossing Hurdles | 2026-06-20 | R | https://www.linkedin.com/jobs/view/4430083382 |
+| Client Care Specialist - Calgary Animal Referral & Emergency | VCA Canada | 2026-06-20 | G | https://ca.indeed.com/viewjob?jk=a5f798f3c5d4e1fe |
