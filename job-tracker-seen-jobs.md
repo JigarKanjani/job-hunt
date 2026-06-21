@@ -11516,3 +11516,5 @@
 | HR Policy and Compliance Specialist | PCL Construction | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431369052 |
 | SCM Lead - Drilling & Completions | Suncor Energy | 2026-06-21 | J | https://ca.indeed.com/viewjob?jk=815b3e240be5f306 |
 | Advanced Process Control Engineer | RemoteFront | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4430316748 |
+| Banquets - Coordinator | Moxies | 2026-06-21 | N | https://ca.indeed.com/viewjob?jk=e24233a0c02f8257 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4421368517 |
