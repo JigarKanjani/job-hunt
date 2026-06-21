@@ -11530,3 +11530,6 @@
 | Sales / Demo Specialist | Wrapstart | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4430340469 |
 | Client Relations Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431390659 |
 | Client Support Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431393595 |
+| Media Buyer | Taurify | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4430366011 |
+| Client Support Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431393595 |
+| Client Relations Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431390659 |
