@@ -11510,3 +11510,7 @@
 | HR Advisor | PCL Construction | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4427687827 |
 | Project Coordinator 1 (ICI Buildings) | Maple Reinders | 2026-06-20 | N | https://www.linkedin.com/jobs/view/4430707727 |
 | Student Employment Opportunity - Branch Associate - Part-Tim | Chit Chats | 2026-06-20 | G | https://www.linkedin.com/jobs/view/4431356404 |
+| Field Coordinator | AtkinsRéalis | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4431355694 |
+| Field Coordinator | AtkinsRéalis | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4431341826 |
+| Fitness and Active Lifestyle Training Specialist | Canadian Society for Exercise Physiology | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4430096530 |
+| HR Policy and Compliance Specialist | PCL Construction | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431369052 |
