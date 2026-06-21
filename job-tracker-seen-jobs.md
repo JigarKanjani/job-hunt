@@ -11528,3 +11528,5 @@
 | Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431398379 |
 | Quality Assurance Automation Specialist (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431397312 |
 | Sales / Demo Specialist | Wrapstart | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4430340469 |
+| Client Relations Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431390659 |
+| Client Support Coordinator | Remote Opportunity | Create Your Life | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431393595 |
