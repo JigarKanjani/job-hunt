@@ -11514,3 +11514,5 @@
 | Field Coordinator | AtkinsRéalis | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4431341826 |
 | Fitness and Active Lifestyle Training Specialist | Canadian Society for Exercise Physiology | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4430096530 |
 | HR Policy and Compliance Specialist | PCL Construction | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431369052 |
+| SCM Lead - Drilling & Completions | Suncor Energy | 2026-06-21 | J | https://ca.indeed.com/viewjob?jk=815b3e240be5f306 |
+| Advanced Process Control Engineer | RemoteFront | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4430316748 |
