@@ -11518,3 +11518,13 @@
 | Advanced Process Control Engineer | RemoteFront | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4430316748 |
 | Banquets - Coordinator | Moxies | 2026-06-21 | N | https://ca.indeed.com/viewjob?jk=e24233a0c02f8257 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4421368517 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4431395310 |
+| Program Manager (Remote) | Hire Feed | 2026-06-21 | N | https://www.linkedin.com/jobs/view/4431600093 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431601293 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431603134 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431394226 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431600176 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431391277 |
+| Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431398379 |
+| Quality Assurance Automation Specialist (Remote) | Hire Feed | 2026-06-21 | R | https://www.linkedin.com/jobs/view/4431397312 |
+| Sales / Demo Specialist | Wrapstart | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4430340469 |
