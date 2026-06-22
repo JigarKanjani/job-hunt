@@ -11556,3 +11556,22 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4418706226 |
 | Sales Associate | Rogers Communications | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4410835816 |
 | Associate Sales Professional – North Western Canada | Manitoulin Transport | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4431656846 |
+| Procure-to-Pay Analyst (4 Month Contract) | SEQ Technology LLC | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4431726395 |
+| Master Data Analyst | BuzzClan | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4428966064 |
+| HR Advisor - Compensation | AltaLink | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4431715785 |
+| Salesforce Business Analyst | BURGEON IT SERVICES | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4428956035 |
+| Technology Lead – SAP PI/PO/CPI Developer | Avanciers Inc. | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4428972267 |
+| Logistics Manager (Remote) | Hire Feed | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4431698946 |
+| Program Manager (Remote) | Hire Feed | 2026-06-22 | N | https://www.linkedin.com/jobs/view/4431691393 |
+| Training & Orientation Coordinator | backwoods | 2026-06-22 | R | https://ca.indeed.com/viewjob?jk=04b88218b3da7519 |
+| Automation Engineer | Genpact | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4355383155 |
+| React Front-End Developer | Apptad | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4430574081 |
+| Process Engineer | Acero Engineering | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431723672 |
+| S/4HANA ABAP Developer (RAP) | ThoughtStorm | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4430572569 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431687548 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431700787 |
+| Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431704370 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431691787 |
+| Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431702650 |
+| HRPD Systems Business Analyst Student | PCL Construction | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431707765 |
+| Receptionist | Options Consulting Solutions | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4430551457 |
