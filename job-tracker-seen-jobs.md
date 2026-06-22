@@ -11537,3 +11537,22 @@
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4431603932 |
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-21 | G | https://www.linkedin.com/jobs/view/4430361110 |
 | Project Coordinator | Aecon Group Inc. | 2026-06-21 | J | https://www.linkedin.com/jobs/view/4430364142 |
+| Project Coordinator (Commercial Construction) | TEEMA Group | 2026-06-22 | J | https://ca.indeed.com/viewjob?jk=c2122fa732307a98 |
+| Logistics Support Coordinator | Niterra | 2026-06-22 | J | https://ca.indeed.com/viewjob?jk=c598fcbcb8c0344b |
+| Project Coordinator (Commercial Construction) | TEEMA Group | 2026-06-22 | J | https://ca.indeed.com/viewjob?jk=487073f56425416d |
+| Demand & Inventory Planner | Mazrui International | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4428924491 |
+| Supply Chain Analyst (Work From Home) | Persona | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4430393159 |
+| Specialist / Senior Specialist – Contracts & Commercial (Oil | STAR SERVICES LLC. | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4430373722 |
+| Lead Piping and Plant Layout Engineer (100%) - Based in Zuri | Climeworks | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4431644925 |
+| Clinical Business Analyst | Harris Computer | 2026-06-22 | J | https://www.linkedin.com/jobs/view/4430103320 |
+| Senior Enrollment Counselor, Alpha (Remote) - $100,000/year  | Crossover | 2026-06-22 | N | https://www.linkedin.com/jobs/view/4428769910 |
+| Program Manager (Remote) | Hire Feed | 2026-06-22 | N | https://www.linkedin.com/jobs/view/4431656388 |
+| Power BI & Data Analytics Specialist | Confidential Careers | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431659120 |
+| Data & Dashboard Specialist (Rail) Abu Dhabi, UAE | SEGULA Technologies | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4421692050 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4430394664 |
+| Golang Developer | Remote | Crossing Hurdles | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4430387198 |
+| Financial Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4430374658 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4430382663 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4418706226 |
+| Sales Associate | Rogers Communications | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4410835816 |
+| Associate Sales Professional – North Western Canada | Manitoulin Transport | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4431656846 |
