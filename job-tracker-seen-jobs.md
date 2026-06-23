@@ -11620,3 +11620,20 @@
 | Business Analyst | Sundayy | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4431675659 |
 | Customer Experience Associate | TD | 2026-06-23 | G | https://ca.indeed.com/viewjob?jk=3206c6df8ed2f4eb |
 | Vault Associate : Part Time - AIRDRIE | The Home Depot Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4430894320 |
+| Student WestJetter- Tax Analyst - 12 month term | WestJet Airlines | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=5915fd4f4d562fc1 |
+| Field Coordinator | Match Retail | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=c834c1c11a48b945 |
+| Technical Lead | HCLTech | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=f21ac50adcbebccb |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432230325 |
+| Connected Support Specialist | Bosch Truck Group / Bosch Idealease | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430887882 |
+| Senior Health Planner | HDR | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4319441192 |
+| Service Advisor | Fountain Tire | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432207435 |
+| Facilitator - Vocational Services | Lifemark Health Group | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4379884902 |
+| Conference Coordinator | BUKSA / Conferences + Associations | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4432238079 |
+| Project Coordinator, Projects & Services | Chemelex | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4422103928 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431211608 |
+| Associate Technical Support Analyst - Remote | Optum | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4431208390 |
+| Centralized Services Tool Administrator | Yardstick Technologies Inc. | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4413159562 |
+| Business Analyst | Sundayy | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4431209627 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4419210418 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431203508 |
+| (CAN) Deli Associate | Walmart Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4410148163 |
