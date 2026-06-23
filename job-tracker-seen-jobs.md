@@ -11637,3 +11637,58 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4419210418 |
 | Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431203508 |
 | (CAN) Deli Associate | Walmart Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4410148163 |
+| Freight Coordinator (Carrier) - Calgary | FMI | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=522e42addc6d0e7b |
+| Crude Oil Marketing Commercial Coordinator | Canadian Natural | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=9fb107f365cbb226 |
+| Case Manager, Community Housing Program | Discovery House Family Violence Preventi | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=9845ecd752b61ac8 |
+| Billing & Client Services Coordinator | Britec Computer Systems Ltd | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=16d18b53f9a12d43 |
+| Procurement Specialist | Amrize | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=332fdf939aebfc39 |
+| Intermediate Test Analyst | Vantix Systems Inc | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=1d60adaf797a422f |
+| Department Leader (nights) | Princess Auto | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=a3f5b63a7022eb51 |
+| Procurement Specialist | Amrize | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429454960 |
+| Distribution Centre Lead | WestJet | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431299270 |
+| Travel Analyst | InSync Systems | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431445071 |
+| Technical Procurement Specialist, Steel | BEUMER Group | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431441156 |
+| Spatial Data Analyst | IO Aerospace™ | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431406362 |
+| Project Coordinator | Allmar Inc. | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432417535 |
+| Service Coordinator | Hercules Crane & Lifting Supplies | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429559340 |
+| Project Coordinator – Single Family Construction | Truman | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431291783 |
+| Social Media Coordinator & Content Creator | Preventous™ Inc. | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431406250 |
+| Sports Information Coordinator - Faculty of Kinesiology | University of Calgary | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432450341 |
+| Healthcare Client Growth Leader | IBM | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429480131 |
+| Intellectual Property Coordinator | Blue Shock Executive Search | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431299879 |
+| Shift Leader - JOEY Barlow | JOEY Restaurant Group | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429454993 |
+| Senior Category Specialist | Government of Alberta | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431435104 |
+| Education Business Analyst & Data Analyst-Remote | Yochana | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4431441100 |
+| Technical Program Manager, Product Security- Remote | BeyondTrust | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4422145506 |
+| Marketing, Partnerships & Client Experience Coordinator | SMART Performance Training Center & Clin | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=6a655d2175a61439 |
+| Client Relations Coordinator | Lift Auto Body | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=1bd38e8726c5423d |
+| Database Administrator | QHR Technologies | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=dd7d1c9c3c89c2f8 |
+| Accounts Receivable & Collections Coordinator | Kerridge Concrete Ltd | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=ca7acd47289e873e |
+| Client Care Coordinator - Remote FT | Edgewood Health Network | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=162915fc6ac44fcc |
+| Indigenous Engagement & Reconciliation Specialist, Faculties | University of Calgary | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431146234 |
+| Server Liaison - JOEY Barlow | JOEY Restaurant Group | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4429472146 |
+| Seating and Mobility Equipment Specialist | National Seating & Mobility | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4429481142 |
+| Payroll & Benefits Administrator | St. Paul Education | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431403632 |
+| Placement Coordinator | Government of Alberta | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431428129 |
+| Caseworker | Cencora | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4429472366 |
+| Licensing Officer | Government of Alberta | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431444083 |
+| Service Coordinator | EDL Building Solutions | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4431449172 |
+| IT Networks Installer & Field Tech / Support Specialist | WTTI / Walk-Through Tech Inc. | 2026-06-23 | R | https://ca.indeed.com/viewjob?jk=af38311f33f28c7e |
+| Data Visualization Specialist | Viamo | 2026-06-23 | R | https://ca.indeed.com/viewjob?jk=4a667317a444f5b2 |
+| Clinical Applications Specialist - Monitoring Systems | GE HealthCare | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4432436090 |
+| Quality Assurance Analyst | Bevertec | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4432416938 |
+| Test Analyst | Amyantek | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4432434508 |
+| Test Analyst - Intermediate (26-19049) | Russell Tobin | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4432460067 |
+| Salon Assistant/Receptionist | Angles Salon | 2026-06-23 | G | https://ca.indeed.com/viewjob?jk=591e2e534f5976f8 |
+| Receptionist at Dolphin Dry Cleaners /Laundry Assistant – No | Dolphin Dry Cleaners | 2026-06-23 | G | https://ca.indeed.com/viewjob?jk=a0398bec6a7fc8fe |
+| Weekend Property Experience & Showing Agent | Ripple Property Management | 2026-06-23 | G | https://ca.indeed.com/viewjob?jk=b546ff0e2bb784da |
+| Weekend Property Experience & Showing Agent | Ripple Property Management | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432425171 |
+| Customer Service Representative | U-Haul | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432438344 |
+| Personal Banker Associate | BMO | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432445965 |
+| Associate Data & Reporting Analyst (12 Month Term) | Co-operators | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432446733 |
+| Guest Services Agent | Grey Eagle Resort & Casino | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431449187 |
+| News Specialist, Communication Services, VP External Relatio | University of Calgary | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431153179 |
+| Technical Sales Associate | Summit Search Group | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4428412061 |
+| Legal Counsel, Office of the General Counsel | Alberta Securities Commission | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432460249 |
+| Part-time Learning Commons Facilitator - Ralph McCall School | Rocky View Schools | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431295942 |
+| Part-Time Learning Commons Facilitator -Cooper's Crossing Sc | Rocky View Schools | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431413077 |
