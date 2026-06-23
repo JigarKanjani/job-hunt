@@ -11601,3 +11601,22 @@
 | Sales Associate (Airdrie Honda) | Go Auto | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432043677 |
 | Billing Coordinator - 12 Month Contract | Gowling WLG | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4424423968 |
 | Associate Vice President | HUB International | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4429431496 |
+| Billing & Customer Service Support Specialist | Lineage | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=cf71eba8a7094c3a |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432098318 |
+| Project Controls Specialist - Corporate Services | Graham | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432096410 |
+| Learning Coordinator | KPMG Canada | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432093974 |
+| Senior Financial Analyst | Alberta Health Services | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430891325 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429451269 |
+| Financial Advisor- CIRO-MFD/AMF | CIBC | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432085527 |
+| Student WestJetter- Tax Analyst - 12 month term | WestJet | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430883726 |
+| Partnership Coordinator | Ed Technologies Corp. | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=ef2b616c3f933135 |
+| Provider Liaison Coordinator | Teladoc Health | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=497ad35ed9258dba |
+| Resident Support Worker | The Salvation Army in Canada | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4432096767 |
+| Program Manager (Remote) | Hire Feed | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4432081654 |
+| Service Coordinator | Mircom Group of Companies | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4429464030 |
+| Coordinator II | Alberta Health Services | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4430882410 |
+| Data Analyst | Orion Digital | 2026-06-23 | R | https://ca.indeed.com/viewjob?jk=4b689c2c59d349d4 |
+| Maintenance and Renovations Specialist | Boardwalk | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4430894073 |
+| Business Analyst | Sundayy | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4431675659 |
+| Customer Experience Associate | TD | 2026-06-23 | G | https://ca.indeed.com/viewjob?jk=3206c6df8ed2f4eb |
+| Vault Associate : Part Time - AIRDRIE | The Home Depot Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4430894320 |
