@@ -11575,3 +11575,29 @@
 | Japanese Financial Analyst (Remote) | Hire Feed | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431702650 |
 | HRPD Systems Business Analyst Student | PCL Construction | 2026-06-22 | R | https://www.linkedin.com/jobs/view/4431707765 |
 | Receptionist | Options Consulting Solutions | 2026-06-22 | G | https://www.linkedin.com/jobs/view/4430551457 |
+| Sales Coordinator | Long View Systems | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=2847af816b98390b |
+| Senior Specialist, Strategic and Reputational Risk (Mortgage | Canada Mortgage and Housing Corporation  | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=6342344f9350c0b8 |
+| Project Coordinator | Aecon Group Inc. | 2026-06-23 | J | https://ca.indeed.com/viewjob?jk=fad38f46fc95eaf5 |
+| Analyste d'affaires II, Exploitation en pharmacie (Temporair | TELUS | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432053401 |
+| Business Analyst II - Pharmacy Operations (Temporary - 18 mo | TELUS | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430835250 |
+| Full-Time Stock Lead -Retail | Roots | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429427148 |
+| AI Advisory Consultant | MNP | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429424321 |
+| Structural EIT/Field Coordinator | AtkinsRéalis | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432069147 |
+| Data & Analytics Specialist | BASF | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429425112 |
+| Executive Officer | DMC Recruitment Group | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430866236 |
+| Senior Commercial Insurance Advisor | Westland Insurance Group Ltd. | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429400816 |
+| Structural EIT/Field Coordinator | AtkinsRéalis | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4432069149 |
+| Field Coordinator | Match Retail | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4429419886 |
+| Purchasing Specialist | Packers Plus Energy Services Inc. | 2026-06-23 | J | https://www.linkedin.com/jobs/view/4430868089 |
+| Program Manager | The Indigenous Justice Centre of Alberta | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=564d9f4c6fec313b |
+| Communications and Marketing Advisor | City of Calgary | 2026-06-23 | N | https://ca.indeed.com/viewjob?jk=58c60902ad5b8bcd |
+| Adult Education Facilitator | The Salvation Army in Canada | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4430851435 |
+| Administrative Assistant - Calgary, AB | Scotiabank | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4430863293 |
+| Counselor, Calgary | A Igreja de Jesus Cristo dos Santos dos  | 2026-06-23 | N | https://www.linkedin.com/jobs/view/4432072794 |
+| Helpdesk Analyst - Strathmore, AB | Magnum Cementing Services | 2026-06-23 | R | https://ca.indeed.com/viewjob?jk=9fbc496d3c2b2475 |
+| Application Support Analyst | Enverus | 2026-06-23 | R | https://ca.indeed.com/viewjob?jk=c5570fcaa58f62ef |
+| Clinical Systems Analyst | Alignerr | 2026-06-23 | R | https://www.linkedin.com/jobs/view/4432055631 |
+| Resident Support Services Agent | FirstService Residential Canada | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432066817 |
+| Sales Associate (Airdrie Honda) | Go Auto | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432043677 |
+| Billing Coordinator - 12 Month Contract | Gowling WLG | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4424423968 |
+| Associate Vice President | HUB International | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4429431496 |
