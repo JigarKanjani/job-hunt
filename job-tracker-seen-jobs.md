@@ -11692,3 +11692,38 @@
 | Legal Counsel, Office of the General Counsel | Alberta Securities Commission | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4432460249 |
 | Part-time Learning Commons Facilitator - Ralph McCall School | Rocky View Schools | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431295942 |
 | Part-Time Learning Commons Facilitator -Cooper's Crossing Sc | Rocky View Schools | 2026-06-23 | G | https://www.linkedin.com/jobs/view/4431413077 |
+| Business Support Coordinator | Southern Alberta Institute of Technology | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=e5b6746deeedec3a |
+| Contract Travel Analyst | Cenovus Energy | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=48f907ace8c16eb1 |
+| Travel Analyst | Omega 365 | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=ea183c5b361d2141 |
+| Property Analyst | Cenovus Energy | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=1bdb566e26c8cb7d |
+| Auditor, SOX Compliance & Advisory | Cenovus Energy | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=3e542caffa8f6007 |
+| Travel Analyst (Corporate Travel & Logistics) | Kelly | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431448996 |
+| Business Analyst III | Calgary Airports | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432495271 |
+| Operations Consultant - Full Time | SEPHORA | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432481248 |
+| Senior Project Coordinator | WSP in Canada | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431460522 |
+| Site Closure Coordinator | Strathcona Resources Ltd. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432488958 |
+| Emergency Management & Security Advisor | Strathcona Resources Ltd. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432509004 |
+| Crude Oil Marketing Commercial Coordinator | Canadian Natural Resources Limited (CNRL | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431434566 |
+| Horizon Compliance Specialist | WSP in Canada | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4429490914 |
+| Advisor Compensation (18 Month Term) | WestJet | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432498318 |
+| Senior Learning and Development Specialist | Government of Alberta | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431474484 |
+| Marketing Analyst | Spartan Delta Corp. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431432630 |
+| Senior QA Analyst | WestJet | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432502246 |
+| Shift Leader - JOEY Eau Claire | JOEY Restaurant Group | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4429486895 |
+| Travel Analyst | Agilus Work Solutions | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431431973 |
+| Service Desk Coordinator | Trimac Transportation | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431447566 |
+| Lead Garage Door Technician | Overhead Door Corporation | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431454576 |
+| Stage Experience Lead - Full Time | SEPHORA | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432491167 |
+| Operations Associate | Alpha Partners LLC | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431456338 |
+| Office Administrator/Receptionist | BMD Painting | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=056f07662f4f719c |
+| Estimator/Project Coordinator | Glacier West | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=2f1009ef2d828485 |
+| Hearing Coordinator | Alberta Energy Regulator | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=9a5b663df32e20e8 |
+| Server Liaison - JOEY Eau Claire | JOEY Restaurant Group | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4429800050 |
+| Accountant - Corporate Reporting & SAP Cons | China National Offshore Oil | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=b5792cb8ff2004d0 |
+| AI & Automation Operations Support Analyst (Co-Pilot) | Postmedia Network Inc. | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=17d370369b25a00d |
+| Sergeant, Police Trainer- Alberta Sheriffs Police Service | Government of Alberta | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431475509 |
+| Business Analyst (Temporary), Business Analysis & Insights | NAIT (Northern Alberta Institute of Tech | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432510457 |
+| Planning and Project Analyst, Facilities Management & Develo | NAIT (Northern Alberta Institute of Tech | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432501601 |
+| Receptionist | Bromwich+Smith | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=bd7853f45323331d |
+| Field Representative II, Area Customer Service | Ricoh USA, Inc. | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432484320 |
+| Gateway Int'l Ramp Agent | UPS | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431474204 |
