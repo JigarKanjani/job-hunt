@@ -11839,3 +11839,41 @@
 | Specialist Electrical Compliance Engineer - Alberta Reliabil | Suncor | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431895337 |
 | Condensate Scheduler | Keyera | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431892226 |
 | Preadolescent Treatment Program (PTP) – Family and Connectio | Hull Services | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432844725 |
+| Analyst 1 | Bureau Veritas | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=395d0278e6b751cd |
+| CRR Program Manager Temporary- 12-month maternity coverage | Calgary Catholic Immigration Society | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=95a5689407e7cfc9 |
+| Community Support Coordinator | Calgary Alternative Support Services | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=ee212e4be61fba66 |
+| CRM Systems and Data Specialist | PBS Systems | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=a7f4c5c77db6f543 |
+| Production Coordinator | De Havilland Aircraft of Canada Ltd | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=09aaf02a3d973281 |
+| Team Leader Day Services | Calgary Alternative Support Services | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=45cbb18d49106c92 |
+| Coordinator/Quality Management | Flair Canada | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=038cf40a83c91589 |
+| Specialist - Technical Sales | EECOL | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=c4680a4ba4441287 |
+| Pipeline GIS and Mappling Lead | Lauren Services | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=8dde62e9e8bd096a |
+| Systems & Solutions Specialist - AB | Würth Group | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=c5cc122dcae87ebb |
+| Field Service Project Coordinator | Blackstone Industrial Services Inc | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=a72b4165281334c5 |
+| Community Fundraising & Events Coordinator (6-Month Contract | Diabetes Canada | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=18c938e0d3f0f968 |
+| Service Operations Coordinator | SFC Energy North America | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432875437 |
+| Senior Buyer - Materials | TransAlta | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432882841 |
+| Training Analyst | Hays | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432878407 |
+| Specialist - Technical Sales | EECOL Electric | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4430206229 |
+| Senior Underwriter / Analyst - Commercial Surety | Travelers Canada | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432121119 |
+| Intermediate Materials Technician | EXP | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432878961 |
+| Analyst 1 | Bureau Veritas | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432118302 |
+| Disability Case Manager I -12 month contract | Co-operators | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432884218 |
+| Identity and Access Analyst | Government of Alberta | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431883927 |
+| Accounts Receivable Coordinator | Moodys Law Firm | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=3323684b266f1a82 |
+| Senior Insurance Advisor | Westland Insurance Group | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=3684092d34be466c |
+| Youth & Family Counsellor I / II - Oak Haven | Wood's Homes | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=d932d18aedf934b7 |
+| Showroom Administrator | Timeless Furniture Corporation | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=ecb08da06de49097 |
+| Design Team Project Administrator | Boardwalk | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=bd454fb737db5b80 |
+| Program Coordinator | University of Alberta | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=3a1c8fe336ac4a55 |
+| Field Case Manager | Cencora | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=f2edc737d1b73b73 |
+| WHS Specialist | Amazon.com | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=92c9fea55bea3e83 |
+| Administrative Assistant | AGAT Laboratories | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4428509553 |
+| N26004 Division Administrative Assistant - Receptionist and  | Lethbridge School Division | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4432870108 |
+| Compensation and Benefits Analyst | Western Financial Group | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=f284405295822e47 |
+| JOB - Job Developer - PCVRS | Lifemark Health Group | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4429893327 |
+| Box Office Associate (Part-time) | THEATRE CALGARY | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=d523a63866cb94fd |
+| Sales Associate | Genesis Builders Group Inc. | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4430594866 |
+| Front Desk Receptionist | Rockies Building Supplies INC. | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432105646 |
+| Performance Specialist | PPG | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432884633 |
+| Payroll Specialist | Insight Global | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432118349 |
