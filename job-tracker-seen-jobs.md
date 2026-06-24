@@ -11764,3 +11764,32 @@
 | AI Model Validation Specialist (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432594103 |
 | IAM Ping Identity Engineer / Ping Federate Administrator - R | Yochana | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431834549 |
 | Site Reliability Specialist (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432590199 |
+| Travel Analyst | Brunel | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431870180 |
+| Customer Operations Associate (Accountant) | Johnson Controls | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4429877500 |
+| Program Coordinator | Trickster Theatre | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431854829 |
+| Home Comfort Advisor | Reliance Home Comfort | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4423977650 |
+| Head of Operations | Splice N Connect Inc. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431863099 |
+| Intermediate Environmental Practitioner / Project Coordinato | BBA Consultants | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4422496270 |
+| Asset Registry Analyst | JSG (Johnson Service Group, Inc.) | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431877162 |
+| Global Service Desk Team Lead | Long View Systems | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4429874734 |
+| Community Engaged Learning Program Coordinator, Indigenous L | University of Calgary | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432011966 |
+| SCM Senior Consultant, Microsoft Dynamics 365 Finance & Oper | Deloitte | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4393562400 |
+| Licensed Team Lead-Calgary, AB-LensCrafters | LensCrafters | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431837869 |
+| HR Support Coordinator (HR Administration) | SMS Equipment Inc. | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=f627a1d82c6922fb |
+| Disability Case Manager I -12 month contract | Co-operators | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=37a5c2f01b0c5ca4 |
+| Case Worker | Reflections | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=4e7429e6ff75dd7d |
+| Admissions Officer: Student Recruiter (ELAA) Administrative  | The King's University (CA) | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=8024571605b91443 |
+| Fitness Coordinator | City of Medicine Hat | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=c2456a91122d2dc8 |
+| Sr. Program Manager - National Fibre Program Office | TELUS | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431876676 |
+| Administrative Assistant | VerdaTech Energy Management & Consulting | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431865799 |
+| Developing Investment Advisor - Edmonton & Calgary | TD | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4404399914 |
+| Fitness Coordinator | City of Medicine Hat | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431865481 |
+| Hospitality Services Coordinator | Regional Recreation Corporation of Wood  | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431862838 |
+| Administrative Assistant | Allegro Counselling | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431840784 |
+| Business Analyst | Government Of Alberta | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=3091e65915c6a74a |
+| Business Analyst | COLLEGE OF PHYSICIANS & SURGEONS OF ALBE | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=cc8a97b471b9c777 |
+| Identity and Access Analyst | Government Of Alberta | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=68a8fb1ce7abfca5 |
+| Reconditioning Specialist – Deployment support-EN | Canadian Forces Morale and Welfare Servi | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4424053416 |
+| Part Time Salon Receptionist | Curious Hair Salon WESTHILLS | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=d2ef96997d356bae |
+| Underwriting Associate | AMA - Alberta Motor Association | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432808265 |
+| Recruitment Advisor (Temporary) | Calgary Co-op | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431869284 |
