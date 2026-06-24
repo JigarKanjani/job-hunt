@@ -11741,3 +11741,12 @@
 | Cardiology Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432507816 |
 | Administrative Support III | Recovery Alberta | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=3076f0f2e4549243 |
 | Renewal Agent | Boardwalk | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432530405 |
+| Sales & Vehicle Acquisition Specialist | Kaizen Automotive Group | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=8efc090604f89800 |
+| Staff Technical Program Manager | Affirm | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4413846429 |
+| Appliance Sales Specialist: Full Time - AIRDRIE | The Home Depot Canada | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4423973123 |
+| Business Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432560406 |
+| International Recruitment Coordinator | Concordia University of Edmonton | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4429846515 |
+| Advisor-People Relations | Covenant Health Canada | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4429859398 |
+| Research Analyst (Remote) | Quik Hire Staffing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432550534 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432546581 |
+| General Merchandise Associate | Walmart Canada | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4419661730 |
