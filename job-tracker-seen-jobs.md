@@ -11727,3 +11727,17 @@
 | Receptionist | Bromwich+Smith | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=bd7853f45323331d |
 | Field Representative II, Area Customer Service | Ricoh USA, Inc. | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432484320 |
 | Gateway Int'l Ramp Agent | UPS | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431474204 |
+| Business Analyst III | Calgary Airports | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=8b8cc48518c3d969 |
+| Procurement Specialist | Aecon Group Inc. | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=b42afa158ed2f325 |
+| Property Analyst | Cenovus Energy | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432523172 |
+| Environmental Regulatory Specialist | AtkinsRéalis | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432524572 |
+| Employee Benefits Advisor (New Business Acquisition) | Summit | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432536672 |
+| Environmental Regulatory Specialist | AtkinsRéalis | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432536407 |
+| Social Worker | Recovery Alberta | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=c827e8132d8bd098 |
+| Peer Support Worker | Recovery Alberta | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=4f076e1966afc54b |
+| Residential Service Coordinator | Overhead Door Corporation | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4432529459 |
+| Material Coordinator (I - III) - Artificial Lift | Halliburton | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4432524373 |
+| Healthcare Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432517659 |
+| Cardiology Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432507816 |
+| Administrative Support III | Recovery Alberta | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=3076f0f2e4549243 |
+| Renewal Agent | Boardwalk | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432530405 |
