@@ -11793,3 +11793,49 @@
 | Part Time Salon Receptionist | Curious Hair Salon WESTHILLS | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=d2ef96997d356bae |
 | Underwriting Associate | AMA - Alberta Motor Association | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432808265 |
 | Recruitment Advisor (Temporary) | Calgary Co-op | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431869284 |
+| Digital Construction Coordinator | Bird Construction | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=4463bf2064ef5b30 |
+| LMS Site Support / Site Services Coordinator | LMS Reinforcing Steel Group | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=ccf80fce6d6e24b0 |
+| Cyber Security Incident Coordinator | Suncor Energy | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=888363f06f5fb80c |
+| Specialist Electrical Compliance Engineer - Alberta Reliabil | Suncor Energy | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=136c0e85e75e7806 |
+| Facilities Officer | Alberta Central | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=9089a40810d8e5fb |
+| TruckServe Coordinator | Holman | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=e00b39b96b9853d2 |
+| Logistics Coordinator | Ryder System, Inc. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432107098 |
+| Production Coordinator | De Havilland Aircraft of Canada Limited | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432101549 |
+| Training Systems Analyst | Hays | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432854811 |
+| Business Analyst Telecom | COGNITO INC | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432841976 |
+| Cyber Security Incident Coordinator | Suncor | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431886495 |
+| Business System Analyst BSA-Telecom | Yochana | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431884831 |
+| Sales Coordinator | Sprouse Fire & Safety | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432854927 |
+| Supply Chain Management Specialist | Raise | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431879975 |
+| Digital Construction Coordinator | Bird Construction | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432841113 |
+| Receiving Team Lead | Bass Pro Shops | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432842140 |
+| Calgary Showroom Lead | Stichting Mission on Wheels | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431880873 |
+| Communications Advisor | WestJet | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431889434 |
+| Specialist, Payroll (12 month contract) | Deloitte | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432860084 |
+| Inventory Specialist/WMS Analyst | CTDI | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4429881908 |
+| Lead Professional, General Engineering | WSP in Canada | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431891633 |
+| Employer Advisor | MCG Careers | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431888741 |
+| Materials Coordinator | PCL Construction | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4432864349 |
+| Media Buyer | Taurify | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431881672 |
+| Events Coordinator | Prostate Cancer Centre | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=fbe9291dd3a0330d |
+| Youth Coordinator (Part Time) | YMCA Calgary | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=cd294aca460632c0 |
+| Parts Advisor - Calmont Leasing Calgary. | NationaLease | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=f6ea79e4c3ab155d |
+| Administrative Assistant | Acacia Engineering Ltd. | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=80e3790f011457a9 |
+| N26004 Division Administrative Assistant - Receptionist and  | Lethbridge School Division | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=710be0e5d8ee3930 |
+| Case Manager/Facilitator | EmployAbilities | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=6a34371ae0a43894 |
+| Nordic Spa Sales & Marketing Coordinator | Pomeroy Lodging | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=bd044007431e26ac |
+| Administrative Assistant -AgeCare Dawson | AgeCare | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4432858915 |
+| Human Resources Coordinator | Allnorth Consultants Limited | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431895054 |
+| Field Case Manager | Cencora | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431889922 |
+| Field Case Manager | Cencora | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431895925 |
+| Systems Administrator | UNIPEC America, Inc. | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432105194 |
+| Test Analyst - Intermediate | Akkodis | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432107286 |
+| Test Analyst – Procurement System Modernization | SereneAid | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431895857 |
+| Administrative Assistant | Prairie Sky Strategy | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=f854a42e9698f591 |
+| Administrative Assistant | FPG | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=450941f43cb8b1a1 |
+| Condensate Scheduler | Keyera Corp | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=5cb90fe6fc7f0a3f |
+| Preadolescent Treatment Program (PTP) – Family and Connectio | Hull Services | 2026-06-24 | G | https://ca.indeed.com/viewjob?jk=d4e3520a8da8c525 |
+| Receptionist - AgeCare Dawson | AgeCare | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432870143 |
+| Specialist Electrical Compliance Engineer - Alberta Reliabil | Suncor | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431895337 |
+| Condensate Scheduler | Keyera | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4431892226 |
+| Preadolescent Treatment Program (PTP) – Family and Connectio | Hull Services | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432844725 |
