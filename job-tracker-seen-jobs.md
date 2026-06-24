@@ -11750,3 +11750,17 @@
 | Research Analyst (Remote) | Quik Hire Staffing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432550534 |
 | Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432546581 |
 | General Merchandise Associate | Walmart Canada | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4419661730 |
+| Guest Services Leader | Pilot Flying J | 2026-06-24 | J | https://ca.indeed.com/viewjob?jk=f88d4e05057807f7 |
+| Travel Coordinator | Kelly Services (Canada), Ltd. | 2026-06-24 | J | https://www.linkedin.com/jobs/view/4431844493 |
+| Project Coordinator | Boyden Construction | 2026-06-24 | N | https://ca.indeed.com/viewjob?jk=732c34f5f737b7ba |
+| Automotive Parts Specialist | NAPA Canada | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4416384128 |
+| Client Services Coordinator | Avison Young | 2026-06-24 | N | https://www.linkedin.com/jobs/view/4431853378 |
+| Human Resources and Payroll Administrator | Clear Water Academy | 2026-06-24 | R | https://ca.indeed.com/viewjob?jk=5074e5a586836650 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431812921 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432803002 |
+| Chinese Financial Analyst (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432803062 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431823823 |
+| Quality Assurance Automation Specialist (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432595134 |
+| AI Model Validation Specialist (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432594103 |
+| IAM Ping Identity Engineer / Ping Federate Administrator - R | Yochana | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4431834549 |
+| Site Reliability Specialist (Remote) | Hire Feed | 2026-06-24 | R | https://www.linkedin.com/jobs/view/4432590199 |
