@@ -11877,3 +11877,11 @@
 | Front Desk Receptionist | Rockies Building Supplies INC. | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432105646 |
 | Performance Specialist | PPG | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432884633 |
 | Payroll Specialist | Insight Global | 2026-06-24 | G | https://www.linkedin.com/jobs/view/4432118349 |
+| Planner/Scheduler - Vancouver or Calgary | Ausenco | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=2ccf7b6ef09991d3 |
+| Senior Planner/Scheduler - Vancouver or Calgary | Ausenco | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=ad6b6d76ab932629 |
+| Data Analyst - Remote | Bona Group | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=325439eb6fd6b502 |
+| Youth Care Specialist | Closer to Home Community Services | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432604472 |
+| Safety Administrator | AGAT Laboratories | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=fd4735bc0605c07c |
+| Data Analyst | GitHub | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433046707 |
+| Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433071335 |
+| Healthcare Workflow Specialist - Fully Remote | Upto $80/hr | Mercor | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4432170379 |
