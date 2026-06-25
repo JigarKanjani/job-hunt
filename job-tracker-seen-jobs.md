@@ -11891,3 +11891,18 @@
 | Healthcare Insurance Coordinator | Linde | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4424268838 |
 | Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433071335 |
 | Production Associate | Factor_ | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4423066739 |
+| Administrative & Operations Coordinator | Stoned inc. | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=aaf0163f2ea542c3 |
+| Material Service Center Coordinator On-site | Lufthansa Technik Canada | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430217126 |
+| Data Consultant, Enterprise Data & Analytics | Stantec | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433320571 |
+| Integrated Digital Delivery Coordinator | Aecon Group Inc. | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4426610793 |
+| Project Coordinator (Civil) | Maple Reinders | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4431773211 |
+| Retread/Technical Solutions Field Specialist - Canada | Continental | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432275070 |
+| FanMod Leadhand - Afternoon | Modine Manufacturing Company | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4423002692 |
+| Addictions Counsellor III | Recovery Alberta | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=f97b395b4372a271 |
+| Addictions Counsellor III | Recovery Alberta | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=c45e022ac2d10ede |
+| Estimator/Coordinator | KELLA Coatings Solutions Inc. | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432636485 |
+| AI 3D Graphics Engineer & AI Systems Engineer | IVN | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=063201d5cab099f6 |
+| GPU Developer | Remote | CodeGeniusRecruit | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4424344804 |
+| Financial Analyst | $30/hr Remote | Crossing Hurdles | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4432640508 |
+| Administrative Support IV | Primary Care Alberta | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=e4ab252e43ab6610 |
+| Livestock Specialist | Alta Genetics | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4395060895 |
