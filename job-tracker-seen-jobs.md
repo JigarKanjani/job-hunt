@@ -11906,3 +11906,35 @@
 | Financial Analyst | $30/hr Remote | Crossing Hurdles | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4432640508 |
 | Administrative Support IV | Primary Care Alberta | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=e4ab252e43ab6610 |
 | Livestock Specialist | Alta Genetics | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4395060895 |
+| Publishing Specialist | FriesenPress | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=ad4c0bd4260fc174 |
+| Service Coordinator - Up to 18-month contract | Arpac Storage Systems | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=39e59b501ddf6773 |
+| Analyst, Customs | Nutrien | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433349077 |
+| Corporate Category Management Advisor | Pembina Pipeline Corporation | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433341915 |
+| Supply Chain Coordinator | NorthRiver Midstream Inc. | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432672580 |
+| Service Coordinator | Ainsworth Inc | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430256033 |
+| Supply Chain Support Associate | Federated Co-operatives Limited | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430218860 |
+| Team Lead, Accounts Payable | Cenovus Energy | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433346810 |
+| Sales Specialist | ABB | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433362022 |
+| Sales Specialist - CNS - Western Canada | Bausch Health Companies Inc. | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4426628671 |
+| Intake Specialist | Preszler Injury Lawyers | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433335447 |
+| Senior Investigative Trading Analyst (12 Month Contract) | CIRO / OCRI | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433342233 |
+| Office Administrator | Bowness Community Association | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=d514b424507ac6bb |
+| Program Coordinator - Financial Literacy | Elizabeth Fry Society of Northern Albert | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=4d55784191dc0c8e |
+| Education Outreach Program Coordinator | Psychologists' Association of Alberta | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=a82e42e4be327ae7 |
+| Anti Racism Program Coordinator | Alberta Immigrant Women & Children Centr | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=55a2b6a2be7baadd |
+| Client Services Coordinator | Compliance Mentorz Inc | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=c90f28c849ad135e |
+| Social Worker & Coordinator | Muslim Food Bank and Community Services | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4430256180 |
+| Analyste principal des enquêtes sur les opérations (Contrat  | CIRO / OCRI | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433353990 |
+| Wellness Coordinator | Native Counselling Services of Alberta | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432671232 |
+| Corporate Governance Coordinator | RJC Engineers | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4420742322 |
+| Project Administrator | Aecon Group Inc. | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432665318 |
+| Projects Coordinator, Major Research Initiatives | University of Alberta | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433353516 |
+| Project Administrator | Aecon Group Inc. | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432658568 |
+| IT Support Technician | IT Organizers Inc. | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=7b6f09c392d06310 |
+| Data Analyst | GitHub | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=e2a1706dc9cf452c |
+| Data Analyst | GitHub | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=8a79a15380048c9a |
+| Automation Designer II (Building Automation Solutions), Calg | Siemens | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4424302333 |
+| Customer Service/Inside Sales Representative | MCG Careers | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=5d84750faec8679e |
+| Orthodontic Integration Specialist - Calgary, Alberta, Canad | LightForce Orthodontics | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=579ad352f0f19aca |
+| Content Specialist, Communication Services, VP External Rela | University of Calgary | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432021819 |
+| Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432661774 |
