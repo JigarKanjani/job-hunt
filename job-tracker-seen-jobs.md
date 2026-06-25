@@ -11938,3 +11938,43 @@
 | Orthodontic Integration Specialist - Calgary, Alberta, Canad | LightForce Orthodontics | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=579ad352f0f19aca |
 | Content Specialist, Communication Services, VP External Rela | University of Calgary | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432021819 |
 | Associate Lawyer - Labour & Employment (Junior to Mid-Level  | Urban Legal Recruitment Inc. | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432661774 |
+| Supply Chain Coordinator | NorthRiver Midstream Inc. | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=646b425cc52b5905 |
+| Equalization Analyst | Canadian Natural | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=722a036ba340b7a7 |
+| Program Manager | The Calgary Chinese Elderly Citizens' As | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=6774b5868d85c33b |
+| Team Lead, Accounts Payable | Cenovus Energy | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=01914bc3838d8b58 |
+| Proposal Coordinator and Technical Writer | Onterris | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=317c17348fc96b63 |
+| Project Coordinator | Stantec | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=39ce656d4a802625 |
+| Workface Planner Lead | Phoenix Industrial | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=4e989cd31441d1a9 |
+| Safety Advisor | Aecon Group Inc. | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=1afbf31002a55f92 |
+| Fleet Team Lead | Women In Need Society | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=ee63ec6e74a5f032 |
+| Contract Analyst | UNIPEC America, Inc. | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433370978 |
+| Analyst, Superstore Produce (11-Month Contract) | Loblaw Companies Limited | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433521005 |
+| Accounting Analyst | Parkland Corporation | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430281366 |
+| Accounts Receivable Coordinator | Moodys Private Client | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433367963 |
+| Operations Engineer | Government of Alberta | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432691524 |
+| Senior Business Intelligence Analyst | TerraVest Industries Compressed Gas Equi | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432693232 |
+| Lead/Senior Advisor, GHG and Decarbonisation | WSP in Canada | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430268295 |
+| Specialist Production Engineer - Well Integrity | Suncor | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433398400 |
+| Workforce Planning & Business Analyst | Dexterra Group | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433371914 |
+| Wellness Coordinator | Native Counselling Services of Alberta | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=521c6428503f6299 |
+| Business Operations Coordinator | Smart Hub Insurance | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=351814155f2493cd |
+| Senior Wealth Advisor Associate - Calgary | Servus Credit Union | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432670917 |
+| Orthodontic Integration Specialist - Calgary, Alberta, Canad | LightForce | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433511171 |
+| End User Support Specialist | HCLTech | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432674907 |
+| Sales (Fitness Advisor) - Calgary Richmond Square | GoodLife Fitness | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4430286035 |
+| Financial Planner - Vietnamese Language skill preferred | TD | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433525009 |
+| Financial Advisor/Senior Financial Advisor - Downtown Core B | Servus Credit Union | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432671886 |
+| Financial Advisor/ Senior Financial Advisor - Coventry Hills | Servus Credit Union | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432664985 |
+| Business Data Analyst | BanqSI | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=149d099830b14887 |
+| Junior Analyst, Production Support | JLL | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=10a81af7bebbaff6 |
+| Computer Vision Specialist (Remote) | Hire Feed | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433369911 |
+| Artificial Intelligence Researcher (Remote) | Hire Feed | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433371642 |
+| Quality Assurance Automation Specialist (Remote) | Hire Feed | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433367857 |
+| French Financial Analyst (Remote) | Hire Feed | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433376760 |
+| Korean Financial Analyst (Remote) | Hire Feed | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4433382318 |
+| QuickBooks Specialist (Accounts Payable Focus) - Contract | Interior Heavy Equipment Operator School | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=99b700528eaeb1eb |
+| Specialist Production Engineer - Well Integrity | Suncor Energy | 2026-06-25 | G | https://ca.indeed.com/viewjob?jk=a337a3545c0d6602 |
+| Personal Banking Associate | TD | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433523068 |
+| Universal Financial Associate - Coventry Hills | Servus Credit Union | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432684218 |
+| Makerspace Machinist and Laboratory Technical Specialist | University of Calgary | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433508526 |
+| Personal Banking Associate Trainee | TD | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433521227 |
