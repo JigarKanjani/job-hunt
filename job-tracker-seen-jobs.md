@@ -11978,3 +11978,38 @@
 | Universal Financial Associate - Coventry Hills | Servus Credit Union | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432684218 |
 | Makerspace Machinist and Laboratory Technical Specialist | University of Calgary | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433508526 |
 | Personal Banking Associate Trainee | TD | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433521227 |
+| Marketing Coordinator w/ 3+ Years Experience - Calgary | Karma Campervans Ltd. | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=29932bdf0a0d587a |
+| Installation Coordinator | PBS Systems | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=c9888ed44b92ce12 |
+| Environmental Analyst | Enhance Energy | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=fa8630f5d4cded51 |
+| Construction Project Coordinator | AGF Group | 2026-06-25 | J | https://ca.indeed.com/viewjob?jk=104f5be98dfa482c |
+| Contract Analyst | TC Energy | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430272590 |
+| Asset Integrity Business Analyst | Precision Drilling | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433519792 |
+| Business Support Analyst - Finance | Canadian Natural Resources Limited (CNRL | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432695896 |
+| Technical Business Analyst | Canadian Natural Resources Limited (CNRL | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432904570 |
+| Sr Analyst, Westcoast Commercial | Enbridge | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430266610 |
+| Print Services Analyst | Loyalty Sense Inc. | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430270539 |
+| Senior Analyst, Corporate Accounting | Enbridge | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430284455 |
+| Lead Land Analyst | Canada West Land | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433502980 |
+| Commercial Advisor | Canadian Natural Resources Limited (CNRL | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430838247 |
+| Senior Financial Analyst | Cenovus Energy | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4433517765 |
+| Senior Administrative Specialist | Best Buy Canada | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432181097 |
+| Fleet Team Lead | WINS (Women In Need Society) | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430276531 |
+| Technical Support Analyst II | UFA | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4426917185 |
+| Sr Analyst, Global HRIS | Nutrien | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430275572 |
+| Ecommerce Content Coordinator | UFA | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432692833 |
+| Equalization Analyst | Canadian Natural Resources Limited (CNRL | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432915005 |
+| Heath and Safety Specialist | WINS (Women In Need Society) | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4430274557 |
+| Operations Accountant | Parkland Corporation | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432699939 |
+| Operations Accountant | Parkland Corporation | 2026-06-25 | J | https://www.linkedin.com/jobs/view/4432915126 |
+| Finance Administrative Coordinator | Chinook Sexual Assault Centre | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=554959bc26fb78c8 |
+| Workforce Coordinator | Clearwater Energy | 2026-06-25 | N | https://ca.indeed.com/viewjob?jk=14f350b7530734ad |
+| Everyday Banking Advisor - Calgary Sunridge (12 Month Term) | ATB Financial | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4432050055 |
+| Program Coordinator | University of Alberta | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433514802 |
+| Youth Diversion Case Worker | Grande Prairie Police Service | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4430278477 |
+| FAMILY WELL-BEING COORDINATOR – CLOSED (INTERNAL) COMPETITIO | Enoch Cree Nation | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4433521027 |
+| Licensing Coordinator | SNDL Inc. | 2026-06-25 | N | https://www.linkedin.com/jobs/view/4430270456 |
+| Analyst, business management | ENSIGHT+ ARCHITECTURE INC. | 2026-06-25 | R | https://ca.indeed.com/viewjob?jk=658c8eda9c5eac55 |
+| Tailings Process Engineer | Canadian Natural Resources Limited (CNRL | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4431285141 |
+| Sustainment Coordinator | Insight Global | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4432924000 |
+| Junior Document Controller | Worley | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433525357 |
+| Specialist, Relay For Life Youth, Fundraising | Canadian Cancer Society | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432915179 |
