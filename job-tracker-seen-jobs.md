@@ -12153,3 +12153,61 @@
 | Customer Service Representative | U-Haul | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434027244 |
 | Pipeline Scheduler | Inter Pipeline | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433265786 |
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4267344754 |
+| AG Product Sales Specialist - Canada | JCB | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=4c3551a1c7f50349 |
+| AG Product Sales Specialist - Canada | JCB | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=8baeb302be6c1a28 |
+| Portfolio Resource Coordinator- Reconciliation | Paladin Airport Security Services | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=e83de474a3c06310 |
+| Production Team Leader | Bento Sushi | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=75e3fe7773dbb79c |
+| Supply Chain Specialist | Digital Lifestyles | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433274886 |
+| Operations Communications Analyst | TC Energy | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430640412 |
+| Contract Advisor | Adecco | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433400315 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430623904 |
+| Inventory Supervisor | Ryder System, Inc. | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433402096 |
+| Logistics Coordinator | Allnorth Consultants Limited | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433402378 |
+| Material Coordinator | Raise | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434035048 |
+| Specialist II, Asset & Work Management Product Owner | Enbridge | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430650149 |
+| Program Specialist, Haskayne School of Business | University of Calgary | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434037659 |
+| Project Coordinator in Child Pain and Partnership, Anaesthes | University of Calgary | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434028858 |
+| Project Coordinator, Family Medicine | University of Calgary | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434041465 |
+| Data Annotation Specialist, Safety | Cohere | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433285925 |
+| Technical Leader, Performance - Tetragon | Cisco | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434030978 |
+| Technical Sales and Operations Specialist – Thru-Tubing | Hunting | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433282961 |
+| Procurement Specialist - Insulation | Worley | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434039868 |
+| Career Services Coordinator - Admin Assistant | Reeves College | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=750c2df9799281c9 |
+| HSE Administrator-Calgary | CEL ELECTRIC | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=5f0c45be2ca6f068 |
+| Insurance Advisor, Personal Lines | Mennonite Mutual Insurance | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=225ac86fdb830829 |
+| Service Advisor - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=78c0e835a2ed5523 |
+| Office Administrator | Crossroad Energy Solutions Inc. | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=368d698b981ed158 |
+| Office Administrator-Receptionist (Construction) | CEL ELECTRIC | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=45867a3320c6bdeb |
+| Event and Partnership Engagement Coordinator | CMHA Edmonton | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=0752ab48e78ed8df |
+| Regional Program Coordinator | Strong Start | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=969c15009a85ef8d |
+| Regional Program Coordinator | Strong Start | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=52729862b8cbc5bd |
+| Facility Maintenance Coordinator | Evergreen Co-operative Association | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=1cccdc53e46dc852 |
+| Field Case Manager | Cencora | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=26a86c7393c24ed7 |
+| Field Case Manager | Cencora | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=adc24c6648e5d057 |
+| SALES COORDINATOR | ZyTech Building Systems LP | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=79fe110401f5b911 |
+| Project Coordinator | Prologic Construction Ltd. | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=e5b619e2d58b19f2 |
+| WHS Specialist | Amazon.com | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=1fc57c2fb9e86dfc |
+| Research Coordinator, Faculty of Social Work | University of Calgary | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4434039625 |
+| International Business Analyst | Flexpipe | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4434039900 |
+| Field Case Manager | Cencora | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4430637233 |
+| Casualty Claims Specialist | Aviva Canada | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433295575 |
+| Everyday Banking Advisor - Calgary 8th Avenue Place | ATB Financial | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4432045048 |
+| Data Analyst, Internal Assurance (16-month term) | ATB Financial | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4434037844 |
+| PL/SQL (or Postgres) Developer | Utility Network & Partners, Inc | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=0dc9b4a8d0916bcb |
+| Proposals Specialist | Ausenco | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=0591c78af8fb45d9 |
+| Business Reporting Analyst | Government of Alberta | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433279847 |
+| Specialist II, Asset & Work Management Product Owner | Enbridge | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4430652174 |
+| Clinic Receptionist | Dominion Pharmacy Calgary Inc. | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=b764de9b54d17eba |
+| Front Office Agent (Full Time) | Hyatt | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=13df0f699cd952bf |
+| Domino's Customer Service Representative (1015 Centre St NW) | Domino's | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=36bcd7830b91be40 |
+| Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=85adc0829e4e63c7 |
+| Sales Associate | Ashley Canada - The Dufresne Group | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=e7eb9df187309888 |
+| Guest Service Agent | Pomeroy Lodging | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=a96cb8b013db788d |
+| Front Office Agent (Full Time) | Hyatt Regency | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434033329 |
+| Customer Care Agent | Grand & Toy | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4430646101 |
+| Customer Sales Associate | Trane Technologies | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433293369 |
+| Quality Assurance Associate | Morgan Stanley | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433401449 |
+| Receptionist- AgeCare Dawson | AgeCare | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434028571 |
+| Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433279836 |
+| Customer Experience Associate - Contract | TD | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434047018 |
+| Sales Success Specialist | Helcim | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434029390 |
