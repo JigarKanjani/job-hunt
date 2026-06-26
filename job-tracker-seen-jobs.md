@@ -12082,3 +12082,27 @@
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4417145047 |
 | Personal Banking Associate | TD | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433812680 |
 | (CAN) Distribution Centre Team Associate - Asset Protection | Walmart Canada | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4420761692 |
+| IT Sourcing Specialist | Net2Source (N2S) | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4432464471 |
+| SAP P2P Lead - Remote in Canada | Quarry Consulting | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433849878 |
+| Lead Hand | Intelcom | Dragonfly | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4414289490 |
+| Family Counsellor | Recovery Alberta | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=c1b1a768f926fa39 |
+| Mental Health Clinician - Program Intake | Recovery Alberta | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=184a819d14ff1039 |
+| Digital Transformation Coordinator, BC Health Workday | Provincial Health Services Authority (PH | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=881928f99f85ff6a |
+| Senior Specialist - ITIS Server Delivery Datacenter Services | Parkland Corporation | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4420741051 |
+| Respite Support Worker – Calgary | Kids Without Limits | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433207128 |
+| Senior HR Advisors, Escalations | Rippling | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433225493 |
+| Field Administrator | Clearwater Energy | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=55e9a917cf1db99e |
+| AI Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4408909368 |
+| Visual Content Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4413555330 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4421781557 |
+| C# Developer | $65/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4415181438 |
+| Strategic Finance Analyst | Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4403611127 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4421488681 |
+| Financial Data Analyst | $30/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4418276445 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433210492 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433222106 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433208613 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433216209 |
+| AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4410474580 |
+| GO Developer | $65/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4415189903 |
