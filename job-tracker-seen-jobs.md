@@ -12039,3 +12039,27 @@
 | Clinic Experience Associate | CBI Health | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433532680 |
 | Project Research Associate | University of Calgary | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4432910541 |
 | PT Sales Associate - Seasonal | TORY BURCH | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433547358 |
+| Category Management Specialist | Startec | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=b4d270adc77ba67a |
+| Procurement Specialist I | Alberta Health Services | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4432954242 |
+| HR Delivery Center Coordinator | KPMG Canada | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433591990 |
+| Recruitment And Engagement Coordinator | Longevity Care | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4432940448 |
+| Contracts Specialist | Glencore | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433006523 |
+| Sort Team Lead | WINS (Women In Need Society) | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430606472 |
+| Corporate Events Coordinator (12 - Month Contract) | PBS Systems | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433800025 |
+| Installation Coordinator | PBS Systems | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433580852 |
+| Product Specialist (Service Module) | PBS Systems | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433594492 |
+| Digital Experience Solutions Specialist | PBS Systems | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433596354 |
+| Supply Chain Specialist - Fully Remote | Upto $50/hr Part-ti | Mercor | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433587174 |
+| Project Coordinator - 934RY4WY | Integricon Property Restoration and Cons | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=0635b1fafaa54dd0 |
+| Design Team Project Administrator | Boardwalk | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4432953541 |
+| Business Coordinator | Taleo Project Services Inc | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4432938078 |
+| GNSS/LEO Signal Processing & Tracking Algorithm Engineer | METI Ventures Studio (MVS) | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4432946432 |
+| Backoffice Analyst - Fully Remote | Upto $50/hr Part-time | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433592096 |
+| Scientific Document Specialist - Fully Remote | Upto $50/hr  | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433574577 |
+| Marketing Data Specialist - Fully Remote | Upto $50/hr Part- | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433583330 |
+| GIS Analyst - Fully Remote | Upto $50/hr Part-time | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433579377 |
+| Clinical Trials Specialist - Fully Remote | Upto $50/hr Part | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433576444 |
+| Underwriting Specialist - Fully Remote | Upto $50/hr Part-ti | Mercor | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433572859 |
+| Personal Banking Associate | TD | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=6c770baa236e73af |
+| Proposals Specialist | FLINT Corp. | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433591201 |
+| Renovations / Restoration Associate | Boardwalk | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4432951623 |
