@@ -12106,3 +12106,50 @@
 | Remote Quantitative Analyst (Finance) | Turing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433216209 |
 | AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4410474580 |
 | GO Developer | $65/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4415189903 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=df47d9f2f732e60a |
+| Front Desk Coordinator | Essex Lease Financial Corporation | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=40dac7059cc53221 |
+| Program Team Leader | Wood's Homes | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=18e518395079cd08 |
+| Materials Planner | AWC Process Solutions Ltd | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=fb787adf5ef650cf |
+| Human Resources Coordinator | NS Modular | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=9f2cfd122df11483 |
+| Business Analyst | Foothills Creamery Ltd | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=cc014e3c8ce54d2e |
+| Logistics HSE Specialist | Colas | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=56e8ed668195e04b |
+| Logistics HSE Specialist | McAsphalt Industries | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=24831c0f2cf7323e |
+| Production Planner | Oerlikon | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=bda2c4cda42e08ef |
+| Materials Coordinator | Hays | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433878696 |
+| Materials Planner | AWC Water Solutions | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434012196 |
+| IT Business Analyst | Softchoice | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433266146 |
+| Operations Supervisor | Cargill | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430628606 |
+| Management of Change Coordinator | Precision Drilling | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433883649 |
+| AG Product Sales Specialist - Canada | JCB North America | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430630384 |
+| Mineral Land Analyst | Rife Management Ltd | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433251488 |
+| Inbound Lead Development Representative - North America | AVEVA | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4404237290 |
+| Senior Accounting Project Management Analyst | Deloitte | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434028066 |
+| Program Manager | KBR, Inc. | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434004043 |
+| Healthcare Advisory Lead | Mott MacDonald | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433899118 |
+| Senior Analyst, Actuarial | Intact | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4424607293 |
+| Logistics Manager | RECRUITMENT PARTNERS INC. | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4424107203 |
+| Business Analyst (Remote) | Hire Feed | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4434025045 |
+| Clinical Business Analyst | Altera Digital Health | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430109443 |
+| Automotive Service Advisor | Napa Autopro/Heritage Auto & Tire Chinoo | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=9ffc517dd94d547f |
+| Office Coordinator (Maternity Leave Contract) | Lyonsdale Homes Ltd. | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=a468a7fa5d6fbe5b |
+| AP Coordinator | Accomsure | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=6171bbbe9b2812cf |
+| Field Administrator | ClearWater Energy Services | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4434010881 |
+| Invoicing Administrator | Convergint | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4434001992 |
+| Sr. Data and Reporting Analyst | Softchoice | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433259577 |
+| Boutique Part Time Coffee Specialist - Chinook | Nestlé Nespresso SA | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433891597 |
+| Data Analyst | City of Edmonton | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=2d1323002909b30b |
+| Mid-level Calypso Business Analyst | EPAM Systems | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=de7237a299db6168 |
+| Data Analyst, Internal Assurance (16-month term) | ATB Financial | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=e22646ddedc26576 |
+| Business Analyst | Connex Telecommunications Inc. | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=931a96fc58a53e6a |
+| Specialist, Change Management - Infrastructure Projects | Calgary Airports | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4434028146 |
+| Project Developer | TransAlta | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4433883605 |
+| Business Operations Analyst (Remote) | Quik Hire Staffing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4434018619 |
+| C# Developer (Remote) | Hire Feed | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4434019132 |
+| Rust Developer (Remote) | Quik Hire Staffing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4434009812 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4434011357 |
+| Specialist, Change Management - Infrastructure Projects | Calgary Airports | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=03d84ac81daf9dce |
+| Receptionist | Kaizen Automotive Group | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433243598 |
+| Customer Service Representative (CSR) | Smurfit Westrock | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433899481 |
+| Customer Service Representative | U-Haul | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434027244 |
+| Pipeline Scheduler | Inter Pipeline | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433265786 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4267344754 |
