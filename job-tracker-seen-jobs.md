@@ -12063,3 +12063,22 @@
 | Personal Banking Associate | TD | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=6c770baa236e73af |
 | Proposals Specialist | FLINT Corp. | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433591201 |
 | Renovations / Restoration Associate | Boardwalk | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4432951623 |
+| Service Advisor | Dilawri Group of Companies | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4432966338 |
+| AI Agent and Application Development Delivery Lead | KPMG Canada | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4423565084 |
+| Senior GRC Analyst, Privacy | Benevity | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4424496569 |
+| Lead Process Engineer | Worley | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4423594137 |
+| Lead Electrical Engineer | Worley | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4423583511 |
+| Financial Analyst | Eaton | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4410600541 |
+| Supply Chain & Operations Rotational Program | Johnson Controls | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4410379316 |
+| Media Buyer | Taurify | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433800703 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4423512826 |
+| Service Advisor | Dilawri Group of Companies | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4432972254 |
+| Sr. Analyst, Falcon Complete (Remote, CAN) | CrowdStrike | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4420765347 |
+| Service to the Armed Forces: Specialist | American Red Cross | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4414910942 |
+| Service Coordinator - Edmonton and Area | Finning | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4414497669 |
+| legal services officer - courts | Native Counselling Services of Alberta | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433820864 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4403615170 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-06-26 | R | https://www.linkedin.com/jobs/view/4417145047 |
+| Personal Banking Associate | TD | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433812680 |
+| (CAN) Distribution Centre Team Associate - Asset Protection | Walmart Canada | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4420761692 |
