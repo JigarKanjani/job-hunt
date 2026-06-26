@@ -12013,3 +12013,29 @@
 | Sustainment Coordinator | Insight Global | 2026-06-25 | R | https://www.linkedin.com/jobs/view/4432924000 |
 | Junior Document Controller | Worley | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4433525357 |
 | Specialist, Relay For Life Youth, Fundraising | Canadian Cancer Society | 2026-06-25 | G | https://www.linkedin.com/jobs/view/4432915179 |
+| Corporate Events Coordinator (12 - Month Contract) | PBS Systems | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=4badc520aa255785 |
+| Digital Experience Solutions Specialist | PBS Systems | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=250f93598e65ea6f |
+| Business Support Analyst - Finance | Canadian Natural | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=0bda0165ea95ce39 |
+| Technical Business Analyst | Canadian Natural | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=5fc2ba984dbfad98 |
+| Product Specialist (Service Module) | PBS Systems | 2026-06-26 | J | https://ca.indeed.com/viewjob?jk=6e1099e998013934 |
+| Category Management Specialist | Startec Compression & Process and Starte | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433561054 |
+| Coordinator, Cabin Provisioning Cost | WestJet | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433547693 |
+| Workforce Coordinator | ClearWater Energy Services | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4433558077 |
+| Coordinator, Guest Logistics | CMH Heli-Skiing & Summer Adventures | 2026-06-26 | J | https://www.linkedin.com/jobs/view/4430275923 |
+| Senior Financial Analyst | Cenovus Energy | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=37e3362ffaa36895 |
+| Program Coordinator (CF) - RENU | Catholic Social Services | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=4d02ca2a9de06a33 |
+| Project Coordinator | Westburne | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=4450099852ba57bd |
+| Strategic Coordinator | City of Edmonton | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=eb95b2e0a46f3859 |
+| Licensing Coordinator | SNDL | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=10dccdbbdcd079b2 |
+| Claims Coordinator | Peace Hills Insurance | 2026-06-26 | N | https://ca.indeed.com/viewjob?jk=d7bc77b1e34ae338 |
+| Senior Coordinator, Transport | Loblaw Companies Limited | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4430600139 |
+| Area Information Coordinator | Government of Alberta | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433550632 |
+| Indigenous Wellness Coordinator | Alberta Health Services | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4432914479 |
+| Community Connections Indigenous Advisor | NorQuest College | 2026-06-26 | N | https://www.linkedin.com/jobs/view/4433548538 |
+| Service Improvement Analyst (SPAII) | City of Edmonton | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=3828f7c9e43f6028 |
+| Calgary Police Service - Police Information Research Special | City of Calgary | 2026-06-26 | R | https://ca.indeed.com/viewjob?jk=c6320bcc09fa453c |
+| Business Support Administrator | City of Calgary | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=ad95ed18af62188c |
+| Design Studio Associate | Mattamy Homes | 2026-06-26 | G | https://ca.indeed.com/viewjob?jk=0f5801ff1784bd58 |
+| Clinic Experience Associate | CBI Health | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433532680 |
+| Project Research Associate | University of Calgary | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4432910541 |
+| PT Sales Associate - Seasonal | TORY BURCH | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433547358 |
