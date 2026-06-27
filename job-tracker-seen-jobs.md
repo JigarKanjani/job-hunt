@@ -12291,3 +12291,5 @@
 | Onboarding Specialist | Wagepoint | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=7d79bc3e0ab216ab |
 | NOC (Tier 2) Analyst | MNP | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424624858 |
 | Personal Banking Associate Trainee- (Cantonese or Mandarin L | TD | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4413293924 |
+| Media Buyer | Taurify | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4433482312 |
+| Learning Systems and Educational Assistant Development Coord | Elk Island Catholic Schools | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433464904 |
