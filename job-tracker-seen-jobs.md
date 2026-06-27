@@ -12225,3 +12225,16 @@
 | Coordinator, Founders & Venture Initiatives - Hunter Hub, Pr | University of Calgary | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433581153 |
 | Replacement / Casual Worker - Child and Youth Care Worker | Catholic Social Services Alberta | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433441770 |
 | Research Associate in Child Pain and Health Systems Implemen | University of Calgary | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434082767 |
+| Inventory Team Lead | Women In Need Society | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=d3f2c3b225d5b38e |
+| Execution Support Lead, Sport Chek | Canadian Tire Corporation | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424938341 |
+| Guest Experience Lead | Chinook Centre | lululemon | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4421197126 |
+| Copy of Back-end Development Lead | Ambyint | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4434209258 |
+| Civil Field Specialist, Rail | HDR | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424642417 |
+| Operational Excellence Analyst | InterPro Pipe + Steel | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4414902288 |
+| Business Systems Analyst | Optum | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4434202716 |
+| Talent Acquisition Coordinator (6-month Contract) | CoolIT Systems | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433423871 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4421195681 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4421193673 |
+| Overnight Freight Associate: Part Time - OKOTOKS | The Home Depot Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424597518 |
+| Asset protection associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4412031154 |
+| ADVISOR | EVENTS, MARKETING AND PARTNERSHIPS - Temporary 5 M | BDC | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4433456462 |
