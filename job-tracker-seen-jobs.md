@@ -12284,3 +12284,10 @@
 | Instructional Designer and eLearning Developer | Alberta Real Estate Association | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4433481144 |
 | Excel Analyst (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434227617 |
 | Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434236305 |
+| Lead, Philanthropy | Making Changes Employment Association of | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=fdbeaeaf2f603e81 |
+| Information Management System Admin Support Specialist (SDx  | AtkinsRéalis | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4431766263 |
+| Civil 3D Specialist, Rail & Transit | WSP in Canada | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4393823152 |
+| Design Team Project Administrator | Boardwalk | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433483204 |
+| Onboarding Specialist | Wagepoint | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=7d79bc3e0ab216ab |
+| NOC (Tier 2) Analyst | MNP | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424624858 |
+| Personal Banking Associate Trainee- (Cantonese or Mandarin L | TD | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4413293924 |
