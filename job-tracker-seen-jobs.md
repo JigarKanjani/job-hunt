@@ -12266,3 +12266,9 @@
 | AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424967895 |
 | Administrative Support IV | Recovery Alberta | 2026-06-27 | G | https://ca.indeed.com/viewjob?jk=0de2e1317cb521b7 |
 | Night Guest Agent (Part-time) | Fairmont Hotels & Resorts | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424629801 |
+| Onboarding Specialist | Wagepoint | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4433477159 |
+| Research Associate in Child Pain and Health Systems Implemen | University of Calgary | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=2d205bfb2cf4f716 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434215878 |
+| Automation Test Engineer (Remote) | Hire Feed | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434228426 |
+| C# Developer (Remote) | Hire Feed | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434235298 |
+| Customer Service Associate | RONA | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424784658 |
