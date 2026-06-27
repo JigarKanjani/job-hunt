@@ -12272,3 +12272,15 @@
 | Automation Test Engineer (Remote) | Hire Feed | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434228426 |
 | C# Developer (Remote) | Hire Feed | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434235298 |
 | Customer Service Associate | RONA | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424784658 |
+| Customer Experience Coordinator | Pacific Stone Fabrication | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=e2ec41260d7a845e |
+| Analyst Resource and Capacity Planning | CPKC | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424956216 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon Web Services (AWS) | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424941223 |
+| Materials Supervisor | Johnson Controls | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4430693858 |
+| Children and Youth Outreach Worker | The Salvation Army in Canada | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4415132959 |
+| Integrated Digital Delivery Coordinator | Aecon Group Inc. | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4424587707 |
+| HR Specialist (Remote) | Hire Feed | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4434239160 |
+| Human Resources Coordinator | NS Modular | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433461696 |
+| Housing and Facilities Administrator | Northern Lakes College | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=1f893d23ecf19df5 |
+| Instructional Designer and eLearning Developer | Alberta Real Estate Association | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4433481144 |
+| Excel Analyst (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434227617 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434236305 |
