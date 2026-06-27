@@ -12211,3 +12211,17 @@
 | Customer Experience Associate - Calgary, AB (22.5 hours/week | Scotiabank | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4433279836 |
 | Customer Experience Associate - Contract | TD | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434047018 |
 | Sales Success Specialist | Helcim | 2026-06-26 | G | https://www.linkedin.com/jobs/view/4434029390 |
+| Senior Administrative Assistant (Contract and Grant Coordina | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=45a22451d530704d |
+| Logistics Coordinator | AGAT Laboratories | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=53c687e06a72f7ee |
+| Business Systems Specialist | Flair Airlines Ltd. | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=9445eb7a9a24828b |
+| Business Systems Specialist | Flair Airlines Ltd. | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=d5c728de2357449d |
+| Logistics Coordinator | AGAT Laboratories | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4430665557 |
+| Sales Support Analyst | Stellantis | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4434095425 |
+| Digital Experience Coordinator | MatchBox Consulting Group | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4434097291 |
+| Field Procurement and Support Specialist | Johnson Controls | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4430663610 |
+| PROJECT COORDINATOR | Arcadia Group | 2026-06-27 | N | https://ca.indeed.com/viewjob?jk=ec45ef48ceea5ae1 |
+| PROJECT COORDINATOR - PARTS & ACCESSORIES | Arcadia Group | 2026-06-27 | N | https://ca.indeed.com/viewjob?jk=61809fe4ffa4b9f1 |
+| Veterinary Assistant, Receptionist, Calgary West Animal Hosp | VCA Animal Hospitals | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433448616 |
+| Coordinator, Founders & Venture Initiatives - Hunter Hub, Pr | University of Calgary | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433581153 |
+| Replacement / Casual Worker - Child and Youth Care Worker | Catholic Social Services Alberta | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433441770 |
+| Research Associate in Child Pain and Health Systems Implemen | University of Calgary | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434082767 |
