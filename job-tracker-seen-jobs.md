@@ -12238,3 +12238,21 @@
 | Overnight Freight Associate: Part Time - OKOTOKS | The Home Depot Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424597518 |
 | Asset protection associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4412031154 |
 | ADVISOR | EVENTS, MARKETING AND PARTNERSHIPS - Temporary 5 M | BDC | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4433456462 |
+| Clinical Research Coordinator | Alberta Health Services | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=ebc790d680fe54c8 |
+| Coop Work Experience Student, Data Analyst, Project Assistan | Alberta Health Services | 2026-06-27 | J | https://ca.indeed.com/viewjob?jk=11ef9051a16319ef |
+| Inventory Team Lead | WINS (Women In Need Society) | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4430695203 |
+| Guest Experience Lead | Chinook Centre | lululemon | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4421197126 |
+| Senior Applications Analyst | McCarthy Tétrault | 2026-06-27 | N | https://ca.indeed.com/viewjob?jk=dae28dc034404d64 |
+| Business Analyst, Resource Management Office (RMO) | Alberta Health Services | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=ba0fc4d52cbdf63f |
+| Business Development Specialist (Markets) | McCarthy Tétrault | 2026-06-27 | R | https://ca.indeed.com/viewjob?jk=6ad59f023baf4792 |
+| Application Support Analyst - ACX Corporate Support | AutoCanada | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424619711 |
+| AI Adversarial Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424967892 |
+| AI Red Team Specialist - Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424979092 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424969911 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424964964 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424974953 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424967895 |
+| Veterinary Assistant, Receptionist, Calgary West Animal Hosp | VCA Canada | 2026-06-27 | G | https://ca.indeed.com/viewjob?jk=611bf89738214bad |
+| General Merchandise Associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4421175866 |
+| Aviation Stores Specialist On-site | Lufthansa Technik Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4430687413 |
+| ADVISOR | EVENTS, MARKETING AND PARTNERSHIPS - Temporary 5 M | BDC | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4433456462 |
