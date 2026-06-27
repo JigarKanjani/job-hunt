@@ -12256,3 +12256,13 @@
 | General Merchandise Associate | Walmart Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4421175866 |
 | Aviation Stores Specialist On-site | Lufthansa Technik Canada | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4430687413 |
 | ADVISOR | EVENTS, MARKETING AND PARTNERSHIPS - Temporary 5 M | BDC | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4433456462 |
+| Business Process Lead - Procurement & Manufacturing | Rockwell Automation | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424920615 |
+| Benefits & HR Coordinator | Enerflex Ltd. | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4424919397 |
+| Lead Specialist – IT SAP | Parkland Corporation | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4403235127 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4406682963 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4434217670 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424964964 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424974953 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-27 | R | https://www.linkedin.com/jobs/view/4424967895 |
+| Administrative Support IV | Recovery Alberta | 2026-06-27 | G | https://ca.indeed.com/viewjob?jk=0de2e1317cb521b7 |
+| Night Guest Agent (Part-time) | Fairmont Hotels & Resorts | 2026-06-27 | G | https://www.linkedin.com/jobs/view/4424629801 |
