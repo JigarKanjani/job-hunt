@@ -12308,3 +12308,7 @@
 | Senior Structural Engineer - Dynamic Design Specialist | Wood | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4375864524 |
 | Fixed Term Senior Case Manager– 18 month contract (Remote) | Sentrex Health Solutions | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4415129447 |
 | Receptionist | Massage on 194th | 2026-06-28 | G | https://ca.indeed.com/viewjob?jk=825c10a9f7447786 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4434287717 |
+| Virtual Veterinary Client Care Coordinator | Vetgo | 2026-06-28 | N | https://ca.indeed.com/viewjob?jk=1bed7cfc07ce5aa1 |
+| home support worker | YYC Home Care Services | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434299354 |
+| Client Relations Coordinator | Remote Opportunity | Create Your Life | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434288673 |
