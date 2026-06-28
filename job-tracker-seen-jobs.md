@@ -12320,3 +12320,5 @@
 | Surface Land Administrator | Roneta | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4433615621 |
 | Customer Service Representative | Perfect Home Furniture | 2026-06-28 | G | https://ca.indeed.com/viewjob?jk=77a1282ea82ee586 |
 | Guest Agent II | Fairmont Hotels & Resorts | 2026-06-28 | G | https://www.linkedin.com/jobs/view/4433631174 |
+| Billing Administrator | Urban Legal Recruitment Inc. | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4433624595 |
+| Drawing Control Analyst | Raise | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4431251841 |
