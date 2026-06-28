@@ -12294,3 +12294,5 @@
 | Media Buyer | Taurify | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4433482312 |
 | Learning Systems and Educational Assistant Development Coord | Elk Island Catholic Schools | 2026-06-27 | N | https://www.linkedin.com/jobs/view/4433464904 |
 | Outbound Logistics Support Specialist – Calgary, AB | Millborn | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4433488052 |
+| Operations Consultant - Flex | SEPHORA | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4434261208 |
+| Respite/support worker for autistic youth | Ramanath household | 2026-06-28 | N | https://ca.indeed.com/viewjob?jk=882fa5ca9da9b080 |
