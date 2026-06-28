@@ -12312,3 +12312,6 @@
 | Virtual Veterinary Client Care Coordinator | Vetgo | 2026-06-28 | N | https://ca.indeed.com/viewjob?jk=1bed7cfc07ce5aa1 |
 | home support worker | YYC Home Care Services | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434299354 |
 | Client Relations Coordinator | Remote Opportunity | Create Your Life | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434288673 |
+| Leasing Specialist | Boardwalk | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4433618542 |
+| Personal Development and Leadership Growth Partner | Empowerment-Strategies.com | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4433618541 |
+| administrative assistant | Connect Transport Ltd. | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434295515 |
