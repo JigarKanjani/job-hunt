@@ -12300,3 +12300,8 @@
 | Controls Systems Technician 2 | Johnson Controls | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4421563568 |
 | Controls Systems Technician 2 | Johnson Controls | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4421547533 |
 | AI Adversarial Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4425160539 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4434277776 |
+| Rust Developer (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434295175 |
+| Excel Analyst (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434279963 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434288309 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434296204 |
