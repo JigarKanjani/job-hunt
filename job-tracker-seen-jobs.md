@@ -12305,3 +12305,6 @@
 | Excel Analyst (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434279963 |
 | Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434288309 |
 | Go Developer (Remote) | Quik Hire Staffing | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4434296204 |
+| Senior Structural Engineer - Dynamic Design Specialist | Wood | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4375864524 |
+| Fixed Term Senior Case Manager– 18 month contract (Remote) | Sentrex Health Solutions | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4415129447 |
+| Receptionist | Massage on 194th | 2026-06-28 | G | https://ca.indeed.com/viewjob?jk=825c10a9f7447786 |
