@@ -12315,3 +12315,8 @@
 | Leasing Specialist | Boardwalk | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4433618542 |
 | Personal Development and Leadership Growth Partner | Empowerment-Strategies.com | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4433618541 |
 | administrative assistant | Connect Transport Ltd. | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4434295515 |
+| Logistics Coordinator Afternoon Shift 3:00 pm to 11:30 pm | Transload Logistics Corp | 2026-06-28 | J | https://ca.indeed.com/viewjob?jk=178f6877e8d70eb8 |
+| Logistics Coordinator | Transload Logistics Corp | 2026-06-28 | J | https://ca.indeed.com/viewjob?jk=ead5ede6159c4499 |
+| Surface Land Administrator | Roneta | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4433615621 |
+| Customer Service Representative | Perfect Home Furniture | 2026-06-28 | G | https://ca.indeed.com/viewjob?jk=77a1282ea82ee586 |
+| Guest Agent II | Fairmont Hotels & Resorts | 2026-06-28 | G | https://www.linkedin.com/jobs/view/4433631174 |
