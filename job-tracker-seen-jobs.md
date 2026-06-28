@@ -12296,3 +12296,7 @@
 | Outbound Logistics Support Specialist – Calgary, AB | Millborn | 2026-06-27 | J | https://www.linkedin.com/jobs/view/4433488052 |
 | Operations Consultant - Flex | SEPHORA | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4434261208 |
 | Respite/support worker for autistic youth | Ramanath household | 2026-06-28 | N | https://ca.indeed.com/viewjob?jk=882fa5ca9da9b080 |
+| Human Resources Services Coordinator | Advanced Medical Solutions | 2026-06-28 | J | https://www.linkedin.com/jobs/view/4434283260 |
+| Controls Systems Technician 2 | Johnson Controls | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4421563568 |
+| Controls Systems Technician 2 | Johnson Controls | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4421547533 |
+| AI Adversarial Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4425160539 |
