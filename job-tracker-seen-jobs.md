@@ -12436,3 +12436,26 @@
 | Security Controller | Cushman & Wakefield | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434733529 |
 | Customer Service Representative (Motivator) - Calgary Deerfo | GoodLife Fitness | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4431533234 |
 | Overnight Customer Service Representative (Motivator) - Calg | GoodLife Fitness | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4431536138 |
+| Junior Procurement and Contract Specialist | WSP in Canada | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431534353 |
+| Logistics Coordinator | DMC Recruitment Group | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434748799 |
+| Material Coordinator | Agilus Work Solutions | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434147628 |
+| Manufacturing Project Coordinator | ATCO Structures | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434166316 |
+| Service Project Coordinator | Flynn Group of Companies | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434158725 |
+| Events & Engagement Coordinator | Black Diamond Group | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431534293 |
+| Strategic Account Leader | Staples Canada | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434763192 |
+| Production Planner | De Havilland Aircraft of Canada Limited | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434763231 |
+| Business Development Specialist | Easter Seals Alberta | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434774187 |
+| Network Operations Analyst - Information Technologies | University of Calgary | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434783369 |
+| Events and Communications Specialist | University of Calgary | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434789341 |
+| Community Outreach & Events Facilitator - Full Time | Calgary Humane Society | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434781721 |
+| Disability Case Manager | Canada Life | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434159723 |
+| Regulatory Officer | Government of Alberta | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434159629 |
+| Mobile Mortgage Specialist | TD | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434782343 |
+| Strategic Initiatives Coordinator | Town of Hinton | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434153889 |
+| Utility Modernization - Project Coordinator | City of Red Deer | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434169319 |
+| IS Business Analyst & Data Developer | Saturn Oil + Gas Inc. | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434783415 |
+| Part-Time Learning Coordinator - Springbank Community  High  | Rocky View Schools | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434150827 |
+| CI Data and Advancement Analyst | Government of Alberta | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434167232 |
+| Customer Experience Associate - Calgary, AB (30 hours/week)  | Scotiabank | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434161353 |
+| Customer Experience Associate | TD | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434771350 |
+| Academic Program Specialist, Arts Admin Operations, Faculty  | University of Calgary | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4433570821 |
