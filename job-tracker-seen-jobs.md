@@ -12359,3 +12359,32 @@
 | Trademark Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425464550 |
 | Business Law Associate | McCarthy Tétrault | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434477844 |
 | Business Law Associate, Energy | McCarthy Tétrault | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434492128 |
+| Wear Parts and Service Specialist | SMS Equipment Inc. | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=02fdd3fe8eea482b |
+| Functional Analyst | University of Alberta | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=f5cec55755d12bc1 |
+| Business Analyst | Saturn Oil + Gas Inc. | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434703422 |
+| Human Resources Coordinator, Learning & OHS | Inn from the Cold | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434715465 |
+| Accounting Coordinator - AR/Collections | RESA Power | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434144118 |
+| Marketing Specialist | Robert Half | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434128684 |
+| Regulatory Filings Analyst (2-year term position) | Alberta Securities Commission | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434703391 |
+| Package Specialist-SAP HANA SCM SD | IBM | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431519179 |
+| Quality Assurance Analyst | Sovereign Insurance | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434122317 |
+| Junior Logistics Analyst | Louis Dreyfus Company | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431512571 |
+| Contract Advisor | Hays | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434709521 |
+| Designated Beauty Advisor - Armani | Holt Renfrew | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431521563 |
+| Designated Beauty Advisor - Estee Lauder | Holt Renfrew | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431511679 |
+| * Production Planner * | Oerlikon | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434022534 |
+| Functional Analyst | University of Alberta | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434497865 |
+| Resilience Coordinator | SmartICE | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=17d08e2b42672478 |
+| Project Coordinator | Carlson Construction Ltd. | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=db4ad57a55eb9a88 |
+| Coordinator, Community Hall | FMMN | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=68100ac1626aa01c |
+| Membership and Events Coordinator | Supply Chain Management Association Albe | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=3ffc52380c8d348d |
+| Client Relations & Operations Coordinator | Lavender and Lemon Cleaning Woodstock | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=d534b4bdc4a378cc |
+| Site Equipment Coordinator | Canadian Natural Resources Limited (CNRL | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434145195 |
+| Administrative Support Specialist | Great West Radon Ltd. | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=5f14bdc56341f9f0 |
+| Service Desk Analyst I | University of Alberta | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=8cce4aba0261b979 |
+| Process Engineer (Contract) | Trans Mountain | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4430857706 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434702814 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434700823 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434488740 |
+| Finance Analyst (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434498184 |
+| Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434479949 |
