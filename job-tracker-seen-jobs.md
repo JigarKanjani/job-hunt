@@ -12326,3 +12326,10 @@
 | Automotive Dealership Software Onboarding & Adoption Team Le | PBS Systems | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=669b8d40e1ab5436 |
 | Human Resources Specialist (Remote) | Falling Water Dreams | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4433622755 |
 | Domino's Customer Service Representative (500 Country Hills  | Domino's | 2026-06-29 | G | https://ca.indeed.com/viewjob?jk=a35a9e8665d869bc |
+| Coordinator, Partner Matters | KPMG Canada | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434433902 |
+| Fixed Operations Software Training Team Lead | PBS Systems | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431075266 |
+| Automotive Dealership Software Onboarding & Adoption Team Le | PBS Systems | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431075259 |
+| Donor Development Specialist (FT) DCR | Catholic Social Services Alberta | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4433660014 |
+| Associate Analog Design Engineer | Semtech | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434444522 |
+| Production Associate - Utility IV - 2nd Shift | Cintas Canada | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4432857515 |
+| Associate Analog Design Engineer | Semtech | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434437650 |
