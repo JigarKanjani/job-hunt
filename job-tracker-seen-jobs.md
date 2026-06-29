@@ -12322,3 +12322,7 @@
 | Guest Agent II | Fairmont Hotels & Resorts | 2026-06-28 | G | https://www.linkedin.com/jobs/view/4433631174 |
 | Billing Administrator | Urban Legal Recruitment Inc. | 2026-06-28 | N | https://www.linkedin.com/jobs/view/4433624595 |
 | Drawing Control Analyst | Raise | 2026-06-28 | R | https://www.linkedin.com/jobs/view/4431251841 |
+| Fixed Operations Software Training Team Lead | PBS Systems | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=452205403d1c6698 |
+| Automotive Dealership Software Onboarding & Adoption Team Le | PBS Systems | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=669b8d40e1ab5436 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4433622755 |
+| Domino's Customer Service Representative (500 Country Hills  | Domino's | 2026-06-29 | G | https://ca.indeed.com/viewjob?jk=a35a9e8665d869bc |
