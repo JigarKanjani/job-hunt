@@ -12333,3 +12333,29 @@
 | Associate Analog Design Engineer | Semtech | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434444522 |
 | Production Associate - Utility IV - 2nd Shift | Cintas Canada | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4432857515 |
 | Associate Analog Design Engineer | Semtech | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434437650 |
+| Master Planner | Global Partner Solutions | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434485449 |
+| PMO Resource Analyst | Turner & Townsend | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434108732 |
+| Terminal Planning Specialist | Calgary Airports | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434068678 |
+| Information Management System Admin Support Specialist (SDx  | AtkinsRéalis | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431769307 |
+| Technology Advisor | Acquire Technology Solutions | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434111403 |
+| Digital Project Coordinator | LawDepot | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4426463268 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434468550 |
+| Administrative Assistant (Remote) | Hire Feed | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434479441 |
+| PMO Resource Analyst | Turner & Townsend Pty Limited | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=8f085804ff05a665 |
+| Quality Assurance Analyst | Sovereign Insurance | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=feaa390fc30acfd2 |
+| Analyste de l’assurance qualité | Sovereign Insurance | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434104867 |
+| Cybersecurity Systems Engineering, Intermediate | General Dynamics Mission Systems–Canada | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434473965 |
+| Mobile Developer | Synechron | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4431095933 |
+| Performance Reporting Specialist - Fully Remote | Upto $120/ | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425448831 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434461876 |
+| Experiment Readiness Specialist - Fully Remote | Upto $120/h | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425456652 |
+| Research Analyst (Remote) | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434494275 |
+| Financial Analyst (Remote) | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434478887 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434471411 |
+| Culture Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425454648 |
+| Onboarding Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425470534 |
+| Recruiting Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425451684 |
+| RFI Response Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425454642 |
+| Trademark Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4425464550 |
+| Business Law Associate | McCarthy Tétrault | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434477844 |
+| Business Law Associate, Energy | McCarthy Tétrault | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434492128 |
