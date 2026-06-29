@@ -12388,3 +12388,51 @@
 | Automation Test Engineer - QA (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434488740 |
 | Finance Analyst (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434498184 |
 | Data Analyst (Machine Learning) - Remote | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434479949 |
+| Site Equipment Coordinator | Canadian Natural | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=b583cd1c7a524788 |
+| Junior Procurement and Contract Specialist | WSP | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=b9b5891ec34bc229 |
+| Recruitment Specialist - Trades/Industrial | PTW Energy Services Ltd. | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=735bc02894ab5928 |
+| Inventory Control Coordinator (Fixed-Term Contract) | Charlesglen Toyota | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=335956371cc82bf9 |
+| Construction Project Coordinator | Hestia Construction | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=793617a715bf4ead |
+| Flight Coordinator | AirSprint Private Aviation | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=b818081415963e5b |
+| Administrative Analyst | Northwest Tank Lines | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=af6567ac6e5408e8 |
+| Events & Engagement Coordinator | Black Diamond Group | 2026-06-29 | J | https://ca.indeed.com/viewjob?jk=b7d0c9a5b4a546e3 |
+| Senior Procurement Specialist | URUS Group | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434144765 |
+| Client Relations Specialist | cmi | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434149617 |
+| Compensation Lead | Affirm | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434135926 |
+| Talent Acquisition Specialist | Convergint | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434756044 |
+| Senior Contracts Administrator | Turner & Townsend | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434147877 |
+| Operations Accountant | Canadian Natural Resources Limited (CNRL | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434144204 |
+| Senior Analyst, Indigenous Relations | Inter Pipeline | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434145595 |
+| Senior Governance & Regulatory Advisor | FortisAlberta | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434153493 |
+| Enrollment Advisor | Circuit Stream | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4413083677 |
+| Health And Safety Specialist | WINS (Women In Need Society) | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434152248 |
+| Intermediate Customer Support Specialist (Legal or Accountin | Clio | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434141703 |
+| HSE Advisor | Savanna Well Servicing Inc. | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4434156227 |
+| Performance Supply Chain Leader | PepsiCo | 2026-06-29 | J | https://www.linkedin.com/jobs/view/4431517781 |
+| Product Advisor | Charlesglen Toyota | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=e6ed6c907922f369 |
+| Claims Advisor - Accident Benefits (Calgary) | Peace Hills Insurance | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=2ae0eb2d08e8c1cb |
+| Technology Advisor | acQuire Technology Solutions | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=22bb3872b9441021 |
+| Strategic Initiatives Coordinator | Town of Hinton | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=2ad0da8b92a4bf4b |
+| Project Coordinator | University of Alberta | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=34cdd23d3586f706 |
+| Audience Services Coordinator (Part-Time) | Banff Centre for Arts and Creativity | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=dcba25d086b9ff95 |
+| Project Coordinator - Field Services | Sunbelt Solomon | 2026-06-29 | N | https://ca.indeed.com/viewjob?jk=dda39c6f9f18fe05 |
+| Help Desk Assistant | Saint Laurent Consulting | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434152015 |
+| Communications Specialist | Calgary Foothills Primary Care Network | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434162204 |
+| Part-Time ECS Specialist | Delta West Academy | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434154648 |
+| ISSP Counsellor - Mental Health Professional - Notre Dame El | Lakeland Catholic School Division | 2026-06-29 | N | https://www.linkedin.com/jobs/view/4434150824 |
+| Performance Marketing Specialist | WaitWell Inc. | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=29d38c7c53306d0c |
+| Business Systems Analyst | Apps Associates | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=5bf83138d8267266 |
+| Critical Applications Support Analyst | City of Edmonton | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=16b8dcb2bf2c0e61 |
+| Collaboration Analyst | TC Energy | 2026-06-29 | R | https://ca.indeed.com/viewjob?jk=525f9a548dc1c1ba |
+| Java Backend Developer | Galent | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4431529419 |
+| Accountant, Reporting | Inter Pipeline | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434149450 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434757270 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434727622 |
+| Golang Developer (Remote) | Hire Feed | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4434734351 |
+| CAS Technology Specialist | Canadian Natural Resources Limited (CNRL | 2026-06-29 | R | https://www.linkedin.com/jobs/view/4432908344 |
+| Credit Officer II | Bank of America | 2026-06-29 | G | https://ca.indeed.com/viewjob?jk=b28b2a149f3955f5 |
+| Junior Document Controller | Gas Liquids Engineering Ltd | 2026-06-29 | G | https://ca.indeed.com/viewjob?jk=a8409e0675394f16 |
+| Airline Ticketing Specialist | Easy Trip Travels | 2026-06-29 | G | https://ca.indeed.com/viewjob?jk=0c80d6d133da7474 |
+| Security Controller | Cushman & Wakefield | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434733529 |
+| Customer Service Representative (Motivator) - Calgary Deerfo | GoodLife Fitness | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4431533234 |
+| Overnight Customer Service Representative (Motivator) - Calg | GoodLife Fitness | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4431536138 |
