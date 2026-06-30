@@ -12459,3 +12459,42 @@
 | Customer Experience Associate - Calgary, AB (30 hours/week)  | Scotiabank | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434161353 |
 | Customer Experience Associate | TD | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4434771350 |
 | Academic Program Specialist, Arts Admin Operations, Faculty  | University of Calgary | 2026-06-29 | G | https://www.linkedin.com/jobs/view/4433570821 |
+| Risk Analyst | China National Offshore Oil | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=f3fb19b4650313a9 |
+| Analyst, Cost Planning | Altus Group | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=fe31f616507d5ead |
+| Talent Acquisition Specialist | Convergint | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=9aebdc35cf2443e7 |
+| Service Project Coordinator | Flynn Group of Companies | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=abfc63de5be61a26 |
+| Program Coordinator | City of Calgary | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=1a589a1c875960da |
+| PRE-OWNED PRODUCT ADVISOR | Stampede Leasing Ltd | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=f98b90d016c4ebbe |
+| Regulatory Filings Analyst (2-year term position) | ALBERTA SECURITIES COMMISSION | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=2eae02bc20b2ffea |
+| Bylaw Officer | Rocky View County | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=762258261a3545b4 |
+| UKG Project Analyst | City of Calgary | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=ed3424dff56b3a97 |
+| Human Resources Data Analyst | City of Calgary | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=f398f7be8081f772 |
+| Project Coordinator, Foundations | Ledcor | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=7feecfeeeae2ec78 |
+| Shift Supervisor, Star Building Materials | STAR BUILDING MATERIALS | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=19308a352bcfb931 |
+| Shipping and Receiving Analyst | IMT Group | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431536942 |
+| WHS Specialist | Amazon | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434901237 |
+| Office Operations Coordinator | FirstService Residential Canada | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434938201 |
+| Accounting Data Advisor | Baker Tilly Canada | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434913981 |
+| Service Advisor (Mercedes-Benz South Calgary) | Go Auto | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434797156 |
+| Senior Specifications Specialist | HDR | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434189415 |
+| Financial Advisor - Taradale | Servus Credit Union | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434190424 |
+| Senior Operations Speclialist | NorQuest College | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4430788311 |
+| Digital Sales Advisor | Westland Insurance Group | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=3cd1919a6fcd1287 |
+| Intensive Case Management Worker (CP) - St. Josephine | Catholic Social Services | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=f6bcb836521e36b0 |
+| Recreation Coordinator - Summer Student | Catholic Social Services | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=623719ec6b1ecded |
+| Beauty Advisor - Part Time - Market Mall | L'OCCITANE Group (B Corp) | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4431555308 |
+| Concession Worker | Part-Time | Spruce Meadows | Oak View Group | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434940009 |
+| Digital Sales Advisor | Westland Insurance Group Ltd. | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4431547608 |
+| Administrative Coordinator Office Services | Gibson Energy | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434195083 |
+| Revenue Operations Analyst – New Business & Account Manageme | Workleap | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=e20f4217206038fe |
+| Manufacturing Project Coordinator | ATCO | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=1d4fe327c7b62bcf |
+| Onboarding Administrator | MasTec Purnell Canada Inc. | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=5488a3c0d9344bf8 |
+| Personal Trainer - Calgary Creekside | GoodLife Fitness | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4431538921 |
+| Administrative Assistant | Omega 365 | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=0ed7ece35905b302 |
+| Customer Experience Associate - Calgary, AB (30 hours/week)  | Scotiabank | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=ce387564d773b440 |
+| GYMVMT Front Desk Associate - Calgary Trans Canada | GoodLife Fitness | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431544810 |
+| Service Advisor | Dilawri Group of Companies | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434941365 |
+| Sales Associate | Carters Inc. | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431548913 |
+| Sales Associate (Mercedes - Benz South Calgary) | Go Auto | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434798152 |
+| Accounts Receivable Coordinator | Aplin | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434908002 |
+| Litigation Associate (2-8 Years Call) | gpac | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431568232 |
