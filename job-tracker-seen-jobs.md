@@ -12507,3 +12507,16 @@
 | Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=670fb21d94baa424 |
 | Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=df755cef73d849ff |
 | Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=9bfd5d65ee0b3138 |
+| Shipping and Receiving Analyst | IMT Group | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=916356fca71705b7 |
+| IT Product Support Specialist | Marsh | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4423581983 |
+| Senior Specialist  - Cybersecurity | Parkland Corporation | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431596770 |
+| Inventory Supervisor - Night Shift (Weekend) | Johnson Controls | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4422237429 |
+| Production Planner | ChampionX | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434992025 |
+| Student Support Coordinator, Student Experience | NAIT (Northern Alberta Institute of Tech | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434975034 |
+| Communications Advisor | City of Edmonton | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4431915499 |
+| Trainer | Alberta Health Services | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=addf7f67c2fcb4a9 |
+| Data Annotation Specialist | $98/hr Remote | Crossing Hurdles | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4425814302 |
+| C# Developer (Remote) | Hire Feed | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4434971527 |
+| Wealth Associate | National Bank of Canada | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434987386 |
+| Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431904322 |
+| Part-Time Cell Phone Advisor | the WIRELESS kiosk @Costco / le kiosque  | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431904087 |
