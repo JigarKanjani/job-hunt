@@ -12498,3 +12498,12 @@
 | Sales Associate (Mercedes - Benz South Calgary) | Go Auto | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434798152 |
 | Accounts Receivable Coordinator | Aplin | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434908002 |
 | Litigation Associate (2-8 Years Call) | gpac | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431568232 |
+| Marketing Specialist (Full-Time, Temporary) | Canada Diagnostic Centres | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434922941 |
+| Administrative Coordinator | Syngenta | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431757118 |
+| Facilities Administrator | Broadstreet Properties | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434966616 |
+| School Social Worker - Fully Remote | Upto $75/hr | Mercor | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434928746 |
+| Mobile Mortgage Specialist | TD | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=c2be6dea29758cdb |
+| IT Support and Security Systems Technician | Boardwalk | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4434961253 |
+| Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=670fb21d94baa424 |
+| Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=df755cef73d849ff |
+| Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=9bfd5d65ee0b3138 |
