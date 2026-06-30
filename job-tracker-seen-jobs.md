@@ -12570,3 +12570,53 @@
 | Sales Associate | Genesis Land Development Corp. | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=f8a8d454883443f8 |
 | Sales Associate | Cedarglen Homes | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434330143 |
 | Phone Support and Customer Service Agent | Reach | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4435159911 |
+| Commercial Fuel Demand Analyst | Shell | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=9056a222ffa67c43 |
+| Community Support Coordinator Residential Program | Calgary Alternative Support Services | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=0558e6280b6baa4f |
+| Bulk Petroleum Coordinator | North Central Co-operative Association L | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=ead94c2105bc24f8 |
+| Data Center Construction Supervisor / Lead | Valard Construction | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=b4013b261667a544 |
+| Contracts Administrator, Supply Chain Management (Montreal,  | WSP in Canada | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431972436 |
+| Facilities & Operations Coordinator | Alberta Animal Rescue Crew Society | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434364244 |
+| Corporate Purchasing Manager | Jayman BUILT | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434365487 |
+| Dir Operations | DHL Supply Chain | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435300910 |
+| Financial Transaction Coordinator | FLINT Corp. | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435343025 |
+| Lease Analyst | Government of Alberta | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434358587 |
+| Junior Finance Analyst, Finance Services | University of Calgary | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435321358 |
+| Project Coordinator (Transmission Lines) | Phasor Engineering Inc | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435341490 |
+| Talent Acquisition Coordinator | UFA | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434361596 |
+| Accounts Receivable Analyst | UFA | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4428748830 |
+| Contract Accounting Specialist | AR Recruitment Ltd Calgary | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434378208 |
+| daycare coordinator | Little Forest Dwellers | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435344213 |
+| Business Advisor - Okotoks, AB | Scotiabank | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434364216 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435321774 |
+| Senior Advisor Project Controls | Enbridge | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431978393 |
+| Support Analyst | 403Tech Inc. | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434371205 |
+| Deputy Lead Cost Specialist | Fluor Corporation | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435304756 |
+| Talent Acquisition Specialist | Hays | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434905728 |
+| Lead Dyson Expert/Seasonal | Dyson | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435320232 |
+| Technical Support Specialist - BIL | Xplore Inc. | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431972499 |
+| Facilities Team Lead, UCalgary Continuing Education | University of Calgary | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435322321 |
+| Sr. Human Resource Advisor (Hybrid) | Calgary Board Of Education | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=577287fbac43ab61 |
+| Senior Historian and Business Intelligence Specialist | Streamline Control Solutions | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=23c62eb35e6483b0 |
+| Pickleball Sports Coordinator - Calgary | Alberta Elevation Athletics | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=3de42f081149b115 |
+| Payroll and Benefits Coordinator | United Active Living  | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=710356cb9ce5b75c |
+| Marketing & Project Coordinator | Built Green Canada | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=3532fe6909801d7a |
+| Project Coordinator | Botting & Associates Alberta Ltd | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=41ca498023c58031 |
+| Senior Administrative Assistant - FT - Calgary | Coast Claims Insurance Services | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435330085 |
+| Partnerships Coordinator | Watts Group Ltd. | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434367304 |
+| Administrative Assistant - Corporate Services | Graham | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435347044 |
+| Video Surveillance Administrator | Charger Logistics Inc. | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4431977411 |
+| Senior Membership Intake Examiner | CIRO / OCRI | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435316515 |
+| Financial Advisor - Calgary, AB (12 Month Contract) | Scotiabank | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434374042 |
+| Senior Financial Advisor - Mount Royal, Calgary, AB (Tempora | Scotiabank | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434367100 |
+| Financial Services Independent Advisor | Co-operators Assurance et services finan | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434360389 |
+| Coordination and Engagement Analyst | Government of Alberta | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434368103 |
+| Developer Analyst | MAARA Consulting | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=9e8f4a6d805b221b |
+| IT Support Technician | MAARA Consulting | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=3e03a166b4caf6a8 |
+| Financial Analyst / CRE / Junior | Smart Capital Center | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=1f98299a40e29e38 |
+| Billing Platform Operations Engineer | Genesys | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4425525172 |
+| Administrative Assistant - Corporate Services | Graham Construction | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=132d92f8c52bbb3b |
+| Customer Service Representative (CSR) - Inside Sales | Graybar Canada Limited | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=cf2d61dec49351d7 |
+| Scheduler - Age Care Walden Heights | AgeCare | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4435302926 |
+| Sales Associate | Anytime Fitness Asia | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434377379 |
+| Customer Service Representative - BIL | Xplore Inc. | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431979241 |
+| Litigation Associate | VOGEL LLP | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434364252 |
