@@ -12533,3 +12533,40 @@
 | WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4434996928 |
 | Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435103958 |
 | Administrative Support IV | Recovery Alberta | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=0da1f47dc5a4edbc |
+| Administrative Team Lead | Prospect Human Services | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=3ddb7569655160ce |
+| Lead Dyson Expert/Seasonal | Dyson | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=2c7a33c30844137f |
+| Operations Specialist, Strategic Events, External Relations | University of Calgary | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=d8d067a25284a9ea |
+| Office Operations Coordinator | FirstService Residential | 2026-06-30 | J | https://ca.indeed.com/viewjob?jk=af03b66164dfe78b |
+| SAP Functional Analyst | Elk Valley Resources | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431943912 |
+| Human Resources Data Analyst | City of Calgary | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434318679 |
+| Analyst, Metals & Mining Investment Banking - Calgary | BMO | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435136869 |
+| Investment Banking Analyst Energy | ATB Financial | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435175088 |
+| HR Payroll Project Analyst | InSync Systems | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434318916 |
+| Mortgage Specialist | BMO | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435135858 |
+| Solution Architect, IT Airline Operations | WestJet | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435117713 |
+| Commercial Fuel Demand Analyst | Shell | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434335037 |
+| Junior Construction Coordinator / Supervisor | WSP in Canada | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434315495 |
+| Data Architect, IT Airline Operations | WestJet | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435133310 |
+| Trenchless Rehabilitation Practice Lead - Calgary | LJB Inc. | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4434134310 |
+| Financial Services Independent Advisor | Co-operators | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435155862 |
+| Senior Contract Specialist | Net2Source (N2S) | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4422995364 |
+| Receptionist/Intake | The Indigenous Justice Centre of Alberta | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=8878169c58470d9a |
+| Administrative Assistant, Undergraduate Education, Faculty o | University of Calgary | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=ab030aed7451b701 |
+| administrative assistant | Superior Roofing | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435168316 |
+| Civil Design Technologies Specialist | Langan Ski Turs International | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4434328428 |
+| Commercial Insurance Advisor (Independent) | Co-operators | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435167191 |
+| AI Training Specialist (Egocentric Video) | Toloka Annotators | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435175135 |
+| SAS Support Specialist | MaKami College | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435136268 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4435103885 |
+| Payroll Administrator | Bird Construction | 2026-06-30 | N | https://www.linkedin.com/jobs/view/4425955128 |
+| Database & IT Specialist | Raytheon | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=0f39a155bb4db3a7 |
+| Control Systems Engineer | DCD Engineering | 2026-06-30 | R | https://ca.indeed.com/viewjob?jk=9a21c850ef5f3730 |
+| QA Automation Engineer | Synechron | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4431951035 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435104625 |
+| QA Automation Tester | BIS Safety Software | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435127550 |
+| Golang Developer (Remote) | Hire Feed | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435136081 |
+| Veterinary Receptionist | Burwash Equine Services | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=6a69b278e41c2519 |
+| Internet Customer Service Representative | Utility Network & Partners, Inc | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=c142f309db126a39 |
+| Sales Associate | Genesis Land Development Corp. | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=f8a8d454883443f8 |
+| Sales Associate | Cedarglen Homes | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434330143 |
+| Phone Support and Customer Service Agent | Reach | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4435159911 |
