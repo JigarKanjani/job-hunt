@@ -12520,3 +12520,16 @@
 | Wealth Associate | National Bank of Canada | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434987386 |
 | Personal Banking Associate Trainee | TD | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431904322 |
 | Part-Time Cell Phone Advisor | the WIRELESS kiosk @Costco / le kiosque  | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431904087 |
+| Production Specialist | FASTSIGNS España | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4435100347 |
+| Climate Adaptation Solutions Senior Specialist | Arcadis | 2026-06-30 | J | https://www.linkedin.com/jobs/view/4431931774 |
+| Addictions Counsellor III | Recovery Alberta | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=256369b05b2adf3a |
+| Logistics Coordinator | FLINT Corp. | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=1b5db8084fa6c979 |
+| Financial Transaction Coordinator | FLINT Corp. | 2026-06-30 | N | https://ca.indeed.com/viewjob?jk=d918e71c10d5c1ad |
+| SharePoint & Power Platform Specialist | Q1 Technologies, Inc. | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4431932686 |
+| Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4425230736 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435115514 |
+| Financial Analyst | Alberta Health Services | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4434311304 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435117108 |
+| WFH Online Data Analyst (English Speakers) | TELUS Digital AI Data Solutions | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4434996928 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-06-30 | R | https://www.linkedin.com/jobs/view/4435103958 |
+| Administrative Support IV | Recovery Alberta | 2026-06-30 | G | https://ca.indeed.com/viewjob?jk=0da1f47dc5a4edbc |
