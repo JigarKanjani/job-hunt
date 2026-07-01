@@ -12711,3 +12711,10 @@
 | Remote Quantitative Analyst (Finance) | Turing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434681499 |
 | Remote Quantitative Analyst (Finance) | Turing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434690122 |
 | Merchandising service associate | RONA | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4435881931 |
+| Estimator/Proposal Specialist | Sunbelt Solomon | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432724388 |
+| Project Coordinator | Ameresco | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434689530 |
+| Marketing & Community Engagement Coordinator | Chick-fil-A Meadows | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=0c13137e3e1098cd |
+| Accounts Payable Coordinator | Fraction Energy Services | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=2d30730612eae38f |
+| Reporting Job | Lever Middleware Test Company | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4432707944 |
+| Customer Service Representative | Atlas Pizza & Sports Bar | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=7c5d86c02a2bb864 |
+| Associate Technical Consultant, Environmental Scientist | Worley | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4436103912 |
