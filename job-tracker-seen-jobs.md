@@ -12705,3 +12705,9 @@
 | Customer Support Specialist | Xylem | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4435855048 |
 | PROPERTY MANAGEMENT ADMINISTRATOR | TECHNIFITE | 2026-07-01 | R | https://ca.indeed.com/viewjob?jk=42f1bc17c7309622 |
 | Data & Software Specialist | Parkland School Division | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434681184 |
+| Energy Trading Systems Specialist | Procom | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432712550 |
+| Java Developer | VLink Inc | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435899584 |
+| Automation Test | Lever Middleware Test Company | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4432716456 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434681499 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434690122 |
+| Merchandising service associate | RONA | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4435881931 |
