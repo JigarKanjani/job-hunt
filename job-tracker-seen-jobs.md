@@ -12620,3 +12620,33 @@
 | Sales Associate | Anytime Fitness Asia | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434377379 |
 | Customer Service Representative - BIL | Xplore Inc. | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4431979241 |
 | Litigation Associate | VOGEL LLP | 2026-06-30 | G | https://www.linkedin.com/jobs/view/4434364252 |
+| Contract HR Payroll Project Analyst | Cenovus Energy | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=bca827fefe71f981 |
+| Legislative Services Officer | Town of Strathmore | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=c7815a4c09571109 |
+| Quality Coordinator (CDR-CP33-010) | Bethany Care Society | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=bcbdd5d32ae9e2d1 |
+| PROCUREMENT & SUPPLY CHAIN COORDINATOR | Armtec Inc. | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=f72e38cb014d2c55 |
+| Third-Party Carrier Coordinator | Certarus Ltd. | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434370866 |
+| Purchase Coordinator | Mark's | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435354430 |
+| Quality Assurance Coordinator | Engineered Air | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435345948 |
+| People & Culture Coordinator | EllisDon | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435339742 |
+| Parts Advisor (Go Auto) | Go Auto | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435341720 |
+| Stakeholder Engagement Advisor | Alberta Electric System Operator (AESO) | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434386693 |
+| Senior Advisor, Strategic Alignment | Alberta Energy Regulator (AER) | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435365002 |
+| Senior Financial Planning Analyst | Mount Royal University | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4431986613 |
+| Senior Communications Specialist | Procom | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4431995333 |
+| Surgical Coordinator - Ophthalmology | Ophthalmology office in the University o | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=b76ba6076ebd8e73 |
+| Arts Program Coordinator (Part-Time) | YMCA Calgary | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=e1d04f8421224112 |
+| Appointment Coordinator | Dilawri Group of Companies | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=db1d1204c93369f5 |
+| People & Culture Coordinator | EllisDon Corporation | 2026-07-01 | N | https://ca.indeed.com/viewjob?jk=3ca3593d0f22e249 |
+| Sr. Tax Analyst - Canada | Black Diamond Group | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4432302026 |
+| Appointment Coordinator | Dilawri Group of Companies | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4435380748 |
+| Community Engagement Specialist | Calgary Drop IN & Rehab Society Centre | 2026-07-01 | R | https://ca.indeed.com/viewjob?jk=0465190a8412844d |
+| Technical Service Specialist | Natus Medical Incorporated | 2026-07-01 | R | https://ca.indeed.com/viewjob?jk=4ef4d23c5443c953 |
+| Technical Support Specialist - BIL | Xplore Inc. | 2026-07-01 | R | https://ca.indeed.com/viewjob?jk=765426a971947089 |
+| AI Solutions Developer | MaKami College | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435383460 |
+| Clinical Systems Analyst | Alignerr | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435375091 |
+| Technical Support Engineer, Trilogy (Remote) - $60,000/year  | Crossover | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434398535 |
+| Data Governance Analyst | Government of Alberta | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434609060 |
+| Samsung Sales Associate - Market Mall - Calgary, AB | OSL Retail Services Inc | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=f1371d7160816f2b |
+| Customer Experience Associate - Fixed Term Contract | TD | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4435346965 |
+| Merchandising Execution Team Associate : Full Time - COUNTRY | The Home Depot Canada | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434386214 |
+| Lumber Sales Associate - Part Time - CALAGARY SOUTHEAST | The Home Depot Canada | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434381546 |
