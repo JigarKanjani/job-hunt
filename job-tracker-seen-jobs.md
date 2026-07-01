@@ -12671,3 +12671,15 @@
 | Customer Experience Associate | TD | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=3d6d3c83e18cfd74 |
 | Customer Experience Associate | TD | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=8b932277a9f0c548 |
 | Summer Student – Administrative | Enviros WSA | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4432328057 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=321f5d0fc127b334 |
+| Junior Microsoft Program Manager Sales Specialist | Lorimer Ventures | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432702285 |
+| Quality Assurance & Quality Control Coordinator, Minerals &  | BEUMER Group | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434625399 |
+| Guest Services Leader | Pilot Company | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435825166 |
+| Distribution Coordinator | Blue Shock Executive Search | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434628659 |
+| Sourcing Partner (180 Recruitment) | Hays | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435825883 |
+| LMIA Processing Officer | Canadian Immigration Connections | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4434645096 |
+| Patient Care Navigator (Remote) | Sentrex Health Solutions | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4426006321 |
+| Technical Promotor, Protection and Automation | Siemens | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4425561770 |
+| Release Engineer – RHEL Migration & Platform Modernization | Axiom Global Technologies | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434621299 |
+| Receptionist | Vision Group | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434620101 |
+| Customer Experience Associate | TD | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4422143106 |
