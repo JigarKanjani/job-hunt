@@ -12650,3 +12650,24 @@
 | Customer Experience Associate - Fixed Term Contract | TD | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4435346965 |
 | Merchandising Execution Team Associate : Full Time - COUNTRY | The Home Depot Canada | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434386214 |
 | Lumber Sales Associate - Part Time - CALAGARY SOUTHEAST | The Home Depot Canada | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434381546 |
+| Quality Assurance Coordinator | Engineered Air | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=0a044593810fc292 |
+| Program Manager, CASA House and Adolescent Day Program | CASA Mental Health | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=8cc9ce8a0cd78609 |
+| Sales Support Analyst | Stellantis | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432324471 |
+| Specialist, US Corporate Tax | KPMG Canada | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432343205 |
+| Inventory - Field Data Collector | Acosta Group | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435516842 |
+| Coordinator I - Project Support Administrator | Alberta Health Services | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435513572 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435500965 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435533032 |
+| Golang Developer (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435508371 |
+| Rust Developer (Remote) | Quik Hire Staffing | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435527356 |
+| C# Developer (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435505979 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435515543 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435524418 |
+| CA-Technical Specialist | Apple | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4432322715 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4435512353 |
+| Administrative Assistant | Remediclean | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=2373538d90941485 |
+| Administrative Support VI | Recovery Alberta | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=28e4eea54f95016d |
+| Administrative Support III | Primary Care Alberta | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=d57edac035a06985 |
+| Customer Experience Associate | TD | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=3d6d3c83e18cfd74 |
+| Customer Experience Associate | TD | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=8b932277a9f0c548 |
+| Summer Student – Administrative | Enviros WSA | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4432328057 |
