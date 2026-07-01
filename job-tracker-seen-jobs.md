@@ -12683,3 +12683,25 @@
 | Release Engineer – RHEL Migration & Platform Modernization | Axiom Global Technologies | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434621299 |
 | Receptionist | Vision Group | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4434620101 |
 | Customer Experience Associate | TD | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4422143106 |
+| Event Coordinator | Power Play Entertainment Canada | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=ffc42914bb6d7302 |
+| Loyalty Coordinator | Edmonton International Airport | 2026-07-01 | J | https://ca.indeed.com/viewjob?jk=11e6bf78753c04da |
+| Operational Specialist | Zodiac Solutions, Inc | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4432703695 |
+| Intermediate Billing Specialist | Kent | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434655706 |
+| Senior Specialist  - Cybersecurity | Parkland Corporation | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435844400 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434641661 |
+| System Study Team Lead Calgary EOI | Hatch | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4426146105 |
+| Metal Additive Manufacturing Engineering - Team Lead | Next Level Advanced Manufacturing Corp. | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434651575 |
+| Product Content Specialist | Aquent | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4431978669 |
+| Marketing Advisor II | BrokerLink | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4426548724 |
+| Senior Specialist  - Cybersecurity | Parkland Corporation | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435849260 |
+| Stakeholder Engagement Coordinator | JSG (Johnson Service Group, Inc.) | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4435848187 |
+| Fleet Operations Coordinator | Buffalo Trail Public Schools | 2026-07-01 | J | https://www.linkedin.com/jobs/view/4434684055 |
+| Chief Sales Officer, Employee Benefits & Retirement Canada | HUB International | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4422206313 |
+| S2627-25 Legislative Services Coordinator | Northern Lights Public Schools | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4434669758 |
+| Safety Coordinator - 14/14 Shift | Convergint | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4426392580 |
+| Rental Coordinator Edmonton, AB | BearCom Canada | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4434666494 |
+| Family School Liaison Counselor -  Mental Health Professiona | The Palliser School Division | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4434676543 |
+| Rental Coordinator Grande Prairie, AB | BearCom Canada | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4434670447 |
+| Customer Support Specialist | Xylem | 2026-07-01 | N | https://www.linkedin.com/jobs/view/4435855048 |
+| PROPERTY MANAGEMENT ADMINISTRATOR | TECHNIFITE | 2026-07-01 | R | https://ca.indeed.com/viewjob?jk=42f1bc17c7309622 |
+| Data & Software Specialist | Parkland School Division | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4434681184 |
