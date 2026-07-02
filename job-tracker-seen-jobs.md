@@ -12819,3 +12819,23 @@
 | Counter Sales Associate | Wolseley Canada Inc. | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436369842 |
 | Game Day & Fan Experience Coordinator | Swift Current Broncos Hockey Club | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435248442 |
 | Fixture Coordinator, SportChek & Mark's | Canadian Tire Corporation | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436390327 |
+| Controls Specialist | CONVERGIX Automation Solutions | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=b422a0b844038a89 |
+| Buyer | TURBINE-X Energy Inc. | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=99f8cbe5f11ce198 |
+| Major Projects Lead | Stantec | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=cb21ec6512c11665 |
+| Shipping, Receiving & Inventory Supervisor, Banff Gondola | Pursuit Collection | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=df149d78912109c6 |
+| Specialist, Automation & Monitoring | Nutrien | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436396040 |
+| Talent Acquisition Experience Specialist II | Affirm | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435241711 |
+| Lead Teacher | Junior Preschool | Centennial Campus | Fueling Brains & Academies | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436385048 |
+| Cost Analyst – Operational Finance | Clark Builders | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4427137615 |
+| Senior Accounting & Finance Administrator | Quantus Mortgage Solutions | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=372c67d07a635741 |
+| Social and Community Service Worker - Canada Summer Job | The Mustard SEED Society | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=275b1f0001ca026b |
+| Student Experience Coordinator | Northwestern Polytechnic | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=25a24f98a8f59acb |
+| Personal Trainer - Calgary Canyon Meadows | GoodLife Fitness | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4433117392 |
+| Personal Trainer - Calgary Sunridge | GoodLife Fitness | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4433133033 |
+| Talent Acquisition Experience Specialist II | Affirm | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435238830 |
+| Spécialiste de support à distance - Services Digitaux / Digi | Trane Technologies | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435231583 |
+| Application Support Agent | Garaga inc. | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435235108 |
+| Front Desk / Customer Service Representative | Maple leaf flooring | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=cce711bd66666da6 |
+| Counter Sales Associate | Wolseley Canada, Inc. | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=2e25aa79e3b89946 |
+| Associate | Richardson Wealth | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435249653 |
+| GYMVMT Front Desk Associate - Calgary Canyon Meadows | GoodLife Fitness | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4433112807 |
