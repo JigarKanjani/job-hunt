@@ -12752,3 +12752,16 @@
 | Pro Account Sales Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4395931177 |
 | Controller | Cochrane Toyota | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436192811 |
 | Over-the-Counter Associate | Walmart Canada | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4413366605 |
+| Enterprise Business Development Representative | Sidetrade | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435200929 |
+| Administrative Assistant | Robinson Outreach at RiverCross Ranch (R | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435203913 |
+| Admissions Counsellor (US Colleges) | Crimson Education | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4416113816 |
+| Site Administrator | FLINT Corp. | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4427092866 |
+| Senior Administrative Assistant | Dawn Recruiting Agency | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435219156 |
+| Administrative Assistant | Bunge | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4406106761 |
+| AI Quality Assurance Analyst – Content Evaluation | $70/hr R | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4426787401 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436304958 |
+| LLM Evaluation Specialist – Analytical Reviewer | $70/hr Rem | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4426769597 |
+| Statistical Analyst (Remote) | Quik Hire Staffing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436340029 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436316514 |
+| Finance Research Analyst | Remote | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435063175 |
+| CO Associate | AVEVA | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435090292 |
