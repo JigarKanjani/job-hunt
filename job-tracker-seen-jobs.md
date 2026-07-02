@@ -12780,3 +12780,42 @@
 | Pick/Pack, Dock Associate | The Rosedale Group | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=b1938197461480f4 |
 | Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=b2d43f2c5a8aab92 |
 | Client Service Associate | BMO | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436355624 |
+| Senior Power Generation Commissioning Engineer / Commissioni | Sancon Contracting Ltd | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=7a7fceebfea1ab64 |
+| Booking Coordinator | AirSprint Private Aviation | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=0e424ff9a5e93d38 |
+| Assistant Coordinator | Great Western Interiors | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=8e3b1c5828b84de3 |
+| Buyer - Supply Chain Management | Ensign Energy Services Inc. | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=f0a4080a2a19adcf |
+| Talent Acquisition Specialist | Formations Inc | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=6210e4ef10925a23 |
+| Hearings & Regulatory Committees Coordinator | College & Association of Registered Nurs | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=c7cd92ba91753c4b |
+| Water Operations Coordinator | City of Calgary | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435229997 |
+| Lead Teacher | Junior Preschool | Centennial Campus | Fueling Brains & Academies | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436385048 |
+| Human Resources Advisor | Adecco | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435240520 |
+| Spécialiste des applications de services numériques/Digital  | Trane Technologies | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435230587 |
+| Stakeholder Engagement Coordinator | JSG (Johnson Service Group, Inc.) | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435229433 |
+| Senior Forest Analyst | University of Alberta | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4417408507 |
+| Recovery Peer Support Worker | The Mustard SEED Society | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=4ef43038ec8d0c1f |
+| LTD Case Manager | Disability Management Institute | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=4b63422e8dc7f547 |
+| Service Coordinator | Finning | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=dba7c7a64aa02d7c |
+| Administrative Assistant/Receptionist | Tamarack Physiotherapy | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=e7225eb0614bc427 |
+| Project Coordinator Intern | Clark Builders | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4427086493 |
+| Payroll & Benefits Administrator | Trace Associates Inc. | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435242476 |
+| H&M Sales Advisor | H&M | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4436388210 |
+| Financial Analyst, Sales & Operations | Mountain View Lube | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435252306 |
+| Service Coordinator | Finning | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435226786 |
+| Housing Outreach Worker/Housing Support Worker | E4C | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4431125773 |
+| Trust Administrator | BMO | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4433508485 |
+| On site/Field IT Support Technician | EvolveIT Corporate Solutions Ltd. | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=da050b12e1179d5c |
+| Level 1 IT Support Specialist | Arban Corp | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=149e99b2e675adaa |
+| Canderel - Property Administrator | Canderel | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=3c73969379c06244 |
+| Coffee Specialist (Part-Time) - BIM Market Mall | Nestlé Nespresso SA | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436384274 |
+| IT Service Desk Analyst | Helical Pile Solutions Ltd. | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436382078 |
+| IT Coordinator | MNP | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4417441206 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435228872 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435237511 |
+| Human Resources Administrative Assistant | Eagle Canada Seismic Services | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=e6c727fce1a6573a |
+| Administrative Assistant | Calgary Family Therapy Centre | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=d611bf6e83c6560a |
+| Customer Service Representative | Yard Dawgs | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=850c64adb353a242 |
+| Associate | Richardson Wealth | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=c88f804bd7a7eafa |
+| Customer Sales Associate | Trane Technologies | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435247050 |
+| Counter Sales Associate | Wolseley Canada Inc. | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436369842 |
+| Game Day & Fan Experience Coordinator | Swift Current Broncos Hockey Club | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435248442 |
+| Fixture Coordinator, SportChek & Mark's | Canadian Tire Corporation | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436390327 |
