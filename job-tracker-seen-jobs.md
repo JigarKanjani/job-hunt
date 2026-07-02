@@ -12718,3 +12718,16 @@
 | Reporting Job | Lever Middleware Test Company | 2026-07-01 | R | https://www.linkedin.com/jobs/view/4432707944 |
 | Customer Service Representative | Atlas Pizza & Sports Bar | 2026-07-01 | G | https://ca.indeed.com/viewjob?jk=7c5d86c02a2bb864 |
 | Associate Technical Consultant, Environmental Scientist | Worley | 2026-07-01 | G | https://www.linkedin.com/jobs/view/4436103912 |
+| Procurement Manager | Lightspeed | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=67554f6b3ac6c7e7 |
+| Revenue Enablement Program Manager | Affirm | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435011213 |
+| Product Content Specialist [209706] | Aquent | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436118805 |
+| People and Office Operations Coordinator | :AM CLEANING YYC | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=93340935394d3f9e |
+| Casual Program Support Worker | Resilient Hearts | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435013697 |
+| Revenue Enablement Program Manager | Affirm | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435005472 |
+| Human Trafficking Intelligence & Data Analyst | CEASE: Centre to Empower Survivors of Se | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=40a6f76b0dd9b16a |
+| Sr AI Solutions Engineer – Microsoft Copilot / Power Platfor | Brookfield Residential | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435011627 |
+| Administrative Assistant | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=1e61581f857f8d1a |
+| Administrative Assistant | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=54302a92ef0ed3ce |
+| Customer Service Representative | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=dc2998b2f054656f |
+| Customer Service Representative | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=105ffff43fa179a9 |
+| Residential Leasing & Marketing Specialist | Emerald Management & Realty Ltd. | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4434688576 |
