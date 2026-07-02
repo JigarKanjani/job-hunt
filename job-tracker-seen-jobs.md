@@ -12731,3 +12731,8 @@
 | Customer Service Representative | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=dc2998b2f054656f |
 | Customer Service Representative | Photo Studio Calgary | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=105ffff43fa179a9 |
 | Residential Leasing & Marketing Specialist | Emerald Management & Realty Ltd. | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4434688576 |
+| Store Planner | Sobeys | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=924cfe421a98dffa |
+| Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435032529 |
+| Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435029733 |
+| Utility & Commercial Service Coordinator | Tesla | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436168898 |
+| MuleSoft Integration Developer | Think Big Solutions | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=70de75419c05134c |
