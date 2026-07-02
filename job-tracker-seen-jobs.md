@@ -12736,3 +12736,19 @@
 | Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435029733 |
 | Utility & Commercial Service Coordinator | Tesla | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436168898 |
 | MuleSoft Integration Developer | Think Big Solutions | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=70de75419c05134c |
+| Senior Financial Planning Analyst | Mount Royal University | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=894c700c17307492 |
+| Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436193869 |
+| Supply Chain Manager (Remote) | Quik Hire Staffing | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436308478 |
+| International Outreach and Conversion Specialist | NAIT (Northern Alberta Institute of Tech | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4436191977 |
+| Strategic Advisory Services Consultant (Remote, CAN) | CrowdStrike | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4405588859 |
+| Excel Analyst (Remote) | Quik Hire Staffing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436306498 |
+| AI Quality Assurance Analyst – Content Evaluation | $70/hr R | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4426787401 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436195943 |
+| Finance Research Analyst | Remote | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435063175 |
+| Systems Engineer (SysAdmin/IT Software Support) | Seequent | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4405189997 |
+| Cosmology Specialist - Fully Remote | Upto $100/hr | Mercor | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4427147828 |
+| Customer Service Representative | WD WIAN Test Company Page | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435047693 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4413654092 |
+| Pro Account Sales Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4395931177 |
+| Controller | Cochrane Toyota | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436192811 |
+| Over-the-Counter Associate | Walmart Canada | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4413366605 |
