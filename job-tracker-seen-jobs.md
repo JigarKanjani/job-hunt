@@ -12839,3 +12839,44 @@
 | Counter Sales Associate | Wolseley Canada, Inc. | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=2e25aa79e3b89946 |
 | Associate | Richardson Wealth | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435249653 |
 | GYMVMT Front Desk Associate - Calgary Canyon Meadows | GoodLife Fitness | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4433112807 |
+| Site Project Coordinator - Electrical | Vector Electric and Controls | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=379a0d91e658eabd |
+| Service Coordinator - Up to 18-month contract | Arpac Storage Systems | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=f746c186884f5d84 |
+| Reclamation Division Lead | Pinecrest Environmental | 2026-07-02 | J | https://ca.indeed.com/viewjob?jk=6b8a572aba79c3bd |
+| Operations Analyst - Compliance & Control | UFA | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4429388576 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4433112921 |
+| Associate Oracle Package Specialist (September 2026 - Calgar | IBM | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4433129304 |
+| Project Coordinator- STC (Supplemental Type Certificate) Int | De Havilland Aircraft of Canada Limited | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436401849 |
+| Operations Specialist, Strategic Events, External Relations | University of Calgary | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4434937562 |
+| Associate Technical SAP Package Specialist (September 2026 - | IBM | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4433118575 |
+| Business Support Analyst - PM Suite | Canadian Natural Resources Limited (CNRL | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435267671 |
+| Community Partnerships Specialist, O'Brien Institute for Pub | University of Calgary | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436416693 |
+| Planner / Scheduler - Energy & Resources | Stantec | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436412283 |
+| Patient Services Specialist | FYidoctors | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4433114781 |
+| HR Operations Analyst (Contract) | Trans Mountain | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435267501 |
+| Controls Specialist | CONVERGIX Automation Solutions | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436427200 |
+| HR Payroll Project Analyst | Adecco | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435276360 |
+| Financial Advisor, Investment & Retirement Planning - Royal  | Scotiabank | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435254706 |
+| Procurement Coordinator (Maternity Leave Coverage - 18 Month | Black & McDonald Limited | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435282074 |
+| Shipping, Receiving & Inventory Supervisor, Banff Gondola | Pursuit Collection | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4433119852 |
+| Ignition SCADA Specialist | Streamline Control Solutions | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=58bcac7f6afd98a6 |
+| Family Case Manager, Shelter | Inn from the Cold | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=b78398c90e0e1b54 |
+| Sr. Analyst, Tax Compliance & Reporting - Calgary, AB or Sas | Nutrien | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=34bb9467e491587c |
+| Program Coordinator | Big Brothers Big Sisters Association of  | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=cf1baab3ff65ba9c |
+| Human Resource Coordinator - EPL Human Resource Services Div | Edmonton Public Library | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=19377a4e40a02429 |
+| Business Operations Coordinator | Brignall Equipment Solutions Ltd | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=0eb00503683c710c |
+| HR / Safety Officer | ATOZ Tubing Services | 2026-07-02 | N | https://ca.indeed.com/viewjob?jk=ca30fc41e5a0704f |
+| Administrative Assistant, Undergraduate Education, Faculty o | University of Calgary | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4434931608 |
+| Sr. Analyst, Tax Compliance & Reporting - Calgary, AB or Sas | Nutrien | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4433115854 |
+| Human Resource Coordinator - EPL Human Resource Services Div | City of Edmonton | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4433114990 |
+| Chief, Engineering Standards and Processes | De Havilland Aircraft of Canada Ltd | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=464cf3fa3616defe |
+| Business Insights Analyst | Allstate Insurance | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=d0dbf15f289cec5c |
+| Technical Analyst - Global | ABSORB | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=bb72685331606dc6 |
+| Developer / Analyst – Mobility Production Support and Integr | RONA | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436409450 |
+| Administrative Assistant- Data Entry and Client Support | Calgary Legal Guidance Society | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=bc0ad9179e2f2b00 |
+| Administrative Assistant II | Pantheon Inc. | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=dad33fbac1435625 |
+| Sales Receptionist | Brewery District - Massage Heights | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=537c7dd0c3f4e246 |
+| (CAN) General Merchandise Associate | Walmart | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=e10da1c7576702a3 |
+| Document Control Specialist | ICE Western Sales | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=191bd39fc1f54548 |
+| Receptionist - Casual - AgeCare Shawnee | AgeCare | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436414524 |
+| Controller | REV | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435256762 |
+| Sales Associate | Ardene | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436447092 |
