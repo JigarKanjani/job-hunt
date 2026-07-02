@@ -12765,3 +12765,18 @@
 | Research Specialist (Remote) | Quik Hire Staffing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4436316514 |
 | Finance Research Analyst | Remote | Crossing Hurdles | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435063175 |
 | CO Associate | AVEVA | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435090292 |
+| Project Coordinator | Actalent | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4436363477 |
+| Government Relations Advisor | Trans Mountain | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4435385528 |
+| Quality Assurance Advisor | Airswift | 2026-07-02 | J | https://www.linkedin.com/jobs/view/4432795476 |
+| Child And Youth Worker | Bridgeway Connection Services | 2026-07-02 | N | https://www.linkedin.com/jobs/view/4435226031 |
+| Systems Engineer | Thrive | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=8679bf55e3900e52 |
+| Staff AI Product Analyst, Product Management | Canada | Remo | Grafana Labs | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=d202c797c57cd145 |
+| Talent Acquisition Experience Specialist II | Affirm | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=cafc664bb52f3c57 |
+| Oracle Integration Cloud (OIC / NSIP) Developer | Think Big Solutions | 2026-07-02 | R | https://ca.indeed.com/viewjob?jk=aaa9315bfcaa56fd |
+| Java developer | Synechron | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4406702780 |
+| Materials Coordinator | ZealoTech People | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435221854 |
+| Remote Finance & Research Analyst | Turing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435232294 |
+| Remote Finance & Research Analyst | Turing | 2026-07-02 | R | https://www.linkedin.com/jobs/view/4435229391 |
+| Pick/Pack, Dock Associate | The Rosedale Group | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=b1938197461480f4 |
+| Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-07-02 | G | https://ca.indeed.com/viewjob?jk=b2d43f2c5a8aab92 |
+| Client Service Associate | BMO | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436355624 |
