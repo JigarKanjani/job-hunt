@@ -12941,3 +12941,21 @@
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4416146914 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4414045916 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4413622960 |
+| Quality Control / Production Coordinator | Rudolph Sales/Bakers and Us | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=a13b1001006eca03 |
+| Project Operations Coordinator – Success Operations | Artech L.L.C. | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436717854 |
+| Technical Specialist | AVEVA | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435446292 |
+| Enterprise Solutions Engineer | Postman | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4417430518 |
+| Insurance Advisor | Western Financial Group | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4426655387 |
+| Service Writer / Advisor | Joe Johnson Equipment | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=b2861855bbeb0066 |
+| Waste Advisor | Omega 365 | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=541bc9d8f85db366 |
+| Administrative Assistant, Energy | Lakeland College | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=2491cc15c32d7919 |
+| Change Management & Reporting Coordinator | Turner & Townsend | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435439781 |
+| Astrophysics Specialist - Fully Remote | Upto $85/hr | Mercor | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4427912323 |
+| Tanzu Platform Specialist | Kyndryl | 2026-07-03 | R | https://ca.indeed.com/viewjob?jk=8ae1a4754c62828b |
+| Change Management & Reporting Coordinator | Turner & Townsend Pty Limited | 2026-07-03 | R | https://ca.indeed.com/viewjob?jk=10fa69bc7704d2ea |
+| Information Security Compliance Analyst | Gowling WLG | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4426633400 |
+| Audio Quality Assurance Specialist | $50/hr Remote | Crossing Hurdles | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4426624214 |
+| Financial Controller | The Newly Institute | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=0a254f321360c8ec |
+| Personal Banking Associate | TD | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=efabde0b93b40b57 |
+| Parts Associate | Custom Truck One Source | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4395449171 |
+| Package Center Associate | UPS | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4426901571 |
