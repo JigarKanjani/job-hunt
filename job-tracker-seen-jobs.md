@@ -12880,3 +12880,35 @@
 | Receptionist - Casual - AgeCare Shawnee | AgeCare | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436414524 |
 | Controller | REV | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4435256762 |
 | Sales Associate | Ardene | 2026-07-02 | G | https://www.linkedin.com/jobs/view/4436447092 |
+| Senior Analyst, Asset Finance Support | National Bank of Canada | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=6fa5465be2d79b68 |
+| Maintenance Coordinator | Penske Truck Leasing | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=e2a0212ecfa4ba72 |
+| Business Support Analyst - PM Suite | Canadian Natural | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=d4a42db7bceaecc4 |
+| Regional Leader, Personal Insurance | BrokerLink | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=339c7439681a66c2 |
+| Proposal Specialist | Synergy Group of Companies | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=d8e5995bbd5c194a |
+| Lead, Client Experience - British Columbia | IX Solutions Ltd. | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=1f2d1429b7eae57b |
+| Buyer | Parkland Corporation | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435275626 |
+| Program Manager, Winks | Circle K | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435292368 |
+| Appointment Coordinator (T&T Honda) | Go Auto | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436433897 |
+| Buyer | Parkland Corporation | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435269806 |
+| Stage Experience Lead - Full Time | SEPHORA | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436439714 |
+| Encore - Q400 - Pilot - First Officer - 2026 - YYC | WestJet | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436470042 |
+| Resident Engagement Worker - PPT - Weekend Days | The Mustard SEED Society | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=68e164aa8057a0a5 |
+| Office Administrator | GS Mann Professional Inc. | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=60ce903de9a65a1e |
+| Project Coordinator | Divine Stucco & Construction Ltd | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=4ee12832e538897b |
+| Casual Bookings Coordinator | Canada Diagnostic Centres | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=c1ad77a54ac600f1 |
+| Community Support Worker | new age services | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=271cda877cec2703 |
+| Office Administrator | Pacekids Programs | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=6067df82ffe03568 |
+| Coordinator, Preboarding | Nutrien | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=f529904b4763174c |
+| Administrative Assistant (Temporary 18Months) | Rocky View County | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=a5ceb67a8fae2f52 |
+| Service Coordinator (12-Month Contract) | Levitt-Safety | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=469a45ade9a7c677 |
+| Community Relations Specialist | CBI Health | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4436449277 |
+| Community Relations Specialist | CBI Health | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4436436884 |
+| Information Technologist (IT) Support Specialist / EMR Analy | Radius Community Health & Healing | 2026-07-03 | R | https://ca.indeed.com/viewjob?jk=820c48a681330d64 |
+| Associate Maximo Developer (September 2026 - Calgary) | IBM | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4433140336 |
+| Associate ServiceNow Application Developer (September 2026 - | IBM | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4433138379 |
+| Application Integration Analyst - Remote | Aurora Cannabis Inc. | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4435283907 |
+| Receptionist/Administrative Assistant | Motion Focus & Sports Clinic | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=7c22f8c2caee8770 |
+| Associate AI Engineer (September 2026 - Calgary) | IBM | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4433146124 |
+| Overnight Freight Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435281747 |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435288900 |
+| Associate Cloud Engineer (September 2026 - Calgary) | IBM | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4433150025 |
