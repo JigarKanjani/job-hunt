@@ -12988,3 +12988,39 @@
 | Intermediate QA Test Developer | ZayZoon | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436782069 |
 | Part Time Sales Associate, adidas Signal Hill (#2031) | adidas | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4425307510 |
 | Administrative Support 3 & 4 Talent Pool (Edmonton & Calgary | Government of Alberta | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435462215 |
+| Network Analyst | Government Of Alberta | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=26257694f2666555 |
+| Operations Supervisor | MTE Logistix | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=816436c00d2e04d5 |
+| Supply Chain & Logistics Coordinator | Paradigm Inputs | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435460903 |
+| Coordinator, Learning Centre: Calgary | Deloitte | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4427691282 |
+| Service Writer / Advisor | Federal Signal Corporation | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436779508 |
+| Inventory Associate | WIS International | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435462949 |
+| Architectural Technologist/BIM Coordinator | DIALOG | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436781251 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436771869 |
+| Supply Chain Manager (Remote) | Quik Hire Staffing | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436779397 |
+| Procurement & Inventory Coordinator | RECRUITMENT PARTNERS INC. | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436771273 |
+| Sales & Finance Business Performance Specialist | IKEA | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435475365 |
+| Administrative Assistant – Ambrose University | Ambrose University College | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=c054e2e95f48fd43 |
+| Service Coordinators (7on/7off) | Levitt-Safety | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=24034b72a5ed0494 |
+| Service Coordinator | Levitt-Safety | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=989e56f60bc3ea54 |
+| Service Coordinator | Levitt-Safety | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=f03e6a2e1e605abe |
+| Project Administrator (Entry Level, Growth Track) | ProQual Construction and Innovations Inc | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=f500495cccd90584 |
+| Mobile Support Station Outreach Worker | The Salvation Army in Canada | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435469825 |
+| Mobile Support Station Outreach Worker | The Salvation Army in Canada | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435471679 |
+| Mobile Support Station Outreach Worker | The Salvation Army in Canada | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435476540 |
+| Outreach Support Worker (Relief) | The Salvation Army in Canada | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435460990 |
+| AP/AR Administrator | Superior Gas Liquids | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4433198828 |
+| People & Culture Administrator | Bird Construction | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4427625111 |
+| Technical Support & Implementation Specialist | Augmentt | 2026-07-03 | R | https://ca.indeed.com/viewjob?jk=f1d5d493809ae987 |
+| Tax Staff- Global Compliance and Reporting-Toronto 1 | EY | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4435465881 |
+| GYMVMT Personal Trainer - Calgary Place | GoodLife Fitness | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4433706727 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436785065 |
+| Excel Analyst (Remote) | Quik Hire Staffing | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436774519 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436774522 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436774512 |
+| Environmental Assessment Management Coordinator ($80K–$95K/y | Chu Cho Environmental | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4435478334 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436781372 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436764966 |
+| M-Files Administrator | Java Holdings Ltd | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436763914 |
+| Litigation Associate | Vogel LLP | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=266c644f07f4aa31 |
+| Special Services Associate: Full Time - AIRDRIE | The Home Depot Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435464905 |
+| Sports Betting Event Activations Associate | Signup Expert | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4436775401 |
