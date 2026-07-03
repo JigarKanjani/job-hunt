@@ -12912,3 +12912,14 @@
 | Overnight Freight Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435281747 |
 | Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435288900 |
 | Associate Cloud Engineer (September 2026 - Calgary) | IBM | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4433150025 |
+| Program Manager, Winks | Circle K | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=dce7a8b78fa986a7 |
+| SAP ECP Systems Analyst | ATB Financial | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436487076 |
+| Business Development Coordinator | Wood Automotive Group | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436484178 |
+| Financial Advisor Wealth Advice Centre | ATB Financial | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436483241 |
+| Coordinator | Alberta Health Services | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435412640 |
+| Administrator, Programs, Business & Academic Upgrading | Northern Lakes College | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=5e872ee68d763a59 |
+| Administrative Assistant (6-month Contract) | Boardwalk | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4435407800 |
+| Local Representative/Banking&Compliance Liaison | Технофінанс | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4432757951 |
+| Personal Banking Associate Trainee | TD | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=d88e827401c627c3 |
+| Renewal Agent | Boardwalk | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435406867 |
+| Wealth Experience Associate | ATB Financial | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4436469801 |
