@@ -12959,3 +12959,32 @@
 | Personal Banking Associate | TD | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=efabde0b93b40b57 |
 | Parts Associate | Custom Truck One Source | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4395449171 |
 | Package Center Associate | UPS | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4426901571 |
+| Project Cost & Accounting Coordinator | Homes by Sorensen | 2026-07-03 | J | https://ca.indeed.com/viewjob?jk=1dfad648e4229c8b |
+| Inventory Specialist/WMS Analyst | CTDI | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436755900 |
+| Business Analyst | Data Elephant | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435454820 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436757795 |
+| Supervisor, Operations - PM | RONA | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4427698511 |
+| Coordinator, Mentorship | CNIB | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435464429 |
+| People Systems Analyst | IREN | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4436765366 |
+| Technical Sales Specialist | Digital Lifestyles | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435458667 |
+| Intermediate Analyst, ICS Cybersecurity | BBA Consultants | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4427605998 |
+| Design Lead FT Pottery Barn Kids Chinook Centre, Calgary AB | Pottery Barn Kids | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4417366660 |
+| EHS Specialist | Carlisle Construction Materials | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4426687256 |
+| Parts Counter Advisor, Retail | Kaizen Automotive Group | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4435457500 |
+| Pricing Coordinator | Univar Solutions | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4427918013 |
+| Traction Power Specialist | Mott MacDonald | 2026-07-03 | J | https://www.linkedin.com/jobs/view/4399448039 |
+| Mobile Support Station Outreach Worker | The Salvation Army | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=1f6b6150de088b41 |
+| Mobile Support Station Outreach Worker | The Salvation Army | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=fbb6a1a915201491 |
+| Mobile Support Station Outreach Worker | The Salvation Army | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=1e102c86d19459b4 |
+| Outreach Support Worker (Relief) | The Salvation Army | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=4cee0404d3f10f19 |
+| People & Payroll Administrator | Concorde Group | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=19b6f8f0db3baeb1 |
+| Program Support Worker | YWCA | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=ba47c5116a837372 |
+| Finance & Payroll Administrator | Barons-Eureka-Warner FCSS | 2026-07-03 | N | https://ca.indeed.com/viewjob?jk=9f5a71e89ad1944c |
+| Receptionist/Administrative Assistant | Foresight Recruitment Group | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4436772059 |
+| Safety Administrator | AGAT Laboratories | 2026-07-03 | N | https://www.linkedin.com/jobs/view/4432175137 |
+| Intermediate Process Engineer – Natural Gas / Utilities / Po | ARMADA NOWLIT ENERGY LTD. | 2026-07-03 | R | https://ca.indeed.com/viewjob?jk=7f16229937598983 |
+| Front-End Web Developer | Nialli Inc. | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4435455555 |
+| Fire Alarm Systems Estimator | Mircom Group of Companies | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4433196787 |
+| Intermediate QA Test Developer | ZayZoon | 2026-07-03 | R | https://www.linkedin.com/jobs/view/4436782069 |
+| Part Time Sales Associate, adidas Signal Hill (#2031) | adidas | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4425307510 |
+| Administrative Support 3 & 4 Talent Pool (Edmonton & Calgary | Government of Alberta | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435462215 |
