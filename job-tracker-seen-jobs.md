@@ -13069,3 +13069,13 @@
 | Real Estate Administrative Assistant | Mohit Sood Save Max Real Estate Inc. | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=3560f0ffbd9df1d7 |
 | (CAN) General Merchandise Associate | Walmart | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=f5e02d9ab8bfc214 |
 | Technical Welding Associate | SGS | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4433704318 |
+| Office & Client Service Coordinator | Cornerstone Engineering Ltd | 2026-07-04 | J | https://ca.indeed.com/viewjob?jk=80168143cf852cc3 |
+| Procurement Coordinator | Hatch | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4427226891 |
+| Commission Analyst | BrokerLink | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436971042 |
+| Virtual Design & Construction (VDC) Specialist | Clark Builders | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4416749308 |
+| Clinical Advisor – Injury Claims | Aviva Canada | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4416734387 |
+| Regional Leader, Personal Insurance | BrokerLink | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436970089 |
+| Senior Financial Planner | Raymond James Ltd. | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4385162218 |
+| HSE Administrator (CB) | Clark Builders | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4418004138 |
+| Clinical Advisor – Injury Claims | Aviva Canada | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4416727444 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4436001551 |
