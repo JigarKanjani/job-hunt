@@ -13065,3 +13065,7 @@
 | Go Developer (Remote) | Quik Hire Staffing | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4436938958 |
 | Sales Associate | Foot Locker | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4406778648 |
 | Sales Associate | Foot Locker | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4406787481 |
+| Event Sales Coordinator - Bow Valley | Encore Canada | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4368271333 |
+| Real Estate Administrative Assistant | Mohit Sood Save Max Real Estate Inc. | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=3560f0ffbd9df1d7 |
+| (CAN) General Merchandise Associate | Walmart | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=f5e02d9ab8bfc214 |
+| Technical Welding Associate | SGS | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4433704318 |
