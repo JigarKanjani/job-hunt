@@ -13079,3 +13079,7 @@
 | HSE Administrator (CB) | Clark Builders | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4418004138 |
 | Clinical Advisor – Injury Claims | Aviva Canada | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4416727444 |
 | Protective Services Officer II | Alberta Health Services | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4436001551 |
+| Scheduling Coordinator | Ascent Home Care | 2026-07-04 | J | https://ca.indeed.com/viewjob?jk=52ce673dd43cfbad |
+| HRIS & Data Analyst | WinSport | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436960757 |
+| Team & Culture, Admin Coordinator | WinSport | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436974193 |
+| Hematology/Oncology Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4436957898 |
