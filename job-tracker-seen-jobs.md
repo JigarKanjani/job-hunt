@@ -13024,3 +13024,14 @@
 | Litigation Associate | Vogel LLP | 2026-07-03 | G | https://ca.indeed.com/viewjob?jk=266c644f07f4aa31 |
 | Special Services Associate: Full Time - AIRDRIE | The Home Depot Canada | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4435464905 |
 | Sports Betting Event Activations Associate | Signup Expert | 2026-07-03 | G | https://www.linkedin.com/jobs/view/4436775401 |
+| Network and Perimeter Security IT Specialist I - Load Balanc | Enbridge | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4433740013 |
+| Coordinator, Line Maintenance | Skyservice Business Aviation Inc. | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436935111 |
+| Network & Perimeter Security Specialist II - Firewall | Enbridge | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4433720782 |
+| Development Officer | WINS (Women In Need Society) | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4433728738 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436918516 |
+| Program Coordinator, Indigenous Youth Mentorship Program | Ever Active Schools | 2026-07-04 | N | https://ca.indeed.com/viewjob?jk=717744c010fa58fc |
+| Administrative Assistant | Boardwalk | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4435771490 |
+| IT Project Coordinator | Devengine | 2026-07-04 | R | https://ca.indeed.com/viewjob?jk=348c80508504187e |
+| Network and Perimeter Security IT Specialist I - Load Balanc | Enbridge | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4433731498 |
+| Business Development Associate | Elastik | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=e18360477693b896 |
+| Customer Experience Associate | TD | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=3b865974a75b28a4 |
