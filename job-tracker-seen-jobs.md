@@ -13047,3 +13047,12 @@
 | Project Coordinator - 934RY4WY | Integricon | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4435785163 |
 | Production Coordinator | Johnson Controls | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4425354413 |
 | Turnover Coordinator | Worley | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4428181051 |
+| Treasury Analyst, Reporting and Compliance | Rohit Group | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4428107958 |
+| Senior Consultant - Financial Accounting Advisory Services-  | EY | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4385076927 |
+| HR Policy & Compliance Specialist | $36/hr Remote | Crossing Hurdles | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4426965039 |
+| ML Platform Engineer | Clio | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4427200785 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4436946647 |
+| Computational Engineering Specialist | $60/hr Remote | Crossing Hurdles | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4427258887 |
+| Sales Associate | Longchamp | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4388640844 |
+| Parttime Sales Associate | Longchamp | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4387508947 |
+| Sales Associate | Staples Canada | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4368681828 |
