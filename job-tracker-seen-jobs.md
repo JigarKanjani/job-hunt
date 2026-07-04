@@ -13056,3 +13056,12 @@
 | Sales Associate | Longchamp | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4388640844 |
 | Parttime Sales Associate | Longchamp | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4387508947 |
 | Sales Associate | Staples Canada | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4368681828 |
+| Senior Analyst FP&A | Parkland Corporation | 2026-07-04 | J | https://ca.indeed.com/viewjob?jk=945bf180a4449626 |
+| SAP Functional AnalystNew | Glencore Canada | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436958219 |
+| Supervisor, Operations - AM | RONA | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4428149232 |
+| Lead Field Service Technician - Large Motors | Integrated Power Services | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4417174348 |
+| Operational Accounting Assoc Coordinator - 12-month Contract | PepsiCo | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4425328661 |
+| Systems Integration Engineer | Mott MacDonald | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4340792888 |
+| Go Developer (Remote) | Quik Hire Staffing | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4436938958 |
+| Sales Associate | Foot Locker | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4406778648 |
+| Sales Associate | Foot Locker | 2026-07-04 | G | https://www.linkedin.com/jobs/view/4406787481 |
