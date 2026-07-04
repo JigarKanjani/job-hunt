@@ -13035,3 +13035,15 @@
 | Network and Perimeter Security IT Specialist I - Load Balanc | Enbridge | 2026-07-04 | R | https://www.linkedin.com/jobs/view/4433731498 |
 | Business Development Associate | Elastik | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=e18360477693b896 |
 | Customer Experience Associate | TD | 2026-07-04 | G | https://ca.indeed.com/viewjob?jk=3b865974a75b28a4 |
+| HR Delivery Analyst | ENMAX | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4435788053 |
+| Project Controls Specialist | Stantec | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436918925 |
+| Accounting Lead | Affirm | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4426994824 |
+| Senior Advisor, Infrastructure Advisory | Colliers Project Leaders | Canada | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4423511878 |
+| Lead Instrumentation & Controls Engineer | Worley | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4428179079 |
+| Project Controls Specialist | Stantec | 2026-07-04 | J | https://www.linkedin.com/jobs/view/4436929704 |
+| Light Duty Vehicle Fleet Coordinator | Morgan Construction & Environmental Ltd. | 2026-07-04 | N | https://ca.indeed.com/viewjob?jk=6a8ff5638bad8f99 |
+| Entry-Level Administrative Assistant (Remote) | Recruitlytics Hiring | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4436926909 |
+| People Lead (HR Administrator) 18 month term | Walmart Canada | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4414054234 |
+| Project Coordinator - 934RY4WY | Integricon | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4435785163 |
+| Production Coordinator | Johnson Controls | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4425354413 |
+| Turnover Coordinator | Worley | 2026-07-04 | N | https://www.linkedin.com/jobs/view/4428181051 |
