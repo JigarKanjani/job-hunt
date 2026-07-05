@@ -13086,3 +13086,6 @@
 | Analyst, Financial Planning & Analysis | Rohit Group | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436976351 |
 | Customer Service Representative | U-Haul | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4436921241 |
 | Switchboard Agent | Pomeroy Lodging | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4433752829 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436982468 |
+| Senior Transportation Engineer | Egis in Canada | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4432446931 |
+| *Repost* Intake Assessor – Children’s Services | Siksika Family Services Corporation | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4436016875 |
