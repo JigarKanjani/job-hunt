@@ -13109,3 +13109,5 @@
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437115096 |
 | Operations Consultant - Flex | SEPHORA | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437123141 |
 | Operations Consultant - Part Time | SEPHORA | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437123142 |
+| Media Buyer | Taurify | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436033926 |
+| Technical Support Specialist | Kognitive Sales Solutions | 2026-07-05 | R | https://ca.indeed.com/viewjob?jk=b6bad060c7655352 |
