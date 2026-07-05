@@ -13092,3 +13092,9 @@
 | Senior Coordinator, Transport | Loblaw Companies Limited | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436985565 |
 | Operations Administrator - Grande Prairie, AB | Strad Inc | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436982856 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4414388631 |
+| Senior Coordinator, Transport | Loblaw | 2026-07-05 | J | https://ca.indeed.com/viewjob?jk=ccb5b458f10a32c0 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437106089 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437101361 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437106197 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436987827 |
+| Sales Associate | Foot Locker | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4406778662 |
