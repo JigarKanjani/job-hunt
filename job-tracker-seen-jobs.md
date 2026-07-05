@@ -13111,3 +13111,11 @@
 | Operations Consultant - Part Time | SEPHORA | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437123142 |
 | Media Buyer | Taurify | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436033926 |
 | Technical Support Specialist | Kognitive Sales Solutions | 2026-07-05 | R | https://ca.indeed.com/viewjob?jk=b6bad060c7655352 |
+| Operations Consultant - Part Time | Sephora | 2026-07-05 | J | https://ca.indeed.com/viewjob?jk=10e9efaefee1ac5e |
+| Operations Consultant - Flex | Sephora | 2026-07-05 | J | https://ca.indeed.com/viewjob?jk=4775566578ba181f |
+| Operations Consultant - Part Time | Sephora | 2026-07-05 | J | https://ca.indeed.com/viewjob?jk=5e28a3c6ce1c2657 |
+| Operations Consultant - Flex | Sephora | 2026-07-05 | J | https://ca.indeed.com/viewjob?jk=a0261349367e6f85 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437121574 |
+| Enrollment Advisor | Circuit Stream | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436049523 |
+| office administrator | Little Red River Group of Companies | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4437124456 |
+| Registered Psychotherapist or Registered Social Worker (Remo | LIV Mental Wellness | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4436039814 |
