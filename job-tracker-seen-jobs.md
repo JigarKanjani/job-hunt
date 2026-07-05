@@ -13089,3 +13089,6 @@
 | Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436982468 |
 | Senior Transportation Engineer | Egis in Canada | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4432446931 |
 | *Repost* Intake Assessor – Children’s Services | Siksika Family Services Corporation | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4436016875 |
+| Senior Coordinator, Transport | Loblaw Companies Limited | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436985565 |
+| Operations Administrator - Grande Prairie, AB | Strad Inc | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436982856 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4414388631 |
