@@ -13105,3 +13105,5 @@
 | Data Analyst - Finance (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437110299 |
 | AI Specialist (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436993871 |
 | Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436999878 |
+| High Voltage Equipment Specialist (HVDC/FACTS) | Jacobs | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4369428446 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437115096 |
