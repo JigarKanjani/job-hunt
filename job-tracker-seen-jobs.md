@@ -13107,3 +13107,5 @@
 | Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436999878 |
 | High Voltage Equipment Specialist (HVDC/FACTS) | Jacobs | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4369428446 |
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437115096 |
+| Operations Consultant - Flex | SEPHORA | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437123141 |
+| Operations Consultant - Part Time | SEPHORA | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4437123142 |
