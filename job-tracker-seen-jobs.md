@@ -13098,3 +13098,10 @@
 | Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437106197 |
 | Research Specialist (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436987827 |
 | Sales Associate | Foot Locker | 2026-07-05 | G | https://www.linkedin.com/jobs/view/4406778662 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437105643 |
+| C# Developer (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437117088 |
+| Rust Developer (Remote) | Quik Hire Staffing | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437104300 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437104649 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4437110299 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436993871 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-05 | R | https://www.linkedin.com/jobs/view/4436999878 |
