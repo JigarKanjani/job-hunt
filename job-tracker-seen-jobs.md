@@ -13119,3 +13119,5 @@
 | Enrollment Advisor | Circuit Stream | 2026-07-05 | J | https://www.linkedin.com/jobs/view/4436049523 |
 | office administrator | Little Red River Group of Companies | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4437124456 |
 | Registered Psychotherapist or Registered Social Worker (Remo | LIV Mental Wellness | 2026-07-05 | N | https://www.linkedin.com/jobs/view/4436039814 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436062111 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437119779 |
