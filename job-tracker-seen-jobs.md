@@ -13138,3 +13138,43 @@
 | Financial Investment Analyst (Remote) | Hired | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437185176 |
 | Data Analyst - Business (Remote) | Hire Feed | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437188099 |
 | Data Analyst - Finance (Remote) | Hire Feed | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437178516 |
+| Office & Patient Care Coordinator | Calgary Denture Clinic | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=05db50a0774d92df |
+| Analyst AI Enablement Student (4 months) - Fall 2026 | Mark's | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=d985007d750b1334 |
+| Customer Experience Associate (Precious Metals Analyst) | Ottawa Gold | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=bf1f02ffc4b419bf |
+| Automotive Service Advisor | Mount Pleasant Auto Service | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=07a8b9a0a077aebc |
+| Data Solutions Analyst, Business Enablement | Steel Reef | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437426573 |
+| LTL specialist | Pro-Formance Intermodal Inc. | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436228688 |
+| Payroll Benefits Specialist | Algo | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436232544 |
+| Waste Management Specialist | Pantheon Inc | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436234416 |
+| Quality Assurance & Control Coordinator (English & Mandarin) | AuthenBalance Corporation | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436243452 |
+| Enterprise Account Executive-Major Accounts | Samsara | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4433965776 |
+| Senior Control Systems Specialist | CDN | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4432114960 |
+| Contract Conformance Specialist | Airswift | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4433968540 |
+| Operations Coordinator | UFA | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436229253 |
+| SAP S/4HANA Test Lead – Brownfield Migration Calgary, AB (10 | BURGEON IT SERVICES | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4433990045 |
+| Piping Design Lead | HOCS Projects | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436233056 |
+| Asset Information Analyst | SPECTRAFORCE | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437433597 |
+| Process Analyst Intern | CPKC | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=eb982f60ac40ac6d |
+| Digital Document Coordinator (AI & Process Improvement) | WIKA Instruments Ltd | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=87c333e3558fb204 |
+| Clinical Trials Coordinator | University of Alberta | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=19400ebb3b2df59f |
+| Client Care Coordinator | IMPACT Health Innisfail | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=f1ddbdf04ef678b6 |
+| Office Administrator - Full Time | Bass Pro Shops | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437450183 |
+| Senior Insolvency Administrator | BNA Debt Solutions | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436242327 |
+| HR Business Analyst (Temp) | Stantec | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437464063 |
+| Data Analyst, HR (Contract opportunity) | The Salvation Army in Canada | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437418323 |
+| Intelligence Analytics Engineer | Xplore Inc. | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4433998098 |
+| Applied AI Platform Engineer | Mawer Investment Management | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436239893 |
+| Java Web Developer | TechDoQuest | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4433990078 |
+| Process Analyst Intern | CPKC | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437458371 |
+| Java Developer | Yochana | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436243065 |
+| Controls and Instrumentation Engineer ((Process Development) | MacDonald Search Group | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436239294 |
+| Food Processing Engineer | Phytokana Ingredients Inc. | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436234882 |
+| GYMVMT Personal Trainer - Calgary Trans Canada Centre | GoodLife Fitness | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4433990205 |
+| GYMVMT Personal Trainer - Calgary Beacon Heights | GoodLife Fitness | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4433988226 |
+| Parts Coordinator | MK Auto Group | 2026-07-06 | G | https://ca.indeed.com/viewjob?jk=39a889f28599bb80 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-07-06 | G | https://ca.indeed.com/viewjob?jk=36fe1a7a2f546b59 |
+| Customer Service Representative - Calgary | Indigo Park Canada Inc. | 2026-07-06 | G | https://ca.indeed.com/viewjob?jk=a94a682d5fe70275 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4433991116 |
+| Counter Sales Associate | Wolseley Canada Inc. | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437434102 |
+| Receiving Associate : Full Time - | The Home Depot Canada | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4436234732 |
+| Staples #110, Signal Hill - Sales Associate | Staples Canada | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437463270 |
