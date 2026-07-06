@@ -13123,3 +13123,18 @@
 | Data Science Expert - AI Content Specialist | Alignerr | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437119779 |
 | Entry-Level Administrative Assistant (Remote) | Recruitlytic Hiring | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437147404 |
 | Trainer | Alberta Health Services | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436075460 |
+| Transportation Design Technologist | Egis in Canada | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4432460537 |
+| Transportation Lead, Western Canada | Entuitive | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437403030 |
+| Office Administrator | Gateway Trailer Repairs Ltd. | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=92aa7109e12ca3e0 |
+| Health & Safety Coordinator | Denison Mines Corp. | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437192319 |
+| Planning & Performance Analyst | Government Of Alberta | 2026-07-06 | R | https://ca.indeed.com/viewjob?jk=f8a8cd75eab0605c |
+| Java Developer | Quantum World Technologies Inc. | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437402150 |
+| AI Trainer – Computer Science Expert - Graphical Abstract (F | Prolific | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436213068 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437182383 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437179567 |
+| Digital Content Safety Analyst | $35/hr Remote | Crossing Hurdles | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4427487201 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437179086 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437182313 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437185176 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437188099 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437178516 |
