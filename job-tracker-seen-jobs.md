@@ -13178,3 +13178,49 @@
 | Counter Sales Associate | Wolseley Canada Inc. | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437434102 |
 | Receiving Associate : Full Time - | The Home Depot Canada | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4436234732 |
 | Staples #110, Signal Hill - Sales Associate | Staples Canada | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437463270 |
+| Indigenous Youth Coordinator - North (Full Time) | YMCA Calgary | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=3aa5fb16b594fcf8 |
+| Human Resources & Payroll Specialist | Clear Water Academy | 2026-07-06 | J | https://ca.indeed.com/viewjob?jk=5235b86b8296f5a9 |
+| Operations Accountant | Parkland Corporation | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4433987558 |
+| HR Payroll Project Analyst | Manpower Alberta | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436246972 |
+| Planner, Maintenance | Saputo Inc. | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437468572 |
+| System Analyst, BPSS Operations | ATCO | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436251658 |
+| Business Development Advisor | Tundra Oil & Gas | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436262258 |
+| HR Coordinator / Administrative Assistant | Kaizen Automotive Group | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436264127 |
+| Administrative Operations Specialist, The Hotchkiss Brain In | University of Calgary | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437470488 |
+| Strategic Events and Sponsorships Coordinator - Centennial P | De Havilland Aircraft of Canada Limited | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437461354 |
+| Platform Development Lead | Krux Analytics Inc. | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437470441 |
+| Platform Development Lead (Krux) | IMDEX | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437458744 |
+| SAP Test Lead | VBeyond Corporation | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437457692 |
+| Estimating Lead / Estimator - Residential Construction & Tow | Oldstreet Development Corporation | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436252476 |
+| Administrative Coordinator, Indigenous Research Program | University of Calgary | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437475193 |
+| Regional Supervision Officer | BMO | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437457835 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4437468502 |
+| Waste Advisor | Brunel | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436245919 |
+| Senior Signal Specialist (Contract) | HDR | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436258407 |
+| Buyer | IWAFEE Intentions Institute Inc. | 2026-07-06 | J | https://www.linkedin.com/jobs/view/4436259327 |
+| Administrative Assistant / Marketing Coordinator | Onyx Construction Inc. | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=1aafaa3b3cfd62ae |
+| Department Coordinator | University of Alberta | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=9ec88d1ea643eef1 |
+| Part-time Community Communications & Marketing Coordinator | Sparrow Capital Inc. | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=4f8d7389d0f908cc |
+| Virtual Client Care Coordinator | Laura Gatien & Associates Counselling Se | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=826b7d8927ef6f29 |
+| Project Coordinator | Sunbelt Solomon | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=046f2a8ab1e37641 |
+| Part-Time Service Appointment Coordinator | Audi Southgate | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=4724c35830097144 |
+| Acupuncture Clinic Coordinator | Canadian Institute of Traditional Chines | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=877caf296700b07b |
+| Client Support Case Manager | Homefront | 2026-07-06 | N | https://ca.indeed.com/viewjob?jk=312afd5cd75e4256 |
+| Administrative Assistant | Shell | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436249763 |
+| Exam Administrator, Student Accessibility Services | University of Calgary | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4437457877 |
+| Senior Analyst - International Tax | Parkland Corporation | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4434500171 |
+| Business Development Advisor | Government of Alberta | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436242892 |
+| Engagement Advisor | Government of Alberta | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436242891 |
+| Contact Centre Advisor | Government of Alberta | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436260198 |
+| Information Officer | Government of Alberta | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436245908 |
+| Permit Coordinator | SINGH BUILDERS | 2026-07-06 | N | https://www.linkedin.com/jobs/view/4436261275 |
+| Support Specialist I - IT Infrastructure Services - Term (18 | City of Airdrie | 2026-07-06 | R | https://ca.indeed.com/viewjob?jk=b49092ec8394bab5 |
+| System Analyst, BPSS Operations | ATCO | 2026-07-06 | R | https://ca.indeed.com/viewjob?jk=3f81ae261d563735 |
+| Service Relationship Specialist | Manulife | 2026-07-06 | R | https://ca.indeed.com/viewjob?jk=8ef3020ceedcea90 |
+| Application Developer | Sobeys | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437458698 |
+| Disability Claims Coordinator- 4 month contract | Co-operators | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4437467765 |
+| System Integration Analyst | CAC Metal Recycling | 2026-07-06 | R | https://www.linkedin.com/jobs/view/4436268086 |
+| Administrative Assistant | Star Plumbing Inc. | 2026-07-06 | G | https://ca.indeed.com/viewjob?jk=108a0b63f966caa2 |
+| Concierge Associate | Holt Renfrew | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4436258358 |
+| Academic Support Administrator -Werklund School of Education | University of Calgary | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437464713 |
+| Associate Lawyer - Corporate Law | Urban Legal Recruitment Inc. | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4425546437 |
