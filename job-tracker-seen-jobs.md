@@ -13224,3 +13224,14 @@
 | Concierge Associate | Holt Renfrew | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4436258358 |
 | Academic Support Administrator -Werklund School of Education | University of Calgary | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4437464713 |
 | Associate Lawyer - Corporate Law | Urban Legal Recruitment Inc. | 2026-07-06 | G | https://www.linkedin.com/jobs/view/4425546437 |
+| Installation Technician, Lead Hand | Media Resources | 2026-07-07 | J | https://ca.indeed.com/viewjob?jk=0654ab41f7616e9c |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437733394 |
+| Proposal Support Coordinator | Bird Construction | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437733803 |
+| Informatics Advisor / Customer Service Representative | PBS Systems | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4434521010 |
+| Billing Operations Coordinator | Long View Systems | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4434501457 |
+| Lead Teacher | Junior Preschool | Centennial Campus | FB Education Services | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437724932 |
+| Supply Coordinator - Emergency | Alberta Health Services | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4436517574 |
+| Buyer | Ledcor | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437730607 |
+| Collision Repair Advisor | Dilawri Group of Companies | 2026-07-07 | N | https://ca.indeed.com/viewjob?jk=00c53989f5d95c8c |
+| Proposal Support Coordinator | Bird Construction | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4437729946 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4436529018 |
