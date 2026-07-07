@@ -13235,3 +13235,19 @@
 | Collision Repair Advisor | Dilawri Group of Companies | 2026-07-07 | N | https://ca.indeed.com/viewjob?jk=00c53989f5d95c8c |
 | Proposal Support Coordinator | Bird Construction | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4437729946 |
 | Protective Services Officer II | Alberta Health Services | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4436529018 |
+| EHS Program Manager - Calgary or Surrey | AFL | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437762870 |
+| Technical Sales Engineer/Specialist | Xylem | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4429100790 |
+| Field Leader - Greater Calgary Area | Chipotle Mexican Grill | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437753668 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4429150395 |
+| Collision Repair Advisor | Dilawri Group of Companies | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437766152 |
+| Transportation Engineer | HDR | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4418203212 |
+| Human Resources Services Coordinator | Advanced Medical Solutions | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4437741916 |
+| Contract - Support Worker | Calgary Alternative Support Services | 2026-07-07 | N | https://ca.indeed.com/viewjob?jk=acfc09a8bd0b4115 |
+| Family Counsellor | The Brenda Strafford Foundation | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4437766534 |
+| Food Prep Worker | Aramark Canada | 2026-07-07 | N | https://www.linkedin.com/jobs/view/4437764408 |
+| eLearning Experience & Facilitation Specialist | Alberta Pensions Services Corporation (A | 2026-07-07 | R | https://ca.indeed.com/viewjob?jk=b51792bdc2d8028c |
+| Service Desk Coordinator | Trimac | 2026-07-07 | R | https://ca.indeed.com/viewjob?jk=0aace35f75730f3b |
+| Online Data Analyst | Freelance Remote | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437762777 |
+| Online Data Analyst | Freelance Remote | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437763705 |
+| Online Data Analyst | Freelance Remote | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437762786 |
+| Vehicle Service Agent (Downtown Calgary branch) | SIXT | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4428015461 |
