@@ -13251,3 +13251,18 @@
 | Online Data Analyst | Freelance Remote | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437763705 |
 | Online Data Analyst | Freelance Remote | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437762786 |
 | Vehicle Service Agent (Downtown Calgary branch) | SIXT | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4428015461 |
+| Account Development Specialist | UAP Inc. | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4429201949 |
+| Asset Registry Analyst | Airswift | 2026-07-07 | J | https://www.linkedin.com/jobs/view/4434551156 |
+| Analyst | Primary Care Alberta | 2026-07-07 | R | https://ca.indeed.com/viewjob?jk=86d80fe2b92e3e83 |
+| MEAN Stack Developer | Iris Software Inc. | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4436808319 |
+| French Online Data Analyst | Remote Part-time | TELUS Digital AI Data Solutions | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437764924 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437786384 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437792080 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437796531 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437805111 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-07 | R | https://www.linkedin.com/jobs/view/4437789864 |
+| Virtual Solutions Advisor- Calgary-August 2026 | Scotiabank | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4436800706 |
+| The North Face: Sales Associate - Chinook Centre | The North Face | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4427789021 |
+| Project Coordinator | Rising Edge Group | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4437808414 |
+| Fractional Controller | Canada's Sports Hall of Fame | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4436584840 |
+| Field Project Coordinator | Rising Edge Group | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4437817083 |
