@@ -13362,3 +13362,17 @@
 | Sales Associate - Hyatt Infiniti | AutoCanada | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4418513194 |
 | Associate Portfolio Underwriting | ATB Financial | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438205084 |
 | General Merchandise Associate | Walmart Canada | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4416858307 |
+| Community Worker Part-Time | Calgary Alternative Support Services | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=b18d2aa56eb93939 |
+| Project Coordinator | Chandos Construction | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4428404168 |
+| System Administrator COTS Middleware (Qlik) | Logic 2000 | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=64eba94f6e8b4a80 |
+| Technical Operations Specialist | Uberall | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=7e910ba9313ba509 |
+| Remote Technical Support Representative | Merkle ME | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=ea21aecc5435a891 |
+| Data Analyst - Business (Remote) | Hire Feed | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438207810 |
+| Data Quality Analyst | Remote | Crossing Hurdles | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4426824508 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438233239 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438227485 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438222658 |
+| Equity Research Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4418564128 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438209712 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Sales Associate | South Centre | Part Time | $17 per hour | Michael Hill | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4428477402 |
