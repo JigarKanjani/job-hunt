@@ -13308,3 +13308,21 @@
 | Sales Associate | Guess?, LLC. | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438114924 |
 | Insurance Litigation Associate | Life After Law | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4436875476 |
 | Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4434810115 |
+| Technical Specialist, Chemical and Petroleum Engineering | University of Calgary | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=7596684ba7e65858 |
+| Executive Assistant and Coordinator Portfolio Initiatives, V | University of Calgary | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=e560a8c216d63a96 |
+| Team Lead Alberta - Administrative Services | FirstService Residential | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=f62ba64850b4388d |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438142435 |
+| Intermediate Security Operations Center Analyst *Future Oppo | Long View Systems | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434807776 |
+| Marketing Coordinator | Karma Campervans | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437005121 |
+| Hydraulic Hose & Fitting Specialist | Wajax | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438149190 |
+| Financial Planner - North Hill | TD | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438133676 |
+| Materials Technician | Ledcor | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438147675 |
+| Property Administrator | Deveraux Group of Companies | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=229a2e2d52483d9a |
+| Client Services Administrator | AGAT Laboratories | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4434806673 |
+| Payroll Administrator | CAM Industrial Solutions LLC | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4437870661 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4438141245 |
+| Entry-Level Administrative Assistant (Remote) | ReLytics Hire | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4438146359 |
+| Customer Service Representative - AV Rental Shop | Starlite Sales & Rentals Ltd | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=9870e38ea8b3552f |
+| Customer Service Representative - AV Rental Shop | Starlite Sales & Rentals Ltd | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=4605210a7182d244 |
+| Customer Experience Associate - Calgary, AB (11.25 hours/wee | Scotiabank | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4436882717 |
+| Personal Banking Associate | BMO | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438132693 |
