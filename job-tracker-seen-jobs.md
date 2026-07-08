@@ -13376,3 +13376,47 @@
 | Financial Investment Analyst (Remote) | Hired | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4438209712 |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Sales Associate | South Centre | Part Time | $17 per hour | Michael Hill | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4428477402 |
+| Research Associate Analyst | National Bank of Canada | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=8171407aaada94a5 |
+| Contract Analyst | CEDA | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=20b61cac0081bb2d |
+| Document Control Specialist | CANUSA EPC | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=e84d701713c76286 |
+| Business Operations Coordinator | Sobeys | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=44a8b277ad7ece9e |
+| Buyer - Supply Chain Management | Ensign Energy Services Inc. | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=0967e430230a206c |
+| Policy Coordinator | Government Of Alberta | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=1c0dcfb9dc157fa8 |
+| Student Supply Chain & Fleet Management Coordinator | Bird Construction | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438285299 |
+| Coordinator, Receiving (CAN) | Serta Simmons Bedding, LLC | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438281452 |
+| IT Business Operations Analyst | Hays | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438272524 |
+| Accounts Payable Specialist | 7-Eleven | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438289054 |
+| Accounting Analyst | Parkland Corporation | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437074778 |
+| Financial Planning & Analysis Analyst | Mawer Investment Management | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437083515 |
+| Accounting Analyst | Parkland Corporation | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437088175 |
+| Glazing Project Coordinator | Flynn Group of Companies | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4428402161 |
+| Mineral/Contracts Land Analyst | Invico Capital Corporation | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437069898 |
+| IT Data & Financial Operations Analyst | BPT Staffing | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437082300 |
+| Research Associate Analyst | National Bank of Canada | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434885650 |
+| Coordinator, Accounting | Avenue Living | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438264507 |
+| Analyste associé en recherche | National Bank of Canada | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434879735 |
+| Mentoring Coordinator, School Programs | Big Brothers Big Sisters of Calgary & Ar | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437073595 |
+| Change Management Specialist | ATB Financial | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4436900585 |
+| Claims Leader - Accident Benefits (Alberta Care First) | Aviva Canada | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4428716371 |
+| Senior Benefits Specialist - 12 Month Contract | TYLin | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4428411041 |
+| Regional Marketing Specialist | Fix Network World | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434881500 |
+| Supervisor - Field Operations | CDN | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438280720 |
+| Business Advisor - Calgary Marda Loop | ATB Financial | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=8ec6a74f6ad97e1e |
+| Coordinator, Receiving (CAN) | Serta Simmons Bedding | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=a98f245f727a4c06 |
+| Disability Case Manager II - 12 month contract | Co-operators | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=42ec7ca9ff0f75b6 |
+| Patient Experience Coordinator | Ascent Health & Sport Therapy | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=81707a539cf7fab6 |
+| Administrative Assistant | BTY Group | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4430564939 |
+| Senior Analyst, MU Insurance Compliance and Solutions | Canada Mortgage and Housing Corporation  | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4438263450 |
+| Administrative Assistant - Calgary, AB | Canada Career Counselling | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4437068911 |
+| Sales Advisor | IRIS The Visual Group | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4437095387 |
+| Service Administrator | UFA | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4435266564 |
+| Intermediate HR Transformation (Change) Specialist - Remote | A&A Consulting | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=eebc58a36040d558 |
+| Application Support Analyst - EAM | Trapeze | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=379861539f2e1943 |
+| Methods Analyst I -ECOMB Methods Analyst | City of Edmonton | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=fd83703983f440ca |
+| Sap Advanced Business Application Programming Developer | ThoughtStorm | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4437071663 |
+| GYMVMT Personal Trainer - Calgary | GoodLife Fitness | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4434871999 |
+| Process Engineer – Mid Level (Hybrid/Remote) | Barr Engineering Co. | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4427371161 |
+| Data Analyst | RigUp | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4434880210 |
+| Pension Systems Configuration & Testing Specialist (100% rem | TELUS Health | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4429968410 |
+| Beauty Sales Specialist (Full-Time) | Modern Beauty | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=ab97f5136d148a66 |
+| Plant Controller | RECRUITMENT PARTNERS INC. | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4429721698 |
