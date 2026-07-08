@@ -13266,3 +13266,45 @@
 | Project Coordinator | Rising Edge Group | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4437808414 |
 | Fractional Controller | Canada's Sports Hall of Fame | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4436584840 |
 | Field Project Coordinator | Rising Edge Group | 2026-07-07 | G | https://www.linkedin.com/jobs/view/4437817083 |
+| Analyst Procurement Services | CPKC | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=1cb91c7f7bcaba88 |
+| Membership Coordinator | Calgary Winter Club | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=657f740fe22ff3e8 |
+| Development Officer, Donor Relations (Parental Leave Coverag | Wilder Institute/Calgary Zoo | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=abe5e32179e7a0f7 |
+| Elder Abuse and Network Coordination Lead | Carya | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=9cef5291e7f27f9d |
+| Elder Abuse and Network Coordination Lead | Carya | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=424952662c72ad7c |
+| Specialist, Advocacy Communications | Canadian Cancer Society | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=debd2beb536f54c5 |
+| SCCR-Student Care Coordinator | Lifemark Health Group | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=3e33ecd8dc6f4cdf |
+| Hygiene Coordinator | North Calgary Dental Specialists | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=6eef02746535fe5b |
+| Accounts Receivable Analyst | S.i. Systems | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=d420bdcf4bd83863 |
+| Operations Supervisor (Municipal) | BluPlanet Recycling | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=13c2c9b944ea7fd4 |
+| Network Specialist II - IP Core Assurance | Telus | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=1260fdfd0bfaf9ab |
+| Financial Analyst | Southern Alberta Institute of Technology | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=fc1b5a0982a0503e |
+| Group Logistics Manager | Ryder System | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=60304e8b49554729 |
+| Project Coordinator / Field Engineer - Industrial | Ledcor | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=a73fda3b99446237 |
+| IT Data Analyst  - Financial Operations | MatchBox Consulting Group | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437890954 |
+| Machine Learning/Operations Research Platform Engineer | Kinaxis | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438105977 |
+| Financial Specialist | Trouw Nutrition | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4436865786 |
+| Service Advisor (Jaguar-Land Rover Calgary) | Go Auto | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438105564 |
+| Membership Coordinator | Calgary Winter Club | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4436859884 |
+| Shipping/Receiving Coordinator (Temporary) | ChampionX | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437862635 |
+| Operational Lead | Mount Royal University | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434806029 |
+| Student Service Specialist | Mount Royal University | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434577146 |
+| Compliance Lead, Canada | Affirm | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4436877433 |
+| Permit Coordinator | TransAlta | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438103198 |
+| Insurance Advisor | Westland Insurance Group Ltd. | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434584886 |
+| Fleet Coordinator | Environmental 360 Solutions | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=ca9cf1d647838c95 |
+| Legal & Compliance Coordinator | LendingArch | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=871e609b80ed1708 |
+| Property Administrator | Deveraux Group of Companies | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4436878150 |
+| Analyst Procurement Services | CPKC | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4438120802 |
+| Network Specialist II - IP Core Assurance | TELUS | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4436876302 |
+| Senior Insurance Advisor | Westland Insurance Group Ltd. | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4434592655 |
+| Business / Systems Analyst | Aequilibrium Software Inc. | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=e869396338c33658 |
+| Catalog Analyst | TecAlliance GmbH | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=19a6a13d34a9c155 |
+| Technical Analyst (Tier 2) | Flair Airlines Ltd. | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=28d7ab9f818d6953 |
+| Continuous Improvement Coordinator | Canadian Natural | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=c598ed52c6767d80 |
+| Receptionist | Miller Thomson LLP | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=f7ad3a6e86fef8eb |
+| Wellness Collective Facilitator | Carya | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=24d3a35fda32faaf |
+| Insurance Advisor | Westland Insurance Group | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=f4fdd0fed8d69171 |
+| Sales Associate Full Time - Sunridge Mall | Wow! Mobile Boutique | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=486ad73e880dac45 |
+| Sales Associate | Guess?, LLC. | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438114924 |
+| Insurance Litigation Associate | Life After Law | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4436875476 |
+| Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4434810115 |
