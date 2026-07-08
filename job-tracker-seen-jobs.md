@@ -13326,3 +13326,14 @@
 | Customer Service Representative - AV Rental Shop | Starlite Sales & Rentals Ltd | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=4605210a7182d244 |
 | Customer Experience Associate - Calgary, AB (11.25 hours/wee | Scotiabank | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4436882717 |
 | Personal Banking Associate | BMO | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438132693 |
+| HSE Advisor | SECURE | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437010601 |
+| OFCI Integration Lead | Bird Construction | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438164411 |
+| Fab & Self Perform Commissioning Lead | Bird Construction | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438165301 |
+| Controls / BMS / IST Lead | Bird Construction | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438165292 |
+| Peer Support Worker | Recovery Alberta | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=ba8550c646b6ee3f |
+| Workforce Coordinator | Westerner Park | 2026-07-08 | N | https://ca.indeed.com/viewjob?jk=259efd198941e9a2 |
+| HSE Advisor | SECURE | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4437026052 |
+| Data Analyst | Envita Medical Centers | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=2693f3e9468c94e7 |
+| AUTOMATION PROFESSIONAL | MPE a division of Englobe | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4434832158 |
+| Administrative Support III | Primary Care Alberta | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=93a6d71816c3f54a |
+| Receptionist- Casual | COGIR Real Estate | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438157595 |
