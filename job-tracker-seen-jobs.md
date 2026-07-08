@@ -13337,3 +13337,28 @@
 | AUTOMATION PROFESSIONAL | MPE a division of Englobe | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4434832158 |
 | Administrative Support III | Primary Care Alberta | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=93a6d71816c3f54a |
 | Receptionist- Casual | COGIR Real Estate | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438157595 |
+| Lead - Provincial Solution Centre | Alberta Health Services | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=fe4ec9e4b9ee855b |
+| IT Support Analyst | Northwestern Polytechnic | 2026-07-08 | J | https://ca.indeed.com/viewjob?jk=52d6c2346ffdc5e2 |
+| BI Data Analyst | Gunvor Group | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4434837382 |
+| Credit Strategy Analyst | Haventree Bank | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4429741488 |
+| PepsiCo Foods Canada- Fall 2026 Fleet Supply Chain Co-op | PepsiCo | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4426875668 |
+| Senior Algorithm Developer – Production Scheduling (Saas Sup | Kinaxis | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4410512534 |
+| HSE Advisor | SECURE | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438196669 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4438209334 |
+| Microsoft Dynamics 365 Technology & Solution Delivery Lead | Finning | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4437029350 |
+| Geoscience / Geotechnical Lead | Worley | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4410794371 |
+| Drug Benefit Analyst – Pharmaceutical Product & Pricing Admi | Alberta Blue Cross | 2026-07-08 | J | https://www.linkedin.com/jobs/view/4426879579 |
+| Chief Accounting Officer - CAN | Kinaxis | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4429577496 |
+| HSE Advisor | SECURE | 2026-07-08 | N | https://www.linkedin.com/jobs/view/4438209181 |
+| Business Analyst | Alberta Health Services | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=4966049f6a062b33 |
+| Human Resources and Payroll Specialist | Clear Water Academy | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=a5a32afaca9fd153 |
+| Catalog Analyst | TecAlliance GmbH | 2026-07-08 | R | https://ca.indeed.com/viewjob?jk=57233c3c03184216 |
+| Go Developer | $90/hr Remote | Crossing Hurdles | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4428465751 |
+| Data Quality Analyst | Remote | Crossing Hurdles | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4426824508 |
+| Equity Research Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4418564128 |
+| Mining Technology Implementation Specialist | Finning | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4428042886 |
+| Mining Technology Implementation Specialist | Finning | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4428048838 |
+| Customer Support Associate, SMB | Rokt | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4426846471 |
+| Sales Associate - Hyatt Infiniti | AutoCanada | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4418513194 |
+| Associate Portfolio Underwriting | ATB Financial | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4438205084 |
+| General Merchandise Associate | Walmart Canada | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4416858307 |
