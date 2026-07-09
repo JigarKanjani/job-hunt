@@ -13574,3 +13574,52 @@
 | Sales Associate | SNDL Inc. | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437557983 |
 | Tag Line Associate - Afternoon | Modine Manufacturing Company | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438805265 |
 | Tag Line Associate - Morning | Modine Manufacturing Company | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438693869 |
+| Maintenance Coordinator, Stationary | Canlin Energy Corporation | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=eff53895077bb20c |
+| Facilities Team Lead - UCalgary Continuing Education | University of Calgary | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=79a80cd705ef6152 |
+| Billings / AR Coordinator | drilling services | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=d421532c30fa2e2c |
+| Operations Compliance Analyst | Equinix | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=79df626f0ff47653 |
+| Logistics Coordinator | Gambles Group of Companies | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=b7e57da75c452635 |
+| Core Facilities Strategy and Operations Lead | University of Alberta | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=757de003fbe0aa57 |
+| Project Coordinator | Bird Construction | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=904140d6cde0ac21 |
+| New Grad Communications Coordinator - 1 Year Limited Term | Energy Safety Canada | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=7215ffb2a4af9722 |
+| Business Analyst-CBAP certification (or equivalent) preferre | Q1 Technologies, Inc. | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435904760 |
+| Business Analyst - Cyber security | J&M Group | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438826607 |
+| Analyst Program Management | CPKC | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438824320 |
+| Operations Compliance Analyst | Equinix | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435904749 |
+| Maintenance Coordinator, Stationary | Canlin Energy Corporation | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438820940 |
+| Area Occupational Health and Safety Coordinator | Government of Alberta | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437904546 |
+| Services Team Leader – Resource Management | Baker Hughes | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438830111 |
+| Senior Trade Advisor | Government of Alberta | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437911432 |
+| Global Talent Acquisition Specialist - 18 Month Term | Hexagon Autonomous Solutions | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438828449 |
+| Operational Excellence Lead: BioVectra | Agilent Technologies | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438811855 |
+| Marketing Science Lead | Critical Mass | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437913425 |
+| IT System & Application Support Specialist | Startec Compression & Process and Starte | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438826090 |
+| Civil Substation Lead Engineer | CIMA+ | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438817430 |
+| Business Analyst – Technology Management | ATCO | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437912509 |
+| Product Operations Lead | Banff Avenue | lululemon | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435903892 |
+| Reflections – Weekday Child and Youth Care Counsellor | Hull Services | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=0b0dcd01ce2f547f |
+| School Bookings Coordinator - Full Time | YMCA Calgary | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=382c996e7ec82d70 |
+| Coverage Office Administrator | CBI HEALTH | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=d142b804beb965b0 |
+| Financial Advisor | RBC | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=93330a77eb4f7d56 |
+| JUNIOR LOGISTICS / TRAFFIC COORDINATOR | Bagatelle International | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=46e3c1915f8a4f13 |
+| Sport Coordinator (Part Time) | YMCA Calgary | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=862f0a6f284c2f2c |
+| Health and Safety Coordinator | Matheson Constructors | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=4140c77f3b2205ab |
+| Patient Services Specialist - Part Time | FYihealth group | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437906583 |
+| Patient Services Specialist - Casual | FYihealth group | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437911548 |
+| Patient Services Specialist - Casual | FYidoctors | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437736004 |
+| Delivery Program Manager (remote contract) | Ateko, backed by Bell Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437922083 |
+| Regional Resuscitation Program Specialist – AB, SK - 12 Mont | Heart & Stroke | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438813503 |
+| Payroll Coordinator | PCL Construction | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438822664 |
+| Human Resources Advisor | AMA - Alberta Motor Association | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438816882 |
+| Human Resources Administrative Assistant | Northland School Division | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437909268 |
+| Priority Issues Coordinator | Government of Alberta | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437910413 |
+| Learning Coordinator - GLMS Tester | KPMG Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438806583 |
+| Business Analyst – Technology Management | ATCO Energy Systems | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=65362fd4a0be2060 |
+| Junior Structural Engineer (Steel Storage Systems) | Solico Metal | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437586739 |
+| Technology Coordinator | PCL Construction | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438826565 |
+| Administrative Assistant | InspectaCAR inc. | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=84941328e05782d1 |
+| Communications Specialist | Closer to Home Community Services | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=c591a0c606465204 |
+| Lawyer (Litigation Associate) | Bow River Law LLP | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=e712a5428f69ffc0 |
+| Private Banking Associate | BMO | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4436786915 |
+| Personal Banking Associate | BMO | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438822813 |
+| Personal Banking Associate | BMO | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4436799463 |
