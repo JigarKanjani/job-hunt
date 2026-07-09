@@ -13517,3 +13517,60 @@
 | Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438646079 |
 | C# Developer (Remote) | Hire Feed | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438634447 |
 | Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438635030 |
+| Area Occupational Health and Safety Coordinator | Government Of Alberta | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=156fd027199ded4d |
+| Senior Trade Advisor | Government Of Alberta | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=ef89813bf789973c |
+| Project Coordinator | Dawson Wallace Construction Ltd. | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=94eb6fc92fe8715b |
+| Services Team Leader – Resource Management | Baker Hughes | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=7158b3d35695ad06 |
+| Long-term Planner III | Finning | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=8699d1773aa177ab |
+| Software Implementation Specialist - Trimble Transport Manag | Robert Half | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437562958 |
+| Lead Budgeting, Forecasting & Financial Reporting (2026-0574 | Carewest Innovative Health Care | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438680813 |
+| Senior Business Analyst – Product Development | CBL Solutions | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438676679 |
+| Lead Consultant - SAP ATTP | Infosys | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435905382 |
+| HACCP COORDINATOR  - MOUNTAIN CREEK FARMS-CALGARY, AB | JBS USA | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438696457 |
+| Training Solutions Specialist | BSI | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4418819311 |
+| Team Leader | Dollarama | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4417248562 |
+| Tenant Relations Coordinator | TalentSphere Staffing Solutions | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4430122636 |
+| Marketing, Branding and Events Lead | Branch Out Neurological Foundation | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437576319 |
+| Business Analyst | LanceSoft, Inc. | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437903051 |
+| Data Annotation Specialist, Data Science | Cohere | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428725275 |
+| Lead Automation Engineer | Flexpipe | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4430152037 |
+| Evaluation and Measurement Analyst | KPMG Canada | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438813388 |
+| Service & Warranty Coordinator | Trico Homes | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=afeb3de80c5d247b |
+| Service & Warranty Coordinator | Trico Residential | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=fd1c5ef57b384939 |
+| Issues Advisor | Government Of Alberta | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=d81abcab7ba85f79 |
+| Senior Contingent Workforce Program Advisor | TC Energy | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=2bd3273225bf9766 |
+| Communications Administrator | YWCA | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=0f4fc774747d9cec |
+| Office Administrator (leave coverage) - National Spine Locat | Momentum Health | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=104f6a8983cbfb43 |
+| Principal EDS Specialist | Worley | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=d7a6dffa1f37df4a |
+| Coverage Office Administrator (part time) - All Locations | Momentum Health | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=c95dd5e6d72f25a1 |
+| Member Governance Coordinator | Foresters Financial | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=ee085d2d21de0241 |
+| Coordinator, Operations | Navacord | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=de3cd1c968e8caf3 |
+| Profit Centre Administrator | Emco Corporation: Plumbing, HVAC, Waterw | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4435909312 |
+| Administrative Assistant | InspectaCAR Inc. | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437580761 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437595298 |
+| Learning Coordinator - GLMS Tester | KPMG Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438817227 |
+| System Administrator | TEEMA | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437597186 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437585570 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437579729 |
+| Assessment Administrator - Grande Prairie | University of Alberta | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438667675 |
+| Legislative Services and RSIT Coordinator | Town of Raymond | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437577097 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437585626 |
+| Program Coordinator | University of Alberta | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438671538 |
+| Branch Administrator | National Bank of Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4435910421 |
+| Scheduling Coordinator - Signature Orthodontics | Corus Orthodontists | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438115008 |
+| SQL Developer | Network Innovations (NI) | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=ad04c94c16afb520 |
+| Business Analyst | smart solution | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=6631a35d7069948a |
+| Economic Development Specialist | Town of Ponoka | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=1d7786cb542fd33c |
+| Business Development Professional, Channel Partner, Protecti | Siemens | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4429002286 |
+| Personal Trainer | Crunch Fitness Canada | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438688927 |
+| Personal Trainer - Calgary Stephen Avenue | GoodLife Fitness | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4435698657 |
+| Technical Trainer | Insight Global | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437597194 |
+| Mac MSP Help Desk Support Guru (work from home) | Ignition | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437570737 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438670501 |
+| On-Call Receptionist | Docere Wellness Centre | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=d600e1ebbec6e3d3 |
+| Crew Scheduler | Central Mountain Air | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=478a0d046a4de31e |
+| Customer Service Representative (Motivator) - Calgary Stephe | GoodLife Fitness | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4435912419 |
+| Sales Associate (Mission) | Knix | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438695200 |
+| Sales Associate | SNDL Inc. | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437557983 |
+| Tag Line Associate - Afternoon | Modine Manufacturing Company | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438805265 |
+| Tag Line Associate - Morning | Modine Manufacturing Company | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438693869 |
