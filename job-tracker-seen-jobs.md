@@ -13462,3 +13462,18 @@
 | Yard Associate - Calgary | Master Halco | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437336254 |
 | System Controller in Training | Alberta Electric System Operator (AESO) | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437334529 |
 | Lumber Sales Associate : Part Time - Country Hills | The Home Depot Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437335145 |
+| Logistics Specialist | SLB | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=3e489e524ab29563 |
+| Service Advisor | New West Truck Centres | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=c961384ee2673574 |
+| Technology Lead | Infosys | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=a9ebfd480568a8d0 |
+| Program Coordinator, Capital Expansion | CASA Mental Health | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=ee0331f05a1f7477 |
+| Technology Lead | Infosys | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435627753 |
+| Financial Advisor | RBC | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438589357 |
+| Oracle Data Reporting Lead | Accenture | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437354221 |
+| Lead Security Architect | KPMG Canada | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438600169 |
+| Training & Orientation Coordinator | Backwoods Energy Services | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438592456 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437374331 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437364792 |
+| Java Microservices Developer | Infosys | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=9bc75ebccc9fb399 |
+| Responsable, Oracle Data Reporting | Accenture | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437351470 |
+| Personal Banking Associate | TD | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=7916c32916348018 |
+| Associate, Tax Law M&A | KPMG Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438597274 |
