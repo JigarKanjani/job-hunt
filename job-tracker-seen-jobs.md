@@ -13420,3 +13420,45 @@
 | Pension Systems Configuration & Testing Specialist (100% rem | TELUS Health | 2026-07-08 | R | https://www.linkedin.com/jobs/view/4429968410 |
 | Beauty Sales Specialist (Full-Time) | Modern Beauty | 2026-07-08 | G | https://ca.indeed.com/viewjob?jk=ab97f5136d148a66 |
 | Plant Controller | RECRUITMENT PARTNERS INC. | 2026-07-08 | G | https://www.linkedin.com/jobs/view/4429721698 |
+| Senior Integrity Application Specialist | ROSEN Group | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=2dc77686e74dcc45 |
+| Supervisor - Field Operations | CDN Controls ULC | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=c4b2c421a95acddc |
+| Lead Technician | Luxuria Group | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=b2578c5f8bd241f8 |
+| REFC-Referral Coordinator | Lifemark Health Group | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=28f8169f402537aa |
+| Technical Design Specialist - Calgary and Strathmore, AB | Magnum Cementing Services | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=b86229dbe9b6d8ea |
+| Technical Design Specialist - Calgary and Strathmore, AB | Magnum Cementing Services | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=a5e73c4ca7a73f58 |
+| Business Analyst - Digital Enablement | Calgary Health Foundation | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=3da78e43370abef7 |
+| Supervisor - Field Operations | CDN Controls ULC | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=78600e2ad2b02a8b |
+| HACCP COORDINATOR - MOUNTAIN CREEK FARMS-CALGARY, AB | JBS Foods | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=a98ec8ceb49fb443 |
+| Business Solutions Specialist | ICE Western Sales | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437330059 |
+| Market Sales Coordinator | OPENLANE | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435607364 |
+| Branch Care Coordinator | Air Liquide | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438544422 |
+| HACCP COORDINATOR  - MOUNTAIN CREEK FARMS-CALGARY, AB | JBS Food Canada | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437331207 |
+| Senior Integrity Application Specialist | ROSEN | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438546035 |
+| Sales Account Executive – Building Materials | Mason Menu | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437328232 |
+| Conversion Optimization Specialist | Remote | Performance Ma | Atomic - Remote Jobs | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437335368 |
+| Specialist, Advocacy Communications | Canadian Cancer Society | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4436838042 |
+| Senior Advocacy Specialist | Canadian Cancer Society | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437324453 |
+| Senior CorpSec Analyst | Clio | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437336150 |
+| Resources Coordinator - Terrestrial Science | WSP in Canada | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437330669 |
+| Logistics Site Supervisor | Agilus Work Solutions | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437311721 |
+| Shipping & Receiving Coordinator | Neogen Corporation | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4429361998 |
+| Scheduling coordinator | Home Care | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=ff4fcdf264725274 |
+| Automotive Delivery Coordinator | Kaizen Automotive Group | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=5415906b31790547 |
+| Case Manager, wâwâhtêwa Arts and Culture Hub | Boyle Street Community Services | 2026-07-09 | N | https://ca.indeed.com/viewjob?jk=8b0941c93f5a9656 |
+| Administrative Assistant - Part time | Avis Budget Group | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437327740 |
+| Admissions Advisor (Full-Time) – Tagalog Speaking Preferred | ABM College | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438543844 |
+| Resources Coordinator - Terrestrial Science | WSP in Canada | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437341303 |
+| Branch Care Coordinator | Air Liquide Healthcare | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438534858 |
+| Business Development & Customer Success Coordinator | NextLayer Lab Ltd | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4437322877 |
+| Junior Payroll Administrator | Canada ICI Capital Corporation | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438559185 |
+| Resources Coordinator - Terrestrial Science | WSP | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=ec5143f0c32f69f7 |
+| Billing Systems Specialist | ABSORB | 2026-07-09 | R | https://ca.indeed.com/viewjob?jk=aab86180cfcfb8e3 |
+| Receptionist Casual-Aspen Calgary Alberta, CAN View Job | Silvera For Seniors | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=54345b6e4759ef68 |
+| Associate, Commercial National Accounts | TD | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=85a97f45a7e35130 |
+| Office Services Professional | AlixPartners | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4435601745 |
+| Part-Time Community Associate | Regus | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438534666 |
+| Front Desk Agent | Pomeroy Lodging | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4435615213 |
+| Luxury Part-Time Receptionist (Go Auto) | Go Auto | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438543086 |
+| Yard Associate - Calgary | Master Halco | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437336254 |
+| System Controller in Training | Alberta Electric System Operator (AESO) | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437334529 |
+| Lumber Sales Associate : Part Time - Country Hills | The Home Depot Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4437335145 |
