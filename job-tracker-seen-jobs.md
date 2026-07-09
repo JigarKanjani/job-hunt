@@ -13496,3 +13496,24 @@
 | Associate Sales Representative - Extremities - Calgary | Stryker | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4429003204 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4415297718 |
 | Stock Unloader Associate | Walmart Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4416875103 |
+| Buyer | Phoenix Fence Inc. | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=e4d9f4a3a0ee8c69 |
+| Senior Integrated Logistics Support Specialist | Calian | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=b8bb45851528c821 |
+| Project Coordinator | Aecon Group Inc. | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428717312 |
+| HR Delivery Analyst | ENMAX | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437548848 |
+| Customer Success Learning Specialist | Clio | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428739640 |
+| Oracle Payroll Lead | Accenture | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4360457866 |
+| Issues Advisor | Government of Alberta | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4437571041 |
+| Senior Business Analyst | Raas Infotek | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4438504465 |
+| Mobile Mortgage Advisor - (Commission Only) - Calgary, Alber | CIBC | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4401530094 |
+| Enterprise Solutions Engineer, Alberta | Verkada | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4419915460 |
+| Supply Chain Manager | $65/hr Remote | Crossing Hurdles | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4430437375 |
+| Base Material Coordinator-FR | Top Aces | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4409986469 |
+| Public Administrator | $65/hr Remote | Crossing Hurdles | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4428477749 |
+| Enterprise Risk Management Specialist - Relocation to Saudi  | aramco | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4432234687 |
+| System Administrator | LanceSoft, Inc. | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437562285 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438642146 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438635440 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438637436 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438646079 |
+| C# Developer (Remote) | Hire Feed | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4438634447 |
+| Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438635030 |
