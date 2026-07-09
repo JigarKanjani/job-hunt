@@ -13477,3 +13477,22 @@
 | Responsable, Oracle Data Reporting | Accenture | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437351470 |
 | Personal Banking Associate | TD | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=7916c32916348018 |
 | Associate, Tax Law M&A | KPMG Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438597274 |
+| Business Analyst, Corporate Finance | Calgary Board Of Education | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=d7500d9d0adc7b07 |
+| Senior Coordinator | Alberta Health Services | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=1eeb1adf7873cb73 |
+| Team Lead | Alberta Health Services | 2026-07-09 | J | https://ca.indeed.com/viewjob?jk=f28a59298ccd1341 |
+| Logistics Specialist | SLB | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4435653843 |
+| Specialist, Events & Communications - 12 Month Term | Benevity | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428742875 |
+| Solution Architect, Enterprise Applications | Kinaxis | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4429995638 |
+| Leadership Development Facilitator | Benevity | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428759636 |
+| Lead Engineer, Customer Access Studies (CAS) | Alberta Electric System Operator (AESO) | 2026-07-09 | J | https://www.linkedin.com/jobs/view/4428785556 |
+| Senior Administrative Assistant | Raytheon | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438601674 |
+| EPL Outreach Worker - Stanley A. Milner Library | City of Edmonton | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4435661721 |
+| Public Sector Specialist | $65/hr Remote | Crossing Hurdles | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4428482696 |
+| Trust Administrator | BMO | 2026-07-09 | N | https://www.linkedin.com/jobs/view/4438597746 |
+| Account Executive - Platform | DoorDash | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4408941697 |
+| Data Quality Analyst | Remote | Crossing Hurdles | 2026-07-09 | R | https://www.linkedin.com/jobs/view/4437393373 |
+| Administrative Support IV | Alberta Health Services | 2026-07-09 | G | https://ca.indeed.com/viewjob?jk=a8a533f9df48c0bd |
+| Personal Banking Associate | TD | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4438593924 |
+| Associate Sales Representative - Extremities - Calgary | Stryker | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4429003204 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4415297718 |
+| Stock Unloader Associate | Walmart Canada | 2026-07-09 | G | https://www.linkedin.com/jobs/view/4416875103 |
