@@ -13666,3 +13666,24 @@
 | Customer Service Representative (Motivator) - Calgary Trinit | GoodLife Fitness | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4435936173 |
 | Controller | STRIVE Recruitment Inc. | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438872678 |
 | Sales Associate-Print&Services | Staples Canada | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438871607 |
+| Business Analyst II – Microsoft Dynamics & Enterprise Soluti | Finning | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=35f6b3937f817060 |
+| Supply Chain Management Business Partner, Core Programs | Enbridge | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=7e961f65d9c436e9 |
+| Specialist, Supply Chain Management Indigenous Engagement | Enbridge | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=338fdd4202107a15 |
+| Procurement Administrator, Services | Boardwalk | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437971421 |
+| Technical Support Analyst | PBS Systems | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4435944540 |
+| FT Support Coordinator - Home Services - Home 16 (Main)- 34  | Winnifred Stewart | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=548df5f5cfaf77d0 |
+| Social Worker (SW-CA24-001) - Bethany Calgary | Bethany Care Society | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=676ca036d9ca6274 |
+| Communications Specialist | Closer to Home Community Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438898966 |
+| Tax Compliance Administrator | Moodys Private Client | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439018148 |
+| Coordinator II | Alberta Health Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4437974237 |
+| Coordinator II | Alberta Health Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4437964477 |
+| Preventative Maintenance Coordinator | Boardwalk | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4437964552 |
+| Protective Services Officer II | Alberta Health Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4437961551 |
+| US Tax Analyst | Harris Computer | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=4e40f19fb2ad20bf |
+| Transactions Support, Analyst | Groupe Mackay Agence Immobilière | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=5edaa8d881c5e2bc |
+| SCM Analyst - Commercial Assurance | Suncor Energy | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=644d802bfaa99ac2 |
+| Technical Support Engineer, Trilogy (Remote) - $60,000/year  | Crossover | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4437099751 |
+| Document Controller | Xcel Automation Ltd. | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=c79f6c8481c3575e |
+| Administrative Assistant | Canadian Natural | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=f2e93d8399104ea8 |
+| Renovations / Restoration Associate | Boardwalk | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4437954823 |
+| 70240 Associate Part Time Winners Deerfoot City | TJX Canada – Winners, Marshalls, HomeSen | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438887876 |
