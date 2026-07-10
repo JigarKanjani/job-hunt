@@ -13771,3 +13771,24 @@
 | Customer Service Representative | Anvy Digital | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438338594 |
 | Part Time Sales Associate | Pet Valu | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4418843562 |
 | Full Time Sales Associate - Fran 3203 | Pet Valu | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4013988059 |
+| Field Coordinator | PCL Construction | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=bbf8bf2c77cc24c6 |
+| Sales Leader — Oil & Gas Infrastructure Equipment | JR Career Services | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=6d0684d5d38d36fa |
+| Sales Support Coordinator (Hybrid) | InterPro Pipe + Steel | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439323978 |
+| Information Technology Support Analyst | CES Energy Solutions Corp. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438351178 |
+| AdOps – Programmatic Specialist | RallyAd Media | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438336948 |
+| Employer Relationship Specialist - Calgary | Open Door Group | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438348451 |
+| Transportation Construction Inspector | TEEMA | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438343486 |
+| Business Analyst (Product Development & QA) | Enterprise Solutions Inc. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438357094 |
+| Team Lead, Application Lifecycle Management | Kinaxis | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439333496 |
+| HR Delivery Analyst | ENMAX | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438350588 |
+| Coordinator, Business Affairs | Nettwerk Music Group | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=cb7e25c316dbaa57 |
+| Sales Support Administrator, B2B, Quarry Park | Mark's | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439331387 |
+| Sr. Analyst, Falcon Complete (Remote, CAN) | CrowdStrike | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4436613368 |
+| Sr. Tax Analyst | Vermilion Energy | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439330884 |
+| Lease Administrator (contract) | Colliers | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439331390 |
+| Administrative Assistant, Occupational Health Services- EN | CN | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439328467 |
+| 028 EN - Platform Owner, Automation Platforms | Export Development Canada | Exportation  | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439319897 |
+| CAN - Client Services Analyst II | NRG Energy | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4436621369 |
+| Receptionist/Administrative Assistant | Custom Metal Contracting Ltd. Glazing Gr | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=aa21ca5932570876 |
+| Administrative Assistant/Book Keeper | D4 Systems | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=605f23dabbde792c |
+| Sales Associate | The Dufresne Group | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439317861 |
