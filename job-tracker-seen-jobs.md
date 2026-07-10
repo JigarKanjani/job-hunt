@@ -13792,3 +13792,47 @@
 | Receptionist/Administrative Assistant | Custom Metal Contracting Ltd. Glazing Gr | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=aa21ca5932570876 |
 | Administrative Assistant/Book Keeper | D4 Systems | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=605f23dabbde792c |
 | Sales Associate | The Dufresne Group | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439317861 |
+| HR Advisor | Alexandra Comm Hlth Ctr | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=7bcd17cd8516ad85 |
+| Cultural Outreach Coordinator | Aboriginal Friendship Centre of Calgary | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=72886fbe68d552c6 |
+| PRODUCT ADVISOR | Stampede Leasing Ltd | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=ef181f63aab08890 |
+| Clinical Lead | SafeLink Alberta | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=26666c9a0c613a5e |
+| Senior ERP Application Engineer | Lime | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=3b7e8c741d2f902e |
+| West Pricing Analyst, SS Cold Bev, Condiments & Frozen | Loblaw Companies Limited | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439363192 |
+| Analyst, Health & Benefits Consulting | HUB International | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4436633287 |
+| Wells Analyst | InSync Systems | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438359345 |
+| Safety Admin Coordinator | WinSport | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439344910 |
+| Field Coordinator | PCL Construction | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439359367 |
+| Lead Investigator | Government of Alberta | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438373060 |
+| Human Rights Officer | Government of Alberta | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438353570 |
+| HRIS Integrations Coordinator (6-Month Contract with Potenti | Environmental 360 Solutions | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438350735 |
+| Clinical Lead | SafeLink Alberta | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438351833 |
+| Procurement Contract Specialist | Worley Canada Construction | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438361501 |
+| Senior Contract Specialist | Worley Canada Construction | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438364162 |
+| FP & A Analyst | Peaskie Minerals Inc. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438364197 |
+| Finance Analyst | Medicentres Canada Inc | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439335966 |
+| Recruitment Coordinator | Jardeg | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=76832eae1e7ff4d2 |
+| Recruitment Coordinator | Jardeg | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=1366acf234ba1407 |
+| Full-Time Case Manager - Drug Treatment Court | McMan Youth, Family and Community Servic | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=bd501fd86b523bce |
+| Coordinateur.trice du Bureau de prêt – bibliothèque // Circu | Bishop's University | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=65fff5eed217a225 |
+| Video Surveillance Administrator | Charger Logistics Inc. | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439362001 |
+| Facilities Coordinator Calgary AB | CBI Home Health | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438351999 |
+| YOUTH DEVELOPMENT COORDINATOR (PART-TIME) | McMan Youth, Family and Community Servic | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438358423 |
+| Program Coordinator - Fleet Management Services | Government of Alberta | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438354546 |
+| Specialist, Admission Evaluation - Office of the University  | MacEwan University | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4436903138 |
+| Cabinet Vision Technical Specialist, Division Production Sof | Hexagon | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=c0c6fceeecc9f49b |
+| Helpdesk Support Technician | Smart Start Canada ULC | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=f5d645d343d2809f |
+| Technical & Systems Support Specialist | Strathcona-Tweedsmuir School | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=7a325e34f2c6a46e |
+| IT Help Desk II | Wajax | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=7d262151cfa9d421 |
+| Application Support Developer | TripArc | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=2aac4ba4da5e2bae |
+| 028 EN - Platform Owner, Automation Platforms | Export Development Canada | Exportation  | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439319897 |
+| Policy Analyst | Government of Alberta | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4438370161 |
+| Administrative Assistant | Leblond Plumbing & Heating Ltd. | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=cab3441dc7f45db2 |
+| Facilities Coordinator Calgary AB | CBI Home Health | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=2f4a3606be38ef4e |
+| Lessons Associate | Long & McQuade | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=02a259881bf351e9 |
+| Customer Service Sales Representative | Elite Group Marketing | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=f3c0aea514e27fd4 |
+| Branch Associate - Main Location | Calgary Food Bank | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=c3e35cf431f890d6 |
+| Information Agent | Government of Alberta | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438362375 |
+| Marketing & Customer Service Representative | Brookfield Properties | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438350738 |
+| Customer Support Specialist | Voices | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439347921 |
+| Sr. Network Specialist - 2-year Limited-Term Information Tec | University of Calgary | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439360524 |
+| part time customer service | ALEH Writing Services (AWS) | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4436631558 |
