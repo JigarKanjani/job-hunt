@@ -13709,3 +13709,30 @@
 | Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4420269985 |
 | Receptionist/Admin | Empire Kitchen & Bath | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4435970347 |
 | Customer Experience Associate | TD | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439028529 |
+| Sales Support Assistant & Marketing Coordinator | Evolve Business Group | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=ccf48e84c8eddc29 |
+| Collections Analyst | Parkland Corporation | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4427874245 |
+| Team Leader | Dollarama | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4435995010 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439080319 |
+| Project Estimating Lead | Brunel | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437985823 |
+| Quality Assurance Specialist II | Raise | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439089208 |
+| Team Leader | Dollarama | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4435976937 |
+| Sr. Program Manager - National Fibre Program Office | Ignition from Aptean | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439076441 |
+| Operations Administrator/Coordinator | Hung's Noodles | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439095123 |
+| Operations & Food Safety Coordinator | Hung's Noodles | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439084695 |
+| Investment Counsellor, Private Wealth | Fiera Capital | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4419937081 |
+| Remote Investment Banking Analyst ($100/hr) | Turing | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439058571 |
+| Personal Trainer - Calgary Creekside | GoodLife Fitness | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4435994180 |
+| Personal Trainer | Anytime Fitness Asia | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4438301469 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439059846 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439072343 |
+| Work From Home in Canada:  Online Data Analyst (English Spea | TELUS Digital AI Data Solutions | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439066033 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439076420 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439081152 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439056686 |
+| Automation Test Engineer - QA (Remote) | Hire Feed | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439065585 |
+| System Administrator | Envision Technology Solutions | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4438301947 |
+| Customer Experience Associate | TD | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=649bf21172729ebf |
+| Cargo Office Agent - YYC | Menzies Aviation | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439053195 |
+| Lessons Associate | Long & McQuade Musical Instruments | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439084449 |
+| Business Development Associate | PKF ANTARES | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438300693 |
+| Sales Associate-Print&Services | Staples Canada | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4430792498 |
