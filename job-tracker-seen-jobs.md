@@ -13736,3 +13736,38 @@
 | Lessons Associate | Long & McQuade Musical Instruments | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439084449 |
 | Business Development Associate | PKF ANTARES | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438300693 |
 | Sales Associate-Print&Services | Staples Canada | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4430792498 |
+| Guest Services Leader | Pilot Flying J | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=0c5a71023f8a65ac |
+| AltaGas- Senior Sourcing Specialist – Supply Chain Projects | AltaGas Ltd. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438328064 |
+| Area Operations Coordinator | Securitas Canada | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4435993545 |
+| Project Coordinator, Construction (Calgary) | Anthem Properties Group Ltd. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439312262 |
+| Land Analyst, Calgary | LandSolutions Inc | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439304694 |
+| Coordinator, Land Development (Calgary) | Anthem Properties Group Ltd. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439098747 |
+| Senior Contract Specialist | Net2Source (N2S) | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437874637 |
+| Senior Underwriter/Specialist, Contract Surety | Tokio Marine Canada Ltd. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439094777 |
+| Senior Advisor Hazard and Risk Management (Contract) | Trans Mountain | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437927037 |
+| Financial Planner | BMO | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439088880 |
+| Communications and Social Media Specialist (one-year contrac | Windmill Microlending | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439301412 |
+| Indigenous Student Support Advisor, Student Wellness Service | University of Calgary | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4436504176 |
+| Pipeline Geohazard Specialist | Canadian Natural Resources Limited (CNRL | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4436274058 |
+| Safety Compliance Coordinator | Canadian Natural Resources Limited (CNRL | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4436254857 |
+| P2P Analyst | RECRUITMENT PARTNERS INC. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4430757479 |
+| Product Content Specialist [209706] | Aquent | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4436602534 |
+| Land Analyst, Calgary | LandSolutions | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=a564b71f2b8919ad |
+| Junk Removal Specialist | 1-800-GOT-JUNK? | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=26593b9121e28d74 |
+| Lease Administrator (contract) | Colliers | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=99dfa6cb6a00b63d |
+| Front Office Administrator | BURNCO Rock Products Ltd | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=88386e308233831c |
+| Program Coordinator - Fleet Management Services | Government Of Alberta | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=5352f92d4e6bb956 |
+| Administrative Assistant - Intermediate | MSZ SYSTEMS INC. | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=b29de041d6329e24 |
+| Billing Administrative Assistant | Gowling WLG | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438338572 |
+| Front Office Administrator | BURNCO Rock Products Ltd | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4439316071 |
+| System Administrator | Tata Consultancy Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4438313851 |
+| Responsable de la réussite client | Client Success Administr | PWL Capital Inc. | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=b1ae9c0923e4cc1a |
+| Platform Engineer (Software) | BigGeo | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4438334394 |
+| Financial Analyst, Banff Jasper Collection by Pursuit | Pursuit Collection | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4417923131 |
+| Customer Service Representative - Milwaukee Tool | Techtronic Industries Canada Inc. | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=ca1a1ffbd7d48f60 |
+| Sales Associate | Ashley Canada - The Dufresne Group | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=ffd8442243f9871e |
+| Controller | MCG Careers | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=3d5bf31b529484bc |
+| Customer Service Representative | Holman | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439329169 |
+| Customer Service Representative | Anvy Digital | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438338594 |
+| Part Time Sales Associate | Pet Valu | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4418843562 |
+| Full Time Sales Associate - Fran 3203 | Pet Valu | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4013988059 |
