@@ -13687,3 +13687,25 @@
 | Administrative Assistant | Canadian Natural | 2026-07-10 | G | https://ca.indeed.com/viewjob?jk=f2e93d8399104ea8 |
 | Renovations / Restoration Associate | Boardwalk | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4437954823 |
 | 70240 Associate Part Time Winners Deerfoot City | TJX Canada – Winners, Marshalls, HomeSen | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4438887876 |
+| Global Talent Acquisition Specialist - 18 Month Term | Hexagon | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=779af91482ac144e |
+| Corporate Recruitment Advisor | North American Construction Group | 2026-07-10 | J | https://ca.indeed.com/viewjob?jk=eb0581a09b66101f |
+| Senior Planner/Scheduler -Mining Projects | Worley | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4430902098 |
+| Change Management Specialist | ATB Financial | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439028723 |
+| HACCP COORDINATOR - MOUNTAIN CREEK FARMS-CALGARY, AB | JBS Food Canada | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437987001 |
+| Financial Advisor, Investment & Retirement Planning - Calgar | Scotiabank | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437963959 |
+| Senior Cost Advisor, Quantity Surveyor | Stantec | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4438899908 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4437983237 |
+| Production Planner | Johnson Controls | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4417609002 |
+| Service & Operations Planning Lead | Finning | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4419353327 |
+| Lead Scale Attendant | GFL Environmental Inc. | 2026-07-10 | J | https://www.linkedin.com/jobs/view/4439018776 |
+| Appointment Coordinator (Mercedes-Benz South Calgary) | Go Auto | 2026-07-10 | N | https://ca.indeed.com/viewjob?jk=94c84e7e47933038 |
+| Reflections – Weekday Child and Youth Care Counsellor | Hull Services | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4435962363 |
+| Service Planner | Finning | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4429334609 |
+| Production Planner | Johnson Controls | 2026-07-10 | N | https://www.linkedin.com/jobs/view/4417292842 |
+| Credit-Free Instructor - Personal Fitness Trainer Diploma | Mount Royal University | 2026-07-10 | R | https://ca.indeed.com/viewjob?jk=3790a8c8bb5d9d8f |
+| IT Support Technician | Quadra Group | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4429375536 |
+| Remote Finance & Research Analyst ($100/hr) | Turing | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4439031789 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4420273698 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-10 | R | https://www.linkedin.com/jobs/view/4420269985 |
+| Receptionist/Admin | Empire Kitchen & Bath | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4435970347 |
+| Customer Experience Associate | TD | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439028529 |
