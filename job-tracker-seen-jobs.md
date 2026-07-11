@@ -13910,3 +13910,13 @@
 | Customer Sales Associate | Trane Technologies | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438396925 |
 | Research Grants Officer, International, VP Research | University of Calgary | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4437881618 |
 | Customer Service Representative | BMO | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439500988 |
+| Trade Support Analyst | RBC | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439541184 |
+| Product Specialist - CRM | PBS Systems | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436657595 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436657602 |
+| Insurance Advisor Life, Health & Wealth | RBC Insurance | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439527880 |
+| Senior Lead AI Application Engineer | RBC | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439539200 |
+| Field Operations Supervisor IS | Clean Harbors | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439529839 |
+| Supply Chain Specialist | $50/hr Remote | Crossing Hurdles | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438913621 |
+| Child and Youth Worker (Calgary/Airdrie) | Closer to Home Community Services | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4439539331 |
+| Simulation Technology Developer | SLB | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=e6df6192116ddc3d |
+| Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438914485 |
