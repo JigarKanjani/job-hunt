@@ -13948,3 +13948,12 @@
 | Geocycle AI Ordering Systems Intern | Amrize | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4428505341 |
 | Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4430059913 |
 | Receptionist | BrokerLink | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439552501 |
+| Track Design Lead LRT/Passenger Rail | Arcadis | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436664747 |
+| Bridge Design Lead, Rail and Transit | Arcadis | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436683016 |
+| Structural Design Lead, Rail and Transit | Arcadis | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436663751 |
+| Junior Buyer | Turner & Townsend | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4419345391 |
+| Personal Trainer - Calgary Northland Village | GoodLife Fitness | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4436659986 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439565249 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439566199 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439568086 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438947018 |
