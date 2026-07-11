@@ -13888,3 +13888,25 @@
 | Thermal Major Projects & Offshore (TMPO) Business Office Spe | Cenovus Energy | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=1752e187e7517a1c |
 | Corporate Development Associate | RECRUITMENT PARTNERS INC. | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439387247 |
 | Associate Group Underwriter | Sun Life | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438391251 |
+| Music Event Coordinator | Lighthouse Productions | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=580dc7ca2732dbc3 |
+| Contracts Administrator | Trans Mountain Corporation Inc. | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=4c452b213c4fe79e |
+| Analyst 1 | Bureau Veritas | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=4a06b578a1d069aa |
+| Coordinator, Investor Experience | Calgary Economic Development | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=0042a064674bd7fe |
+| Advisor - Environmental Operations Compliance | Boralex Inc. | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439523266 |
+| Advisor, Customer Care | ATCO | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438908218 |
+| Team Lead, Rehab | Lifemark Health Group | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436645809 |
+| Contracts Administrator (Contract) | Trans Mountain | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438908361 |
+| Project Coordinator, Alberta Innovates Summer Research Stude | Mount Royal University | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436644497 |
+| Contract Wells Analyst | Raise | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439507354 |
+| Equipment Coordinator | FLINT Corp. | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439532199 |
+| Economic Analyst | PCL Construction | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439506738 |
+| Sr. Network Specialist - 2-year Limited-Term Information Tec | University of Calgary | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=7e4a6e2881d07be4 |
+| SOLO Coordinator in the Chimo Solo Program CHIMO: Where What | Chimo Youth Retreat Centre | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=8180f216ec1c4f0b |
+| Financial Advisor Trainee / Licensed Financial Advisor (Full | IDB FINANCIALS INC. | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438918062 |
+| Sport & Fitness Specialist | Wildtree Herbs, Inc. | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4439501997 |
+| Physical Security Advisor | Government of Alberta | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438911027 |
+| Intake Support Administrator | MNA | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=1a82f48b249dcd8d |
+| IT Server Analyst | City of Grande Prairie | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=d40256684e92e1e9 |
+| Customer Sales Associate | Trane Technologies | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438396925 |
+| Research Grants Officer, International, VP Research | University of Calgary | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4437881618 |
+| Customer Service Representative | BMO | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439500988 |
