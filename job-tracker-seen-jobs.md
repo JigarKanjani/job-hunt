@@ -13961,3 +13961,5 @@
 | Business Analyst | Indigenous Energy Monitor | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438950047 |
 | Advisor, Corporate Services | Regional Municipality of Wood Buffalo | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439566795 |
 | Data Analyst - Finance (Remote) | Hire Feed | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439579180 |
+| InEight Estimating Program Specialist | Bird Construction | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4421278370 |
+| Guest Experience Scheduler - Casual Part Time | Calgary Stampede | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=59cc66211a5e6205 |
