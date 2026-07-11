@@ -13836,3 +13836,55 @@
 | Customer Support Specialist | Voices | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439347921 |
 | Sr. Network Specialist - 2-year Limited-Term Information Tec | University of Calgary | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4439360524 |
 | part time customer service | ALEH Writing Services (AWS) | 2026-07-10 | G | https://www.linkedin.com/jobs/view/4436631558 |
+| Accounts Receivable Administrator, Star Building Materials | Star Building Materials Calgary | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=936e9dc9b314ffbf |
+| Contract Wells Analyst | Cenovus Energy | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=360b535f5249daae |
+| OPERATIONS - DRILLING SUPERINTENDENT | Ensign Energy Services Inc. | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=9c00b7718f21165e |
+| DART – Logistics & Supply Chain Personnel | Samaritan's Purse | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=c8c4f4c8a6d55f50 |
+| Financial Analyst | Government Of Alberta | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=8308c0f8ee529c19 |
+| Junior QA Specialist | QHR Technologies | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=ac2728d1e3b7220c |
+| QA Specialist | QHR Technologies | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=c03d40f6d86fc4bb |
+| QA Specialist | QHR Technologies | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=f94d5b7c5c123990 |
+| Junior QA Specialist | QHR Technologies | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=5822bbf4329dec94 |
+| Team Lead, Application Lifecycle Management | Kinaxis | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=14ffd69e6097f2bf |
+| Specialist, IT Business Analysis | Canada Mortgage and Housing Corporation  | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439373317 |
+| Thermal Major Projects & Offshore (TMPO) Business Office Spe | Cenovus Energy | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439383121 |
+| Accounts Receivable Administrator, Star Building Materials | Star Building Materials Calgary | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439384606 |
+| Proposal Specialist | Englobe | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438377883 |
+| Regulatory Advisor | Stantec | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439512085 |
+| Linehaul Coordinator | Federal Express Corporation | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439377838 |
+| Employee Communications Team Lead, North America | Stantec | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439392891 |
+| AC SPECIALIST | Vantage Benefits | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439378946 |
+| Store Supervisor, Operations | SNDL Inc. | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438367656 |
+| Analyst 1 | Bureau Veritas | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438378016 |
+| Transportation Manager | OPENLANE | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436647104 |
+| Operations Supervisor | Caron Transportation Systems | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439371678 |
+| Production Operations Administrator | Eagle Builders LP | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439381921 |
+| Material Coordinator (I &amp;#8211; III) &amp;#8211; Artific | MyPetroCareer.com | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436652157 |
+| Proposal Specialist | Englobe | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438380727 |
+| Regulatory Advisor | Stantec | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=497351535b97d4c4 |
+| Employer Relationship Specialist - Calgary | Open Door Group | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=b940c0731efc13b8 |
+| Full time Community Support Worker | new age services | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=33b02080adfd31f0 |
+| Casual Community Support Worker | new age services | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=d025353ad6653127 |
+| Community Support Worker | new age services | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=362af54939a77252 |
+| Faculty Coordinator | University of Alberta | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=a91746572764ceb1 |
+| Client Relations Coordinator | Lift Auto Group | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=f3b094bf4c66d414 |
+| Shared Services Coordinator | Finning | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=a065f5331847e167 |
+| Service Coordinator | Finning | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=3cd9f0d0084fd419 |
+| Service Coordinator | Finning | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=58c22bbeb7a62f91 |
+| SERVICE COORDINATOR | Finning | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=dc11eb18a8539e66 |
+| People & Culture Coordinator | Fairmont | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=167160434d324b15 |
+| Proposal Administrator | Englobe | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438383677 |
+| Dough Production Worker | Domino's | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4436639386 |
+| Master Data Analyst | Raise | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4439508339 |
+| Ministry Assistant Coordinator | The Salvation Army in Canada | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438379683 |
+| International Student Experience Advisor | NorQuest College | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4439389947 |
+| Coordinator, Compliance | API (Applied Pharmaceutical Innovation) | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4417683672 |
+| Community Disability Worker: Every Other Saturday | Robin Hood Association | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438392279 |
+| Specialist, IT Business Analysis | Canada Mortgage and Housing Corporation  | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=5185009319274fdd |
+| Canadian Health Outreach Technical Specialist updated | Samaritan's Purse | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=e7ed1caf4cf0d320 |
+| Mining Technology Implementation Specialist-3 | Finning | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=168b5ad3beecb642 |
+| Talent Acquisition Specialist | BIS Safety Software | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=7523c7fe9b9822b8 |
+| PAC Business Developer | E.B. Horsman & Son | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438394362 |
+| Thermal Major Projects & Offshore (TMPO) Business Office Spe | Cenovus Energy | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=1752e187e7517a1c |
+| Corporate Development Associate | RECRUITMENT PARTNERS INC. | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439387247 |
+| Associate Group Underwriter | Sun Life | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438391251 |
