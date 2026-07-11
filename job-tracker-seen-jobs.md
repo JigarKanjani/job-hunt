@@ -13938,3 +13938,13 @@
 | Global FinTech Administrator | Finning | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4429647247 |
 | Data Analyst (Excel) | $55/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4430065964 |
 | Data Annotation Specialist | $80/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438922525 |
+| Advisor, Corporate Services | Regional Municipality of Wood Buffalo | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=c05c2ebca1ab6321 |
+| Intermediate Customer Onboarding Specialist (12 month Contra | Clio | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438923873 |
+| Electrical Reliability Planner | Amrize | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4428283365 |
+| Senior Specialist - Cybersecurity | Parkland Corporation | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4428298652 |
+| Peer Support Worker | Recovery Alberta | 2026-07-11 | N | https://ca.indeed.com/viewjob?jk=c6a37607eb5b53f5 |
+| Yard Worker | Amrize | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4428505355 |
+| Health & Safety Coordinator | Amrize | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4428294325 |
+| Geocycle AI Ordering Systems Intern | Amrize | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4428505341 |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4430059913 |
+| Receptionist | BrokerLink | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4439552501 |
