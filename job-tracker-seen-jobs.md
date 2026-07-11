@@ -13933,3 +13933,8 @@
 | Data Annotation Specialist | $80/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438922525 |
 | Employment Litigation Associate | Ogletree Deakins | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=1e35468ccc48465f |
 | Global FinTech Administrator | Finning | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4429643740 |
+| Service Coordinator | Finning | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4429684669 |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4430059913 |
+| Global FinTech Administrator | Finning | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4429647247 |
+| Data Analyst (Excel) | $55/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4430065964 |
+| Data Annotation Specialist | $80/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438922525 |
