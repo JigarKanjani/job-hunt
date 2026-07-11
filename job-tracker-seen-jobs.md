@@ -13920,3 +13920,16 @@
 | Child and Youth Worker (Calgary/Airdrie) | Closer to Home Community Services | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4439539331 |
 | Simulation Technology Developer | SLB | 2026-07-11 | R | https://ca.indeed.com/viewjob?jk=e6df6192116ddc3d |
 | Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438914485 |
+| Lead Designer | Qualus | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=22ef8c0b7a8674a7 |
+| Transportation Engineer-in-Training/Technologist | Associated Engineering | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4409212310 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439554108 |
+| Business System Leader | Johnson Controls | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4417902925 |
+| Purchasing Coordinator | Johnson Controls | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4417909294 |
+| Production Lead | HelloFresh | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4370126625 |
+| Supply Chain Specialist | $50/hr Remote | Crossing Hurdles | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4438913621 |
+| Design Standards Coordinator | Johnson Controls | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4399998285 |
+| Proposal Administrator | Associated Engineering | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4401674329 |
+| Division Administrator | Associated Engineering | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4410198892 |
+| Data Annotation Specialist | $80/hr Remote | Crossing Hurdles | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4438922525 |
+| Employment Litigation Associate | Ogletree Deakins | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=1e35468ccc48465f |
+| Global FinTech Administrator | Finning | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4429643740 |
