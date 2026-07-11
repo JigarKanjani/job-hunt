@@ -13963,3 +13963,8 @@
 | Data Analyst - Finance (Remote) | Hire Feed | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439579180 |
 | InEight Estimating Program Specialist | Bird Construction | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4421278370 |
 | Guest Experience Scheduler - Casual Part Time | Calgary Stampede | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=59cc66211a5e6205 |
+| Event and Tour Coordinator (Term Position) | Pomeroy Lodging | 2026-07-11 | J | https://ca.indeed.com/viewjob?jk=0e6bb0aaebb39680 |
+| Advisor - Environmental Operations Compliance | Boralex Inc. | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4439579799 |
+| GARAGE - Team Leader PT - Southcentre Mall | Groupe Dynamite | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436696042 |
+| Administrative Assistant | Indigenous Energy Monitor | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438938822 |
+| Administrative Assistant, Employee Health & Safety - Casual  | Calgary Stampede | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=37710ee177aeebf3 |
