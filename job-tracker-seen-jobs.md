@@ -13957,3 +13957,4 @@
 | Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439566199 |
 | Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-11 | R | https://www.linkedin.com/jobs/view/4439568086 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438947018 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-11 | G | https://www.linkedin.com/jobs/view/4438945114 |
