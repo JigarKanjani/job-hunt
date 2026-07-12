@@ -13985,3 +13985,11 @@
 | Personal Trainer | Anytime Fitness Asia | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4438982473 |
 | (CAN) Dairy Frozen Associate - Overnight Temporary | Walmart Canada | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4417977105 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4417936409 |
+| Coordinator, Organizational Management | Regional Municipality of Wood Buffalo | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439725588 |
+| Security Officer | River Cree Resort & Casino | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439731214 |
+| TECH Specialist | London Drugs | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4437227158 |
+| Data Annotation Specialist (Basic JSON) | $25/hr Remote | Crossing Hurdles | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4430093099 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439720777 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439738021 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439724671 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439711983 |
