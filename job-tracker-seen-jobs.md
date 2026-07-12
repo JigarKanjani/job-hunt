@@ -13968,3 +13968,6 @@
 | GARAGE - Team Leader PT - Southcentre Mall | Groupe Dynamite | 2026-07-11 | J | https://www.linkedin.com/jobs/view/4436696042 |
 | Administrative Assistant | Indigenous Energy Monitor | 2026-07-11 | N | https://www.linkedin.com/jobs/view/4438938822 |
 | Administrative Assistant, Employee Health & Safety - Casual  | Calgary Stampede | 2026-07-11 | G | https://ca.indeed.com/viewjob?jk=37710ee177aeebf3 |
+| Event and Tour Coordinator (Term Position) | Pomeroy Lodging | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4436688261 |
+| Administrator, Recruitment | CMH Heli-Skiing & Summer Adventures | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4436684521 |
+| Receptionist | Vision Group | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439595292 |
