@@ -14004,3 +14004,7 @@
 | Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439756443 |
 | Equipment Planner (Calgary/Edmonton) - Kiewit Equipment Serv | Kiewit | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4402177638 |
 | Beauty Advisor, Contractor Part Time Day | Shoppers Drug Mart | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439744981 |
+| (CAN) General Merchandise Associate | Walmart | 2026-07-12 | G | https://ca.indeed.com/viewjob?jk=3d732c643802fbb1 |
+| (CAN) General Merchandise Associate | Walmart | 2026-07-12 | G | https://ca.indeed.com/viewjob?jk=767d2d1a9cd03154 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439103415 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439104373 |
