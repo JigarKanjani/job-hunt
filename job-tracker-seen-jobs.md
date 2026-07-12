@@ -13993,3 +13993,5 @@
 | Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439738021 |
 | Research Specialist (Remote) | Quik Hire Staffing | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439724671 |
 | Financial Investment Analyst (Remote) | Hired | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439711983 |
+| Parking Enforcement Officer | LAZ Parking | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439742280 |
+| Security Systems Techician (1 year contract) | River Cree Resort & Casino | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4438992449 |
