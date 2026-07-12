@@ -13995,3 +13995,6 @@
 | Financial Investment Analyst (Remote) | Hired | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439711983 |
 | Parking Enforcement Officer | LAZ Parking | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439742280 |
 | Security Systems Techician (1 year contract) | River Cree Resort & Casino | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4438992449 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439732995 |
+| Email Marketing Specialist | Indigenous Energy Monitor | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439100241 |
+| 70240 Associate Deerfoot City | Winners | 2026-07-12 | G | https://ca.indeed.com/viewjob?jk=1e3eda76ccd2200b |
