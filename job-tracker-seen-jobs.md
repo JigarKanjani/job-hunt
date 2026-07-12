@@ -13998,3 +13998,9 @@
 | Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439732995 |
 | Email Marketing Specialist | Indigenous Energy Monitor | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439100241 |
 | 70240 Associate Deerfoot City | Winners | 2026-07-12 | G | https://ca.indeed.com/viewjob?jk=1e3eda76ccd2200b |
+| Field Coordinator | Avalon Construction | 2026-07-12 | J | https://ca.indeed.com/viewjob?jk=08a5d14101cf59ef |
+| Leasing Specialist | Boardwalk | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439100481 |
+| Window Coverings Specialist | Airdrie Paint and Blinds | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439101354 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439756443 |
+| Equipment Planner (Calgary/Edmonton) - Kiewit Equipment Serv | Kiewit | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4402177638 |
+| Beauty Advisor, Contractor Part Time Day | Shoppers Drug Mart | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439744981 |
