@@ -13978,3 +13978,10 @@
 | Legal Intake Specialist | Pearson Butler | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439599942 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4438976414 |
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4438984050 |
+| Business Development Specialist | Easter Seals Alberta | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439724372 |
+| Advisor - Environmental Operations Compliance | Boralex Inc. | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439718626 |
+| Systems Specialist, Desktop Architecture | KPMG Canada | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4421212536 |
+| Customer Account Financial Analyst | Finning | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4430311716 |
+| Personal Trainer | Anytime Fitness Asia | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4438982473 |
+| (CAN) Dairy Frozen Associate - Overnight Temporary | Walmart Canada | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4417977105 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4417936409 |
