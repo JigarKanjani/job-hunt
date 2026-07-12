@@ -13972,3 +13972,9 @@
 | Administrator, Recruitment | CMH Heli-Skiing & Summer Adventures | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4436684521 |
 | Receptionist | Vision Group | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439595292 |
 | Financial Analyst - Fully Remote | Upto $160/hr | Mercor | 2026-07-12 | R | https://www.linkedin.com/jobs/view/4439587937 |
+| Client Service Specialist | People Corporation | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4438982101 |
+| Quality Assurance Analyst | Link Canada : 2SLGBTQ+ Insurance Network | 2026-07-12 | J | https://www.linkedin.com/jobs/view/4439723163 |
+| Immigration Processing Coordinator | Canada Sai Immigration Corp. | 2026-07-12 | N | https://ca.indeed.com/viewjob?jk=35a22f86b8690512 |
+| Legal Intake Specialist | Pearson Butler | 2026-07-12 | N | https://www.linkedin.com/jobs/view/4439599942 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4438976414 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4438984050 |
