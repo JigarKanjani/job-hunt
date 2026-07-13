@@ -14059,3 +14059,46 @@
 | Owner Relations Agent - 26237D | Enverus | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4430568791 |
 | Front Desk Agent (Six Month Contract) - Job ID J0726-0217 | Columbia College | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439423813 |
 | Front Desk Agent (Six Month Contract) - Job ID J0726-0217 | Columbia College | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439419963 |
+| Master Planner | Dynamic Source Manufacturing Inc. | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=d0c45e8c9a50bd28 |
+| Financial Aid and Student Awards Advisor (Temp) | Alberta University of the Arts | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=4e371a90a3f59472 |
+| Cafe Leader - CrossIron Mills | Phil & Sebastian Coffee Roasters | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=b3a3b4729ed9ebb2 |
+| Client Services Coordinator | NEWGEN CLEANING SERVICES | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=668023f6335ca765 |
+| Digital Marketing Specialist | Guardium Security Services Ltd | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=b1eef845e00274a1 |
+| Enterprise EDI - Analyst (Supply Chain Integration) | Canadian Tire Corporation | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440090280 |
+| Inventory Coordinator, Calgary Animal Referral and Emergency | VCA Animal Hospitals | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439438538 |
+| Recovery Analyst | ZayZoon | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440081242 |
+| Field Engineering Specialist Regional II | Purolator Inc. | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439449554 |
+| Advisory Lead | Mott MacDonald | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440067989 |
+| Front End Team Lead - Full Time | Bass Pro Shops | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4437299998 |
+| Brand & Growth Coordinator | Caramunchies | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439435710 |
+| Marketing Specialist | Robert Half | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439435406 |
+| Life Insurance Sales Advisor Trainee | Neilson Financial Services | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440056917 |
+| Operations Supervisor | MTE Logistix | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439436461 |
+| Recruitment & Admissions Advisor- – Education | Ambrose University College | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=853836f81301dd4c |
+| Recreation Coordinator | Asura Health Ltd. | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=32a81448d7ee0843 |
+| Team Coordinator | Cushman & Wakefield | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=7d4d286cd368fe8b |
+| Member Engagement & Communications Coordinator | Drumheller and District Chamber of Comme | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=58eb1f60fcced727 |
+| Service Coordinator | Homewood Health | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=6c2e2b4080f68eff |
+| Accounts Payable Coordinator | Adco Power | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=0cedef27b74796c2 |
+| Philanthropy Coordinator | Shelter Movers | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=e7605be93cfb9976 |
+| Management of Change Coordinator | Precision Drilling | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4440077083 |
+| Human Resources Administrative Assistant | L.C.O.S.A It's A Blast Program | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439436344 |
+| Compliance Analyst | Government Of Alberta | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=3324050a5582af26 |
+| Service Assurance Analyst, Incident | Nutrien | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=cda2aa5a6882bcf2 |
+| Integration Specialist | Harris Computer | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=3ee04d0fa192cfec |
+| ServiceNow Developer | TELUS Digital | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439440682 |
+| ServiceNow Developer | TELUS Digital | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439431908 |
+| SimCorp Business Systems Analyst | Hays | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4437606280 |
+| Data Analytics Specialist | StafinGo | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4437609235 |
+| Recovery Analyst | ZayZoon | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4440085160 |
+| Remote Finance & Research Analyst | Turing | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4437605517 |
+| Customer Service/Kiosk Representative | Budget Car & Truck Rental | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=4475da9da3f67703 |
+| Customer Service Representative – Symmetry | Bright Star Management Corporation | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=f7dd51c84bf90acf |
+| Administrative Associate | Wellington-Altus Private Wealth Inc. | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=49600dbf63894214 |
+| Customer Service Rep | Westlake Pipe & Fittings | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4430352704 |
+| Customer Service Representative - Maternity Leave Coverage | Cornerstone Building Brands | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4428969646 |
+| Financial Service Representative - LendDirect Office 1563 | LendDirect | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440088225 |
+| Financial Service Representative - LendDirect Office 1556 | LendDirect | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440079554 |
+| GYMVMT Front Desk Associate - Calgary Place | GoodLife Fitness | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4437603684 |
+| Financial Controller | STRIVE Recruitment Inc. | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439429938 |
+| Mortgage Underwriter – Full-Time (In-Office) | AKAL Mortgages Inc. | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439448066 |
