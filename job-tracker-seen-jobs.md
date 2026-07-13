@@ -14017,3 +14017,13 @@
 | Data Centre Sales Advisor | McCord Investments | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439116823 |
 | Accounting & Billing Coordinator | DEFENDER LTL INC. | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=e316da4ed87fd166 |
 | Finance Administrator | Finning | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439132202 |
+| School Technology Support Specialist I | Calgary Board Of Education | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=7bd9aa31fc3b5e71 |
+| Compliance Fleet Safety Administrator | Pembina Pipeline Corporation | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4440009572 |
+| Data Analyst - Remote | Sundayy | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4440006594 |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439199578 |
+| Data Privacy Analyst | $70/hr Remote | Crossing Hurdles | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4430394664 |
+| Go Developer | $90/hr Remote | Crossing Hurdles | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439178624 |
+| Golang Developer | Remote | Crossing Hurdles | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4430387198 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439160223 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439150849 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439161196 |
