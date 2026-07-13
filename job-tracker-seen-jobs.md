@@ -14008,3 +14008,8 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-07-12 | G | https://ca.indeed.com/viewjob?jk=767d2d1a9cd03154 |
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439103415 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-12 | G | https://www.linkedin.com/jobs/view/4439104373 |
+| Group Training Specialist | Clio | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439112513 |
+| Light Duty Vehicle Fleet Coordinator | Morgan Construction and Environmental Lt | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439103944 |
+| Accounts Payable Analyst | Morgan Construction and Environmental Lt | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439123366 |
+| Project Administrator | Morgan Construction and Environmental Lt | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439108777 |
+| Sales Associate | Anytime Fitness Asia | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439108599 |
