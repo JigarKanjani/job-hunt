@@ -14027,3 +14027,35 @@
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439160223 |
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439150849 |
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439161196 |
+| Web Merchandising Specialist (Junior) | Visions Electronics | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=9bd778f16784e858 |
+| HSE Operations Coordinator | Salient Health and Safety Inc. | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=0db145f7523a756e |
+| Contract LPG Origination Advisor | PetroChina International (Canada) Tradin | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439423543 |
+| Senior Contracts Advisor- Relocate to Saudi Arabia | aramco | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440036792 |
+| Systems Analyst | Hexagon Autonomous Solutions | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440044890 |
+| Senior Business Analyst | Yochana | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439411557 |
+| Events Coordinator | Tool Shed Brewing Company | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439426479 |
+| Senior Procurement Specialist (2-year term position) | Alberta Securities Commission | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440067005 |
+| Intake Coordinator | Lifemark Health Group | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4437285741 |
+| Leader, Project Delivery | City of Calgary | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439420529 |
+| Beauty Advisor - Full Time - Crossiron Mills | L'OCCITANE Group (B Corp) | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439431082 |
+| Shift Leader - LOCAL Public Eatery, Barclay | LOCAL Public Eatery | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440068341 |
+| Senior Systems Specialist SAP IS-U Billing | FortisAlberta | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439423900 |
+| Clerk V (Inventory Planner) | ATCO | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439412798 |
+| Project Controls Integration Lead | Valard Construction | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440054136 |
+| Facilitator | Prospect Human Services | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=10bb61e0f02cce56 |
+| Operations Administrator | CornerStone Wall Solutions Inc. | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=4513033f88dc35ca |
+| Program Coordinator - Fulltime | Camrose & District FCSS - Family Service | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=57a5775528818142 |
+| Administrative Assistant (Temporary 12 month contract) | LASIK MD | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439413358 |
+| EPL Outreach Worker - Stanley A. Milner Library | Edmonton Public Library | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4440062139 |
+| Contract Administrator | ATCO | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439415676 |
+| Continuous Improvement Coordinator - Red Deer | Olymel | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439416275 |
+| Marketing Coordinator | Network Innovations (NI) | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=8bbc35490657f7e9 |
+| Business Operations Analyst | Rentokil Initial | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=b9b266c82c95baf5 |
+| Business Automation Engineer | LandSolutions Inc | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4440067415 |
+| SAP ABAP / BOPF / CDS Developer | Accion Labs | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439415874 |
+| Process Engineer | Impact HR | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4440047789 |
+| Customer Service Professional, Sales | ATS Traffic | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=86a56b18ff572246 |
+| Reservations Agent - Job ID J0726-0219 | Columbia College | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439430256 |
+| Owner Relations Agent - 26237D | Enverus | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4430568791 |
+| Front Desk Agent (Six Month Contract) - Job ID J0726-0217 | Columbia College | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439423813 |
+| Front Desk Agent (Six Month Contract) - Job ID J0726-0217 | Columbia College | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439419963 |
