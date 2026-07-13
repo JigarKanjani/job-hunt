@@ -14102,3 +14102,42 @@
 | GYMVMT Front Desk Associate - Calgary Place | GoodLife Fitness | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4437603684 |
 | Financial Controller | STRIVE Recruitment Inc. | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439429938 |
 | Mortgage Underwriter – Full-Time (In-Office) | AKAL Mortgages Inc. | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439448066 |
+| Administrative Specialist | The Brenda Strafford Foundation | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=99e402d5508d1dd6 |
+| Campaign & Events Coordinator | Calgary Police Foundation | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=7b59910f3fbe4e55 |
+| Lead Professional, Process Engineering | WSP | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=da5539b8968271da |
+| Materials Manager | WELDCO | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=6241c9afec9d5eaa |
+| Enterprise EDI - Analyst (Supply Chain Integration) | Canadian Tire Corporation, Ltd. | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=0750e60d3f6cba64 |
+| Enterprise EDI - Analyst (Supply Chain Integration) | Canadian Tire Corporation, Ltd. | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=d8bcd8cc352e1665 |
+| Clerk V (Inventory Planner) | ATCO | 2026-07-13 | J | https://ca.indeed.com/viewjob?jk=3a596ac756543eef |
+| Investment Banking Analyst/Associate | Kluane Partners | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439464209 |
+| Client Advisor, AX Outlet, CrossIron (FT) | Giorgio Armani | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439469163 |
+| Public Relations Lead (PRL), Canada | Stantec | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440096967 |
+| Regional Delivery Leader, Infrastructure - Canada West | Stantec | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440303399 |
+| Vendor Audit Specialist | MatchBox Consulting Group | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4440301501 |
+| Lead Professional, Process Engineering | WSP in Canada | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439471179 |
+| Maintenance Planner | Pacific Coast Terminals Co. Ltd. | 2026-07-13 | J | https://www.linkedin.com/jobs/view/4439463272 |
+| ISSP Program Manager | Calgary Police Foundation | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=4506556648f74c1d |
+| Sales Support Coordinator (Hybrid) | Orion Steel Group | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=edc0ef44f5aab1b3 |
+| Earthworks Coordinator | Birchcliff Energy Ltd | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=71128519ca0e3772 |
+| Student Admissions Advisor (Calgary) | AlivioWorks | 2026-07-13 | N | https://ca.indeed.com/viewjob?jk=4e9aeee3ac2109a2 |
+| Rentals Administrative Assistant | Simco Management (Calgary) Inc. | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439459662 |
+| Kinship Lodge – Child and Youth Care Counsellor | Hull Services | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4437620440 |
+| Kinship Lodge – Night Counsellor | Hull Services | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4437617513 |
+| Human Resources Payroll Administrator | 5Blue Process Equipment Inc. | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439469162 |
+| Case Worker - WEAC | E4C | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4440318084 |
+| Information Officer | Government of Alberta | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439459547 |
+| Senior Investigations Specialist - Office of the General Cou | MacEwan University | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4440310517 |
+| Scheduler & Finance Administrator | Government of Alberta | 2026-07-13 | N | https://www.linkedin.com/jobs/view/4439475007 |
+| Change Management Analyst | Vantix Systems Inc | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=6836a1154e318348 |
+| Pay and Time Analyst | TC Energy | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=e826985e455c75c6 |
+| 1-Data Analytics Specialist - GOAPRDJP00000973 | Vantix Systems Inc | 2026-07-13 | R | https://ca.indeed.com/viewjob?jk=a36be15ab2f16555 |
+| Manufacturing Process Engineer | Blackline Safety | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4440308674 |
+| Process Engineer | Acero Engineering | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439461467 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-13 | R | https://www.linkedin.com/jobs/view/4439455689 |
+| Customer Service Representative | Tenda Canada | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=5e6e6cbeee381edd |
+| Multi-Location Customer Service Specialist | Sherwin-Williams | 2026-07-13 | G | https://ca.indeed.com/viewjob?jk=216c7cde58484738 |
+| Administrative Associate | Wellington-Altus | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4439461632 |
+| Customer Service Representative | U-Haul | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440093881 |
+| Summer Camp Facilitator - Calgary | Monarch House | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440313059 |
+| Sales specialist Appliances | RONA | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440310317 |
+| Paint associate | RONA | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440319064 |
