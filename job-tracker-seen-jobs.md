@@ -14141,3 +14141,39 @@
 | Summer Camp Facilitator - Calgary | Monarch House | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440313059 |
 | Sales specialist Appliances | RONA | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440310317 |
 | Paint associate | RONA | 2026-07-13 | G | https://www.linkedin.com/jobs/view/4440319064 |
+| Sales & Marketing Coordinator | Alberta Maple Care Ltd. | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=cace016b1a7f8be2 |
+| Research Coordinator, Palliative Medicine | University of Calgary | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=49b6f7a05b61cf0f |
+| Facilities Operations Support Specialist, FM Admin, Faciliti | University of Calgary | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=0b8e8f6a2f0e2f84 |
+| IT ACCS Project Coordinator - Information Technologies | University of Calgary | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=062da9cb0be9cc9a |
+| Student Recruitment Advisor, Office of the Registrar | University of Calgary | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=f43465403eaeaa07 |
+| Risk Analyst (Full-time, Continuing) | University of Lethbridge | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=b6eb70e946c59380 |
+| Team Lead SCM - Data and Systems | Keyera | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439482728 |
+| Senior Buyer | Raise | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440361862 |
+| Senior Analyst- Distribution Strategy & Onboarding | WestJet | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440382046 |
+| Contract Project Planner / Scheduler | Raise | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440380094 |
+| Construction Coordinator | Worley | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440380854 |
+| Business Coordinator | Government of Alberta | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439487966 |
+| Pricing Analyst - Grain | CPKC | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440387002 |
+| Payroll & Benefits Advisor | Heritage Park Historical Village | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440387378 |
+| Personal Banking Advisor - Okotoks | ATB Financial | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440397057 |
+| Brand & Growth Coordinator | Caramunchies | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439802845 |
+| Research Coordinator, Palliative Medicine | University of Calgary | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440377801 |
+| Lead Engineer, Facility Design | Alberta Electric System Operator (AESO) | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439485922 |
+| Project Coordinator | Priestly Demolition Inc. | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439486646 |
+| Appointment Coordinator (T&T Honda) | Go Auto | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439485720 |
+| Accounting Coordinator | Transload Logistics Corp | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=aa91459f476ad8b5 |
+| Research Coordinator, Department of Psychology, Faculty of A | University of Calgary | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=900bfbf889dc60ec |
+| Senior Specialist, Graduate Recruitment | University of Calgary | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=0d4470ee2b98fa91 |
+| Administrative Assistant | Aplin Martin | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4440382045 |
+| Office Administrator | Mackey Design Group Licensed Interior De | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4439491764 |
+| Technical Support Representative | Canadian Fiber Optics Corp | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=9ec6cdc29b458796 |
+| Staff Backend Developer | Varicent | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439496969 |
+| Staff Backend Developer | FunnelCake | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440378237 |
+| Technical Support Representative | Canadian Fiber Optics | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439805516 |
+| Legal Analyst - Fully Remote | Upto $90/hr | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440381844 |
+| Underwriting Specialist - Fully Remote | Upto $70/hr Part-ti | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440384778 |
+| Sales Associate -Temporary/Full-time (Macleod Plaza) - Canad | Women In Need Society | 2026-07-14 | G | https://ca.indeed.com/viewjob?jk=a0f577a9c6742d99 |
+| Receptionist | Government of Alberta | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439804144 |
+| Coordinator, Institutional Development, VP Development and A | University of Calgary | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4438880433 |
+| Receptionist | Wood Automotive Group | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4440396182 |
+| Personal Banking Associate | BMO | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4438500943 |
