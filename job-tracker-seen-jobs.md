@@ -14183,3 +14183,16 @@
 | Development Officer, Community Partnerships (Events) | Make-A-Wish Canada | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4437653102 |
 | Finance Specialist - Fully Remote | Upto $425/hr Part-time | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440377952 |
 | Marketing Specialist - Fully Remote | Upto $425/hr Part-time | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440387614 |
+| Lead, Production Design | Brookfield Residential | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4430591714 |
+| APPOINTMENT COORDINATOR | Lexus of Calgary | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=7ae08a3ed49a43c8 |
+| Administrator | Jayman Built | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=db740d519d9123b6 |
+| Records Officer (Temporary), Student Progression and Registr | NAIT (Northern Alberta Institute of Tech | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4432085021 |
+| Child and Youth Worker (Medicine Hat) | Closer to Home Community Services | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4440399843 |
+| Remote Finance & Research Analyst | Turing | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439837483 |
+| Remote Finance & Research Analyst | Turing | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439849034 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439847269 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439833601 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439829730 |
+| Project Controller - Environmental | WSP in Canada | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439820991 |
+| Project Scheduler - Heavy Civil | Morgan Construction and Environmental Lt | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439829358 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439843428 |
