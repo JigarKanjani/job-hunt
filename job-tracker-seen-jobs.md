@@ -14177,3 +14177,9 @@
 | Coordinator, Institutional Development, VP Development and A | University of Calgary | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4438880433 |
 | Receptionist | Wood Automotive Group | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4440396182 |
 | Personal Banking Associate | BMO | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4438500943 |
+| Contracts & Tender Coordinator | Choquette Developments LTD | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=f984e343ef83639a |
+| Analyst, Insights and Pipeline Management | Canadian Cancer Society | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439809735 |
+| Human Resources Coordinator | Kognitive Sales Solutions | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=790e336e8e97324b |
+| Development Officer, Community Partnerships (Events) | Make-A-Wish Canada | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4437653102 |
+| Finance Specialist - Fully Remote | Upto $425/hr Part-time | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440377952 |
+| Marketing Specialist - Fully Remote | Upto $425/hr Part-time | Mercor | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440387614 |
