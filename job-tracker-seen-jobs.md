@@ -14206,3 +14206,22 @@
 | Indigenous Care Liaison | Covenant Health Canada | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4437657863 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4418722140 |
 | Property Management Associate | Global Technical Talent, an Inc. 5000 Co | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4437678150 |
+| IT Business  Analyst | FLINT Corp. | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4432044164 |
+| Lead, Continuous Improvement | Saputo Inc. | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4422314088 |
+| Project Planner/Scheduler | Brunel | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439847853 |
+| Project Coordinator | Critical Mass | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439852668 |
+| Program Coordinator | New Brunswick Bible Institute | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440549103 |
+| Program Manager, Clinical Standards | Alberta Health Services | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439864161 |
+| Senior Content Strategist, Enterprise | Clio | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4430577583 |
+| Senior Business Analyst | Critical Mass | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439859365 |
+| Hearing Instrument Specialist | Beltone | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4124970943 |
+| Procurement Specialist III | Alberta Health Services | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439863197 |
+| Coordinator | Alberta Health Services | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4439863198 |
+| Coordinator | Alberta Health Services | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4439858313 |
+| Personal Support Coordinator | Alberta Health Services | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4439866118 |
+| Junior Eclipse RCP Java Developer | MyPetroCareer.com | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4437679397 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440545695 |
+| UPSTAFF - DATA ANALYTICS SPECIALIST / DATA SCIENTIST | Black Frame | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440540124 |
+| Oracle Fusion SCM Support Analyst - Remote | NTT DATA North America | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4432016895 |
+| Administrative Support V | Recovery Alberta | 2026-07-14 | G | https://ca.indeed.com/viewjob?jk=da1a0ff600c73579 |
+| Principal AI Engineer, Agentic Models and Data Platforms | RBC | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4346130734 |
