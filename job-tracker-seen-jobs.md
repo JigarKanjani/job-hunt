@@ -14225,3 +14225,45 @@
 | Oracle Fusion SCM Support Analyst - Remote | NTT DATA North America | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4432016895 |
 | Administrative Support V | Recovery Alberta | 2026-07-14 | G | https://ca.indeed.com/viewjob?jk=da1a0ff600c73579 |
 | Principal AI Engineer, Agentic Models and Data Platforms | RBC | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4346130734 |
+| Contract Project Planner / Scheduler | Cenovus Energy | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=289262c72d64c4cb |
+| Procurement Specialist | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439867406 |
+| Strategic Sourcing Specialist | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439865430 |
+| Procurement Specialist | Dasro Consulting Inc. | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440574342 |
+| Project Coordinator - Permanent - 19267 | LRO Staffing | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4437631150 |
+| HR Application Analyst | City of Calgary | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439877207 |
+| Senior Maximo Data / Functional Analyst | Taleo Project Services Inc | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439869630 |
+| Contracts Legal Counsel | Wood | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4432024793 |
+| Revenue Operations Analyst | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439862563 |
+| HR Systems Specialist | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439869400 |
+| Technical Talent Acquisition Specialist (Contract) | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439865429 |
+| Payroll Specialist | Robert Half | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439867758 |
+| Talent Acquisition Coordinator (6-month Contract) | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439858617 |
+| Brand and Marketing Lead - EY Tax (Hybrid) | EY | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4437695384 |
+| Category Manager | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439865425 |
+| Office Coordinator | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439857654 |
+| Contract Conformance Specialist III | Airswift | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4440572370 |
+| Program Coordinator, Vision Mate/Peer Support | CNIB | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439854854 |
+| Factory Test Specialist | CoolIT Systems | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439863521 |
+| Operations Associate | Lime | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4430833113 |
+| Quality Assurance Analyst II | Omega 365 | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=aa806743bd345274 |
+| Client Services Coordinator | Compliance Mentorz Inc | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=7b9de42dca438b67 |
+| Administrative Assistant | NES Fircroft | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4437695368 |
+| Help Desk Intern | A&A Consulting | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=7f95b08d26a25eca |
+| Help Desk Intern | Contego Tech Solutions | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=5a30ae66f3c9d981 |
+| Enterprise Strategy Analyst | Servus Credit Union | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=16126f6d6b373c7f |
+| Change Management Analyst, BC Health Workday | Provincial Health Services Authority (PH | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=dddd68d1d279b499 |
+| Change Management Specialist, BC Health Workday | Provincial Health Services Authority (PH | 2026-07-14 | R | https://ca.indeed.com/viewjob?jk=7716ec9373c1085c |
+| Quality Assurance Automation Engineer | Synechron | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4437677762 |
+| Java Developer | Synechron | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4437691314 |
+| Test Specialist (Evening Shift) | CoolIT Systems | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439873092 |
+| Test Specialist (CDU) | CoolIT Systems | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4439864492 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440553249 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440543694 |
+| Online Data Analyst (Remote French Canada) | TELUS Digital AI Data Solutions | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440544825 |
+| Online Data Analyst (Remote French Canada) | TELUS Digital AI Data Solutions | 2026-07-14 | R | https://www.linkedin.com/jobs/view/4440549638 |
+| Receptionist/Sales Administrator | Perfect Fit Automotive Group | 2026-07-14 | G | https://ca.indeed.com/viewjob?jk=6c5470809b04792d |
+| Customer Service Representative - Auto Body (Royal Vista) | Boyd Autobody & Glass | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439868414 |
+| Project Controller | Net2Source (N2S) | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4440560885 |
+| Cost Controller | JDS Group of Companies | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439864611 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - S | Signet Jewelers | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4267349394 |
+| Associate and Principal | TalentSphere Staffing Solutions | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4431709832 |
