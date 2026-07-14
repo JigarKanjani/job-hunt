@@ -14196,3 +14196,13 @@
 | Project Controller - Environmental | WSP in Canada | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439820991 |
 | Project Scheduler - Heavy Civil | Morgan Construction and Environmental Lt | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439829358 |
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439843428 |
+| Procurement Specialist III | Alberta Health Services | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=b855ed8b2fc8b13f |
+| Procurement Specialist III | Alberta Health Services | 2026-07-14 | J | https://ca.indeed.com/viewjob?jk=1e5c26e77f9d1ef4 |
+| Lead, Cost Control | Trans Mountain | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4439461854 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-14 | J | https://www.linkedin.com/jobs/view/4432082203 |
+| Coordinator | Alberta Health Services | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=5d887c895c70e4bf |
+| Coordinator | Alberta Health Services | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=dcffd22b20c890aa |
+| Project Coordinator, Alberta Innovates Summer Research Stude | Mount Royal University | 2026-07-14 | N | https://ca.indeed.com/viewjob?jk=ea9ebe22f88a96a3 |
+| Indigenous Care Liaison | Covenant Health Canada | 2026-07-14 | N | https://www.linkedin.com/jobs/view/4437657863 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4418722140 |
+| Property Management Associate | Global Technical Talent, an Inc. 5000 Co | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4437678150 |
