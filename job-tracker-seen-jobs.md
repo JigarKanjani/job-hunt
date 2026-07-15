@@ -14352,3 +14352,21 @@
 | Administrative Support IV | Alberta Health Services | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=1ce1491a1a9272d0 |
 | Litigation Associate | Parlee McLaws LLP | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=7ff429bd81eab005 |
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440210053 |
+| Health & Safety Specialist | Onterris | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4432263498 |
+| Senior Technology Operations Analyst, AMS EC SuccessFactors, | EY | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4418779966 |
+| Senior Global Benefits & Leaves Specialist | Clio | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4431247606 |
+| Procurement Specialist | Aecon Group Inc. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4431430495 |
+| Business Analyst | Plato | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=2e9d241ad14891bb |
+| Personal Trainer | Anytime Fitness Asia | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440222403 |
+| AI Process Automation Specialist — Copilot & Business Operat | Coppice | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440205593 |
+| Financial Data Analyst | $65/hr Remote | Crossing Hurdles | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4432286283 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440977383 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440985204 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440973925 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440973800 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440964848 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440202996 |
+| Python Developer - Fully Remote | Upto $50/hr | Mercor | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4432503931 |
+| Healthcare Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4432517659 |
+| Project Control Specialist | Net2Source (N2S) | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440975867 |
+| Associate Principal, AI & CX Solutions Strategist | TELUS Digital | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4423961574 |
