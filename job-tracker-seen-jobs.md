@@ -14314,3 +14314,13 @@
 | Front Desk Associate | Musicworks Canada | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4439956980 |
 | Research Associate, Arnie Charbonneau Cancer Institute | University of Calgary | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440903255 |
 | Customer Service Representative | Indigenous Energy Monitor | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4439959767 |
+| Site Project Controls Lead | JDS Energy & Mining | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=62e87060542429cc |
+| Human Resources Specialist | SUMMIT | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439982336 |
+| Business Intelligence Analyst | PBS Systems | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438062512 |
+| Mortgage Specialist | RBC | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440921250 |
+| Privacy Advisor | Alberta Health Services | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439976825 |
+| Billing Administrator | GFL Environmental | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=69334ad560912931 |
+| SECURITY SPECIALIST | Naval Air Warfare Center Training System | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440942304 |
+| Quality Control Coordinator | North American Construction Group | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4439993494 |
+| Business Solutions Analyst - Enterprise Service Management | University of Alberta | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=be8d8c1d16cc42e7 |
+| Administrative Support III | Primary Care Alberta | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=4a57047e71061599 |
