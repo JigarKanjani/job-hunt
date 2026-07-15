@@ -14267,3 +14267,50 @@
 | Cost Controller | JDS Group of Companies | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4439864611 |
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - S | Signet Jewelers | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4267349394 |
 | Associate and Principal | TalentSphere Staffing Solutions | 2026-07-14 | G | https://www.linkedin.com/jobs/view/4431709832 |
+| Human Resources Specialist | Summit, An Earth Services Company | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=9db11a88cc494ca0 |
+| Supervisor Building Operations | Mancal | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=24b2028c71d334fd |
+| Clinical Coordinator – Calgary, AB | Snore MD Sleep Apnea Clinics | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=85f7d1e1e5d6fb16 |
+| Proposal Coordinator | OKANE | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=cff32d9ba9644632 |
+| Facility Asset Management Analyst | City of Calgary | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=bd262d1198da344c |
+| Business Analyst III, Infrastructure | Calgary Airports | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440874891 |
+| CRM Technical Business Analyst | Canadian Cancer Society | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439942617 |
+| Project Support Coordinator | Nedco | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439972637 |
+| Project Operations Coordinator (Marketing) | MNP | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439967265 |
+| Site Project Controls Lead | JDS Group of Companies | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439967373 |
+| Program Coordinator (Contract) | ECO Canada | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440905149 |
+| Technical Sales Specialist | ABB | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4432472014 |
+| Cell Phone Advisor | the WIRELESS kiosk @Costco / le kiosque  | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439962626 |
+| Education Lead | Alberta Civil Liberties Research Centre | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439960860 |
+| Artificial Intelligence Analyst | PCL Construction | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440906006 |
+| Guest Experience Lead | Southcentre Mall | lululemon | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438060247 |
+| Advisor, Investor Awareness & Education (1-year term positio | Alberta Securities Commission | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440892672 |
+| SAP SD Functional Tester / Configuration Analyst | Accenture | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439984086 |
+| Delivery Lead – Content Operations | Accenture | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439971776 |
+| North America Sector Leader, Water Treatment - location flex | Stantec | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440889316 |
+| Managing Technical Consultant, Intermediate Hydrogeologist a | ERM | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438032611 |
+| Student Recruitment Advisor, Office of the Registrar | University of Calgary | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440311917 |
+| Heavy Equipment Rental Coordinator | Morgan Construction and Environmental Lt | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439971176 |
+| PICU Research - Administrative Assistant | University of Calgary | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=e564066452f6e49e |
+| Service Advisor – Pacific Place | Canadian Tire Corporation, Ltd. | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=bb08835059c51a3a |
+| Service Advisor – Pacific Place | Canadian Tire Corporation, Ltd. | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=0222b9c761eb84ef |
+| Community Resource Worker, PACE | DDRC | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=b564814674dc852d |
+| Records and Information Analyst | City of Calgary | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=58b73d69d3314999 |
+| Client Relations Coordinator | Lift Auto Group | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=fe272de01ba408e6 |
+| Corporate Administrator | Edon Management | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=4975f13d27d4f24d |
+| Curriculum Planning Coordinator - Faculty of Fine Arts and C | MacEwan University | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440564611 |
+| ADS Advisor | Government of Alberta | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4439956681 |
+| Athletics Event Coordinator - Griffins Athletics | MacEwan University | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440883898 |
+| Health & Safety Coordinator | McCain Foods | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440879935 |
+| Senior Cultural Education Analyst | Government of Alberta | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4439960559 |
+| Billing Administrator | GFL Environmental Inc. | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440906024 |
+| Power Platform Developer - Digital | Turner & Townsend Pty Limited | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=9fbf1bee1c7979cd |
+| Canada Research Chair Tier 1 in Neuromorphic Systems, Depart | University of Calgary | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=ffc14eb15300bc49 |
+| Certified Personal Trainer- MOMENTUM, Faculty of Kinesiology | University of Calgary | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=b411ee5b63dd18cf |
+| Technical Support Engineer / Technologist | Sanjel Energy Services | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=3d8234bf0626c978 |
+| Power Platform Developer - Digital | Turner & Townsend | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4439960659 |
+| Application Specialist - Valves & Actuation | Spartan Controls | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4439955957 |
+| Research Associate, Arnie Charbonneau Cancer Institute | University of Calgary | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=41c5a493d22997f6 |
+| Scheduler - AgeCare Bow Crest | AgeCare | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440890578 |
+| Front Desk Associate | Musicworks Canada | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4439956980 |
+| Research Associate, Arnie Charbonneau Cancer Institute | University of Calgary | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440903255 |
+| Customer Service Representative | Indigenous Energy Monitor | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4439959767 |
