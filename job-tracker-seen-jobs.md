@@ -14324,3 +14324,10 @@
 | Quality Control Coordinator | North American Construction Group | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4439993494 |
 | Business Solutions Analyst - Enterprise Service Management | University of Alberta | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=be8d8c1d16cc42e7 |
 | Administrative Support III | Primary Care Alberta | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=4a57047e71061599 |
+| Advisor, Investor Awareness & Education (1-year term positio | ALBERTA SECURITIES COMMISSION | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=fbb757c3c7f82fdb |
+| Buyer | CB&I | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=41bb36b3371ab272 |
+| Quality Assurance (QA) Analyst | AbaData | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440957342 |
+| Management - Area Leader Systems & Service | Sobeys | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4431480062 |
+| Quality Control Coordinator | North American Construction Group | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=f0749eb15d893da1 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440209060 |
+| Business Advisor - Calgary Marda Loop | ATB Financial | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440963106 |
