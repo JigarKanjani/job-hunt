@@ -14391,3 +14391,37 @@
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440960955 |
 | Change Management Analyst | ThoughtStorm | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440225629 |
 | Curriculum Administrative Assistant | SunMETA Group | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=1a2961c72e7225db |
+| Executive Coordinator | University of Alberta | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=b4263466266792fe |
+| Business Analyst (Energy Trade Risk Management) | Apptoza Inc. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438417248 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4441223087 |
+| Materials Expeditor | Manpower Alberta | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440254133 |
+| Project Coordinator - Infrastructure | Graham | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4441225084 |
+| Service Coordinator | Cedarglen Homes | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440237609 |
+| Treasury Analyst | Cenovus Energy | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4441219334 |
+| Contract Specialist | AVEVA | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440235967 |
+| Senior Tax Analyst | Gibson Energy | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440259035 |
+| Business Systems Analyst (Payments) | Elgebra | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440223955 |
+| Senior Scheduler/Planner - Talent Pool | Turner & Townsend | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4423257661 |
+| Technology Lead - Azure and Databricks Admin | Infosys | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438418208 |
+| Project Controls Coordinator | RigUp | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438412655 |
+| Talent Acquisition Specialist | Bantrel | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=b440eec2ffe7d2f8 |
+| Full Time Support Worker | Edmonton Residential Aide Placement Serv | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=67d3e8944cd7de4a |
+| Program Coordinator | Peace Area Riding for the Disabled Socie | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=c077e8f308db6557 |
+| Community Program Coordinator | Healthy Families Healthy Futures | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=dd08a06e5fc1d402 |
+| Financial Services Administrator | Municipal District of Lesser Slave River | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=ec2b2931d8a23df4 |
+| Virtual Administrator / Client Care Coordinator | Unleash Synergy | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=577ec95baf4cb10f |
+| Virtual Administrator / Client Care Coordinator | Unleash Synergy | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=becca15968c35345 |
+| Administrative Assistant | Renfrew Educational Services | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440241787 |
+| Accounts Receivable / Billing Administrator | Vertex Resource Group Ltd. | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440248035 |
+| Project Administrator | Taleo Project Services Inc | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440236971 |
+| Financial Advisor - CIRO-ID | CIBC | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4441226179 |
+| Hearing Aid Specialist or Audiologist | Amplifon | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4441210678 |
+| Angular Developer | Green PI Inc | 2026-07-15 | R | https://ca.indeed.com/viewjob?jk=c76b8f387b851dab |
+| Android Developer | Cosqube | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440232318 |
+| Project Delivery and QA Analyst | City of Edmonton | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4438405733 |
+| Administrative Assistant | Bath Fitter | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=58b5dfad1e37c818 |
+| Administrative Assistant | Big Ben Cleaning Inc | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=b1e5bd974dc406d3 |
+| Development Stream Coach and Administrator | The Glencoe Club | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=3cd3352a99bb0f66 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4267350199 |
+| Customer Success Specialist | Indigenous Energy Monitor | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440233732 |
+| Optimization Specialist | NES Fircroft | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4441221119 |
