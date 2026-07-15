@@ -14331,3 +14331,24 @@
 | Quality Control Coordinator | North American Construction Group | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=f0749eb15d893da1 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440209060 |
 | Business Advisor - Calgary Marda Loop | ATB Financial | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440963106 |
+| Privacy Advisor | Alberta Health Services | 2026-07-15 | J | https://ca.indeed.com/viewjob?jk=17ce99f80c2b2fd5 |
+| Advisor - Environmental Operations Compliance | Boralex Inc. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438334829 |
+| Senior Advisor, Cyber Compliance | TransAlta | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4432299396 |
+| Host / Hostess / Guest Service Leader - JOEY Eau Claire | JOEY Restaurant Group | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4429497062 |
+| Host / Hostess / Guest Service Leader - JOEY Crowfoot | JOEY Restaurant Group | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4429485558 |
+| Host / Hostess / Guest Service Leader - JOEY Barlow | JOEY Restaurant Group | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4429471114 |
+| Shift Leader - JOEY Crowfoot | JOEY Restaurant Group | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4429474577 |
+| Aircraft Engine Production Planner Hybrid Model (remotely &  | Lufthansa Technik Canada | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438074868 |
+| Parking and Transportation Services Operations Coordinator | Mount Royal University | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=0488e760246ea706 |
+| Instructor – Case Manager Educator | Alberta Health Services | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=fa013115340b2655 |
+| office administrative assistant | Pet Heaven Crematorium And Funeral Chape | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440958601 |
+| Server Liaison - JOEY Chinook | JOEY Restaurant Group | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4429473506 |
+| Server / Server Liaison - JOEY Crowfoot | JOEY Restaurant Group | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4429494149 |
+| Digital Experience Coordinator | JSG (Johnson Service Group, Inc.) | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4432289218 |
+| administrative assistant | Bevo Farms Ltd | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440974063 |
+| Business Solutions Analyst - Enterprise Service Management | University of Alberta | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440957705 |
+| Remote Finance & Research Analyst | Turing | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440218026 |
+| Financial Data Analyst | $65/hr Remote | Crossing Hurdles | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4432286283 |
+| Administrative Support IV | Alberta Health Services | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=1ce1491a1a9272d0 |
+| Litigation Associate | Parlee McLaws LLP | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=7ff429bd81eab005 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440210053 |
