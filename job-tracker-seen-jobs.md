@@ -14370,3 +14370,24 @@
 | Healthcare Specialist - Fully Remote | Upto $180/hr | Mercor | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4432517659 |
 | Project Control Specialist | Net2Source (N2S) | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440975867 |
 | Associate Principal, AI & CX Solutions Strategist | TELUS Digital | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4423961574 |
+| Procurement Specialist | Dasro Consulting Inc. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440994876 |
+| District Solvent Specialist | Univar Solutions | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440991899 |
+| Payroll UKG Project Analyst | City of Calgary | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440228459 |
+| Project Coordinator | Net2Source (N2S) | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440999168 |
+| Customer Solutions Specialist | goeasy Ltd. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438094674 |
+| Maintenance Planner / Scheduler | Graymont | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440220784 |
+| GRC Specialist | Hays | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440991384 |
+| Discipline Lead - Utilities | Arcadis | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4438400268 |
+| Talent Acquisition Specialist | Bantrel Co. | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4441209207 |
+| Lead Java Developer | Avance Consulting | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440234302 |
+| Senior Communications Advisor (Contract) | Trans Mountain | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4439871836 |
+| Supply Chain Manager | Bird Construction | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4421898143 |
+| Project Control Specialist | Net2Source (N2S) | 2026-07-15 | J | https://www.linkedin.com/jobs/view/4440992283 |
+| Appointment Coordinator/Service Reception | CanadaOne Auto Group | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=6467fbf5cd10f8dd |
+| Service Coordinator | Prospect Human Services | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=6db9092230b3cc2c |
+| Facilitator | Prospect Human Services | 2026-07-15 | N | https://ca.indeed.com/viewjob?jk=50e6b676182c2c7c |
+| Academic Calendar Coordinator - Office of the University Reg | MacEwan University | 2026-07-15 | N | https://www.linkedin.com/jobs/view/4440833557 |
+| C# Developer (Remote) | Hire Feed | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440977404 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440960955 |
+| Change Management Analyst | ThoughtStorm | 2026-07-15 | R | https://www.linkedin.com/jobs/view/4440225629 |
+| Curriculum Administrative Assistant | SunMETA Group | 2026-07-15 | G | https://ca.indeed.com/viewjob?jk=1a2961c72e7225db |
