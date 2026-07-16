@@ -14466,3 +14466,22 @@
 | Associate Agricultural Service | TD | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=49a73e554811a206 |
 | Sales Associate | Anytime Fitness Asia | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440621082 |
 | Maintenance Support Associate | Staples Canada | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441410698 |
+| Procurement Manager | Fresh Prep | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=d1d3ccd4e0f89c73 |
+| Finance Coordinator | City of Calgary | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=98164fd3c0821d67 |
+| Supply Chain / Procurement Engineer | Engage Building Products | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=813cbec61d0e624a |
+| Supply Chain Specialist | South Bow | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=1bb629caacb744a1 |
+| Analyst, IT Business - Information Technologies | University of Calgary | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=5e12ab6cb958a58c |
+| Tech/Facility Support Analyst, UCalgary Continuing Education | University of Calgary | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=0681515afb75f51b |
+| ADS Advisor | Government of Alberta | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440625412 |
+| Mobile Mortgage Specialist | TD | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441414856 |
+| 2027 Global Investment Banking Full Time Analyst Program - C | JPMorganChase | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441415675 |
+| Business Advisor - Aspen Woods, Calgary, AB (Temporary - 1 Y | Scotiabank | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440632041 |
+| Industrial Cybersecurity Specialist | Spartan Controls | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440624687 |
+| Workday Certified Payroll Lead | Accenture | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440640408 |
+| Financial Advisor - CIRO-ID | CIBC | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441439059 |
+| Lead Technician | Synectics Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440640079 |
+| Aquatic Programming Student Leader | Mount Royal University | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438455140 |
+| Summer Camp Counselor | Easter Seals Alberta | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441411861 |
+| IT Support Associate - Group Health | Compugen Inc | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=c3208f26707941c2 |
+| Employment Verification Specialist | True North Mortgage | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=0cec0d242679ad1a |
+| ADMINISTRATIVE ASSISTANT-AFTERNOON SHIFT-MCF, CALGARY, AB | JBS Foods | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=32259920c50467e7 |
