@@ -14425,3 +14425,44 @@
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4267350199 |
 | Customer Success Specialist | Indigenous Energy Monitor | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4440233732 |
 | Optimization Specialist | NES Fircroft | 2026-07-15 | G | https://www.linkedin.com/jobs/view/4441221119 |
+| Senior Program Manager - Real Estate Central Office Optimiza | Telus | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=5dc858fb236bdd0c |
+| Brand Lead - GP | King's Energy Services | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=604e5be053ed1c24 |
+| Supply Chain Specialist | South Bow | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440289701 |
+| Safety Program Analyst | Rockwell Automation | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441274856 |
+| Procurement Manager | Fresh Prep 🇨🇦 | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440289968 |
+| Data Solutions Specialist | SMART Technologies | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438435923 |
+| Lead, Operations Coordinator | Brookfield Residential | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440613683 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441287007 |
+| Senior Advisor, Incident Management | Cenovus Energy | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441288131 |
+| Systems Integration Lead | AtkinsRéalis | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441290807 |
+| Systems Integration Lead | AtkinsRéalis | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441402280 |
+| Accounts Payable and Advisor Commissions Specialist | iA Financial Group (Industrial Alliance) | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441404347 |
+| Senior Program Manager - Real Estate Central Office Optimiza | TELUS | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440295490 |
+| Senior Trade Compliance Specialist | Finning | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440280669 |
+| AP Analyst | Parkland Corporation | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440296395 |
+| AP Analyst | Parkland Corporation | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440292538 |
+| Financial Analyst | Morgan Construction and Environmental Lt | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440615742 |
+| Community Support Worker Residential Program (Permanent Part | Calgary Alternative Support Services | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=a8efd5b2b537bef5 |
+| Business Advisor - Aspen Woods, Calgary, AB (Temporary - 1 Y | Scotiabank | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=409377cc14106085 |
+| ADS Advisor | Government Of Alberta | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=f5dc8073d73c4322 |
+| Fulfilment Operations Co-worker (PT) | IKEA | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=d638ef31dedf40d6 |
+| Internal Audit Analyst | Canadian Natural | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=20c2c7f0390d7dd3 |
+| Project Coordinator – User Experience | Alberta Blue Cross | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=e46471fce6c4d4e0 |
+| Accounts Payable and Revenue Coordinator | Government Of Alberta | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=2bab5b2cb5bc089e |
+| Chief Legal Advisor | National Bank of Canada | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=1afb599f5a3020d3 |
+| Property Administrator | Colliers | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441404013 |
+| Internal Audit Analyst | Canadian Natural Resources Limited (CNRL | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440295312 |
+| Forms Administrator | FirstService Residential Canada | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441277418 |
+| Coordinator of Volunteers | Believe in the Gold | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440289365 |
+| Facilitator | Prospect Human Services Society | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441294692 |
+| Project Coordinator - Heavy Oil (RMWB) | OCL Group | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441417200 |
+| Community Disability Worker - Full Time Day Hours | Robin Hood Association | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440284937 |
+| Volunteer & Community Coordinator | Mission Thrift Store Mississauga | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4438438668 |
+| Service Coordinator | Prospect Human Services Society | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441296664 |
+| SITECH Technology Support Specialist | Finning | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=18b1c3a47bb8b81f |
+| Data Solutions Specialist | SMART Technologies | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=a4a164cf9e42fb69 |
+| Personal Trainer | Anytime Fitness Asia | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440612344 |
+| Personal Banking Associate | TD | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=cca12897942a52bb |
+| Associate Agricultural Service | TD | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=49a73e554811a206 |
+| Sales Associate | Anytime Fitness Asia | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440621082 |
+| Maintenance Support Associate | Staples Canada | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441410698 |
