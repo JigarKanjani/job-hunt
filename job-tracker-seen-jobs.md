@@ -14515,3 +14515,29 @@
 | Research Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441493028 |
 | Financial Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441471339 |
 | Payroll Administrator - Contract | Agilus Work Solutions | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440701089 |
+| Learning Systems and Analytics Specialist | Rippling | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=9af88a16b0b7e1e0 |
+| SAP Materials Management (MM) Consultant | Experis | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440759301 |
+| Planning Analyst | A Igreja de Jesus Cristo dos Santos dos  | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441486980 |
+| Communications Advisor | Calgary Board of Education | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441492558 |
+| Program Coordinator, Alberta Children's Hospital Research In | University of Calgary | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441488948 |
+| Client Experience Specialist | Edward Jones | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440756173 |
+| Strategic Partnerships Lead - Credit Unions | Helcim | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441498668 |
+| Insurance Advisor | Western Financial Group | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432844638 |
+| Credit Analyst | Robert Half | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440754764 |
+| Damage Prevention Coordinator | ATCO | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440754529 |
+| Payroll & Benefits Coordinator | City of St. Albert | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440745855 |
+| Project Coordinator | Turner & Townsend | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4424211858 |
+| Office Administrator | Volume 1 Group of Companies | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=579d8c39266aba6a |
+| Specialist, Automation & Monitoring | Nutrien | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4438717812 |
+| Junior Embedded Linux Developer | TEKTELIC | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4438726579 |
+| iOS Developer | KAnand Corporation | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440764213 |
+| Machine Learning Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441475907 |
+| Network Systems Integrator | Arcadis | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4438721238 |
+| AI Analyst (Remote) | Quik Hire Staffing | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441491217 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441600424 |
+| Personal Banking Associate | BMO | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440855055 |
+| Personal Banking Associate | BMO | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440838698 |
+| Project Cost Controller | Airswift | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4438718816 |
+| Advisor TIS Workday and HR Support | Enbridge | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4438735346 |
+| Associate | Indigenous Energy Monitor | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440761365 |
+| Associate Principal, CX Application Strategy | TELUS Digital | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4423949740 |
