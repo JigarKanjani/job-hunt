@@ -14541,3 +14541,52 @@
 | Advisor TIS Workday and HR Support | Enbridge | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4438735346 |
 | Associate | Indigenous Energy Monitor | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440761365 |
 | Associate Principal, CX Application Strategy | TELUS Digital | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4423949740 |
+| Inside Sales Coordinator | Steele's Transportation Group | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=dcc366b8658cf188 |
+| Cook / Nutrition Advisor | Canadian Mental Health Association - Cal | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=7a846ab2add88860 |
+| Marketing Coordinator | UNICE DENTAL ART LTD | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=32133d4ef2ebd125 |
+| Business Analyst | EXCHANGER INDUSTRIES LIMITED | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=6eb2eef2fad773e7 |
+| Accounts Administrator / Logistics Coordinator | Field & Forge Brewing Co | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=c0a3e3209709963d |
+| Operations Supervisor | Heartland Housing Foundation | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=9676c27b2be470f7 |
+| Program Manager – Return to Work Program | Lifemark Health Group | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=4358d3c85dbd7df2 |
+| Team Lead, Rehab – Return to Work Program | Lifemark Health Group | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=a344f6f0224afb86 |
+| ETRM Business Analyst (BA) | Apptoza Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438743084 |
+| Analyst, Tax [Transfer Pricing] | Doane Grant Thornton LLP | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441611766 |
+| Planner | Indotronix Avani Group | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440775101 |
+| Talent Acquisition Specialist | Volker Stevin | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440763790 |
+| Drafting Lead - Survey | Olsen North Land Surveying Ltd. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4427737379 |
+| Storage Specialist - Contract | Compugen Inc | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440767554 |
+| Billing Specialist (Contract) | RECRUITMENT PARTNERS INC. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4433002157 |
+| Service Advisor – Dalhousie NW | Canadian Tire Corporation, Ltd. | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=913c2ab164304e85 |
+| Career Advisor | Prospect Human Services | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=5965cc2cfe35c81e |
+| Work Integrated Learning Coordinator | University of Alberta | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=acbc92ff55950fa3 |
+| campusBRIDGE Coordinator | University of Alberta | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=7e291a18e4d2cef5 |
+| Legislative Services & RSIT Coordinator | Town of Raymond | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=f2211b0c1addf750 |
+| On Going Opportunities - Administrator | RECRUITMENT PARTNERS INC. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4432899199 |
+| Reception Administrator | Fix Physio+ | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440761683 |
+| Deposit Desk Administrator | FirstService Residential Canada | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441276408 |
+| Chief Financial Officer | DV8 Energy Inc | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440753629 |
+| System Administrator | Envision Technology Solutions | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440765525 |
+| Business Administrator, A&D | Harvest Operations Corp. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440770584 |
+| Work Integrated Learning Coordinator | University of Alberta | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441619185 |
+| campusBRIDGE Coordinator | University of Alberta | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441600831 |
+| Change Management Specialist | City of Edmonton | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4438741006 |
+| Health And Safety Coordinator | Jayco Builders Inc | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440753874 |
+| Intermediate Environmental Practitioner / Project Coordinato | BBA Consultants | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4422484367 |
+| Payroll & Benefits Specialist | Robert Half | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440767349 |
+| Participant Care & Pension Specialist | Christian Education Benefit Solutions | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440766406 |
+| Storage Specialist - Contract | Compugen Inc | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=5910f25304305bba |
+| Administrator - Desk Side Services, AMT Asset Management Sof | HCLTech | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=deb338ea527d1507 |
+| IAM Specialist | Affinity | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440764987 |
+| Veterinary Hospital Inventory and Facilities Coordinator, We | VCA Animal Hospitals | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440771735 |
+| Finance Coordinator, Trust | Gowling WLG | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440777372 |
+| Building Automation Technician | Johnson Controls | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4438726634 |
+| Data Annotation Specialist (Remote) | Quik Hire Staffing | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441495891 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441602471 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441601764 |
+| Business Systems Specialist - SAP Finance | CPKC | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4433021335 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441622158 |
+| Receptionist/Administrator | Fix Physio | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=ee811db1cb631885 |
+| Office Administrator-HSA-Construction | CEL ELECTRIC | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=7ddc92008a4b1965 |
+| Receptionist | Agilus Work Solutions | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440765768 |
+| Sales Associate, Apartments.com - Calgary, Alberta | Apartments.com | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441609768 |
+| Accounts Receivable Agent (Contract) | Permasearch, a TPI Company | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440754992 |
