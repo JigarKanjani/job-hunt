@@ -14621,3 +14621,62 @@
 | Accounting and Administrative Assistant | Litus Inc. | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=9b83ff31b22873b9 |
 | Document Management Associate | Linear Logistics Ltd. | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440779398 |
 | Renovations / Restoration Associate | Boardwalk | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440779676 |
+| Technical Repair Coordinator | Celeros Flow Technology | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=4a8b6159048ae4bd |
+| Regulatory Policy Analyst | Canada Energy Regulator | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=0e9d218c7161c194 |
+| Office & Administrative Coordinator | XTREME GROUP | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=ef19803724b37d48 |
+| Guest Services Leader | Pilot Flying J | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=2b76d2a742e44599 |
+| Category Manager | Nutrien | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=f82104ea226f577c |
+| Specialist Category Fresh | Sobeys | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=c56e78285f225ef9 |
+| Business Analyst | Apptoza Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438753698 |
+| Business Analyst | LanceSoft, Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440795969 |
+| ETRM Business Analyst ( Allegro, Endur, Triple Point)- Oil & | Q1 Technologies, Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438763105 |
+| Inside Sales & Operations Coordinator | Alberta Pipe Fittings Ltd | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440783952 |
+| Procurement Specialist | Dasro Consulting Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441664500 |
+| Category Manager | Nutrien | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438740910 |
+| Facilities Operations Support Specialist, FM Admin, Faciliti | University of Calgary | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440325224 |
+| Lead, Continuous Improvement | Saputo Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441657862 |
+| Mid-level Quality Coordinator | LJB Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440799689 |
+| Agricultural Advisory Associate - Alberta or Southwest Ontar | Scotiabank | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441107099 |
+| Senior Trade Finance Specialist | ATB Financial | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441665879 |
+| Specialist Category Fresh | Sobeys | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441652943 |
+| Planner/Scheduler | RigUp | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438741957 |
+| Analyst, IT Service Desk | FYihealth group | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441109416 |
+| Quality Assurance Specialist II | Seequent | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438743887 |
+| Senior Quality Coordinator | LJB Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441110375 |
+| Senior Development Officer | Calgary Public Library Foundation | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440796516 |
+| Financial Planner - Sunridge | TD | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441678150 |
+| Account Executive Regional Enterprise | Securitas Technology Canada | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441675284 |
+| Corporate Sales Coordinator | Radisson Hotel-Calgary | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=3c4e0b89cdd18c72 |
+| Donor Choice Coordinator | United Way | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=28328f0708ae93f0 |
+| Service Advisor – Dalhousie NW | Canadian Tire Corporation, Ltd. | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=f28a4d2a4ee695c3 |
+| Career Services Coordinator | CDI College | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=714216897004405f |
+| Patient Care Coordinator | Resolve Sleep Health Inc | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=cd23f72af624acb7 |
+| EOI - Administrative Assistant - Calgary | Raise | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441656313 |
+| Health & Safety Administrator | Surge Energy Inc | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4429368631 |
+| Administrative Assistant | Helical Pile Solutions Ltd. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441660810 |
+| Senior Administrative Assistant - FT - Calgary | Coast Claims Insurance Services | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441654942 |
+| SCM Service Center Administrator | Cenovus Energy | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441692023 |
+| Payroll Administrator | FLINT Corp. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441686151 |
+| Project Administrator | Indotronix Avani Group | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441121163 |
+| Business Analyst (OCM) | Apptoza Inc. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4438759377 |
+| IT ACCS Project Coordinator - Information Technologies | University of Calgary | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440320667 |
+| Analyst | Open Property Group | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441113358 |
+| Analyst, IT Service Desk | FYidoctors | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4438746679 |
+| Industrial Construction Specialist | Stanley Black & Decker, Inc. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441683406 |
+| Drilling Optimization Specialist | IMDEX | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441669969 |
+| Drilling Optimization Specialist | Krux Analytics Inc. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441686121 |
+| ETRM Business Analyst | LanceSoft, Inc. | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441100617 |
+| HR Operations Specialist (Remote) - Oracle Cloud | ADP | Collabera | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4438744768 |
+| Payroll Administrator | PCL Construction | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4441655750 |
+| IT System Administrator | World Vision Canada | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=edf4a61000de0506 |
+| Claims Processor (12-Month Contract) | GroupSource LP | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440787874 |
+| Process Engineer | Acero Engineering | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441112177 |
+| Systems Administrator | PCL Construction | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441668354 |
+| IT Support Engineering Specialist | Gilead Sciences | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441110458 |
+| Administrative Assistant | Helical Pile Solutions | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=99f41dbd9134f81d |
+| Commercial Real Estate Agent | REAL ESTATE PARTNERS | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=9d1e0c38b6aeb8a3 |
+| Receptionist, Canada Area Office | The Church of Jesus Christ of Latter-day | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441102356 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440798966 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441101634 |
+| Program Specialist, Payments Support | FreshBooks | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441691217 |
+| Project Administrator II | JSG (Johnson Service Group, Inc.) | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441105780 |
