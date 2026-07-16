@@ -14485,3 +14485,14 @@
 | IT Support Associate - Group Health | Compugen Inc | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=c3208f26707941c2 |
 | Employment Verification Specialist | True North Mortgage | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=0cec0d242679ad1a |
 | ADMINISTRATIVE ASSISTANT-AFTERNOON SHIFT-MCF, CALGARY, AB | JBS Foods | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=32259920c50467e7 |
+| Project Coordinator - Heavy Oil (RMWB) | OCL Group Inc. | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=d0cd0abbd4fb254c |
+| Procurement Manager | MacDonald Search Group | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440655050 |
+| FACILITY & PLANT PLANNING SECTION LEAD | Naval Air Warfare Center Training System | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438476604 |
+| Social Worker | Recovery Alberta | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=a8a65f001d88ef55 |
+| ADMINISTRATIVE ASSISTANT-AFTERNOON SHIFT-MCF, CALGARY, AB | JBS USA | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440638881 |
+| Preventative Maintenance Coordinator | Boardwalk | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440645760 |
+| Client Experience Specialist | Edward Jones | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440663353 |
+| Mobile Mortgage Specialist | TD | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=c156c1b14f0b5fa2 |
+| Administrative Support III | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440637982 |
+| Administrative Support IV | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440645706 |
+| Administrative Support III | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440640908 |
