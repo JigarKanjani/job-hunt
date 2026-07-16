@@ -14501,3 +14501,17 @@
 | Technical Supervisor, Group Contracts | Co-operators | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432468185 |
 | Benefits & HR Coordinator | Enerflex Ltd. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438486975 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440675815 |
+| Airline Support Specialist - Calgary, Alberta | Accommodations Plus International | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4431725191 |
+| Proposal Specialist | Dillon Consulting Limited | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441456784 |
+| WHS Specialist | Amazon | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432893535 |
+| Field Engineering Specialist Regional II | Purolator Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440754055 |
+| Senior Advisor, Reliability Compliance | TransAlta | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432449987 |
+| Senior Insurance Advisor | Westland Insurance Group Ltd. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4429893482 |
+| Service Desk Analyst - Afterhours | Compugen Inc | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4439920512 |
+| Team Lead, Software Development | Seequent | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4402860014 |
+| Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440731885 |
+| Mobile Developer (React Native / Expo) | Dialist Marketplace Inc. | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=ad3efd7f54d40d80 |
+| Software Delivery Developer - Gen AI and AI-Accelerated | KPMG Canada | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4432845599 |
+| Research Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441493028 |
+| Financial Analyst (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441471339 |
+| Payroll Administrator - Contract | Agilus Work Solutions | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440701089 |
