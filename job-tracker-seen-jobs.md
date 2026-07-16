@@ -14590,3 +14590,34 @@
 | Receptionist | Agilus Work Solutions | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440765768 |
 | Sales Associate, Apartments.com - Calgary, Alberta | Apartments.com | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441609768 |
 | Accounts Receivable Agent (Contract) | Permasearch, a TPI Company | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440754992 |
+| Annual Giving Coordinator | Unison at Veiner Centre | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=1c88f26506ee2300 |
+| FOREMAN / DEMOLITION CREW LEAD | MEB Collective Inc. | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=c57daebef2c8cf30 |
+| Lead Bridge Engineer & Team Leader | GHD | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=6249321f206540ca |
+| Analyst, IT Service Desk | FYidoctors | 2026-07-16 | J | https://ca.indeed.com/viewjob?jk=993589cdd8e8b02d |
+| Specialist, Supply Chain | Alberta Energy Regulator (AER) | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441624845 |
+| Senior Financial Analyst | Kinaxis | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441643349 |
+| Learning Systems and Analytics Specialist | Fix Network World | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438749159 |
+| Proposal Coordinator | Bird Construction | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432122812 |
+| Solution Architect – Supply Chain Product & Innovation(High- | Kinaxis | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441631680 |
+| Enterprise Content Management Consultant | Agilus Work Solutions | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440786376 |
+| Customer Success Lead | WatchDog | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438745198 |
+| Account Executive Enterprise Sales | AppViewX | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441620865 |
+| Lead AI Engineer | Brilliant Harvest Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440785182 |
+| Field Safety Specialist - Western Canada District | Kiewit | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432129404 |
+| ETRM Business Analyst ( Allegro, Endur, Triple Point)- Oil & | Q1 Technologies, Inc. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438749242 |
+| Project Planner | Net2Source (N2S) | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4441602743 |
+| Inventory Specialist | Univar Solutions | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432881185 |
+| Payroll Administrator | ClearWater Energy Services | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=4428151acdb170ed |
+| Office Administration / Social Media Client Coordinator | Titanium Sign & Design Ltd. | 2026-07-16 | N | https://ca.indeed.com/viewjob?jk=1a68960f09c768e3 |
+| Proposal Coordinator | Bird Construction | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4432130503 |
+| PMO Administrator | Parsons Corporation | 2026-07-16 | N | https://www.linkedin.com/jobs/view/4440863336 |
+| Analyst, Tax [Transfer Pricing] | Doane Grant Thornton LLP | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=ad0d9db0d1ae1ce3 |
+| Systems Administrator | PCL Construction | 2026-07-16 | R | https://ca.indeed.com/viewjob?jk=9598b4c6a71b3609 |
+| Microsoft Dynamics 365 Business Analyst- Local to Calgary, A | Q1 Technologies, Inc. | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4438737908 |
+| Golang Developer (Remote) | Hire Feed | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4441625180 |
+| Telecommunication Information Systems Technologist | Akkodis | 2026-07-16 | R | https://www.linkedin.com/jobs/view/4440779801 |
+| Legal Administrative Assistant - Financial Services | McMillan LLP | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=f2d838f51f63c482 |
+| Administrative Assistant | Vashist Immigration | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=e159b366ec6f7ffe |
+| Accounting and Administrative Assistant | Litus Inc. | 2026-07-16 | G | https://ca.indeed.com/viewjob?jk=9b83ff31b22873b9 |
+| Document Management Associate | Linear Logistics Ltd. | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440779398 |
+| Renovations / Restoration Associate | Boardwalk | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440779676 |
