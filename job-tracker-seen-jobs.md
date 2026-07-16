@@ -14496,3 +14496,8 @@
 | Administrative Support III | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440637982 |
 | Administrative Support IV | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440645706 |
 | Administrative Support III | Alberta Health Services | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440640908 |
+| TruckServe Coordinator | Holman | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432887548 |
+| Planning Analyst | The Church of Jesus Christ of Latter-day | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4440654711 |
+| Technical Supervisor, Group Contracts | Co-operators | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4432468185 |
+| Benefits & HR Coordinator | Enerflex Ltd. | 2026-07-16 | J | https://www.linkedin.com/jobs/view/4438486975 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4440675815 |
