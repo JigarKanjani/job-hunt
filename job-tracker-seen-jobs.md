@@ -14719,3 +14719,13 @@
 | MANAGEMENT ANALYST | Naval Air Warfare Center Training System | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441954108 |
 | Project Coordinator, Building Construction | Ledcor | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=783dc749fdebd897 |
 | Technical Repair Coordinator | Celeros Flow Technology | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4439207352 |
+| Department Leader | Princess Auto | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=e451bf939a1762b1 |
+| Solution Architect – Supply Chain Product & Innovation(High- | Kinaxis | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=5930637c73ce97d2 |
+| Quality Analyst | Johnson Controls | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4430241014 |
+| Materials Supervisor | Johnson Controls | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4401690958 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4423512826 |
+| Developer-PeopleSoft | Peel Regional Police | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=54a31b08bab071bc |
+| Specialist, Design | AVI-SPL Canada | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4432908266 |
+| Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441185174 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441173766 |
+| Personal Banking Associate | BMO | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441256852 |
