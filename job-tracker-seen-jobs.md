@@ -14680,3 +14680,36 @@
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441101634 |
 | Program Specialist, Payments Support | FreshBooks | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441691217 |
 | Project Administrator II | JSG (Johnson Service Group, Inc.) | 2026-07-16 | G | https://www.linkedin.com/jobs/view/4441105780 |
+| Junior Analyst, Performance & Compliance - OCIF (12 Month Te | Calgary Economic Development | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=e616ace07bf0e071 |
+| Analyst, Financial Services & Vendor Reporting - Remote | Circular Materials | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=baf762c88035273e |
+| Field Coordinator | Jacobs | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441935342 |
+| Planner, Maintenance | Saputo Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441907998 |
+| Intermediate Data Management Specialist, Oncology | University of Calgary | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441920437 |
+| Specialist II Compliance | Enbridge | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4438770815 |
+| Guest Services Leader | Pilot Company | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441921193 |
+| Guest Services Leader | Pilot Flying J | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4438741916 |
+| Client Services & Delivery Lead | Digital | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441917981 |
+| Maintenance Planner | Mars | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441135884 |
+| Senior Industry Development Officer | Government of Alberta | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441149303 |
+| Resource Analyst | Government of Alberta | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441135757 |
+| Senior Financial Operations Analyst | Government of Alberta | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441149304 |
+| Job Title: GOAPRDJP00000958 - Change Management Analyst | S M Software Solutions Inc | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441922057 |
+| transport compliance officer | Ryanson Transport Ltd. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441920508 |
+| Family Resource Network Coordinator | YWCA | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=fedfe683b83f51e6 |
+| Outreach Worker | ALPHA HOUSE | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=00f0f6849344341e |
+| Office & AP Administrator | ITC Construction | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=8f37713f56fcf7c8 |
+| Humane Education Facilitator | Calgary Humane Society | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441908979 |
+| Accounts Receivable Administrator | FirstService Residential Canada | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441928351 |
+| District Sales Administrator | EFCO Forming & Shoring Solutions | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441148334 |
+| Humane Education Facilitator | Calgary Humane Society | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441916693 |
+| Issues Advisor | Government of Alberta | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441129940 |
+| UI Developer - Fully Remote | Upto $50/hr Part-time | Mercor | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441938021 |
+| Property Valuation Specialist - Remote | Upto $60/hr Part-ti | Mercor | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441919841 |
+| Front Desk Agent | Park Hill Inn & Suites | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=65ea171bcc4ac9a4 |
+| Divisional Controller - Calgary, AB | Zedcor Security Solutions | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=0a3f35898f319c34 |
+| Receptionist, Canada Area Office | A Igreja de Jesus Cristo dos Santos dos  | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441924155 |
+| Personal Banking Associate | TD | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441932089 |
+| Associate, Stock Movement | Holt Renfrew | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4438789178 |
+| Receptionist - AgeCare Dawson | AgeCare | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441927039 |
+| Financial Controller | Tiller Digital | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441920888 |
+| Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441149801 |
