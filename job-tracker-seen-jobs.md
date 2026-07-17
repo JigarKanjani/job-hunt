@@ -14779,3 +14779,26 @@
 | Intermediate Data Management Specialist, Oncology | University of Calgary | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=3176fcb3d090625e |
 | Administrative Operations Coordinator | Remote | Create Your Life | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442107198 |
 | Receptionist | Miller Thomson LLP | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4437865846 |
+| Category Manager | Nutrien | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439240572 |
+| Project Planner | SPECTRAFORCE | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442125150 |
+| Contracts and Procurement Manager | EXP | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442134143 |
+| Heavy Vehicle Parts Specialist, TruckPro | UAP Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442128470 |
+| Family Supports Navigator | YWCA | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=9495399411505c2e |
+| Housing Focused Shelter Worker- Casual/Relief | The Mustard SEED Society | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=c81b008448d91424 |
+| Equipment & Maintenance Specialist | MNP Community and Sport Centre | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=bdc0b9f68e96f2ef |
+| Client Care Coordinator / Physiotherapy Assistant | Euro Physical Therapy Lethbridge | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=f098d7d643f5ac51 |
+| Brewery Coordinator | The Grizzly Paw Pub & Brewing Company | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=8d782c092ff7f247 |
+| Account Coordinator | The Adecco Group | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=862504d04243a23f |
+| Calgary - People Advisory Services - Mobility - Expatriate T | EY | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4411530614 |
+| Project Coordinator (Full Time, Remote Position) | VeraSafe | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442101937 |
+| Administrative Operations Coordinator | Remote | Create Your Life | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442107198 |
+| Centre Coordinator | MCG Careers | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=057c5fc16a9a9ee6 |
+| IT Systems Administrator | Jen-Col Construction Ltd. | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=e44b97a3d2707963 |
+| Event Management Analyst | Thrive | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=f12c7673a71c77a6 |
+| Office Administrator | Centre for Creative Arts | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=cfe2ad30b2a9215b |
+| iOS Developer | BURGEON IT SERVICES | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4438720491 |
+| Strategic Planning Analyst II - Strategic Planning Advisor | City of Edmonton | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4439251507 |
+| Health Promotion Specialist (Remote) | Homewood Health Centre | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4437588301 |
+| Specialist Network Security Design- EN | CN | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4433361917 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441318028 |
+| Customer Service Representative | Perfect Home Furniture | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=94fa959bfbc98409 |
