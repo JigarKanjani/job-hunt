@@ -14873,3 +14873,56 @@
 | Production Associate - Garment/Linen/Bulk Product Folder - 2 | Cintas Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4442157385 |
 | Associate Mortgage Underwriter, Third Party Residential Unde | First National Financial LP | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441333950 |
 | Client Advisor, AX Outlet, CrossIron (PT) | Giorgio Armani | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4432687337 |
+| Distribution and Carrier Support Analyst Level 1 | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=6b7e4bbe576c4464 |
+| Logistics Specialist | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=f36d015092f94260 |
+| Process Coordinator | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=1e3aa6ca21eb05e1 |
+| Project Coordinator | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=45f7f831fa6047a7 |
+| CAPEX Coordinator | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=038a329aa475fd9c |
+| Talent Acquisition Coordinator - Contract | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=6468a37e759aefa8 |
+| District Sales Coordinator | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=816b4ed42745e581 |
+| Project Coordinator | Displayco Canada Inc. | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=d3978a10c782991e |
+| Service Support Analyst | PBS Systems | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=701cd34801370057 |
+| Financial Coordinator | Bb4ck | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=88d8b21ec93e2322 |
+| People & Culture Advisor | Calgary Drop IN & Rehab Society Centre | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=ae78199742f6690c |
+| Client Experience Coordinator | Lux Windows and Doors | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=ef70ec5c3a60db2f |
+| Systems Analyst | Wellington-Altus Private Wealth Inc. | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=e8db3e2a4adfab2b |
+| Content & Social Media Specialist | Lux Windows and Doors | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=0f938760ed7aa66f |
+| Procurement Specialist | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=0f171d491566015c |
+| Procurement Manager | Amrize | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=e1713497a2a04062 |
+| Operations & Facilities Coordinator | Sunbelt Solomon | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=abbf89b4342722d9 |
+| Philanthropy Coordinator | Alberta Cancer Foundation | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=18a4600f3e459117 |
+| Admissions Advisor, Undergraduate | Ambrose University College | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=0dee57a973d766fd |
+| ICQA Data Analyst | Amazon.com | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=47c49732cbaf2a41 |
+| ETRM Business Analyst | Apptoza Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439276374 |
+| Senior Contracts Specialist (Contract) - Calgary | Trans Mountain | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441366231 |
+| Project Procurement Specialist | Robert Half | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441355723 |
+| Product Strategy Specialist - Livestock Supplies | UFA | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441356684 |
+| Team Lead, Collections | Parkland Corporation | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439266531 |
+| Investment Advisor | RBC | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=75a22e58c3520ce3 |
+| Mental Health Therapist/Counsellor (Registered Psychologist, | Building Bridges Counselling | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=87f845fd4d6fc461 |
+| Yard Worker | Amrize | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=1b14e550c4e81d29 |
+| Contract Case Worker - Elpida for Women - CODS | Catholic Social Services | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=bbca950cc912ac73 |
+| Portfolio Resource Coordinator (PRC/Scheduling) - Temporary | Paladin Security | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=8a9aa636fdd2403f |
+| Building Operations Coordinator / Concierge | Catalyst Condo Management | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=da641ecf54075611 |
+| Quality and Environment Coordinator M/F | VINCI Energies | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442182109 |
+| Early Talent Recruiting Senior Analyst | Accenture | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441364482 |
+| Branch Administrator | CIBC | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442187434 |
+| Advisor, IT End User Services | Enbridge | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439281093 |
+| Network Operations Center Analyst | Long View Systems | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439270649 |
+| Accident Benefit Claims Advisor | TD | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442177426 |
+| Mortgage Specialist - Calgary | ATB Financial | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442165963 |
+| Senior Supply Management Specialist – Drilling & Completions | Airswift | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439274334 |
+| Content & Social Media Specialist | Lux Windows & Doors | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441356491 |
+| PICU Research - Administrative Assistant | University of Calgary | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4440853286 |
+| Indigenous Engagement Specialist | Jacobs | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442191214 |
+| Equipment & Maintenance Specialist | MNP Community & Sport Centre | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442187187 |
+| Operational Coordinator - Safety Codes | City of Edmonton | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439282114 |
+| Production Coordinator, Performing Arts | Banff Centre for Arts and Creativity | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439268597 |
+| Program Services Worker (Porter) | Banff Centre for Arts and Creativity | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4438415348 |
+| IT Support Associate - Group Health | Compugen Inc | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4440279749 |
+| SAP Developer ( Hana - RAP) | TELUS Digital | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4442182673 |
+| S/4HANA ABAP Developer (RAP) | MethodHub | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4438656729 |
+| SALES ASSOCIATE - PART TIME - CALL IT SPRING | ALDO Group | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=634ff461070f22b1 |
+| Associate Mortgage Underwriter, Third Party Residential Unde | First National Financial | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=003ca7a346575b1a |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441362425 |
+| Personal Banking Associate Trainee | TD | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4442163944 |
