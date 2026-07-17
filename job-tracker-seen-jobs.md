@@ -14802,3 +14802,29 @@
 | Specialist Network Security Design- EN | CN | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4433361917 |
 | Remote Quantitative Analyst (Finance) | Turing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441318028 |
 | Customer Service Representative | Perfect Home Furniture | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=94fa959bfbc98409 |
+| Lead Hand - Receiving | Convertus Group | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=cac2066232e65752 |
+| Security technology integration specialist | Shel-Bar Electronic Ind Ltd | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=d4805db603fe962b |
+| Front Desk Receptionist / Guest Experience Coordinator | Hammam Retreat & Spa | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=166e164a6f097ecb |
+| Engineering Leader - Energy and Automation | UL Solutions | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=19367fb62026d46b |
+| Contract & Procurement Coordinator | Government Of Alberta | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=aa96eb57aa501736 |
+| Project Coordinator | Inter-Co Division 10 Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441338493 |
+| Quality and Environment Coordinator M/F | Eurovia France | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442146164 |
+| Petroleum Procurement Lead | Vault 44.01 | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441346214 |
+| Student Project Coordinator | Bird Construction | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442152119 |
+| Benefits Specialist | Globe Life AO | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441334555 |
+| Senior Specialist, Facility Decommissioning & Abandonment | Alberta Energy Regulator (AER) | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442139616 |
+| Senior Bridge Lead | Hatch | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4392474847 |
+| Maintenance Technician - Food Supply Chain | Domino's | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439266142 |
+| Trench Safety Installation Advisor | Finning | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441322335 |
+| Regional Healthcare Lead Architect, Alberta | Architecture49 Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4432911029 |
+| Senior Architect / Project Lead | TalentSphere Staffing Solutions | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4430297307 |
+| Registered Provisional Psychologist, Registered Social Worke | Shift Psychological | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=7e0a3f04c89aa2aa |
+| Trench Safety Installation Advisor | Finning | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=567d2ee05cea8d08 |
+| Project Administrator | Net2Source (N2S) | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442152277 |
+| Engagement Program Specialist | Alberta Construction Safety Association | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441332177 |
+| Human Resources Administrator | Catch Recruitment | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439242941 |
+| Installation Technical Support Representative | Gemstone Lights | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=dfb2f0694d8914bc |
+| Enterprise Strategy Analyst | Servus Credit Union | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4439895788 |
+| IT Systems Administrator | JEN COL Construction | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441329046 |
+| Receptionist | The Salvation Army in Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441343213 |
+| Anthropologie Sales Associate | Anthropologie | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4384744737 |
