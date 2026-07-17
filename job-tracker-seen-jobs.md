@@ -14762,3 +14762,20 @@
 | Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4417145047 |
 | Remote Finance & Research Analyst | Turing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441180755 |
 | Finance Analyst (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441970541 |
+| Buyer I | AltaLink | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=aed061e546b2b344 |
+| Sales Support Coordinator | Evolve Business Group | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=b84efd366372198f |
+| Buyer I | AltaLink | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441992267 |
+| Leader, Procurement | City of Calgary | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441310325 |
+| Account Coordinator | Adecco | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441315186 |
+| Area Operations Coordinator | Securitas Canada | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439245226 |
+| Quality and Environment Coordinator M/F | VINCI | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442102406 |
+| Lead, Transit Technology Engineer | City of Calgary | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441301628 |
+| Senior Infrastructure Analyst | Zodiac Solutions, Inc | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439235616 |
+| Team Lead - Calgary | Neo Financial | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4419587363 |
+| Specialist Network Security Design- EN | CN | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4433359907 |
+| Human Resource Specialist | BuzzClan | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439234651 |
+| Treatment Coordinator | Vitalis Health Strategies | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=31a1be10b36f92c1 |
+| Program Coordinator, Alberta Children's Hospital Research In | University of Calgary | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=319385bd18f2ac1d |
+| Intermediate Data Management Specialist, Oncology | University of Calgary | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=3176fcb3d090625e |
+| Administrative Operations Coordinator | Remote | Create Your Life | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442107198 |
+| Receptionist | Miller Thomson LLP | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4437865846 |
