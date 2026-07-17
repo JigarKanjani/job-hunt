@@ -14740,3 +14740,25 @@
 | IT Systems Engineer | Remote Woman | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=21803bf4f91d5468 |
 | OVERNIGHT ASSOCIATE | Walmart Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4376217442 |
 | OVERNIGHT ASSOCIATE | Walmart Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4395871645 |
+| Senior Financial Analyst - EV Charging | Parkland Corporation | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4428787924 |
+| Fleet Coordinator | Lux Limo Service LTD | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441189705 |
+| Home Comfort Advisor | Reliance Home Comfort | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441189517 |
+| Wildlife Biologist (Field Lead) | Onterris | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4432699526 |
+| AI Process Automation Specialist — Copilot & Business Operat | Coppice | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441190359 |
+| Product Engineering Specialist | IMT Group | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4433383607 |
+| Financial Data Analyst | $30/hr Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4418276445 |
+| Computer Systems Analyst | Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4417149095 |
+| Research Analyst (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441962902 |
+| AI Analyst (Remote) | Quik Hire Staffing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441986148 |
+| Data Privacy Analyst (Remote) | Quik Hire Staffing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441990012 |
+| Machine Learning Analyst (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441966835 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441990010 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441987085 |
+| Product Quality Analyst | Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441193359 |
+| C# Developer (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441979279 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441963907 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441976313 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4403615170 |
+| Financial Modeling Analyst | Remote | Crossing Hurdles | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4417145047 |
+| Remote Finance & Research Analyst | Turing | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441180755 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441970541 |
