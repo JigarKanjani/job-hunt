@@ -14729,3 +14729,14 @@
 | Front Desk Agent (Six Month Contract) | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441185174 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441173766 |
 | Personal Banking Associate | BMO | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441256852 |
+| Network Specialist/Analyst III | Calgary Board Of Education | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=b56afef288055138 |
+| Senior Regional Insurance Services LeaderEnvironmental Due D | Pinchin in Canada | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4412141702 |
+| Senior Civil Design Leader | Arup | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4433572711 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4423512826 |
+| Billing Administrator (Calgary) | Blake, Cassels & Graydon LLP | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4428762297 |
+| Quality Assurance Specialist II | Seequent | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4430298317 |
+| Compliance Officer – Risk and Assurance Services | Alberta Blue Cross | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4439209814 |
+| IT Systems Engineer | Platform.sh | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=404675e332ea96b3 |
+| IT Systems Engineer | Remote Woman | 2026-07-17 | R | https://ca.indeed.com/viewjob?jk=21803bf4f91d5468 |
+| OVERNIGHT ASSOCIATE | Walmart Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4376217442 |
+| OVERNIGHT ASSOCIATE | Walmart Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4395871645 |
