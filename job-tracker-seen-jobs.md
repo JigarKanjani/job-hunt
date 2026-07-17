@@ -14713,3 +14713,9 @@
 | Receptionist - AgeCare Dawson | AgeCare | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441927039 |
 | Financial Controller | Tiller Digital | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441920888 |
 | Sales Associate / Jewelry Consultant - Peoples Jewellers - C | Signet Jewelers | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441149801 |
+| Project Accounting Lead | Stantec | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=87bff281bf746fd5 |
+| Investment Advisor | RBC Dominion Securities | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441938560 |
+| Personal Insurance Advisor I | BrokerLink | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441939258 |
+| MANAGEMENT ANALYST | Naval Air Warfare Center Training System | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441954108 |
+| Project Coordinator, Building Construction | Ledcor | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=783dc749fdebd897 |
+| Technical Repair Coordinator | Celeros Flow Technology | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4439207352 |
