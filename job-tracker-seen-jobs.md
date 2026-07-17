@@ -14828,3 +14828,48 @@
 | IT Systems Administrator | JEN COL Construction | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4441329046 |
 | Receptionist | The Salvation Army in Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441343213 |
 | Anthropologie Sales Associate | Anthropologie | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4384744737 |
+| Senior Supply Chain Specialist | EXCHANGER INDUSTRIES LIMITED | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=6e92f2de1e5e1558 |
+| Practicum Advisor (Part Time) | St. Mary's University | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=2b17e2b5bbeff1c0 |
+| Student Project Coordinator | Bird Construction | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=97c99a2ac5d9e907 |
+| Facilities Coordinator | JLL | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=6c41cdd839b03b7b |
+| Facilities Coordinator | JLL | 2026-07-17 | J | https://ca.indeed.com/viewjob?jk=08154fd78612c68f |
+| Supply Chain Specialist (Process Orchestration) | Raise | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442151693 |
+| Senior Supply Chain Specialist | Exchanger Industries Limited | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441328376 |
+| Senior Analyst- Distribution Strategy & Onboarding | WestJet | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442151661 |
+| Application Support Analyst | Helical Pile Solutions Ltd. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442165372 |
+| ETRM System Specialist | Capital Power | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441351508 |
+| Accounting Coordinator - Reception | RESA Power | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441341929 |
+| Commercial Construction Project Coordinator | Adecco | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441350483 |
+| Installation Operations Lead | WatchDog | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439265175 |
+| Project Management Specialist | Dasro Consulting Inc. | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442157461 |
+| Supply Chain Analyst (Night shift) | Insight Global | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441349747 |
+| Oracle Procure-to-Pay (P2P) Advisor | NES Fircroft | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441340710 |
+| BMC Enablement Specialist | EY | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4439262501 |
+| Meta Ads Specialist | Western Financial Group | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441335961 |
+| Business Advisor - Macleod Centre, Calgary, AB | Scotiabank | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441354388 |
+| Senior Cyber Security Analyst | Affinity | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441354437 |
+| Capital Procurement Analyst | Government of Alberta | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441356292 |
+| Contract & Procurement Coordinator | Government of Alberta | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4441350567 |
+| Parts Room Coordinator | Mammoet | 2026-07-17 | J | https://www.linkedin.com/jobs/view/4442151660 |
+| Community Access - Community Support Worker | Columbia Training Centre | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=05e64657839cd483 |
+| HSE Advisor / Confined Space Watch | 1st Quality Safety Consulting Inc. | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=eb563e4b5fe45a08 |
+| Business Advisor - Macleod Centre, Calgary, AB | Scotiabank | 2026-07-17 | N | https://ca.indeed.com/viewjob?jk=2711c45da86decd8 |
+| SSC Facilitator | MaKami College | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442163533 |
+| Specialist Educational Assistant- High Needs Support | Stoney Education Authority | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441344618 |
+| Content Coordinator | Indigenous Energy Monitor | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441347801 |
+| SharePoint Administrator | Helical Pile Solutions Ltd. | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4442163715 |
+| S2627-02 Early Childhood Division Assistant Coordinator | Northern Lights Public Schools | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441345618 |
+| Jr. Consumer Education Specialist | Government of Alberta | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441363060 |
+| Homeschool Coordinator | Yellowhead Koinonia Christian School | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441339880 |
+| Family School Wellness Worker (Sundre) | Chinook's Edge School Division | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441357003 |
+| Family Outreach Worker (FOW) - Assumption Junior Senior High | Lakeland Catholic School Division | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441353272 |
+| Court Coordinator | Government of Alberta | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441347743 |
+| Sales & Service Coordinator | LD Filtration | 2026-07-17 | N | https://www.linkedin.com/jobs/view/4441337530 |
+| Oracle EPM Administrator | Raise | 2026-07-17 | R | https://www.linkedin.com/jobs/view/4442144916 |
+| Part Time Concierge/Receptionist | Carter Cadillac | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=e49d1b1138756e7c |
+| Customer Service Representative | Pattison Food Group - Additional Banners | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=d2cffbc69f8293c0 |
+| Customer Service Fundraiser | Elite Group Marketing | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=de9508d3bf650060 |
+| Travel Insurance Specialist | Travel Guardian Insurance Ltd. | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=5e70569c275e5288 |
+| Production Associate - Garment/Linen/Bulk Product Folder - 2 | Cintas Canada | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4442157385 |
+| Associate Mortgage Underwriter, Third Party Residential Unde | First National Financial LP | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441333950 |
+| Client Advisor, AX Outlet, CrossIron (PT) | Giorgio Armani | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4432687337 |
