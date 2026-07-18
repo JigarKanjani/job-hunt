@@ -14991,3 +14991,7 @@
 | AI Analyst (Remote) | Quik Hire Staffing | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442450942 |
 | C++ Developer (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442463119 |
 | Over-the-Counter Associate | Walmart Canada | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4411543711 |
+| WHS Specialist | Amazon | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434069067 |
+| Sales & Service Coordinator - Automotive | EBlock | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4421647603 |
+| Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441716850 |
+| Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441731357 |
