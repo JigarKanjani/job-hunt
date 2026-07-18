@@ -14958,3 +14958,14 @@
 | Administrative Support II | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=0a015521109cca7d |
 | Administrative Support II | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=f672c73a222403af |
 | Administrative Support II – Anatomic Pathology Department | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=0df66299c4c15467 |
+| Supply Management Analyst (Pipe Desk) | Airswift | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4437425670 |
+| Service Advisor - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4433401034 |
+| Program Manager | Covenant Health Canada | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4439615245 |
+| Strategic Finance Analyst | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4403611127 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4421488681 |
+| Data Annotation Specialist | $98/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441715350 |
+| GO Developer | $65/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4415189903 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4421781557 |
+| C# Developer | $65/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4415181438 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4424967895 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4441710806 |
