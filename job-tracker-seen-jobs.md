@@ -14999,3 +14999,11 @@
 | Program Manager, Continuous Improvement, Supply Chain | Badger Infrastructure Solutions | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4433894747 |
 | Operations & Bookkeeping Coordinator | Maple Builders | 2026-07-18 | N | https://ca.indeed.com/viewjob?jk=555635ce34d5c053 |
 | Events and Communications Coordinator Foundation of SJS & NT | Newman Theological College | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4442473464 |
+| Purchasing Manager | Univar Solutions | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434082761 |
+| Ag Operations Lead | McCain Foods | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434090113 |
+| Cost Control Specialist | Bird Construction | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434013361 |
+| Planner Scheduler | Bird Construction | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4414674927 |
+| Advisor, Investment and Financing | Desjardins | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4355799873 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442475520 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442463892 |
+| Administrative Specialist | Indigenous Energy Monitor | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4441733802 |
