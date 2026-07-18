@@ -14951,3 +14951,10 @@
 | Service Support Analyst | PBS Systems | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4439603430 |
 | Coordinator I | Alberta Health Services | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4441719120 |
 | Coordinator II | Alberta Health Services | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4441704680 |
+| Senior Solutions Specialist | Bell | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=126c2aa0b22dbc18 |
+| Millwright Lead Hand | Celeros Flow Technology | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4439292986 |
+| Specialist-Sr Network Infra | Peel Regional Police | 2026-07-18 | R | https://ca.indeed.com/viewjob?jk=e2c71525fc28e758 |
+| Administrative Support II – Anatomic Pathology Department | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=878ddfae7952ebb9 |
+| Administrative Support II | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=0a015521109cca7d |
+| Administrative Support II | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=f672c73a222403af |
+| Administrative Support II – Anatomic Pathology Department | Alberta Precision Labs | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=0df66299c4c15467 |
