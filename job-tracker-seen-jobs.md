@@ -15007,3 +15007,6 @@
 | Finance Analyst (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442475520 |
 | Financial Investment Analyst (Remote) | Hired | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442463892 |
 | Administrative Specialist | Indigenous Energy Monitor | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4441733802 |
+| Sr Technical Analyst | 7-Eleven | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=763fe4d6bc5f5127 |
+| Logistics & Supply Chain Management Expert- Remote | YO HR Consultancy | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4439628732 |
+| Workface Planner | Bird Construction | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4414693006 |
