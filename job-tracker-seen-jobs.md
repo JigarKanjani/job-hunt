@@ -14995,3 +14995,7 @@
 | Sales & Service Coordinator - Automotive | EBlock | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4421647603 |
 | Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441716850 |
 | Business Process Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441731357 |
+| SAP Program Manager- Infosys Consulting | Infosys | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4430633310 |
+| Program Manager, Continuous Improvement, Supply Chain | Badger Infrastructure Solutions | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4433894747 |
+| Operations & Bookkeeping Coordinator | Maple Builders | 2026-07-18 | N | https://ca.indeed.com/viewjob?jk=555635ce34d5c053 |
+| Events and Communications Coordinator Foundation of SJS & NT | Newman Theological College | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4442473464 |
