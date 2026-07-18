@@ -14926,3 +14926,25 @@
 | Associate Mortgage Underwriter, Third Party Residential Unde | First National Financial | 2026-07-17 | G | https://ca.indeed.com/viewjob?jk=003ca7a346575b1a |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4441362425 |
 | Personal Banking Associate Trainee | TD | 2026-07-17 | G | https://www.linkedin.com/jobs/view/4442163944 |
+| Intermediate Cyber Security Analyst | SysGen Solutions Group Ltd. | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=ce3636742493c47e |
+| Project Coordinator | Deveraux Group of Companies | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=c8ef80a628787281 |
+| Document Control/Project Coordinator - Vancouver or Calgary | Ausenco | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=9b6b8759c8e657fa |
+| Project Coordinator – Water & Sewer | Firma Contracting Inc. | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=027a5d953d41236a |
+| Service Delivery Coordinator | Open Door Group | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=14abda5094fe0e43 |
+| Credit Analyst | ATCO | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4441707007 |
+| Account Advisor | Imagine Wireless Inc | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4441391511 |
+| Specialist Commodity Market Risk | Enbridge | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4439294428 |
+| Finance Analyst (Intermediate) | Raise | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4442415254 |
+| Hockey Operations Team Member | Mount Royal University | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4439290083 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4442422573 |
+| Beauty Specialist, Hourly Full Time Flexible Shifts | Loblaw Companies Limited | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4442423267 |
+| Controller, Finance & Supply Chain Services | Wildtree Herbs, Inc. | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4442410962 |
+| Real Estate Operations & Marketing Coordinator | Real Estate | 2026-07-18 | N | https://ca.indeed.com/viewjob?jk=92480bec530ee420 |
+| Lead Coordinator | Used Autos Calgary | 2026-07-18 | N | https://ca.indeed.com/viewjob?jk=779ba54c35fa3872 |
+| Community Engagement Coordinator | Open Door Group | 2026-07-18 | N | https://ca.indeed.com/viewjob?jk=51b4b5ef0100d5df |
+| Systems Administrator - Remote Canada (MSP) | LP & Associates Incorporated | 2026-07-18 | R | https://ca.indeed.com/viewjob?jk=9ea53ead4b47487b |
+| Operation Technical Specialist | Johnson Controls | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4439601266 |
+| Front Desk Agent | Holiday Inn | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=94e95b71120177db |
+| Control Systems Specialist | CDN Controls ULC | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=fbc09e2935085818 |
+| Directs Store Delivery Associate - Receiving Temp | Walmart | 2026-07-18 | G | https://ca.indeed.com/viewjob?jk=769efb0d0d3b1e0e |
+| Store Administrator, Hourly Part Time Day | Shoppers Drug Mart | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4442419363 |
