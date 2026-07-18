@@ -14969,3 +14969,25 @@
 | C# Developer | $65/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4415181438 |
 | AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4424967895 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4441710806 |
+| Coordinator I | Alberta Health Services | 2026-07-18 | J | https://ca.indeed.com/viewjob?jk=fbb1fcba67604852 |
+| Senior Applications Analyst | McCarthy Tétrault | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434064424 |
+| Career Services Coordinator - Admin Assistant | Primacorp Ventures Inc | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434069085 |
+| Business Development Specialist (Markets) | McCarthy Tétrault | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4434044971 |
+| Sr Technical Analyst | 7-Eleven | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4442449960 |
+| Senior Specialist - IT Apps Dev | Parkland Corporation | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4430645177 |
+| Lead Hand | Intelcom | Dragonfly | 2026-07-18 | J | https://www.linkedin.com/jobs/view/4414289490 |
+| home support worker | YYC Home Care Services | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4442463169 |
+| HR Administrator | FLINT Corp. | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4434085899 |
+| Recruitment Specialist | Dexterra Group | 2026-07-18 | N | https://www.linkedin.com/jobs/view/4434070497 |
+| Business Developer, Process Instrumentation | E.B. Horsman & Son | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4431455408 |
+| Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4441716850 |
+| Quality Analyst (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442448894 |
+| Subrogation Specialist | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4407358027 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4421781557 |
+| Strategic Finance Analyst | Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4403611127 |
+| Research Analyst (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442456511 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4421488681 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442447988 |
+| AI Analyst (Remote) | Quik Hire Staffing | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442450942 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-18 | R | https://www.linkedin.com/jobs/view/4442463119 |
+| Over-the-Counter Associate | Walmart Canada | 2026-07-18 | G | https://www.linkedin.com/jobs/view/4411543711 |
