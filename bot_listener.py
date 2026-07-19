@@ -121,8 +121,8 @@ def main():
         ts = datetime.now(timezone.utc).strftime("%H:%M UTC")
         print(f"[{ts}] Manual trigger received: {profiles}")
         tg_send(chat_id,
-                f"🔄 Manual run started — {', '.join(profiles)}\n"
-                f"⏳ This takes up to 10 minutes, you'll get the results shortly.")
+                f"👍 On it! Working on {', '.join(profiles)} now.\n"
+                f"⏳ Give me ~30 minutes — I'll drop the job postings here as soon as they're ready.")
 
         result = subprocess.run(
             [sys.executable, str(SCRIPT), "--hours", "24", "--profiles"] + profiles,
