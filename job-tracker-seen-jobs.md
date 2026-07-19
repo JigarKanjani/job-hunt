@@ -15041,3 +15041,8 @@
 | Elite Protection Summer Event Security Specialist | Barry Enterprises & Co | 2026-07-19 | G | https://ca.indeed.com/viewjob?jk=55a5476385b7f864 |
 | Banking Advisor | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439697180 |
 | Banking Advisor | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439690304 |
+| Lead Concierge | Westman Village by Jayman BUILT | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4441782732 |
+| Social Media Coordinator | Indigenous Energy Monitor | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4441791546 |
+| Program Manager (Remote) | Hire Feed | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442543573 |
+| Office Administrator and Bookkeeper | Nuvo Construction | 2026-07-19 | R | https://ca.indeed.com/viewjob?jk=28587fc05540d375 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4441788597 |
