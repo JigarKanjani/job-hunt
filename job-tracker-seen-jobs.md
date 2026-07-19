@@ -15019,3 +15019,12 @@
 | Wealth Associate | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439672537 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4441782116 |
 | Temporary Sales Associate - Part-Time | Calvin Klein | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4424770274 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4406682963 |
+| Research Analyst (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442517690 |
+| AI Analyst (Remote) | Quik Hire Staffing | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442520849 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442528354 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442525321 |
+| AI Adversarial Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4425160539 |
+| AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4424964964 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442531112 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442527262 |
