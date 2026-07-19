@@ -15015,3 +15015,4 @@
 | Administrative Assistant | LASIK MD | 2026-07-19 | G | https://ca.indeed.com/viewjob?jk=dcddb54289e220d4 |
 | Project Coordinator | First Onsite Property Restoration | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442498642 |
 | Travel Counsellor | AMA - Alberta Motor Association | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4440382523 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442519121 |
