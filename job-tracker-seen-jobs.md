@@ -15034,3 +15034,5 @@
 | Senior Administrative Assistant | Regional Municipality of Wood Buffalo | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442512876 |
 | Remotely Piloted Aircraft Systems Platform I.T./Network Spec | 49North | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4383244914 |
 | New Home Sales Associate | WestCreek Homes | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4442522835 |
+| Digital Construction Coordinator | Bird Construction | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4414682712 |
+| Application Specialist, Automation and Industrial Networking | Siemens | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4383274016 |
