@@ -15028,3 +15028,9 @@
 | AI Safety Specialist - Fully Remote | Upto $22/hr | Mercor | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4424964964 |
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442531112 |
 | C++ Developer (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442527262 |
+| Feedlot Heavy Duty & Agriculture Parts & Service Coordinator | KCL Cattle Company | 2026-07-19 | J | https://ca.indeed.com/viewjob?jk=bcdc9a8920d71c04 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4442532213 |
+| Advisor, Reconciliation | Regional Municipality of Wood Buffalo | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442520673 |
+| Senior Administrative Assistant | Regional Municipality of Wood Buffalo | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442512876 |
+| Remotely Piloted Aircraft Systems Platform I.T./Network Spec | 49North | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4383244914 |
+| New Home Sales Associate | WestCreek Homes | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4442522835 |
