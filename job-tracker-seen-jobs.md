@@ -15036,3 +15036,8 @@
 | New Home Sales Associate | WestCreek Homes | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4442522835 |
 | Digital Construction Coordinator | Bird Construction | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4414682712 |
 | Application Specialist, Automation and Industrial Networking | Siemens | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4383274016 |
+| Cyber IAM Specialist | Brunel | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4441789332 |
+| Technical Lead - Electrical Engineering Specialist | Schneider Electric | 2026-07-19 | J | https://www.linkedin.com/jobs/view/4441788373 |
+| Elite Protection Summer Event Security Specialist | Barry Enterprises & Co | 2026-07-19 | G | https://ca.indeed.com/viewjob?jk=55a5476385b7f864 |
+| Banking Advisor | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439697180 |
+| Banking Advisor | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439690304 |
