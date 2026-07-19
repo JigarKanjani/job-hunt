@@ -21,15 +21,27 @@ BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID      = os.environ.get("TELEGRAM_CHAT_ID", "747174717")
 MAX_PER_PROFILE = 25   # max jobs sent per profile per run
 
-# Broadcast chat ID — receives ALL jobs from ALL profiles (e.g. a shared viewer)
-BROADCAST_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID_BROADCAST", "")
 
-# Per-profile Telegram chat IDs (falls back to default CHAT_ID if not set)
+def parse_ids(raw):
+    """Split a comma-separated chat-ID string into a clean list of IDs.
+
+    Lets any recipient env var hold multiple accounts, e.g.
+    TELEGRAM_CHAT_ID_BROADCAST="111,222,333".
+    """
+    return [c.strip() for c in (raw or "").split(",") if c.strip()]
+
+
+# Broadcast recipients — receive ALL jobs from ALL profiles (e.g. shared viewers).
+# Comma-separate to add as many accounts as you like.
+BROADCAST_CHAT_IDS = parse_ids(os.environ.get("TELEGRAM_CHAT_ID_BROADCAST"))
+
+# Per-profile Telegram recipients (each may be a comma-separated list of chat IDs;
+# falls back to the default CHAT_ID when a profile's var is not set).
 CHAT_IDS = {
-    "J": os.environ.get("TELEGRAM_CHAT_ID_J") or CHAT_ID,
-    "N": os.environ.get("TELEGRAM_CHAT_ID_N") or CHAT_ID,
-    "R": os.environ.get("TELEGRAM_CHAT_ID_R") or CHAT_ID,
-    "G": os.environ.get("TELEGRAM_CHAT_ID_G") or CHAT_ID,
+    "J": parse_ids(os.environ.get("TELEGRAM_CHAT_ID_J")) or [CHAT_ID],
+    "N": parse_ids(os.environ.get("TELEGRAM_CHAT_ID_N")) or [CHAT_ID],
+    "R": parse_ids(os.environ.get("TELEGRAM_CHAT_ID_R")) or [CHAT_ID],
+    "G": parse_ids(os.environ.get("TELEGRAM_CHAT_ID_G")) or [CHAT_ID],
 }
 
 # Salary estimates for Calgary market when employer doesn't post salary
@@ -376,7 +388,7 @@ def run_scraper(profile, hours):
 def process_profile(profile, hours, seen_urls):
     """Scrape + send + update tracker. Returns count sent."""
     cfg = PROFILE_CONFIG[profile]
-    chat_id = CHAT_IDS.get(profile, CHAT_ID)
+    chat_ids = CHAT_IDS.get(profile, [CHAT_ID])
 
     # Run scraper
     ok = run_scraper(profile, hours)
@@ -448,21 +460,28 @@ def process_profile(profile, hours, seen_urls):
         if ann and ann < cfg["min_salary"]:
             continue
 
-        # Send to profile's Telegram chat
+        # Send to every recipient configured for this profile
         msg = format_job_message(job, profile)
         title_disp = job.get("title", "")
         co_disp    = job.get("company", "")
         print(f"  -> {title_disp} @ {co_disp}")
 
-        if tg_send(msg, chat_id=chat_id):
+        delivered = False
+        for cid in chat_ids:
+            if tg_send(msg, chat_id=cid):
+                delivered = True
+
+        if delivered:
             seen_urls.add(url)
             append_tracker(title_disp, co_disp, profile, url)
             sent += 1
-            # Also send to broadcast chat (all-profiles viewer) if configured
-            if BROADCAST_CHAT_ID and BROADCAST_CHAT_ID != chat_id:
-                tg_send(msg, chat_id=BROADCAST_CHAT_ID)
+            # Also send to broadcast recipients (all-profiles viewers) if configured,
+            # skipping anyone who already got it as a profile recipient
+            for bcast_id in BROADCAST_CHAT_IDS:
+                if bcast_id not in chat_ids:
+                    tg_send(msg, chat_id=bcast_id)
         else:
-            print(f"     [WARN] Telegram send failed, skipping")
+            print(f"     [WARN] Telegram send failed to all recipients, skipping")
 
     print(f"  [{profile}] Sent {sent} new jobs")
     return sent
@@ -504,6 +523,10 @@ def main():
     )
     print(f"\n{summary_msg}")
     tg_send(summary_msg)
+    # Send the same summary to any broadcast recipients
+    for bcast_id in BROADCAST_CHAT_IDS:
+        if bcast_id != CHAT_ID:
+            tg_send(summary_msg, chat_id=bcast_id)
 
     print(f"{'='*60}\nDONE")
 
