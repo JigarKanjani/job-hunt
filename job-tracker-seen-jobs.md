@@ -15016,3 +15016,6 @@
 | Project Coordinator | First Onsite Property Restoration | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4442498642 |
 | Travel Counsellor | AMA - Alberta Motor Association | 2026-07-19 | N | https://www.linkedin.com/jobs/view/4440382523 |
 | Finance Analyst (Remote) | Hire Feed | 2026-07-19 | R | https://www.linkedin.com/jobs/view/4442519121 |
+| Wealth Associate | National Bank of Canada | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4439672537 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4441782116 |
+| Temporary Sales Associate - Part-Time | Calvin Klein | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4424770274 |
