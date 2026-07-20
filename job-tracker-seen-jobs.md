@@ -15064,3 +15064,14 @@
 | Master Data Analyst | Whitecap Resources | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=45b7b29a95350276 |
 | Intermediate IT Security Analyst | Whitecap Resources Inc. | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4436264889 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442026751 |
+| ETRM Business Analyst (BA) | Apptoza Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440135935 |
+| Prospect Research & Donor Portfolio Specialist | STARS | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442730088 |
+| Supply Chain Analyst | Insight Global | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442075300 |
+| Program Manager (Remote) | Hire Feed | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442725187 |
+| Intermediate Developer | Certn | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4437849582 |
+| Research Analyst (Remote) | Hire Feed | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442718213 |
+| Quantitative Readouts Specialist - Remote | Upto $120/hr | Mercor | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4425468607 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442599665 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442711413 |
+| Consumer Planning Specialist - Remote | Upto $120/hr | Mercor | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4425463650 |
+| Regulatory Compliance Specialist - Remote | Upto $120/hr | Mercor | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4425470536 |
