@@ -15092,3 +15092,28 @@
 | Financial Investment Analyst (Remote) | Hired | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442720530 |
 | Optical Associate - Casual | FYidoctors | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=6662c5c3013e70b0 |
 | Equity Research Associate – Canadian Oil & Gas | BMO Capital Markets | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442733444 |
+| Data Analyst II | Intact | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=abceac164f2610e1 |
+| Logistics & Procurement Coordinator | ZS2 Technologies Ltd | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=6444630e17dd8f3e |
+| Human Resources Specialist | Dasro Consulting Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442736900 |
+| ETRM Business Analyst | LanceSoft, Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442097566 |
+| Senior Development Specialist, Partnerships & Philanthropy | CMHA Calgary | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442088655 |
+| Digital Marketing & Lead Generation Specialist | New West College | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442096326 |
+| Sport Program Specialist | Dare to Care | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442742629 |
+| Project Coordinator - CANA Construction Co. Ltd. | CANA Group of Companies | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440168464 |
+| Procurement Contract Manager Associate | Imperial Oil | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442766116 |
+| Procurement Contract Manager Advisor | Imperial Oil | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442766115 |
+| Site & Material Coordinator | ABBL HARDWARE | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=406e9cb71088a7be |
+| Health and Safety Advisor | kasa consulting | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=5afd962c0dc2f108 |
+| Employment and Financial Empowerment Specialist | Prospect Human Services | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=e809405f2ba6d6ce |
+| Office Administrator | Honiva Consulting Ltd. | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=a9863389b1fe6a30 |
+| SCCM Administrator | Tekshapers | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4440164637 |
+| Project Administrator | Ainsworth | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=fad9d5abef308d39 |
+| C/C++ Developer | Process Fusion Inc | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=575b12af1f624b75 |
+| Analyst, Identity Access Management | CIRO / OCRI | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442743046 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442744564 |
+| Clinic Receptionist | Chaparral Physiotherapy & Massage | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=400c72415f57353e |
+| Receptionist | TingleMerrett LLP | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=fc0ad178328875c2 |
+| Customer Service Representative - Sales Desk (Manufacturing) | Alggin | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=9b4c4cdcb6ddd646 |
+| Leasing Documentation Specialist - Stride Capital | Servus Credit Union | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=c9b86c96de31b340 |
+| Project Coordinator | D.C.M. Mechanical Ltd. | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442210198 |
+| Partnerships & Engagement Associate | OncoHelix | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442090613 |
