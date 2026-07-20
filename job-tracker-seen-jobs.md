@@ -15047,3 +15047,4 @@
 | Office Administrator and Bookkeeper | Nuvo Construction | 2026-07-19 | R | https://ca.indeed.com/viewjob?jk=28587fc05540d375 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4441788597 |
 | Experienced Crew Leader (Full Time) - Beltline | Cluck N Cleaver | 2026-07-19 | J | https://ca.indeed.com/viewjob?jk=3510c28f207e472d |
+| Back End Developer (AI Infrastructure) | Alignerr | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442551758 |
