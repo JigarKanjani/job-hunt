@@ -15055,3 +15055,12 @@
 | In Place and Outreach Team Lead | Calgary Seniors' Resource Society | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=712464c06ed7069a |
 | Project Coordinator, Highway Maintenance | Ledcor | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442580049 |
 | Purview Governance Specialist | Medavie | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=336cc7cb630d1766 |
+| Equipment Advisor | Finning | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442039297 |
+| New Grad, Supply Chain Management, June 2027 (Calgary) | Cenovus Energy | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442700345 |
+| Master Data Analyst | Whitecap Resources Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442579458 |
+| Equipment Advisor | Finning | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442031553 |
+| Community Relief III Worker | Calgary Alternative Support Services | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=935dd244c6dfd797 |
+| Office Administrator | CANADA VERTEX IMMIGRATION | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=d2d834fa58d3f5ce |
+| Master Data Analyst | Whitecap Resources | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=45b7b29a95350276 |
+| Intermediate IT Security Analyst | Whitecap Resources Inc. | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4436264889 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442026751 |
