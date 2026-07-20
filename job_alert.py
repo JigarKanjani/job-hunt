@@ -525,6 +525,19 @@ def main():
     seen_urls = load_seen_urls()
     print(f"Tracker: {len(seen_urls)} URLs already seen")
 
+    # Announce the run start so recipients get an immediate confirmation the
+    # moment a hunt kicks off — for every run type: scheduled auto-run or a
+    # manual "Run workflow" dispatch.
+    start_msg = (
+        f"🚀 Got it — job hunt started ({datetime.now().strftime('%Y-%m-%d %H:%M')} MST)\n"
+        f"Scanning: {', '.join(profiles)}\n"
+        f"⏳ Give me ~30 minutes — new jobs will land here as they come in."
+    )
+    tg_send(start_msg)
+    for bcast_id in BROADCAST_CHAT_IDS:
+        if bcast_id != CHAT_ID:
+            tg_send(start_msg, chat_id=bcast_id)
+
     summary = {}
     for profile in profiles:
         count = process_profile(profile, hours, seen_urls)
