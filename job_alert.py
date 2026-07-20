@@ -10,7 +10,7 @@ Profiles: J (Supply Chain/Data), N (Admin/Social), R (IT Analyst), G (General Ad
 """
 
 import os
-import json, subprocess, argparse, urllib.request, sys
+import json, subprocess, argparse, urllib.request, urllib.error, sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -292,8 +292,18 @@ def tg_send(text, chat_id=None):
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             return resp.status == 200
+    except urllib.error.HTTPError as e:
+        # Telegram puts the real reason in the JSON body, e.g.
+        # "Bad Request: chat not found" or
+        # "Forbidden: bot is not a member of the group chat".
+        try:
+            body = e.read().decode("utf-8", "replace")
+        except Exception:
+            body = ""
+        print(f"  [TG ERROR] chat_id={chat_id} HTTP {e.code}: {body or e.reason}")
+        return False
     except Exception as e:
-        print(f"  [TG ERROR] {e}")
+        print(f"  [TG ERROR] chat_id={chat_id} {e}")
         return False
 
 
@@ -504,8 +514,29 @@ def main():
     print(f"Profiles: {profiles} | Freshness: last {hours}h")
     print(f"{'='*60}")
 
+    # Show exactly which recipients are configured, so a missing/misnamed
+    # secret (e.g. an empty broadcast list) is obvious in the logs.
+    bcast_disp = ", ".join(BROADCAST_CHAT_IDS) if BROADCAST_CHAT_IDS else "none"
+    prof_disp  = ", ".join(f"{p}:{len(CHAT_IDS[p])}" for p in ["J", "N", "R", "G"])
+    print(f"Recipients — default: {CHAT_ID} | broadcast: {bcast_disp} | per-profile counts: {prof_disp}")
+    if not BROADCAST_CHAT_IDS:
+        print("  [NOTE] No broadcast recipients — set TELEGRAM_CHAT_ID_BROADCAST to a group/chat ID to fan out all jobs.")
+
     seen_urls = load_seen_urls()
     print(f"Tracker: {len(seen_urls)} URLs already seen")
+
+    # Announce the run start so recipients get an immediate confirmation the
+    # moment a hunt kicks off — for every run type: scheduled auto-run or a
+    # manual "Run workflow" dispatch.
+    start_msg = (
+        f"🚀 Got it — job hunt started ({datetime.now().strftime('%Y-%m-%d %H:%M')} MST)\n"
+        f"Scanning: {', '.join(profiles)}\n"
+        f"⏳ Give me ~30 minutes — new jobs will land here as they come in."
+    )
+    tg_send(start_msg)
+    for bcast_id in BROADCAST_CHAT_IDS:
+        if bcast_id != CHAT_ID:
+            tg_send(start_msg, chat_id=bcast_id)
 
     summary = {}
     for profile in profiles:
@@ -523,10 +554,13 @@ def main():
     )
     print(f"\n{summary_msg}")
     tg_send(summary_msg)
-    # Send the same summary to any broadcast recipients
+    # Send the same summary to any broadcast recipients (e.g. a shared group).
+    # This runs every completed hunt, so the group always gets at least the
+    # summary — a clear, visible confirmation the chat ID is wired correctly.
     for bcast_id in BROADCAST_CHAT_IDS:
         if bcast_id != CHAT_ID:
-            tg_send(summary_msg, chat_id=bcast_id)
+            ok = tg_send(summary_msg, chat_id=bcast_id)
+            print(f"  [broadcast summary] {bcast_id}: {'sent' if ok else 'FAILED — see [TG ERROR] above'}")
 
     print(f"{'='*60}\nDONE")
 
