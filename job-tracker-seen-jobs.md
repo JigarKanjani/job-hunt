@@ -15048,3 +15048,10 @@
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-19 | G | https://www.linkedin.com/jobs/view/4441788597 |
 | Experienced Crew Leader (Full Time) - Beltline | Cluck N Cleaver | 2026-07-19 | J | https://ca.indeed.com/viewjob?jk=3510c28f207e472d |
 | Back End Developer (AI Infrastructure) | Alignerr | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442551758 |
+| Senior Finance Systems Specialist, Finance Architecture | ATB Financial | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4441280130 |
+| Senior Talent Acquisition Advisor | Trans Mountain | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4430815182 |
+| Parking Enforcement Officer | LAZ Parking | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442576033 |
+| Senior Development Specialist, Partnerships & Philanthropy | Father Lacombe High School | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=6ada4f1a4d6bcb30 |
+| In Place and Outreach Team Lead | Calgary Seniors' Resource Society | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=712464c06ed7069a |
+| Project Coordinator, Highway Maintenance | Ledcor | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442580049 |
+| Purview Governance Specialist | Medavie | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=336cc7cb630d1766 |
