@@ -15117,3 +15117,52 @@
 | Leasing Documentation Specialist - Stride Capital | Servus Credit Union | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=c9b86c96de31b340 |
 | Project Coordinator | D.C.M. Mechanical Ltd. | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442210198 |
 | Partnerships & Engagement Associate | OncoHelix | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442090613 |
+| Sales Specialist, Venue & Events | Easter Seals | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=7246a115d5affd53 |
+| Project Coordinator | JumpDEMAND Inc. | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=87a8ae87dd7acc0b |
+| Enterprise Level Account Executive - Security Solutions | Convergint | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=bbf1448f5fb76021 |
+| Out of School Care Room Lead | Trico Centre for Family Wellness | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=cd1289885c1b5007 |
+| Procurement Contract Manager Advisor | ExxonMobil | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=222507d02a6ccd52 |
+| Procurement Contract Manager Associate | ExxonMobil | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=73787bb40930bf06 |
+| Analyst, Supplier Lifecycle | TC Energy | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=9680070a69c11442 |
+| Coordinator, Project Management | Defence Construction Canada | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=92542ddb9e73c5e0 |
+| Operations Co-ordinator | Your Bottom Line | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=a2ed930d4b99ee42 |
+| Enterprise Systems and Data Analyst | Vermilion Energy | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442794111 |
+| Commodities Settlement Analyst | RBC | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442784155 |
+| Quality Assurance & Quality Control Coordinator, Minerals &  | BEUMER Group | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442219856 |
+| External Relations Coordinator | Calgary Airports | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442784606 |
+| Human Resources Coordinator | Startec Compression & Process and Starte | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442787533 |
+| Quality Assurance & Control Coordinator (English & Mandarin) | AuthenBalance Corporation | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442223228 |
+| Senior Innovation Lead - Financial Product Innovation - 986  | Export Development Canada | Exportation  | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4443005060 |
+| Leasing Documentation Specialist - Stride Capital | Servus Credit Union | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442222232 |
+| Customer Care Lead | Boardwalk | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442209673 |
+| Senior Transportation Engineer | HDR | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442208665 |
+| Senior Business Analyst | Raise | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442214763 |
+| Enterprise Services Technician | Insight | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4443003214 |
+| Maintenance Coordinator, Stationary | Canlin Energy Corporation | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4443005308 |
+| Enterprise Level Account Executive - Security Solutions | Convergint | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442788213 |
+| Coordinator, Trades Services - Asia | Alberta-Pacific Forest Industries Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440194256 |
+| Administrative Assistant (Maternity Coverage) | HERITAGE COLLEGE | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=fddc538b994206f0 |
+| Care Coordinator | Lifemark Health Group | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=097b6ee1ea8d313f |
+| Shelter Support Worker – BSW/MSW Student (Paid Part-Time) | Ruth's House Society | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=cf4244e8be360539 |
+| Sales and Marketing Coordinator | Streamline Automation Ltd. | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=e59511052c9627ac |
+| Care Coordinator | Lifemark Health Group | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=743ec327e43a1479 |
+| Project Administrator (Community and Indigenous Engagement) | Manpower Alberta | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442206791 |
+| Project Administrator | GDI Integrated Facility Services | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4440179673 |
+| Project Administrator | Net2Source (N2S) | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442777439 |
+| Sales Specialist, Venue & Events | Easter Seals Alberta | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442792955 |
+| Wealth Advisor | RBC Dominion Securities | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442774594 |
+| Relief Resident Support Worker | The Salvation Army in Canada | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442212510 |
+| Mental Health & Addiction Support Worker | EHN Canada | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442229435 |
+| Coordinator, Records and Services - Office of the University | MacEwan University | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4440823835 |
+| Facilities Coordinator | Civeo North America | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4443009064 |
+| Project Coordinator - CANA Construction Co. Ltd. | Cana Group of Companies | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=d3a4c9c90d206988 |
+| Enterprise Systems and Data Analyst | Vermilion Energy | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=e51a340d8155b1b6 |
+| Receptionist | Lifemark Health Group | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=71a86057c208d2d0 |
+| Front Desk Receptionist | SUNDER BUILDING SUPPLIES | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=106344c5153c07bd |
+| Customer Service Representative | Yash Ram Inc | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=4a1081ea42a20cdf |
+| Front Desk Agent (Full-Time, Seasonal) | Fairmont Hotels & Resorts | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442216717 |
+| Customer Service Representative/ Inside Sales Representative | Daikin Comfort | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442226679 |
+| Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443007427 |
+| Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443008377 |
+| Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443002664 |
+| Personal Banking Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443012233 |
