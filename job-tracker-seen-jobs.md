@@ -15166,3 +15166,42 @@
 | Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443008377 |
 | Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443002664 |
 | Personal Banking Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443012233 |
+| Treadmill Team Lead | WELL Health Diagnostic Centres | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=ebc0b7cdabe8a688 |
+| Senior Innovation Lead - Financial Product Innovation - 986  | Export Development Canada | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=e008f37dd526c425 |
+| Portfolio Resource Coordinator - Calgary Healthcare | Paladin Security | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=012a6de275ac3f58 |
+| HR Coordinator | Werklund Centre | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=e4e9e0761d795151 |
+| Coordinator Fleet Maintenance (Administrative) | Air Liquide | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=c33be25d0a270622 |
+| Project Lead | Zoompainting.ca | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=00ce83788343acc7 |
+| Senior Specialist, Strategic Contract Data Governance - Cana | Circular Materials | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=4dcad58c51ed952f |
+| Category Specialist, Valves, Fittings, Flanges & Process Equ | TC Energy | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440407015 |
+| Analyst, IT Business - Information Technologies | University of Calgary | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4441266496 |
+| Insights Lead - Aftermarket | Finning | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442249038 |
+| IT ERP Sustainment Specialist | Enbridge | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440186770 |
+| Pipeline Asset Management & Operations Readiness Lead | Worley | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4443003826 |
+| Care Coordinator | Lifemark Health Group | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440185844 |
+| Senior Innovation Lead - Financial Product Innovation - 986  | Export Development Canada | Exportation  | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4443005060 |
+| Finance Specialist | NES Fircroft | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442234586 |
+| Administrative Assistant | Triton Environmental Consultants | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=2fe3b87ebad8f17d |
+| General Booking - Patient Experience Coordinator | Mayfair Diagnostics | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=c00e45aea689203b |
+| Relief Resident Support Worker | The Salvation Army | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=cd21a6cd66d087a6 |
+| Grants Programs Coordinator | Alberta Professional Outfitters Society  | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=afc4fe5e52af6af7 |
+| Operations Coordinator | University of Alberta | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=d54c8aebb0bf7e29 |
+| Studio Coordinator | DiveThru | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=48df024c5851df39 |
+| Theatre Production and Technical Coordinator | Concordia University of Edmonton | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=ae3c3a8b3134b8fd |
+| Administrative Assistant | Triton Environmental Consultants Ltd. | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442246011 |
+| Administrative Assistant | CIBC | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4443017512 |
+| Royalty Analyst | Canadian Natural Resources Limited (CNRL | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442239476 |
+| Construction Projects Coordinator | Canadian Natural Resources Limited (CNRL | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442233749 |
+| Student Financial Advisor/Learner Account Advisor (SFA/LAA) | Robertson College | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4443014026 |
+| Operations Coordinator | University of Alberta | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4443011649 |
+| Curriculum and Enrolment Planning Analyst - Office of the Un | MacEwan University | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4440828766 |
+| Coordinator, Project Management | Defence Construction Canada | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442223585 |
+| Service Desk Analyst | Compugen Inc | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=51b5e21ddb4d6688 |
+| Quality Assurance Specialist | SPECTRAFORCE | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4443014390 |
+| Tech/Facility Support Analyst, UCalgary Continuing Education | University of Calgary | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4441256884 |
+| IT ERP Sustainment Specialist | Enbridge | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4440198371 |
+| Receptionist/Administrative Assistant | Namequest Corporate Services Inc. | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=3d0b63dfb4eb1ce2 |
+| Sales Associate | Ashley Canada - The Dufresne Group | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=5fddc8142ab09b73 |
+| Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443020014 |
+| Accounts Receivable Associate - 11 Month Temp Position | FirstService Residential Canada | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443010442 |
+| Controller | Hunters Squared Recruitment | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442237476 |
