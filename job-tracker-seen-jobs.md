@@ -15075,3 +15075,20 @@
 | C++ Developer (Remote) | Hire Feed | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442711413 |
 | Consumer Planning Specialist - Remote | Upto $120/hr | Mercor | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4425463650 |
 | Regulatory Compliance Specialist - Remote | Upto $120/hr | Mercor | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4425470536 |
+| Neighbourhood Partnership Coordinator | City of Calgary | 2026-07-20 | J | https://ca.indeed.com/viewjob?jk=139e69cd0d4f9180 |
+| Senior Financial Analyst (Term Position) | Calgary Airports | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442405641 |
+| Geographic Information System (GIS) Advisor | Enbridge | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440175064 |
+| Senior Infrastructure Analyst | Tekshapers | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440150813 |
+| Project Administration / Coordinator | GDI Ainsworth | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442725797 |
+| Documentation Specialist | GeologicAI | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440165413 |
+| Research Coordinator, Palliative Medicine, Oncology | University of Calgary | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4440856075 |
+| Coordinator, Trade Services - Asia | Alberta-Pacific Forest Industries Inc. | 2026-07-20 | J | https://www.linkedin.com/jobs/view/4442077633 |
+| Health and Safety Administrator | Surge Energy | 2026-07-20 | N | https://ca.indeed.com/viewjob?jk=cba0439c0eafa849 |
+| Project Administrator | Kelly | 2026-07-20 | N | https://www.linkedin.com/jobs/view/4442087362 |
+| Data Visualization Specialist | Viamo | 2026-07-20 | R | https://ca.indeed.com/viewjob?jk=94cbb95c29723cb5 |
+| Database Administrator | Tata Consultancy Services | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442074839 |
+| Staff Platform Reliability Engineer | ziing | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442078871 |
+| Oracle EPM Cloud Administrator | Alquemy Search & Consulting | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442093001 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-20 | R | https://www.linkedin.com/jobs/view/4442720530 |
+| Optical Associate - Casual | FYidoctors | 2026-07-20 | G | https://ca.indeed.com/viewjob?jk=6662c5c3013e70b0 |
+| Equity Research Associate – Canadian Oil & Gas | BMO Capital Markets | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442733444 |
