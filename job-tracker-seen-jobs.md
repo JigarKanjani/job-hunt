@@ -15311,3 +15311,46 @@
 | Veterinary Assistant, ER, Western Veterinary Specialist & Em | VCA Canada | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=df9b321b24c9d046 |
 | Research Associate, Semiconductors & AI Infrastructure - 262 | Enverus | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4434174354 |
 | Recruitment Advisor (Temporary) | Calgary Co-op | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442648959 |
+| Senior Talent Acquisition Advisor | Worley | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=0d09f6bf4d47f0d5 |
+| Guest Services Coordinator | The Bench - Cardel Rec South | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=dd19639a09edd990 |
+| Exchange Planner | Finning | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=14dd07198c33f042 |
+| Accounting Analyst | NOBL Wheels Ltd. | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=2bb770d02113bd36 |
+| Temporary Financial Analyst | NorthRiver Midstream Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442666945 |
+| Senior Financial Analyst | NorthRiver Midstream Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442687036 |
+| Senior Specialist, Strategy, Product and Risk Management | Canada Mortgage and Housing Corporation  | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4434775730 |
+| Senior Program Manager, HR | Bell | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443527443 |
+| Infrastructure Analyst | J&M Group | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443540280 |
+| Senior Business Analyst | OnX | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442679054 |
+| Senior Infrastructure Analyst-Enterprise Infrastructure Oper | Q1 Technologies, Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440482769 |
+| Operations Supervisor-1 | FedEx Canada | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443537097 |
+| Seafood Production Worker (Filleter) | Centennial Food Solutions | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=4d4c52212627a7ec |
+| Temporary Financial Analyst | NorthRiver Midstream Inc. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=d282f39f7f46f3f4 |
+| Office Administrator | Gateway Trailer Repairs Ltd. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=a05dd459f9e8038f |
+| Program Coordinator (CF) - RENU | Catholic Social Services | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=bb149b0256194021 |
+| Program Coordinator (CF) - Employment Training Programs | Catholic Social Services | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=1a81ef5e02348cf0 |
+| Production Worker - Recycle | Centra Cam Social Enterprise Ltd. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=84a5a8f4df79d55c |
+| Banquets - Coordinator | Moxies | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=24e02d2f7800e720 |
+| Fort McMurray Drug Treatment Court Case Manager | Pastew Place Detox Centre | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=309558cb15d55b52 |
+| Patient Care Coordinator | Visionmax Eye Centre | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=47e91c6552d44396 |
+| Marketing Coordinator | Evalence Renewables | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=1d4b8886d772e2ef |
+| Rental Coordinator | Cool Air Rentals Ltd | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=876186fa459981dc |
+| Administrative Assistant | Western Truck Body Mfg. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=8138c710d576a883 |
+| Operations Coordinator | Wolseley Canada, Inc. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=f2e8e919fb73f09e |
+| Part-Time Client Services Coordinator | Oxford Learning Centre | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=9a11f469131f89cb |
+| Project Administrator - Permanent - 3264 | Parker Huggett - A Division of LRO Staff | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443523997 |
+| Property Administrator (CRE) | Cushman & Wakefield | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443521948 |
+| Outreach Worker - The Way In | Carya | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442669843 |
+| Banking advisor | National Bank of Canada | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4441005002 |
+| Service Coordinator | Sonny's Enterprises Inc. - Conveyorized  | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443520462 |
+| Contact Center Platform - Data Analyst | Government Of Alberta | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=556fe95a5fb898a1 |
+| Pool Administration & Business Analyst | CANADA ICI CAPITAL CORPORATION | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=a3507426df87394c |
+| Threat Analyst 3 | Sophos Technology GmbH | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=beca1117b144fa19 |
+| Threat Analyst 2 | Sophos Technology GmbH | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=0a0290c13e6d5005 |
+| Destination Relocation Specialist | Welcomehome Relocations | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=a32e51b1159ce15d |
+| Intermediate Customer Onboarding Specialist | Clio | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442670848 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443514976 |
+| Customer Service Representative | Deling Innovations CA Limited | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=7b88296f3618bee6 |
+| Clinic Experience Associate | CBI Health | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443530627 |
+| Customer Service Representative | Cornerstone Building Brands | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4440496156 |
+| Switchboard Agent | Pomeroy Lodging | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4440487647 |
+| Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4441000224 |
