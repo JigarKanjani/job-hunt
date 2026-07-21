@@ -15205,3 +15205,20 @@
 | Customer Experience Associate | TD | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443020014 |
 | Accounts Receivable Associate - 11 Month Temp Position | FirstService Residential Canada | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4443010442 |
 | Controller | Hunters Squared Recruitment | 2026-07-20 | G | https://www.linkedin.com/jobs/view/4442237476 |
+| Lead Front Desk Agent | Element by Westin Calgary Downtown | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=3da22724c325ec60 |
+| Commodities Settlement Analyst | RBC | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=5fcdb9e76cf39bef |
+| Commercial Sales Analyst | Peoples Group | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443088352 |
+| Service Desk Analyst | Mount Royal University | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442259818 |
+| Contract Specialist | TAQA Group | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443087352 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440419262 |
+| Business Advisor - Regional Opportunities - Calgary, AB | Scotiabank | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443084438 |
+| SALES LEAD - FULL TIME - CALL IT SPRING | ALDO Group | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440421066 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443087673 |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon Web Services (AWS) | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443052350 |
+| Land Analyst | Government of Alberta | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442267526 |
+| Wealth Advisor | RBC | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=11cde9f7dbe3e0b0 |
+| Linux Systems Administrator | Cybera | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=772f82f968fe0346 |
+| Linux Systems Administrator (12 month contract) | Cybera | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=1dc19abda5f13efc |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=658c7034fc5b4add |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443071901 |
+| Counter Administrator | Computershare Canada | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443089232 |
