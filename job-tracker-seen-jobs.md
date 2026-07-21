@@ -15226,3 +15226,19 @@
 | Production Lead (Plating) | Factor_ | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443300761 |
 | Data Protection and Security Specialist | OppHub Africa | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4440408961 |
 | Front Desk Agent - Québec-Charlevoix Club Med Charlevoix | Club Med | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443300782 |
+| SALES LEAD - FULL TIME - CALL IT SPRING | ALDO Group | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=4d7767bb799793d5 |
+| Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=23f92a1fbfc00e63 |
+| Operations Geoscience Specialist IV – Geologist | Weatherford | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4434787595 |
+| Senior Finance Systems Specialist, Finance Architecture | ATB Financial | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443347346 |
+| Dietary Worker | Aramark Canada | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443341410 |
+| Service Desk Analyst | Mount Royal University | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=3df68d91c03f436f |
+| RFI Response Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425454642 |
+| Performance Reporting Specialist - Fully Remote | Upto $120/ | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425448831 |
+| GTM Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425450683 |
+| IT GRC Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425464547 |
+| Vendor Management Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425462606 |
+| Accounting Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425466620 |
+| Legal Diligence Specialist - Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425448825 |
+| Fundraising Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425462609 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442623003 |
+| Gateway Sunrise Int'l Ramp Agent - | UPS | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4431473213 |
