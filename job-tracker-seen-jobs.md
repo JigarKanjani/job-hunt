@@ -15242,3 +15242,18 @@
 | Fundraising Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425462609 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442623003 |
 | Gateway Sunrise Int'l Ramp Agent - | UPS | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4431473213 |
+| Senior Crime Analyst, Intelligence & Enforcement | Government Of Alberta | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=1372980d2b11a076 |
+| Quoting Specialist | Complete Shipping Solutions | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442625802 |
+| Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442639150 |
+| Employment and Financial Empowerment Specialist | Prospect Human Services Society | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443374715 |
+| Administrative Assistant | Prospect Human Services Society | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443378587 |
+| Employment Specialist | Prospect Human Services Society | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443388143 |
+| Community Mobilization Officer | UNOPS | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4440449734 |
+| Career Advisor | Prospect Human Services Society | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443374717 |
+| Experiment Readiness Specialist - Fully Remote | Upto $120/h | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425456652 |
+| Onboarding Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425470534 |
+| Culture Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425454648 |
+| Healthcare Operations Specialist - Fully Remote | Upto $120/ | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425464544 |
+| Recruiting Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425451684 |
+| Legal Diligence Specialist - Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425448825 |
+| Administrative Support V | Alberta Health Services | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442634333 |
