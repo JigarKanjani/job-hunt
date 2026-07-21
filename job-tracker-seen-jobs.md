@@ -15257,3 +15257,23 @@
 | Recruiting Specialist - Fully Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425451684 |
 | Legal Diligence Specialist - Remote | Upto $120/hr | Mercor | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4425448825 |
 | Administrative Support V | Alberta Health Services | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442634333 |
+| Fleet & Equipment Logistics Coordinator | Year Round Landscaping Inc | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=3d495e430d869fe4 |
+| Quality Assurance Analyst | Nexxt Ideas | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=c5077ff385e35aba |
+| Office/Project Coordinator – 12-Month Temporary Contract | Inflector Environmental Services | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=7a4661a2f990583c |
+| Business Analyst | Coforge | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442639789 |
+| Business Analyst- Organizational Change Management (OCM) | Q1 Technologies, Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440468631 |
+| Regulatory/Environmental Coordinator | Corvus Consulting Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442638705 |
+| Senior Development Specialist, Partnerships & Philanthropy | CMHA Calgary | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440461730 |
+| Lessons Coordinator | Long & McQuade Musical Instruments | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443388394 |
+| Lessons Coordinator | Long & McQuade | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=c614563b32d91db2 |
+| UKG Pro Administrator (HRIS) | Tsuut'ina Nation Human Resources | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442653451 |
+| Continuing Education Coordinator | The Association of Professional Engineer | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442638874 |
+| Project Coordinator | Restotech Solutions | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443394542 |
+| HVDC Technical Specialist | POWERTEK USA LLC | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=35acf6fdc0e1698e |
+| SCM Process Orchestration Analyst | Q1 Technologies, Inc. | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4440480289 |
+| Information Technology Support Specialist | Hays | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443501140 |
+| Security Communications and Training Specialist | MatchBox Consulting Group | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443387986 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443384324 |
+| Online Data Analyst - Part-time French in Canada | TELUS Digital AI Data Solutions | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443504056 |
+| Gateway Sunrise Int'l Ramp Agent - | UPS | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4431467278 |
+| Recruitment & Admissions Advisor – Education | Ambrose University | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443509408 |
