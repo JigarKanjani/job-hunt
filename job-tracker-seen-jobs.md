@@ -15222,3 +15222,7 @@
 | Mobile Sales Associate (Part Time) | Best Buy | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=658c7034fc5b4add |
 | Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443071901 |
 | Counter Administrator | Computershare Canada | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443089232 |
+| Sales And Marketing Specialist | Paper Canada | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443316199 |
+| Production Lead (Plating) | Factor_ | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443300761 |
+| Data Protection and Security Specialist | OppHub Africa | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4440408961 |
+| Front Desk Agent - Québec-Charlevoix Club Med Charlevoix | Club Med | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443300782 |
