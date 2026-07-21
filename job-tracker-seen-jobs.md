@@ -15354,3 +15354,61 @@
 | Customer Service Representative | Cornerstone Building Brands | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4440496156 |
 | Switchboard Agent | Pomeroy Lodging | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4440487647 |
 | Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4441000224 |
+| Customer Marketing & Operations Associate, West | Diageo | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=8459acc294c3229f |
+| HSE Coordinator | The Hill Companies | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=6d1ccbbf1b1129e0 |
+| Talent Acquisition Specialist | De Havilland Aircraft of Canada Ltd | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=9e1a1ce0ae896a69 |
+| Calgary Administrative & Bookkeeping Coordinator | Health Stand Nutrition Consulting Inc. ( | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=ecb55c31fa1da738 |
+| Digital Design & Production Advisor | Trans Mountain Corporation Inc. | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=9d896f70564e6148 |
+| Economic & Financial Analyst | Canada Energy Regulator | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=804a61782eafdef7 |
+| Part-Time / Fractional Procurement & Logistics Specialist | VulcanX | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=0a945f04ef33c478 |
+| Venture Program Coordinator | Edmonton Unlimited | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=2b16e92fd892beb7 |
+| Business Analyst | Exchanger Industries Limited | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442914085 |
+| Wells Analyst | Cenovus Energy | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443576871 |
+| Financial Analyst | Hays | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443508312 |
+| Financial Analyst | Dasro Consulting Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443566277 |
+| Procurement Manager | DSJ Global | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443554728 |
+| Purchasing Supervisor | Colas Western Canada Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440496942 |
+| Analyst, Pension & Benefits Billings | Nutrien | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440498786 |
+| GRC Analyst | Benevity | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442693980 |
+| Operations Coordinator | Intero Integrity | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442696274 |
+| Nostalgia Townlet Administrative Coordinator | Jayman BUILT | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442913137 |
+| Administrative & Bookkeeping Coordinator | Health Stand Nutrition Consulting Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442683973 |
+| Lead, A/R Cash Application | Nutrien | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4441003660 |
+| Talent Acquisition Specialist | De Havilland Aircraft of Canada Limited | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443550869 |
+| Senior Analyst, Global Money Movement | Benevity | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442917007 |
+| Business Analyst – Dynamic 365 and F&O | Suncor | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443558194 |
+| Electrical Project Coordinator | Mott Electric | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443587049 |
+| Outreach Coordinator and administrative assistant | Muslim Food Bank and Community Services | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4441010112 |
+| Administrative Assistant | Bath Fitter | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=29545b1b010b786f |
+| Style Advisor PT | Genuine Design | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=5b4241841df699af |
+| Financial Coordinator Pediatrics | City Orthodontics & Pediatric Dentistry | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=2fce76ca2bf0c8d7 |
+| Capital Program Manager | Parks Canada | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=e3c97d54daa1364e |
+| Human Resources Coordinator | CST Canada Coal | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=94d22f6b0975583b |
+| AP/AR Coordinator | Rentokil Initial | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=0f87d3d7966b9b52 |
+| Office Administrator | A&M Abatement Services Ltd | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=9eacc2949c4b113a |
+| Member Services Administrator (Call Center) | Alberta Retired Teachers' Association (A | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442687669 |
+| Leadership Development Facilitator | Benevity | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442908393 |
+| Administrator, HR Support | Nutrien | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4441016211 |
+| Administrative Assistant (6-month Contract) | Boardwalk | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442693338 |
+| Human Resources Advisor | Alberta Health Services | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4441706639 |
+| Marketing Regulatory Advisor | Canadian Natural Resources Limited (CNRL | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442912330 |
+| Financial Planner | BMO | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443580237 |
+| GRC Analyst | Benevity | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442909339 |
+| Junior Contaminated Sites Specialist | Tetra Tech | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443571183 |
+| Senior GRC Analyst, Privacy | Benevity | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442913098 |
+| Digital Design & Production Advisor | Trans Mountain | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442692990 |
+| Coordinator, Facility Management | Defence Construction Canada | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442687512 |
+| Operations Coordinator | Weatherford | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443580694 |
+| Banking and Payments Specialist, Overnight Operations | Bank of Canada | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=cae89ce0461a6f91 |
+| Quality Assurance Automation Developer | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=5a2a3b8c3c0561ee |
+| Valuation & Advisory Analyst | Newmark | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442911480 |
+| Development Security Specialist | Pengcorp Ltd. | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442904215 |
+| Automation QA | Apptoza Inc. | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4441014170 |
+| Intermediate SW Developer | Rocky Mountain Embedded Design Inc. (RME | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442900570 |
+| Staff Developer - AI/ML | Benevity | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442917009 |
+| CCS System Analyst | Government of Alberta | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442683880 |
+| Administrative Support (Part time) | Robinson | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=0913e65ff3687ba4 |
+| Member Services Administrator (Call Center) | ALBERTA RETIRED TEACHERS' ASSOCIATION | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=a71efd8e9a758a45 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442699770 |
+| Customer Marketing & Operations Associate, West | Diageo | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443578949 |
+| Administrative Support | ROBINSON | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442907385 |
