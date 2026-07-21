@@ -15277,3 +15277,37 @@
 | Online Data Analyst - Part-time French in Canada | TELUS Digital AI Data Solutions | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4443504056 |
 | Gateway Sunrise Int'l Ramp Agent - | UPS | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4431467278 |
 | Recruitment & Admissions Advisor – Education | Ambrose University | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443509408 |
+| Operations Coordinator | Sarjesa Inc. | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=b245ce1daa96ae4c |
+| Settlement Coordinator | Preszler Injury Lawyers | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=adb71e5b3a77cf8f |
+| Operations and Accounting Coordinator | Strategic Tax & Business Solutions Inc. | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=2036ba72a5195ebe |
+| Project Coordinator | American Process Group | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=b23287bda3838e9c |
+| Veterinary Hospital Inventory and Facilities Coordinator, We | VCA Canada | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=0251d77152e412d2 |
+| Inventory Coordinator, Calgary Animal Referral and Emergency | VCA Canada | 2026-07-21 | J | https://ca.indeed.com/viewjob?jk=04734ca8f1e76c57 |
+| Financial Analyst | Hays | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443397919 |
+| Project Coordinator | Wajax | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443500971 |
+| Contract Manager | Airswift | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440470964 |
+| Settlement Coordinator | Preszler Injury Lawyers | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443503807 |
+| marketing coordinator | Mango Insurance | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443520162 |
+| Senior Talent Acquisition Advisor | Worley | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443514262 |
+| Beauty Advisor - Chanel | Holt Renfrew | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4440478555 |
+| Senior Infrastructure Analyst | Envision Technology Solutions | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442657853 |
+| IT Operations - Specialist | Calgary Co-op | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442662385 |
+| Operations Coordinator | Wolseley Canada Inc. | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4443518530 |
+| Part-Time / Fractional Procurement & Logistics Specialist | VulcanX | 2026-07-21 | J | https://www.linkedin.com/jobs/view/4442669322 |
+| Office Administrator | Xcel Automation Ltd. | 2026-07-21 | N | https://ca.indeed.com/viewjob?jk=1d51cc07a9248e41 |
+| Enrollment Officer/ Recruiter | Alberta Bible College | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4442643980 |
+| Service Advisor | Wood Automotive Group | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443513719 |
+| Digital Marketing Specialist | Wood Automotive Group | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443534001 |
+| Research Ethics Board Specialist | University of Alberta | 2026-07-21 | N | https://www.linkedin.com/jobs/view/4443520021 |
+| Statistical Analyst | Info-Tech Research Group | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=c52d2bd4b431765b |
+| Market Research and Competitive Intelligence Analyst II | D-Wave | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=cdc14cc02f595950 |
+| Registered Veterinary Technologist, Surgery, Western Veterin | VCA Canada | 2026-07-21 | R | https://ca.indeed.com/viewjob?jk=5e40d191be2e336e |
+| Invoice Requisition Analyst (Contract) | Trans Mountain | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442655536 |
+| Systems Trainer – Pharmacy | Calgary Co-op | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442665339 |
+| Database Administrator | Envision Technology Solutions | 2026-07-21 | R | https://www.linkedin.com/jobs/view/4442663295 |
+| Administrative Assistant | Nucor Systems | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=9447a3767c1f860b |
+| Project Controls Specialist | Gas Liquids Engineering Ltd | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=86d9adbcec5372e9 |
+| Clinic Experience Associate | CBI HEALTH | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=d22e03bd96a10b13 |
+| Veterinary Assistant, ER, Western Veterinary Specialist & Em | VCA Canada | 2026-07-21 | G | https://ca.indeed.com/viewjob?jk=df9b321b24c9d046 |
+| Research Associate, Semiconductors & AI Infrastructure - 262 | Enverus | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4434174354 |
+| Recruitment Advisor (Temporary) | Calgary Co-op | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442648959 |
