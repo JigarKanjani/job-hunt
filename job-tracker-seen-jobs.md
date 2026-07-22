@@ -15412,3 +15412,31 @@
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442699770 |
 | Customer Marketing & Operations Associate, West | Diageo | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4443578949 |
 | Administrative Support | ROBINSON | 2026-07-21 | G | https://www.linkedin.com/jobs/view/4442907385 |
+| Banking advisor | National Bank of Canada | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=89a10e9877583eaf |
+| Service Advisor- Alex & Alice Boucher Fort McKay Industrial  | Fort McKay Group of Companies LP | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=18ee5249d3af7811 |
+| Indigenous Communications Coordinator | MacEwan University | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=2b324976a471f63d |
+| Operations Accountant, Accountant in Training | Canadian Natural Resources Limited (CNRL | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4436816810 |
+| Analyst - Learning Management Systems | WestJet | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442945012 |
+| Philanthropy Specialist Grants Writing and Partnerships | The Brenda Strafford Foundation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443584924 |
+| Enterprise Account Executive | Benevity | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442915052 |
+| Enterprise Account Executive | Benevity | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442697779 |
+| Maintenance Planner (Electrical) - High River, AB | Cargill | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441016545 |
+| Senior Specialist Functional Analyst SAP EAM | CPKC | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443708885 |
+| Senior Subcontracts Administrator | Parsons Corporation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443595182 |
+| Marketing Regulatory Advisor | Canadian Natural | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=8e94a19bcb96923a |
+| P&C Shared Services Administrator | Calgary Drop IN & Rehab Society Centre | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=ea2e363e85c8d39b |
+| Payroll and Benefits Administrator | AirSprint Private Aviation | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=ee426a636dfc673f |
+| Service Coordinator | Sonny's Enterprises, Inc | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=7c932a5d52f22356 |
+| Security Coordinator | EllisDon Corporation | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=9ae941992b86c75e |
+| Light Duty Vehicle Fleet Coordinator | Morgan Construction & Environmental Ltd. | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=b8855bd748855aaf |
+| Specialist Operational Incident Response Desk | CPKC | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443715654 |
+| Service Advisor (Jaguar-Land Rover Calgary) | Go Auto | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443597466 |
+| Security Coordinator | EllisDon | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443593575 |
+| Specialist, Modern Endpoint | Miller Thomson LLP | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=ca67b64de4ab43a1 |
+| Specialist, Modern Endpoint | Miller Thomson LLP | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=84e8e663064f359e |
+| Social Engineering Specialist | Raise | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4442935420 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443717205 |
+| Personal Banking Associate Trainee | TD | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=bf748d317e3e2ccf |
+| Sales Associate Full Time - Marlborough Mall | Wow! Mobile Boutique | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=146413e2c6cc4b95 |
+| Yard Controller (Calgary SFC) | The Home Depot Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4442926227 |
+| Intermediate Project Controller - Energy & Resources | Stantec | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4442935429 |
