@@ -15471,3 +15471,20 @@
 | Business Development Analyst (Part-Time) | Civeo | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=6d03008b5a91548e |
 | Analyst, Tourism & Marketing Data | Travel Alberta | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=423ec8732cad23a7 |
 | sales associate | Carters Inc. | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443761409 |
+| Communications Advisor, Partnerships | Calgary Board Of Education | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=cb5c225a04605c98 |
+| Procurement Specialist III | Alberta Health Services | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=2dabd1744d40cc26 |
+| Distribution and Carrier Support Analyst Level 1 | Amrize | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4431974081 |
+| Procurement Data Specialist | Finning | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443132152 |
+| Reliability Specialist | InterPro Pipe + Steel | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4435191594 |
+| Senior Trade Finance Specialist | ATB Financial | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443784468 |
+| Enterprise Account Executive | Benevity | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443123544 |
+| Financial Counterparty Underwriter - 12 Month Term | ATB Financial | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442738703 |
+| Technical Lead | Haventree Bank | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4408445153 |
+| Procurement Data Specialist | Finning | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443119697 |
+| Procurement Specialist - Fully Remote | Upto $100/hr | Mercor | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443105494 |
+| Coordinator - Quality | Covenant Health Canada | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4441023560 |
+| Care Coordinator | Qualicare | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4441037283 |
+| Service Coordinator | Finning | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4434325901 |
+| Remote Finance & Research Analyst | Turing | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443131009 |
+| Administrative Secretary E, Schools | Calgary Board Of Education | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=2fda7b09d6c8e2c2 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443134177 |
