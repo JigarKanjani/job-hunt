@@ -15528,3 +15528,52 @@
 | Quality Analyst (Remote) | Hire Feed | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443926101 |
 | Research Associate, Evaluation and Impact | University of Calgary | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=3c81a714231c06f0 |
 | Equipment Coordinator - Calgary Yard | Jardeg | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443950109 |
+| Senior banking advisor | National Bank of Canada | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=63c4c9fd0463f95b |
+| Rental Coordinator | The Bench - Cardel Rec South | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=c5e40435d5811984 |
+| Operations/Project Specialist | Catapult Environmental | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=d112f61fda835be1 |
+| Equipment Coordinator - Calgary Yard | Jardeg | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=25a1b8bd689ead07 |
+| Business Analyst – IT & Financial Systems | PTW Energy Services Ltd. | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=12abcf7e52635e07 |
+| Clinical Team Lead | WELL Health Diagnostic Centres | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=3bea5b486652495a |
+| Operations - Admin II | Canada Cartage | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=26a708f4bb8023cd |
+| Health Profession Corporation Coordinator | Rippling | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=dc6f042959370757 |
+| Supply Chain Analyst | Insight Global | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443195080 |
+| Business Analyst with Canada Lynx, SWIFT, and Fedwire experi | Ampstek | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443159914 |
+| Category Business Analyst, Wheeled Goods | Sport Chek | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443972361 |
+| Import - Export Specialist | SLB | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441057557 |
+| Business Planning Analyst | Pembina Pipeline Corporation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443946632 |
+| Product Strategy Specialist - Seed & Crop Protection | UFA | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4439893094 |
+| Accounts Payable Specialist | Mountain View Lube | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443189359 |
+| Senior Real Estate Analyst, Development (Western Canada) | Canadian Tire Corporation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443961698 |
+| Travel Coordinator | A Igreja de Jesus Cristo dos Santos dos  | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443943441 |
+| Office Coordinator | Axis Insurance | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443182130 |
+| Construction Project Coordinator | Wright Construction Western Inc. | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443945281 |
+| HSE & Quality Assurance Officer | Brunel | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443175860 |
+| Senior Specialist, Graduate Recruitment | University of Calgary | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4440332053 |
+| Selling Specialist - Sephora/Ulta: Calgary | LVMH Perfumes & Cosmetics | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443952114 |
+| (CAN) Stocking 2 Team Lead | Walmart Canada | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443963377 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443970171 |
+| Senior Business Intelligence Analyst | Maxfield LP | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443174754 |
+| Employment & Community Inclusion Specialist | Accessible Housing | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=e0b4927d33da1951 |
+| Sales and Catering Coordinator - Metterra and Varscona Hotel | Metterra and Varscona Hotels on Whyte | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=a8d82343879a89bf |
+| Internal Controls and Risk Administrative Coordinator | Strathcona County | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=898c0c0a8f47c2e9 |
+| Investment Advisor Assistant | Acumen Capital Partners | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443179385 |
+| Civil Site Coordinator | BOREA CONSTRUCTION | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443187568 |
+| Youth & Family Counsellor | Wood's Homes | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443176404 |
+| Copy of Human Resources Business Partner Advisor (HRBPA) | Dexterra Group | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443973772 |
+| Specialist, Liability Assessment | Alberta Energy Regulator (AER) | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443975451 |
+| Senior banking advisor | National Bank of Canada | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4441069437 |
+| Community Coordinator | Regional Municipality of Wood Buffalo | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443176631 |
+| IT Support Specialist | Egis Group | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=266ac557571a0914 |
+| Site Administrator | Shoppers Drug Mart | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=3b3b42eee364b971 |
+| Social Media & Programs Analyst | Rippling | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=c3fbae52887328aa |
+| Business System Analyst | Ampstek | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443162923 |
+| Security Compliance Specialist | TC Energy | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4441065299 |
+| C# Developer (Remote) | Hire Feed | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443940968 |
+| Data Analyst - Digital Marketing | LawDepot | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4441065535 |
+| Career Advisor | Prospect Human Services | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=cce3372aa576f29c |
+| Administrative Assistant | National Bank of Canada | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=fb6c2c9da21073c0 |
+| Private Client Associate | RBC | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443978203 |
+| Consumables Associate | Walmart Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443965376 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443968481 |
+| Directs Store Delivery Associate - Receiving Temp | Walmart Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443959406 |
+| Ramp Agent | FedEx Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443966468 |
