@@ -15462,3 +15462,12 @@
 | Quality Assurance Analyst II (Remote-Canada) | Neumo Holdings LLC | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=a51c5776e25c91eb |
 | (CAN) General Merchandise Associate | Walmart | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=13f984fb966a4233 |
 | Personal Banking Associate Trainee | TD | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443727819 |
+| Procurement Data Specialist | Finning | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=e8a9f29eedb0cf54 |
+| Purchasing Agent | Bird Construction | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443103099 |
+| Procurement Specialist III | Alberta Health Services | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442996416 |
+| Procurement Specialist - Fully Remote | Upto $100/hr | Mercor | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443105494 |
+| Part-Time Administration Officer (Remote Position) | GoRegional | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4442974876 |
+| Human Resources Coordinator | CST Canada Coal Limited | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443104217 |
+| Business Development Analyst (Part-Time) | Civeo | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=6d03008b5a91548e |
+| Analyst, Tourism & Marketing Data | Travel Alberta | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=423ec8732cad23a7 |
+| sales associate | Carters Inc. | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443761409 |
