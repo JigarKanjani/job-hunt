@@ -15488,3 +15488,18 @@
 | Remote Finance & Research Analyst | Turing | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443131009 |
 | Administrative Secretary E, Schools | Calgary Board Of Education | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=2fda7b09d6c8e2c2 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443134177 |
+| Import - Export Specialist | SLB | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=6f8126912780d06f |
+| Senior GIS Analyst | Onterris | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4434397762 |
+| IT Support Specialist | Egis in Canada | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443913348 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4435376861 |
+| Administrative Coordinator | BlueWater Group | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=a311677422bc1f4e |
+| Fully Remote - Senior Program Manager – AI Governance And Im | TEKsystems | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443906180 |
+| Senior Program Manager – AI Governance And Implementation | TEKsystems | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443793782 |
+| IT Support Specialist | Egis Group | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=9e8dc7b0f5ce7532 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443795967 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443910588 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443796929 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443133406 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443915194 |
+| Scheduling Coordinator | LNG Canada Development Inc | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=6e9f9c74a02ab3fd |
+| Co-op/Contract Health, Safety, and Environmental Coordinator | Soletanche Bachy Canada Inc. | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443151231 |
