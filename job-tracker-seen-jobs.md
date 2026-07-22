@@ -15503,3 +15503,28 @@
 | Financial Investment Analyst (Remote) | Hired | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443915194 |
 | Scheduling Coordinator | LNG Canada Development Inc | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=6e9f9c74a02ab3fd |
 | Co-op/Contract Health, Safety, and Environmental Coordinator | Soletanche Bachy Canada Inc. | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443151231 |
+| Technical Bridge Lead | Mott MacDonald | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=247761f131edec46 |
+| Calgary Police Service - Information Management Analyst | City of Calgary | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=238a460b257382d6 |
+| Project Coordinator | North Star Contracting | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=908ef4ca01684ba9 |
+| Calgary Police Service - Senior Disclosure Analyst | City of Calgary | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=516d32b918c21403 |
+| Travel Coordinator | The Church of Jesus Christ of Latter-day | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443145983 |
+| IAM Specialist | Parkland Corporation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441046586 |
+| Senior IAM Specialist | Parkland Corporation | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441064012 |
+| Highways Lead - Alberta | CIMA+ | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443945008 |
+| Senior Business Analyst | BURGEON IT SERVICES | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441056347 |
+| Discipline Lead, Roads and Highways Structures | Arcadis | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441045400 |
+| Discipline Lead, Roads and Highways Structures | Arcadis | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4441039703 |
+| procurement officer | Scovan | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443167389 |
+| Sales Advisor | Precision Media and Measurement | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=1bafa5678a7dd91a |
+| Casual Crisis Intervention Worker | Wheatland Crisis Society | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=1c8cf1afc8dd3d42 |
+| Systems Administrator | PC eSolutions | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=1760a9c873a856f1 |
+| Lessons Coordinator | Long & McQuade Musical Instruments | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4443932029 |
+| Business Analyst | Valtech Group | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=5ee32bad6f478205 |
+| Network Support Specialist | Hi-Tech Business Systems Ltd. | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=688eeee08281d676 |
+| Power Platform Solutions Consultant | The Eighth, LLC | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=e0604be21f03729d |
+| Marketing Communication Analyst | Bartech Staffing | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443937404 |
+| QA Automation Developer | TEEMA | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443153357 |
+| Process Engineer (Food Manufacturing) | TalentWorld | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443929272 |
+| Quality Analyst (Remote) | Hire Feed | 2026-07-22 | R | https://www.linkedin.com/jobs/view/4443926101 |
+| Research Associate, Evaluation and Impact | University of Calgary | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=3c81a714231c06f0 |
+| Equipment Coordinator - Calgary Yard | Jardeg | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443950109 |
