@@ -15440,3 +15440,25 @@
 | Sales Associate Full Time - Marlborough Mall | Wow! Mobile Boutique | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=146413e2c6cc4b95 |
 | Yard Controller (Calgary SFC) | The Home Depot Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4442926227 |
 | Intermediate Project Controller - Energy & Resources | Stantec | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4442935429 |
+| Mental Health Support Specialist | Cympact: A Community Impact Foundation | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=fa38972bb911810b |
+| Repair Coordinator | Lift Auto Group | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=09c76fafb80e1ce0 |
+| Safety Advisor | Volker Stevin | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=a1e81a88313083fa |
+| Project Lead - Capital & Asset Renewal | Onward Homes | 2026-07-22 | J | https://ca.indeed.com/viewjob?jk=0992fecb61de1f96 |
+| Communications Specialist | ATB Financial | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443742183 |
+| Mortgage Specialist | BMO | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442951472 |
+| Cleaning Specialist | Beyond Cleaning Services | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4442969441 |
+| Business Development Analyst (Part-Time) | Civeo North America | 2026-07-22 | J | https://www.linkedin.com/jobs/view/4443736004 |
+| Parts Coordinator | Lift Auto Group | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=ead86d124dac25a7 |
+| Nostalgia Townlet Administrative Coordinator | Jayman Built | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=6073e599d2557c20 |
+| Outreach Worker - The Way In | Carya | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=5650df5dca6fa2e7 |
+| Outreach Worker - The Way In | Carya | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=e05a52f96a622015 |
+| Outreach Worker - The Way In | Carya | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=d9ff01e9654ea11a |
+| Outreach Worker - OASCOT | Carya | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=086b1a865cede078 |
+| Outreach Worker - The Way In | Carya | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=79cc91d906e33679 |
+| Case Manager - Alberta | PSPSync | 2026-07-22 | N | https://ca.indeed.com/viewjob?jk=d947590ad28e748a |
+| Mental Health Support Specialist | Cympact: A Community Impact Foundation | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4442935662 |
+| Learner Specialist | Government of Alberta | 2026-07-22 | N | https://www.linkedin.com/jobs/view/4442930806 |
+| Circular Economy Process Engineer, Design and Development -  | Circular Materials | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=cbdc8c2be36a087f |
+| Quality Assurance Analyst II (Remote-Canada) | Neumo Holdings LLC | 2026-07-22 | R | https://ca.indeed.com/viewjob?jk=a51c5776e25c91eb |
+| (CAN) General Merchandise Associate | Walmart | 2026-07-22 | G | https://ca.indeed.com/viewjob?jk=13f984fb966a4233 |
+| Personal Banking Associate Trainee | TD | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443727819 |
