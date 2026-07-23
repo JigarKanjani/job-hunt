@@ -15700,3 +15700,37 @@
 | Health Promotion Facilitator | Mosaic Primary Care Network | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444011730 |
 | Associate Principal, Business Development | TELUS Digital | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443891785 |
 | Construction Safety Officer | FWS | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444005775 |
+| Project Coordinator | Boxfort Ventures (AB) Ltd | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=5b11d96d7400ccf8 |
+| QA Specialist | AuthenBalance Corporation | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=0d2cc47e756c8f6d |
+| Financial Analyst, Lease Accounting | Stantec | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=9149174e7c2cd2a0 |
+| Maintenance Advisor - Calgary | EMKAY Inc. | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=8fa55ef175a697e7 |
+| Fulfilment Operations Team Leader | IKEA | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444025370 |
+| Office and Operations Coordinator | BigGeo | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444018422 |
+| Asset Data Specialist | Tourmaline Oil Corp | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444038232 |
+| Used Vehicle Acquisitions Specialist - Calgary, AB | AutoCanada | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444035202 |
+| Data Analyst | Strathcona Resources Ltd. | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444711853 |
+| IT Sourcing Partner (IT Recruitment) | Hays | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4430705046 |
+| Senior Analyst, Health & Benefits Consulting | HUB International | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441552977 |
+| Support Specialist - Calgary | Bulletproof InfoTech | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441549837 |
+| Field Sales Specialist - MDU (Calgary) | Rogers Communications | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444019249 |
+| Church Coordinator | The Exchange Church | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=cf4fd0846966f377 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=f67258090f2a9d73 |
+| Case Manager - LGBTQ+Newcomers | Centre for Newcomers | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=ecd7988c6ca4b226 |
+| Office Administrator | REAL Recruitment | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=9e6cf9db9807fcce |
+| Office Administrator | REAL Recruitment | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=06f16834c7520138 |
+| Recruitment Coordinator | Rising Edge Group | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=4c2d6f192e6bea53 |
+| Services Coordinator- Coordinateur.trice des services | CASWE-ACFTS | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=d6b2ea3df1ad8d7c |
+| Services Coordinator | CASWE-ACFTS | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=9b4cd78bff3b4eb4 |
+| Financial Advisor - Macleod Centre Branch, AB | Scotiabank | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444035196 |
+| Client Care Specialist | Gateway Services Inc. | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=c6c4c94cb9693828 |
+| Support Specialist - Calgary | Bulletproof InfoTech | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=ec4266d146857a03 |
+| MineStar Application Specialist | Caterpillar | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=70ba6f0f7716ae75 |
+| Laboratory Analyst - Geology | AGAT Laboratories | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444710859 |
+| Financial Analyst | BPT Staffing | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444022452 |
+| Support Specialist - Red Deer | Bulletproof InfoTech | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4441569131 |
+| AR & Rentals Specialist | Pacesetter Equipment Ltd | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=a941eaa75f85940f |
+| Associate Pastor | The Exchange Church | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=4983720fe0315a1b |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=2b6a400300ed4006 |
+| Donor Services & Gift Processing Administrator | Calgary Humane Society | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444726719 |
+| Underwriting Associate | Peoples Group | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444022359 |
+| System Administrator (Tier 2 & Tier 3 System and Application | Keolis Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441570224 |
