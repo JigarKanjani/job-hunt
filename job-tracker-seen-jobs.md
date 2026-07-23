@@ -15639,3 +15639,22 @@
 | Research Specialist (Remote) | Quik Hire Staffing | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444450229 |
 | Literary Specialist - Fully Remote | Upto $150/hr | Mercor | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444424712 |
 | GYMVMT Front Desk Associate - Calgary Westbrook | GoodLife Fitness | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441533152 |
+| Field Sales Specialist - MDU (Calgary) | Rogers Communications | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=a3e3e7c6f3fbbad3 |
+| Program Coordinator - RHPAP | RPAP | Health Workforce For Alberta | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=5c93451ab44387f8 |
+| Bid Coordinator | Trane Technologies | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443886804 |
+| Scheduling Lead | City of Calgary | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443870765 |
+| E-Commerce Content Specialist | Yodify | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443995239 |
+| Business Analyst | Indigenous Energy Monitor | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443870620 |
+| Emergency Management and Recovery Planner | City of Calgary | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443892135 |
+| Event Specialist | Hull Services | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443880723 |
+| Program Manager (GIS) | Enterprise Solutions Inc. | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4443878043 |
+| Administrative Assistant, Electricity Centre | University of Calgary | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444453876 |
+| Data Analyst | Strathcona Resources Ltd. | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=05f5bf30b6644fad |
+| Cyber Security Specialist | NES Fircroft | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4442647337 |
+| IT Business  Analyst | FLINT Corp. | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4426544389 |
+| Finance Research Analyst | Remote | Crossing Hurdles | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443887187 |
+| Customer Service Representative | private tutor | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=1baffaaece0eae8f |
+| Health Promotion Facilitator | Mosaic Primary Care Network | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=6610aca813b1cb4e |
+| Clinical Administrative Support, Administrative Services Dep | University of Calgary | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444470131 |
+| Customer Service Representative- Canadian Resident | Aspira | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444468394 |
+| Controller (13 Month Maternity Leave Coverage) | Geologic | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443881547 |
