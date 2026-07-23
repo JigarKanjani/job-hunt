@@ -15577,3 +15577,40 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443968481 |
 | Directs Store Delivery Associate - Receiving Temp | Walmart Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443959406 |
 | Ramp Agent | FedEx Canada | 2026-07-22 | G | https://www.linkedin.com/jobs/view/4443966468 |
+| Senior Category Manager, Technology - Indirect Procurement | lululemon | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=cae33a55b5291586 |
+| Operations Supervisor | Ryder System | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=453828cd601eb297 |
+| Civil Site Coordinator | Borea Construction | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=384b267acf948649 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444207713 |
+| Business Systems Analyst | Wajax | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444222356 |
+| Junior Well Operations Engineer | SECURE | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444212850 |
+| Philanthropy Specialist, Grants & Partnerships | The Brenda Strafford Foundation | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444239055 |
+| Senior Business Analyst | Servus Credit Union | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443425779 |
+| Donor Relations & Development Officer | STARS | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443455173 |
+| Case Coordinator - Vocational Services | Lifemark Health Group | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441081647 |
+| Well Operations Engineer | SECURE | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444205959 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444210952 |
+| Business Analyst(with QFC, Regulatory Reporting and Finance  | Damcosoft | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443431835 |
+| Talent Acquisition Coordinator / Recruiting Coordinator (12- | Loblaw | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=fee0bc736be106d2 |
+| Coordinator, TA | Nutrien | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=b7834ac740a22d8d |
+| Project Coordinator - Clinical Research | Celerion | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=b040ed916ec667fa |
+| Site & HSE Coordinator - Services | Graham Construction | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=236de350f384db37 |
+| Site & HSE Coordinator - Services | Graham Construction | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=1bead62cf33a7bdc |
+| Site & HSE Coordinator - Services | Graham Construction | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=0eb4991ecb5a108f |
+| Administrative Coordinator | Edmonton Catholic Schools | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=73899598a94dbbf2 |
+| Internal Coordinator | CanadaOne Auto Group | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=9b98637f99e21625 |
+| Career Advisor | Prospect Human Services Society | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444246694 |
+| Vocational Rehabilitation Specialist | CBI Health | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444226658 |
+| Safety Advisor | Actalent | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4443450131 |
+| Coverage Office Administrator (Part-Time) - All locations, C | Momentum Health | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444258077 |
+| Community Impact Coordinator | E4C | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4443453259 |
+| Vocational Rehabilitation Specialist | CBI HEALTH | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=a2d83ffba8b7ca82 |
+| UI/UX Developer - Landmark | Halliburton | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443432621 |
+| Personal Trainer - Calgary Deerfoot City | GoodLife Fitness | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444252148 |
+| EverHealth - Automation and AI Specialist -GTM(Remote, US) | EverCommerce | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4442199465 |
+| Personal Banking Associate Trainee | TD | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=564db3c234ff3aed |
+| Front Desk Agent - Black Diamond Club | Pomeroy Lodging | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441097214 |
+| (CAN) Distribution Centre Team Associate - Quality Assurance | Walmart Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444217738 |
+| Front Counter Associate, Okotoks | Fountain Tire | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444254195 |
+| over-the-counter associate | Walmart Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444210948 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444213864 |
+| Billing Coordinator (Contract Employment) | Fasken | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443452007 |
