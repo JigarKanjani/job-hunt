@@ -15658,3 +15658,45 @@
 | Clinical Administrative Support, Administrative Services Dep | University of Calgary | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444470131 |
 | Customer Service Representative- Canadian Resident | Aspira | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444468394 |
 | Controller (13 Month Maternity Leave Coverage) | Geologic | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443881547 |
+| Receiving Leadhand | Grand & Toy | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=f8f361919198bac0 |
+| Strategic Partnership Specialist (Customer Care) | Rippling | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=730ce70d35ab235d |
+| Strategic Partnership Specialist (Customer Care) | Rippling | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=faf395632c941560 |
+| Inventory Analyst | CFR Chemicals Inc. | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=6044673217a1c850 |
+| Logistics Supervisor | Cascades | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444009592 |
+| Operations Accountant | Parkland Corporation | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444014276 |
+| PLM Senior Analyst | Accenture | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444007221 |
+| People Experience Product Coordinator | UFA | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443891299 |
+| Night Shift Transportation Coordinator | Insight Global | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443895614 |
+| Operations Accountant | Parkland Corporation | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444001426 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441531891 |
+| Recruitment Coordinator | Rising Edge Group | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444714179 |
+| Sales Coordinator | FWS | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444000839 |
+| Benefits Adjudicator & Client Care Specialist | Health Risk Group Benefits | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444003571 |
+| Employer Relationship Specialist | Open Door Group | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444496496 |
+| Materials Engineering Technologist | SGS | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441538728 |
+| CMS/DAM Functional Lead | Accenture | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444007217 |
+| People Experience Product Coordinator | UFA | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=423ab569914b356c |
+| Electrical/Instrumentation Project Coordinator | PCL Construction | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=bb2c94f3b695a2ab |
+| Video Coach & Hockey Operations Coordinator - Edmonton Oil K | Edmonton Oil Kings | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=6201276493c687f8 |
+| Project Coordinator | Northgate Industries Ltd - Acheson | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=99e3271cf568a8cb |
+| Payroll Administrator | Pomeroy Lodging | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=d2872f6c2323d439 |
+| Administrative Assistant | Soho Square Solutions | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4441545807 |
+| Administrative Assistant | BrokerLink | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444494251 |
+| Client Care Specialist | Gateway Services Inc. | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444479693 |
+| Payroll Administrator | Pomeroy Lodging | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4441557227 |
+| Accounts Receivable Administrator | Alberta Beverage Container Recycling Cor | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444001756 |
+| Navigator | Native Counselling Services of Alberta | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444006778 |
+| Parole Officer Supervisor | Native Counselling Services of Alberta | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444012258 |
+| Technology Support Specialist | DWF | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=a6f4fd23cc85e392 |
+| Business Systems Data Specialist | Wendy Ellen Inc. | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444000202 |
+| Analyste - gestion des identités et des accès | CIRO / OCRI | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444494229 |
+| Java Developer | Yochana | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444005687 |
+| Java Developer | Patch Tech Staffing | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444013671 |
+| Financial Analyst - Intermediate | ThoughtStorm | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444009660 |
+| Financial Analyst | NetworkPedia | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443894354 |
+| Financial Analyst | Jobility Talent Solutions | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444005603 |
+| Private Banking Associate, Private Banking 1859 | National Bank of Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441545818 |
+| Church Coordinator | The Exchange Church, Calgary | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444004762 |
+| Health Promotion Facilitator | Mosaic Primary Care Network | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444011730 |
+| Associate Principal, Business Development | TELUS Digital | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443891785 |
+| Construction Safety Officer | FWS | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444005775 |
