@@ -15734,3 +15734,48 @@
 | Donor Services & Gift Processing Administrator | Calgary Humane Society | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444726719 |
 | Underwriting Associate | Peoples Group | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444022359 |
 | System Administrator (Tier 2 & Tier 3 System and Application | Keolis Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441570224 |
+| Operations Administrator | Executive Flight Centre | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=3206e8a76f56c11e |
+| Outside Sales Specialist | Overhead Door Company of Lethbridge/Calg | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=83d25a861b7e749d |
+| Office and Operations Coordinator | BigGeo | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=4c6c3f49adde894b |
+| Facilities & Maintenance Lead | Coolit Systems | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=e6852bb548efc4fc |
+| Financial Analyst - Entry Level | Remuda Building Ltd | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=0b32077f53ef675e |
+| AltaGas - Treasury Analyst | AltaGas Ltd. | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444023478 |
+| Economics and Business Planning Analyst | Pembina Pipeline Corporation | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444737939 |
+| Customer Service Specialist | Westpower | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444748258 |
+| Coordinator - Insurance Operations Admin | Soho Square Solutions | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441562810 |
+| Grants Coordinator | Alberta Law Foundation | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444021659 |
+| Sales Specialist, Venue & Events | Easter Seals Alberta | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444756082 |
+| Advisor, Immigration Services | University of Calgary | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444733711 |
+| EV Marketing and Communications Coordinator - Hunter Hub | University of Calgary | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444740242 |
+| Technology Development Lead | NanosTech | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444016691 |
+| Digital Design & Content Coordinator | Kathairos Solutions | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444742344 |
+| Data Management and Technology Lead - CDL-Rockies | University of Calgary | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444744046 |
+| Procurement Manager | AltaSteel | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4444037486 |
+| Intermediate IT Business Analyst | StafinGo | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4441566308 |
+| Service Advisor - Capital Chevrolet Buick GMC, Calgary, AB. | Capital Automotive Group | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=007d1d7316d9995e |
+| HR Coordinator | Wild Flour Banff's Artisan Bakery & Cafe | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=31198a7fc4114fb6 |
+| Case Worker | EWC Immigration | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=4313d9e3079c68a4 |
+| Activities Coordinator | Meridian Housing Foundation | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=f08ac58fc5763a09 |
+| Business Registry Coordinator - PT Perm | The Town of CAnmore | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=e73556c26e72a788 |
+| Resident Advisor | Campus Living Centres | 2026-07-23 | N | https://ca.indeed.com/viewjob?jk=5c193ff9b4072e56 |
+| Administrator, Indigenous, Local & Global Health Office | University of Calgary | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444744045 |
+| Internal Service Advisor | Kaizen Automotive Group | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444021574 |
+| HSE Program Manager | Forge Performance Group | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444027500 |
+| Senior Administrative Assistant - FT - Calgary | Coast Claims Insurance Services | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444736442 |
+| Service Advisor | Kaizen Automotive Group | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444031478 |
+| Financial Planner - Airdrie | TD | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444747084 |
+| Private Banking Commercial Lending Specialist | BMO | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444721982 |
+| Ministry Assistant Coordinator | The Salvation Army in Canada | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444740628 |
+| Community Engagement Coordinator | AMA - Alberta Motor Association | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4444718913 |
+| Contract Administrator (Term Position) | Banff Centre for Arts and Creativity | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4441559863 |
+| System Administrator (Tier 2 & Tier 3 System and Application | Keolis | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=b4a850ad39d23887 |
+| Support Specialist - Red Deer | Bulletproof InfoTech | 2026-07-23 | R | https://ca.indeed.com/viewjob?jk=babdbb11b705de64 |
+| Laboratory Analyst - Geology | AGAT Laboratories | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4441558801 |
+| Research Associate, Process Development, Arnie Charbonneau C | University of Calgary | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444201510 |
+| Operations Analyst (Methods Analyst I) | City of Edmonton | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4441561807 |
+| FINANCE ADMINISTRATOR | Calgary (Balzac) Tractorland | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=ab0837c58502a168 |
+| Merchandising Associate Part Time - CALGARY SOUTH EAST | Home Depot Canada | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=0c0bc93347c0ef63 |
+| Commercial Insurance Associate | HUB International | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=5e3b1de3c101b15d |
+| Alumni Engagement Coordinator, Alumni, VP Development and Al | University of Calgary | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444214066 |
+| Parts Counter Advisor, Retail | Kaizen Automotive Group | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444018646 |
+| Project Administrator | Agilus Work Solutions | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444042107 |
