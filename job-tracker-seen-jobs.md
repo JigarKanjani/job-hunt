@@ -15620,3 +15620,11 @@
 | Financial Reporting Accountant | Boardwalk | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443497905 |
 | Private Client Associate | RBC | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=64c99ab6e2b27453 |
 | Administrative Support IV | Alberta Health Services | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443493584 |
+| Privacy Advisor | Alberta Health Services | 2026-07-23 | J | https://ca.indeed.com/viewjob?jk=28974f79b66f3f44 |
+| YOUTH DEVELOPMENT COORDINATOR (FLOATER) | McMan Youth, Family and Community Servic | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443835168 |
+| Technology Support Specialist | DWF | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444420884 |
+| Finance Research Analyst | Remote | Crossing Hurdles | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4435063175 |
+| Financial Data Analyst | $30/hr Remote | Crossing Hurdles | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443834476 |
+| Administrative Support IV | Alberta Health Services | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=afa2232d0f26ac44 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443837600 |
+| H&M Sales Advisor | H&M | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4426375082 |
