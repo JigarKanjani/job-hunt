@@ -15628,3 +15628,14 @@
 | Administrative Support IV | Alberta Health Services | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=afa2232d0f26ac44 |
 | Reservations Agent | Grey Eagle Resort & Casino | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443837600 |
 | H&M Sales Advisor | H&M | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4426375082 |
+| Accounting Coordinator - Accounts Payable | RESA Power | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443874162 |
+| Esri Technical Lead | Enterprise Solutions Inc. | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443867167 |
+| Engagement Program Specialist | Alberta Construction Safety Association | 2026-07-23 | N | https://www.linkedin.com/jobs/view/4443883033 |
+| Benefits Adjudicator & Client Care Specialist | Health Risk Group Benefits | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443875265 |
+| Quality Analyst (Remote) | Hire Feed | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444436522 |
+| AI Quality Assurance Analyst – Content Evaluation | $70/hr R | Crossing Hurdles | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4426787401 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444446066 |
+| Financial Data Analyst | $30/hr Remote | Crossing Hurdles | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443834476 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444450229 |
+| Literary Specialist - Fully Remote | Upto $150/hr | Mercor | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4444424712 |
+| GYMVMT Front Desk Associate - Calgary Westbrook | GoodLife Fitness | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4441533152 |
