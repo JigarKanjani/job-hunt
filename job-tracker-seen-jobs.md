@@ -15614,3 +15614,9 @@
 | over-the-counter associate | Walmart Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444210948 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444213864 |
 | Billing Coordinator (Contract Employment) | Fasken | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443452007 |
+| Procurement Specialist I | Alberta Health Services | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443813459 |
+| Privacy Advisor | Alberta Health Services | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4443499543 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-07-23 | J | https://www.linkedin.com/jobs/view/4440348241 |
+| Financial Reporting Accountant | Boardwalk | 2026-07-23 | R | https://www.linkedin.com/jobs/view/4443497905 |
+| Private Client Associate | RBC | 2026-07-23 | G | https://ca.indeed.com/viewjob?jk=64c99ab6e2b27453 |
+| Administrative Support IV | Alberta Health Services | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4443493584 |
