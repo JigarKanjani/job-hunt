@@ -15965,3 +15965,66 @@
 | Systems Integration Engineer | AtkinsRéalis | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445217355 |
 | Systems Integration Engineer | AtkinsRéalis | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445211721 |
 | Financial Reporting Accountant | Boardwalk | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444609000 |
+| Electrical Designer / Lighting Analyst | ISL Engineering and Land Services | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=c3afa668ca37f464 |
+| Applied AI Lead - Calgary | SIA | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=43f1a845ccd095ca |
+| Treasury Analyst | Flair Airlines Ltd. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=3dcaa8cf142a831f |
+| Planner - Distribution Center | WestJet Airlines | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=93f868c0fc5b1e92 |
+| Procurement Coordinator | Sky Eye Measurement Inc. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=c3dae9ca0bd40400 |
+| JUNIOR LOGISTICS COORDINATOR | EnergyLink | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=a724003f53b4a07f |
+| Team Lead, Project Delivery Office (PDO) | WCB Alberta | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=a9efd698c356f093 |
+| Rental Coordinator | WHITEWATER MANAGEMENT - Catalyst Product | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=3dbd8de54fd69880 |
+| Financial Analyst - Intermediate - 977 | I8IS INC. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=05a79ed6b9761c9c |
+| QA Systems Analyst | High Ground Medica Inc. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=59b1efcdff5158b4 |
+| Supply Chain Advisor | TAQA Group | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444603324 |
+| Specialist Supply Chain Management Data & Innovation | Enbridge | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441850327 |
+| Strategic Sourcing Specialist | Ecolab | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445247461 |
+| Business Analyst | MNP | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444391615 |
+| Advisor IT Application Services | Enbridge | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441856038 |
+| Project Coordinator | Government of Alberta | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444393587 |
+| Specialist II, Processing Operations - Settlements | ATB Financial | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445239927 |
+| Executive Advisor, Technology | WestJet | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445239012 |
+| Branch Supervision (Compliance) Specialist - Contract | BMO | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445240550 |
+| Technical Talent Acquisition Specialist (Contract) | Ecolab | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445239718 |
+| Concierge Lead | Westman Village by Jayman BUILT | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444398949 |
+| Project Coordinator/Scheduler | ATCO Frontec | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444396615 |
+| Advisor IT Network Operations | Enbridge | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441833951 |
+| Safety Advisor | Volker Stevin | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444611617 |
+| Sr Advisor LP Finance Commercial & Regulatory | Enbridge | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441856040 |
+| Mental Health Support Worker (2026-0658) | Carewest - Innovative Health Care | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=bdd651cc4572f88c |
+| Sales Coordinator | Daeco HR Consulting | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=bf335fd773d1555f |
+| Administrator & Reception Coordinator | Banff Caribou Properties Ltd. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=14a318a0522ecbc7 |
+| Administrator & Reception Coordinator | Banff Caribou Properties Ltd. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=a3ed8481252f7cc0 |
+| Administrator & Reception Coordinator | Banff Caribou Properties Ltd. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=c66a00f140a8416f |
+| Administrator & Reception Coordinator | Banff Caribou Properties Ltd. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=d6d57d6aa0047ef5 |
+| Health, Safety and Sustainability Coordinator | New Horizon Co-op | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=150c5c7e21218869 |
+| Coordinator, Secretariat | Chartered Professional Accountants of Al | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=e03db6854a6e3a4c |
+| Administrative Assistant | Soho Square Solutions | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441836591 |
+| ScotiaMcLeod Administrative Assistant | Scotia Wealth Management | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444611315 |
+| Facilitator - Vocational Services | Lifemark Health Group | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441840655 |
+| Payroll Administrator | BURNCO Rock Products Ltd | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4443473487 |
+| Junior Investment Advisor | Manulife Wealth | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444610465 |
+| Everyday Banking Advisor - Calgary Westhills | ATB Financial | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445246684 |
+| Senior Environmental Assessment Specialist | True Environmental | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445237778 |
+| Program Delivery Specialist | Banff Centre for Arts and Creativity | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441836744 |
+| Asset Management Coordinator | Government of Alberta | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444607367 |
+| Claims Assessor and Technical Advisor | Alberta New Home Warranty Program | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445254031 |
+| Document Control Coordinator | Ledcor | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445258600 |
+| Travel Administration Specialist | AMA - Alberta Motor Association | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445230939 |
+| Operations Coordinator | Applus+ Canada | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445258022 |
+| Branch Supervision (Compliance) Specialist - Contract | BMO Financial Group | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=0fe38bc0549b3c72 |
+| Client Services Insights & Reporting Analyst, Global Asset M | BMO Financial Group | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=adc615cfd769c691 |
+| IT Business Analyst | City of St. Albert | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=8940ae3725dd3ae7 |
+| Business Solutions Developer | Trans Mountain | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444605678 |
+| Collections Analyst (Term Role) | Parkland Corporation | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4441848345 |
+| Investment Analyst | TransAlta | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445253697 |
+| Java Developer | eHub Global Inc | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445258312 |
+| Support Analyst | Raise | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445239021 |
+| Professional Administrator | McInnis & Holloway Funeral Home | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=5eb8bcf79f531b75 |
+| Administrative Associate | Wellington-Altus | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444605510 |
+| ScotiaMcLeod Administrative Associate - Calgary | Scotia Wealth Management | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444394554 |
+| Underwriting Associate (Calgary/Hybrid) | AMA - Alberta Motor Association | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445233770 |
+| Receptionist Casual - AgeCare Dawson | AgeCare | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445250059 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444394899 |
+| Customer Service Representative | BMO | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445243415 |
+| Research Associate, Department of Medicine | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445246460 |
+| Research Coordinator, Community Health Sciences | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445255078 |
