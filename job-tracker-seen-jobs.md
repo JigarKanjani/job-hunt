@@ -15849,3 +15849,14 @@
 | IAM – Sailpoint Developer | Parkland Corporation | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444075389 |
 | Non-Credit Instructors, Artificial Intelligence Programs - U | University of Calgary | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444082317 |
 | Sales and Rental Associate | Long & McQuade Musical Instruments | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444788300 |
+| Information Technology Integrated Product Team Lead | Raytheon | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=7919ef5a77e6f87d |
+| Lead - Operational Clinical Informatics | Alberta Health Services | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444095743 |
+| Senior Financial Analyst | Aston Carter | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444922319 |
+| Senior Financial Analyst | Alberta Health Services | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444311574 |
+| Recreation Coordinator | Vantage Living Inc. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=20b7bac9016383fc |
+| Intake and Workflow Agent | MEDICENTRES CANADA | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=d45fbb61aa3ae605 |
+| Donor Services Administrator | Closer to Home Community Services | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444931055 |
+| System Administrator (Tier 2 & Tier 3 System and Application | Keolis Commuter Services | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444918540 |
+| Promotions and Programming Coordinator/Announcer – Zed 98.9 | Newfoundland Capital Corporation Limited | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444909400 |
+| Receptionist - PT | Wood Automotive Group | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444913282 |
+| Luxury Sales Associate (Full-Time) | OMEGA SA | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4441577737 |
