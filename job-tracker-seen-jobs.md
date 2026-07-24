@@ -15824,3 +15824,28 @@
 | Customer Service Associate - Hardware | RONA | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444771829 |
 | Customer Service Broker - Personal Lines | Ratehub.ca | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444052582 |
 | Quality Control Associate | Factor_ | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444754536 |
+| Advisor, Immigration Services | University of Calgary | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=0040e003b0ec5d83 |
+| EV Marketing and Communications Coordinator - Hunter Hub | University of Calgary | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=a92f230d323715e5 |
+| Post Approval Assurance Coordinator, Animal Care Services | University of Calgary | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=bd521d85cebc5c87 |
+| Intermediate Financial Analyst – SAP Ariba | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=c226c3a5546377d1 |
+| Management - Area Leader Production | Sobeys | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444777906 |
+| AltaGas - Senior Partner, Talent & Leadership | AltaGas Ltd. | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444079300 |
+| Communications Advisor | Government of Alberta | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444053825 |
+| Professional Learning Coordinator - Werklund School of Educa | University of Calgary | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4443470448 |
+| Post Approval Assurance Coordinator, Animal Care Services | University of Calgary | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444065900 |
+| IT Field Operations Specialist | Avenue Living | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444086666 |
+| Senior Water Treatment Specialist | True Environmental | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444787748 |
+| Corporate Treasury Analyst | AutoCanada | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444043952 |
+| Coordinator, Showroom, designQ | designq edmonton | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=bb3135cec2d21194 |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=744e819d5b275b8b |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=32139bcae5921de2 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4443468433 |
+| Administrative Assistant | University of Calgary | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444208225 |
+| Everyday Banking Advisor - Calgary Sage Hill | ATB Financial | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444786955 |
+| Everyday Banking Advisor - Calgary Marda Loop (Temporary) | ATB Financial | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444796420 |
+| Lessons Coordinator | Long & McQuade Musical Instruments | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444782718 |
+| Customer Success & Onboarding Specialist (Remote) | Velocity Prep Vancouver | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=a631244fc68f0e3b |
+| Quality Assurance Analyst I | Olympia Financial Group Inc. | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=d0e41a5f47b989e4 |
+| IAM – Sailpoint Developer | Parkland Corporation | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444075389 |
+| Non-Credit Instructors, Artificial Intelligence Programs - U | University of Calgary | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444082317 |
+| Sales and Rental Associate | Long & McQuade Musical Instruments | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444788300 |
