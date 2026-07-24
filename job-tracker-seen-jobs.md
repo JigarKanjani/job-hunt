@@ -15860,3 +15860,22 @@
 | Promotions and Programming Coordinator/Announcer – Zed 98.9 | Newfoundland Capital Corporation Limited | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444909400 |
 | Receptionist - PT | Wood Automotive Group | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444913282 |
 | Luxury Sales Associate (Full-Time) | OMEGA SA | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4441577737 |
+| Risk, Regulation & Compliance Advisor (Environmental) | Town Of Cochrane | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=538bb330c4e55c93 |
+| Risk, Regulation & Compliance Advisor (Environmental) | Town Of Cochrane | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=feca12c0df0f0d7d |
+| Coordinator Fleet Maintenance (Administrative) | Air Liquide | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=0917ae0314f42bde |
+| Customer Care Coordinator | Brookfield Residential | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4435247966 |
+| Advisor, Talent Acquisition | ATCO | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444333202 |
+| Enterprise Acquisition Account Executive | Dynatrace | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444928771 |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=2401342fe0ee1894 |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=1ed89fbffdcc3d3e |
+| Business Analyst | Alberta Health Services | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=28ec5e3f4d7ab501 |
+| LLM Evaluation Specialist – Analytical Reviewer | $70/hr Rem | Crossing Hurdles | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4426769597 |
+| Coding Specialist (Multi-Language) | $40/hr Remote | Crossing Hurdles | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444322278 |
+| Astrophysics Specialist - Fully Remote | Upto $85/hr | Mercor | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4427912323 |
+| Administrative Assistant (REMOTE) | Qureos | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=2b2b61ec5d7983d8 |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444316944 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444939193 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444940260 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444931598 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444933634 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444929822 |
