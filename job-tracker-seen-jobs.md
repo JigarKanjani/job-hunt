@@ -15913,3 +15913,26 @@
 | Administrative Assistant, Institutional Development, VP Deve | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444987350 |
 | Mortgage Funding Associate | AMA - Alberta Motor Association | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444989124 |
 | Project Scheduler | Raytheon | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4399215614 |
+| Intake Coordinator | Community Mediation Calgary Society | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=aefca753884269f5 |
+| Supply Chain Advisor | TAQA | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=225f153b37dd2cc7 |
+| Steel Detailer / Technical Client Coordinator | Prozus | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=2b7acbe70dbf8418 |
+| Health and Benefits Financial Analyst | WTW | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=8e7a19b2214d844a |
+| Specialist, Budgets & Forecast | Cenovus Energy | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445206150 |
+| Threat Intelligence Lead | TC Energy | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441815698 |
+| Data Annotation Specialist, Generalist | Cohere | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444380435 |
+| Senior Safety Advisor Safety Management System (SMS) | Enbridge | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441832019 |
+| Manufacturing Planner | SLB | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441833016 |
+| Program Coordinator Full-Time | Indigenous Sport Council of Alberta (ISC | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=e721e73a507f3b26 |
+| Intensive Case Management Worker - Harbour House HOPE | Young Women's Christian Assoc. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=678753948645107e |
+| Fabrication Project Coordinator – ASME Pressure Vessels & Pi | Rushton Gas & Oil Equipment Ltd. | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=fa64fa9b5cbe8165 |
+| Claims & Benefits Administrator | Precision Drilling | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4443957012 |
+| Software Support Specialist | Kailo Medical | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=19b45b088b7a4e94 |
+| Payroll and Benefits Administrator | Flair Airlines Ltd. | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=724acb29b8d9b6e8 |
+| Payroll and Benefits Administrator | Flair Airlines Ltd. | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=c083eec06befd74d |
+| Business Intelligence Developer | Robert Half | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444371275 |
+| Computational Engineering Specialist | $60/hr Remote | Crossing Hurdles | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444359247 |
+| Veterinary Assistant/Receptionist | Panorama Hills Animal Hospital | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=bbb0721079688282 |
+| Customer Service Representative | Wood Automotive Group | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444994719 |
+| (CAN) Distribution Centre Team Associate - Receiving-(SAT WE | Walmart Canada | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445203482 |
+| (CAN) Distribution Centre Team Associate - Receiving (SAT TU | Walmart Canada | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444994739 |
+| Agent des Installations | Canadian Security Intelligence Service ( | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444371345 |
