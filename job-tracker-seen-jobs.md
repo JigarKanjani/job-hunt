@@ -15779,3 +15779,48 @@
 | Alumni Engagement Coordinator, Alumni, VP Development and Al | University of Calgary | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444214066 |
 | Parts Counter Advisor, Retail | Kaizen Automotive Group | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444018646 |
 | Project Administrator | Agilus Work Solutions | 2026-07-23 | G | https://www.linkedin.com/jobs/view/4444042107 |
+| Used Vehicle Acquisitions Specialist - Calgary, AB | AutoCanada | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=5ad538833f34d098 |
+| Communications Advisor | Government Of Alberta | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=67c6bda06253aff9 |
+| Business Intelligence Specialist | Ledcor | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=86264cc547e59160 |
+| Transport Coordinator | WF Steel & Crane | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=218a627e18a3a1ce |
+| E&I Construction Coordinator (Electrical & Instrumentation) | Fluor Corp. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=e7d3df074436ec5a |
+| Civil Construction Coordinator | Fluor Corp. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=a0165fd2b83f7ec9 |
+| Piping Construction Coordinator | Fluor Corp. | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=3864f3f4672d912f |
+| Senior Development Officer | MacEwan University | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=1a8bd04bcbfc6d48 |
+| Analyst, HR Systems & Analytics | Inter Pipeline | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444047314 |
+| Business Intelligence Specialist | Ledcor | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444743685 |
+| Specialist, Compliance Assurance | Alberta Energy Regulator (AER) | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444763583 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444024989 |
+| Social Media Coordinator | Kristian Electric Ltd. | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444050360 |
+| Facilities & Maintenance Lead | CoolIT Systems | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444064168 |
+| Billing Analyst | Morgan Construction and Environmental Lt | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444059640 |
+| Fulfilment Operations Co-worker overnight (PT) - Receiving | IKEA | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=0db4989c50283c30 |
+| Sales Administrator | Grupo Nors | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=f4e3bda757dce82b |
+| Contract Administrator (Term Position) | Banff Centre for Arts and Creativity | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=e9f7eb8e45a3d182 |
+| Community Engagement Coordinator | Alberta Motor Association | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=58fa70c1efb82dfa |
+| Administrative Assistant | Pomeroy Lodging | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441569681 |
+| Piping Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444769910 |
+| E&I Construction Coordinator (Electrical & Instrumentation) | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444778660 |
+| IFS Administrator | People Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444051304 |
+| Benefits Specialist | Globe Life AO | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444048383 |
+| Structural Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444775647 |
+| Civil Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444771884 |
+| Insulation Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444775645 |
+| Scaffolding Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444774652 |
+| Piling Construction Coordinator | Fluor Corporation | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444768874 |
+| PI Advisor I | BrokerLink | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444748575 |
+| (CAN) People Lead - HR Administrator | Walmart Canada | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444748513 |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444779019 |
+| Branch Care Coordinator | Air Liquide | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444758889 |
+| Business Intelligence Specialist | Ledcor | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=2aa62e07f5f88824 |
+| Operations Analyst (Methods Analyst I) | City of Edmonton | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=263de20f983700a9 |
+| Process Engineer | Amrize | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4441586171 |
+| Java Web Developer | TechDoQuest | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4441563902 |
+| Business Intelligence Specialist | Ledcor | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444742721 |
+| Front Desk Agent | Marriott International | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=0ca175b947e7776f |
+| Guest Service Agent | Element Calgary Airport | Four Points Ca | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=6cc1d193569bcb4c |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=e9e8eecf06ad781b |
+| Reservations Agent | Grey Eagle Resort & Casino | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444034893 |
+| Customer Service Associate - Hardware | RONA | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444771829 |
+| Customer Service Broker - Personal Lines | Ratehub.ca | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444052582 |
+| Quality Control Associate | Factor_ | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444754536 |
