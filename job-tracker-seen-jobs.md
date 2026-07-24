@@ -15879,3 +15879,20 @@
 | Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444931598 |
 | Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444933634 |
 | Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444929822 |
+| Control Systems Specialist | Eneon-ES | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444955648 |
+| Coordinator - Insurance Operations Admin | Soho Square Solutions | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441803753 |
+| Program Manager (Remote) | Hire Feed | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444941877 |
+| Astrophysics Specialist - Fully Remote | Upto $85/hr | Mercor | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4427912323 |
+| Machine Learning Analyst (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444953684 |
+| Research Specialist (Remote) | Quik Hire Staffing | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444962489 |
+| AI Specialist (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444946817 |
+| C# Developer (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444953609 |
+| LLM Evaluation Specialist – Analytical Reviewer | $70/hr Rem | Crossing Hurdles | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4426769597 |
+| Remote Finance & Research Analyst | Turing | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444347013 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444941882 |
+| Financial Analyst (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444951951 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444945746 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444961142 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444966015 |
+| C++ Developer (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444944876 |
+| Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=58f7d7c8543c5179 |
