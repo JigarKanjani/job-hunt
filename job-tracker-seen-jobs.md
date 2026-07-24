@@ -15896,3 +15896,20 @@
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444966015 |
 | C++ Developer (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444944876 |
 | Personal Banking Associate Trainee | TD | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=58f7d7c8543c5179 |
+| Program Coordinator (with Accreditation Focus) | Little Whispers Respite Services | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=0f6320595c4073e4 |
+| IT Applications Developer (Analyst, Senior, or Lead) | Parkland Corporation | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441830003 |
+| GIS Analyst | McElhanney | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444981486 |
+| HR Advisor, Yellowhead Pipeline Project | ATCO | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444365377 |
+| Mortgage Specialist | BMO | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444979708 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4440348241 |
+| Administrative Assistant | LASIK MD | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4442191795 |
+| Analyste d’affaires | Business Analyst | PWL Capital Inc. | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=fb11f7d1a2bd1ba3 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4441826194 |
+| Financial Reporting Accountant | Boardwalk | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444377087 |
+| Financial Reporting Consultant | City of Calgary | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444380088 |
+| Quality Analyst (Remote) | Hire Feed | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444942974 |
+| Computational Engineering Specialist | $60/hr Remote | Crossing Hurdles | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444359247 |
+| Administrative Assistant, Institutional Development, VP Deve | University of Calgary | 2026-07-24 | G | https://ca.indeed.com/viewjob?jk=e5122482d68d493c |
+| Administrative Assistant, Institutional Development, VP Deve | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444987350 |
+| Mortgage Funding Associate | AMA - Alberta Motor Association | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444989124 |
+| Project Scheduler | Raytheon | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4399215614 |
