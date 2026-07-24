@@ -15936,3 +15936,32 @@
 | (CAN) Distribution Centre Team Associate - Receiving-(SAT WE | Walmart Canada | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445203482 |
 | (CAN) Distribution Centre Team Associate - Receiving (SAT TU | Walmart Canada | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444994739 |
 | Agent des Installations | Canadian Security Intelligence Service ( | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4444371345 |
+| Program Manager - Post Discharge, Supportive Living and Alte | CMHA Calgary | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=d47cb4a572a8d0e2 |
+| GIS Analyst | McElhanney | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=331903da8fde6327 |
+| Contracts & Procurement Lead | Turner & Townsend Pty Limited | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=9df57212a15f78c4 |
+| Program Delivery Specialist | Banff Centre for Arts and Creativity | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=43e90a3747660531 |
+| Manufacturing Planner | SLB | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=b83284f82e39238d |
+| Revenue Analyst | SMART Technologies | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=7f39356f984ed2dd |
+| North American Operations Customer Engagement Lead | Purolator | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=58a5d4ea8093eda4 |
+| North American Operations Customer Engagement Lead | Purolator | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=d98bf43611353108 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=3146d5d5503bc260 |
+| Lead Hand | Intelcom | Dragonfly | 2026-07-24 | J | https://ca.indeed.com/viewjob?jk=1e98949469de4aa8 |
+| Revenue Analyst | SMART Technologies | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4441836317 |
+| Health and Benefits Financial Analyst | WTW | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445212201 |
+| Contracts & Procurement Lead | Turner & Townsend | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444385603 |
+| Project Coordinator - Permanent - 3259 | Parker Huggett - A Division of LRO Staff | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445202773 |
+| Senior Specialist, Corporate Solutions | Alberta Energy Regulator (AER) | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4445213395 |
+| Facility Officer | Canadian Security Intelligence Service ( | 2026-07-24 | J | https://www.linkedin.com/jobs/view/4444388832 |
+| Overnight Relief Worker | ALPHA HOUSE | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=2280900da8a466af |
+| ReIntegration Social Worker | The Mustard SEED Society | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=0a21c9e9d5730c18 |
+| Project Coordinator | Newhook Trenching Ltd | 2026-07-24 | N | https://ca.indeed.com/viewjob?jk=119363b2500a48bf |
+| Intake Specialist | Preszler Injury Lawyers | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4445211395 |
+| Administrative Assistant (REMOTE) | Burjline Builders | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444603091 |
+| Sales (Fitness Advisor) - Calgary Canyon Meadows | GoodLife Fitness | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4441835431 |
+| Business Development Advisor — Southern Alberta | Mitacs | 2026-07-24 | N | https://www.linkedin.com/jobs/view/4444378965 |
+| IT Helpdesk Analyst | Running Room | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=52b96dcfafa30554 |
+| Anaplan Developer | Sophos Technology GmbH | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=9b868da9b75b58ae |
+| Data Conversion Specialist | Harris Computer | 2026-07-24 | R | https://ca.indeed.com/viewjob?jk=36950a5bb84aae79 |
+| Systems Integration Engineer | AtkinsRéalis | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445217355 |
+| Systems Integration Engineer | AtkinsRéalis | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4445211721 |
+| Financial Reporting Accountant | Boardwalk | 2026-07-24 | R | https://www.linkedin.com/jobs/view/4444609000 |
