@@ -16127,3 +16127,9 @@
 | Quality Analyst (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445323860 |
 | Backend Developer - C#/.NET (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445328544 |
 | Automation Test Engineer - QA (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445327586 |
+| Analyst, Financial Reporting | Avenue Living | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4436908322 |
+| QA/QC Coordinator (Electrical) | Bird Construction | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4436914296 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445331657 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445328946 |
+| Research Specialist (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445341241 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445330795 |
