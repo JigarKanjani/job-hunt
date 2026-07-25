@@ -16104,3 +16104,7 @@
 | Mental Health Support Worker (2026-0658) | Carewest Innovative Health Care | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445297806 |
 | IT Network Administrator | CASA Mental Health | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=53d54d08770e12dc |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445297760 |
+| Sales Team Lead | Match Retail | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=4bec831a26e5c296 |
+| Sales Specialist | Match Retail | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=7472862325c0275a |
+| Senior Developer, Operations Research | Kinaxis | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4368889640 |
+| Administrative Assistant | First Onsite Property Restoration | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445323499 |
