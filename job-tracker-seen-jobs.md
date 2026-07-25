@@ -16028,3 +16028,46 @@
 | Customer Service Representative | BMO | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445243415 |
 | Research Associate, Department of Medicine | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445246460 |
 | Research Coordinator, Community Health Sciences | University of Calgary | 2026-07-24 | G | https://www.linkedin.com/jobs/view/4445255078 |
+| Strategic Sourcing Specialist | Ecolab | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=e8619f04753578b4 |
+| Project Coordinator | Government Of Alberta | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=0778d97099cb9fee |
+| Operations Supervisor - Calgary | 4Refuel | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=f2554ed6ef491e64 |
+| Technical Talent Acquisition Specialist (Contract) | Ecolab | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=2cdd0c7f7be2eae3 |
+| Team Leader - adidas CrossIron Mills (#2037) | adidas | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=1fbb7dbe30252f8a |
+| Senior Urban Planner | Arup | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=587329911d54d145 |
+| Specialist Supply Chain Management Data & Innovation | Enbridge | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=1ea7b8d5f75b6496 |
+| Senior Procurement Specialist | Tradesman Manufacturing | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=31e0f6f35d75b803 |
+| Senior Procurement Specialist | Tradesman Manufacturing | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=d7dfbb2716debcfc |
+| Senior Policy Advisor | Government Of Alberta | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=ef0e5825d03f57d2 |
+| Procurement and Vendor Relations Coordinator | Government Of Alberta | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=e0d3e063aeedbfd0 |
+| Senior Accommodation Planner | Government Of Alberta | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=dcec71117f2467c1 |
+| Sr Financial Analyst | Telus | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=204a1f38a4e5ff39 |
+| Remote Client Services Analyst | QHR Technologies | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=a729f59447773ccc |
+| Remote Client Services Analyst | QHR Technologies | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=99c1ab3878fb74a1 |
+| Junior Systems Analyst | WestJet | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445280602 |
+| Intermediate Analyst, People Technology | WestJet | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445285325 |
+| Analyste d’affaires | MNP | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444643195 |
+| RV Service Advisor | Fraserway RV | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444665245 |
+| Lead Counsel - Legal and E&C (Canada or USA) | Nutreco | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444628449 |
+| Senior Business Analyst - Identity & Access Management (IAM) | WestJet | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445282513 |
+| Electrical Designer / Lighting Analyst | ISL | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445263896 |
+| Applied AI Lead - Calgary | Sia | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445238948 |
+| Veterinary Assistant and Receptionist | Fuller Animal Specialty Hospital | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=04446a2dd668d8ba |
+| Everyday Banking Advisor - Calgary Westhills | ATB Financial | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=b05f13b61815c29e |
+| Mental Health Support Worker (2026-0658) | Carewest - Innovative Health Care | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=0fcf2d6557adc2a6 |
+| Operations Coordinator | Applus | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=33b574c9613af71b |
+| Project Coordinator/Scheduler | ATCO | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=0342cc4a1badf204 |
+| Senior Power Platform Administrator | MNP | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4444645278 |
+| Learning and Development Coordinator | Go Auto | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445266277 |
+| Employer Liaison | Prospect Human Services Society | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445271704 |
+| Junior Systems Analyst | WestJet Airlines | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=fce893e2f7047c10 |
+| Collateral Management Analyst (Fixed-Term) | Alberta Investment Management Corporatio | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=3abc4cab39386922 |
+| SERVICE DESK ANALYST | Nova Networks Inc. | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=75c1aaf7b030d753 |
+| Intermediate Analyst, People Technology | WestJet Airlines | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=6cc841d937feef65 |
+| Integrations Developer (Calgary) | Syndio | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445261463 |
+| Process Engineer-in-Training | WSP in Canada | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4444645314 |
+| AI Developer (LLM & Agentic Systems) | WSP in Canada | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4444649291 |
+| Sr Financial Analyst | TELUS | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4444621165 |
+| DERMS Junior Solution Specialist | GE Vernova | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445257670 |
+| Underwriting Associate (Calgary/Hybrid) | Alberta Motor Association | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=3f9cfa5d3aaf4ca9 |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=891df6a470765140 |
+| Customer Service Representative | U-Haul | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445281464 |
