@@ -16138,3 +16138,7 @@
 | Advisor Accounting Policy | CPKC | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4428304387 |
 | General Merchandise Associate | Walmart Canada | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445335859 |
 | Front Desk Agent Club Med Resorts Canada or overseas | Club Med | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445343617 |
+| Content Coordinator (1-Month Contract) | Black & White Zebra | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445349396 |
+| Business Analyst | Phytokana Ingredients Inc. | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444800078 |
+| Finance Analyst (Remote) | Hire Feed | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445334953 |
+| Customer Service Fundraiser | Elite Group Marketing | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=64047dfae770c3fb |
