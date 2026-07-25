@@ -16116,3 +16116,14 @@
 | Configuration Management/Data Management Specialist | Raytheon | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=139698b0cc080087 |
 | Integrated Logistics Support Specialist | Raytheon | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=2965efd283aea3c1 |
 | Administrative Support IV | Alberta Health Services | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=f88e3dae4a56e651 |
+| Senior Analyst FP&A | Parkland Corporation | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4433722750 |
+| Nike - Sales Lead - Market Mall | RETAILORS | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4435482539 |
+| Program Manager (Remote) | Hired | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445325765 |
+| Land Development Coordinator | Rohit Group | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4436911184 |
+| Grants Administrator | Regional Municipality of Wood Buffalo | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445325669 |
+| Data Analyst - Finance (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445325766 |
+| Data Analyst (Vietnamese) | $11/hr Remote | Crossing Hurdles | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4376994177 |
+| Financial Analyst – Workflow Documentation | $36/hr Remote | Crossing Hurdles | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4444690282 |
+| Quality Analyst (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445323860 |
+| Backend Developer - C#/.NET (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445328544 |
+| Automation Test Engineer - QA (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445327586 |
