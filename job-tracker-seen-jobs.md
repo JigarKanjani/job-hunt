@@ -16135,3 +16135,6 @@
 | GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445330795 |
 | Accounts Payable Specialist | Executive Flight Centre | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=ad1cb8d42b8c53d8 |
 | Data Quality Analyst | Indigenous Energy Monitor | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444683734 |
+| Advisor Accounting Policy | CPKC | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4428304387 |
+| General Merchandise Associate | Walmart Canada | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445335859 |
+| Front Desk Agent Club Med Resorts Canada or overseas | Club Med | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445343617 |
