@@ -16095,3 +16095,12 @@
 | Research Associate, Department of Medicine | University of Calgary | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=dc9830817d0a373d |
 | Scheduler - AgeCare SkyPointe | AgeCare | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445286502 |
 | Sales Associate - Womenswear | Holt Renfrew | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4444659395 |
+| Demand Generation Coordinator | Longbow Advantage | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=061f69e17ea24f82 |
+| Content Coordinator (1-Month Contract) | Black & White Zebra | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=0d9318dc7955e09c |
+| Content Coordinator (1-Month Contract) | Black & White Zebra | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=f943ff2d30619684 |
+| Senior Stock Specialist - BIM Chinook | Nestlé Nespresso SA | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445294797 |
+| SOC Analyst - Tier 2 | Alberta Health Services | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444647860 |
+| Automotive Accounting Implementation Specialist | PBS Systems | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4441890315 |
+| Mental Health Support Worker (2026-0658) | Carewest Innovative Health Care | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445297806 |
+| IT Network Administrator | CASA Mental Health | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=53d54d08770e12dc |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445297760 |
