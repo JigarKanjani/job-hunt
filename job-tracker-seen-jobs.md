@@ -16108,3 +16108,11 @@
 | Sales Specialist | Match Retail | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=7472862325c0275a |
 | Senior Developer, Operations Research | Kinaxis | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4368889640 |
 | Administrative Assistant | First Onsite Property Restoration | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4445323499 |
+| Senior Advisor, Infrastructure Advisory | Colliers Project Leaders | Canada | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4423511878 |
+| Field Claim Specialist Auto - | Allstate Canada | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4435493201 |
+| Service Leader | Chipotle Mexican Grill | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4436907194 |
+| Advisor, Financial Planning | Covenant Health Canada | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4442301492 |
+| Business Analyst | Alberta Health Services | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=78d5024966b6b0b2 |
+| Configuration Management/Data Management Specialist | Raytheon | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=139698b0cc080087 |
+| Integrated Logistics Support Specialist | Raytheon | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=2965efd283aea3c1 |
+| Administrative Support IV | Alberta Health Services | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=f88e3dae4a56e651 |
