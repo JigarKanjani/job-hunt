@@ -16071,3 +16071,27 @@
 | Underwriting Associate (Calgary/Hybrid) | Alberta Motor Association | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=3f9cfa5d3aaf4ca9 |
 | STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=891df6a470765140 |
 | Customer Service Representative | U-Haul | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445281464 |
+| Heavy Haul Coordinator | Total Oilfield Rentals | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=027a49c2cf444508 |
+| Alumni & Community Engagement Specialist | Concordia University of Edmonton | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=89aadea1d8bb66a7 |
+| IT Applications Developer (Analyst, Senior, or Lead) | Parkland Corporation | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=52b4c908ed87ee83 |
+| Specialist, Recycling Data Management | Circular Materials | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=b8577b903158602e |
+| Project Coordinator, Construction (Calgary) | Anthem Properties Group Ltd. | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445293468 |
+| Coordinator, Land Development (Calgary) | Anthem Properties Group Ltd. | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445288635 |
+| Digital Marketing Coordinator | Wood Automotive Group | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445300566 |
+| Community Sales Specialist | AFL | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445304317 |
+| Senior Urban Planner | Arup | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445281961 |
+| Financial Advisor | Canada Life | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444644443 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445289660 |
+| M365 + Copilot + Power Platform Specialist | F12.net | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445291620 |
+| Procurement and Vendor Relations Coordinator | Government of Alberta | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444664334 |
+| Culinary Procurement Support, Culinary Operations | NAIT (Northern Alberta Institute of Tech | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445299153 |
+| Billing & Collections Analyst I | Baker Hughes | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445298117 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445292253 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445293236 |
+| Research Coordinator, Community Health Sciences | University of Calgary | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=64b7e805bc4f79c3 |
+| Junior Project Coordinator | Option Excavating | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=f9b079f71de104b1 |
+| Coordinator, Secretariat | CPA Calgary Chapter | 2026-07-25 | N | https://www.linkedin.com/jobs/view/4441881310 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-07-25 | R | https://ca.indeed.com/viewjob?jk=4ccb0c47864ff6f9 |
+| Research Associate, Department of Medicine | University of Calgary | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=dc9830817d0a373d |
+| Scheduler - AgeCare SkyPointe | AgeCare | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4445286502 |
+| Sales Associate - Womenswear | Holt Renfrew | 2026-07-25 | G | https://www.linkedin.com/jobs/view/4444659395 |
