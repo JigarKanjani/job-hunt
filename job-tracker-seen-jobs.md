@@ -16133,3 +16133,5 @@
 | GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4445328946 |
 | Research Specialist (Remote) | Hired | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445341241 |
 | GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445330795 |
+| Accounts Payable Specialist | Executive Flight Centre | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=ad1cb8d42b8c53d8 |
+| Data Quality Analyst | Indigenous Energy Monitor | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444683734 |
