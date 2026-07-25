@@ -16142,3 +16142,7 @@
 | Business Analyst | Phytokana Ingredients Inc. | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444800078 |
 | Finance Analyst (Remote) | Hire Feed | 2026-07-25 | R | https://www.linkedin.com/jobs/view/4445334953 |
 | Customer Service Fundraiser | Elite Group Marketing | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=64047dfae770c3fb |
+| Engineering Operations Technician (EOT), Data Center Enginee | Amazon.com | 2026-07-25 | J | https://ca.indeed.com/viewjob?jk=f307c1ae7964eb4f |
+| Marketing Communications Coordinator | Valley to Peak OT Consulting Ltd. | 2026-07-25 | J | https://www.linkedin.com/jobs/view/4444806118 |
+| HSE Administrator (4 Month Term) | Hutton Safety Group | 2026-07-25 | N | https://ca.indeed.com/viewjob?jk=6d74c6e35c0760b6 |
+| General Merchandise Associate | Walmart | 2026-07-25 | G | https://ca.indeed.com/viewjob?jk=d40343b51fbaa1b0 |
