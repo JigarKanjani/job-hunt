@@ -16152,3 +16152,9 @@
 | Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=95f39e718ca5ec8b |
 | STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=94fa44d00d67cd92 |
 | Receptionist | Charlesglen Toyota | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=0aaa1ce860140609 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445368604 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445362637 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445366559 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445390013 |
+| Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445386296 |
+| Overnight Associate - Temp | Walmart Canada | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4445384404 |
