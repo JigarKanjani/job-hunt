@@ -16177,3 +16177,6 @@
 | Finance Analyst (Remote) | Jobs Ai | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445620402 |
 | Mobile Application Developer | RigER │ Oilfield Job Management Software | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4444845880 |
 | Digital Marketing Specialist | Seen | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=b160a372e005c171 |
+| purchasing supervisor | Canadian Fiber Optics | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445626958 |
+| Volunteer Coordinator | Canadian Centre for Bio-Ethical Reform | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628143 |
+| Parking Enforcement Officer | LAZ Parking | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628028 |
