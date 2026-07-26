@@ -16158,3 +16158,5 @@
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445390013 |
 | Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445386296 |
 | Overnight Associate - Temp | Walmart Canada | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4445384404 |
+| Contract Case Worker - Elpida for Women - CODS | Catholic Social Services Alberta | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4444832078 |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=c386a6f866c2bee4 |
