@@ -16181,3 +16181,5 @@
 | Volunteer Coordinator | Canadian Centre for Bio-Ethical Reform | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628143 |
 | Parking Enforcement Officer | LAZ Parking | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628028 |
 | Sales Associate, Seasonal | Crocs, Inc. | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4442376682 |
+| Beauty Advisor - Part Time | Sephora | 2026-07-26 | N | https://ca.indeed.com/viewjob?jk=0c9bd0e8a859a9ab |
+| Beauty Advisor - Part Time | Sephora | 2026-07-26 | N | https://ca.indeed.com/viewjob?jk=59599270ff23fec6 |
