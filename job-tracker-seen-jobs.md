@@ -16161,3 +16161,9 @@
 | Contract Case Worker - Elpida for Women - CODS | Catholic Social Services Alberta | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4444832078 |
 | STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-26 | G | https://ca.indeed.com/viewjob?jk=c386a6f866c2bee4 |
 | Registered Psychologist or Clinical Social Worker - Cultural | Canadian Psychological and Counselling ( | 2026-07-26 | N | https://ca.indeed.com/viewjob?jk=2dcabe04636c63fd |
+| Program Manager (Remote) | Hired | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445611391 |
+| Collections Coordinator | Regional Municipality of Wood Buffalo | 2026-07-26 | N | https://www.linkedin.com/jobs/view/4445618241 |
+| Quality Analyst (Remote) | Hired | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445614368 |
+| Data Analyst - Finance (Remote) | Hired | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445618343 |
+| Coding Contest Specialist (Remote) | Hire Feed | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445608355 |
+| Financial Planning Associate | The Vantage Talent Group | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4445604347 |
