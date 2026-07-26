@@ -16180,3 +16180,4 @@
 | purchasing supervisor | Canadian Fiber Optics | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445626958 |
 | Volunteer Coordinator | Canadian Centre for Bio-Ethical Reform | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628143 |
 | Parking Enforcement Officer | LAZ Parking | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445628028 |
+| Sales Associate, Seasonal | Crocs, Inc. | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4442376682 |
