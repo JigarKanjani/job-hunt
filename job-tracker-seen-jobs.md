@@ -16167,3 +16167,11 @@
 | Data Analyst - Finance (Remote) | Hired | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445618343 |
 | Coding Contest Specialist (Remote) | Hire Feed | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445608355 |
 | Financial Planning Associate | The Vantage Talent Group | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4445604347 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445620793 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445621710 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445625668 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-26 | J | https://www.linkedin.com/jobs/view/4445615764 |
+| AI Analyst (Remote) | Hired | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445619683 |
+| C# Developer (Remote) | Hire Feed | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445605389 |
+| Backend Developer - C#/.NET (Remote) | Hired | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445606420 |
+| Finance Analyst (Remote) | Jobs Ai | 2026-07-26 | R | https://www.linkedin.com/jobs/view/4445620402 |
