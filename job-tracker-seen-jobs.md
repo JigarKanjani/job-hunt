@@ -16236,3 +16236,35 @@
 | Project Scheduler - Data Centers | SLB | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4433913423 |
 | HSE Coordinator | Graham | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445983085 |
 | Events Coordinator | Calgary West Central Primary Care Networ | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445169840 |
+| Lead Hand – Receiving in Calgary, AB | Convertus | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=3bf0e48bbe2e0e23 |
+| Investor Relations Analyst | SATURN OIL AND GAS | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=e783762f1d2c556d |
+| District Operations Center Supervisor | Eaton | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=579a8bc3b67aa914 |
+| Analyst, IS Infrastructure PMO | EPCOR | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=9fc2ebb9cdcf1919 |
+| Exchange Planner | Finning | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=1f824cec622d800a |
+| Project Controls Coordinator (Temporary-Project Based) | BANDIT ENERGY SERVICES | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=8953d6d2d18cac07 |
+| Senior Analyst, Supply Chain Management | Inter Pipeline | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445171904 |
+| Material Coordinator | Hays | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4446104050 |
+| Application Solutions Specialist | CDN | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4437705293 |
+| Branch Care Coordinator | Air Liquide | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4446114043 |
+| Turnaround Advisor | Keyera | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445176296 |
+| Project Coordinator | Quantum Construction Management | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445175305 |
+| Talent Acquisition Specialist | Magna Search Group | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445183061 |
+| Paid Ads Specialist | Konstruct Digital | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445196030 |
+| Backroom Team Lead | Bass Pro Shops | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4446115192 |
+| Accounts Payable Administrator | Graham Construction | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=6a0b448e345a6f5e |
+| Human Resources Administrator | Kognitive Sales Solutions | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=fc11b99279c2d5ad |
+| HR/HSE Coordinator | Price Steel | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=8f059d5501a18afc |
+| Case Worker | Homes for Heroes Foundation | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=3ff8f0a4a178fa28 |
+| Coordinator, Corporate Community Engagement | Stantec | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=0393286618d8cf3d |
+| Full Time Program Facilitator | Resilient Hearts | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445166880 |
+| Land Systems Analyst | Canadian Natural | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=b78a9e9d7dfef607 |
+| Business Analyst | Co-operators | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=8563f25ec2e61ba2 |
+| GIS Asset Management Specialist | Pengcorp | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=9a39c055f10895a7 |
+| Office Coordinator | Co-operators | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=3b3185f654ea9194 |
+| Customer Success Specialist | Retreat Guru | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=19c5e268e8c43416 |
+| Office Administrator | Fluor Corp. | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=9788cd9f55ad02ae |
+| Consultant, Certinia PSA (Professional Services Automation) | Deloitte | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4446102639 |
+| Developer | Indigenous Energy Monitor | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445192076 |
+| Remote Quantitative Analyst (Finance) | Turing | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445184009 |
+| Program Facilitator | Resilient Hearts | 2026-07-27 | G | https://ca.indeed.com/viewjob?jk=a8f23626bf87b1b6 |
+| Customer Service Representative | TAPP Workforce Solutions Inc. | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4446116306 |
