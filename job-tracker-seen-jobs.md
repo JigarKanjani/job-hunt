@@ -16198,3 +16198,41 @@
 | Application Support Specialist | Whitecap Resources | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=feb57e850ff1bbc3 |
 | Golang Developer | Remote | Crossing Hurdles | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4444884858 |
 | AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4436087323 |
+| Marketing Coordinator & Personal Assistant | Windermere Chrysler Dodge Jeep Ram | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=a5693cb244be65d6 |
+| Inventory & Logistics Coordinator | NTS Amega West Canada, Ltd. | 2026-07-27 | J | https://ca.indeed.com/viewjob?jk=fb5db7740550e220 |
+| Supply Chain & Logistics Coordinator | Paradigm Inputs | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445150653 |
+| Buyer | Kelly | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445162313 |
+| Financial Analyst | Robert Half | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445159408 |
+| Benefits Specialist | Calgary Co-op | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445170386 |
+| Marketing Specialist | Cubbi | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445156604 |
+| Communications Advisor, Partnerships | Calgary Board of Education | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445994295 |
+| Social Worker Regular Part Time [SN SW2 0.30] AgeCare Shawne | AgeCare | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=536eab5c01a262b7 |
+| Senior Financial Analyst | FLINT Corp. | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=82c75a2eaab7f80e |
+| HR Coordinator | Primoris Services Corporation | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=d46d84025c188d3c |
+| HR Coordinator | Primoris Services Corporation | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=596b6982e7f6a556 |
+| Scheduling Coordinator - Orthodontic Office | Oasis Orthodontics | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=b65bb9e86ff9a8c5 |
+| Scheduling & Service Coordinator | Force Civil Solutions Ltd. | 2026-07-27 | N | https://ca.indeed.com/viewjob?jk=be75d28ead261a83 |
+| Project Administrator - Data Centers | SLB | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4433920348 |
+| Intermediate Contract Administrator – Mining Projects | Worley | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445972856 |
+| Payroll & Benefits Administrator, North America | Robots & Pencils | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445154182 |
+| Accounts Payable Administrator | Graham | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445975288 |
+| Care Specialist | Aviva Canada | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445152574 |
+| Life Insurance Sales Advisor Trainee | Neilson Financial Services | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445972365 |
+| Care Specialist | Aviva Canada | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4445152573 |
+| Electrical Engineer (Regulatory Analyst) – Developmental | Alberta Utilities Commission | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=e6f2f722388c5022 |
+| Application Developer | Primoris Services Corporation | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=77d4d6cc471bc465 |
+| Application Developer | Primoris Services Corporation | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=f500a3ae5c7e0c8a |
+| Office Administrator | Fluor Corp. | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=1dc7c0b65ea6a140 |
+| Event Technology Specialist | Lumi Global | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445159696 |
+| Commissions Analyst | Apryse | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4437326018 |
+| Remote Finance & Research Analyst | Turing | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445162557 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445981278 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445986182 |
+| GOAPRDJP00000977 - Financial Analyst - Intermediate | S M Software Solutions Inc | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445984110 |
+| Guest Service Agent | Clique Hotels & Resorts Calgary | 2026-07-27 | G | https://ca.indeed.com/viewjob?jk=f43e00608368e395 |
+| MERCHANDISE ASSOCIATE | La Vie En Rose | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445960428 |
+| Personal Banking Associate | BMO | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445958524 |
+| Sales Associate I | kate spade new york | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4442858636 |
+| Project Scheduler - Data Centers | SLB | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4433913423 |
+| HSE Coordinator | Graham | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445983085 |
+| Events Coordinator | Calgary West Central Primary Care Networ | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445169840 |
