@@ -16190,3 +16190,11 @@
 | System Administrator | Tekgence Inc | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4444872321 |
 | 2027 Global Investment Banking Full Time Analyst Program - C | JPMorganChase | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=a220a99303a56bd2 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445666933 |
+| Business Support Analyst | Cenovus Energy | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445900897 |
+| Project Coordinator | The Lignum Group | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4443151630 |
+| Travelling Commercial Operations Supervisor | First Onsite Property Restoration | 2026-07-27 | J | https://www.linkedin.com/jobs/view/4445922436 |
+| Senior Financial Advisor - Crescent Heights, Calgary, AB | Scotiabank | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4444873829 |
+| Coordinator , Entertainment & Events | City of Medicine Hat | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4444896965 |
+| Application Support Specialist | Whitecap Resources | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=feb57e850ff1bbc3 |
+| Golang Developer | Remote | Crossing Hurdles | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4444884858 |
+| AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4436087323 |
