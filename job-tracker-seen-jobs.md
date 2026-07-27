@@ -16187,3 +16187,6 @@
 | Junior Data Analyst (Contract), (Healthcare SaaS) - Remote | SecureRx Technologies Inc. | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4444850548 |
 | STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-27 | G | https://ca.indeed.com/viewjob?jk=ffbfece7113ee15b |
 | Associate Founder | Watts Growth Labs | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4444010350 |
+| System Administrator | Tekgence Inc | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4444872321 |
+| 2027 Global Investment Banking Full Time Analyst Program - C | JPMorganChase | 2026-07-27 | R | https://ca.indeed.com/viewjob?jk=a220a99303a56bd2 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4445666933 |
