@@ -16183,3 +16183,7 @@
 | Sales Associate, Seasonal | Crocs, Inc. | 2026-07-26 | G | https://www.linkedin.com/jobs/view/4442376682 |
 | Beauty Advisor - Part Time | Sephora | 2026-07-26 | N | https://ca.indeed.com/viewjob?jk=0c9bd0e8a859a9ab |
 | Beauty Advisor - Part Time | Sephora | 2026-07-26 | N | https://ca.indeed.com/viewjob?jk=59599270ff23fec6 |
+| Coordinator, Guest Services | CMH Heli-Skiing & Summer Adventures | 2026-07-27 | N | https://www.linkedin.com/jobs/view/4442379778 |
+| Junior Data Analyst (Contract), (Healthcare SaaS) - Remote | SecureRx Technologies Inc. | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4444850548 |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-27 | G | https://ca.indeed.com/viewjob?jk=ffbfece7113ee15b |
+| Associate Founder | Watts Growth Labs | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4444010350 |
