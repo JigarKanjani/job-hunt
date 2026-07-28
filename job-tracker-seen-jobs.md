@@ -16268,3 +16268,23 @@
 | Remote Quantitative Analyst (Finance) | Turing | 2026-07-27 | R | https://www.linkedin.com/jobs/view/4445184009 |
 | Program Facilitator | Resilient Hearts | 2026-07-27 | G | https://ca.indeed.com/viewjob?jk=a8f23626bf87b1b6 |
 | Customer Service Representative | TAPP Workforce Solutions Inc. | 2026-07-27 | G | https://www.linkedin.com/jobs/view/4446116306 |
+| Fleet, Irrigation and Municipal Services Supervisor, Fleet O | University of Calgary | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=e43674d53d172009 |
+| Awards Writer and Coordinator, Schulich School of Engineerin | University of Calgary | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=db53bcdb5c4bbc1b |
+| Research Intelligence Analyst, Schulich School of Engineerin | University of Calgary | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=940eda1212b0dacc |
+| Project Coordinator - Precast | York Realty Inc | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=883c59ab6cabccd6 |
+| Production Planning Analyst | IMT Group | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=f7ac3457290af62e |
+| Specialist Procurement & Contract AI | CPKC | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446177323 |
+| System Safety Specialist, Rail & Transit | WSP in Canada | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445443317 |
+| Production Planning Analyst | IMT Group | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446176048 |
+| Leadership Giving Officer | Mount Royal University | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4443201334 |
+| Courts Operations Supervisor | Mount Royal University | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4441073735 |
+| Buyer | Johnson Controls | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4443212439 |
+| Resource Analyst | Government of Alberta | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445446221 |
+| Junior Property Administrator | AtkinsRéalis | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=b2ed9a91993b4fdc |
+| Junior Property Administrator | AtkinsRéalis | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=b64513c6441000e8 |
+| Administrative Coordinator, Campus Life & Clubs (Contract) | NAIT Students' Association | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=61465479c188283e |
+| Property Administrator | RIVN Group | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4445437727 |
+| Project Coordinator | ATB Financial | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4443219407 |
+| Systems Analyst | Civeo North America | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4446174606 |
+| Personal Banking Associate Trainee | TD | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446180620 |
+| First Nations/Metis/Inuit, Trust Associate, Indigenous Wealt | Scotiabank | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445443336 |
