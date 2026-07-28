@@ -16288,3 +16288,14 @@
 | Systems Analyst | Civeo North America | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4446174606 |
 | Personal Banking Associate Trainee | TD | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446180620 |
 | First Nations/Metis/Inuit, Trust Associate, Indigenous Wealt | Scotiabank | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445443336 |
+| Research Associate to Senior Analyst, Oil & Gas - 26292 | Enverus | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=79aa4faacbc3319d |
+| Student Education Coordinator (MLT II) – Calgary | Alberta Precision Labs | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=fddc61abdc005d8e |
+| Sire Health Coordinator | PEAK | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4443245578 |
+| Accounts Receivable Specialist | MacDonald Search Group | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445465602 |
+| Marketing Communications Analyst | Aston Carter | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445495053 |
+| Project Coordinator | Actalent | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445487190 |
+| Junior Property Administrator | AtkinsRéalis | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4445451928 |
+| Junior Property Administrator | AtkinsRéalis | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4445462834 |
+| Administrative Support - Surgical Care Alberta | Acute Care Alberta | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=535be39bab95aa14 |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=2ab43e3c7cd3adb6 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445461419 |
