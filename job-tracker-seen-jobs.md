@@ -16299,3 +16299,21 @@
 | Administrative Support - Surgical Care Alberta | Acute Care Alberta | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=535be39bab95aa14 |
 | STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=2ab43e3c7cd3adb6 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445461419 |
+| Inventory & Logistics Coordinator | NTS Amega Global | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=6c24922de90715b8 |
+| Logistics and Travel Coordinator | Birchcliff Development Ltd | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=3e4c2be8d015aa9b |
+| Procurement Manager | DSJ Global | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446315045 |
+| Learning Coordinator | KPMG Canada | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446303209 |
+| Lead Technical Supervisor | Vestas | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446195279 |
+| Senior Human Resources Officer | Brunel | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445737039 |
+| Complex Claims Specialist | Zurich Canada | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4436278752 |
+| Senior Systems Specialist, FP&A | Clio | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4436266725 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4436504293 |
+| Sales Advisor | Franctal Studio | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=d22dabd9b70fa176 |
+| LEM Administrator | Aker Solutions | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4438010191 |
+| Coordinator, Construction Services | Defence Construction Canada | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4437700971 |
+| React Developer | Yochana | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4445745001 |
+| Data Analyst | Remote | Crossing Hurdles | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4426497553 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4445701804 |
+| Data Analyst - Finance (Remote) | Hired | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4445724073 |
+| Sales Associate | Cardel Homes | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445726252 |
+| Controller | Aplin | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446301146 |
