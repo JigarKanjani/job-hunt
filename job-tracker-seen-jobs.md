@@ -16317,3 +16317,39 @@
 | Data Analyst - Finance (Remote) | Hired | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4445724073 |
 | Sales Associate | Cardel Homes | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4445726252 |
 | Controller | Aplin | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446301146 |
+| Coordinator, Facilities | Calgary Airports | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=c72ad522d2ecd510 |
+| Track Lead - Program & Project Management | HCLTech | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=dc4f5a18bc97045a |
+| Paralegal - Contracts | Fluor Corp. | 2026-07-28 | J | https://ca.indeed.com/viewjob?jk=6845976ed1e9b294 |
+| Buyer | Soletanche Bachy Canada Inc. | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445748785 |
+| Senior Business Analyst | Dasro Consulting Inc. | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446310636 |
+| Business Program Manager | MNP | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4437702902 |
+| Team Lead, Administration | BDO Canada | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446309620 |
+| CCR-Care Coordinator | Lifemark Health Group | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4443603467 |
+| Construction Project Coordinator | Ib Jensen Masonry | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445742979 |
+| Volunteer and Education Coordinator | The Hangar Flight Museum | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445746804 |
+| Talent Acquisition Lead — Full-Cycle & Strategy | Cogniv Solutions | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4445729718 |
+| Business Development Lead | Dawn Recruiting Agency | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4446338126 |
+| Automation Control Specialist | Lassonde | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4443618202 |
+| Mortgage Specialist | BMO | 2026-07-28 | J | https://www.linkedin.com/jobs/view/4436297592 |
+| Office Administrator | Gateway Trailer Repairs Ltd. | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=fdb0dcf93e7e48c2 |
+| Outdoor Youth Program Coordinator | Halifax Regional Municipality | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=45f2eb7afaa5bd59 |
+| Intake and Workflow Coordinator | Medavie | 2026-07-28 | N | https://ca.indeed.com/viewjob?jk=9524ba08b1fe75b0 |
+| Office Administrator | Soletanche Bachy Canada Inc. | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4445757126 |
+| Chief Administrative Officer | City of Calgary | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4446332408 |
+| Family Courtworker | Native Counselling Services of Alberta | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4445734928 |
+| Community Development Coordinator | City of St. Albert | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4446346085 |
+| Administrative Assistant I | City of Edmonton | 2026-07-28 | N | https://www.linkedin.com/jobs/view/4443601546 |
+| Communications Systems Engineer | AtkinsRéalis | 2026-07-28 | R | https://ca.indeed.com/viewjob?jk=7ccbe7bfe6989320 |
+| Communications Systems Engineer | AtkinsRéalis | 2026-07-28 | R | https://ca.indeed.com/viewjob?jk=cd386857bdfffb4d |
+| Product Support Specialist | Valsoft | 2026-07-28 | R | https://ca.indeed.com/viewjob?jk=ebea1e1af05dac21 |
+| Test Automation Engineer | TEKTELIC | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4443298469 |
+| Support Specialist | Dawn Recruiting Agency | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4446337494 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-07-28 | R | https://www.linkedin.com/jobs/view/4437457717 |
+| Administrative Assistant | The Salvation Army | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=6f841046139cbfc1 |
+| Administrative Assistant/Receptionist | Unideco Commercial and Residential LTD | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=741015e6d310c773 |
+| Night Auditor/Front Desk Agent | Travelodge Calgary South | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=431083705ec64242 |
+| Customer Service & Sales Representative Fabutan & Hush Lash  | Fabutan | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=bb5cabacd80d6260 |
+| Project Cost Controller | Phasor Engineering | 2026-07-28 | G | https://ca.indeed.com/viewjob?jk=74b585c1e93b9787 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Associate Graphic Designer | Axis Insurance | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446345150 |
