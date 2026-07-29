@@ -16444,3 +16444,41 @@
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446823641 |
 | Monitoring Specialist I | TELUS | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446419860 |
 | Cost Controller | TSG Staffing Services | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446415777 |
+| Analyst II | First National Financial | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=98ce34e91cf37263 |
+| Senior Analyst | First National Financial | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=a37e9e0c124a2e7e |
+| HSE Specialist - Nightshift | Forum Energy Technologies | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=dae861538066f1a9 |
+| Coordinator, Maintenance | Saputo | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=f29c0378830680e0 |
+| Senior Business Process Specialist | Government Of Alberta | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=deaa73293aee2261 |
+| Human Resources Coordinator | Draganfly Innovations Inc. | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=4d265b1582a1cf09 |
+| Branch Buyer | Wolseley Canada Inc. | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446839361 |
+| Pricing Analyst | Clio | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446436340 |
+| Shipping and Receiving Specialist | AMA - Alberta Motor Association | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446432306 |
+| Office Services Coordinator | Airswift | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446408938 |
+| Specialist, Product Support | Gordon Food Service - Canada | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446855001 |
+| Lead Hands - Afternoon Shift | Modine Manufacturing Company | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446836679 |
+| Documentation Specialist | SLR Consulting | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446431238 |
+| Learning Specialist II | Affirm | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446431263 |
+| Document Control Advisor | CIMA+ | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446840570 |
+| Contract MSP Systems Optimization Specialist | s01ve Cyber Solutions | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446407874 |
+| Senior Cybersecurity Advisor | TC Energy | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444137808 |
+| Purchasing Agent | API (Applied Pharmaceutical Innovation) | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4442899747 |
+| Materials Coordinator | Bird Construction | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4419560366 |
+| Warranty Administrator | Genesis Land Development Corp. | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=19ce04c8cc498a7a |
+| Coordinator, People, Engagement, and Learning | Makeway | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=52efb2b9cfb4bb0c |
+| Coordinator, People, Engagement, and Learning | Makeway | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=130246aae44b479f |
+| Coordinator, People, Engagement, and Learning | Makeway | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=97e9ffc5963d9187 |
+| Coordinator, People, Engagement, and Learning | Makeway | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=022c7774bdebb6aa |
+| Health, Safety & Environment Administrator (Cold Lake) | EllisDon Corporation | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=6231ac86cf1546f8 |
+| Front Desk Coordinator | Lux Windows and Doors | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=899af74b64f6ffad |
+| Student Experience Coordinator | University of Alberta | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446812814 |
+| Facilities Coordinator (12-Month Contract) | WSP in Canada | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4418222765 |
+| Field Administrator | Canadian Plains Energy | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=c8f9a7ddce263d3b |
+| Systems Analyst | Servus Credit Union | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446430247 |
+| Technical Developer | Tsuut'ina Nation Human Resources | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444158512 |
+| Guest Service Agent Full-time The Westley Hotel | Silver Hotel Group | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=4968085fcf5c9405 |
+| General Merchandise Associate | Walmart | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=760eb47935567593 |
+| Customer Experience Associate | TD | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=74c716cc547a5af4 |
+| Personal Banking Associate | TD | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=150c3a58e1ec17d3 |
+| Personal Banking Associate | TD | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=3a80a847af8feb4e |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Application Support Specialist | Whitecap Resources Inc. | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4445914054 |
