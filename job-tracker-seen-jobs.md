@@ -16361,3 +16361,23 @@
 | IT Support Technician L2 | MAARA Consulting | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=17df1e8743229cd7 |
 | Visual Content Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446028742 |
 | AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446028656 |
+| Animal Nutrition Specialist | KWS Group | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=c96601b9960a3a58 |
+| Coordinator I | Alberta Health Services | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=2be3158be60251ea |
+| CAPEX Coordinator | Amrize | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4434584112 |
+| Client Delivery Specialist | Convverge, Inc | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444119032 |
+| Facilities Specialist - Alberta | Chipotle Mexican Grill | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4437827034 |
+| Civil Design Technologies Specialist | Langan Engineering & Environmental Servi | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4437805538 |
+| Experienced Accident Benefit Claims Advisor- Senior | TD | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=03c0f1e1d70ba9c2 |
+| Insurance Advisor | Westland Insurance Group Ltd. | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4434804015 |
+| Human Resources Specialist | Remote | Crossing Hurdles | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4426818000 |
+| Emergency Communications Officer | City of Grande Prairie | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446051637 |
+| Project Coordinator | Chandos Construction | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4428095225 |
+| SAP Integration Suite (Cloud Integration – CPI) Developer | Parkland Corporation | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4434562268 |
+| Application Security Developer | Clio | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4436828897 |
+| Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444108769 |
+| Reporting Analyst | Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4426812231 |
+| Data Quality Analyst | Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446045453 |
+| WFH Online Data Analyst (French Speakers) | TELUS Digital AI Data Solutions | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444114166 |
+| WFH Online Data Analyst (French Speakers) | TELUS Digital AI Data Solutions | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444100494 |
+| WFH Online Data Analyst (French Speakers) | TELUS Digital AI Data Solutions | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444105423 |
+| General Merchandise Associate | Walmart | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=55cb56501989ff20 |
