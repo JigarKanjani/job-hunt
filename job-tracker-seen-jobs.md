@@ -16381,3 +16381,18 @@
 | WFH Online Data Analyst (French Speakers) | TELUS Digital AI Data Solutions | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444100494 |
 | WFH Online Data Analyst (French Speakers) | TELUS Digital AI Data Solutions | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4444105423 |
 | General Merchandise Associate | Walmart | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=55cb56501989ff20 |
+| Senior Accounts Receivable (AR) Analyst | AppDirect | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446060799 |
+| Talent Acquisition Specialist | Germain Hôtels | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4434575803 |
+| Animal Nutrition Specialist | KWS Group | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446587548 |
+| Home Comfort Advisor | Reliance Home Comfort | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4436862231 |
+| Operations Analyst (ID: 55761) | City of Edmonton | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4443640502 |
+| Peer Support Worker | Recovery Alberta | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=3d35399f95f5d6b6 |
+| Project Engineer/Specialist | Kent | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446067944 |
+| Quality Analyst (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446575801 |
+| Financial Investment Analyst (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446595271 |
+| Data Analyst - Finance (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446573692 |
+| AI Specialist (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446596115 |
+| Automation Test Engineer - QA (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446580868 |
+| Administrative Support IV | Recovery Alberta | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=15cd2d8dd2ff5fe0 |
+| Student Service Specialist | Mount Royal University | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4444138254 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4249431364 |
