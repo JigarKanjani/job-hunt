@@ -16420,3 +16420,27 @@
 | Specialist or Coordinator, Client & Business Development, Ca | General Partner for Carthos | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=6d393923eb2bf4e2 |
 | Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4249431364 |
 | Associate Vice President, Advisor Sales, Global Asset Manage | BMO | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446811589 |
+| Philanthropy Coordinator - Full Time | Calgary Stampede | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=ecb92b6bd4b04391 |
+| Senior Tax Analyst | Whitecap Resources | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=45165316916390cb |
+| Canada Customs Analyst | Cargill | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4434560834 |
+| Third-Party Risk Management Analyst (1 Year Contract) | BGIS | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446406793 |
+| Data Analyst - 12- Month Limited Term | Law Society of Alberta | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444136824 |
+| Training Systems Analyst | TC Energy | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444155053 |
+| Specialist or Coordinator, Client & Business Development, Ca | Osler, Hoskin & Harcourt LLP | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444147199 |
+| Data Governance Analyst | Hays | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446098601 |
+| Senior Advisor, Load Forecasting & Power Advisory | BBA Consultants | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4437871203 |
+| Data Governance Analyst | Hays | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446419522 |
+| Group Logistics Manager | Ryder System, Inc. | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4436850705 |
+| Social Worker | Easter Seals | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=cb59bbbcf7788370 |
+| Recreation Activity Coordinator - Temporary Part Time | Taylor View Towers | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=117d8c6fc6157b32 |
+| Sr. Coordinator, Payroll | Trimac | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=3ff4a6947bf633cd |
+| Human Resources Administrator | Leduc County | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4444145141 |
+| Business Systems Analyst | TELUS Spark Science Centre | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=d42ebfe8668a4583 |
+| Data Analyst - 12- Month Limited Term | Law Society of Alberta | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=9235e2900d887304 |
+| Branch Administrator | Wolseley Canada, Inc. | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=688e52c996f12ebc |
+| Payroll Analyst | Garmin | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=84bdea7f41025be8 |
+| Remote Finance & Research Analyst | Turing | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446421767 |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446823641 |
+| Monitoring Specialist I | TELUS | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446419860 |
+| Cost Controller | TSG Staffing Services | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446415777 |
