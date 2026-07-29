@@ -16353,3 +16353,11 @@
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4247390384 |
 | Front Desk | Barlow Trail | Cactus Club Cafe | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4247070669 |
 | Associate Graphic Designer | Axis Insurance | 2026-07-28 | G | https://www.linkedin.com/jobs/view/4446345150 |
+| Support Worker - Airdrie (Drivers only) | Aspire Housing and Personal Development  | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446571323 |
+| Payroll & Benefits Administrator | Aston Carter | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446566407 |
+| Child and Youth Development Specialist | Alberta Health Services | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446028544 |
+| Protective Services Officer II - Rural Mobile Unit | Alberta Health Services | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446031291 |
+| Protective Services Officer II - RMU | Alberta Health Services | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446033203 |
+| IT Support Technician L2 | MAARA Consulting | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=17df1e8743229cd7 |
+| Visual Content Quality Analyst | $70/hr Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446028742 |
+| AI Trainer | $70/hr Remote | Crossing Hurdles | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446028656 |
