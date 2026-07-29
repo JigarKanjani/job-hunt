@@ -16396,3 +16396,27 @@
 | Administrative Support IV | Recovery Alberta | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=15cd2d8dd2ff5fe0 |
 | Student Service Specialist | Mount Royal University | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4444138254 |
 | Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Third-Party Risk Management Analyst (1 Year Contract) | BGIS | 2026-07-29 | J | https://ca.indeed.com/viewjob?jk=b0b33b98a33eea03 |
+| Business Analyst | Tekshapers | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446417320 |
+| Coordinator, US Truck | Nutrien | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444143524 |
+| Rental Coordinator | Cooper Equipment Rentals Limited | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4444126925 |
+| Pharmacy Coordinator (18 month contract) | McKesson | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4437838326 |
+| Project Planner Scheduler | Adecco | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446079664 |
+| Financial Analyst | Robert Half | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446422064 |
+| IT Projects Control Analyst | InSync Systems | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446422050 |
+| Senior Operations Accountant | Graham | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4437889812 |
+| Advisor, Indigenous Relations & Business Development | ATCO | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4446421026 |
+| Technical Advisor - 26224 | Enverus | 2026-07-29 | J | https://www.linkedin.com/jobs/view/4427759837 |
+| Student Experience Coordinator | University of Alberta | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=3dfaac4e026eb131 |
+| Human Resources Administrator | Leduc County | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=e3320178227ab933 |
+| Payroll Administrator | Newly | 2026-07-29 | N | https://ca.indeed.com/viewjob?jk=eb67357c4170615f |
+| Experienced Accident Benefit Claims Advisor- Senior | TD | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446803945 |
+| Senior Branch Operations Administrator | BMO | 2026-07-29 | N | https://www.linkedin.com/jobs/view/4446812425 |
+| IT Systems Specialist | Prestige Window & Door | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=a211faa424da6c26 |
+| Test Automation Specialist | First Canadian Financial Group | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=1e34f545a1dc0561 |
+| AI Innovation Specialist | MEOPAR Inc | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=159b51bbcfa47331 |
+| Systems Analyst | Servus Credit Union | 2026-07-29 | R | https://ca.indeed.com/viewjob?jk=f494f13f767f000d |
+| AI Analyst (Remote) | Hired | 2026-07-29 | R | https://www.linkedin.com/jobs/view/4446574871 |
+| Specialist or Coordinator, Client & Business Development, Ca | General Partner for Carthos | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=6d393923eb2bf4e2 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Associate Vice President, Advisor Sales, Global Asset Manage | BMO | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4446811589 |
