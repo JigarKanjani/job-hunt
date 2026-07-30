@@ -16588,3 +16588,8 @@
 | Administrative Support III | Alberta Health Services | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=f14290503725360c |
 | (CAN) Distribution Centre Team Associate - Receiving (SUN MO | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446767098 |
 | (CAN) Distribution Centre Team Associate - Casepack (TU WE T | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446757196 |
+| Development Coordinator | Ayrshire Group | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446760597 |
+| ANALYSTE, CONNAISSANCE DU CLIENT (KYC) - PRAIRIES | BDC | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447006573 |
+| Financial Planner, Scotia Financial Planning - Calgary | Scotiabank | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4437301550 |
+| AI Specialist (Remote) | Hired | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446767400 |
+| Machine Learning Analyst (Remote) | Hire Feed | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446762511 |
