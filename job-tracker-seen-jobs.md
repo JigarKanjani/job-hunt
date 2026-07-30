@@ -16523,3 +16523,26 @@
 | Guest Service Agent | Full-time | The Westley Hotel | Silver Hotel Group | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446898139 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446883543 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446875909 |
+| Billings / AR Coordinator | Western Energy Services | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=ce40e543489eba4c |
+| Customer Account Coordinator | City of Calgary | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=abcd64069b02e726 |
+| Construction Advisor | Trillium Advisory Group | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=7d93f9db148a70f4 |
+| Indigenous Research Coordinator - Data | University of Calgary | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=06d502d8c7904290 |
+| Tower Case Manager | Calgary Dream Centre | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=e585a591d71b02fd |
+| Scheduling & Planning Specialist | Ecolab | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446499000 |
+| Specialist Sourcing - Engineering | CPKC | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444512100 |
+| Financial Analyst | Cenovus Energy | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446719100 |
+| Associate Financial Advisor | CIBC | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446499332 |
+| Indigenous Research Coordinator - Data | University of Calgary | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446476920 |
+| SAP Functional Analyst – Human Resources | Raise | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446472518 |
+| People Development Coordinator | MNA | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=7f9c48fc88e84f42 |
+| Administrative Assistant | McLean Railings | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446459840 |
+| Front Office Administrator | AFL | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446499303 |
+| Access Control Administrator | Trans Mountain | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446491835 |
+| Municipal Accountability Advisor | Government of Alberta | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446474030 |
+| Social Worker | Easter Seals Alberta | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4444516379 |
+| Travel Counsellor | AMA - Alberta Motor Association | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4444199797 |
+| Research Platform Cloud Designer, Information Technologies | University of Calgary | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=761ff973ad089e8a |
+| Front Office Administrator | AFL | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=22a1ec72d24a067f |
+| Recovery Coordinator | Bearspaw First Nation | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=99bcb244838cf831 |
+| General Merchandise Associate - Overnight | Walmart | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=64b853c790c0370a |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4444199584 |
