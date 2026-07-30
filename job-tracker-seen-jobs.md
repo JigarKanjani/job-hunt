@@ -16546,3 +16546,28 @@
 | Recovery Coordinator | Bearspaw First Nation | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=99bcb244838cf831 |
 | General Merchandise Associate - Overnight | Walmart | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=64b853c790c0370a |
 | Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4444199584 |
+| Program Manager | Acute Care Alberta | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=ae10b149a1b6093c |
+| Business Center Operations Leader, Environmental Services | Stantec | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=6bc149e37a2a8d82 |
+| Senior Remediation, Reclamation Specialist | Onterris | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=1e70001f4e62c1b8 |
+| Facilities & Maintenance Lead | Ecolab | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=c0c29889d93b65b1 |
+| Claims Analyst | Ledcor | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446712331 |
+| Coordinator, EMS Business Standards and Operations Support | Alberta Health Services | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446700930 |
+| Product Specialist (Parts Module) | PBS Systems | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444518671 |
+| Senior Technical Product Specialist | Octave | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444534279 |
+| Marketing & Communications Lead (Temporary Contract) | Closer to Home Community Services | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446735018 |
+| WEC Specialist - DMHV DD | Airswift | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446833424 |
+| Claims Analyst | Ledcor | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446711361 |
+| Accounts Payable Specialist | Recycle Track Systems | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446719931 |
+| Family Counsellor - Emerging Adult Service | Recovery Alberta | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=6c6ce3cc0a7972fb |
+| Family Counsellor - Emerging Adult Service | Recovery Alberta | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=f4e1ce30b41ecc0c |
+| Addictions Counsellor III | Recovery Alberta | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=0b2128d53f21c749 |
+| Claims Analyst | Ledcor | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=9864a937a6cedc82 |
+| Administrative Assistant (6-month Contract) | Boardwalk | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446702883 |
+| Indigenous Wellness Coordinator | Alberta Health Services | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446712706 |
+| Administrative Support III - Specialized Support Team - Heal | Primary Care Alberta | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=7be708c56f0c67ac |
+| Administrative Support III - Specialized Support Team - Heal | Primary Care Alberta | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=7fdba2c9453462d4 |
+| STORAGE ARCHITECT / SPECIALIST | Gravity Conseil | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=236ece61f19d66bc |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446705428 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446722326 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446704493 |
+| Spa Front Desk Agent Club Med Resorts Canada or overseas | Club Med | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446706537 |
