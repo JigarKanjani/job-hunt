@@ -16613,3 +16613,57 @@
 | Client Services Coordinator | Avison Young | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446783224 |
 | AI Analyst (Remote) | Hired | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446755791 |
 | Crude & Diluent Scheduler | Gunvor Group | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4426879326 |
+| Junior Joint Venture Analyst / Auditor | Integrity Audit and Accounting Ltd. | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=ef6cf200bbf45eda |
+| Regulatory & Field Compliance Specialist | TC Energy | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=aa05894dd4b4b0ad |
+| HANKKI Store Leader | Hankki Canada | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=e26a03880cc731bb |
+| Surface Land Analyst | Millennium Land Ltd | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=0383a2d8e8d4c875 |
+| Supply Chain Manager | Sirius Instrumentation and Controls Inc. | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=16f1eed650f90ad8 |
+| Strategic Supply Chain Lead | Fidelity Machine | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=598a287062beaae3 |
+| Regional Category Manager | Sysco | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=5c2c8ba249d8a2cd |
+| Senior Business Analyst | University of Alberta | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=6cfbb60ed07266c9 |
+| Senior Lead Hand Installer (Office Furniture) | McCrum's Office Furnishings | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=5b70b0233e5833e0 |
+| Energy Market Analyst | Alberta Electric System Operator (AESO) | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446924125 |
+| Energy Market Analyst (Fixed-Term) | Alberta Electric System Operator (AESO) | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446907913 |
+| Business Analyst - 12 Month Term | WestJet | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447079703 |
+| Benefits Analyst | People Corporation | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446799651 |
+| QA Analyst, Lending & Portfolio Services | Peoples Group | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446908896 |
+| Coordinator, Capital Projects | QuadReal Property Group | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447083959 |
+| Parts Advisor - Fish Creek Nissan | AutoCanada | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446912913 |
+| Customer Service Lead | Lammle's Western Wear | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446907684 |
+| Automation Lead | WSP in Canada | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4437091900 |
+| Oracle Fusion ERP Technical Reports and OIC Consultant | IBM | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445031936 |
+| Team Lead, Cloud Services | BDO Canada | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447089284 |
+| Senior Financial Analyst | AgeCare | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447202102 |
+| Senior On-Site Service Specialist, Hospitality | Ricoh USA, Inc. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447067117 |
+| Architectural Technologist/BIM Coordinator | DIALOG | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447067071 |
+| Student Operations Services Coordinator | Bird Construction | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4429997578 |
+| Inventory & Returns Associate | The Authentic T-Shirt Company® /SanMar C | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446911754 |
+| ANALYST, KNOW YOUR CLIENT - PRAIRIES | BDC | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=abfc913dd1d44c26 |
+| BGC Strathcona County Club Coordinator | Boys & Girls Club of Strathcona County | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=5f6de42d1a437ce5 |
+| Employment Specialist | Prospect Human Services | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=e17ef49bee6f5e87 |
+| Part-Time Teacher Administrator | Oxford Learning Centre | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=f7433c4261ed1fea |
+| Driver Recruiter / Safety Coordinator | Charger Logistics Inc. | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447070619 |
+| Marketing and Proposals Administrator | Iconic Power Systems Inc. | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447064021 |
+| Games Coordinator | Calgary Sport & Social Club | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446921401 |
+| Banking Advisor Intern | RBC | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447073273 |
+| Payroll and Benefits Administrator | Aplin | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447079821 |
+| Community Partnerships and Program Advisor | Government of Alberta | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446928035 |
+| Personal Financial Administrator - FM HUB | E4C | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4443978892 |
+| Health and Safety Specialist | Excel Management Limited Partnership | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=428007dae324c3c0 |
+| Business Systems Analyst | PCL Construction | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=731e0c68582a8009 |
+| IT Systems Administrator | Rockdoc Consulting Inc. | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=9be8bfb648c43131 |
+| Process Safety Engineer, Contractor | Inter Pipeline Ltd | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=5be4063cee784c31 |
+| Coordinator, Talent Acquisition | COLLEGE OF PHYSICIANS & SURGEONS OF ALBE | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=178689f176ebc50f |
+| Media and Public Relations Specialist | Calgary Chamber of Commerce | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4447206472 |
+| Policy Analyst | Government of Alberta | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446908890 |
+| Business Systems Analyst | PCL Construction | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4447089447 |
+| IT Support Desk Analyst | NorQuest College | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4447072504 |
+| Veterinary Assistant/Receptionist | Creek Side Veterinary Hospital | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=282d63ebbe5ddcd9 |
+| ScotiaMcLeod Administrative Support Asisstant | Scotiabank | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=4739f6eb8e545652 |
+| Wealth Associate | National Bank of Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4445038766 |
+| Customer Service Representative (Motivator) - Calgary Sunrid | GoodLife Fitness | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4445024852 |
+| Membership Engagement Advisor | Calgary Chamber of Commerce | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4447096554 |
+| Recovery Associate, Mortgages | AMA - Alberta Motor Association | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446126318 |
+| Associate or Analyst, Investment Banking (A&D), Energy - BMO | BMO Capital Markets | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4447094618 |
+| Customer Service Representative | Jim Peplinski Capital | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446914185 |
+| PT Sales Associate - Seasonal | TORY BURCH | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4447065427 |
