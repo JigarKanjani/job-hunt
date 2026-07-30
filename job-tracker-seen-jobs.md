@@ -16482,3 +16482,44 @@
 | Personal Banking Associate | TD | 2026-07-29 | G | https://ca.indeed.com/viewjob?jk=3a80a847af8feb4e |
 | Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4247085523 |
 | Application Support Specialist | Whitecap Resources Inc. | 2026-07-29 | G | https://www.linkedin.com/jobs/view/4445914054 |
+| Procurement Administrator | Aecon Group Inc. | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=f054d95e1c00ee26 |
+| Spares Operations Coordinator | Avmax Aviation Services | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=acbf9025895f1e28 |
+| Senior Advisor | Primary Care Alberta | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=a093552223f95feb |
+| Senior Environmental Planner | Dillon Consulting Limited | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=c7f3c9f8e5ae4753 |
+| Fund Development Coordinator - Individual Giving | Calgary Food Bank | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=1d8d18284bab62d4 |
+| Third Party (Vendor) Insights Senior Analyst | ATB Financial | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=4a55cbc413d7b11b |
+| Alumni & Volunteer Engagement Coordinator | Calgary Academy | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=89f68e7f84d20350 |
+| Senior Buyer & Inventory Analyst | ICE Western Sales | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445412102 |
+| ICQA Data Analyst | Amazon | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444501028 |
+| Procurement Administrator | Aecon Group Inc. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446442788 |
+| Billings Analyst | Precision Drilling | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446873799 |
+| Project Cost Controls Analyst | Adecco | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446880733 |
+| Financial Analyst | RECRUITMENT PARTNERS INC. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446876745 |
+| Alpha Integration & Sustainment Analyst | Precision Drilling | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446881523 |
+| Resource Specialist – National Tax Resource Management Team | KPMG Canada | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444192809 |
+| Billing Specialist | RECRUITMENT PARTNERS INC. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446879702 |
+| Premium Finance and Collections Coordinator | Western Financial Group | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4444502268 |
+| Senior Environmental Planner | Dillon Consulting Limited | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446887402 |
+| Intermediate or Senior Business Advisor | Intact | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446461031 |
+| Procurement Contract Specialist | Worley | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446868626 |
+| Senior Operations Accountant - Oil and Gas | AR Recruitment Ltd Calgary | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446435930 |
+| Senior Enablement Program Operations Specialist | Clio | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446450368 |
+| Senior Materials and Corrosion Engineer | Suncor | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446465543 |
+| Project Support Coordinator | Hays | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446883171 |
+| Business Center Operations Leader, Environmental Services | Stantec | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446454642 |
+| Fund Development Officer - Major Gifts & Legacy Giving | Calgary Food Bank | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=a2a964e7373c9800 |
+| Case Manager | Bayshore HealthCare | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=7ccffecb69c21f3a |
+| Administrative Assistant | RBC Dominion Securities | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446897465 |
+| Veterinary Reception, Client Care, Western Veterinary Specia | VCA Animal Hospitals | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446447882 |
+| Resource Specialist – National Tax Resource Management Team | KPMG Canada | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4444187910 |
+| Order Desk Coordinator | Levven Electronics Ltd. | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=4957f8806f542ef7 |
+| Specialist Sourcing - Engineering | CPKC | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=493a0c3e69624da4 |
+| Business Systems Developer | Kingston Midstream | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=9a14625823cf5832 |
+| Specialist Procurement & Contract AI | CPKC | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4444516036 |
+| SAP ABAP Developer | CPKC | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4444516032 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4447003441 |
+| Guest Services Agent | Hilton Garden Inn Calgary Airport | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=5edd562036413e3d |
+| Customer Experience Associate - Calgary, AB (18.75 hours/wee | Scotiabank | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=61698f11aaf4a6fe |
+| Guest Service Agent | Full-time | The Westley Hotel | Silver Hotel Group | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446898139 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446883543 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446875909 |
