@@ -16593,3 +16593,23 @@
 | Financial Planner, Scotia Financial Planning - Calgary | Scotiabank | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4437301550 |
 | AI Specialist (Remote) | Hired | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446767400 |
 | Machine Learning Analyst (Remote) | Hire Feed | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446762511 |
+| Technology Specialist | ADM | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=b9836e3d23142e9e |
+| Merchandising Support Coordinator | 7-Eleven | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=6161384b6814e6bf |
+| Project Controls Lead | West Kitikmeot Resources Corp | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446776643 |
+| Leader, Business Planning and Budget Adjustment | City of Calgary | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446786398 |
+| ANALYST, KNOW YOUR CLIENT - PRAIRIES | BDC | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446786268 |
+| Enterprise Account Executive | AppDirect | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446786617 |
+| Events Coordinator, Graduate Student Journey, Faculty of Gra | University of Calgary | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447014787 |
+| Senior Accounts Receivable Analyst | Lorimer Ventures | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445023072 |
+| Construction Analyst | Indotronix Avani Group | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446796500 |
+| AVEVA Enterprise SCADA Specialist | PipeCom | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445771613 |
+| Regional Category Manager | Sysco Canada Inc. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447017814 |
+| Accounts Payable Administrator | novitech | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=b00cc7e9b858f578 |
+| Disability Case Analyst/Case Manager | Manulife | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=a29f9bbaa2cbd143 |
+| Fleet Asset Administrator | Rising Edge Group | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=0f31905ce2821cd4 |
+| Fleet Asset Administrator | Rising Edge Group | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447025124 |
+| Payroll & Benefits Administrator – Element Technical Service | Element Technical Services | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4445015073 |
+| Specialist, Communications | MS Canada | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447010744 |
+| Client Services Coordinator | Avison Young | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446783224 |
+| AI Analyst (Remote) | Hired | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446755791 |
+| Crude & Diluent Scheduler | Gunvor Group | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4426879326 |
