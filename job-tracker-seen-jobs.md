@@ -16667,3 +16667,48 @@
 | Associate or Analyst, Investment Banking (A&D), Energy - BMO | BMO Capital Markets | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4447094618 |
 | Customer Service Representative | Jim Peplinski Capital | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446914185 |
 | PT Sales Associate - Seasonal | TORY BURCH | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4447065427 |
+| Controller, Finance Operations and Transformation | H&R Block | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=dd500556c63adcd3 |
+| Installation Coordinator | PBS Systems | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=13ffe331d51692bc |
+| Fundraising Coordinator - Calgary / Southern Alberta | Islamic Relief Canada | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=0a813bdcc9a31204 |
+| Senior Financial Analyst | AgeCare Corporate | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=100b5bf80857810f |
+| Investment Banking, Analyst | Barclays | 2026-07-30 | J | https://ca.indeed.com/viewjob?jk=4f35c94fba53abac |
+| Financial Operations Analyst | Trans Mountain | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446924428 |
+| Purchasing Agent - Spools & Vessels | Enerflex Ltd. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445048265 |
+| System Planning & Optimization Specialist | Enbridge | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445048207 |
+| Strategic Supply Chain Lead | Fidelity Manufacturing | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447091593 |
+| Advisor Strategy & Fundamentals | Enbridge | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445045209 |
+| Investment Banking, Analyst | Barclays Investment Bank | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445065109 |
+| Senior IT Service Management Analyst | Pembina Pipeline Corporation | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447221117 |
+| Communications and Event Specialist, School of Public Policy | University of Calgary | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446394219 |
+| Oracle ERP Delivery Lead | Accenture | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447227095 |
+| Environment Scientist, Complex Field Lead | Millennium EMS Solutions Ltd. | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446915821 |
+| Fundraising Coordinator - Calgary / Southern Alberta | Islamic Relief Canada | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447233040 |
+| Senior Lead Hand Installer (Office Furniture) | McCrum's Office Furnishings | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447203529 |
+| Pipeline Construction Specialist | Enbridge | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4445060136 |
+| Safety Advisor - CANA Construction Co. Ltd. | CANA Group of Companies | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446943214 |
+| Senior Business Systems Analyst | Co-operators | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4447207673 |
+| Purchasing & Store Supervisor (Full Time) | Fairmont Hotels & Resorts | 2026-07-30 | J | https://www.linkedin.com/jobs/view/4446921586 |
+| FASD Clinic Coordinator | ENVIROS | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=0d39b1384d2a9537 |
+| Safety Advisor - CANA Construction Co. Ltd. | Cana Group of Companies | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=f50a019443271c4c |
+| Supportive Housing Program Coordinator | Homeward Trust Edmonton | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=a697a5f9ec9e2211 |
+| Supportive Housing Program Coordinator | Homeward Trust Edmonton | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=d8e03defb340aa9d |
+| Employment Coordinator | The Lakeland Centre for FASD | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=8e8f3b9f1e804e1a |
+| Administrative Coordinator | Can-Traffic Services Ltd. | 2026-07-30 | N | https://ca.indeed.com/viewjob?jk=2005acb96f7a9530 |
+| Associate Investment Advisor | TD | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447090859 |
+| Community Connections Liaison | Islamic Restoration Society | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446785947 |
+| Service Administrator | Wajax | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4447230009 |
+| Billing Coordinator | Lotus Group | 2026-07-30 | N | https://www.linkedin.com/jobs/view/4446940161 |
+| Business Analyst - 12 Month Term | WestJet Airlines | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=420bb0b39004f5c4 |
+| Website Administrator | AMAN RAHMAN | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=62110dbd52691173 |
+| Cyber Security Operations Specialist | MNP | 2026-07-30 | R | https://ca.indeed.com/viewjob?jk=5c360983b2b8ce9d |
+| Data Annotation Specialist - Investment Banking and Private  | Cohere | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4447219149 |
+| Business Data Analyst | Government of Alberta | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446925094 |
+| Junior Data Analyst | Government of Alberta | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4446915820 |
+| Field Service & Technical Support Specialist SK | WEED-IT Canada | 2026-07-30 | R | https://www.linkedin.com/jobs/view/4444174570 |
+| Domino's Customer Service Representative (12424 Symons Valle | Domino's | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=20af89c031923404 |
+| Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=13a26af4947e2cb5 |
+| Learning Specialist, AVP | Morgan Stanley | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=d332b74a18c1d688 |
+| Associate Editor, Avenue | RedPoint Media | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=05a722e014684aca |
+| Investment Banking, Associate | Barclays | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=0441fe242ddc2b76 |
+| Investment Banking, Associate | Barclays Investment Bank | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4445050176 |
+| Learning Specialist, AVP | Morgan Stanley | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446925616 |
