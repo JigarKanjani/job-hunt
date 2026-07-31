@@ -16737,3 +16737,24 @@
 | (CAN) Distribution Centre Team Associate - Casepack (TU WE T | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447502679 |
 | (CAN) Distribution Centre Team Associate - Casepack ( SA WE  | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447501730 |
 | (CAN) Distribution Centre Team Associate - Shipping: **RDC O | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447291787 |
+| Senior Coordinator, Accounts Receivable | Avenue Living | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4438844431 |
+| Analyst, Corporate Finance | KPMG Canada | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447520555 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447132517 |
+| Material Coordinator | FLINT Corp. | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4438833762 |
+| ServiceNow Administrator, BA Enablement Associate | RSM | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=951b4b60ce5bcf7a |
+| Delivery Logistics Coordinator | Superior Propane | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4445511748 |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447146100 |
+| Quality Analyst (Remote) | Hired | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447529100 |
+| AI Analyst (Remote) | Hired | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447532024 |
+| Finance Analyst (Remote) | Jobs Ai | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447528024 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4420269985 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4420273698 |
+| C# Developer (Remote) | Hire Feed | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447520466 |
+| Backend Developer - C#/.NET (Remote) | Hired | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447513620 |
+| Administrative Support IV | Recovery Alberta | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=70084b491384acd7 |
+| Customer Service Representative Calgary, AB | BearCom Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447138313 |
+| Associate, Corporate Finance | KPMG Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447512712 |
+| Physical Gas Scheduler (Midwest) | Uniper | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4438843143 |
+| Customer Service Representative | Aston Carter | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447514668 |
+| Associate Vice President, Corporate Finance | KPMG Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447516633 |
+| Sales Associate - Spencer's | Spencer's | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4376127894 |
