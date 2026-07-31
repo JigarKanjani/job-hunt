@@ -16786,3 +16786,29 @@
 | Ground Disturbance Specialist | SPECTRAFORCE | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447552453 |
 | Luxury Watch Sales Specialist | Maison Birks | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447545547 |
 | Cost Controller, Financial Planning and Analysis (12 Month C | Sunwing | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4445528250 |
+| Pre-Construction Coordinator | Arctic Arrow Group | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=ae510c65ace4eace |
+| Senior Financial Analyst | AgeCare Corporate | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=9dee517f68596a17 |
+| Sales & Events Administrative Coordinator | WinSport | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=3a3fae71119f8cec |
+| Analyst, Corporate Finance | KPMG | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=fdaf7980da1616af |
+| Pre-Construction Coordinator | Arctic Arrow Powerline Group Ltd. | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447541568 |
+| Volunteer Resources Coordinator | Inn from the Cold | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447161271 |
+| Financial Analyst II | TELUS | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447149773 |
+| Procurement Specialist | Alberta Blue Cross | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4445525400 |
+| Program Coordinator | St. Albert Sturgeon Hospice Association | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=dee846fd3dcda561 |
+| Academic Coordinator | University of Alberta | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=280221dc8375032a |
+| Academic Coordinator | University of Alberta | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=7b9f70e9f6c7a6db |
+| Real Estate Deals & Listing Coordinator | Jake Nicolle Realty | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=ecdbf535197ce263 |
+| Revenue Coordinator | Rockwood Service Corporation | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=d5794df6796ddeeb |
+| Navigator | Native Counselling Services of Alberta | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447166198 |
+| Dual Courtworker | Native Counselling Services of Alberta | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447165423 |
+| Community Peace Officer | City of Cold Lake | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447167026 |
+| Travel Counsellor | AMA - Alberta Motor Association | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4446381636 |
+| Dietary Worker | Aramark Canada | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447547196 |
+| Contaminated Sites Regulatory Coordinator | Government Of Alberta | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=9659cb7d6b997fb2 |
+| Process Engineer - EBSM | Shell Energy Retail | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=87c691da2a48311d |
+| Cloud Data Analyst (Methods Analyst II) | City of Edmonton | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4445538204 |
+| Associate, Corporate Finance | KPMG | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=01049f0c4f387c9b |
+| Associate Vice President, Corporate Finance | KPMG | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=43e41f724f901fee |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447556802 |
+| Facilities Maintenance Specialist | NDD Stays | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447172087 |
+| Document Controller | Valard Construction | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447565048 |
