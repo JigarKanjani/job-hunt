@@ -16719,3 +16719,21 @@
 | Analyst I, Falcon Complete (Remote, PST/MST) | CrowdStrike | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4445069325 |
 | Data Analyst | Ness Digital Engineering | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=9b947e7ff8b87f74 |
 | Analyst I, Falcon Complete (Remote, PST/MST) | CrowdStrike | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=e06c21fb8d55014a |
+| Senior Buyer | Worley | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4438839460 |
+| Senior Business Applications Analyst | Finning | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446989831 |
+| Long-term Planner II | Finning | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4437905909 |
+| Plant Lean Leader | Johnson Controls | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4408816424 |
+| Senior Business Applications Analyst | Finning | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446993729 |
+| Evaluation and Measurement Analyst | KPMG Canada | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4438821141 |
+| Principal EDS Specialist | Worley | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4438658983 |
+| Senior Payroll Specialist | Powell | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4435903171 |
+| Research Data Management Implementation Specialist | University of Alberta | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447504431 |
+| Business Analyst / Organizational Change Management Speciali | Alberta Health Services | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=f2d5fa33148aecdd |
+| SOC Analyst - Tier 1 | Alberta Health Services | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=40742d7a02e4e586 |
+| Business Development Specialist | Essorsoft | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4446979807 |
+| Test Automation Developer | TEKTELIC | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4445082973 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4420273698 |
+| Language Model Analyst - Fully Remote | Upto $20/hr Part-tim | Mercor | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4420269985 |
+| (CAN) Distribution Centre Team Associate - Casepack (TU WE T | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447502679 |
+| (CAN) Distribution Centre Team Associate - Casepack ( SA WE  | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447501730 |
+| (CAN) Distribution Centre Team Associate - Shipping: **RDC O | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447291787 |
