@@ -16869,3 +16869,48 @@
 | Mall Store Sales Associate (Chinook Mall) | Sleep Country Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447571950 |
 | Saturday Receptionist | Davis Auto Group | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447192599 |
 | Sales Associate (PT) - #110 Signal Hill | Staples Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447577976 |
+| Logistics Coordinator | Day & Ross | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=d6a15b0a641632f4 |
+| Project Coordinator | Convergint | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=2f9541c139b32416 |
+| Business Operations Coordinator | Group 10 Engineering | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=30267618a5f5dc87 |
+| Real Time System Analyst I | AltaLink | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=df03da94d92a1ae9 |
+| Family Support Coordinator - Full-Time, Temporary to August  | Wheatland Crisis Society | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=17af92b041bdafcc |
+| Senior Cyber Security Specialist - Cyber Incident Management | Sobeys | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=021bbafface35b0a |
+| Estimator/Project Coordinator | Delta Contracting LTD | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=5c8a9debd4e8d952 |
+| Marketing Campaign & Strategy Leader | AlgaeCal | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=860049c1501af954 |
+| Procurement Process & Systems Analyst | BURNCO Rock Products Ltd | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447596627 |
+| Procurement Specialist (Buyer/Purchaser) | SET Advisors Inc. | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447400063 |
+| Business Solutions Specialist | ICE Western Sales | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447196639 |
+| Real Time System Analyst I | AltaLink | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447590608 |
+| Research Coordinator - Youth Mental Health and Community Eng | University of Calgary | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447586574 |
+| OCM Specialist (Contract) | Trans Mountain | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447198481 |
+| Convocation Advisor, Office of the Registrar | University of Calgary | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447598551 |
+| Oracle HCM Core Workstream Lead | Accenture | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447404113 |
+| Investment Operations & Portfolio Management Lead - UCeed, I | University of Calgary | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447584572 |
+| Enterprise Performance Management (EPM) Specialist - Informa | University of Calgary | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446396058 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447590675 |
+| Lead | Arc'teryx Equipment | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447594695 |
+| Regional Marketing Specialist | Avenue Living Residential | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447188966 |
+| Claims Advisor III | TD | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447583652 |
+| Oracle HCM Lead -Learning Management | Accenture | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447401146 |
+| Indigenous Support Coordinator | Inn from the Cold | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=ce643460f9bca9ee |
+| Volunteer Resources Coordinator | Inn from the Cold | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=aab9e49c33cf2c1b |
+| Community Support Worker | new age services | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=31db303ccce87b30 |
+| Family & School Liaison Worker | Inn from the Cold | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=f8e0e54dc069fe55 |
+| Organizational Change Management Specialist | Trans Mountain Corporation Inc. | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=12235b5c4f7cad0b |
+| Program Coordinator (CF) - LACE | Catholic Social Services | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=f3ff20b925b2ec46 |
+| Payroll and Benefits Administrator | Aplin | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447587580 |
+| Administrator, Assessment | University of Alberta | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447597775 |
+| Process Engineer - EBSM | Shell | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=e721884b8059b949 |
+| Research Platform Cloud Designer, Information Technologies | University of Calgary | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4446857894 |
+| Product Requirements Specialist | BIS Safety Software | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447702583 |
+| Business System Analyst (CONTRACT) REMOTE | Broadridge | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447710069 |
+| Systems Analyst | F12.net | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447584712 |
+| Variable Operations Systems Specialist | AutoCanada | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447184586 |
+| Calgary Sales / Leasing Agent | Laebon Rental Communities | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=40f3133edc30973f |
+| Administrative Accountant | Express Employment Professionals - Calga | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4445545343 |
+| Customer Success Associate | Propra | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447700842 |
+| Customer Experience Associate | TD | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447583726 |
+| Rental Sales Agent - Part Time | Avis Budget Group | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447193350 |
+| Research Associate, Bone Mechanobiology | University of Calgary | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447597484 |
+| CAD Administrator | Hatch | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447417051 |
+| Experienced Automotive Detailer / Paint Correction Specialis | CSN Collision | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447597286 |
