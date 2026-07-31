@@ -16840,3 +16840,32 @@
 | Personal Banking Associate | TD | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=e22f7b1f58440f55 |
 | Document Controller | Valard Construction | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=6970246ddf7bb31e |
 | Sales Associate (Part-Time) - Market Mall | ALO | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447579446 |
+| Procurement Process & Systems Analyst | BURNCO Rock Products Ltd | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=7633a0671c9b9e10 |
+| Production Analyst EIT | Amrize | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=b62c7e2ab925d322 |
+| Logistics Coordinator | Day & Ross | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447567926 |
+| Transportation Coordinator | Insight Global | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447187622 |
+| Application Support Analyst - Core Banking | Peoples Group | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447188596 |
+| PMH Project Coordinator | Calgary West Central Primary Care Networ | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447176624 |
+| Program Manager, Airports Financial Strategic Performance | WestJet | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447573841 |
+| Advisor, Emergency Management & Business Continuity | ATCO EnPower | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447189610 |
+| Service Advisor | Dilawri Group of Companies | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447702243 |
+| Parts Advisor - Tower Chrysler Dodge Jeep Ram | AutoCanada | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447181645 |
+| Design Lead | Modus Structures Inc | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447704143 |
+| Senior Specialist, Talent Acquisition (English Services) (Hy | CBC/Radio-Canada | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446439011 |
+| Operations Associate (Part-Time) - Market Mall | ALO | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447585280 |
+| Health & Safety Advisor (Contract - Full Time) | YMCA Calgary | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=1e81acae4cfb0434 |
+| Finance Analyst | Amrize | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=7ae1ef480fc9748c |
+| Case Manager (Remote) | Sentrex Health Solutions | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=4c1127a321b9d971 |
+| Partnership Coordinator | Ed Technologies Corp. | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=174d4c9579d770f7 |
+| Office Administrator | Steadfast Construction Ltd | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=680df1e3ff3fd25a |
+| Economic Development Officer | Town of Peace River | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447180731 |
+| Human Resources Advisor | Canada Diagnostic Centres | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447174788 |
+| Cloud Data Analyst (Methods Analyst II) | City of Edmonton | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=31c81bdbe5d3ddf7 |
+| Records Management & ATIA Coordinator | Cypress County | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=02c7dbbe43fe3e0e |
+| Platform RUN Engineer | InVita Healthcare Technologies | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=ca00a61442cb949f |
+| Desktop Support Technician | Alberta Retired Teachers' Association (A | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447168806 |
+| Customer Service Representative Calgary, AB | BearCom | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=33c8e8ccdb55a4a8 |
+| Airline Ticketing Specialist | Easy Trip Travels | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=12e950f25e8446e5 |
+| Mall Store Sales Associate (Chinook Mall) | Sleep Country Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447571950 |
+| Saturday Receptionist | Davis Auto Group | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447192599 |
+| Sales Associate (PT) - #110 Signal Hill | Staples Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447577976 |
