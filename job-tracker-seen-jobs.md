@@ -16812,3 +16812,31 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447556802 |
 | Facilities Maintenance Specialist | NDD Stays | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447172087 |
 | Document Controller | Valard Construction | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447565048 |
+| Financial Analyst II | Telus | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=3502cfcab6f92268 |
+| Program Coordinator (6 month term) | The Calgary Chinese Elderly Citizens' As | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=c631da3066436557 |
+| Cosmetic Sales Coordinator | Rejuvenation Medical Group | 2026-07-31 | J | https://ca.indeed.com/viewjob?jk=177ac1df970ffdb8 |
+| Materials Expeditor | Manpower Alberta | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447173332 |
+| Analyste financier II | TELUS | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447571043 |
+| PMH Project Coordinator | Calgary West Central Primary Care Networ | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447171442 |
+| Technical Business Analyst | hireVouch | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447557464 |
+| Lead Automation Engineer | Flexpipe | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447553557 |
+| Payroll Specialist | TransCanada Turbines | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447567430 |
+| Project Coordinator | Convergint | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447577507 |
+| Lead Electrical Designer - OGC Engineering | Kiewit | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4437937161 |
+| Program Coordinator | The Calgary Chinese Elderly Citizens' As | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=f6bb72a3f1f8fba6 |
+| Senior Youth & Family Counsellor - Birch | Wood's Homes | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=0f88450f5a4889a3 |
+| SALES ADMIN/ACCOUNTING COORDINATOR | Sagiper North America Inc | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=cdd945e96e5420d0 |
+| Sales (Fitness Advisor) - Calgary Canyon Meadows | GoodLife Fitness | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4445534736 |
+| Sales (Fitness Advisor) - Calgary Richmond Square | GoodLife Fitness | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4445520873 |
+| Finance Analyst | Amrize | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4445533765 |
+| Travel Administration Specialist | AMA - Alberta Motor Association | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447164603 |
+| Client Service Coordinator | Bayshore HealthCare | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4445517893 |
+| Academic Coordinator | University of Alberta | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447555457 |
+| Community Disability Worker: Various Weekends | Robin Hood Association | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447177212 |
+| Service Coordinator | Sky Eye Measurement Inc. | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447188158 |
+| Site Office Coordinator (Fly-in / Fly-out) | Robert Half | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447161986 |
+| Engineer, Process Control | Nutrien | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=f042b52005abac34 |
+| Associate Inventory | Shoppers Drug Mart | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=16d9e3257c19a7b3 |
+| Personal Banking Associate | TD | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=e22f7b1f58440f55 |
+| Document Controller | Valard Construction | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=6970246ddf7bb31e |
+| Sales Associate (Part-Time) - Market Mall | ALO | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447579446 |
