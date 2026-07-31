@@ -16712,3 +16712,10 @@
 | Investment Banking, Associate | Barclays | 2026-07-30 | G | https://ca.indeed.com/viewjob?jk=0441fe242ddc2b76 |
 | Investment Banking, Associate | Barclays Investment Bank | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4445050176 |
 | Learning Specialist, AVP | Morgan Stanley | 2026-07-30 | G | https://www.linkedin.com/jobs/view/4446925616 |
+| SOC Analyst - Tier 1 | Alberta Health Services | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446996045 |
+| Installation Coordinator | PBS Systems | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4445079380 |
+| FASD Clinic Coordinator | Enviros WSA | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447264193 |
+| SOC Analyst - Tier 2 | Alberta Health Services | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4446990142 |
+| Analyst I, Falcon Complete (Remote, PST/MST) | CrowdStrike | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4445069325 |
+| Data Analyst | Ness Digital Engineering | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=9b947e7ff8b87f74 |
+| Analyst I, Falcon Complete (Remote, PST/MST) | CrowdStrike | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=e06c21fb8d55014a |
