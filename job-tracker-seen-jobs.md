@@ -16758,3 +16758,31 @@
 | Customer Service Representative | Aston Carter | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447514668 |
 | Associate Vice President, Corporate Finance | KPMG Canada | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447516633 |
 | Sales Associate - Spencer's | Spencer's | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4376127894 |
+| Project Estimator & Procurement Specialist | EnergeiaWorks | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447543370 |
+| Proposal Coordinator | Spartan Controls | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447147713 |
+| S2P Accounts Payable Analyst | Airswift | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447534207 |
+| Senior Water Resources Planner | City of Calgary | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447146746 |
+| Lab Automation & Instrumentation Specialist | Whitefox | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4435981791 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4447132517 |
+| Planner Scheduler | Bird Construction | 2026-07-31 | J | https://www.linkedin.com/jobs/view/4438869284 |
+| PMH Project Coordinator | Calgary West Central Primary Care Networ | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=dee3fcf97478c278 |
+| Insurance Advisor - LLQP License Required | Desjardins | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=f4dcfe7308c5df73 |
+| Calgary Police Service - Disclosure Analyst | City of Calgary | 2026-07-31 | N | https://ca.indeed.com/viewjob?jk=a3fad508c0d2d5b5 |
+| Platform Specialist II, Wealth Operations | ATB Financial | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447553383 |
+| Wildlife Coordinator (ID: 55771) | City of Edmonton | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447206937 |
+| Operations Specialist (Remote) | Jobs Ai | 2026-07-31 | N | https://www.linkedin.com/jobs/view/4447537194 |
+| Data Analyst | Ness Digital Engineering | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=27641d7b29dc44d3 |
+| Business Analyst CPQ | Zaelab | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=317894cb45b98bdc |
+| Analyst, Enterprise Risk - Internal Audit & Controls (Septem | MNP | 2026-07-31 | R | https://ca.indeed.com/viewjob?jk=1695f47971c39208 |
+| Infrastructure Operations Administrator | Benevity | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447160183 |
+| System Administrator | LanceSoft, Inc. | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4446782811 |
+| Business Intelligence Analyst (Excel) | $50/hr Remote | Crossing Hurdles | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447146100 |
+| Data Analyst (Excel) | $55/hr Remote | Crossing Hurdles | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447127571 |
+| Data Analyst - Finance (Remote) | Hired | 2026-07-31 | R | https://www.linkedin.com/jobs/view/4447509770 |
+| Family Specialist | Closer to Home Community Services | 2026-07-31 | G | https://ca.indeed.com/viewjob?jk=1e2b70ba28c89261 |
+| Associate Inventory | Loblaw Companies Limited | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447529880 |
+| Customer Service Representative | BMO | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447537291 |
+| Credit Officer II | Bank of America | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447534587 |
+| Ground Disturbance Specialist | SPECTRAFORCE | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447552453 |
+| Luxury Watch Sales Specialist | Maison Birks | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447545547 |
+| Cost Controller, Financial Planning and Analysis (12 Month C | Sunwing | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4445528250 |
