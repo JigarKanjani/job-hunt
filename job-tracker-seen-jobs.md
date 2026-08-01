@@ -17013,3 +17013,12 @@
 | Senior Advisor, Internal Reporting | Enerflex Ltd. | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4436623820 |
 | C# Developer (Remote) | Hire Feed | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447782952 |
 | Backend Developer - C#/.NET (Remote) | Hired | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447782911 |
+| Senior Technical Advisor, Environmental Science - Upstream O | WSP in Canada | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4409625103 |
+| Equipment Coordinator | FlatironDragados | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4429383459 |
+| Administrative Assistant | Indigenous Energy Monitor | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447495624 |
+| Simulation Technology Developer | SLB | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4436617942 |
+| Server Administrator | Taleo Project Services Inc | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447495574 |
+| Customer Service Fundraiser | Elite Group Marketing | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=d4d3992f02974eae |
+| Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=bab164576a439361 |
+| Sales Associate | Elements Inc. | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447495909 |
+| Saturday Receptionist | Davis Auto Group | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447613018 |
