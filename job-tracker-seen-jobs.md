@@ -16992,3 +16992,10 @@
 | Coordinator I - Project Support Administrator | Alberta Health Services | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447452725 |
 | Security Systems Service Technician | MacDonald Search Group | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447459549 |
 | Excel Specialist | $55/hr Remote | Crossing Hurdles | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447464284 |
+| Community Support Coordinator Residential Program | Calgary Alternative Support Services | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=a957538dad9bfdb1 |
+| Factory Test Specialist | Ecolab | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447783545 |
+| Leadhand - Streetlighting (PLT) | ENMAX | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447466630 |
+| Geotechnical Engineer - Field & Interpretation | Worley | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4410795306 |
+| Test Lead | Global Identity and Access Management | Colliers | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4439317867 |
+| Turnover Coordinator | Worley | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4439357999 |
+| Administrative Assistant | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=1916566c2a91976e |
