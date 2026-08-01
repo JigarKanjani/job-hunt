@@ -17022,3 +17022,10 @@
 | Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=bab164576a439361 |
 | Sales Associate | Elements Inc. | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447495909 |
 | Saturday Receptionist | Davis Auto Group | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447613018 |
+| Climbing Wall 2, Experience Lead | Mount Royal University | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445812847 |
+| Intramural Lead | Mount Royal University | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445819138 |
+| Operations Consultant - Flex | SEPHORA | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447824752 |
+| Program Coordinator (24 month term) | The Calgary Chinese Elderly Citizens' As | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=36d00d5d6278eb61 |
+| peer support worker | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447827467 |
+| community worker | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447840305 |
+| legal services officer - courts | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447841277 |
