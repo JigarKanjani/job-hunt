@@ -17029,3 +17029,6 @@
 | peer support worker | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447827467 |
 | community worker | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447840305 |
 | legal services officer - courts | Native Counselling Services of Alberta | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447841277 |
+| Client Care Coordinator | Juvea Aesthetics | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=612534854602fac8 |
+| Finance and Accounting Coordinator | BGC Big Brothers Big Sisters of Edmonton | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447600627 |
+| Administrative Assistant | The Calgary Chinese Elderly Citizens' As | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=8ccf98919545c71c |
