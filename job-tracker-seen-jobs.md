@@ -17007,3 +17007,9 @@
 | People & Culture Coordinator | Fairmont Hotels & Resorts | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4438394561 |
 | Project Developer | Atlantica Sustainable Infrastructure Plc | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4438370590 |
 | Quality Analyst (Remote) | Hired | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447804043 |
+| Learning and Development Analyst | City of Calgary | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=523cc1576b9442dc |
+| Senior Financial Analyst - 6 month contract | Vaco by Highspring | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4446776741 |
+| Administrative Assistant - Junior | Amyantek | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447806350 |
+| Senior Advisor, Internal Reporting | Enerflex Ltd. | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4436623820 |
+| C# Developer (Remote) | Hire Feed | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447782952 |
+| Backend Developer - C#/.NET (Remote) | Hired | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447782911 |
