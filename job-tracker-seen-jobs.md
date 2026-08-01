@@ -16983,3 +16983,12 @@
 | Vehicle Sales Associate | RYKER | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447773573 |
 | Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447424340 |
 | LC Associate - 6 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447765482 |
+| Senior Financial Analyst | Alberta Health Services | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447468412 |
+| Senior Financial Reporting Lead | SoTalent | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445578842 |
+| Automotive Sales Software Onboarding Specialist | PBS Systems | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445586763 |
+| Family Specialist | Closer to Home Community Services | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447793137 |
+| Coordinator | Flowserve Corporation | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447761966 |
+| Supervisor, Commercial Operations | Flowserve Corporation | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447767929 |
+| Coordinator I - Project Support Administrator | Alberta Health Services | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447452725 |
+| Security Systems Service Technician | MacDonald Search Group | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447459549 |
+| Excel Specialist | $55/hr Remote | Crossing Hurdles | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447464284 |
