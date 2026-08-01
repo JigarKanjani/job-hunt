@@ -16955,3 +16955,31 @@
 | Stock Unloader Associate | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447709251 |
 | Personal Banking Associate | TD | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447700511 |
 | Ramp Agent | FedEx Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447723323 |
+| Specialist, Industry Engagement - TalentED | Calgary Economic Development | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=dc79233baf6cd77c |
+| Service Coordinator | Sky Eye Measurement Inc. | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=9142fa8f8ba53571 |
+| Category Specialist | Nutrien | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445580595 |
+| Sales Operations Specialist | Seequent | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445569694 |
+| Production Team Lead (Manifold) | Ecolab | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447738730 |
+| Designated Beauty Advisor - K Beauty | Holt Renfrew | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447427405 |
+| Financial Analyst | AMA - Alberta Motor Association | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447737607 |
+| Market Analyst | Canada Energy Regulator | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=17a0cce665e1c07e |
+| Front Office Administrator | AFL | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=da88f4a0fee2d28d |
+| Campaigns & Projects Coordinator (Term Contract) | Youth Empowerment & Support Services | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=94d759b76877e5f0 |
+| Front Office Administrator | AFL | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447762013 |
+| Sr. GRC Analyst, Regulatory Compliance | Benevity | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447426519 |
+| Sr. Analyst, Commercial Finance | Nutrien | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4445580593 |
+| Contract Administrator | Johnson Controls | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4445574673 |
+| Multi-Family Project Coordinator - Permanent - 19330 | LRO Staffing | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4445580706 |
+| Process Engineer (Food Extrusion) | TalentWorld | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447731310 |
+| Data Engineering Specialist - Fully Remote | Upto $80/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447747820 |
+| Backend Developer - Fully Remote | Upto $85/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447745818 |
+| AI Adversarial Specialist - Fully Remote | Upto $62/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447752614 |
+| AI Safety Specialist - Fully Remote | Upto $45/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447750760 |
+| AI Safety Specialist - Fully Remote | Upto $62/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447736963 |
+| AI Safety Specialist - Fully Remote | Upto $62/hr | Mercor | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447739913 |
+| Administrative Assistant - Junior 981 | I8IS INC. | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=f3ed3cd8e10dbfde |
+| Customer Service Associate – Customer Service Representative | Canadian Tire Corporation, Ltd. | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=b5202e4dde816560 |
+| Stock Unloader Associate | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447764232 |
+| Vehicle Sales Associate | RYKER | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447773573 |
+| Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447424340 |
+| LC Associate - 6 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447765482 |
