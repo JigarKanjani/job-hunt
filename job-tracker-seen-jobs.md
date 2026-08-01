@@ -16999,3 +16999,11 @@
 | Test Lead | Global Identity and Access Management | Colliers | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4439317867 |
 | Turnover Coordinator | Worley | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4439357999 |
 | Administrative Assistant | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=1916566c2a91976e |
+| Senior Financial Reporting & Technical Advisor | Enerflex Ltd. | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4436621853 |
+| Recreation Coordinator | Regional Municipality of Wood Buffalo | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=378f386c1249b804 |
+| MARKETING & PROPOSAL ADMINISTRATOR | Iconic Power Systems Inc. | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447786785 |
+| Specialist - IT ETRM Systems Dev (Lead/Principal) | Parkland Corporation | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4400466364 |
+| Operations Specialist (Remote) | Jobs Ai | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447780956 |
+| People & Culture Coordinator | Fairmont Hotels & Resorts | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4438394561 |
+| Project Developer | Atlantica Sustainable Infrastructure Plc | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4438370590 |
+| Quality Analyst (Remote) | Hired | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447804043 |
