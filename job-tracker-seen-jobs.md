@@ -16914,3 +16914,44 @@
 | Research Associate, Bone Mechanobiology | University of Calgary | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447597484 |
 | CAD Administrator | Hatch | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447417051 |
 | Experienced Automotive Detailer / Paint Correction Specialis | CSN Collision | 2026-07-31 | G | https://www.linkedin.com/jobs/view/4447597286 |
+| Health & Safety Advisor | Kal Tire | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=0b52c4ae733a15b5 |
+| Case Manager, Intake | The Brenda Strafford Foundation | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=47bb653fa21b5562 |
+| Category Specialist | Nutrien | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=f1e51231d39637ce |
+| Logistics Coordinator | Amrize | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445558579 |
+| Project Coordinator | AtkinsRéalis | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447708786 |
+| Junior Service Advisor (T&T Honda) | Go Auto | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447722171 |
+| Project Coordinator | AtkinsRéalis | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4447712721 |
+| Production Analyst EIT | Amrize | 2026-08-01 | J | https://www.linkedin.com/jobs/view/4445544671 |
+| Pimacihowin Housing Case Manager | Red Deer Native Friendship Society | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=0d9fbc94795ded2d |
+| Part Time - Contact Centre Coordinator | Distress Centre Calgary | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=c481747ca8223748 |
+| Service & Warranty Coordinator | Shane Homes | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=6435181994f9d377 |
+| Claims Advisor III | TD | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=959f535784160b68 |
+| Deployment Specialist | AG&P Canada Inc | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=743d6c1b6a2b158a |
+| Deployment Specialist | AG&P Canada Inc | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=d1c0ffdbf7b486cd |
+| Administrator, Assessment | University of Alberta | 2026-08-01 | N | https://ca.indeed.com/viewjob?jk=6b333218416f7a7b |
+| Office Administrator | Corrosion Service Company Limited | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4445557470 |
+| Sales Specialist Calgary | Match Retail | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4445543472 |
+| Program Manager - Remote | Sentrex Health Solutions | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447414110 |
+| Associate Program Manager - Remote | Sentrex Health Solutions | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447405288 |
+| Case Manager, Guardianship Program | Center for Guardianship Certification (C | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447401797 |
+| Case Manager, Guardianship Program | Center for Guardianship Certification (C | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447408609 |
+| Case Manager (Remote) | Sentrex Health Solutions | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447197899 |
+| Hospitality & Facilities Coordinator | RECRUITMENT PARTNERS INC. | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447716130 |
+| Payroll, Benefits & HR Administrator | Gitxsan Development Corporation | 2026-08-01 | R | https://ca.indeed.com/viewjob?jk=353b15cb610e0652 |
+| Product Requirements Specialist | BIS Safety Software | 2026-08-01 | R | https://ca.indeed.com/viewjob?jk=6198b190dae3c109 |
+| Intermediate Process Engineer | Stantec | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447735100 |
+| Service Desk Associate: Part Time - NORTH HILLS | The Home Depot Canada | 2026-08-01 | R | https://www.linkedin.com/jobs/view/4447409733 |
+| Part Time Hotel Front Desk Agent | Hyatt | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=9a8ed9e0876a2bc8 |
+| Administrative Support I | BrokerLink | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=f03bd6fca70274dd |
+| Sales Operations Specialist | Seequent | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=550243e869ae8042 |
+| 211 Community Resource Specialist | Distress Centre Calgary | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=e0d0065f78b435c3 |
+| Customer Experience Associate | TD | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=eaafa5fdfbbf6caf |
+| Customer Experience Associate - Calgary, AB (37.5 hours/week | Scotiabank | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=47a772257101724d |
+| Administrative Support I | BrokerLink | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447719124 |
+| Distribution Centre Team Associate (Calgary and Balzac Locat | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447724089 |
+| (CAN) Consumables Associate | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447711187 |
+| Cost Controller | AtkinsRéalis | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4446344768 |
+| (CAN) Distribution Centre Team Associate - Receiving (SAT TU | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447711186 |
+| Stock Unloader Associate | Walmart Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447709251 |
+| Personal Banking Associate | TD | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447700511 |
+| Ramp Agent | FedEx Canada | 2026-08-01 | G | https://www.linkedin.com/jobs/view/4447723323 |
