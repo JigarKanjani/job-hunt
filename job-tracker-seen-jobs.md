@@ -17040,3 +17040,11 @@
 | Financial Analyst - Fully Remote | Upto $160/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439587937 |
 | Lawyer, General Counsel Office | Miller Thomson LLP | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4445844344 |
 | Marketing Operations Coordinator [AQ-11204] | Aquent | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4445851294 |
+| Operations Specialist (Remote) | Jobs Ai | 2026-08-02 | N | https://www.linkedin.com/jobs/view/4447896343 |
+| Data Analyst - Finance (Remote) | Hired | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447881749 |
+| Data Annotation Specialist (Basic JSON) | $25/hr Remote | Crossing Hurdles | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4430093099 |
+| Financial Data Analyst (Remote) | Jobs Ai | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447896543 |
+| Data Science Specialist - Fully Remote | Upto $170/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439702537 |
+| Automation Test Engineer - QA (Remote) | Hired | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447891619 |
+| Finance Analyst (Remote) | Jobs Ai | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447876836 |
+| Financial Analyst - Fully Remote | Upto $160/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439587937 |
