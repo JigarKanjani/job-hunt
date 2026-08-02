@@ -17048,3 +17048,5 @@
 | Automation Test Engineer - QA (Remote) | Hired | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447891619 |
 | Finance Analyst (Remote) | Jobs Ai | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447876836 |
 | Financial Analyst - Fully Remote | Upto $160/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439587937 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4448105006 |
+| Financial Investment Analyst (Remote) | Hired | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447882948 |
