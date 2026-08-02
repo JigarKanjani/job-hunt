@@ -17036,3 +17036,7 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4447878102 |
 | Senior Financial Analyst | Aston Carter | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447873511 |
 | Parking Enforcement Officer | LAZ Parking | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447881083 |
+| Data Science Specialist - Fully Remote | Upto $170/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439702537 |
+| Financial Analyst - Fully Remote | Upto $160/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4439587937 |
+| Lawyer, General Counsel Office | Miller Thomson LLP | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4445844344 |
+| Marketing Operations Coordinator [AQ-11204] | Aquent | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4445851294 |
