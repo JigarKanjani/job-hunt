@@ -17032,3 +17032,5 @@
 | Client Care Coordinator | Juvea Aesthetics | 2026-08-01 | J | https://ca.indeed.com/viewjob?jk=612534854602fac8 |
 | Finance and Accounting Coordinator | BGC Big Brothers Big Sisters of Edmonton | 2026-08-01 | N | https://www.linkedin.com/jobs/view/4447600627 |
 | Administrative Assistant | The Calgary Chinese Elderly Citizens' As | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=8ccf98919545c71c |
+| AI Safety Specialist - Fully Remote | Upto $62/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447872508 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4447878102 |
