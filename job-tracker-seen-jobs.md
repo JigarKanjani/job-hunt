@@ -17053,3 +17053,5 @@
 | Purchasing & Business Intelligence Coordinator (6-Month Cont | Spruce It Up Garden Centre | 2026-08-02 | J | https://ca.indeed.com/viewjob?jk=ac377a2ff34fa2d5 |
 | Senior Project Coordinator | Taleo Project Services Inc | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447647953 |
 | AI Operations Strategist | Indigenous Energy Monitor | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447654290 |
+| National Clinical Specialist Advanced Wound Care | Essity | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4411717310 |
+| Bakery Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4448115174 |
