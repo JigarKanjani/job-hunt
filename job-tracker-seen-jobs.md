@@ -17034,3 +17034,5 @@
 | Administrative Assistant | The Calgary Chinese Elderly Citizens' As | 2026-08-01 | G | https://ca.indeed.com/viewjob?jk=8ccf98919545c71c |
 | AI Safety Specialist - Fully Remote | Upto $62/hr | Mercor | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4447872508 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4447878102 |
+| Senior Financial Analyst | Aston Carter | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447873511 |
+| Parking Enforcement Officer | LAZ Parking | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447881083 |
