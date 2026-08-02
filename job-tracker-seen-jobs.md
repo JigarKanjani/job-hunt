@@ -17055,3 +17055,5 @@
 | AI Operations Strategist | Indigenous Energy Monitor | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447654290 |
 | National Clinical Specialist Advanced Wound Care | Essity | 2026-08-02 | R | https://www.linkedin.com/jobs/view/4411717310 |
 | Bakery Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4448115174 |
+| Sr Technical Advisor, Gas Power Projects | McCord Investments | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447664360 |
+| Sales Associate-Print&Services | Staples Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4448100728 |
