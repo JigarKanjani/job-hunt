@@ -17065,3 +17065,4 @@
 | Program Manager - Tudor Manor - Temporary Full Time | The Brenda Strafford Foundation | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4448104899 |
 | (CAN) Dairy Frozen Associate (11pm-7am) | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448115702 |
 | Customer Service Representative | Indigenous Energy Monitor | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4447663559 |
+| Finance Coordinator | MSCP Heat Management Solutions | 2026-08-03 | J | https://ca.indeed.com/viewjob?jk=5310c2089e959865 |
