@@ -17099,3 +17099,17 @@
 | Part-Time Community Associate | Regus | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448378795 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448326588 |
 | Meat Associate | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448334462 |
+| WCB and OH&S Coordinator | Paladin Airport Security Services | 2026-08-03 | J | https://ca.indeed.com/viewjob?jk=445db96dfe5bffae |
+| Business Lead, Lifecycle Services | Rockwell Automation | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448638371 |
+| Senior Specialist, Talent Acquisition (English Services) (Hy | Radio-Canada | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4446851782 |
+| Healthcare Client Growth Leader | IBM | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4446252550 |
+| Materials Coordinator | Primoris Services Corporation | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448628461 |
+| Planning & Stewardship Analyst | Imperial Oil | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448649041 |
+| Business Planning and Performance Advisor | Imperial Oil | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448654002 |
+| Payroll & Benefits Coordinator | Aspen Custom Trailers | 2026-08-03 | N | https://ca.indeed.com/viewjob?jk=fceb405bf17edc1f |
+| Dataiku Administrator | Pacer Group | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4446255429 |
+| Technical Support Specialist | Tribute Technology | 2026-08-03 | R | https://ca.indeed.com/viewjob?jk=855b23aecf30da96 |
+| Maximo Technical Developer | IBM | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4446254529 |
+| End User Support Specialist | Sharp Brains | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4446253801 |
+| SALES ASSOCIATE | La Vie En Rose | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448633194 |
+| SALES ASSOCIATE | La Vie En Rose | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448628263 |
