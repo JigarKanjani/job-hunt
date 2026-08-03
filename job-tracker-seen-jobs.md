@@ -17066,3 +17066,11 @@
 | (CAN) Dairy Frozen Associate (11pm-7am) | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448115702 |
 | Customer Service Representative | Indigenous Energy Monitor | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4447663559 |
 | Finance Coordinator | MSCP Heat Management Solutions | 2026-08-03 | J | https://ca.indeed.com/viewjob?jk=5310c2089e959865 |
+| Mortgage Specialist - Calgary | ATB Financial | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448163590 |
+| License Administrator | AVEVA | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4447982037 |
+| Quality Analyst (Remote) | Hired | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448169408 |
+| Photo Lab Specialist | London Drugs | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4446200583 |
+| Finance Analyst (Remote) | Jobs Ai | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448173282 |
+| Visual Design Specialist - Fully Remote | Upto $150/hr | Mercor | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4439789095 |
+| Backend Developer - C#/.NET (Remote) | Hired | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448171412 |
+| Cost Controller | AtkinsRéalis | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4446351463 |
