@@ -17074,3 +17074,11 @@
 | Visual Design Specialist - Fully Remote | Upto $150/hr | Mercor | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4439789095 |
 | Backend Developer - C#/.NET (Remote) | Hired | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448171412 |
 | Cost Controller | AtkinsRéalis | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4446351463 |
+| Project Coordinator - Buildings | Graham | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4437489177 |
+| Senior Project Coordinator - Buildings | Graham | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4437486239 |
+| Payroll Specialist | TransCanada Turbines | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4447642962 |
+| Surgical Coordinator | Cloudbreak University District | 2026-08-03 | N | https://ca.indeed.com/viewjob?jk=b14b4f4c56f40c71 |
+| Surface Land Administrator | Roneta | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4446228265 |
+| Java/ React Developer | Synechron | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4402484781 |
+| Infrastructure Analyst | LanceSoft, Inc. | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448212029 |
+| Sales Associate | Talbots | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4447979799 |
