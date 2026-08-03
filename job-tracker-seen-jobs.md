@@ -17057,3 +17057,11 @@
 | Bakery Associate | Walmart Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4448115174 |
 | Sr Technical Advisor, Gas Power Projects | McCord Investments | 2026-08-02 | J | https://www.linkedin.com/jobs/view/4447664360 |
 | Sales Associate-Print&Services | Staples Canada | 2026-08-02 | G | https://www.linkedin.com/jobs/view/4448100728 |
+| FD Coordinator | Islamic Relief Canada | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4447659695 |
+| Case Manager, Intake | The Brenda Strafford Foundation | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448118651 |
+| Employee System Coordinator | Ledcor | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448106931 |
+| Employee System Coordinator | Ledcor | 2026-08-03 | N | https://ca.indeed.com/viewjob?jk=64800eb7f5ae2b92 |
+| Family Counsellor | The Brenda Strafford Foundation | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4448110784 |
+| Program Manager - Tudor Manor - Temporary Full Time | The Brenda Strafford Foundation | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4448104899 |
+| (CAN) Dairy Frozen Associate (11pm-7am) | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448115702 |
+| Customer Service Representative | Indigenous Energy Monitor | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4447663559 |
