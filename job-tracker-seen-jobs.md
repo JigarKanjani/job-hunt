@@ -17082,3 +17082,20 @@
 | Java/ React Developer | Synechron | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4402484781 |
 | Infrastructure Analyst | LanceSoft, Inc. | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4448212029 |
 | Sales Associate | Talbots | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4447979799 |
+| Sales & Group Housing Coordinator | Hilton Garden Inn & Homewood Suits Calga | 2026-08-03 | J | https://ca.indeed.com/viewjob?jk=cc26ba0c8474a72e |
+| Network Operations Lead | Ledcor | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4446942520 |
+| Business Data & AI Specialist – GTM | Indotronix Avani Group | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448218854 |
+| Leadership Associate (Remote) Canada | Altig Organization- Globe Life AO | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448229106 |
+| Senior Payroll Specialist | Robert Half | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4448211923 |
+| Shift Leader | Panda Restaurant Group | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4439144401 |
+| Offensive Security Lead - Penetration Testing | RSM Canada | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4332347156 |
+| Billing Specialist | Ledcor | 2026-08-03 | J | https://www.linkedin.com/jobs/view/4447060370 |
+| Office Administrator | Green Plaza Dental Centre | 2026-08-03 | N | https://ca.indeed.com/viewjob?jk=b34dce10e62f4e9e |
+| Administrative Support Specialist | Navitas Partners, LLC | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4448215013 |
+| Relocation Coordinator | Coordonnateur(trice) Relocalisation | Sinistar | 2026-08-03 | N | https://www.linkedin.com/jobs/view/4448222546 |
+| Front Desk Agent | Hilton Garden Inn & Homewood Suits Calga | 2026-08-03 | G | https://ca.indeed.com/viewjob?jk=52d2ab2f7a845759 |
+| Charter Coordinator | Central Mountain Air | 2026-08-03 | G | https://ca.indeed.com/viewjob?jk=7424f8a9ed087723 |
+| Benefits Adjudicator & ClientCare Specialist | Health Risk Serivces Inc. | 2026-08-03 | G | https://ca.indeed.com/viewjob?jk=ad13c8f3d8045148 |
+| Part-Time Community Associate | Regus | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448378795 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448326588 |
+| Meat Associate | Walmart Canada | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448334462 |
