@@ -17133,3 +17133,10 @@
 | DYNAMITE - Team Leader PT - Southcentre Mall | Groupe Dynamite | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448810136 |
 | Specialist HR Analytics | CPKC | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446271678 |
 | Senior Sourcing Specialist | TES Group Inc. | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448809280 |
+| Contract Security Coordinator | Bell | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4436782272 |
+| Case Manager – Triveri | Enviros WSA | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446607317 |
+| Program Team Lead – Triveri House | Enviros WSA | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446283863 |
+| Supply Chain logistics coordinator | Graniti Vicentia Canada ULC | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448818974 |
+| HSE Coordinator | Bird Construction | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4448820610 |
+| C++ Developer | $65/hr Remote | Crossing Hurdles | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448284123 |
+| Controller | Aston Carter | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448830620 |
