@@ -17149,3 +17149,14 @@
 | Digital Content Analyst: Product Content + eCommerce [AQ-115 | Aquent | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446641188 |
 | Time and Attendance Specialist | IPEX by Aliaxis | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4440322649 |
 | Continuous Improvement Coordinator | Canadian Natural Resources Limited (CNRL | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4436859679 |
+| Prototyping Specialist (Machinist) | Ecolab | 2026-08-04 | J | https://ca.indeed.com/viewjob?jk=8ca512cf8a03b370 |
+| Business Data & AI Specialist | RigUp | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446649547 |
+| Business Data and AI Specialist | SPECTRAFORCE | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446654348 |
+| Senior IAM Systems Support Analyst (Global security) | RBC | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4440514164 |
+| Paving Coordinator | O'Hanlon Paving | 2026-08-04 | N | https://ca.indeed.com/viewjob?jk=d5f46302c17b203b |
+| Business Data & AI Specialist | Net2Source (N2S) | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448627700 |
+| Quality Analyst (Remote) | Hire Feed | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448873314 |
+| Customer Service Associate | RONA | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448887252 |
+| Sales Associate-Print&Services | Staples Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4440318132 |
+| Administrative Assistant | Navitas Partners, LLC | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448505623 |
+| Corporate Controller | Robert Half | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448524638 |
