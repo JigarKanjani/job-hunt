@@ -17140,3 +17140,12 @@
 | HSE Coordinator | Bird Construction | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4448820610 |
 | C++ Developer | $65/hr Remote | Crossing Hurdles | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448284123 |
 | Controller | Aston Carter | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448830620 |
+| Financial Analyst | Siemens Energy | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4439489009 |
+| Sales Support Coordinator (Hybrid) | InterPro Pipe + Steel | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4440369435 |
+| Information Technology Quality Assurance Analyst | Dasro Consulting Inc. | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448862048 |
+| Client Services Coordinator | ParaMed Home Health Care | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448851474 |
+| Technical Application Specialist (Calgary) | S&C Electric Company | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4440075099 |
+| Prototyping Specialist (Machinist) | Ecolab | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448841548 |
+| Digital Content Analyst: Product Content + eCommerce [AQ-115 | Aquent | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446641188 |
+| Time and Attendance Specialist | IPEX by Aliaxis | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4440322649 |
+| Continuous Improvement Coordinator | Canadian Natural Resources Limited (CNRL | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4436859679 |
