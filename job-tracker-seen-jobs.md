@@ -17113,3 +17113,19 @@
 | End User Support Specialist | Sharp Brains | 2026-08-03 | R | https://www.linkedin.com/jobs/view/4446253801 |
 | SALES ASSOCIATE | La Vie En Rose | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448633194 |
 | SALES ASSOCIATE | La Vie En Rose | 2026-08-03 | G | https://www.linkedin.com/jobs/view/4448628263 |
+| Operations Technician - Roofing & Construction | AKRoN ROOFING | 2026-08-04 | J | https://ca.indeed.com/viewjob?jk=26e1435eff56ac2e |
+| Human Resources & Office Coordinator | AURORA FURNITURE MANUFACTURING LTD | 2026-08-04 | J | https://ca.indeed.com/viewjob?jk=15bdf154ecc0d710 |
+| (CAN) Front End Team Lead | Walmart Canada | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448655156 |
+| (CAN) Front End Team Lead | Walmart Canada | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448643342 |
+| Operations Consultant - Part Time | SEPHORA | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448641878 |
+| PE - Civil - Transportation Tutor | Varsity Tutors, a Nerdy Company | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448641783 |
+| Business Lead, Lifecycle Services | Rockwell Automation | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448646109 |
+| Financial Planning Advisor | Imperial Oil | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448653011 |
+| Business Lead, Lifecycle Services | Rockwell Automation | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448630986 |
+| Client Service Coordinator Full - Time | Bayshore HealthCare | 2026-08-04 | N | https://www.linkedin.com/jobs/view/4446264449 |
+| Specialist HR Analytics | CPKC | 2026-08-04 | R | https://ca.indeed.com/viewjob?jk=114015e2fe179aa7 |
+| Specialist HR Analytics | CPKC | 2026-08-04 | R | https://ca.indeed.com/viewjob?jk=d8c2a256690e4a37 |
+| Human Trafficking Intelligence & Data Analyst | CEASE: Centre to Empower Survivors of Se | 2026-08-04 | R | https://ca.indeed.com/viewjob?jk=83f66eb1f8a96d30 |
+| Android Developer | AllianceIT Inc | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448257388 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448658020 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448649190 |
