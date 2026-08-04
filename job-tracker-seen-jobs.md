@@ -17129,3 +17129,7 @@
 | Android Developer | AllianceIT Inc | 2026-08-04 | R | https://www.linkedin.com/jobs/view/4448257388 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448658020 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448649190 |
+| Specialist HR Analytics | CPKC | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446276620 |
+| DYNAMITE - Team Leader PT - Southcentre Mall | Groupe Dynamite | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448810136 |
+| Specialist HR Analytics | CPKC | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4446271678 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-04 | J | https://www.linkedin.com/jobs/view/4448809280 |
