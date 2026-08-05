@@ -17249,3 +17249,25 @@
 | Network Specialist | Raytheon | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=52447bd30b56c6a5 |
 | Project Scheduler | Raytheon | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=72280ac1c81b0bbf |
 | Sales Associate-Print&Services | Staples Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449459199 |
+| Business Analyst | Dasro Consulting Inc. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449489160 |
+| AltaGas - HRIS Analyst | AltaGas Ltd. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448997173 |
+| Application System Analyst | Sobeys | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4440826932 |
+| Resolutions Lead | Affirm | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4439959100 |
+| Financial Reporting Lead | Amrize | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4438040286 |
+| Coordinator, Professional Resources (14-month Contract) | McCarthy Tétrault | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4440858895 |
+| Billing Specialist | Bennett Jones | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4438034016 |
+| Digital Marketing Coordinator | MCG Career College | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447384893 |
+| Integration Specialist | Modern Niagara | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4440801120 |
+| Senior Analyst, HRMS (SAP SuccessFactors) | TransAlta | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4440865088 |
+| HSE Specialist | Chandos Construction | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4439908915 |
+| Photo Lab Specialist | London Drugs | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448000298 |
+| Refinery Planner (NA) | Trindent Consulting | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4438307745 |
+| Buyer | CB&I | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4440870229 |
+| LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449459670 |
+| Student Services Coordinator | MCG Career College | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4447389770 |
+| HEALTH AND SAFETY ADVISOR | Municipal District of Greenview No. 16 | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449471899 |
+| IT Support Technician | MCG Career College | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4447391731 |
+| Jr. Data Analyst - ACX Corporate Support Edmonton | CSJobs.ca | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4448985812 |
+| Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449495252 |
+| General Merchandise Associate - Temp | Walmart | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=ff0952ac419a8731 |
+| General Merchandise Associate | Walmart | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=f156574c8f7d2006 |
