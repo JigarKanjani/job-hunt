@@ -17290,3 +17290,70 @@
 | Financial Investment Analyst (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449601268 |
 | Clinical Applications Specialist - Ultrasound | GE HealthCare | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4440816444 |
 | Sales Receptionist | Brewery District - Massage Heights | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=954a31312086f7ad |
+| Customer Care Advisor, Commercial and Industrial | ATCO | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=f03c70546cd4dcc3 |
+| Lead Layout Designer - Minerals and Metals | Ausenco | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=dee9068f72b9566b |
+| Electronics / RF Engineering & Test Specialist | Nanalysis Corp. | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=28ab046757648be7 |
+| Amazon Catalogue & Listing Specialist | Calgary Fasteners Tool | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=423a3e0d7092d10d |
+| Amazon Catalogue & Listing Specialist | Calgary Fasteners Tool | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=6cb43b1c1a3a34de |
+| Amazon Catalogue & Listing Specialist | Calgary Fasteners Tool | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=3efaa5795fe14b2d |
+| IT Operations Engineer | Cornerstone Building Brands | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=90c50ac62cb33530 |
+| Project Coordinator - Product Support | Ketek Group | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=9b92bd175291a4e3 |
+| Project Coordinator (New Grad) | Ledcor | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=4ae9dae9b323256f |
+| Inventory Specialist | Stichting Mission on Wheels | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449900196 |
+| Planning Analyst | PETRONAS Canada | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449915160 |
+| Logistics Coordinator | Linear Logistics Ltd. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449163140 |
+| Senior Financial Analyst, Financial Planning & Analysis | Superior Gas Liquids | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448056557 |
+| Accounts Payable Specialist | High Tide Inc. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449185868 |
+| Customer Care Advisor, Commercial and Industrial | ATCO | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449312037 |
+| Donor Choice Coordinator | United Way of Calgary and Area | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449155934 |
+| Specialist, Integrated Management System | WSP in Canada | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4438022372 |
+| Operations Program Enablement Student | Bird Construction | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449683666 |
+| Donor Relations & Data Coordinator | Calgary Opera | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449189845 |
+| Customer Care Specialist | Mini Mall Storage Properties | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449904200 |
+| Piping Field Coordinator - Energy Construction | Kiewit | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449142683 |
+| Senior Administrative Assistant, Quality, Operations | MNP | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449196607 |
+| Structural Field Coordinator - Energy & Nuclear Construction | Kiewit | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449131913 |
+| CREATIVE CONTENT COORDINATOR | Professional Association of Canadian The | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449164254 |
+| Lead Event Specialist, Theatres | Mount Royal University | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448055992 |
+| Care Coordinator | Lifemark Health Group | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=1930814e2e90057b |
+| Associate Financial Advisor & Commercial Insurance Advisor | Dickau Insurance and Investment | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=069e5be713ddbc40 |
+| Construction Administrator | Morrison Homes | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=77912cf87a2bf037 |
+| Customer Service Administrator | FMI | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=5b32f2242320c9cc |
+| Human Resources Coordinator | Canadian Immigrant Women's Association | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=6417d9432a6cc27e |
+| Site Coordinator | Kandrea Insulation and Scaffolding | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=9aed24bb1b12c991 |
+| Case Manager – Intensive Supports | Grande Prairie Family Education Society | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=dac29e17f695ac28 |
+| Client Relations Coordinator | Lift Auto Group | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=bbbe8d0adb204a99 |
+| Project Coordinator, Qualico Communities | Qualico Communities Edmonton | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=c3b63b016c0d0900 |
+| Office Coordinator | EFS Plastics Inc. | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=de72ba47e1c825f8 |
+| Appointment Coordinator | Toyota Northwest Edmonton | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=a8a8b70b32caf181 |
+| Council Meeting Coordinator | City of Edmonton | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=bb5658e808feb812 |
+| Student Program Coordinator, IIE | Mount Royal University | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448059380 |
+| Social Media Marketing Specialist | NimbleStride | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449185982 |
+| Business Information Security Officer- Digital and Industria | WSP in Canada | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448080044 |
+| BIM Specialist | AECOM | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449183930 |
+| Banking Advisor Intern | RBC | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449670817 |
+| Associate Financial Advisor | Tusk Financial Services Inc. | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449163473 |
+| Guardianship and Trusteeship Specialist | Easter Seals Alberta | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449692973 |
+| Oracle Data Analyst | Data Elephant | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449146334 |
+| Information Coordinator (Legal Resolution Support Centre) | Government of Alberta | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449301748 |
+| Office Coordinator | EFS-plastics Inc. | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449902894 |
+| Finance Business Analyst | Serefin | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=aa7fecd8828b1d70 |
+| Business Analyst / Scrum Master / Tester | Luxoft | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=8d295b9899528403 |
+| Process Engineer - Sulfur Recovery-Relocate to Saudi Arabia, | aramco | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449689473 |
+| Contract Electronics / RF Engineering & Test Specialist | Nanalysis | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449131952 |
+| Business Analyst, System Work Equipment- EN | CN | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449672572 |
+| Oracle Data Analyst | Affinity | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449194640 |
+| Automation Test | Lever Middleware Test Company | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4445565764 |
+| Veterinary Assistant/Receptionist | Auburn Bay Veterinary Clinic | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=8d9dcc2bf910f466 |
+| Graphic Designer & Receptionist | planet signs ltd | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=df9d48b9294fc519 |
+| Graphic Designer & Receptionist | planet signs ltd | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=79ae376bdca4f601 |
+| Counter Sales Associate, Calgary | Wolseley Canada, Inc. | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=4dfee61e8fb438a6 |
+| Receiving Associate | Well.ca Inc | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=8b7bd6f46a8541cd |
+| Beauty Sales Specialist (Full-Time) | Modern Beauty | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=4686b4a4a27d9300 |
+| Receptionist | BDO Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4446368999 |
+| Counter Sales Associate, Calgary | Wolseley Canada Inc. | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449690416 |
+| Receptionist - AgeCare Walden Heights | AgeCare | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449071145 |
+| Personal Banking Associate | BMO | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449916056 |
+| Fitness Centre Associate | Mount Royal University | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448072030 |
+| Customer Service Representative | U-Haul | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449696214 |
+| Administrator Store-PT | Sobeys | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449910277 |
