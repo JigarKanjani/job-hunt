@@ -17238,3 +17238,14 @@
 | Sales Associate - Hyatt Infiniti | AutoCanada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448924510 |
 | Sales Associate | RONA | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449433472 |
 | Personal Banking Associate Trainee | TD | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4447339237 |
+| Procurement Solutions Specialist | Ledcor | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=d2542addf57030bc |
+| Procurement Solutions Specialist | Ledcor | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=f436ac9ed816b6ef |
+| Procurement Solutions Specialist | Ledcor | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448936752 |
+| Wholesale Parts Advisor | Wood Automotive Group | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447357686 |
+| Supply Chain Transparency | Ark Intelligence | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448988017 |
+| Procurement Solutions Specialist | Ledcor | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448950569 |
+| *Repost* Intake Assessor – Children’s Services | Siksika Family Services Corporation | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448957582 |
+| Child and Youth Worker | Closer to Home Community Services | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449441848 |
+| Network Specialist | Raytheon | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=52447bd30b56c6a5 |
+| Project Scheduler | Raytheon | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=72280ac1c81b0bbf |
+| Sales Associate-Print&Services | Staples Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449459199 |
