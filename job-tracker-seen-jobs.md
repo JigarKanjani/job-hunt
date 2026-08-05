@@ -17357,3 +17357,49 @@
 | Fitness Centre Associate | Mount Royal University | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448072030 |
 | Customer Service Representative | U-Haul | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449696214 |
 | Administrator Store-PT | Sobeys | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449910277 |
+| Project Coordinator – Structural Steel & Miscellaneous Metal | The Welding Shop | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=2e4fbf913d4e85f7 |
+| Branch Care Coordinator | Air Liquide | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=249aa34015003c7a |
+| Sr HRMS Business Analyst & Process Solutions Specialist (Hyb | Calgary Board Of Education | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=2685184cdb0dde37 |
+| Workplace Health and Safety Specialist, Early Career – (2027 | Amazon.com | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=9174db9a3d14be0f |
+| Community Case Manager | Calgary Dream Centre | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=53ec32fa4a7371ed |
+| SPD - Payroll Product Specialist - Tier 1 - Calgary | PBS Systems | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=82184c35cf23248d |
+| Procurement Manager | GeologicAI | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448079435 |
+| Business Data & AI Specialist | Airswift | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448082162 |
+| Senior Market Risk Analyst | Cenovus Energy | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449919548 |
+| IT Product Support Specialist | Marsh | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449927516 |
+| Sr HRMS Business Analyst & Process Solutions Specialist (Hyb | Calgary Board of Education | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449905922 |
+| Client Experience Coordinator | The New Network | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449316278 |
+| Shop Design Specialist I | IKEA | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449321067 |
+| Sales & Growth Associate– Leadership Track | Altig Organization- Globe Life AO | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449196616 |
+| SAP - BTP Development & Integration Lead | Suncor | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449913099 |
+| Office Coordinator | Benevity | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449326126 |
+| Senior Business Analyst (Enterprise Jira Migration) | Raise | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449904283 |
+| Research & Enrolment Analyst | University of Alberta | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449927418 |
+| Research & Enrolment Analyst (Temporary) | University of Alberta | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449925424 |
+| Maintenance Planner | Air Products | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449914772 |
+| Admissions Advisor (Education Sales & Call Center Focus) | RCB College | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=6344cec6eeb5fe07 |
+| Senior Cyber Security Specialist | Sobeys | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=b3a13e46b050e1c0 |
+| Project Support Administrator | Equinox Engineering | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=8eec10667ac2d199 |
+| Program Coordinator (FT) - Home Support | Catholic Social Services | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=e3de13f1b6d3aee6 |
+| Human Resources Coordinator | unitiiPM Inc. | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=5f5f5407616febb7 |
+| HSE Administrator | Tuccaro Inc. | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=bcf36c458988e7cf |
+| Project Coordinator - Architecture | WalterFedy | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=19ccc93ee4bd36aa |
+| Coverage Office Administrator (full time) - All Locations | Momentum Health | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=6e4987a97122878d |
+| Marketing & Community Engagement Coordinator | Clearview A&W | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=8a04779467d05400 |
+| Project Coordinator | Jayson Global | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=635931b8a33a4841 |
+| HSE Coordinator | Tuccaro Inc. | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=ae722d71ca8d3b00 |
+| Payroll Administrator | Sabail FC | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448066466 |
+| Talent Acquisition Coordinator | University of Alberta | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449925423 |
+| Council Meeting Coordinator | City of Edmonton | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448068506 |
+| Service Coordinator | Hercules Crane & Lifting Supplies | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449931314 |
+| New Business Administrator | IDC Worldsource Insurance Network Inc. | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4382441712 |
+| Marketing Specialist | Marlow Design | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=8016c02e2cfca6b3 |
+| Research & Enrolment Analyst (Temporary) | University of Alberta | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=6fbcf7360a31a873 |
+| Research & Enrolment Analyst | University of Alberta | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=828ae3bf2cc95293 |
+| Automotive Fixed Ops Software Trainer | PBS Systems | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=3ff8fc041e0ddd81 |
+| Student Programmer Analyst | HUB International | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=284afdb233dabe20 |
+| Sr Analyst | HCLTech | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=cc10ab43dae9a22c |
+| Implementation Specialist II | Push Operations | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449932623 |
+| Accounts Payable Specialist | High Tide | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=b9abea7b3b97f032 |
+| Controller | Bearspaw First Nation | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=6865ecedb9a5354e |
+| Associate Sales Professional – Calgary | Manitoulin Transport | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449929404 |
