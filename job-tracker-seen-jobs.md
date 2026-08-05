@@ -17271,3 +17271,22 @@
 | Backend Developer - C#/.NET (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449495252 |
 | General Merchandise Associate - Temp | Walmart | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=ff0952ac419a8731 |
 | General Merchandise Associate | Walmart | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=f156574c8f7d2006 |
+| Operations Management Associate - Food Manufacturing | Cargill | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=52081a6944f41ce5 |
+| Operations Management Associate - Food Manufacturing | Cargill | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=c29015410fe142f4 |
+| Logistics Administrator - Contract | Superior Gas Liquids | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448015278 |
+| Client Service Advisor | Calculated Hire | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449111202 |
+| Purchasing and Replenishment Agent | Wolseley Canada Inc. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4413483322 |
+| Inventory Management Coordinator | BGIS | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4439920939 |
+| Business Analyst | $60/hr Remote | Crossing Hurdles | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448989730 |
+| Instructor – Case Manager Educator | Alberta Health Services | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=5a933abd346c7b31 |
+| Officer, Access and Privacy | Regional Municipality of Wood Buffalo | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449494817 |
+| BIM Specialist | AECOM | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4448016196 |
+| Data Analyst - Finance (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449495359 |
+| Research Analyst | $60/hr Remote | Crossing Hurdles | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4448996656 |
+| Financial Data Analyst (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449601078 |
+| AI Analyst (Remote) | Quik Hire Staffing | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449492979 |
+| Financial Analyst | $40/hr Remote | Crossing Hurdles | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4439857097 |
+| Finance Analyst (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449483728 |
+| Financial Investment Analyst (Remote) | Hire Feed | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449601268 |
+| Clinical Applications Specialist - Ultrasound | GE HealthCare | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4440816444 |
+| Sales Receptionist | Brewery District - Massage Heights | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=954a31312086f7ad |
