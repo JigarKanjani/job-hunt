@@ -17160,3 +17160,54 @@
 | Sales Associate-Print&Services | Staples Canada | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4440318132 |
 | Administrative Assistant | Navitas Partners, LLC | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448505623 |
 | Corporate Controller | Robert Half | 2026-08-04 | G | https://www.linkedin.com/jobs/view/4448524638 |
+| Payroll Specialist/ Accounting Technician(Punjabi & Hindi an | KL Accounting & Tax Associates | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=b2f1bcc4ea8b8146 |
+| Data and Integrations Specialist | TC Energy | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=58854de960542ca8 |
+| Cyber Security Compliance Analyst | Ledcor | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=d7df4ec64a4268af |
+| Analyst, analytics and reporting | Canada Mortgage and Housing Corporation  | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=8055c36f265306a3 |
+| Distribution Coordinator (CSR) | Capital Fine Meats | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=f1705d3f0362ed67 |
+| Software Asset Management Analyst | Southern Alberta Institute of Technology | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=efa82f4661155516 |
+| PepsiCo Canada: Supply Chain 2027 New Grad | PepsiCo | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447311134 |
+| Analyst, analytics and reporting | Canada Mortgage and Housing Corporation  | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449097032 |
+| Data and Integrations Specialist | TC Energy | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4446694879 |
+| Field Work Planner | TC Energy | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4446689969 |
+| Associate Content Analyst | Critical Mass | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448903135 |
+| Senior TIPS Support Analyst | Pembina Pipeline Corporation | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449086414 |
+| Cyber Security Compliance Analyst | Ledcor | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449083783 |
+| Technical Delivery Specialist | Vision33 | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449084649 |
+| E&HS Advisor | Global Power Technologies | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448584845 |
+| Business Process Lead - Procurement & Manufacturing | Rockwell Automation | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449099037 |
+| HubSpot Data Analyst | RECRUITMENT PARTNERS INC. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449089756 |
+| Supply Chain Support Associate | Terra Grain Fuels, Inc. | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448590533 |
+| Analyst 1 | Bureau Veritas | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448597203 |
+| Maintenance Office Coordinator, Banff Lodging | Pursuit | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4446691965 |
+| Hyper Automation Lead - 12 month term | WestJet | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449441210 |
+| Care Coordinator - Didsbury | Harrison Family Vets | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448908127 |
+| PepsiCo Canada: Supply Chain 2027 New Grad | PepsiCo | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447301775 |
+| Planner II | Regional Municipality of Wood Buffalo | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449404780 |
+| Strategic Advisor, Planning and Development | TalentCompass | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4449092552 |
+| Payroll Accounting Coordinator (5-Month Contract) | Ross Video | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=a231977aa022b438 |
+| Site and Warranty Coordinator | Paradigm Building Solutions Ltd | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=19633d100f265617 |
+| Client Intake Coordinator | Greg White Defence | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=573b5b9017c3905c |
+| Planning Analyst | Government Of Alberta | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=09f46c5ced5f5e23 |
+| Internal Events Specialist I | Affirm | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448598822 |
+| Human Resources Coordinator | Associated Engineering | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4447306270 |
+| Land Administrator | MVP Talent Corp | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449099422 |
+| Recreation Coordinator | Regional Municipality of Wood Buffalo | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449402854 |
+| Employment Specialist | Prospect Human Services Society | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449441005 |
+| Technical Support Specialist | Vending Spots Inc. | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=4f9f9b876aff5b3a |
+| Cyber Security Compliance Analyst | Ledcor | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449081846 |
+| Clinical Systems Analyst | Alignerr | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4449425243 |
+| Agent à la réception | Hostelling International Canada | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=33f00a40753512f2 |
+| Front Desk Agent | Hostelling International Canada | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=bf3e5cbb8a95e921 |
+| Personal Banking Associate Trainee | TD | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=bbe069cffc77a838 |
+| Customer Experience Associate | TD | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=3a663f11b13dd3f8 |
+| Personal Banking Associate Trainee | TD | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=b92d2d421b50919e |
+| Receptionist | CBI Health | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449099827 |
+| GYMVMT Front Desk Associate - Calgary Beacon Heights | GoodLife Fitness | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4447316451 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449089768 |
+| Clinic Experience Associate | CBI Health | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449416168 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449403033 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449093683 |
+| Customer Service Instant Return Representative | Hertz | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448911298 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449095622 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449096510 |
