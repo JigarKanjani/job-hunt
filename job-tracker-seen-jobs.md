@@ -17211,3 +17211,30 @@
 | Customer Service Instant Return Representative | Hertz | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448911298 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449095622 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449096510 |
+| HSE Advisor | Lifting Solutions Inc. | 2026-08-05 | J | https://ca.indeed.com/viewjob?jk=ee6fcc6b49440c3f |
+| Supply Chain Analyst | DV8 Energy Inc | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447328936 |
+| Billing Specialist | HUB International | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447312965 |
+| Inside Sales Specialist - Industrial Automation & Production | DV8 Energy Inc | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447341305 |
+| Service Leader | Chipotle Mexican Grill | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447344010 |
+| Lead Penetration Test Engineer | S&P Global | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448921666 |
+| Senior Personal Lines Advisor | HUB International | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4447323572 |
+| GARAGE - Team Leader PT - CrossIron Mills | Groupe Dynamite | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448941066 |
+| Planning Analyst | Government of Alberta | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448925487 |
+| Senior Data Analyst | Government of Alberta | 2026-08-05 | J | https://www.linkedin.com/jobs/view/4448927480 |
+| Processing Center Advisor/Assessor (Calgary) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=0e6fa39753dc2c4d |
+| Senior Personal Lines Advisor | HUB International | 2026-08-05 | N | https://ca.indeed.com/viewjob?jk=9325e9e2861f26fa |
+| Accounting Administrator | CIE Property Management & Consulting Inc | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4448916960 |
+| Employability Officer | NHS Scotland | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4447350188 |
+| Service to the Armed Forces: Specialist | American Red Cross | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449443538 |
+| Program Administrator / Customer Service Representative (Gov | Amyantek | 2026-08-05 | N | https://www.linkedin.com/jobs/view/4449429854 |
+| Billing Specialist | HUB International | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=df940883e29cf700 |
+| Asset Management Analyst | City of St. Albert | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=6a8bc8abc5c6682a |
+| AltaGas - HRIS Analyst | AltaGas | 2026-08-05 | R | https://ca.indeed.com/viewjob?jk=050f418d4cebd038 |
+| Mobile Application Developer | RigER │ Oilfield Job Management Software | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4448953060 |
+| Automation Engineer/Technologist (Process Systems and Softwa | Spartan Controls | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4448948414 |
+| Artificial Lift Automation Field Technician | DV8 Energy Inc | 2026-08-05 | R | https://www.linkedin.com/jobs/view/4447339363 |
+| Sales Associate - Hyatt Infiniti | AutoCanada | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=bbf7913f4d41f7b3 |
+| Personal Banking Associate Trainee | TD | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4447344183 |
+| Sales Associate - Hyatt Infiniti | AutoCanada | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4448924510 |
+| Sales Associate | RONA | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449433472 |
+| Personal Banking Associate Trainee | TD | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4447339237 |
