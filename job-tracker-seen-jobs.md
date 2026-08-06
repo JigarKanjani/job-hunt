@@ -17403,3 +17403,26 @@
 | Accounts Payable Specialist | High Tide | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=b9abea7b3b97f032 |
 | Controller | Bearspaw First Nation | 2026-08-05 | G | https://ca.indeed.com/viewjob?jk=6865ecedb9a5354e |
 | Associate Sales Professional – Calgary | Manitoulin Transport | 2026-08-05 | G | https://www.linkedin.com/jobs/view/4449929404 |
+| Project Planner | Sandvik | 2026-08-06 | J | https://ca.indeed.com/viewjob?jk=9000f0b8365c53d0 |
+| Lead Coordinator, Guest Logistics | CMH Heli-Skiing & Summer Adventures | 2026-08-06 | J | https://ca.indeed.com/viewjob?jk=a1b74e462707ab0e |
+| SPD - Payroll Product Specialist - Tier 1 | PBS Systems | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4448081899 |
+| SPD - Payroll Product Specialist - Tier 1 | PBS Systems | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4448094058 |
+| Leadership Development Consultant - Remote | The Simplified Life | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4448400314 |
+| SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4450211514 |
+| LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4449991806 |
+| GENERAL BUSINESS & INDUSTRIAL SPECIALIST | Naval Air Warfare Center Training System | 2026-08-06 | J | https://www.linkedin.com/jobs/view/4450202787 |
+| Marketing and Social Media Coordinator | Apple Tutoring | 2026-08-06 | N | https://ca.indeed.com/viewjob?jk=3e2a96e0495044b8 |
+| Indigenous Relations – Cultural Facilitator | Hull Services | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4448092519 |
+| Reflections – Outreach Child and Youth Care Counsellor Level | Hull Services | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4448085834 |
+| Preadolescent Treatment Program – Child and Youth Care Couns | Hull Services | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4448093524 |
+| Kinship Lodge – Child and Youth Care Counsellor | Hull Services | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4448089505 |
+| Braze Certified Specialist | Digital | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4450216199 |
+| ADA/504 Coordinator | Boone Center for the Family | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4450207666 |
+| Protective Services Officer II | Alberta Health Services | 2026-08-06 | N | https://www.linkedin.com/jobs/view/4449369701 |
+| Automotive Fixed Ops Software Trainer | PBS Systems | 2026-08-06 | R | https://www.linkedin.com/jobs/view/4448081893 |
+| Cloud Information Systems Technician | PT Hatfield Indonesia | 2026-08-06 | R | https://www.linkedin.com/jobs/view/4450210346 |
+| Automotive Accounting Trainer– Training and Implementation | PBS Systems | 2026-08-06 | R | https://www.linkedin.com/jobs/view/4448095060 |
+| Automotive Accounting Trainer– Training and Implementation | PBS Systems | 2026-08-06 | R | https://www.linkedin.com/jobs/view/4448085416 |
+| Administrative Support IV | Recovery Alberta | 2026-08-06 | G | https://ca.indeed.com/viewjob?jk=b96d78e43015ce1f |
+| Administrative Support IV | Recovery Alberta | 2026-08-06 | G | https://ca.indeed.com/viewjob?jk=aa24f7ae9842a54d |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-06 | G | https://www.linkedin.com/jobs/view/4450208038 |
