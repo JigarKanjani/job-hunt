@@ -17426,3 +17426,21 @@
 | Administrative Support IV | Recovery Alberta | 2026-08-06 | G | https://ca.indeed.com/viewjob?jk=b96d78e43015ce1f |
 | Administrative Support IV | Recovery Alberta | 2026-08-06 | G | https://ca.indeed.com/viewjob?jk=aa24f7ae9842a54d |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-06 | G | https://www.linkedin.com/jobs/view/4450208038 |
+| Service Advisor | Bosch Truck Group / Bosch Idealease | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4451059369 |
+| Inside Sales Specialist - Automotive | PBS Systems | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4451051563 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4451040815 |
+| Automotive Accounting Software Onboarding Specialist | PBS Systems | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4451035948 |
+| Service Delivery Coordinator - Tractor | Baker Hughes | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4446543077 |
+| Media Buyer | Taurify | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4450585493 |
+| Employment Specialist | Open Door Group | 2026-08-08 | N | https://ca.indeed.com/viewjob?jk=08c0ca72547cb464 |
+| MSA Spirituality and Progression through Integration of Rete | SPACES at UC San Diego | 2026-08-08 | N | https://www.linkedin.com/jobs/view/4451060056 |
+| MSA Spirituality and Progression through Integration of Rete | SPACES at UC San Diego | 2026-08-08 | N | https://www.linkedin.com/jobs/view/4451041984 |
+| Child and Youth Worker | Closer to Home Community Services | 2026-08-08 | N | https://www.linkedin.com/jobs/view/4451060176 |
+| AI & Internal Tools Developer | Stichting Mission on Wheels | 2026-08-08 | R | https://www.linkedin.com/jobs/view/4451052654 |
+| Administrative Support V | Primary Care Alberta | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=d2a7b4bede5cb12e |
+| Administrative Support V | Primary Care Alberta | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=5b7b608fdf4bd085 |
+| Graduate Applications Administrator, Faculty of Graduate Stu | University of Calgary | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=d276d0b03e8eed76 |
+| Graduate Applications Administrator, Faculty of Graduate Stu | University of Calgary | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=6648c9e257b28242 |
+| Research Associate, Faculty of Science | University of Calgary | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=c9e18a461ac94ef0 |
+| Sales Associate Part Time - Chinook Centre | Wow! Mobile Boutique | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=bd2f026610797c18 |
+| Administrative Support III | Alberta Health Services | 2026-08-08 | G | https://www.linkedin.com/jobs/view/4450574893 |
