@@ -17444,3 +17444,10 @@
 | Research Associate, Faculty of Science | University of Calgary | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=c9e18a461ac94ef0 |
 | Sales Associate Part Time - Chinook Centre | Wow! Mobile Boutique | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=bd2f026610797c18 |
 | Administrative Support III | Alberta Health Services | 2026-08-08 | G | https://www.linkedin.com/jobs/view/4450574893 |
+| Media Buyer & Creative Strategist | Cerberus Auto Styling | 2026-08-08 | J | https://ca.indeed.com/viewjob?jk=3b92e0afeeb7cac5 |
+| Disability Case Manager II | Co-operators | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4451093941 |
+| Lead Consultant - SAP ATTP | Infosys | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4449265671 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-08 | J | https://www.linkedin.com/jobs/view/4449271581 |
+| SCCM Administrator | LanceSoft, Inc. | 2026-08-08 | N | https://www.linkedin.com/jobs/view/4450399041 |
+| Administrative Assistant/Receptionist | Wilson Wong Prof Corp | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=5b0e70c693b4f35b |
+| Full-Time Receptionist - School - Windsong Heights School | Rocky View Schools | 2026-08-08 | G | https://www.linkedin.com/jobs/view/4450927290 |
