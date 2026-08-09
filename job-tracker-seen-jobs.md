@@ -17465,3 +17465,8 @@
 | Administrative Assistant (6-month Contract) | Boardwalk | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4450945263 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451331214 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4451333571 |
+| Patient Booking & Front Desk Coordinator | Power Physiotherapy and Massage Ltd | 2026-08-09 | J | https://ca.indeed.com/viewjob?jk=ca4b0bb2af687db8 |
+| Immigration Specialist | Walshkon Consultants | 2026-08-09 | J | https://www.linkedin.com/jobs/view/4450916662 |
+| Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4451352990 |
+| Admin & Systems Teammate-PT | Sobeys | 2026-08-09 | R | https://www.linkedin.com/jobs/view/4451359662 |
+| Business Development Associate | MERCANTILE EXCHANGE CORPORATION | 2026-08-09 | G | https://ca.indeed.com/viewjob?jk=dd4cf75c3dedf9ec |
