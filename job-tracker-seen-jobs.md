@@ -17460,3 +17460,4 @@
 | (CAN) Consumables Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451304531 |
 | Office Administrator | Gold Key Learning | 2026-08-09 | N | https://ca.indeed.com/viewjob?jk=4d67f50d2ce39da4 |
 | Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4451309816 |
+| Healthcare Staffing & Recruitment Coordinator | Lynaset Healthcare Inc | 2026-08-09 | R | https://ca.indeed.com/viewjob?jk=7f09716e174c3789 |
