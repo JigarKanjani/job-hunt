@@ -17451,3 +17451,10 @@
 | SCCM Administrator | LanceSoft, Inc. | 2026-08-08 | N | https://www.linkedin.com/jobs/view/4450399041 |
 | Administrative Assistant/Receptionist | Wilson Wong Prof Corp | 2026-08-08 | G | https://ca.indeed.com/viewjob?jk=5b0e70c693b4f35b |
 | Full-Time Receptionist - School - Windsong Heights School | Rocky View Schools | 2026-08-08 | G | https://www.linkedin.com/jobs/view/4450927290 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-08-09 | J | https://www.linkedin.com/jobs/view/4451304463 |
+| (CAN) Produce Team Lead | Walmart Canada | 2026-08-09 | J | https://www.linkedin.com/jobs/view/4451309254 |
+| Bakery Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451302478 |
+| (CAN) Asset Protection Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451305411 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451095932 |
+| (CAN) Electronics Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451303521 |
+| (CAN) Consumables Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451304531 |
