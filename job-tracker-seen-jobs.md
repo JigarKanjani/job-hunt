@@ -17464,3 +17464,4 @@
 | Parking Enforcement Officer | LAZ Parking | 2026-08-09 | J | https://www.linkedin.com/jobs/view/4451340085 |
 | Administrative Assistant (6-month Contract) | Boardwalk | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4450945263 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-09 | G | https://www.linkedin.com/jobs/view/4451331214 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-08-09 | N | https://www.linkedin.com/jobs/view/4451333571 |
