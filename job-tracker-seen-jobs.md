@@ -17483,3 +17483,4 @@
 | Land Administrator | MVP Talent Corp | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4450646054 |
 | Marketing Coordinator | Victor Energy | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4451396097 |
 | Customer Experience Specialist | Timothy Fred's Furniture | 2026-08-10 | G | https://ca.indeed.com/viewjob?jk=9275a6c43ec0f6d2 |
+| Rental Coordinator | Cooper Equipment Rentals Limited | 2026-08-10 | J | https://www.linkedin.com/jobs/view/4449512792 |
