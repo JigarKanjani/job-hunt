@@ -17478,3 +17478,8 @@
 | Calgary Sales Associate | Lake Louise Ski Resort | 2026-08-10 | G | https://ca.indeed.com/viewjob?jk=4eccfbaee4019cc8 |
 | Microsoft Office Tutor | Varsity Tutors, a Nerdy Company | 2026-08-10 | G | https://www.linkedin.com/jobs/view/4451377167 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-08-10 | G | https://www.linkedin.com/jobs/view/4451378067 |
+| Logistics Coordinator | Eco-Pro Services Inc. | 2026-08-10 | J | https://ca.indeed.com/viewjob?jk=090fdc06ef6f3fe5 |
+| Dough Production Worker | Domino's | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4449519745 |
+| Land Administrator | MVP Talent Corp | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4450646054 |
+| Marketing Coordinator | Victor Energy | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4451396097 |
+| Customer Experience Specialist | Timothy Fred's Furniture | 2026-08-10 | G | https://ca.indeed.com/viewjob?jk=9275a6c43ec0f6d2 |
