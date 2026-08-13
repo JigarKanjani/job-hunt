@@ -17484,3 +17484,8 @@
 | Marketing Coordinator | Victor Energy | 2026-08-10 | N | https://www.linkedin.com/jobs/view/4451396097 |
 | Customer Experience Specialist | Timothy Fred's Furniture | 2026-08-10 | G | https://ca.indeed.com/viewjob?jk=9275a6c43ec0f6d2 |
 | Rental Coordinator | Cooper Equipment Rentals Limited | 2026-08-10 | J | https://www.linkedin.com/jobs/view/4449512792 |
+| Team Lead, Distribution Center | Master | 2026-08-13 | J | https://www.linkedin.com/jobs/view/4453681114 |
+| Coordinator I - Facilities Maintenance & Engineering | Alberta Health Services | 2026-08-13 | J | https://www.linkedin.com/jobs/view/4452919104 |
+| Safety and Training Leader | Pacific Western Transportation Ltd | 2026-08-13 | J | https://www.linkedin.com/jobs/view/4450462708 |
+| Senior Transformation Analyst | Cenovus Energy | 2026-08-13 | N | https://ca.indeed.com/viewjob?jk=05d2b806bcf99c17 |
+| Disability Case Management Advisor | ExxonMobil | 2026-08-13 | N | https://ca.indeed.com/viewjob?jk=6b5498bb6735d640 |
