@@ -17489,3 +17489,14 @@
 | Safety and Training Leader | Pacific Western Transportation Ltd | 2026-08-13 | J | https://www.linkedin.com/jobs/view/4450462708 |
 | Senior Transformation Analyst | Cenovus Energy | 2026-08-13 | N | https://ca.indeed.com/viewjob?jk=05d2b806bcf99c17 |
 | Disability Case Management Advisor | ExxonMobil | 2026-08-13 | N | https://ca.indeed.com/viewjob?jk=6b5498bb6735d640 |
+| Provincial Research Coordinator | Primary Care Alberta | 2026-08-14 | J | https://ca.indeed.com/viewjob?jk=4c42817a194a1078 |
+| Marketing Coordinator | cmi | 2026-08-14 | J | https://www.linkedin.com/jobs/view/4453522432 |
+| Application Specialist, Automation and Industrial Networking | Siemens | 2026-08-14 | J | https://www.linkedin.com/jobs/view/4453517090 |
+| Underwriting Specialist, Delegated Authority | Link Canada : 2SLGBTQ+ Insurance Network | 2026-08-14 | J | https://www.linkedin.com/jobs/view/4454500055 |
+| Intermediate Instrumentation and Controls specialist | Kleinfelder | 2026-08-14 | J | https://www.linkedin.com/jobs/view/4444744050 |
+| Parts Specialist - External Customer Support | Manulift | 2026-08-14 | J | https://www.linkedin.com/jobs/view/4454370339 |
+| Indigenous Clinical Supervisor – Contact Center Coordinator | Primary Care Alberta | 2026-08-14 | N | https://ca.indeed.com/viewjob?jk=29dcc676df6c7382 |
+| Social Worker | Recovery Alberta | 2026-08-14 | N | https://ca.indeed.com/viewjob?jk=6304cdf93001144a |
+| Automation Engineer - Controls & Automation | Ecolab | 2026-08-14 | R | https://ca.indeed.com/viewjob?jk=0e3d78831192c87d |
+| Application Specialist, Automation and Industrial Networking | Siemens | 2026-08-14 | R | https://www.linkedin.com/jobs/view/4453524073 |
+| Administrative Support IV – Virtual MD/OCTP | Primary Care Alberta | 2026-08-14 | G | https://ca.indeed.com/viewjob?jk=0f4e6c284e654639 |
