@@ -17526,3 +17526,8 @@
 | Lead Teacher – Left Brain (Jumping Junipers) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454874551 |
 | Lead Teacher – Right Brain (Pondering Pines) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454859697 |
 | Administrative Support IV | Recovery Alberta | 2026-08-15 | G | https://ca.indeed.com/viewjob?jk=878422741931eb41 |
+| Department Leader | Princess Auto | 2026-08-15 | J | https://ca.indeed.com/viewjob?jk=8c143b71e28be4b2 |
+| Senior Financial Systems Analyst - Accounting | Parkland Corporation | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4451724895 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4455142283 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-08-15 | N | https://www.linkedin.com/jobs/view/4455142216 |
+| WordPress/WooCommerce Developer (Freelance) | Abrite | 2026-08-15 | R | https://ca.indeed.com/viewjob?jk=e69f540c6b5b2a49 |
