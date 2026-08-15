@@ -17500,3 +17500,26 @@
 | Automation Engineer - Controls & Automation | Ecolab | 2026-08-14 | R | https://ca.indeed.com/viewjob?jk=0e3d78831192c87d |
 | Application Specialist, Automation and Industrial Networking | Siemens | 2026-08-14 | R | https://www.linkedin.com/jobs/view/4453524073 |
 | Administrative Support IV – Virtual MD/OCTP | Primary Care Alberta | 2026-08-14 | G | https://ca.indeed.com/viewjob?jk=0f4e6c284e654639 |
+| Logistics Manager | Calgary Food Bank | 2026-08-15 | J | https://ca.indeed.com/viewjob?jk=0e9cedb4532b5f66 |
+| Workforce Analyst | Distress Centre Calgary | 2026-08-15 | J | https://ca.indeed.com/viewjob?jk=16e99c7e4a492ddc |
+| Yard Coordinator | Savanna | 2026-08-15 | J | https://ca.indeed.com/viewjob?jk=1119d404c556c199 |
+| Corporate Card Administrator, Financial Operations | University of Calgary | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454844944 |
+| Conflicts Specialist | Gowling WLG | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4453752248 |
+| Lead - HR | Infosys | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4451713292 |
+| Specialist, Indigenous Intercultural Education | University of Calgary | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4453369343 |
+| Operations Consultant - Part Time | SEPHORA | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454856816 |
+| Lead Teacher – Left Brain (Jumping Junipers) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454874551 |
+| Lead Teacher – Right Brain (Pondering Pines) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454859697 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4451704384 |
+| Operations Lead - Full Time | SEPHORA | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454862759 |
+| HSE Advisor, Program Development | CDN Controls ULC | 2026-08-15 | N | https://ca.indeed.com/viewjob?jk=ace08173b92da797 |
+| Sales Administrator | Bilton Welding and Manufacturing | 2026-08-15 | N | https://ca.indeed.com/viewjob?jk=127d06c3849e9e44 |
+| Office Programs Coordinator | Explore Edmonton | 2026-08-15 | N | https://ca.indeed.com/viewjob?jk=d381877e7e7c882d |
+| Service Operations Coordinator | King's Energy Services | 2026-08-15 | N | https://ca.indeed.com/viewjob?jk=65f18a4b5b643449 |
+| Administrative Assistant, Residence Services | Olds College of Agriculture & Technology | 2026-08-15 | N | https://www.linkedin.com/jobs/view/4454326857 |
+| Administrative Support – Foster Care Program | Enviros WSA | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454869563 |
+| Personal Banking Associate Trainee | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454867078 |
+| Associate, Commercial National Accounts | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454861049 |
+| Personal Banking Associate Trainee | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454857165 |
+| Personal Banking Associate Trainee | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454849917 |
+| Administrative Assistant | Boardwalk | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4453900669 |
