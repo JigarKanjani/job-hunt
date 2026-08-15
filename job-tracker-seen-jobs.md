@@ -17523,3 +17523,6 @@
 | Personal Banking Associate Trainee | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454857165 |
 | Personal Banking Associate Trainee | TD | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4454849917 |
 | Administrative Assistant | Boardwalk | 2026-08-15 | G | https://www.linkedin.com/jobs/view/4453900669 |
+| Lead Teacher – Left Brain (Jumping Junipers) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454874551 |
+| Lead Teacher – Right Brain (Pondering Pines) | West 85th | FB Education Services | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4454859697 |
+| Administrative Support IV | Recovery Alberta | 2026-08-15 | G | https://ca.indeed.com/viewjob?jk=878422741931eb41 |
