@@ -17546,3 +17546,8 @@
 | Payroll & Benefits Administrator | Canada Malting Co. Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4453701065 |
 | Personal Banking Associate | TD | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455162178 |
 | Operations Consultant - Part Time | SEPHORA | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455171484 |
+| Operations Consultant - Part Time | Sephora | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=726df6f489b6ef88 |
+| Senior Financial Systems Analyst - Accounting | Parkland Corporation | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=9366e3061cea931f |
+| Specialist, Facilities Planning, Facilities Development | University of Calgary | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=ff821fff341d258c |
+| Senior Advisor, Infrastructure Advisory | Colliers Project Leaders | Canada | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4423511878 |
+| Processing Engineer | Decibel Cannabis Company | 2026-08-16 | R | https://ca.indeed.com/viewjob?jk=2fab5294cdbcdae4 |
