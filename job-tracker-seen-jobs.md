@@ -17545,3 +17545,4 @@
 | Senior Sourcing Specialist | TES Group Inc. | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4451770538 |
 | Payroll & Benefits Administrator | Canada Malting Co. Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4453701065 |
 | Personal Banking Associate | TD | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455162178 |
+| Operations Consultant - Part Time | SEPHORA | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455171484 |
