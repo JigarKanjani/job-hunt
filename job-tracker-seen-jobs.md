@@ -17561,3 +17561,7 @@
 | Sales Associate | Foot Locker | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4406768701 |
 | Proposal Coordinator | Forbes Bros. Group of Companies | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4454565182 |
 | Data Annotation Specialist, Data Science | Cohere | 2026-08-16 | R | https://www.linkedin.com/jobs/view/4435486450 |
+| Digital Fulfillment Team Lead | Walmart Canada | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455181892 |
+| Business Intelligence Consultant (Remote) | Quik Hire Staffing | 2026-08-16 | R | https://www.linkedin.com/jobs/view/4437105344 |
+| Stock Unloader Associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455182849 |
+| overnight associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455185782 |
