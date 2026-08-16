@@ -17565,3 +17565,5 @@
 | Business Intelligence Consultant (Remote) | Quik Hire Staffing | 2026-08-16 | R | https://www.linkedin.com/jobs/view/4437105344 |
 | Stock Unloader Associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455182849 |
 | overnight associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455185782 |
+| Front of House Shift Leader | Chick-fil-A Restaurants | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=b947085f3fa50dbc |
+| IT Support Engineer | $55/hr Remote | Crossing Hurdles | 2026-08-16 | R | https://www.linkedin.com/jobs/view/4454217014 |
