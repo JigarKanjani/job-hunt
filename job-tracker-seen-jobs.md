@@ -17551,3 +17551,11 @@
 | Specialist, Facilities Planning, Facilities Development | University of Calgary | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=ff821fff341d258c |
 | Senior Advisor, Infrastructure Advisory | Colliers Project Leaders | Canada | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4423511878 |
 | Processing Engineer | Decibel Cannabis Company | 2026-08-16 | R | https://ca.indeed.com/viewjob?jk=2fab5294cdbcdae4 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455184534 |
+| Project Coordinator - Utilities | Black & McDonald Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4416584870 |
+| Project Coordinator - Utilities | Black & McDonald Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4416592150 |
+| Sales Associate | Foot Locker | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4406787434 |
+| overnight associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455199077 |
+| Sales Associate - Spirit | Spirit Halloween | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4414064562 |
+| overnight associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455189153 |
+| Sales Associate | Foot Locker | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4406768701 |
