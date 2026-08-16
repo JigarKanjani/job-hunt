@@ -17539,3 +17539,9 @@
 | Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451742882 |
 | Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451738902 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4455159116 |
+| Operations Consultant - Part Time | Sephora | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=6aaf1dfa4d27a700 |
+| Specialist, Facilities Planning, Facilities Development | University of Calgary | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455171142 |
+| Junior Research Coordinator, Clinical Neurosciences | University of Calgary | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4453372518 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4451770538 |
+| Payroll & Benefits Administrator | Canada Malting Co. Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4453701065 |
+| Personal Banking Associate | TD | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455162178 |
