@@ -17538,3 +17538,4 @@
 | Sales Associate II | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451728941 |
 | Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451742882 |
 | Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451738902 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4455159116 |
