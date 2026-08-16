@@ -17531,3 +17531,10 @@
 | Client Experience Leader - Calgary | JobsMedia.io | 2026-08-15 | J | https://www.linkedin.com/jobs/view/4455142283 |
 | Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-08-15 | N | https://www.linkedin.com/jobs/view/4455142216 |
 | WordPress/WooCommerce Developer (Freelance) | Abrite | 2026-08-15 | R | https://ca.indeed.com/viewjob?jk=e69f540c6b5b2a49 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4455152278 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-16 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Document Control Coordinator | Ledcor | 2026-08-16 | N | https://www.linkedin.com/jobs/view/4455132075 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455136671 |
+| Sales Associate II | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451728941 |
+| Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451742882 |
+| Sales Associate III | Coach | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4451738902 |
