@@ -17567,3 +17567,11 @@
 | overnight associate | Walmart Canada | 2026-08-16 | G | https://www.linkedin.com/jobs/view/4455185782 |
 | Front of House Shift Leader | Chick-fil-A Restaurants | 2026-08-16 | J | https://ca.indeed.com/viewjob?jk=b947085f3fa50dbc |
 | IT Support Engineer | $55/hr Remote | Crossing Hurdles | 2026-08-16 | R | https://www.linkedin.com/jobs/view/4454217014 |
+| Marketing Coordinator | MacDonald Search Group | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4445785709 |
+| (CAN) Front End Team Lead | Walmart Canada | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455214418 |
+| Enterprise ServiceNow - SPM Architect - Canada | Slalom | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4430019544 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Enterprise ServiceNow - ITAM Architect - Canada | Slalom | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4430021543 |
+| Associate Lawyer – Family Law | DLegal Law Office | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=2666ce5e3aaf6e04 |
+| (CAN) OMNI Customer Fulfillment Associate (Early morning shi | Walmart Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455211375 |
+| Receptionist | The Salvation Army in Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4454211287 |
