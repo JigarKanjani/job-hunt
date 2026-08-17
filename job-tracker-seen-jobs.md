@@ -17587,3 +17587,16 @@
 | Part-Time Office Administrator | Holland Licensed Interior Design Inc. | 2026-08-17 | N | https://ca.indeed.com/viewjob?jk=c9fc3bf432f6e17a |
 | Platform Engineer (Semantic Discovery & Credentials) | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=ae608e71eb2748fc |
 | Sales Associate - Southcentre Calgary | Laura Canada | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=108b762a023d18bd |
+| Procurement Specialist | MSCP Heat Management Solutions | 2026-08-17 | J | https://ca.indeed.com/viewjob?jk=bad7c9a2ec743d92 |
+| Finance Coordinator | MSCP Heat Management Solutions | 2026-08-17 | J | https://ca.indeed.com/viewjob?jk=efafb6ecd66bf785 |
+| Analyst/Consultant, Corporate Finance - New Grad Fall 2027 - | Deloitte | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455232901 |
+| Consultant - Controls Assurance & Accounting and Reporting A | Deloitte | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455235871 |
+| Analyst/Consultant, Corporate Finance - New Grad Fall 2027 - | Deloitte | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455250795 |
+| Analyst/Consultant, Corporate Finance - New Grad Fall 2027 - | Deloitte | 2026-08-17 | N | https://ca.indeed.com/viewjob?jk=b57931e695e833ae |
+| Analyst Intern, Deal Transformation & Post Merger Integratio | Deloitte | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4455249826 |
+| Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4455238824 |
+| Family Engagement Specialist, GT School (Remote) - $60,000/y | Crossover | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4452311403 |
+| Customer Success Specialist | $7/hr Remote | Crossing Hurdles | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4454246361 |
+| Analyste/conseiller(ère), QuickStart - F&A et opérations (CP | Deloitte | 2026-08-17 | R | https://www.linkedin.com/jobs/view/4454250404 |
+| Fiscalité et Services juridiques - Analyste en fiscalité - N | Deloitte | 2026-08-17 | R | https://www.linkedin.com/jobs/view/4454242382 |
+| Analyste, Incitations mondiales à l'investissement et à l'in | Deloitte | 2026-08-17 | R | https://www.linkedin.com/jobs/view/4454241416 |
