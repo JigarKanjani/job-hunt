@@ -17609,3 +17609,23 @@
 | Administrative Secretary E, Schools | Calgary Board Of Education | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=a406a1bdf1c548f8 |
 | Personal Banking Associate | BMO | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4450785087 |
 | Associate, Distribution Support, Retail | BMO | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4450771865 |
+| Tax & Legal - Tax Analyst - New Grad 2027 - Multiple Locatio | Deloitte | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455281669 |
+| Bid Coordinator | Trane Technologies | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454280452 |
+| Corporate Fleet Compliance Specialist, North America | Stantec | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455289761 |
+| Marketing Operations Coordinator [AQ-13562] | Aquent | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4452256107 |
+| Media Search Analyst Canada (English language) | TELUS Digital | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454270681 |
+| Spécialiste des applications de services numériques/Digital  | Trane Technologies | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454267564 |
+| Buyer | Bartle & Gibson | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454280427 |
+| Quality Assurance Specialist | eTeam | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454281321 |
+| Tax & Legal - Tax Analyst - New Grad 2027 - Multiple Locatio | Deloitte | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455303401 |
+| Corporate Fleet Compliance Specialist, North America | Stantec | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455302579 |
+| Planning & Scheduling Lead III | Brunel | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454278074 |
+| Lead - Renewable Energy Division-EN | Guillevin | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4414058378 |
+| Health and Safety Advisor | kasa consulting | 2026-08-17 | N | https://ca.indeed.com/viewjob?jk=f9962490e98e0f10 |
+| Project Administrator | GDI Ainsworth | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4454276379 |
+| Analyst - Internal Audit, Assurance - Co-op/Intern - 2027 -  | Deloitte | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4455294614 |
+| Tax & Legal - Tax Analyst - Co-op/Intern 2027 - Multiple Loc | Deloitte | 2026-08-17 | N | https://www.linkedin.com/jobs/view/4455289595 |
+| Risk Management Analyst | BHE- Canada | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=1223320f54fe9c79 |
+| Spécialiste de support à distance - Services Digitaux / Digi | Trane Technologies | 2026-08-17 | R | https://www.linkedin.com/jobs/view/4454275530 |
+| Receptionist (Calgary South) Temporary | Trail Appliances AB/SK | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455296797 |
+| Calgary Office – CPA Opportunities– Full Time – September 20 | KPMG Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455285702 |
