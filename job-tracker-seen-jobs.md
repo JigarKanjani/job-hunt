@@ -17580,3 +17580,10 @@
 | Electrical Engineering Specialist - Substation | Black & Veatch | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455253148 |
 | Business Analyst / Product Owner (with Japanese language) | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=18499d703153cf63 |
 | Platform Engineer - CI/CD Gate & Online Evaluation | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=84c0e5c1ff8c40c5 |
+| Accounts Payable Specialist | Flair Airlines Ltd. | 2026-08-17 | J | https://ca.indeed.com/viewjob?jk=da5a7cb1e5e7b4bc |
+| Supervisor, In-Flight Operations (YYC) | Flair Airlines Ltd. | 2026-08-17 | J | https://ca.indeed.com/viewjob?jk=5ca803ca8178e605 |
+| New Graduate – Commercial Operations (Supply Chain and Joint | Canadian Natural Resources Limited (CNRL | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4454218996 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Part-Time Office Administrator | Holland Licensed Interior Design Inc. | 2026-08-17 | N | https://ca.indeed.com/viewjob?jk=c9fc3bf432f6e17a |
+| Platform Engineer (Semantic Discovery & Credentials) | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=ae608e71eb2748fc |
+| Sales Associate - Southcentre Calgary | Laura Canada | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=108b762a023d18bd |
