@@ -17575,3 +17575,5 @@
 | Associate Lawyer – Family Law | DLegal Law Office | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=2666ce5e3aaf6e04 |
 | (CAN) OMNI Customer Fulfillment Associate (Early morning shi | Walmart Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455211375 |
 | Receptionist | The Salvation Army in Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4454211287 |
+| Associate Litigation Lawyer (3+ Years Call) | DLegal Law Office | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=055420c299e7b6b6 |
+| Controller | Charlesglen Toyota | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=5f08fb7a484c33fa |
