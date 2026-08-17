@@ -17577,3 +17577,6 @@
 | Receptionist | The Salvation Army in Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4454211287 |
 | Associate Litigation Lawyer (3+ Years Call) | DLegal Law Office | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=055420c299e7b6b6 |
 | Controller | Charlesglen Toyota | 2026-08-17 | G | https://ca.indeed.com/viewjob?jk=5f08fb7a484c33fa |
+| Electrical Engineering Specialist - Substation | Black & Veatch | 2026-08-17 | J | https://www.linkedin.com/jobs/view/4455253148 |
+| Business Analyst / Product Owner (with Japanese language) | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=18499d703153cf63 |
+| Platform Engineer - CI/CD Gate & Online Evaluation | Intellias | 2026-08-17 | R | https://ca.indeed.com/viewjob?jk=84c0e5c1ff8c40c5 |
