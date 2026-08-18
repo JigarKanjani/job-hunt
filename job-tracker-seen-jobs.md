@@ -17629,3 +17629,18 @@
 | Spécialiste de support à distance - Services Digitaux / Digi | Trane Technologies | 2026-08-17 | R | https://www.linkedin.com/jobs/view/4454275530 |
 | Receptionist (Calgary South) Temporary | Trail Appliances AB/SK | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455296797 |
 | Calgary Office – CPA Opportunities– Full Time – September 20 | KPMG Canada | 2026-08-17 | G | https://www.linkedin.com/jobs/view/4455285702 |
+| Senior Development Coordinator – Calgary | Porte Communities | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4452554828 |
+| Pricing Analyst | Aston Carter | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4455576836 |
+| Sr Platform Specialist | Rogers Communications | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4454492320 |
+| Logistics Coordinator | Aston Carter | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4455579748 |
+| Family Specialist | Closer to Home Community Services | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4455574775 |
+| Program Management Business Class and Service Delivery Techn | HDR | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4454482983 |
+| PROGRAM ANALYST | Naval Air Warfare Center Training System | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4455581702 |
+| MANAGEMENT AND PROGRAM ANALYST | Naval Air Warfare Center Training System | 2026-08-18 | J | https://www.linkedin.com/jobs/view/4455595571 |
+| Protective Services Officer II | Alberta Health Services | 2026-08-18 | N | https://www.linkedin.com/jobs/view/4454493111 |
+| Protective Services Officer II | Alberta Health Services | 2026-08-18 | N | https://www.linkedin.com/jobs/view/4454493110 |
+| Protective Services Officer II | Alberta Health Services | 2026-08-18 | N | https://www.linkedin.com/jobs/view/4454489159 |
+| Automotive Accounting Trainer– Training and Implementation | PBS Systems | 2026-08-18 | R | https://www.linkedin.com/jobs/view/4452544927 |
+| Service Desk Associate : Part Time - MCKENZIE | The Home Depot Canada | 2026-08-18 | R | https://www.linkedin.com/jobs/view/4454495125 |
+| Child Life Specialist | Recovery Alberta | 2026-08-18 | G | https://ca.indeed.com/viewjob?jk=b0cf3e43a4f3c3f9 |
+| Plumbing Sales Associate : Part Time - MCKENZIE | The Home Depot Canada | 2026-08-18 | G | https://www.linkedin.com/jobs/view/4454705061 |
