@@ -17644,3 +17644,9 @@
 | Service Desk Associate : Part Time - MCKENZIE | The Home Depot Canada | 2026-08-18 | R | https://www.linkedin.com/jobs/view/4454495125 |
 | Child Life Specialist | Recovery Alberta | 2026-08-18 | G | https://ca.indeed.com/viewjob?jk=b0cf3e43a4f3c3f9 |
 | Plumbing Sales Associate : Part Time - MCKENZIE | The Home Depot Canada | 2026-08-18 | G | https://www.linkedin.com/jobs/view/4454705061 |
+| Operations Administrator - (BDL) Contract | The Beer Store | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=24fc4e5bd6290713 |
+| Operations Administrator - (BDL) Contract | The Beer Store | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=96f915ba90d4ecdb |
+| Administrative Support V | Alberta Health Services | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=0100d9ddbbc6577c |
+| Junior/Intermediate Payroll Administrator | Visions Electronics | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=904ef0b30f539245 |
+| Fleet Administrator | Valard Construction | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=ec744f0e3e8e0f9e |
+| Veterinary Assistant/Receptionist | Legacy veterinary Clinic | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=8c8a1500ea6541fc |
