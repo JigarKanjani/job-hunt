@@ -17650,3 +17650,26 @@
 | Junior/Intermediate Payroll Administrator | Visions Electronics | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=904ef0b30f539245 |
 | Fleet Administrator | Valard Construction | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=ec744f0e3e8e0f9e |
 | Veterinary Assistant/Receptionist | Legacy veterinary Clinic | 2026-08-19 | G | https://ca.indeed.com/viewjob?jk=8c8a1500ea6541fc |
+| Sr Specialist SCM Data & Innovation | Enbridge | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4453837115 |
+| Financial Analyst, Capital, Facilities Development | University of Calgary | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456440890 |
+| Advisor, TA Operations | Nutrien | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4453839113 |
+| Technical Specialist | Baker Hughes | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456437947 |
+| Client Success Specialist | Aon | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456458449 |
+| L’architecte de solutions avant-vente D365 Finance & Supply  | BDO Canada | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456432975 |
+| Technical Program Manager | Ecolab | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456435936 |
+| Sr Specialist SCM Data & Innovation | Enbridge | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4453843068 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4453851103 |
+| L’architecte de solutions avant-vente D365 Finance & Supply  | BDO Canada | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456443819 |
+| Housing Focused Shelter Worker-Permanent Part-Time (CGY Foot | The Mustard SEED Society | 2026-08-20 | N | https://ca.indeed.com/viewjob?jk=ca3989d7c86ab999 |
+| Indigenous Community Engagement Coordinator | West Fraser | 2026-08-20 | N | https://www.linkedin.com/jobs/view/4456461346 |
+| Application Infrastructure Administrator | AGAT Laboratories | 2026-08-20 | R | https://ca.indeed.com/viewjob?jk=63fab1fc34c30ca9 |
+| Account Executive (Production Systems) – Hybrid | Canon Canada | 2026-08-20 | R | https://www.linkedin.com/jobs/view/4456475244 |
+| IT Analyst I | Alberta Health Services | 2026-08-20 | R | https://www.linkedin.com/jobs/view/4455605698 |
+| InSite Coordinator | Clean Harbors | 2026-08-20 | R | https://www.linkedin.com/jobs/view/4456459608 |
+| Administrative Assistant | Boardwalk | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4455600725 |
+| Administrative Support V | Alberta Health Services | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4455620567 |
+| Receptionist - AgeCare Walden Heights | AgeCare | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4456442633 |
+| Administrative Support V | Alberta Health Services | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4455616532 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4456472293 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4456471255 |
+| Sales Associate | SNDL Inc. | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4455602372 |
