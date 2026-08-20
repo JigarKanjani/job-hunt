@@ -17673,3 +17673,8 @@
 | (CAN) Overnight Associate | Walmart Canada | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4456472293 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4456471255 |
 | Sales Associate | SNDL Inc. | 2026-08-20 | G | https://www.linkedin.com/jobs/view/4455602372 |
+| Analyst/Consultant,Transaction Diligence, Execution &Reporti | Deloitte | 2026-08-20 | J | https://www.linkedin.com/jobs/view/4456460774 |
+| Commercial Funding Coordinator, CMHC | General Bank Of Canada | 2026-08-20 | N | https://ca.indeed.com/viewjob?jk=576867e160209f64 |
+| Junior Project Coordinator | Trotter & Morton Group of Companies | 2026-08-20 | N | https://ca.indeed.com/viewjob?jk=74e8288fc7ca665b |
+| Accessible Technology and Notetaker Coordinator | Boone Center for the Family | 2026-08-20 | N | https://www.linkedin.com/jobs/view/4456474632 |
+| Administrative Support IV | Primary Care Alberta | 2026-08-20 | G | https://ca.indeed.com/viewjob?jk=9693b627a2caa1c4 |
