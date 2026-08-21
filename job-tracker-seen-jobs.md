@@ -17754,3 +17754,32 @@
 | Administrative Support IV | Recovery Alberta | 2026-08-21 | G | https://ca.indeed.com/viewjob?jk=f3e2e2f55a54d562 |
 | Finance & Administrative Assistant | Salopek HR | 2026-08-21 | G | https://ca.indeed.com/viewjob?jk=4fc3a2baee5a81fe |
 | Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4454181639 |
+| Production Supply & Logistics Analyst | Kelly | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456218929 |
+| Senior Advisor, Commercial | Inter Pipeline | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4446936978 |
+| Technology Specialist | ADM | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4447056034 |
+| Technical Sales Specialist | Eaton | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454631641 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456229241 |
+| Specialist- Salesforce Architect | Parkland Corporation | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4445036094 |
+| (CAN) Front End Team Lead | Walmart Canada | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457301942 |
+| Talent Acquisition Advisor (6-month term) | Parkland Corporation | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4445037042 |
+| Logistics Specialist (Remote) | Hired | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457330261 |
+| E-commerce Specialist - Data & Catalog  (Remote) | Quik Hire Staffing | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457330406 |
+| Administrative Specialist - CalgaryTemporary | Scotiabank | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=7cb0e17d44d70b67 |
+| Gas Analysis Administrator | Airswift | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4454048123 |
+| IT Security & Resilience Analyst | Optiom Inc. | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457339857 |
+| Claim Specialist- Canada Casualty | AXA XL | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457352794 |
+| Youth Diversion Case Worker | City of Grande Prairie | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4454643243 |
+| Talent Acquisition Specialist (Remote) | Hired | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457333445 |
+| Caregiver Education Coordinator | Town of Hinton | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4456225712 |
+| Facility Services Coordinator | BGIS | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4437312657 |
+| District Administrative Specialist/Receptionist | Westburne | 2026-08-21 | R | https://ca.indeed.com/viewjob?jk=74fc0af522f5fb7f |
+| Java Kafka Developer | HireOn Tech | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4456241155 |
+| Finance Business Analyst (Remote) | Jobs Ai | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457340472 |
+| Data Analyst - Finance (Remote) | Quik Hire Staffing | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457336463 |
+| Finance Specialist (Remote) | Hired | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457347318 |
+| Technical Specialist (Remote) | Hired | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457332102 |
+| Calgary Police Service - Administrative Assistant - Access & | City of Calgary | 2026-08-21 | G | https://ca.indeed.com/viewjob?jk=d8bdca9653bfd64f |
+| Customer Service & Sales Associate | Hertz | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4456026401 |
+| Community Engagement Coordinator | AMA - Alberta Motor Association | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457349850 |
+| Sales Associate - Spencer's | Spencer's | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4376141307 |
+| Equipment Associate (Seasonal) | United Rentals | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457340583 |
