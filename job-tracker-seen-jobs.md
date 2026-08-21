@@ -17744,3 +17744,13 @@
 | Wealth Experience Associate | ATB Financial | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4455704502 |
 | General Merchandise Associate | Walmart Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457088217 |
 | (CAN) Meat Associate | Walmart Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457087203 |
+| Indigenous Relations – Cultural Lead | Hull Services | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454187645 |
+| Track: Young People’s Lodge – Child and Youth Care Counsello | Hull Services | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4454187646 |
+| Child and Youth Worker | Closer to Home Community Services | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457093562 |
+| HUMAN RESOURCES SPECIALIST (CLASSIFICATION) | Naval Air Warfare Center Training System | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457095507 |
+| Administrator | Backwoods Energy Services | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457300437 |
+| Process Engineer in Training- Water | Stantec | 2026-08-21 | R | https://ca.indeed.com/viewjob?jk=d6869bfea43e3a0d |
+| Process Engineer in Training- Water | Stantec | 2026-08-21 | R | https://ca.indeed.com/viewjob?jk=2ec6d5a19b9046a0 |
+| Administrative Support IV | Recovery Alberta | 2026-08-21 | G | https://ca.indeed.com/viewjob?jk=f3e2e2f55a54d562 |
+| Finance & Administrative Assistant | Salopek HR | 2026-08-21 | G | https://ca.indeed.com/viewjob?jk=4fc3a2baee5a81fe |
+| Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4454181639 |
