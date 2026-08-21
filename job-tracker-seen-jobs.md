@@ -17727,3 +17727,20 @@
 | Research Associate, New North America Initiative, School of  | University of Calgary | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457062625 |
 | Flooring Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4456058643 |
 | Sales Associate | Carters Inc. | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457051957 |
+| Category Advisor, Inventory Management | Nutrien | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454164837 |
+| Finance Analyst | FLINT Corp. | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457071942 |
+| Portfolio Analyst III - 18 Month Term | ATB Financial | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457063935 |
+| Senior Subcontracts Specialist | FLINT Corp. | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457071943 |
+| Advisor, Media & Corporate Communications | Nutrien | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454170762 |
+| Lead Hand - General Maintenance, Grounds and Roads, Faciliti | University of Calgary | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4455968032 |
+| Lead Process Engineer | Worley | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457076870 |
+| Coordinator - Education Services (Competition #T2526-0235) | WOLF CREEK SCHOOL DIVISION | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=d926086f78bca74c |
+| Coordinator of Information Technology | LIVINGSTONE RANGE SCHOOL DIVISION | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=39fbd94f29da196d |
+| Coordinator of Information Technology | LIVINGSTONE RANGE SCHOOL DIVISION | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=a72386eb80153825 |
+| Advisor | Alberta Health Services | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4456095769 |
+| Administrative Assistant - Mess-EN | Canadian Forces Morale and Welfare Servi | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4453224329 |
+| Process Engineer | Worley | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457083063 |
+| network system administrator | Window Mart | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457083200 |
+| Wealth Experience Associate | ATB Financial | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4455704502 |
+| General Merchandise Associate | Walmart Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457088217 |
+| (CAN) Meat Associate | Walmart Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457087203 |
