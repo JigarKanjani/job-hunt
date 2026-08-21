@@ -17678,3 +17678,52 @@
 | Junior Project Coordinator | Trotter & Morton Group of Companies | 2026-08-20 | N | https://ca.indeed.com/viewjob?jk=74e8288fc7ca665b |
 | Accessible Technology and Notetaker Coordinator | Boone Center for the Family | 2026-08-20 | N | https://www.linkedin.com/jobs/view/4456474632 |
 | Administrative Support IV | Primary Care Alberta | 2026-08-20 | G | https://ca.indeed.com/viewjob?jk=9693b627a2caa1c4 |
+| Program Manager — Public Programming | National Music Centre | 2026-08-21 | J | https://ca.indeed.com/viewjob?jk=9ca069cbb12cf490 |
+| Financial Systems Analyst | PCL Construction | 2026-08-21 | J | https://ca.indeed.com/viewjob?jk=6490980a8da19e29 |
+| Clinical Coordinator | Tiny Health | 2026-08-21 | J | https://ca.indeed.com/viewjob?jk=36e92b06b8266199 |
+| Operations Administrator - (BDL) Contract | Brewers Distributor Ltd | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4455440801 |
+| Business Operations Analyst - Payments | Peoples Group | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456073588 |
+| Talent Development Analyst | PetroChina Canada | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457036123 |
+| Production Engineer, Remote Operations Centre (Control Room) | PETRONAS Canada | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457058218 |
+| Security Risk Management Specialist II | Affirm | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456062658 |
+| Payroll Coordinator | Modine Manufacturing Company | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457048576 |
+| Leadhand | Modine Manufacturing Company | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457042660 |
+| Sales Coordinator - Agriculture | Brandt Group of Companies | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457051542 |
+| Heavy Vehicle Parts Specialist | UAP Inc. | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457039289 |
+| Student Service Specialist | Mount Royal University | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4453490072 |
+| Team Lead (Full time) - CrossIron Mills | RCL - Reitmans Canada Ltd/Ltée | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457060472 |
+| Senior Program Manager, Technology | WestJet | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457057120 |
+| Pipeline Technical Lead | PetroChina Canada | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457030250 |
+| Community Program Coordinator | Mount Royal University | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456125157 |
+| Mining Technical Lead | WSP in Canada | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456071927 |
+| Software Architect - AI Accelerated Engineering Lead | Slalom | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456050545 |
+| Gender-Based Violence Prevention and Response Advisor | Mount Royal University | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454169203 |
+| Precision Ag Specialist | Brandt Group of Companies | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457031676 |
+| Compression Parts Specialist | Certarus Ltd. | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4452737137 |
+| Market Financial Analyst | Amrize | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4454154520 |
+| Maintenance Planner | Suncor | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4457058104 |
+| Security Risk Management Specialist II | Affirm | 2026-08-21 | J | https://www.linkedin.com/jobs/view/4456051704 |
+| Reclamation Coordinator | Canadian Natural | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=fb7eb29f9970e7a3 |
+| Senior Public Engagement Specialist | WSP | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=56e4bd05f57e71dc |
+| Case Management Counsellor (CP) - Arabic | Catholic Social Services | 2026-08-21 | N | https://ca.indeed.com/viewjob?jk=30c84e33121d2859 |
+| Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457062445 |
+| Trainers/Facilitators (Roster Position) | ECO Canada | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457068480 |
+| Senior Program Advisor | Government of Alberta | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4456089054 |
+| Branch Administrator (Edmonton, AB) | Sterling Crane | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457031668 |
+| Branch Administrator - Maternity Leave (Edmonton, AB) | Sterling Crane | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457043553 |
+| Administrator | Mammoet | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457070035 |
+| Financial Systems Analyst | PCL Construction | 2026-08-21 | N | https://www.linkedin.com/jobs/view/4457059449 |
+| District Administrative Specialist/Receptionist | Westburne | 2026-08-21 | R | https://ca.indeed.com/viewjob?jk=a5747cae65e03f26 |
+| GIS and Environmental Data Specialist | Solstice Environmental Management | 2026-08-21 | R | https://ca.indeed.com/viewjob?jk=143a8bdd0c89781e |
+| Process Engineer in Training- Water | Stantec | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457055181 |
+| Back End Developer (AI Infrastructure) | Alignerr | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457049703 |
+| Process Engineer in Training- Water | Stantec | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457057145 |
+| Claims Technical Specialist | Wawanesa Insurance | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457076474 |
+| Wireline Services Analyst | Government of Alberta | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4456083084 |
+| Technology Analyst | PCL Construction | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457060461 |
+| Clinical Systems Analyst | Alignerr | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457051695 |
+| R-106449 EverHealth - AI Quality and Content Specialist (Rem | EverCommerce | 2026-08-21 | R | https://www.linkedin.com/jobs/view/4457052255 |
+| Receptionist-Casual-AgeCare Sagewood | AgeCare | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457065431 |
+| Research Associate, New North America Initiative, School of  | University of Calgary | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457062625 |
+| Flooring Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4456058643 |
+| Sales Associate | Carters Inc. | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457051957 |
