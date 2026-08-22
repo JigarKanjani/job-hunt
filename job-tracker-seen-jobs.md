@@ -17857,3 +17857,12 @@
 | Clinical Business Analyst (Therapeutics) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=ba6bd4401148a528 |
 | Clinical Business Analyst (Inpatient Medicine) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=34e8d513d74a2dca |
 | PIA Client Service Associate | TD | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=efefd9f2acd0308d |
+| Senior Data & Reporting Analyst | Alberta Health Services | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456638261 |
+| Planner | Alberta Health Services | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456638267 |
+| Finance Analyst | Mod Op | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457580856 |
+| I&T Resilience and Data Governance Specialist | ENMAX | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456638442 |
+| Alberta Reliability Standards Compliance Specialist | ENMAX | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456639457 |
+| Stakeholder Relations Specialist | ENMAX | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456646424 |
+| Administrative Assistant – Legal (Part Time) | Moodys Private Client | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457589742 |
+| Administrative Assistant, CAN Tax | Moodys Private Client | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457588777 |
+| Senior Advisor | Alberta Health Services | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456630363 |
