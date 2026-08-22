@@ -17866,3 +17866,21 @@
 | Administrative Assistant – Legal (Part Time) | Moodys Private Client | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457589742 |
 | Administrative Assistant, CAN Tax | Moodys Private Client | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457588777 |
 | Senior Advisor | Alberta Health Services | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456630363 |
+| Marketing Operations Coordinator [AQ-14343] | Aquent | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4455027443 |
+| Logistics Specialist (Remote) | Hired | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457819875 |
+| Business Operations Analyst (Remote) | Hire Feed | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457804910 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4447132517 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457821793 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457810911 |
+| Site Administrative Assistant | PCL Construction | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4447200347 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456645998 |
+| Youth Diversion Case Worker | City of Grande Prairie | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4455036447 |
+| Finance Business Analyst (Remote) | Jobs Ai | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457826021 |
+| Economics Specialist (Remote) | Hired | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457808969 |
+| TSG Specialist I | UPS | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4456660040 |
+| Business Intelligence Consultant (Remote) | Hire Feed | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457819901 |
+| Analyst, Enterprise Risk - Internal Audit & Controls (Septem | MNP | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4447167961 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457824085 |
+| Technical Specialist (Remote) | Hired | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457818823 |
+| Productivity Specialist (Remote) | Hire Feed | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457817967 |
+| Mortgage Specialist | RBC | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=ead55725ac807ec0 |
