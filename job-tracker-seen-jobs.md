@@ -17848,3 +17848,12 @@
 | Computer Sales Associate (Full Time) | Best Buy | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=accc9c1bea0b4f5e |
 | PIA Client Service Associate | TD | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457570688 |
 | Computer Sales Associate (Full Time) | Best Buy Canada | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4455016532 |
+| Safety Advisor | Perma Pipe Canada | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=021db582e29595a4 |
+| Lead Financial Analyst | Business Finance | World Fuel | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456614899 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4455008829 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Senior Wealth Advisor | ATB Financial | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=61ea75581659bfec |
+| Clinical Business Analyst (Therapeutics) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=ba6bd4401148a528 |
+| Clinical Business Analyst (Inpatient Medicine) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=34e8d513d74a2dca |
+| PIA Client Service Associate | TD | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=efefd9f2acd0308d |
