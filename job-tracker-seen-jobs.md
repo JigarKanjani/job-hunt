@@ -17783,3 +17783,42 @@
 | Community Engagement Coordinator | AMA - Alberta Motor Association | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457349850 |
 | Sales Associate - Spencer's | Spencer's | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4376141307 |
 | Equipment Associate (Seasonal) | United Rentals | 2026-08-21 | G | https://www.linkedin.com/jobs/view/4457340583 |
+| Graphic Design Coordinator - Corporate Services | Graham Construction | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=e14a465771808cc3 |
+| Talent Acquisition Specialist | Convergint | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=857dd5a29df4ced9 |
+| Coordinator, Human Resources | Aecon Group Inc. | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=8f7008ab3fb70a24 |
+| Signature Programs Specialist | Canadian Cancer Society | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=0bd0325319a37aea |
+| Marketing + Proposal Coordinator | AME Consulting Group | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=2419cb6f74b8b4b4 |
+| Senior Specialist Train Control Systems | CPKC | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=4b96e469564ba8f8 |
+| G&P SCM Material Management Lead | Keyera Corp | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=fea9dbeef46859a3 |
+| Fleet & Rental Coordinator | CDN | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457559010 |
+| Coordinator, Event Technology and Registration | Deloitte | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457567103 |
+| Wellness WHS Specialist | Amazon | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457530584 |
+| Rooms Coordinator | Pomeroy Lodging | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4454690271 |
+| Health & Safety Coordinator - FIFO from Western Canada | Hecla Mining Company | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456604468 |
+| Senior Specialist Train Control Systems | CPKC | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457565335 |
+| Mortgage Specialist | RBC | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457529921 |
+| Senior Indigenous Rights and Consultation Lead | Dillon Consulting Limited | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457543383 |
+| Wireline Tractor Field Specialist (Altus Intervention) | Baker Hughes | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457553600 |
+| G&P SCM Material Management Lead | Keyera | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456609444 |
+| Policy Analyst | Government of Alberta | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456611691 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457573345 |
+| JR Inventory Technician (Heavy Equipment) – Entry level | Sureway Construction Group Ltd. | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456604704 |
+| Family Support Counsellor I / II - Family Support Network | Wood's Homes | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=4aa5e729c5c12925 |
+| School Support Counsellor I / II - Learning Centre | Wood's Homes | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=a17f30313b0f3e82 |
+| Office Coordinator | Corrpro Canada | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=c4a0df34f3f1a0ac |
+| Service Coordinator | Faber Work | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=658702b19b30ee61 |
+| Gladue Intake Coordinator | BC First Nations Justice Council | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=7d0f63a2f480a39c |
+| Experiential Learning Coordinator | Lethbridge Polytechnic | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456625556 |
+| Continuing Education Coordinator | NorQuest College | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4446364708 |
+| Youth Initiatives Administrative Assistant | Lethbridge Polytechnic | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456618586 |
+| Employment Standards Contact Centre Advisor | Government of Alberta | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456610715 |
+| Coordinator, Event Technology and Registration | Deloitte | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457552247 |
+| HSE & Compliance Administrator – Element Technical Services | Element Technical Services | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4454699490 |
+| Human Resources Administrator | Solstice Environmental Management | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=f837b5f6a4ab9d04 |
+| SQL Developer - Remote | UMATTR | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4451503583 |
+| TSG Specialist I | UPS | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4456624439 |
+| TSG Specialist I | UPS | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4456607546 |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=969fd891935d145a |
+| Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4456614660 |
+| Administrative Law Tutor | Varsity Tutors, a Nerdy Company | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457538563 |
+| Human Resources Advisor | Canlin Energy Corporation | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457562668 |
