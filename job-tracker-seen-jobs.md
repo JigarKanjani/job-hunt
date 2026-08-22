@@ -17884,3 +17884,10 @@
 | Technical Specialist (Remote) | Hired | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457818823 |
 | Productivity Specialist (Remote) | Hire Feed | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4457817967 |
 | Mortgage Specialist | RBC | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=ead55725ac807ec0 |
+| (CAN) Asset Protection Operations Team Lead | Walmart Canada | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457852183 |
+| Accountant / Administrator / Financial Analyst | Total Transload Services | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456671452 |
+| Operations Consultant - Flex | SEPHORA | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457868034 |
+| ServiceNow Administrator, BA Enablement Associate | RSM Canada | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4447193040 |
+| Senior Learning Specialist | Bird Construction | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4438864389 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457852184 |
+| LC Associate - 3 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457852515 |
