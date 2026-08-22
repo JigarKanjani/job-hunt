@@ -17822,3 +17822,29 @@
 | Customer Experience Associate - Calgary, AB (26.25 hours/wee | Scotiabank | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4456614660 |
 | Administrative Law Tutor | Varsity Tutors, a Nerdy Company | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457538563 |
 | Human Resources Advisor | Canlin Energy Corporation | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457562668 |
+| Volunteer Engagement Coordinator | Bb4ck | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=085708a352f2b0d4 |
+| Lead Financial Analyst | Business Finance | World Fuel | 2026-08-22 | J | https://ca.indeed.com/viewjob?jk=e7c3a910061b9548 |
+| Digital Enablement Specialist, Supply Chain Management | University of Calgary | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456401277 |
+| Analyst, NBS OTC Cash Handling | Nutrien | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4455018493 |
+| Space and Utilization Planner, Campus Planning, Facilities D | University of Calgary | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456396354 |
+| Lead Financial Analyst | Business Finance | World Fuel | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456614899 |
+| Senior Wealth Advisor | ATB Financial | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457573933 |
+| Process Development Specialist, Arnie Charbonneau Cancer Ins | University of Calgary | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457569657 |
+| Property Accounting Specialist & Client Advisor | Propra | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457576273 |
+| Sourcing Specialist | GoodMorning | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4456605883 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4455011622 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457559534 |
+| Accounts Receivable Collection and Billing Specialist | Perma Corp | 2026-08-22 | J | https://www.linkedin.com/jobs/view/4457568451 |
+| Beauty Advisor - Part Time | Sephora | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=faa775e5a7d828c7 |
+| Senior Development Advisor | City of Calgary | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=8e9a3462f3a3c185 |
+| Store Administrator - Part Time | True North Mortgage | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=6f9c08442153bbd2 |
+| Client Success Coordinator | York Realty Inc | 2026-08-22 | N | https://ca.indeed.com/viewjob?jk=59ef896d8ed673b2 |
+| Internal Service Advisor | Wood Automotive Group | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4457583177 |
+| Direct Support Specialist - Cantonese Speaking | CBI Home Health | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456609773 |
+| Senior Policy Advisor, Engagement | Government of Alberta | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456608749 |
+| Technical Specialist – Industrial Control Systems Security | Government of Canada | 2026-08-22 | R | https://ca.indeed.com/viewjob?jk=5e9d5cd51f93ca27 |
+| RPA, Developer - Information Technologies | University of Calgary | 2026-08-22 | R | https://www.linkedin.com/jobs/view/4456392381 |
+| Payroll & People Operations Specialist | Distress Centre Calgary | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=20e7f0788c95354f |
+| Computer Sales Associate (Full Time) | Best Buy | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=accc9c1bea0b4f5e |
+| PIA Client Service Associate | TD | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457570688 |
+| Computer Sales Associate (Full Time) | Best Buy Canada | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4455016532 |
