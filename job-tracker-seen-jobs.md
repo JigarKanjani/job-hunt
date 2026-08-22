@@ -17891,3 +17891,7 @@
 | Senior Learning Specialist | Bird Construction | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4438864389 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457852184 |
 | LC Associate - 3 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-08-22 | G | https://www.linkedin.com/jobs/view/4457852515 |
+| Payroll and Accounting Coordinator | BGC Big Brothers Big Sisters of Edmonton | 2026-08-22 | N | https://www.linkedin.com/jobs/view/4456801053 |
+| Beauty Advisor - Part Time | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=ae8fe41943f1478a |
+| Beauty Advisor - Part Time | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=f7415bfd6af8e6ea |
+| Beauty Advisor - Flex | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=9384ac8f5a32975a |
