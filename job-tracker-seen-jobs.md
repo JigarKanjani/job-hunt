@@ -17945,3 +17945,6 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457894907 |
 | Billing Specialist | Fleetworthy | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4452277697 |
 | Platform Engineer | Fleetworthy | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4452288632 |
+| Payroll & Benefits Specialist | PetroChina Canada | 2026-08-23 | J | https://ca.indeed.com/viewjob?jk=4204a41652913705 |
+| Partnership Account Management Specialist | RoboGarden Inc. | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456805884 |
+| Sales and Operations Associate | 3Thirty3 Ltd. | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456820821 |
