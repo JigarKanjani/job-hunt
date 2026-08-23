@@ -17901,3 +17901,5 @@
 | (CAN) Modular Team Associate Full Time | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457855580 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457869548 |
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457863571 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451211829 |
