@@ -17913,3 +17913,23 @@
 | Policy Analyst | MNP Executive Search & Professional Recr | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4438359618 |
 | Payroll and Benefits Administrator | S3 Group Ltd. | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4456810307 |
 | Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4430994321 |
+| STOCK COORDINATOR - PART TIME - ALDO | ALDO Group | 2026-08-23 | J | https://ca.indeed.com/viewjob?jk=3311bc53629cc60b |
+| Logistics Specialist (Remote) | Hired | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458113378 |
+| E-commerce Specialist (Remote) | Quik Hire Staffing | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4457896402 |
+| Business Operations Analyst (Remote) | Hire Feed | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4457899281 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458104398 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458105419 |
+| Planner II | Regional Municipality of Wood Buffalo | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458112072 |
+| Finance Specialist (Remote) | Hired | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458105352 |
+| Regulatory Affairs Specialist (Remote) | Hire Feed | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4458103283 |
+| Talent Acquisition Specialist (Remote) | Hired | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4457897426 |
+| Finance Business Analyst (Remote) | Jobs Ai | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457899357 |
+| Data Analyst - Finance (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458102381 |
+| Data Analyst - Business (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458104356 |
+| Machine Learning Analyst (Remote) | Jobs Ai | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457897441 |
+| Economics Specialist (Remote) | Hired | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458115256 |
+| Platform Systems Analyst (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458105399 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458100447 |
+| Business Intelligence Consultant (Remote) | Hire Feed | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457895384 |
+| System Administrator (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458112388 |
+| Database Administrator - DBA (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458111327 |
