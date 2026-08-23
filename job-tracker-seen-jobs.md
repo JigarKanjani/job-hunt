@@ -17938,3 +17938,8 @@
 | Beauty Advisor - Part Time | Sephora | 2026-08-23 | N | https://ca.indeed.com/viewjob?jk=0a863658063a544c |
 | Microsoft Excel Specialist (Remote) | Hire Feed | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457897416 |
 | Accounting Associate, Member Payments | MSH Americas -  Diot-Siaci Group | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4456804503 |
+| Payroll & Benefits Specialist | PetroChina Canada | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458100752 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Operations Consultant - Part Time | SEPHORA | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458101757 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457894907 |
