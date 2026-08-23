@@ -17933,3 +17933,8 @@
 | Business Intelligence Consultant (Remote) | Hire Feed | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457895384 |
 | System Administrator (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458112388 |
 | Database Administrator - DBA (Remote) | Quik Hire Staffing | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4458111327 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4457899468 |
+| E-commerce Specialist - Data & Catalog  (Remote) | Quik Hire Staffing | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4457895493 |
+| Beauty Advisor - Part Time | Sephora | 2026-08-23 | N | https://ca.indeed.com/viewjob?jk=0a863658063a544c |
+| Microsoft Excel Specialist (Remote) | Hire Feed | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4457897416 |
+| Accounting Associate, Member Payments | MSH Americas -  Diot-Siaci Group | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4456804503 |
