@@ -17895,3 +17895,9 @@
 | Beauty Advisor - Part Time | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=ae8fe41943f1478a |
 | Beauty Advisor - Part Time | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=f7415bfd6af8e6ea |
 | Beauty Advisor - Flex | Sephora | 2026-08-22 | G | https://ca.indeed.com/viewjob?jk=9384ac8f5a32975a |
+| Clinical Coordinator – Calgary West, AB | Snore MD Sleep Apnea Clinics | 2026-08-23 | J | https://ca.indeed.com/viewjob?jk=5ec67bcd40211d7e |
+| STOCK COORDINATOR - PART TIME - ALDO | ALDO Group | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456690509 |
+| Clinical Coordinator – Lethbridge | Snore MD Sleep Apnea Clinics | 2026-08-23 | N | https://ca.indeed.com/viewjob?jk=157b4dd3f1b887bf |
+| (CAN) Modular Team Associate Full Time | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457855580 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457869548 |
+| (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457863571 |
