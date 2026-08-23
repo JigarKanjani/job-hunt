@@ -17904,3 +17904,7 @@
 | Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
 | Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451211829 |
 | Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4456814078 |
+| Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456814078 |
+| Office Administrator | Dental Dreams Unlocked | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4456819154 |
+| Technical Documentation Specialist | $50/hr Remote | Crossing Hurdles | 2026-08-23 | N | https://www.linkedin.com/jobs/view/4456804138 |
+| Private Banking Associate, Private Banking 1859 | National Bank of Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4455071855 |
