@@ -17903,3 +17903,4 @@
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457863571 |
 | Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
 | Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Business Operations Analyst | $60/hr Remote | Crossing Hurdles | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4456814078 |
