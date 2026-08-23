@@ -17943,3 +17943,5 @@
 | Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4451211829 |
 | Operations Consultant - Part Time | SEPHORA | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4458101757 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-23 | G | https://www.linkedin.com/jobs/view/4457894907 |
+| Billing Specialist | Fleetworthy | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4452277697 |
+| Platform Engineer | Fleetworthy | 2026-08-23 | R | https://www.linkedin.com/jobs/view/4452288632 |
