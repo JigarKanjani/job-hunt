@@ -17991,3 +17991,30 @@
 | Math Specialist (Remote) | Hired | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458188925 |
 | Machine Learning Specialist (Remote) | Hire Feed | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458195802 |
 | Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458191597 |
+| Supply Chain Business Analyst | Stella-Jones | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=e3c18d225c8c343f |
+| Supply Chain Business Analyst | Stella-Jones | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=56926be97350ed4b |
+| Supply Chain Business Analyst | Stella-Jones | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=58e981e800c03807 |
+| Supply Chain Business Analyst | Stella-Jones | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=2f601c7cd8b3bf7e |
+| Customer Care & Fulfillment Specialist | Almond Cow Inc. | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=090d7689d3f4483f |
+| Procurement Manager | DSJ Global | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458208709 |
+| Senior Business Analyst - Identity Management | KPMG Canada | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458219203 |
+| Workday Benefits Lead | KPMG Canada | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458214277 |
+| Senior Business Analyst - Identity Management | KPMG Canada | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458218258 |
+| Operations Compliance Analyst (Environment, Health & Safety  | Equinix | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4455889674 |
+| Supply Chain Manager (Remote) | Hired | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458226107 |
+| E-commerce Specialist - Data & Catalog  (Remote) | Quik Hire Staffing | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458219700 |
+| Logistics Specialist (Remote) | Hired | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458210182 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458212682 |
+| E-commerce Specialist (Remote) | Quik Hire Staffing | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458208386 |
+| Microsoft Excel Specialist (Remote) | Hire Feed | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458218364 |
+| Office Administrator/Receptionist (On-site) | Transcanada Turbines | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=88db1f28f9611a5e |
+| Refurbishing Coordinator | Ritchie Bros. | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4455867875 |
+| Talent Acquisition Specialist (Remote) | Hired | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458215087 |
+| Contract Specialist (Remote) | Jobs Ai | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458222034 |
+| Business Systems Analyst | Electro-Federation Canada | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=c75d0dae11f69956 |
+| Business Support Specialist | City of Calgary | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=1c108ef42554500b |
+| Finance Business Analyst (Remote) | Jobs Ai | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458209353 |
+| Machine Learning Analyst (Remote) | Jobs Ai | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458202995 |
+| Junior Financial Analyst | KTek Resourcing | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458211683 |
+| Optical Associate - Casual | FYidoctors | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4455889744 |
+| Part Time Sales Associate (Store# 3289 Bowness) | Pet Valu | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4457103064 |
