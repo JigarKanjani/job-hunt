@@ -17968,3 +17968,7 @@
 | Financial Systems Business Analyst | Medavie | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=255675fe4f8fa655 |
 | Clinical Coordinator – South West Calgary, AB | Snore MD Sleep Apnea Clinics | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=b29d5c403df453ee |
 | Sales Coordinator | Northern Mat & Bridge | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=834c58580b184cee |
+| Carbon Materials Development Specialist | CarboMat Inc. | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4456852970 |
+| Business Functional Analyst, Academic Operations | NAIT (Northern Alberta Institute of Tech | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458167827 |
+| 2027 Wealth Management, Winter Administrative Assistant (4-1 | RBC Dominion Securities | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458160355 |
+| Part-Time Office Administrator | McCuaig and Associates Engineering Ltd. | 2026-08-24 | G | https://ca.indeed.com/viewjob?jk=706ea5d7b6b08214 |
