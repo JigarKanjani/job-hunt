@@ -17952,3 +17952,11 @@
 | International Admissions Advisor (Sales & Conversion Focus) | My Education Experience | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456822888 |
 | Over-the-Counter Associate | Walmart Canada | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4458132121 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4458148138 |
+| Team Lead-Retail | Roots | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458141567 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458145677 |
+| Revenue Coordinator I | Acuren | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458154565 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458146822 |
+| GOAPRDJP000001000 – Financial Analyst - Junior | S M Software Solutions Inc | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458137723 |
+| Revenue Coordinator I | Acuren | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=fc18bbfd930e85f6 |
+| Office Coordinator | TRIO - Translational Research in Oncolog | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4446942671 |
+| Human Resources Coordinator | HomeFirst HealthCare | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456851104 |
