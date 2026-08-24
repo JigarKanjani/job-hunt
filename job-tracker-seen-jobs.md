@@ -17960,3 +17960,8 @@
 | Revenue Coordinator I | Acuren | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=fc18bbfd930e85f6 |
 | Office Coordinator | TRIO - Translational Research in Oncolog | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4446942671 |
 | Human Resources Coordinator | HomeFirst HealthCare | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456851104 |
+| Project Coordinator II, North America | Indero | 2026-08-24 | J | https://ca.indeed.com/viewjob?jk=d01bfa8c671c5cb3 |
+| Senior Clinical Data Coordinator | Inductive Quotient Analytics | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4456847357 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4455833705 |
+| Marketing and Sales Coordinator | HS Interiors | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=706601a752cd1335 |
+| Senior Project Coordinator / Coordonnateur principal de proj | Indero | 2026-08-24 | N | https://ca.indeed.com/viewjob?jk=17d70abb0bdae649 |
