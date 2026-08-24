@@ -17976,3 +17976,18 @@
 | Process Development Specialist | CarboMat Inc. | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4456867213 |
 | Trust Administrator | BMO | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456391355 |
 | Student Services Advisor | University of Alberta | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458183325 |
+| SAP Functional Transportation/Fleet Management Lead | Accenture | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4447690437 |
+| SAP WM/EWM Lead | Accenture | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4447676928 |
+| Responsable SAP Functional Transportation et Fleet Managemen | Accenture | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4447690441 |
+| SAP Quality Management/Manufacturing Lead | Accenture | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4447677846 |
+| Digital Content Analyst: Product Content and eCommerce [AQ-1 | Aquent | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4455883022 |
+| bottling line worker | Nanton Water & Soda Ltd. | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458201297 |
+| Remote Go (Golang) Developer | turing | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=662c707c5ba3fbae |
+| Remote Rust Developer | turing | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=40e6082da469214e |
+| Remote Java Developer | turing | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=7ef15e070a7c493e |
+| Remote C/C++ Developer | turing | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=3f1d13e388aab8df |
+| Remote JavaScript Developer | turing | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=689c715b5006826a |
+| Applied AI Engineer, Internal Automation | OpenSesame | 2026-08-24 | R | https://ca.indeed.com/viewjob?jk=3f0c602246dc35d0 |
+| Math Specialist (Remote) | Hired | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458188925 |
+| Machine Learning Specialist (Remote) | Hire Feed | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458195802 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458191597 |
