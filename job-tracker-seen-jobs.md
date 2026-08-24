@@ -17948,3 +17948,7 @@
 | Payroll & Benefits Specialist | PetroChina Canada | 2026-08-23 | J | https://ca.indeed.com/viewjob?jk=4204a41652913705 |
 | Partnership Account Management Specialist | RoboGarden Inc. | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456805884 |
 | Sales and Operations Associate | 3Thirty3 Ltd. | 2026-08-23 | J | https://www.linkedin.com/jobs/view/4456820821 |
+| (CAN) Health and Beauty Team Lead | Walmart Canada | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458136113 |
+| International Admissions Advisor (Sales & Conversion Focus) | My Education Experience | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456822888 |
+| Over-the-Counter Associate | Walmart Canada | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4458132121 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4458148138 |
