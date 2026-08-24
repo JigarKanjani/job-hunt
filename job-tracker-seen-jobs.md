@@ -17972,3 +17972,7 @@
 | Business Functional Analyst, Academic Operations | NAIT (Northern Alberta Institute of Tech | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458167827 |
 | 2027 Wealth Management, Winter Administrative Assistant (4-1 | RBC Dominion Securities | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458160355 |
 | Part-Time Office Administrator | McCuaig and Associates Engineering Ltd. | 2026-08-24 | G | https://ca.indeed.com/viewjob?jk=706ea5d7b6b08214 |
+| Payroll & Benefits Specialist | Canadian Energy Insight Inc. | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4458197106 |
+| Process Development Specialist | CarboMat Inc. | 2026-08-24 | J | https://www.linkedin.com/jobs/view/4456867213 |
+| Trust Administrator | BMO | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4456391355 |
+| Student Services Advisor | University of Alberta | 2026-08-24 | N | https://www.linkedin.com/jobs/view/4458183325 |
