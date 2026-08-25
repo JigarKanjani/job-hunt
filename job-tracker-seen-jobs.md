@@ -18058,3 +18058,14 @@
 | Mortgage Agent | True North Mortgage | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=bf354c0ad886cc4e |
 | Project Management Specialist | City of Calgary | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=2a853ca5b06c2359 |
 | Wealth Experience Associate | ATB Financial | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458585549 |
+| Customer Service Specialist | Budget Promotion Corp | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457460092 |
+| Sr. Youth Development Coordinator | McMan | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=80daa78aa260fbfd |
+| Office Administrator | RECRUITMENT PARTNERS INC. | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458589708 |
+| Administrative Assistant | Pro Property Services Inc. | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457450214 |
+| Communications Systems Site Coordinator - LRT | Parsons Corporation | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458270031 |
+| Data Analyst | Reach3 Insights | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=957abd6b364fa901 |
+| Administrative Support – Foster Care Program | Enviros WSA | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458585836 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458579753 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458598400 |
+| General Merchandise Associate FT | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458591721 |
+| Overnight Associate FT | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458589713 |
