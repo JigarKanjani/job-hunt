@@ -18018,3 +18018,43 @@
 | Junior Financial Analyst | KTek Resourcing | 2026-08-24 | R | https://www.linkedin.com/jobs/view/4458211683 |
 | Optical Associate - Casual | FYidoctors | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4455889744 |
 | Part Time Sales Associate (Store# 3289 Bowness) | Pet Valu | 2026-08-24 | G | https://www.linkedin.com/jobs/view/4457103064 |
+| B2B Sales & Lead Generation Representative | CargoFlex Logistics | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=731b8c148e452735 |
+| Project Coordinator | ATCO | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=4420517f41ff74ac |
+| Electrical Design Coordinator - Kiewit Power Engineering | Kiewit Corporation | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=4fc76b2db78df6bf |
+| Administrative Services Specialist/Specialiste, Services adm | Bell Textron Inc. | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=da11c81a213c4f4e |
+| Production Lead | More Than Just Feed Inc | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=2a7d658663b47d05 |
+| Procurement Program Lead - FAL | De Havilland Aircraft of Canada Limited | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458562353 |
+| Buyer - FAL | De Havilland Aircraft of Canada Limited | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458575055 |
+| Inventory Controller | Amrize | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456551126 |
+| IT Cost Management Specialist | CPKC | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456548341 |
+| Project Coordinator | ATCO Frontec | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457196952 |
+| Pipeline Planner | Fluor Corporation | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456561359 |
+| Administrative Services Specialist/Specialiste, Services adm | Textron | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458571042 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456547204 |
+| Environmental Professional Contaminated Sites Project Coordi | Stantec | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458553346 |
+| PT - Customer Service Associate - Lumber & Building Material | RONA | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456555305 |
+| Pipeline Engineering Lead | Fluor Corporation | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456564366 |
+| AI Technical Lead | Infosys | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4456574256 |
+| Service Leader | Chipotle Mexican Grill | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458596255 |
+| Analyste en protection des données, Le Bureau du conseiller  | KPMG Canada | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458556209 |
+| Contract and Procurement Specialist | Government of Alberta | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457408727 |
+| Strategic Initiative & Research Analyst | Government of Alberta | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457404720 |
+| Maintenance Administrator | City of Calgary | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=576f6285163d84a6 |
+| Parssy Program Coordinator | Africa Centre | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=441901204ed974fb |
+| Administrative Assistant, Faculty of Veterinary Medicine | University of Calgary | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457015229 |
+| Internet Sales Advisor | Wood Automotive Group | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458588616 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458578160 |
+| Community Impact Coordinator | E4C | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458552469 |
+| District Recreation Engagement Officer | Government of Alberta | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457417106 |
+| Project Coordinator | Mammoet | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4456564194 |
+| Time Entry Administrator, Weekend Shift | North American Construction Group | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457417058 |
+| ARTS Administrator | Government of Alberta | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457401770 |
+| Tier 3 IT Support Specialist | Raytech Consulting Services | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=f2722f75a1b4815e |
+| Client Specialist | Talbots | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=627c47b0767f8f22 |
+| Systems Administrator 1 | City of Calgary | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=612577493af1a9c5 |
+| IT DESKTOP SUPPORT TECHNICIAN | Lanmark | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4458584248 |
+| AI Developer | Infosys | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4456583185 |
+| Sr Engineer, Ammonia Process NROC | Nutrien | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4456578130 |
+| Mortgage Agent | True North Mortgage | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=bf354c0ad886cc4e |
+| Project Management Specialist | City of Calgary | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=2a853ca5b06c2359 |
+| Wealth Experience Associate | ATB Financial | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458585549 |
