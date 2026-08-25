@@ -18088,3 +18088,13 @@
 | Time Entry Administrator, Weekend Shift | North American Construction Group | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=61e91e585747d522 |
 | (CAN) General Merchandise Associate | Walmart | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=28115ca82285e225 |
 | Automotive Sales Associate | Kaizen Automotive Group | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=9819a3313f4f511a |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Business Data Analyst (Remote) | Quik Hire Staffing | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4458749037 |
+| Coordinator II | Alberta Health Services | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457483424 |
+| halfway house worker | Native Counselling Services of Alberta | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458727574 |
+| Data Analyst (Remote) | Sundayy | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4458731289 |
+| Machine Learning Specialist (Remote) | Hire Feed | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4458761023 |
+| AI Process Consultant (Remote) | Hire Feed | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4458750103 |
+| (CAN) Distribution Centre Team Associate - Shipping (**Clerk | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458744442 |
+| Customer Service Representative | Olympia Tile+Stone Inc. | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4457492147 |
