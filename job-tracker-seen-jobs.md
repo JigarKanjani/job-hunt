@@ -18069,3 +18069,15 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458598400 |
 | General Merchandise Associate FT | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458591721 |
 | Overnight Associate FT | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458589713 |
+| Associate Operations Representative - Deposit Processing | RBC | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=85d754628c07e68f |
+| Associate Operations Representative - Deposit Processing | RBC | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=a35f3d3171522f97 |
+| B2B Sales & Lead Generation Representative | CargoFlex Logistics | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=0357a02feecccbb4 |
+| B2B Sales & Lead Generation Representative | CargoFlex Logistics | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=9f686fa3c5fa63f3 |
+| Operations Enablement Lead | Affirm | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457455273 |
+| Senior Compliance Analyst, Access & Privacy | NorQuest College | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4454516946 |
+| Coordinator | Recovery Alberta | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=fd1e335c7e8eef09 |
+| SR. YOUTH DEVELOPMENT COORDINATOR | McMan Youth, Family and Community Servic | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4457447520 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-08-25 | N | https://www.linkedin.com/jobs/view/4458715607 |
+| IT Help Desk Coordinator | Trotter & Morton Group of Companies | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=a775773cd2d9bfc0 |
+| Data Analyst | $50/hr Remote | Crossing Hurdles | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4457452394 |
+| Administrative Support IV | Primary Care Alberta | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=f10e9802481e7418 |
