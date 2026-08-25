@@ -18081,3 +18081,10 @@
 | IT Help Desk Coordinator | Trotter & Morton Group of Companies | 2026-08-25 | R | https://ca.indeed.com/viewjob?jk=a775773cd2d9bfc0 |
 | Data Analyst | $50/hr Remote | Crossing Hurdles | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4457452394 |
 | Administrative Support IV | Primary Care Alberta | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=f10e9802481e7418 |
+| Customer Regulatory Compliance Specialist | Flair Airlines Ltd. | 2026-08-25 | J | https://ca.indeed.com/viewjob?jk=5d82cbd966800136 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-08-25 | J | https://www.linkedin.com/jobs/view/4457457737 |
+| Business Administrative Coordinator | Canopy Property Services Muskoka | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=95aba06f84bc6abf |
+| Security Services Worker, Campus Security | University of Calgary | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=116a27619171b435 |
+| Time Entry Administrator, Weekend Shift | North American Construction Group | 2026-08-25 | N | https://ca.indeed.com/viewjob?jk=61e91e585747d522 |
+| (CAN) General Merchandise Associate | Walmart | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=28115ca82285e225 |
+| Automotive Sales Associate | Kaizen Automotive Group | 2026-08-25 | G | https://ca.indeed.com/viewjob?jk=9819a3313f4f511a |
