@@ -18163,3 +18163,7 @@
 | Protective Services Officer II | Alberta Health Services | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457699253 |
 | Oracle Fusion ERP Technical Analyst | Instacart | 2026-08-26 | R | https://ca.indeed.com/viewjob?jk=a5b322e0cfc573cc |
 | (CAN) Maintenance Team Associate | Walmart Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4459123131 |
+| Lead Teacher - Junior Preschool | McKnight Campus | FB Education Services | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459128057 |
+| Proposals and Legal Coordinator | Trotter & Morton Group of Companies | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=7b66a469bffefc2d |
+| Technical Support Specialist MV Drives | ABB | 2026-08-26 | R | https://ca.indeed.com/viewjob?jk=7728932b5f668311 |
+| Merchandising Associate - Part Time - TUSCANY | The Home Depot Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4457698309 |
