@@ -18098,3 +18098,51 @@
 | AI Process Consultant (Remote) | Hire Feed | 2026-08-25 | R | https://www.linkedin.com/jobs/view/4458750103 |
 | (CAN) Distribution Centre Team Associate - Shipping (**Clerk | Walmart Canada | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4458744442 |
 | Customer Service Representative | Olympia Tile+Stone Inc. | 2026-08-25 | G | https://www.linkedin.com/jobs/view/4457492147 |
+| Tangible Capital Assets Finance Coordinator - AMENDMENT | City of Calgary | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=abaec16a03eb1c9e |
+| NPI Procurement Specialist | Ecolab | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=36796c1be1ad53e2 |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=1f832ce103799aa3 |
+| Planning & Development Analyst | City of Calgary | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=cd680b198db4d230 |
+| Maintenance Coordinator | AirSprint Private Aviation | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=54ce287f7943046e |
+| Physiotherapy Lead (PTL) | Group23 Sports Medicine | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=2eb635b8c3a792ee |
+| Project Specialist - Security Systems | Convergint | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=9fd1fcd7b8518dd3 |
+| Water Treatment Engineering Lead | True Environmental | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=52f9a57810d8fd93 |
+| Subcontract Manager | FlatironDragados | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=c2645f0d8d75909b |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=00a36fb7c7ec2ff9 |
+| Project Support Coordinator | Insight Global | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457678031 |
+| Contracts Advisor | Raise | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457570192 |
+| Infrastructure Analyst | Whitecap Resources Inc. | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459079916 |
+| Operations Trainer | Sysco Canada Inc. | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457662854 |
+| Data Coordinator | Colliers | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459089224 |
+| Infrastructure Systems Analyst, FT, Calgary, Alberta | Baytex Energy Corp. | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457649927 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459097142 |
+| Junior Facility Planner | Mount Royal University | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457687133 |
+| Senior Reporting & Strategic Writing Specialist | Calgary Board of Education | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459078430 |
+| Senior Specialist, HR Strategic Communications and Enablemen | Raise | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457679045 |
+| Lead Project Engineer | Qualus | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4456985225 |
+| Senior Planner, Trails & Outdoor Recreation | McElhanney | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459093912 |
+| Member Experience Advisor - Crowfoot | Servus Credit Union | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457663641 |
+| Equipment Coordinator Student | PCL Construction | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459110234 |
+| Operations & Planning Coordinator | Government of Alberta | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457672409 |
+| Arabic Home Support Worker - Calgary | Adokam Home Care Services Inc | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=87eeaee096d2afbe |
+| Home Support Worker - NE Calgary | Adokam Home Care Services Inc | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=9125d88d3a80f4ab |
+| Divisional Administrator | City of Calgary | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=f24cce51d87530a2 |
+| FT Community Support Worker - Day Program | Calgary Alternative Support Services | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=302ae98f4fa93327 |
+| Senior Planner, Trails & Outdoor Recreation | McElhanney | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=80430ff26fe0dfce |
+| Senior Planner, Trails & Outdoor Recreation | McElhanney | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=ce86af198ef7f4b1 |
+| Senior Planner, Trails & Outdoor Recreation | McElhanney | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=4fbb3ca21e5279de |
+| Senior Planner, Trails & Outdoor Recreation | McElhanney | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=b15dce082264e0a2 |
+| Project Administrator | Signature Site | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457646893 |
+| Marketing Specialist | Heritage Park Historical Village | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459106485 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459098483 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459113173 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459099393 |
+| Youth Diversion Case Worker | City of Grande Prairie | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4456979427 |
+| Residential Construction Coordinator | Paul Davis Restoration of the National C | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459093728 |
+| Driver Coordinator | The Seaboard Transport Group | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4459103375 |
+| Subcontract Administrator | Primoris Services Corporation | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457652879 |
+| Administrative Assistant III | City of Grande Prairie | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4456976368 |
+| Sales Administrator | Brown's Industrial Sales | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457640903 |
+| Customer Service Advisor - Modern Auto Body | AutoCanada | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457689191 |
+| SAP CRM AO Developer | Raise | 2026-08-26 | R | https://www.linkedin.com/jobs/view/4457657968 |
+| Intermediate Administrative Assistant | Omega 365 | 2026-08-26 | G | https://ca.indeed.com/viewjob?jk=1f9046c8eed9d353 |
+| Service Desk Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4457657703 |
