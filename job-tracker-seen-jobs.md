@@ -18146,3 +18146,20 @@
 | SAP CRM AO Developer | Raise | 2026-08-26 | R | https://www.linkedin.com/jobs/view/4457657968 |
 | Intermediate Administrative Assistant | Omega 365 | 2026-08-26 | G | https://ca.indeed.com/viewjob?jk=1f9046c8eed9d353 |
 | Service Desk Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4457657703 |
+| Electrical Applications Specialist | Eaton | 2026-08-26 | J | https://ca.indeed.com/viewjob?jk=ad2565fccf43a796 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Sales & Admissions Advisor - Canada | Fueling Brains & Academies | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4454064129 |
+| Program Manager, Quality and Client Experience, ATB Client C | ATB Financial | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459096996 |
+| Personal Banking Advisor - Calgary Stephen Avenue Centre | ATB Financial | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457310252 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| System Specialist II (Field Technician Fire Alarm Systems) | Siemens | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457679773 |
+| Everyday Banking Advisor - Crossfield | ATB Financial | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459118319 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4457206071 |
+| Operations Support | Nutrien | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4456997050 |
+| (CAN) Digital Fulfillment Team Lead | Walmart Canada | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459116649 |
+| Readiness & Resilience Lead | PINKERTON | Comprehensive Risk Managemen | 2026-08-26 | J | https://www.linkedin.com/jobs/view/4459105750 |
+| Front Desk Coordinator | Healthspring Wellness | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=f19b9becd6db6f37 |
+| Administrative Assistant – People & Office | :AM CLEANING YYC | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457692502 |
+| Protective Services Officer II | Alberta Health Services | 2026-08-26 | N | https://www.linkedin.com/jobs/view/4457699253 |
+| Oracle Fusion ERP Technical Analyst | Instacart | 2026-08-26 | R | https://ca.indeed.com/viewjob?jk=a5b322e0cfc573cc |
+| (CAN) Maintenance Team Associate | Walmart Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4459123131 |
