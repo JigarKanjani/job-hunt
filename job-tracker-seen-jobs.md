@@ -18192,3 +18192,17 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=321bc4d81388b7ad |
 | (CAN) General Merchandise Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=f8961f23cb75bbe5 |
 | Directs Store Delivery Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=61e3b4d9b6fea699 |
+| Senior Health & Safety Advisor | Trans Mountain | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4452763085 |
+| Human Resources Officer | Christ The Redeemer Catholic Schools | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4459481956 |
+| Security Systems Technical Lead | Convergint | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4413788224 |
+| Consultant, I&O Operations - Ag & Trading | Cargill | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458805004 |
+| Key Account and Billing Coordinator | Eco-Pro Services Inc. | 2026-08-29 | N | https://ca.indeed.com/viewjob?jk=08de7d321c167f16 |
+| Client Advisor (PT), AX Chinook Centre | Giorgio Armani | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4450378320 |
+| Pharmacy Coordinator | Bayshore HealthCare | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4449228349 |
+| BMC Enablement Specialist | EY | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4439271244 |
+| Commercial Insurance Advisor- Sales & Service | BrokerLink | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4441939259 |
+| Accounting Administrator | Professional Staffing | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4459491730 |
+| Financial Data Analyst (Remote) | Quik Hire Staffing | 2026-08-29 | R | https://www.linkedin.com/jobs/view/4460832636 |
+| Analytics Specialist (Remote) | Quik Hire Staffing | 2026-08-29 | R | https://www.linkedin.com/jobs/view/4460833549 |
+| Resort Booking Agent | Pomeroy Lodging | 2026-08-29 | G | https://www.linkedin.com/jobs/view/4458813011 |
+| Sales Associate | Columbia Sportswear Company | 2026-08-29 | G | https://www.linkedin.com/jobs/view/4459497754 |
