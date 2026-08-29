@@ -18167,3 +18167,28 @@
 | Proposals and Legal Coordinator | Trotter & Morton Group of Companies | 2026-08-26 | N | https://ca.indeed.com/viewjob?jk=7b66a469bffefc2d |
 | Technical Support Specialist MV Drives | ABB | 2026-08-26 | R | https://ca.indeed.com/viewjob?jk=7728932b5f668311 |
 | Merchandising Associate - Part Time - TUSCANY | The Home Depot Canada | 2026-08-26 | G | https://www.linkedin.com/jobs/view/4457698309 |
+| Accounts Payable Analyst | FYidoctors | 2026-08-29 | J | https://ca.indeed.com/viewjob?jk=a6ac000b37430186 |
+| Sr Business Analyst - Disruption Management | WestJet | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4460564728 |
+| Accounts Payable Analyst | FYidoctors | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458442941 |
+| Benefits Specialist | AO Globe Life | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4456265469 |
+| Strategic Deal Lead | EY | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458454502 |
+| Climbing Wall Lead Route Setter | Mount Royal University | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458450572 |
+| Athletic Therapy Clinical Practicum Coordinator | Mount Royal University | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458928008 |
+| Equipment Coordinator | PCL Construction | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4460576314 |
+| Strategic Asset Analyst | Government of Alberta | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4459477164 |
+| Strategic Deal Lead | EY | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4458442649 |
+| Advisor, Commercial Negotiations | Ovintiv | 2026-08-29 | N | https://ca.indeed.com/viewjob?jk=0d7fae7174160f7b |
+| Clinical Coordinator – St. Albert, AB | Snore MD Sleep Apnea Clinics | 2026-08-29 | N | https://ca.indeed.com/viewjob?jk=cf16ccda06e2e40e |
+| Food Prep Worker | Aramark Canada | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4460588266 |
+| Clinical Coordinator – St. Albert, AB | Snore MD | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4460568853 |
+| Systems Coordinator | Government of Alberta | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4459473226 |
+| Benefit and Pension Coordinator | Finning | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4459462546 |
+| Communications Coordinator, Permanent Full-Time | Lac La Biche County | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4458470211 |
+| Communications Advisor - Talent Pool | Government of Alberta | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4459465268 |
+| Licensing Program Specialist | Government of Alberta | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4459466266 |
+| Administrative Assistant | PCL Construction | 2026-08-29 | N | https://www.linkedin.com/jobs/view/4460584178 |
+| M365 Administrator | Atlantis IT Group | 2026-08-29 | R | https://ca.indeed.com/viewjob?jk=a803327d41392a3b |
+| Logistics Support Specialist | Atlantis IT Group | 2026-08-29 | R | https://ca.indeed.com/viewjob?jk=ac3698930409760a |
+| (CAN) General Merchandise Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=321bc4d81388b7ad |
+| (CAN) General Merchandise Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=f8961f23cb75bbe5 |
+| Directs Store Delivery Associate | Walmart | 2026-08-29 | G | https://ca.indeed.com/viewjob?jk=61e3b4d9b6fea699 |
