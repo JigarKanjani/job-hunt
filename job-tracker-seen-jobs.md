@@ -18220,3 +18220,11 @@
 | (CAN) Electronics Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460862389 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460859364 |
 | Meat Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460860394 |
+| Marketing Coordinator | R-Square'z Ventures Pvt. Ltd. | 2026-08-30 | J | https://ca.indeed.com/viewjob?jk=bdaa982e0332b58e |
+| UDA Business Analyst - Students Seeking Opportunities | ExxonMobil | 2026-08-30 | J | https://ca.indeed.com/viewjob?jk=d8825617a02f7ee0 |
+| Accounts Payable/Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460856655 |
+| Google Ads Media Buyer / Growth Strategist (Remote) | Sweat Pants Agency | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460855668 |
+| Senior Google Ads Buyer, DTC eCommerce (Remote) | Sweat Pants Agency | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460845763 |
+| Marketing Coordinator | Watts Growth Labs | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4459707462 |
+| Google Ads Media Buyer / Growth Strategist (Remote) | Sweat Pants Agency | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460856714 |
+| Senior Google Ads Buyer, DTC eCommerce (Remote) | Sweat Pants Agency | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460845761 |
