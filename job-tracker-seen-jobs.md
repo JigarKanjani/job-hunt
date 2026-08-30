@@ -18206,3 +18206,17 @@
 | Analytics Specialist (Remote) | Quik Hire Staffing | 2026-08-29 | R | https://www.linkedin.com/jobs/view/4460833549 |
 | Resort Booking Agent | Pomeroy Lodging | 2026-08-29 | G | https://www.linkedin.com/jobs/view/4458813011 |
 | Sales Associate | Columbia Sportswear Company | 2026-08-29 | G | https://www.linkedin.com/jobs/view/4459497754 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Senior Building Envelope Specialist | Facade and Building Jobs | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4459706199 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-08-29 | J | https://www.linkedin.com/jobs/view/4460865261 |
+| Deskside Administrator | Hirematic Talent Solutions | 2026-08-29 | R | https://www.linkedin.com/jobs/view/4460864416 |
+| (CAN) Deli Bakery Team Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460847441 |
+| (CAN) Consumables Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460851406 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460848405 |
+| (CAN) Dairy Frozen Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460845430 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460853383 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460847440 |
+| (CAN) Electronics Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460862389 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460859364 |
+| Meat Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4460860394 |
