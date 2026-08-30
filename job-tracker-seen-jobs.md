@@ -18259,3 +18259,13 @@
 | Platform Systems Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460892766 |
 | Finance Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460891825 |
 | Technical Support Specialist (Remote) | Jobs Ai | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460896503 |
+| Equipment Rentals Specialist | NorthStar Equipment Rentals | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4439255709 |
+| Equipment Rentals Specialist | Clark Builders | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4442158388 |
+| Business Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461009968 |
+| Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461023059 |
+| Business Analyst - Finance (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461017107 |
+| Data Analyst - Finance (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461019108 |
+| Data Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461026050 |
+| Veterinary Assistant, Surgery, Western Veterinary Specialist | VCA Canada | 2026-08-30 | G | https://ca.indeed.com/viewjob?jk=c193a2808ad48949 |
+| Customer Service Representative | Jim Peplinski Capital | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4459744525 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4461015170 |
