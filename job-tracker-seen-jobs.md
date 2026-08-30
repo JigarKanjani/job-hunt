@@ -18235,3 +18235,27 @@
 | Product Specialist (Central - Western Canada ) - Johnson & J | Johnson & Johnson MedTech | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460891141 |
 | Project Coordinator - Environmental Consulting | Worley | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4405881364 |
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4451313143 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4459754163 |
+| GE APM-Technical Lead | Enterprise Solutions Inc. | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4458688230 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4461001664 |
+| Logistics Specialist (Remote) | Hired | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4461011488 |
+| E-commerce Specialist (Remote) | Quik Hire Staffing | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4461007635 |
+| Procurement Specialist (Remote) | Hired | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4461006443 |
+| Data Analyst - Finance (Remote) | Quik Hire Staffing | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460896655 |
+| Supply Chain Manager (Remote) | Hired | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4460892626 |
+| Client Support Case Manager | Homefront | 2026-08-30 | N | https://ca.indeed.com/viewjob?jk=d03c21311c81d98f |
+| Planner I | Regional Municipality of Wood Buffalo | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4461008295 |
+| Patient Care Coordinator (Remote) | Hired | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4461002642 |
+| Disability Services Worker, Full-Time | Taproot Community Support Services | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4459753170 |
+| Disability Service Worker, Full-Time | Taproot Community Support Services | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4459746297 |
+| Life Enrichment Coordinator - Casual | Touchmark | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4404482107 |
+| Administrative Assistant IV | City of Grande Prairie | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4458843889 |
+| Communications Specialist | Procom | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4458434706 |
+| Business Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461007300 |
+| Finance Business Analyst (Remote) | Jobs Ai | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461012484 |
+| IT Support Specialist (Remote) | Hired | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460891573 |
+| E-commerce Specialist - Data & Catalog  (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461009620 |
+| Data Analyst - Business (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4461007546 |
+| Platform Systems Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460892766 |
+| Finance Analyst (Remote) | Quik Hire Staffing | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460891825 |
+| Technical Support Specialist (Remote) | Jobs Ai | 2026-08-30 | R | https://www.linkedin.com/jobs/view/4460896503 |
