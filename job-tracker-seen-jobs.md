@@ -18269,3 +18269,7 @@
 | Veterinary Assistant, Surgery, Western Veterinary Specialist | VCA Canada | 2026-08-30 | G | https://ca.indeed.com/viewjob?jk=c193a2808ad48949 |
 | Customer Service Representative | Jim Peplinski Capital | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4459744525 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-08-30 | G | https://www.linkedin.com/jobs/view/4461015170 |
+| Operations Strategy Consultant (Remote) | Focus on Life Biz | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4459755555 |
+| Field Coordinator-Senior Specialist | Baker Hughes | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4455551786 |
+| Administrative Assistant | LASIK MD | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4459732740 |
+| Travel Administration Specialist | AMA - Alberta Motor Association | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4461026383 |
