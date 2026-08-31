@@ -18273,3 +18273,12 @@
 | Field Coordinator-Senior Specialist | Baker Hughes | 2026-08-30 | J | https://www.linkedin.com/jobs/view/4455551786 |
 | Administrative Assistant | LASIK MD | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4459732740 |
 | Travel Administration Specialist | AMA - Alberta Motor Association | 2026-08-30 | N | https://www.linkedin.com/jobs/view/4461026383 |
+| Operations Supervisor-Chinook Centre | Victoria’s Secret & Co. | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461024782 |
+| Community & Partnerships Lead | Alberta Current | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4459732920 |
+| Youth Diversion Case Worker | City of Grande Prairie | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4458863416 |
+| Administrative Assistant III | City of Grande Prairie | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4458852504 |
+| Administrative Assistant III | City of Grande Prairie | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4458871384 |
+| Police Officer - Class #5 | City of Grande Prairie | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4458862479 |
+| PMO Analyst | TC Energy | 2026-08-31 | R | https://ca.indeed.com/viewjob?jk=ff2bbf0e85f2c108 |
+| Upstream Mine/Plant Automation Engineering - Students Seekin | ExxonMobil | 2026-08-31 | R | https://ca.indeed.com/viewjob?jk=723fdd6899d8c2bf |
+| Clinical Systems Analyst | Alignerr | 2026-08-31 | R | https://www.linkedin.com/jobs/view/4461034790 |
