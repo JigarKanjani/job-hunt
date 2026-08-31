@@ -18282,3 +18282,17 @@
 | PMO Analyst | TC Energy | 2026-08-31 | R | https://ca.indeed.com/viewjob?jk=ff2bbf0e85f2c108 |
 | Upstream Mine/Plant Automation Engineering - Students Seekin | ExxonMobil | 2026-08-31 | R | https://ca.indeed.com/viewjob?jk=723fdd6899d8c2bf |
 | Clinical Systems Analyst | Alignerr | 2026-08-31 | R | https://www.linkedin.com/jobs/view/4461034790 |
+| Category Specialist | WestJet Airlines | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=b2dd7e00412a6eb3 |
+| Advisor - Fuel | WestJet | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461060844 |
+| Category Specialist | WestJet | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461043985 |
+| AltaGas - Coordinator, External Relations | AltaGas Ltd. | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4459795051 |
+| Entry Level Coordinator | ParaMed Home Health Care | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461068576 |
+| Banking Officer, Banking Client Service Team | BMO | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4457513439 |
+| Head of Recruiting Operations (Remote) - $200,000/year USD | Crossover | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4457627784 |
+| Wealth Advisor | FortWood Capital LP | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461062475 |
+| Experienced Cook with Leadership Interest | Earls Kitchen + Bar | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4230958542 |
+| Procurement Program Manager | City of Edmonton | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4458887904 |
+| AltaGas - Coordinator, External Relations | AltaGas | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=16fd95b864132bcc |
+| GHG Specialist | Dillon Consulting Limited | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4405887867 |
+| Project Coordinator - Environmental Consulting | Worley | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4405882395 |
+| Regional Plant Controller | Refresco | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=8506e08ac6c4399e |
