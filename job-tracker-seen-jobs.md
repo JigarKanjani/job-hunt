@@ -18296,3 +18296,35 @@
 | GHG Specialist | Dillon Consulting Limited | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4405887867 |
 | Project Coordinator - Environmental Consulting | Worley | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4405882395 |
 | Regional Plant Controller | Refresco | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=8506e08ac6c4399e |
+| Operations Supervisor - Distribution | Matrix Logistics | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=b9855711e252b6ed |
+| ERP Solution Architect | Rhodium Digital Ltd. | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=f54e5c50f406835c |
+| Document Control and Proposal Coordinator | Bunch Projects Ltd. | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=f6c1e0a825219ea5 |
+| Project Coordinator | Option Excavating | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=dc9c294f548237d5 |
+| Security Project Specialist | Milestone Technologies | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=6579979fbfda1b6f |
+| Coordinator, Events – Hockey | Oilers Entertainment Group | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=4431fd0474680ced |
+| Program Manager | Junior Achievement BC | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=f6a16a7d561af403 |
+| Purchasing Associate | Action Furnace | 2026-08-31 | J | https://ca.indeed.com/viewjob?jk=f351b4ea1e67a816 |
+| Senior Financial Analyst | AMA - Alberta Motor Association | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461291113 |
+| Employer Specialist, Engineering Career Centre | University of Calgary | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4461285331 |
+| Senior Tax Analyst | Superior Plus Corp | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4459239867 |
+| Trust Officer, Indigenous Wealth Solutions - Calgary/Vancouv | Scotiabank | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4460061530 |
+| SENIOR BUSINESS ADVISOR, CYBERSECURITY, ADVISORY SERVICES -  | BDC | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4460061633 |
+| SENIOR BUSINESS ADVISOR, STRATEGY; Advisory Services - Calga | BDC | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4460068434 |
+| SENIOR BUSINESS ADVISOR, ARTIFICIAL INTELLIGENCE, Advisory S | BDC | 2026-08-31 | J | https://www.linkedin.com/jobs/view/4460066407 |
+| Occupational Health & Safety Administrator | Paladin Airport Security Services | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=334fdf506c2f1506 |
+| Reservation Coordinator | The Coast Plaza Hotel & Conference Centr | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=b59ec373e136890b |
+| Senior Cyber Security Specialist | Sobeys | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=e73d813ecf72f54f |
+| Construction Administrator | Genesis Land Development Corp. | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=f32ca666e236ea56 |
+| Office Administrator | Xcel Automation Ltd. | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=0a0c97565a6e247c |
+| Payroll Coordinator Contract | Alberta Newsprint Company | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=94225097f7da1bcf |
+| PROJECT COORDINATOR | HCM Contractors Inc | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=b918e096691523dc |
+| Accessibility Support Service Coordinator | MaKami College | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=8935f9115622d40c |
+| Fleet Coordinator | KLS EARTHWORKS | 2026-08-31 | N | https://ca.indeed.com/viewjob?jk=56887faf087e248d |
+| Administrative Assistant, Student Wellness Services | University of Calgary | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4461505033 |
+| Co-op or Intern, Risk Advisory Services - Vancouver or Calga | BDO Canada | 2026-08-31 | N | https://www.linkedin.com/jobs/view/4461291069 |
+| Health & Fitness Consultant / Business Development / Persona | Prime Clinics - Performance and Longevit | 2026-08-31 | R | https://ca.indeed.com/viewjob?jk=177607e57dbaaf9d |
+| Java Developer | Apptad | 2026-08-31 | R | https://www.linkedin.com/jobs/view/4460061737 |
+| Scheduler - Temporary Part Time [SN SC3 0.20] AgeCare Shawne | AgeCare | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=d1cc9c050e8675a4 |
+| Audit Associate – Mandarin & English | Pkf Antares Professional Corporation | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=d577edb472577666 |
+| Sales Enablement Field Specialist | Chubb Insurance | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=95ab9d64cbfe9af6 |
+| Associate | Wellington-Altus | 2026-08-31 | G | https://www.linkedin.com/jobs/view/4460073433 |
