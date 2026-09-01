@@ -18351,3 +18351,20 @@
 | Case Management Counsellor | Catholic Social Services | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=df3b8cbeb72a6e9f |
 | Technical Solutions Developer | Hutton Safety Group | 2026-09-01 | R | https://ca.indeed.com/viewjob?jk=6c511887c9e17566 |
 | Mobile Sales Associate - Keyholder (Part Time) | Best Buy | 2026-09-01 | G | https://ca.indeed.com/viewjob?jk=a46f1a42587c6c14 |
+| Traffic Planning and Traffic Engineering (TPTE) Lead, Prairi | Stantec | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=b6da4b6bf9e7e3b6 |
+| Employer Specialist, Engineering Career Centre | University of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=91fdbb38d9f8e039 |
+| Specialist, Relay For Life Youth, Fundraising | Canadian Cancer Society | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4456066293 |
+| Senior System Specialist (Field Technician, Building Automat | Siemens | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4460217463 |
+| Accounts Receivable Specialist | Aston Carter | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4461584041 |
+| Rail and Transit Engineer and Lead | GHD | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4451455005 |
+| Accounts Receivable Specialist | Aston Carter | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4461562866 |
+| Contract Manager | Clean Harbors | 2026-09-01 | J | https://www.linkedin.com/jobs/view/4461558743 |
+| Administrative Assistant, Calgary Institute for the Humaniti | University of Calgary | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=c2316c6eb179a337 |
+| Administrative Assistant, Student Wellness Services | University of Calgary | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=bc4199c7c9284356 |
+| Health And Safety Advisor | Canoco Group | 2026-09-01 | N | https://www.linkedin.com/jobs/view/4460248355 |
+| Systems Engineer, Remote | FusionLayer Group | 2026-09-01 | R | https://www.linkedin.com/jobs/view/4459299183 |
+| Vehicle Sales Associate | Impact Fulfillment Services | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4461703010 |
+| Investment Banking Associate, Global Energy | TD Securities | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4461593933 |
+| LC Associate - 3 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4461590500 |
+| Sales Associate (Chinook Centre) | Swatch | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4449803602 |
+| Lumber Sales Associate: Part Time - Shawnessy | The Home Depot Canada | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4451497324 |
