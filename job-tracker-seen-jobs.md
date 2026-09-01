@@ -18328,3 +18328,26 @@
 | Audit Associate – Mandarin & English | Pkf Antares Professional Corporation | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=d577edb472577666 |
 | Sales Enablement Field Specialist | Chubb Insurance | 2026-08-31 | G | https://ca.indeed.com/viewjob?jk=95ab9d64cbfe9af6 |
 | Associate | Wellington-Altus | 2026-08-31 | G | https://www.linkedin.com/jobs/view/4460073433 |
+| Scheduling Analyst | City of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=3925d5637f85819d |
+| Communications & Events Specialist | Homefront | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=32d30919191f9eab |
+| Junior Business Analyst, Part-Time | City of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=3967c99bcf02539c |
+| Calgary Police Service - Information Management Analyst | City of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=459d3f34211a82a3 |
+| Housing Systems Analyst | City of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=97ffc92e7a0c81e8 |
+| Oil Sands Crown Royalty Analyst | Cenovus Energy | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=e8dc094b336feb6b |
+| Transit Event Planner | City of Calgary | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=80110e24ca42dbed |
+| Procurement & Supply Chain Coordinator | Armtec Inc. | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=2cd718a8f780a438 |
+| Pursuit Specialist | Stantec | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=d56de5dbe98eddc6 |
+| Part Time Sales Lead | Pandora Jewelry | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=7b4cc2e0cb93c534 |
+| Part Time Sales Lead | Pandora Jewelry | 2026-09-01 | J | https://ca.indeed.com/viewjob?jk=d4a59a922e79c506 |
+| Capital Grant Coordinator | City of Calgary | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=57c98757b23b72eb |
+| Trust Officer, Indigenous Wealth Solutions - Calgary/Vancouv | Scotiabank | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=a4733809da9b8cc5 |
+| SENIOR BUSINESS ADVISOR, STRATEGY; Advisory Services - Calga | BDC | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=f10ad02431ccffa0 |
+| SENIOR BUSINESS ADVISOR, ARTIFICIAL INTELLIGENCE, Advisory S | BDC | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=5368fcd78e7f0e95 |
+| Recovery Engagement Worker (CONTRACT) | Calgary Drop IN & Rehab Society Centre | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=9c8476fa21f7d293 |
+| Recovery Engagement Worker - Relief | Calgary Drop IN & Rehab Society Centre | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=3114911a89686a32 |
+| Overnight Fulfilment Operations Co-worker - Replenishment | IKEA | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=b7adc2914272da1d |
+| Safety Administrator, Empire Envelope | Empire Envelope | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=333fded1193c59cf |
+| Administrator, HR | Bayshore HealthCare | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=9439b06ee1e876e0 |
+| Case Management Counsellor | Catholic Social Services | 2026-09-01 | N | https://ca.indeed.com/viewjob?jk=df3b8cbeb72a6e9f |
+| Technical Solutions Developer | Hutton Safety Group | 2026-09-01 | R | https://ca.indeed.com/viewjob?jk=6c511887c9e17566 |
+| Mobile Sales Associate - Keyholder (Part Time) | Best Buy | 2026-09-01 | G | https://ca.indeed.com/viewjob?jk=a46f1a42587c6c14 |
