@@ -18377,3 +18377,24 @@
 | (CAN) Modular Team Associate | Walmart | 2026-09-02 | G | https://ca.indeed.com/viewjob?jk=4b59c34061df3dfe |
 | (CAN) Modular Team Associate | Walmart Canada | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4462116718 |
 | (CAN) Maintenance Team Associate | Walmart Canada | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4462116717 |
+| Project Control Specialist - Infrastructure | Graham | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4452484717 |
+| Tax Analyst - Canada | South Bow | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4451970268 |
+| Senior Business System Analyst | Agilus Work Solutions | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4460983611 |
+| Microsoft Defender Specialist | MNP | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4453044347 |
+| Beauty Advisor - Cle De Peau | Holt Renfrew | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4453037788 |
+| Financial Planner | RBC | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4462185360 |
+| Program Manager, Data and Agri-food Standards/ Responsable d | Canadian Standards Association | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4452623021 |
+| Kitting Coordinator | De Havilland Aircraft of Canada Limited | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4462415203 |
+| Utility Transmission Project Analyst | LJ Hanson Consulting Inc. | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4460990087 |
+| Administrative Assistant | WCG Services | 2026-09-02 | N | https://www.linkedin.com/jobs/view/4462197719 |
+| office administrator | Velocity Truck Centres, Canada | 2026-09-02 | N | https://www.linkedin.com/jobs/view/4460981212 |
+| administrative assistant | Trehan & Company | 2026-09-02 | N | https://www.linkedin.com/jobs/view/4460970452 |
+| Project Administrator | Global Technical Talent, an Inc. 5000 Co | 2026-09-02 | N | https://www.linkedin.com/jobs/view/4459556829 |
+| Application Developer | Dasro Consulting Inc. | 2026-09-02 | R | https://www.linkedin.com/jobs/view/4462402503 |
+| Automation Technician | Ecolab | 2026-09-02 | R | https://www.linkedin.com/jobs/view/4452671850 |
+| ETL developer with Snowflake | Net2Source (N2S) | 2026-09-02 | R | https://www.linkedin.com/jobs/view/4461753493 |
+| Data Analyst (Remote) | Quik Hire Staffing | 2026-09-02 | R | https://www.linkedin.com/jobs/view/4462171935 |
+| Database Administrator | Net2Source (N2S) | 2026-09-02 | R | https://www.linkedin.com/jobs/view/4457023405 |
+| Investment Banking Associate | Asbury Capital | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4460981741 |
+| Sales Associate | South Centre | Part Time |$17 per hour | Michael Hill | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4453032142 |
+| Sr. Environmental Technical Advisor- Contaminated Sites | Brunel | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4460985749 |
