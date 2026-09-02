@@ -18368,3 +18368,12 @@
 | LC Associate - 3 Month Contract - Associé(e) au centre logis | TD SYNNEX | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4461590500 |
 | Sales Associate (Chinook Centre) | Swatch | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4449803602 |
 | Lumber Sales Associate: Part Time - Shawnessy | The Home Depot Canada | 2026-09-01 | G | https://www.linkedin.com/jobs/view/4451497324 |
+| Submission officer | BLS International | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4460944132 |
+| Financial Reporting Lead | SoTalent | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4459915952 |
+| Senior Business Analyst - Technical | Boardwalk | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4460951191 |
+| (CAN) Stocking 2 Team Lead | Walmart Canada | 2026-09-02 | J | https://www.linkedin.com/jobs/view/4462109901 |
+| Child and Youth Development Specialist | Alberta Health Services | 2026-09-02 | N | https://www.linkedin.com/jobs/view/4460956155 |
+| Receptionist | LASIK MD | 2026-09-02 | G | https://ca.indeed.com/viewjob?jk=ce11c43e84a4766d |
+| (CAN) Modular Team Associate | Walmart | 2026-09-02 | G | https://ca.indeed.com/viewjob?jk=4b59c34061df3dfe |
+| (CAN) Modular Team Associate | Walmart Canada | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4462116718 |
+| (CAN) Maintenance Team Associate | Walmart Canada | 2026-09-02 | G | https://www.linkedin.com/jobs/view/4462116717 |
