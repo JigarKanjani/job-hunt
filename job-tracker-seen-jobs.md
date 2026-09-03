@@ -18411,3 +18411,38 @@
 | Maintenance and Renovations Specialist | Boardwalk | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462776345 |
 | Jr. Quality Control Associate | Factor_ | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4462775087 |
 | Winners Deerfoot City - Part Time Associate | TJX Canada – Winners, Marshalls, HomeSen | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4462784046 |
+| Specialist, People (6 Month Contract) | Walmart | 2026-09-03 | J | https://ca.indeed.com/viewjob?jk=e81849025ec8ebb8 |
+| CAPEX Analyst | Amrize | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4440495469 |
+| Advisory Consultant Carbon & Decarbonization | Mott MacDonald | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4453602395 |
+| Service Specialist | London Drugs | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4460703542 |
+| Safety Advisor | Rohit Group | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4453339753 |
+| Senior Payroll Specialist | Badger Infrastructure Solutions | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4454019493 |
+| Insurance Sales Advisor | GroupHEALTH Benefit Solutions | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4453619296 |
+| Floor Lead (Retail) (Part-time) | Mejuri | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4434603382 |
+| Materials Coordinator | Primoris Services Corporation | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4453657147 |
+| CAPEX Analyst | Amrize | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4440493669 |
+| Advisor, Asset Management | Regional Municipality of Wood Buffalo | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4462819080 |
+| Financial Analyst - Senior ( GOAPRDJP00000990 ) | S M Software Solutions Inc | 2026-09-03 | J | https://www.linkedin.com/jobs/view/4462839461 |
+| Peer Support Worker | Recovery Alberta | 2026-09-03 | N | https://ca.indeed.com/viewjob?jk=f28e542ed04a6400 |
+| Coordinator | Recovery Alberta | 2026-09-03 | N | https://ca.indeed.com/viewjob?jk=830643f417a11d39 |
+| Quality Coordinator (Remote - Temporary 6 Month Contract) | OTS | 2026-09-03 | N | https://ca.indeed.com/viewjob?jk=faf823ed6aaa39e4 |
+| Administrative Assistant | Dexian | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4461652457 |
+| Quality Coordinator (Remote - Temporary 6 Month Contract) | OTS Ltd. | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4461655471 |
+| Disability and Workers' Compensation Lead | Imperial Oil | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4453388547 |
+| Coordinator, Specialty Leasing | Primaris REIT | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4461647497 |
+| Property Administrator | Gestion Zagora | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4461666327 |
+| SAS Administrative Assistant | MaKami College | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4462851370 |
+| Property Services Coordinator | BGIS | 2026-09-03 | N | https://www.linkedin.com/jobs/view/4453379865 |
+| Dynamics 365 F&O Solution Developer | Experis Canada | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4461655264 |
+| Executive Assistant / Office Administrator | Rockwell Automation | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4453157241 |
+| Financial Data Analyst (Remote) | Joveo | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462795997 |
+| Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462823988 |
+| Operations Analyst (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462832729 |
+| Research Analyst (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462830808 |
+| Visualization Specialist (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462827921 |
+| Marketing Analyst (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462834465 |
+| Business Analyst - Finance (Remote) | Quik Hire Staffing | 2026-09-03 | R | https://www.linkedin.com/jobs/view/4462814823 |
+| Receptionist | LASIK MD | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4462110138 |
+| Project Scheduler | Amrize | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4450199648 |
+| Production Associate - Garment Hanger/Inspector - 2nd Shift | Cintas Canada | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4453635049 |
+| Global Tax Intelligence Specialist, AVP | Morgan Stanley | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4452776125 |
