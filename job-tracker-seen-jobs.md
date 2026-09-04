@@ -18446,3 +18446,17 @@
 | Project Scheduler | Amrize | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4450199648 |
 | Production Associate - Garment Hanger/Inspector - 2nd Shift | Cintas Canada | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4453635049 |
 | Global Tax Intelligence Specialist, AVP | Morgan Stanley | 2026-09-03 | G | https://www.linkedin.com/jobs/view/4452776125 |
+| IT Support Specialist | Vermilion Energy | 2026-09-04 | J | https://ca.indeed.com/viewjob?jk=50ec78fcf70931a5 |
+| Sales Support Coordinator | Rogers Communications | 2026-09-04 | J | https://www.linkedin.com/jobs/view/4463314337 |
+| Market Sales Leader | Bimbo Canada | 2026-09-04 | J | https://www.linkedin.com/jobs/view/4461117597 |
+| Talent Acquisition Coordinator | High Tide Inc. | 2026-09-04 | J | https://www.linkedin.com/jobs/view/4461139444 |
+| National Business Sales Advisor | Rogers Communications | 2026-09-04 | J | https://www.linkedin.com/jobs/view/4456025709 |
+| Digital Fulfillment Team Lead | Walmart Canada | 2026-09-04 | J | https://www.linkedin.com/jobs/view/4463185754 |
+| Commercial Banking Advisor - Real Estate | RBC | 2026-09-04 | N | https://ca.indeed.com/viewjob?jk=659e6e38453c889c |
+| Client Relations & Administrative Assistant | USA Tax Gurus | 2026-09-04 | N | https://ca.indeed.com/viewjob?jk=a0cc0d1c4d01774a |
+| Health, Safety & Environment Coordinator-2 | EllisDon Corporation | 2026-09-04 | N | https://ca.indeed.com/viewjob?jk=0137fdbb0fbba918 |
+| HP Product Specialist – Calgary | Mosaic North America | 2026-09-04 | N | https://www.linkedin.com/jobs/view/4463321221 |
+| Staff Developer - Incident Command | IBM | 2026-09-04 | R | https://www.linkedin.com/jobs/view/4461134692 |
+| Staff Developer - Incident Command | IBM | 2026-09-04 | R | https://www.linkedin.com/jobs/view/4461126806 |
+| General Merchandise Associate | Walmart | 2026-09-04 | G | https://ca.indeed.com/viewjob?jk=938a2bbda4abe56d |
+| Administrative Assistant | Engineered Air | 2026-09-04 | G | https://ca.indeed.com/viewjob?jk=f3c4a8ad1c9ad1ca |
