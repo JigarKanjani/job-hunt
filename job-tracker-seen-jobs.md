@@ -18588,3 +18588,17 @@
 | Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462650163 |
 | Insurance Agent | Experior Financial Group | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462655185 |
 | Sales Associate | For Eyes | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462654161 |
+| SALES LEAD - PART TIME - CALL IT SPRING (CHINOOK CENTRE) | ALDO Group | 2026-09-05 | J | https://ca.indeed.com/viewjob?jk=7683fd8f79012f41 |
+| Supply Chain Specialist | Modern Recruitment Ltd. | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462663300 |
+| Operations Coordinator | Fueling Brains & Academies | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4454311692 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Lead Teacher – Senior Preschool | West 85th Campus | 2 Full- | Fueling Brains & Academies | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463776876 |
+| Maintenance Planner Scheduler | CSV Midstream Solutions | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462652226 |
+| Office Administrator_P&F Time | Tetranex Solutions Inc. | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=92a6238e75396ed3 |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-05 | G | https://ca.indeed.com/viewjob?jk=a7cdc226f17d7905 |
+| Front Desk Agent - Black Diamond Club | Pomeroy Lodging | 2026-09-05 | G | https://ca.indeed.com/viewjob?jk=4fd14eb99541d5bf |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463789738 |
+| (CAN) Maintenance Team Associate (11pm - 7am) | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463782779 |
+| (CAN) Stock Unloader Associate PART TIME | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463776902 |
+| (CAN) Stock Unloader Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463779734 |
