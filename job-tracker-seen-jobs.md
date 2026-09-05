@@ -18500,3 +18500,22 @@
 | General Merchandise Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463658648 |
 | Asset Protection Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463651900 |
 | Cosmetics Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463659619 |
+| Accounting Support Analyst - Tier 1 | PBS Systems | 2026-09-05 | J | https://ca.indeed.com/viewjob?jk=39f1a42a6d8adb19 |
+| Accounting Software Support Analyst | PBS Systems | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4461452406 |
+| Lead Technician - Full Time | MEC | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4461461013 |
+| Lead Educator - Preschool | Active Start Child Care | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463726061 |
+| (CAN) Food & Consumables Team Lead | Walmart Canada | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463721014 |
+| Reconciliation Analyst | TEKsystems | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463718476 |
+| Financial Analyst | TEKsystems | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463709603 |
+| Analyst | TEKsystems | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463700949 |
+| Human Resource Coordinator - Villa Marguerite | Park Place Seniors Living | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=72a62ec5876b589e |
+| Compensation & Job Evaluation Advisor | Alberta Health Services | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462357727 |
+| Document Control & Turnover Coordinator | SITE Resource Group | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462353754 |
+| Sr Process Engineer | Tri Innovations | 2026-09-05 | R | https://www.linkedin.com/jobs/view/4462360647 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463718448 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463701770 |
+| Sales Associate | Carters Inc. | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463707990 |
+| Part-time Sales Associate/Eyewear Stylist - Kensington 10th  | Bailey Nelson | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4461448671 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463709577 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463706700 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463699860 |
