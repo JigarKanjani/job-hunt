@@ -18460,3 +18460,43 @@
 | Staff Developer - Incident Command | IBM | 2026-09-04 | R | https://www.linkedin.com/jobs/view/4461126806 |
 | General Merchandise Associate | Walmart | 2026-09-04 | G | https://ca.indeed.com/viewjob?jk=938a2bbda4abe56d |
 | Administrative Assistant | Engineered Air | 2026-09-04 | G | https://ca.indeed.com/viewjob?jk=f3c4a8ad1c9ad1ca |
+| HR Specialist | Nextgen Automation LTD | 2026-09-05 | J | https://ca.indeed.com/viewjob?jk=06e2176ac1ebb529 |
+| Coordinator, Parks Services | City of Fort Saskatchewan | 2026-09-05 | J | https://ca.indeed.com/viewjob?jk=7d94f22689855ff6 |
+| Data Engineering Analyst | Servus Credit Union | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462335872 |
+| Project Coordinator | Logel Homes | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4461421096 |
+| CRM Coordinator | Gowling WLG | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462345193 |
+| Coordinator - Food & Water Safety | WestJet | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463687587 |
+| Collections Specialist | Gowling WLG | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462334308 |
+| Talent Acquisition Specialist (6 Month Term) | Calgary Airports | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463675913 |
+| EHS Specialist II | Modine Manufacturing Company | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463693235 |
+| Health & Safety Advisor - Calgary | Manufacturers' Health & Safety Associati | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463653918 |
+| Advisor Commodity Tax | CPKC | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463682872 |
+| Transportation Supervisor- EN | CN | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463668801 |
+| Transportation Supervisor- EN | CN | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463681057 |
+| Safety and Training Leader | Prairie Bus Lines | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462329438 |
+| JR Inventory Technician (Heavy Equipment) – Entry level | Sureway Construction Group Ltd. | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4462356195 |
+| Staff and Volunteer Coordinator | Distress Centre Calgary | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=faf258668d849225 |
+| Advisor Commodity Tax | CPKC | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=1a2495ff4b028aff |
+| Disability Support Worker | new age services | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=ac955a9adf7aa38b |
+| Talent Acquisition Coordinator (Contract) | Clark Builders | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=da4247e433c76b80 |
+| Contract Administrator | Convergint | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4463672968 |
+| Theatre Liaison | Mount Royal University | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4461417356 |
+| Financial Advisor - Taradale | Servus Credit Union | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4461333003 |
+| Member Experience Advisor - Crossfield | Servus Credit Union | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462347095 |
+| Legal Administrative Assistant - Trademark | Gowling WLG | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4454782806 |
+| Experiential Learning Coordinator | Lethbridge Polytechnic | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462361079 |
+| Curriculum & Transfer Specialist | Lethbridge Polytechnic | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462348223 |
+| Disability Services Worker - Supported Independent Living, F | Taproot Community Support Services | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462360151 |
+| Health Compliance Officer - Continuing Care | Government of Alberta | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4462359224 |
+| Administrative Assistant (Fusion Collision) | Go Auto | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4463667635 |
+| Process Technologist | Associated Engineering | 2026-09-05 | R | https://ca.indeed.com/viewjob?jk=51c354993a68e0e7 |
+| Personal Trainer | Anytime Fitness Asia | 2026-09-05 | R | https://www.linkedin.com/jobs/view/4462336837 |
+| Financial Analyst, External Financial Advisory (January 2027 | MNP | 2026-09-05 | R | https://www.linkedin.com/jobs/view/4462340787 |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-05 | G | https://ca.indeed.com/viewjob?jk=538f770f12b72270 |
+| General Merchandise Associate | Walmart | 2026-09-05 | G | https://ca.indeed.com/viewjob?jk=fff29840a9f88ebe |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-09-05 | G | https://ca.indeed.com/viewjob?jk=0e23b5ad45999d76 |
+| Switchboard Agent | Pomeroy Lodging | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4461426017 |
+| New Graduate Program - 2027 Data Science Associate, Finance  | Canadian Tire Corporation | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463679059 |
+| General Merchandise Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463658648 |
+| Asset Protection Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463651900 |
+| Cosmetics Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463659619 |
