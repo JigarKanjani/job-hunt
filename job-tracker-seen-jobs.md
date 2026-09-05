@@ -18580,3 +18580,11 @@
 | Recruitment Administrator | Bird Construction | 2026-09-05 | N | https://www.linkedin.com/jobs/view/4445267603 |
 | IT Support Specialist | Fleetworthy | 2026-09-05 | R | https://www.linkedin.com/jobs/view/4461495440 |
 | Platform Engineer | Fleetworthy | 2026-09-05 | R | https://www.linkedin.com/jobs/view/4461486442 |
+| Head of Operations | LocalizationJobs.com | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463786589 |
+| Client Experience Leader - Calgary | JobsMedia.io | 2026-09-05 | J | https://www.linkedin.com/jobs/view/4463767650 |
+| Care Coordinator - Evenings | Lifemark Health Group | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=d1266ef1a5f95ba2 |
+| Property Administration & Resident Experience Coordinator R0 | Greystar | 2026-09-05 | N | https://ca.indeed.com/viewjob?jk=30ce4667c7c61cfb |
+| Tech & Client Support Administrator | Tim Schaufele Professional Corporation | 2026-09-05 | R | https://ca.indeed.com/viewjob?jk=42f3f411bd6e146f |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462650163 |
+| Insurance Agent | Experior Financial Group | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462655185 |
+| Sales Associate | For Eyes | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4462654161 |
