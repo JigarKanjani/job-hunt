@@ -18608,3 +18608,11 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-09-06 | G | https://ca.indeed.com/viewjob?jk=03ce2a9eb5b84078 |
 | Front Desk Agent - Black Diamond Club | Pomeroy Lodging | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4461497642 |
 | Back End Associate | RONA | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4464002170 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Specialist, Enterprise Tax | KPMG Canada | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4455121367 |
+| Lead Hand | Intelcom | Dragonfly | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4414289490 |
+| Program Manager, Environmental Services | Regional Municipality of Wood Buffalo | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4464020349 |
+| Dietary Worker | Aramark Canada | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4463307934 |
+| Advisor, Reconciliation | Regional Municipality of Wood Buffalo | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4464032336 |
+| Sanitation Associate | 7-Eleven | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4455112034 |
