@@ -18602,3 +18602,9 @@
 | (CAN) Maintenance Team Associate (11pm - 7am) | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463782779 |
 | (CAN) Stock Unloader Associate PART TIME | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463776902 |
 | (CAN) Stock Unloader Associate | Walmart Canada | 2026-09-05 | G | https://www.linkedin.com/jobs/view/4463779734 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4462658712 |
+| SAP MM Functional Lead | Experis | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4462664663 |
+| Product Support Specialist - Mining Undercarriage | The Carlstar Group | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4457641931 |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-06 | G | https://ca.indeed.com/viewjob?jk=03ce2a9eb5b84078 |
+| Front Desk Agent - Black Diamond Club | Pomeroy Lodging | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4461497642 |
+| Back End Associate | RONA | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4464002170 |
