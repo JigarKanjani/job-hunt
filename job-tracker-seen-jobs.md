@@ -18616,3 +18616,9 @@
 | Dietary Worker | Aramark Canada | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4463307934 |
 | Advisor, Reconciliation | Regional Municipality of Wood Buffalo | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4464032336 |
 | Sanitation Associate | 7-Eleven | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4455112034 |
+| Global Employee Specialist | Hootsuite | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4464032702 |
+| Learning & Content Design Coordinator | Sinogap Solutions Leadership Consulting | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4464030919 |
+| Business Analyst (Remote) | Quik Hire Staffing | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4464020798 |
+| Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4464022797 |
+| Data Analyst (Remote) | Quik Hire Staffing | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4464038738 |
+| Engineer Associate - Multiple Locations | Cargill | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4451738585 |
