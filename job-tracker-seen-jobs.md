@@ -18622,3 +18622,9 @@
 | Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4464022797 |
 | Data Analyst (Remote) | Quik Hire Staffing | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4464038738 |
 | Engineer Associate - Multiple Locations | Cargill | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4451738585 |
+| Market Experience Coordinator | Gasoline Alley Farmers' Market | 2026-09-06 | J | https://ca.indeed.com/viewjob?jk=092cf41403ed90c6 |
+| BI Analyst - Data Analytics & AI | Addmore Group | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4454075758 |
+| Market Services Coordinator | Gasoline Alley Farmers' Market | 2026-09-06 | N | https://ca.indeed.com/viewjob?jk=2bec303588011461 |
+| L2 Support Developer- Java | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=b0c70221c52f67c3 |
+| L1 Support Developer- Java | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=17a20cf0efc66564 |
+| L1 Support Developer- Python | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=5343a3297ee88387 |
