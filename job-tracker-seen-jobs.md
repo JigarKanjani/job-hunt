@@ -18632,3 +18632,8 @@
 | Office Administrator | Calgary Wholesale Cash and Carry | 2026-09-06 | N | https://ca.indeed.com/viewjob?jk=7b069114fde97f18 |
 | QC / Farmout Coordinator | Stream-Flo Industries | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4437893520 |
 | Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4462674942 |
+| (CAN) Stocking 2 Team Lead | Walmart Canada | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4464086173 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Enterprise Systems Administrator | Ledcor | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4463393838 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4464071196 |
