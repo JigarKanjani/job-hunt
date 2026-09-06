@@ -18628,3 +18628,7 @@
 | L2 Support Developer- Java | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=b0c70221c52f67c3 |
 | L1 Support Developer- Java | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=17a20cf0efc66564 |
 | L1 Support Developer- Python | Showman Sphere Inc | 2026-09-06 | R | https://ca.indeed.com/viewjob?jk=5343a3297ee88387 |
+| Advisor, HR | Nutrien | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4461102504 |
+| Office Administrator | Calgary Wholesale Cash and Carry | 2026-09-06 | N | https://ca.indeed.com/viewjob?jk=7b069114fde97f18 |
+| QC / Farmout Coordinator | Stream-Flo Industries | 2026-09-06 | N | https://www.linkedin.com/jobs/view/4437893520 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4462674942 |
