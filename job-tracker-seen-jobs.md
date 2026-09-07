@@ -18674,3 +18674,9 @@
 | Clinical Research Coordinator | Aspire Care Clinic | 2026-09-07 | N | https://ca.indeed.com/viewjob?jk=774f8fc387877e40 |
 | District Administrative Specialist/Receptionist | Rexel Canada | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4464371611 |
 | L1 Application Support Developer – Java | Women Innovators In Tech | 2026-09-07 | R | https://ca.indeed.com/viewjob?jk=1add89b61e221f0a |
+| Document Management Coordinator | Lifemark Health Group | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4462240615 |
+| Document Management Coordinator | Lifemark Health Group | 2026-09-07 | N | https://ca.indeed.com/viewjob?jk=60fa4eef850497a7 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4464393134 |
+| Maximo Technical Developer | IBM | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462231578 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4462998284 |
+| Receptionist | FWBA Architects | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4462990334 |
