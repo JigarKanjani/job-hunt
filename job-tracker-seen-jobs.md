@@ -18643,3 +18643,12 @@
 | Remote IT Support Specialis | AA Consultant Srl | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462914183 |
 | Selling Associate-Chinook Centre | Victoria’s Secret & Co. | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464081381 |
 | Sales Associate | Staples Canada | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464080577 |
+| Production Planner | Modine Manufacturing Company | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4463608819 |
+| Junction Box - Lead Hand | Modine Manufacturing Company | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4456785086 |
+| FanMod Leadhand - Afternoon | Modine Manufacturing Company | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4456797002 |
+| Cybersecurity Governance, Risk & Compliance (GRC) Analyst | Compugen Inc | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4453263115 |
+| Procurement Student | PCL Construction | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464090697 |
+| Advisor, Transportation Compliance | Keyera | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4462935029 |
+| Skid Completion Worker-Day Shift | Modine Manufacturing Company | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4456776993 |
+| Specialist, Talent Enablement | Alberta Investment Management Corporatio | 2026-09-07 | R | https://ca.indeed.com/viewjob?jk=6cf83f741668ab67 |
+| Data Specialist | $90/hr Remote | Crossing Hurdles | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462925471 |
