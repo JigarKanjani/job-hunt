@@ -18652,3 +18652,15 @@
 | Skid Completion Worker-Day Shift | Modine Manufacturing Company | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4456776993 |
 | Specialist, Talent Enablement | Alberta Investment Management Corporatio | 2026-09-07 | R | https://ca.indeed.com/viewjob?jk=6cf83f741668ab67 |
 | Data Specialist | $90/hr Remote | Crossing Hurdles | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462925471 |
+| Advisor, Transportation Compliance | Keyera Corp | 2026-09-07 | J | https://ca.indeed.com/viewjob?jk=677c8de5bc89e214 |
+| Senior Canadian Team Lead/Customs Rater | JORI Logistics | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4462953450 |
+| Lead Data Engineer - Databricks (Remote) | Lumenalta | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464338633 |
+| Christmas Kettle Fundraising Coordinator | The Salvation Army in Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4454225182 |
+| Business Analyst - Finance (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464319932 |
+| Business Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464336117 |
+| Data Analyst - Finance (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464322860 |
+| Data Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464353037 |
+| Financial Data Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464327933 |
+| Freelance Data Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464330827 |
+| Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464339089 |
+| Return Agent - Calgary Airport | National Car Rental | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464313793 |
