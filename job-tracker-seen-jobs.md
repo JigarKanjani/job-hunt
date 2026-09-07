@@ -18664,3 +18664,13 @@
 | Freelance Data Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464330827 |
 | Junior Business Analyst (Remote) | Quik Hire Staffing | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4464339089 |
 | Return Agent - Calgary Airport | National Car Rental | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464313793 |
+| Project Coordinator | Rexel Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464370634 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| FRONT END TEAM LEAD | Walmart Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464361454 |
+| Project Coordinator | Rexel Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464365681 |
+| Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4451211829 |
+| Project Coordinator | Rexel Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464368619 |
+| (CAN) Stocking 3 Team Lead | Walmart Canada | 2026-09-07 | J | https://www.linkedin.com/jobs/view/4464381139 |
+| Clinical Research Coordinator | Aspire Care Clinic | 2026-09-07 | N | https://ca.indeed.com/viewjob?jk=774f8fc387877e40 |
+| District Administrative Specialist/Receptionist | Rexel Canada | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4464371611 |
+| L1 Application Support Developer – Java | Women Innovators In Tech | 2026-09-07 | R | https://ca.indeed.com/viewjob?jk=1add89b61e221f0a |
