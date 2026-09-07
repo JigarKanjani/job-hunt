@@ -18637,3 +18637,9 @@
 | Armour Officer | Canadian Armed Forces | Forces armées ca | 2026-09-06 | J | https://www.linkedin.com/jobs/view/4451211829 |
 | Enterprise Systems Administrator | Ledcor | 2026-09-06 | R | https://www.linkedin.com/jobs/view/4463393838 |
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-09-06 | G | https://www.linkedin.com/jobs/view/4464071196 |
+| Administrative Assistant III | City of Grande Prairie | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4461877252 |
+| Administrative Assistant IV | City of Grande Prairie | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4461860265 |
+| Police Officer - Class #5 | City of Grande Prairie | 2026-09-07 | N | https://www.linkedin.com/jobs/view/4461855272 |
+| Remote IT Support Specialis | AA Consultant Srl | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462914183 |
+| Selling Associate-Chinook Centre | Victoria’s Secret & Co. | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464081381 |
+| Sales Associate | Staples Canada | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4464080577 |
