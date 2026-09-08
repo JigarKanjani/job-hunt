@@ -18680,3 +18680,12 @@
 | Maximo Technical Developer | IBM | 2026-09-07 | R | https://www.linkedin.com/jobs/view/4462231578 |
 | Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4462998284 |
 | Receptionist | FWBA Architects | 2026-09-07 | G | https://www.linkedin.com/jobs/view/4462990334 |
+| Supply Management Professional - Contract Specialist - Major | Canadian Natural Resources Limited (CNRL | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4457175810 |
+| Distribution Centre Team Associate - Operations II (HVDC 608 | Walmart Canada | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4464398642 |
+| Telecommunications & Civil Project Coordinator | Manufacturing Job Site | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4462995837 |
+| Reclamation Coordinator | Canadian Natural Resources Limited (CNRL | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4456050272 |
+| Commercial Advisor | Canadian Natural Resources Limited (CNRL | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4458698094 |
+| Support Worker | Resilient Hearts | 2026-09-08 | N | https://ca.indeed.com/viewjob?jk=89a19715655c7062 |
+| Clinical Systems Analyst | Alignerr | 2026-09-08 | R | https://www.linkedin.com/jobs/view/4464435098 |
+| Overnight Associate | Walmart Canada | 2026-09-08 | G | https://www.linkedin.com/jobs/view/4464409283 |
+| Overnight Associate | Walmart Canada | 2026-09-08 | G | https://www.linkedin.com/jobs/view/4464387817 |
