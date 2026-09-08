@@ -18689,3 +18689,5 @@
 | Clinical Systems Analyst | Alignerr | 2026-09-08 | R | https://www.linkedin.com/jobs/view/4464435098 |
 | Overnight Associate | Walmart Canada | 2026-09-08 | G | https://www.linkedin.com/jobs/view/4464409283 |
 | Overnight Associate | Walmart Canada | 2026-09-08 | G | https://www.linkedin.com/jobs/view/4464387817 |
+| Control Panel Specialist | CDN | 2026-09-08 | J | https://www.linkedin.com/jobs/view/4455537971 |
+| Overnight Associate | Walmart Canada | 2026-09-08 | G | https://www.linkedin.com/jobs/view/4464450423 |
