@@ -18796,3 +18796,55 @@
 | Overnight Associate | Walmart Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466359098 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466358112 |
 | ProSales Associate | Herc Rentals | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466343272 |
+| Senior Analyst, Markets | Inter Pipeline Ltd | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=9ce4aee5f4800926 |
+| Senior Analyst, Strategic Initiatives | Inter Pipeline Ltd | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=20ddbba9eea97e6d |
+| Engineering Lead Estimator | Rising Edge Group | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=463b79a308f82dad |
+| Coffee Category Specialist | DSL Ltd. | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=1d832a274b866cbb |
+| Senior Analyst, Markets | Inter Pipeline | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465107737 |
+| Analyst – Corporate Services Contracts – Information Service | Raise | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466372258 |
+| Senior Buyer | Suntory Global Spirits | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4453163105 |
+| Commercial Operations Scheduler | Gibson Energy | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4456299802 |
+| Procurement Administrator, Services (Part-Time) | Boardwalk | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465117685 |
+| Senior Analyst, Strategic Initiatives | Inter Pipeline | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465121562 |
+| Buyer | NES Fircroft | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465108930 |
+| Pre-construction Specialist | Rising Edge Group | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466379530 |
+| Finance and Administration Coordinator | AGAT Laboratories | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466373231 |
+| Engineering Lead Estimator | Rising Edge Group | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466350725 |
+| Business Analyst – Infrastructure & Cybersecurity | TEEMA | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464815025 |
+| Customer Experience Lead - Mahogany Branch, AB (37.5 hours/w | Scotiabank | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465148101 |
+| Discipline Lead - Indigenous Rights and Consultation | Dillon Consulting Limited | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466342429 |
+| Controller, Finance Operations and Transformation | H&R Block Canada | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4445069052 |
+| Team Lead, Sourcing - Procurement and Contract Management Se | MacEwan University | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466373791 |
+| Operations Optimization Specialist - West | The Bolt Supply House Ltd. | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466366670 |
+| Patient Appointment Confirmation Coordinator | Cloudbreak Eye Care | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=2710451e152dd2c5 |
+| Accounts Payable Administrator | Heritage Park Historical Village | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=d0bc822bfcb444da |
+| Nordic Spa Sales and Marketing Coordinator | Pomeroy Lodging | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=4b13d2fc4091f7d3 |
+| Project Coordinator | Northgate Industries Ltd - Acheson | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=eb760a7708d71c50 |
+| Part-time Learning Commons Facilitator W.H. Croxford High Sc | Rocky View Schools | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465120929 |
+| Health & Safety Advisor | AGF Group Inc. | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465113499 |
+| Temporary Administrative Assistant II - Human Resources Depa | Rocky View Schools | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465138042 |
+| Case Support Analyst | Government of Alberta | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465154132 |
+| New Home Sales Specialist | Crystal Creek Homes | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465111704 |
+| New Homes Sales Specialist | Crystal Creek Homes | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465129567 |
+| Specialist, Accident Benefits Claims | Definity | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466347754 |
+| Financial Advisor/ Senior Financial Advisor - Okotoks Branch | Servus Credit Union | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465122559 |
+| Senior Financial Advisor - Castleridge, Calgary, AB | Scotiabank | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465172073 |
+| Financial Advisor/ Senior Financial Advisor - South Trail Br | Servus Credit Union | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465116609 |
+| 2027 Capital Markets, Global Research Winter Analyst (8 Mont | RBC | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466341659 |
+| Sr. Regulatory Reporting Analyst - Finance | Peoples Group | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465154138 |
+| Operations Coordinator (Remote - Canada) | Smart Apartment Data | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466378207 |
+| Community Relations Coordinator | Optima Living | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464817409 |
+| Casual - Payroll & Benefits Administrator | Parkland School Division | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465136059 |
+| Operations Coordinator (Remote - Canada) | Smart Apartment Data | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466381216 |
+| Community Disability Worker - Full Time Day Hours | Robin Hood Association | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465170015 |
+| Project Coordinator/Admin | WSP in Canada | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4446426446 |
+| Cloud Platform / Site Reliability Engineer (SRE) | Digioptimizet | 2026-09-11 | R | https://ca.indeed.com/viewjob?jk=ddc4d8e928873931 |
+| Analyst, Benefits | Nutrien | 2026-09-11 | R | https://ca.indeed.com/viewjob?jk=6f856900ede83b49 |
+| Co-op/Intern Enterprise Platforms | Kinaxis | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4466351726 |
+| Security Communications and Training Specialist | BuzzClan | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4464223995 |
+| Receptionist/Administrative Assistant | Sond Industries | 2026-09-11 | G | https://ca.indeed.com/viewjob?jk=880649ffff06c3c6 |
+| Customer Service Representative | Bondars Furniture | 2026-09-11 | G | https://ca.indeed.com/viewjob?jk=7efd4328301f005b |
+| Inforce Service Administrator | HUB International | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4464252028 |
+| GYMVMT Front Desk Associate - Calgary Canyon Meadows | GoodLife Fitness | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4464225745 |
+| Customer Service Instant Return Representative | Hertz | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4464567785 |
+| Project Controller | Rising Edge Group | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466366263 |
