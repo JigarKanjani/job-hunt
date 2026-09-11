@@ -18734,3 +18734,24 @@
 | Administrative Support IV | Alberta Precision Labs | 2026-09-11 | G | https://ca.indeed.com/viewjob?jk=20df3501232c651a |
 | Associate Vice President, Corporate Finance | KPMG Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466055307 |
 | Associate, Corporate Finance | KPMG Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466054303 |
+| Package Specialist-SAP HANA SCM MM | IBM | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4463928724 |
+| SAP EWM Specialist | NDT Global | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4419436124 |
+| Sourcing Specialist | Parkland Corporation | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4454149431 |
+| Senior Sourcing Specialist | Parkland Corporation | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4454138510 |
+| Fixture Support Coordinator | TEKsystems | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466079533 |
+| Information Technology Investment and Vendor Strategist | City of Calgary | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464891095 |
+| Lead, Asset Management | City of Calgary | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464883121 |
+| IT Project Coordinator | Enterprise Solutions Inc. | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464566607 |
+| Procurement Manager | DSJ Global | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466099654 |
+| Clinic Lead | Bios Wellness Clinics | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464876886 |
+| Samsung Home Electronics Sales and Product Specialist | Premium Retail Services | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4446734101 |
+| home support worker | Adokam Home Care | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466065932 |
+| Disability Services Worker - Complex Needs, Part-Time | Taproot Community Support Services | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465100059 |
+| Fleet Administrator | GFL - Sewer Technologies Division | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466089150 |
+| Systems Administrator - Specialist | Calgary Co-op | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4466075965 |
+| Research and Process Engineer | Crosslinked | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4464866764 |
+| Data and AI Enablement Specialist(Business Analyst) | TEEMA | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4464885151 |
+| Intermediate Real Property IT Project Coordinator | StafinGo | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4463980905 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4466077509 |
+| Business Analyst - Finance (Remote) | Quik Hire Staffing | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4466093629 |
+| Contact Centre Service Agent (BC/AB - Remote) | The Travel Corporation | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4454130756 |
