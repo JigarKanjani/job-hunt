@@ -18709,3 +18709,28 @@
 | Customer Service Representative | Hertz | 2026-09-09 | G | https://www.linkedin.com/jobs/view/4464975892 |
 | Customer Service and Sales Associate | Hertz | 2026-09-09 | G | https://www.linkedin.com/jobs/view/4464981642 |
 | Customer Service Instant Return Representative | Hertz | 2026-09-09 | G | https://www.linkedin.com/jobs/view/4464980607 |
+| Senior Financial Analyst | Alberta Health Services | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464855490 |
+| Analyste, Perspectives et gestion de portefeuilles | Canadian Cancer Society | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466047650 |
+| Executive Assistant & Office Coordinator | Pinnacle Pipe and Fusion | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464833603 |
+| Hiring Coordinator | Fleet Edge | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464840785 |
+| Application Engineering Specialist – Alberta | Armstrong Fluid Technology | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4449944561 |
+| Senior Environmental Health and Safety Officer | Mount Royal University | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4462526979 |
+| Program Lead, Brain Economy Initiative, The Hotchkiss Brain  | University of Calgary | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466034322 |
+| Analyste en solutions infonuagiques | Canadian Cancer Society | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465849805 |
+| LOGISTICS MANAGEMENT SPECIALIST (SECTION LEAD) | Naval Air Warfare Center Training System | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466060205 |
+| PROGRAM ANALYST | Naval Air Warfare Center Training System | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466054311 |
+| Corporate Travel Administrator | PBS Systems | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4463966003 |
+| Administrative Assistant, Haskayne School of Business | University of Calgary | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465350187 |
+| IBM Maximo (MAS ) Technical Specialist | Accenture | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464855195 |
+| Co-op or Intern, Risk Advisory Services - Vancouver or Calga | BDO Canada | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465866734 |
+| Casual CYC Counsellors | Hull Services | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4463967364 |
+| Treatment Coordinator | University of Alberta | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466027731 |
+| Academic Administrative Assistant - Pediatrics | University of Alberta | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466032687 |
+| Client Service Specialist, Commercial Banking - Edmonton (Co | Scotiabank | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464815960 |
+| Fleet Administrator | GFL Environmental Inc. | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466024244 |
+| Insolvency Analyst, Personal Debt Solutions | BDO Canada | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464691020 |
+| Personal Insurance Advisor | BrokerLink | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466028949 |
+| Specialist, International Corporate Tax | KPMG Canada | 2026-09-11 | R | https://www.linkedin.com/jobs/view/4466048353 |
+| Administrative Support IV | Alberta Precision Labs | 2026-09-11 | G | https://ca.indeed.com/viewjob?jk=20df3501232c651a |
+| Associate Vice President, Corporate Finance | KPMG Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466055307 |
+| Associate, Corporate Finance | KPMG Canada | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466054303 |
