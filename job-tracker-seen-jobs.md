@@ -18848,3 +18848,67 @@
 | GYMVMT Front Desk Associate - Calgary Canyon Meadows | GoodLife Fitness | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4464225745 |
 | Customer Service Instant Return Representative | Hertz | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4464567785 |
 | Project Controller | Rising Edge Group | 2026-09-11 | G | https://www.linkedin.com/jobs/view/4466366263 |
+| Applications Specialist (Electrical Switchgear Estimator) | Sabre Ltd | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=4e7d267889e0e51a |
+| MARKETING SPECIALIST – DIGITAL & COMMUNITY | Nutter's Bulk & Natural Foods | 2026-09-11 | J | https://ca.indeed.com/viewjob?jk=fd7914c018b57598 |
+| Program Manager | CTDI | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464256181 |
+| Program Manager | CTDI | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466410402 |
+| Service/Parts Advisor | Charger Logistics Inc. | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466396280 |
+| Specialist, Westcoast Asset Performance | Enbridge | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464246296 |
+| (CAN) Team Leader, Transportation (SC) | Walmart Canada | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466407927 |
+| Sr Reporting Analyst (15 month contract) - 280 EN | Export Development Canada | Exportation  | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466387851 |
+| Finance and Administration Coordinator | AGAT Laboratories | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464253172 |
+| Corporate Administative Coordinator | Gibson Energy | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465167675 |
+| Program Lead - maximo | Apptoza Inc. | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464252282 |
+| Market and Operational Readiness Advisor | Enbridge | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464257199 |
+| Talent Acquisition Specialist | Flynn Group of Companies | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465167317 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Program Manager, Mathison Centre | University of Calgary | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466392142 |
+| Business Development Specialist | Environmental 360 Solutions | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465164453 |
+| Program Advisor, Entrepreneurship & Innovation- Haskayne Cen | University of Calgary | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465334309 |
+| Analyst, Insights and Pipeline Management | Canadian Cancer Society | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464827264 |
+| Systems Support Analyst | UFA | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465161476 |
+| Analyst, Benefits | Nutrien | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4464261184 |
+| Chartered Financial Analyst | Adecco | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4465164533 |
+| Jr. Buyer | AGI - Ag Growth International | 2026-09-11 | J | https://www.linkedin.com/jobs/view/4466405268 |
+| Health & Safety Advisor | Sabre Ltd | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=3ac4315c02f0fe00 |
+| Applications Administrator | Sabre Ltd | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=e00d074b6350bca2 |
+| HR Coordinator | Euphoria Beauty Bar | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=83d8b9aadddd1302 |
+| Spa Receptionist and Clinic Coordinator | Remedy Spa Banff | 2026-09-11 | N | https://ca.indeed.com/viewjob?jk=f415accf6ef96ead |
+| Branch Administrator | Cornerstone | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466398407 |
+| Payroll Coordinator | Arrow Workforce Solutions | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465165274 |
+| Accounts Payable Administrator | Heritage Park Historical Village | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466397061 |
+| Service Advisor | Dilawri Group of Companies | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466383940 |
+| Everyday Banking Advisor - Calgary Forest Lawn | ATB Financial | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466388485 |
+| Social Media Advisor (Temporary - Mat Leave Coverage) | Alberta Cancer Foundation | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465171580 |
+| AltaGas - Sr Advisor, Emergency Management | AltaGas Ltd. | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465153293 |
+| Senior Insurance Advisor | Westland Insurance Group Ltd. | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464241595 |
+| Program Coordinator - School, Group and Registered Programs | City of Edmonton | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4464254327 |
+| Facilities Coordinator/Planner/Scheduler | JLL | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466413124 |
+| Patient Care Coordinator (Remote) | Sentrex Health Solutions | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465170732 |
+| Appointment Coordinator (Kentwood Ford) | Go Auto | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466424092 |
+| HR Coordinator | Primoris Services Corporation | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466391280 |
+| Social Worker - Red Deer | CBI Home Health | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4465166304 |
+| Project Coordinator | AMA - Alberta Motor Association | 2026-09-11 | N | https://www.linkedin.com/jobs/view/4466384918 |
+| Pay and Benefit Specialist | Edmonton Catholic Schools | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=11f66dc8332577dc |
+| ICT Specialist | PCL Construction | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=25ed9b83a47cccd7 |
+| Project Coordinator | Sabre Ltd | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=a7e1f7c423508129 |
+| ArcGIS Developer - Strong in Networks suite of utility produ | Smart IT Frame LLC | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4465147539 |
+| Financial Reporting Contractor | RECRUITMENT PARTNERS INC. | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466411789 |
+| SAP Identity Analyst | ATB Financial | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466397388 |
+| Windows Server Administrator | Apptoza Inc. | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464261178 |
+| Windows Server Administrator | Apptoza Inc. | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464258202 |
+| Capital Management Analyst | ATB Financial | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466409293 |
+| GIS Coordinator, Parks and Roads Services | City of Edmonton | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464259355 |
+| Food & Beverage Coordinator | Pursuit | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464250384 |
+| Receptionist | Primer AutoBody | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=57b31fcf03bb49bd |
+| Modular Team Associate | Walmart | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=445dd6821e6ccfd5 |
+| Controller (CPA) | GAM Technical Services Inc | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=e87ba7018cf35837 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465168445 |
+| Nordic Spa Sales and Marketing Coordinator | Pomeroy Lodging | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4464259580 |
+| New Home Sales Associate | WestCreek Homes | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466394360 |
+| Front End Checkout Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466397961 |
+| Credit and Collection Agent | Master | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466425212 |
+| Associate | TC Energy | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4464261380 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466413027 |
+| Salesforce Administrator | Parkland Corporation | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465155710 |
+| Salesforce Administrator | Parkland Corporation | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465148650 |
