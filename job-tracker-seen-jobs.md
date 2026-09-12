@@ -18965,3 +18965,22 @@
 | Finance Analyst (Remote) | Joveo | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466489168 |
 | Nike - BOH Athlete (BOH Sales Associate) - Chinook | RETAILORS | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4456285274 |
 | Nike - Sales Athlete (Sales Associate) - Chinook | RETAILORS | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4456296258 |
+| People & Culture Coordinator (Temporary, Full-Time) | Women In Need Society | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=999410914b68f6ec |
+| Marketing Coordinator | Enerva | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=ab92160680995ca3 |
+| Coordinator, Proposals | Aecon Group Inc. | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4456297644 |
+| Coordinator, Human Resources | Aecon Group Inc. | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4456288620 |
+| Property Operations Accountant | Avenue Living | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4457516951 |
+| Coordinator, Proposals | Aecon Group Inc. | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4456289620 |
+| Specialist, Proposals | Aecon Group Inc. | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4456279704 |
+| Settlements Analyst | RECRUITMENT PARTNERS INC. | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4457541114 |
+| Operations Analyst - Information Technologies | University of Calgary | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465870224 |
+| People & Culture Coordinator (Temporary, Full-Time) | WINS (Women In Need Society) | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4464705521 |
+| Payroll Officer | Christ The Redeemer Catholic Schools | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465419732 |
+| Marketing Coordinator | Enerva Energy Solutions | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465420728 |
+| Sr. Coordinator, Proposals | Aecon Group Inc. | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4456284630 |
+| Talent Acquisition Specialist | Convergint | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4457383499 |
+| AltaGas - Sr. Sourcing Specialist | AltaGas Ltd. | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4456226609 |
+| Safety Administrator | Stock Transportation | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466704951 |
+| Client Engagement Coordinator Remote Flexible Role | Create Your Life Solutions | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466495958 |
+| AI Platform & Machine Learning Engineer | XYZ Reality | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4456262756 |
+| Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4464273968 |
