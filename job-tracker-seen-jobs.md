@@ -18984,3 +18984,15 @@
 | Client Engagement Coordinator Remote Flexible Role | Create Your Life Solutions | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466495958 |
 | AI Platform & Machine Learning Engineer | XYZ Reality | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4456262756 |
 | Mobile Sales Associate (Part Time) | Best Buy Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4464273968 |
+| Supervising Associate - Learning and Development, Learning S | EY | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4454654769 |
+| Payroll Officer OR Coordinator | Christ The Redeemer Catholic Schools | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465433111 |
+| Supply Chain Manager | $50/hr Remote | Crossing Hurdles | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465431115 |
+| Project Coordinator | Bird Construction | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4438867303 |
+| Payroll Coordinator | Christ The Redeemer Catholic Schools | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465435114 |
+| Payroll Officer | Christ The Redeemer Catholic Schools | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465419998 |
+| Administrative Assistant at St. Jerome's School | East Central Alberta Catholic Schools | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465424193 |
+| Student Wellness and Behaviour Support Specialist | Lakeland Catholic School Division | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465423253 |
+| Developer MD365 | CPA Western School of Business | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4465441065 |
+| Learning Management System (LMS) Administrator | CPA Western School of Business | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4465436098 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465445148 |
+| Overnight Associate | RONA | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466730142 |
