@@ -18952,3 +18952,16 @@
 | Administrative Support IV | Alberta Health Services | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465198350 |
 | Modular Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466448679 |
 | (CAN) Deli Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466456590 |
+| Banquets - Coordinator | Moxies | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4466032678 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Billing Analyst (12-Month Term) | Parkland Corporation | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4454671917 |
+| Operations Lead - Full Time | SEPHORA | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4466483946 |
+| Senior Measurements & Reporting Analyst | Regional Municipality of Wood Buffalo | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4466705003 |
+| Coordinator, Environmental Services | Defence Construction Canada | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4456288077 |
+| Planner II | Regional Municipality of Wood Buffalo | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466486256 |
+| Excursions Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4438616862 |
+| Planner I | Regional Municipality of Wood Buffalo | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466499083 |
+| Financial Data Analyst (Remote) | Joveo | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466488196 |
+| Finance Analyst (Remote) | Joveo | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4466489168 |
+| Nike - BOH Athlete (BOH Sales Associate) - Chinook | RETAILORS | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4456285274 |
+| Nike - Sales Athlete (Sales Associate) - Chinook | RETAILORS | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4456296258 |
