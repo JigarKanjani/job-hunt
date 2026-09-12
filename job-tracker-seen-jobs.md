@@ -18996,3 +18996,8 @@
 | Learning Management System (LMS) Administrator | CPA Western School of Business | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4465436098 |
 | Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465445148 |
 | Overnight Associate | RONA | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466730142 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| (CAN) Digital Fulfillment Team Lead | Walmart Canada | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4466711158 |
+| Guest Service Agent / Night Audit | Hampton Inn by Calgary Airport North | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=41b39bbd445812ca |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=b92f5dac6e556bec |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466722026 |
