@@ -18912,3 +18912,29 @@
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466413027 |
 | Salesforce Administrator | Parkland Corporation | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465155710 |
 | Salesforce Administrator | Parkland Corporation | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465148650 |
+| Customer Advisor I- Calgary Pop up | Lee Valley Tools | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=43d5b4e5bc2b6c2f |
+| 211 Community Resource & Engagement Specialist | Distress Centre Calgary | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=5f1307a53f747bb1 |
+| Lead Agile Business Analyst | HCLTech | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=e572824796061675 |
+| Program Coordinator - School, Group and Registered Programs | City of Edmonton | 2026-09-12 | J | https://ca.indeed.com/viewjob?jk=2734ae10ae81d0b1 |
+| Contract Analyst | Raise | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465181176 |
+| Electrical Reliability Planner | Amrize | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4464252712 |
+| Geotechnical/Materials Technician Calgary | WSP in Canada | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465174610 |
+| Specialist Track Design | CPKC | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4466434861 |
+| Project Procurement Specialist Support | Government of Alberta | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4465192608 |
+| 2027 Capital Markets, Global Research Winter Analyst (8 Mont | RBC | 2026-09-12 | N | https://ca.indeed.com/viewjob?jk=bd7d090295663a61 |
+| Western Region Senior HR Specialist, 12month contract | TJX Canada – Winners, Marshalls, HomeSen | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466420239 |
+| Special Advisor to the Chief | Government of Alberta | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465185613 |
+| Financial Advisor - MacLeod Centre Branch, AB (Contract- Mar | Scotiabank | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465191554 |
+| Total Wealth Planner - Calgary/Vancouver | Scotiabank | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465183624 |
+| Lead Coordinator, Guest Services | CMH Heli-Skiing & Summer Adventures | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4464253555 |
+| Administrative Assistant | Compass Geomatics Ltd. | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465189209 |
+| Project Coordinator | EllisDon | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466419151 |
+| GIS Coordinator, Parks and Roads Services | City of Edmonton | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=561475c95f570bb0 |
+| Talent Acquisition Specialist | Flynn Group of Companies | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=e8107dd60437001f |
+| Co-op/Intern Enterprise Platforms | Kinaxis | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=b4044f6bfd3024fc |
+| Relief Receptionist | The Salvation Army in Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465183255 |
+| Sales Associate | RONA | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466417974 |
+| Customer Experience Associate, Casual (Part-Time) - Castleri | Scotiabank | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465186619 |
+| Crew Scheduler | WestJet | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466434776 |
+| Electrical and Plumbing Associate : Part Time - AIRDRIE | The Home Depot Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465191274 |
+| Associate, Private Wealth Rotational Program | CIBC | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466424754 |
