@@ -18938,3 +18938,17 @@
 | Crew Scheduler | WestJet | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466434776 |
 | Electrical and Plumbing Associate : Part Time - AIRDRIE | The Home Depot Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465191274 |
 | Associate, Private Wealth Rotational Program | CIBC | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466424754 |
+| Lead Supervisor I | Coach | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4464273463 |
+| Automotive Software Onboarding Specialist (Fixed Ops) | PBS Systems | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4464267581 |
+| Automotive Sales Software Onboarding Specialist | PBS Systems | 2026-09-12 | J | https://www.linkedin.com/jobs/view/4464268639 |
+| Coordinator II | Alberta Health Services | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465401230 |
+| Coordinator II | Alberta Health Services | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4465418137 |
+| Child and Youth Worker (Coaldale) | Closer to Home Community Services | 2026-09-12 | N | https://www.linkedin.com/jobs/view/4466464644 |
+| Order Management Administrator | Absolute Software | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=83d7741885dafcb1 |
+| Business Analyst II | Finning | 2026-09-12 | R | https://ca.indeed.com/viewjob?jk=6fc7484167b60a87 |
+| Automotive Fixed Ops Software Trainer | PBS Systems | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464272551 |
+| Data Analysis Specialist (Remote | $31–$60/hr) | Synthires | 2026-09-12 | R | https://www.linkedin.com/jobs/view/4464275682 |
+| Mobile Sales Associate (Part Time) | Best Buy | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=0e147d9a74e4d10a |
+| Administrative Support IV | Alberta Health Services | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4465198350 |
+| Modular Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466448679 |
+| (CAN) Deli Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466456590 |
