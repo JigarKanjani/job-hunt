@@ -19007,3 +19007,5 @@
 | Sales Associate-Print&Services | Staples Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466732410 |
 | Construction Administrator | BPA | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4465467365 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4466767198 |
+| Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4430980869 |
+| overnight associate | Walmart Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466762625 |
