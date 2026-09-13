@@ -19005,3 +19005,5 @@
 | Site Activation Specialist with payment experience in Clinic | Syneos Health | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4465831555 |
 | Sales Associate | Staples Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466749416 |
 | Sales Associate-Print&Services | Staples Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466732410 |
+| Construction Administrator | BPA | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4465467365 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4466767198 |
