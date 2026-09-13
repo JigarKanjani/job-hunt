@@ -19009,3 +19009,6 @@
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4466767198 |
 | Environmental Health & Safety Advisor- 12-18 Month Contract | Wajax | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4430980869 |
 | overnight associate | Walmart Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466762625 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-13 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Community Group Support Coordinator - 12 months Contract | County of Grande Prairie | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4464748311 |
+| Personal Insurance Advisor I | BrokerLink | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4439543721 |
