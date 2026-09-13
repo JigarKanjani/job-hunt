@@ -19001,3 +19001,7 @@
 | Guest Service Agent / Night Audit | Hampton Inn by Calgary Airport North | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=41b39bbd445812ca |
 | (CAN) General Merchandise Associate | Walmart | 2026-09-12 | G | https://ca.indeed.com/viewjob?jk=b92f5dac6e556bec |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-12 | G | https://www.linkedin.com/jobs/view/4466722026 |
+| HSE Coordinator | Bird Construction | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4466734274 |
+| Site Activation Specialist with payment experience in Clinic | Syneos Health | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4465831555 |
+| Sales Associate | Staples Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466749416 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4466732410 |
