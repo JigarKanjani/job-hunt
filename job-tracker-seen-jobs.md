@@ -19015,3 +19015,7 @@
 | Production Sales Specialist | Xerox | 2026-09-13 | J | https://www.linkedin.com/jobs/view/4447435084 |
 | Financial Reporting Contractor | RECRUITMENT PARTNERS INC. | 2026-09-13 | R | https://www.linkedin.com/jobs/view/4466792289 |
 | Clinic Receptionist | TruRelief Wellness Massage Clinic | 2026-09-13 | G | https://ca.indeed.com/viewjob?jk=34cc0ff5737de323 |
+| Cyber / Infrastructure Business Analyst | Agilus Work Solutions | 2026-09-13 | J | https://www.linkedin.com/jobs/view/4465490333 |
+| Project Coordinator | Taleo Project Services Inc | 2026-09-13 | J | https://www.linkedin.com/jobs/view/4465492210 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-13 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-13 | G | https://www.linkedin.com/jobs/view/4465491241 |
