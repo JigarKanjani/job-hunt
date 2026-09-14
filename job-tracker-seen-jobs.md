@@ -19055,3 +19055,55 @@
 | PLM Configuration Specialist (Remote) | SSI (ShipConstructor & ShipbuildingPLM) | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4456020817 |
 | Mobile Mortgage Advisor - (Commission Only) - Calgary, Alber | CIBC | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4387298059 |
 | Associate, Commercial Banking Associate Program – New Grad - | CIBC | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4460397578 |
+| Energy Supply Chain Consultant (Graduate, 2027) - Calgary | Wood Mackenzie | 2026-09-14 | J | https://ca.indeed.com/viewjob?jk=4bcf4b49f8b4125c |
+| AI Solutions Analyst | Bird Construction | 2026-09-14 | J | https://ca.indeed.com/viewjob?jk=f1263a67b3a7e093 |
+| Client Services Coordinator | Bayside Associates | 2026-09-14 | J | https://ca.indeed.com/viewjob?jk=edf55ab2c9d677ac |
+| Logistics Manager | Dover Corporation | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465243488 |
+| Supply Chain Manager - Calgary, AB | Upstream Data Inc. | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467273625 |
+| Transportation Coordinator | Insight Global | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466122410 |
+| Business Analyst - BizApps - New Grad (January 2027) | BDO Canada | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467276415 |
+| Project Coordinator | Englobe | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4454951050 |
+| Legal Counsel - Technology & Digital (Commercial Contracts) | MNP | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466130142 |
+| Analyst II, Commercial Financing | First National Financial LP | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466116235 |
+| Senior Analyst, Commercial Financing | First National Financial LP | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466120193 |
+| Agriculture Specialist, Commercial Banking, Central Alberta | Scotiabank | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466118361 |
+| Dynamics 365 Analyst (Business Central) | Law Society of Alberta | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465243180 |
+| Client Services Coordinator | Bayside Associates | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466136072 |
+| Financial Centre Resource Team Leader | Sun Life | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465794684 |
+| AI Solutions Analyst | Bird Construction | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467239509 |
+| Application Engineering Specialist – Alberta | Armstrong Fluid Technology | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467229708 |
+| Supply Chain Coordinator | Badger Infrastructure Solutions | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467275585 |
+| Finance Coordinator | MSCP Heat Management Solutions | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467258434 |
+| Agriculture Specialist, Commercial Banking, Central Alberta | Scotiabank | 2026-09-14 | N | https://ca.indeed.com/viewjob?jk=0e492c6ff3969a91 |
+| Disabilities Life Skills Support Worker | Calgary Quest School | 2026-09-14 | N | https://ca.indeed.com/viewjob?jk=00d68ad8accc5d98 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467268975 |
+| Administrative Assistant, Administrative Services Department | University of Calgary | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467275721 |
+| UService Service Advisor - People & Culture and Payroll | University of Calgary | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467288496 |
+| AltaGas - Senior Analyst, Chief of Staff Office | AltaGas Ltd. | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4466133452 |
+| Client Solutions Advisor - West Springs, Calgary, AB | Scotiabank | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4466136205 |
+| Mortgage Specialist | BMO | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467293367 |
+| Sales (Fitness Advisor) - Calgary Mount Royal Village | GoodLife Fitness | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4465241309 |
+| Sales & Education Advisor - Calgary, Alberta (Freelance) | ILIA Beauty | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467251118 |
+| Scheduling Planner | NAIT (Northern Alberta Institute of Tech | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467286171 |
+| Making Connection Worker (MCW) - Permanent Part-Time - Palli | The Palliser School Division | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4466133053 |
+| Administrative Assistant | C.I. Financial Ltd. | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467260956 |
+| Receptionist / Office Administrator | Valard Construction | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467292166 |
+| Marketing & Ecommerce Specialist | Coffee Addicts Inc | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=f61a39329eb21299 |
+| Dynamics 365 Analyst (Business Central) | Law Society of Alberta | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=aace16ad104a877f |
+| Project Coordinator | City of Edmonton | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=8280043561fb72ed |
+| People Relations Specialist | DOW | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=a3da7970bb45b8fb |
+| Co-op Winter 2027 - System of Systems Engineering - 8-16 Mon | General Dynamics Mission Systems–Canada | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467252593 |
+| Joint Venture Audit Analyst - 6 month contract | Aplin | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467286033 |
+| Co-op Winter 2027 - Systems Integration, Verification, and V | General Dynamics Mission Systems–Canada | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467256304 |
+| Desktop Support Engineer (Level 1) | NSC Global | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467229688 |
+| Field Office Administrator | Spartan Delta Corp. | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4466107755 |
+| Laboratory Analyst, Physiology & Pharmacology | University of Calgary | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467273711 |
+| Field Support Specialist | HRConnects | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467246766 |
+| Adminstrative Assistant/Receptionist | Doctors Optical Lab | 2026-09-14 | G | https://ca.indeed.com/viewjob?jk=f3e898fff727e99a |
+| Specialist Tax Planning | Enbridge | 2026-09-14 | G | https://ca.indeed.com/viewjob?jk=0845ef2a3a932371 |
+| Customer Service Representative (Motivator) - Calgary Creeks | GoodLife Fitness | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4465235323 |
+| Customer Service Representative (Motivator) - Calgary Trinit | GoodLife Fitness | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4465252190 |
+| Sales Associate (Land Rover Royal Oak) | Go Auto | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4466124131 |
+| Business Development Associate | ISN | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4466129088 |
+| Associate, M&A and Capital Markets | BDO Canada | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4467289422 |
+| Training Facilitator | IntouchCX | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4466136466 |
