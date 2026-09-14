@@ -19030,3 +19030,28 @@
 | Entry-Level Administrative Assistant (Remote) | HireLex HR | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4467045857 |
 | Remote Support Specialist 3 – Magnetic Resonance | Siemens Healthineers | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4464783934 |
 | Remote Support Specialist 3 – Magnetic Resonance | Siemens Healthineers | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4464785066 |
+| Contract Analyst | Dasro Consulting Inc. | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4467094987 |
+| Market and Pricing Analyst | Insight Global | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466103030 |
+| Project Coordinator | Inter-Co Division 10 Inc. | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465779533 |
+| Transaction Coordinator / Sales Support Specialist | Robert Half | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465766801 |
+| Surface Land Coordinator | ISH Energy Ltd. | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465770765 |
+| Analyst, Client Onboarding & Service | CIBC | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4456391986 |
+| Payroll Benefits Coordinator | Robert Half | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465767834 |
+| Global Markets, Equity Research, Winter 2027 Analyst (Calgar | CIBC | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4464666359 |
+| Data Analyst - Remote Contract | Robert Half | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4465781867 |
+| Junior Buyer | Soletanche Bachy Canada Inc. | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4466110008 |
+| Construction Project Coordinator | JEN COL Construction | 2026-09-14 | J | https://www.linkedin.com/jobs/view/4460031811 |
+| Jr. Marketing Specialist | Robert Half | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4465781741 |
+| Global Transaction Banking, Cash Management Winter 2027 Anal | CIBC | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4464675259 |
+| Financial Advisor- CIRO-ID (secondment) | CIBC | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4453528096 |
+| Global Investment Banking Analyst, Winter 2027 Analyst (Calg | CIBC | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4464929955 |
+| Internal Marketing Specialist | Konstruct Digital | 2026-09-14 | N | https://www.linkedin.com/jobs/view/4465798046 |
+| Systems Administrator | PC eSolutions | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=932f8a4f9725da0a |
+| Guest Services & Reception Coordinator (18 month contract) | Compass Group | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=3f152776f9901007 |
+| GIS Coordinator - Term (18 Months) | City of Airdrie | 2026-09-14 | R | https://ca.indeed.com/viewjob?jk=30590ec4a6522f39 |
+| Financial Data Analyst (Remote) | Joveo | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4467207524 |
+| Performance Insights Analyst | ATB Financial | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4465882354 |
+| Business Analyst - Finance (Remote) | Quik Hire Staffing | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4465209138 |
+| PLM Configuration Specialist (Remote) | SSI (ShipConstructor & ShipbuildingPLM) | 2026-09-14 | R | https://www.linkedin.com/jobs/view/4456020817 |
+| Mobile Mortgage Advisor - (Commission Only) - Calgary, Alber | CIBC | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4387298059 |
+| Associate, Commercial Banking Associate Program – New Grad - | CIBC | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4460397578 |
