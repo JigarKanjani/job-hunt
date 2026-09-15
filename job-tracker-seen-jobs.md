@@ -19249,3 +19249,51 @@
 | Food & Consumables Team Associate | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4466561451 |
 | Construction Safety Officer (CSO) – Calgary | Bucci Developments | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467748654 |
 | Social Media Coordinator | EY | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4439490359 |
+| Senior UX Content Designer, Design Operations - EN 762 | Export Development Canada | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=a110bb2a1c382639 |
+| Transportation Coordinator | Insight Global | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465906397 |
+| Market Partner, Health and Wellness Operations -FR | Walmart Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466550978 |
+| Financial Analyst | Avison Young | Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466544854 |
+| Recruitment Specialist (Contract, Full-time) | Black Diamond Group | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4461408225 |
+| Mortgage Analyst | Canada ICI Capital Corporation | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467758807 |
+| Human Resources Analyst | Kelly | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466579335 |
+| Human Resources Analyst | Raise | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467778371 |
+| Events Specialist | PENN Interactive | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465917133 |
+| Care Coordinator | Air Liquide | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466571296 |
+| Senior Quality Analyst | WestJet | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467788267 |
+| EHS Specialist II - Graveyard Shift | Modine Manufacturing Company | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465598971 |
+| Senior Regulatory Specialist | NorthRiver Midstream Inc. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466568373 |
+| Subcontract Manager | FlatironDragados | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4457608225 |
+| Business Intelligence Specialist | Bevertec | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466577179 |
+| Inside Sales Specialist - Mining | The Headhunters Recruitment | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467229252 |
+| Operations Coordinator | University of Alberta | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=c009fefd588a4635 |
+| Functional Recovery Support Case Manager | Homewood Health | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=fc05f320d6a7003b |
+| Case Manager, Disability Management | Homewood Health | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=170bd7916086341c |
+| Condominium Administrator | PEKA Professional Property Management | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466582593 |
+| Security Communications and Training Specialist | Dasro Consulting Inc. | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466567408 |
+| Care Coordinator | Air Liquide | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466563420 |
+| Project Coordinator, FD Project Management Office, Facilitie | University of Calgary | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466436444 |
+| Community Engagement Coordinator | AMA - Alberta Motor Association | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465911871 |
+| Client Service Specialist (Inside Sales) | MNP | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465921310 |
+| Commercial Funding Administrator | Peoples Group | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465914704 |
+| Claims Vendor Management Sr Specialist | Zurich Canada | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467772749 |
+| Counsellor - Student Wellness Services | University of Calgary | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4462486311 |
+| Learning Experience Specialist, Talent Management | University of Calgary | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4464695212 |
+| Beauty Specialist, Hourly Full Time Day | Loblaw Companies Limited | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465905872 |
+| Junior Wellsite Geologists and Coring Specialists (Canada) | RPS | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466568594 |
+| The National School Food Program (NSFP) Coordinator | Government of Alberta | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467787631 |
+| Program Specialist – AB, SK - 12 Month Contract (Remote) | Heart & Stroke | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467774340 |
+| Talent Acquisition Specialist (Remote/Unpaid Volunteer) | Empowered Futures | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467772517 |
+| Operations Administrative Assistant, Souch Campus | NAIT (Northern Alberta Institute of Tech | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467777774 |
+| Family Wellness Worker | Elk Island Catholic Schools | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466580621 |
+| Technical Support Specialist | Bluedrop Training & Simulation Inc | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=dbbdbb8ed7c54be7 |
+| Technical Procurement Specialist, Steel | BEUMER Group | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465923780 |
+| Specialist, Identity and Access Management - Information Tec | University of Calgary | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4462057745 |
+| Business Intelligence Analyst | BSL Consulting | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4467766547 |
+| Budget Analyst | Government of Alberta | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4467767792 |
+| Service Desk Technician (Information Technologies) - Permane | Elk Island Public Schools | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4466571814 |
+| January 2027 IT Co-op - Cloud Platforms, Tools & Automation | ATCO | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465910958 |
+| Business Development Associate | RimRock Landscaping | 2026-09-15 | G | https://ca.indeed.com/viewjob?jk=34d7854bd9b65f38 |
+| Customer Service Representative (Motivator) - Calgary Richmo | GoodLife Fitness | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465911266 |
+| Customer Service Associate | RONA | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465913427 |
+| Sales Associate | Staples Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465923400 |
+| Crew Scheduler | WestJet | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467768401 |
