@@ -19107,3 +19107,59 @@
 | Business Development Associate | ISN | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4466129088 |
 | Associate, M&A and Capital Markets | BDO Canada | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4467289422 |
 | Training Facilitator | IntouchCX | 2026-09-14 | G | https://www.linkedin.com/jobs/view/4466136466 |
+| Business Analyst - Innovation | Aim Land Services | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=3ba6b8c7f5cc549d |
+| IS&T Support Specialist | Keywest Projects Ltd | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=e5a7782e8f8835b5 |
+| Facilities & Operations Lead | Calgary Farmers Market | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=0ad0aa72eda51929 |
+| Supply Chain Manager - Calgary, AB | Upstream Data Inc | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=a46ebf2ea3967b68 |
+| Facilities & Property Management Specialist | UFA | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=60c6f794591489f4 |
+| Business Development Specialist - Cloud Partnerships & Outre | University of Alberta | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=22a612420d239875 |
+| Gas Marketing Analyst | Canadian Natural Resources Limited (CNRL | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466138028 |
+| Logistics Coordinator | ICE Western Sales | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466131686 |
+| Civil Project Coordinator | Kalamoir | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466129715 |
+| Facilities Coordinator | Rundle Schools | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466126762 |
+| Facilities & Property Management Specialist | UFA | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466122759 |
+| Talent Acquisition Specialist | UFA | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4458305509 |
+| Human Resources Coordinator | BrokerLink | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467411257 |
+| Senior Actuarial Analyst- 14 month contract | Co-operators | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467290629 |
+| HR - Payroll & Benefits Coordinator | Beyond Energy Services and Technology Co | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467297668 |
+| Team Lead (Supervisor) | IntouchCX | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466122607 |
+| Trenchless Rehabilitation Practice Lead - Calgary | LJB Inc. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466134562 |
+| Learning Systems & Content Specialist | RECRUITMENT PARTNERS INC. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467404318 |
+| Data Analyst | Champion Petfoods | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467288875 |
+| Business System Analyst | Robert Half | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466128831 |
+| Journeyperson Parts Planner, Equipment Shop (Ledcuc) | Ledcor | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467400340 |
+| Contracts Specialist | Airswift | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465238875 |
+| Project Coordinator | City of Edmonton | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465250768 |
+| Journeyperson Parts Planner, Equipment Shop (Ledcuc) | Ledcor | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467406268 |
+| Case Management Coordinator | Medavie | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=c4d166dfccc26fe2 |
+| Marketing & Public Relations Coordinator | Fairmont | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=57598213f2265eab |
+| Operations & Finance Coordinator | WTTI / Walk-Through Tech Inc. | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=e3cfb64c9957993a |
+| Resort Activities Coordinator | Fairmont | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=daca26e3480f0cf0 |
+| Business Development Administrator | Okane Consultants | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467400390 |
+| Exam Administrator, SAS Exam Centre | University of Calgary | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465877093 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Global Service Desk (GSD) Analyst | Long View Systems | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465240900 |
+| Case Management Specialist, Student Care | University of Calgary | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465872160 |
+| Specialist Tax Planning | Enbridge | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465236815 |
+| 2027 Full-Time Analyst - Investment Banking, Global Energy ( | TD | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4464693087 |
+| Program Governance and Policy Specialist | University of Alberta | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467281997 |
+| Field Operations Administrator | Pembina Pipeline Corporation | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467405137 |
+| Service Administrator- BarW | UFA | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4458676828 |
+| Receptionist / Admin Assistant | RECRUITMENT PARTNERS INC. | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467418109 |
+| Patient Success Specialist | PurposeMed | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=0fd6187d6485351a |
+| IT Support Assistant ABC-26-008 | ABC Head Start Society | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=5415534a2c6296e9 |
+| Project Reporting & Governance Coordinator | Plato | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=00f35fd61cc35499 |
+| EMIS Administrator, FD Operational Sustainability, Facilitie | University of Calgary | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465870225 |
+| Enterprise Application Analyst (Permanent Full-Time) | Lac La Biche County | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465241825 |
+| Network Administrator | Innerworks IT Services | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4466132655 |
+| Asset Administrator - Student | SECURE | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4467403254 |
+| Digital Marketing Associate | BURNCO Rock Products Ltd | 2026-09-15 | G | https://ca.indeed.com/viewjob?jk=2ef2829b9b845930 |
+| Receptionist I (2026-0900) | Carewest Innovative Health Care | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467411418 |
+| Front Desk Agent | Grey Eagle Resort & Casino | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4466127629 |
+| Physical Gas Scheduler | Uniper | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467282651 |
+| Distribution Centre Team Associate - Quality Assurance (Wedn | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467400395 |
+| Distribution Centre Team Associate - Quality Assurance II (M | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467415150 |
+| Distribution Centre Team Associate - Quality Assurance (Sund | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467411224 |
+| Scheduler II | Enbridge | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465240750 |
+| Customer Success Agent | Club Unity – Tee Sheet Software for Top- | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467273757 |
+| Business Development Associate | Wesco | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467297317 |
