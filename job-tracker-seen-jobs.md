@@ -19179,3 +19179,21 @@
 | Senior Personal Banking Advisor - Calgary Westhills (12 Mont | ATB Financial | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467443922 |
 | Office Administrator & Sales Coordinator | ACE Custom Cabinets | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466170404 |
 | Credit Administrator | Kassen Recruitment | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467460180 |
+| Program Manager | Alberta Health Services | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=fbd8f78075da5112 |
+| Field Coordinator/Engineer - Kiewit Energy Canada 2027 | Kiewit | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466504639 |
+| Operations Lead - Full Time | SEPHORA | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467740372 |
+| Distribution Centre Team Associate - Operations II ( Shift C | Walmart Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4467718254 |
+| Operational Risk Analyst | Haventree Bank | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4458543401 |
+| Digital Content Analyst: Product Content and eCommerce [AQ-1 | Aquent | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465544259 |
+| Senior Systems Specialist, FP&A | Clio | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4457156725 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465507977 |
+| Coordinator | Alberta Health Services | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=c573301405964531 |
+| Coordinator II | Alberta Health Services | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=552bf16e74c72b51 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| AI Workforce Solution Specialist - Public Sector | Microsoft | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467718742 |
+| Learning Support Officer | Melbourne Archdiocese Catholic Schools | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4467729609 |
+| IT Analyst II - Messaging | Alberta Health Services | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=dce5b8d7d9622dd7 |
+| Co-Op/Intern Financial Analyst | Kinaxis | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4467722710 |
+| Investment Research Analyst (Remote | $175–$300/hr) | Synthires | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465547134 |
+| Credit and Collection Agent | Master | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467730439 |
+| Modular Team Associate | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4458530208 |
