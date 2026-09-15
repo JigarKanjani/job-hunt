@@ -19197,3 +19197,55 @@
 | Investment Research Analyst (Remote | $175–$300/hr) | Synthires | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465547134 |
 | Credit and Collection Agent | Master | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467730439 |
 | Modular Team Associate | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4458530208 |
+| Event Set Up/Tear Down Lead | OneWest Events | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=e85871e97ad9adb0 |
+| Human Resources Coordinator | The Mustard SEED Society | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=340774a16c2e9977 |
+| Senior Business Analyst - EN 006 | Export Development Canada | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=cdf89c004eebdfd6 |
+| Booking & Events Coordinator | University of Alberta | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=a11d762f68b701ef |
+| 211 Community Resource & Engagement Specialist | Distress Centre Calgary | 2026-09-15 | J | https://ca.indeed.com/viewjob?jk=969f8275abee71f2 |
+| Technology Procurement Specialist | Blackline Safety | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466557689 |
+| Business Analyst | BuzzClan | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465558638 |
+| Distribution Centre Team Associate - Operations III (Shift C | Walmart Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466541776 |
+| Lead, Carbon Markets & Storage | CURA | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465598416 |
+| Market Partner, Health and Wellness Operations -FR | Walmart Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466546857 |
+| Financial Analyst | Avison Young | Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466544854 |
+| Senior Royalty Compliance Analyst | PrairieSky Royalty Ltd. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466550351 |
+| Bus Operations Support Lead I | TD | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465556578 |
+| Senior Business Analyst - EN 006 | Export Development Canada | Exportation  | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465569748 |
+| Logistics Sales Executive - 3PL Industry | Fuze Logistics Services Inc | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4452265950 |
+| Client Relations & Events Coordinator | McCarthy Tétrault | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465582617 |
+| Learning Services Specialist - Assurance - 18 Month Contract | EY | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4457406302 |
+| Advisor, Learning & Development | MNP | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4457482669 |
+| CSP Tools Tower Lead | LanceSoft, Inc. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466549708 |
+| SOC Security Analyst 24x7 | IBM | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4465569693 |
+| ELECTRICAL & INSTRUMENTATION PLANNER | HWN Energy Ltd. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466522579 |
+| Accounts Receivable Specialist | RECRUITMENT PARTNERS INC. | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4458238844 |
+| Senior Specialist, Regional DC Ops Optimization | McKesson | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4458248329 |
+| IT Fulfilment Coordinator (Telecom Focus) - 12-month contrac | The Salvation Army in Canada | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466556721 |
+| Projects Coordinator, Major Research Initiatives | University of Alberta | 2026-09-15 | J | https://www.linkedin.com/jobs/view/4466538363 |
+| Family Services Program Coordinator | Action Group | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=3750858220d00abf |
+| Front of House (FOH) Catering & Logistics Coordinator | Urbane Culinary Corporation | 2026-09-15 | N | https://ca.indeed.com/viewjob?jk=e5248d8d027abfe3 |
+| Supplier Quality Surveillance Coordinator | WSP in Canada | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4456931391 |
+| Project Administrator - Security Solutions | Convergint | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4458279020 |
+| Real Estate Administrator | viani real estate group | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466537054 |
+| Administrative Assistant | RECRUITMENT PARTNERS INC. | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4452061740 |
+| HR Business Partner Administrator | Cargill | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465901489 |
+| Administrative Assistant, Tax | Doane Grant Thornton LLP | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4453375881 |
+| Architectural Contract Administrator | TalentSphere Staffing Solutions | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465569378 |
+| Development Officer | Alberta Animal Rescue Crew Society | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466516844 |
+| Business Development Specialist | Effortless.Marketing | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466549199 |
+| Quality Assurance & Quality Control Coordinator, Minerals &  | BEUMER Group | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4457178362 |
+| Analyste principale / Analyste principal des systèmes de ges | Export Development Canada | Exportation  | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4465577637 |
+| Operations Coordinator | University of Alberta | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466546157 |
+| Bar Mill Administrator | AltaSteel | 2026-09-15 | N | https://www.linkedin.com/jobs/view/4466538991 |
+| Budget Analyst | Government Of Alberta | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=2c64165f6e47103f |
+| Design Team Project Administrator | Boardwalk | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=7d1fd3547f1d2fa6 |
+| Administrative Coordinator | CIC Inspection & Consulting Ltd | 2026-09-15 | R | https://ca.indeed.com/viewjob?jk=f1009f8528a495ee |
+| Data Analyst - Digital Marketing | LawDepot | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4454693282 |
+| AI and Analytics Specialist - Digital Marketing | LawDepot | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4454677331 |
+| Business Intelligence Analyst – Intermediate | JSG (Johnson Service Group, Inc.) | 2026-09-15 | R | https://www.linkedin.com/jobs/view/4465581389 |
+| Temporary Repair Administrator | INOVA Geophysical UK Limited | 2026-09-15 | G | https://ca.indeed.com/viewjob?jk=2e1f04bcf6a6a4cd |
+| Sales Receptionist | Brewery District - Massage Heights | 2026-09-15 | G | https://ca.indeed.com/viewjob?jk=1cda4b9d627e5663 |
+| Refined Products Scheduler | Trafigura | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4446237088 |
+| Food & Consumables Team Associate | Walmart Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4466561451 |
+| Construction Safety Officer (CSO) – Calgary | Bucci Developments | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467748654 |
+| Social Media Coordinator | EY | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4439490359 |
