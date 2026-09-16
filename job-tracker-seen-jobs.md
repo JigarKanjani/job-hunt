@@ -19302,3 +19302,40 @@
 | Business Analyst , Data & Analytics - New Grad (January 2027 | BDO Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467954112 |
 | Business Analyst , Data & Analytics - New Grad (January 2027 | BDO Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467947182 |
 | Coordinator II | Alberta Health Services | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466823847 |
+| Maintenance Planner | De Havilland Aircraft of Canada Limited | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468227628 |
+| Flight Coordinator | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467998623 |
+| Commissary Coordinator | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467985895 |
+| Flight Operations Controller - Calgary, AB (YYC) | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467987821 |
+| Maintenance Coordinator | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467989823 |
+| Flight Department Operations Coordinator | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468208598 |
+| Contract Specialist | Net2Source (N2S) | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468220391 |
+| Senior Advisor, Strategic Insights | WestJet | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468226366 |
+| Program Manager | De Havilland Aircraft of Canada Limited | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468230481 |
+| System Operations Control Centre (SOCC) Supervisor - Calgary | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467999663 |
+| Controller / Planner | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468200543 |
+| Operations Support Team Member | AvPosts | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468206778 |
+| Ad Operations Specialist | StackAdapt | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468225691 |
+| Stage Experience Lead - Full Time | SEPHORA | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467993488 |
+| Coordinator | Flowserve Corporation | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4465976724 |
+| Business Intelligence Analyst - Intermediate | Akkodis | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466868071 |
+| Intermediate Business Intelligence Analyst | TEEMA | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466879264 |
+| Regional TPM Leader | Owens Corning | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4448346361 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=9429d6f700b2f2d8 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=2c178d568961d0f9 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=d47335d071eb66d5 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=58ede657bad01b29 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=32982377f0ec34e2 |
+| Peer Support Worker | Recovery Alberta | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=eab243253def2fef |
+| Office Coordinator | EFS Plastics Inc. | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=d174d25bcb9ebea5 |
+| HRMS Business Analyst (Hybrid) | Calgary Board of Education | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468212855 |
+| Cyber Security Advisor-Risk Management | City of Calgary | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466871226 |
+| Cyber Security Advisor - Exposure Management | City of Calgary | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466872199 |
+| Coordinator, Project Management | Defence Construction Canada | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4457620645 |
+| Site Administrator | Primoris Services Corporation | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4459042877 |
+| Customer Identity and Access management (CIAM) - Specialist | WestJet | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4455564341 |
+| WindServer System Administrator | WSP in Canada | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4466216030 |
+| Business Systems Support | Wajax | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4458789817 |
+| Associate | Richardson Wealth | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4457633158 |
+| icebreaker: Sales Associate - Calgary Touchlab | icebreaker | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4457608845 |
+| PT Sales Associate-Print&Services | Staples Canada | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4449444233 |
+| Credit and Collection Agent | Master | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468203435 |
