@@ -19297,3 +19297,8 @@
 | Customer Service Associate | RONA | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465913427 |
 | Sales Associate | Staples Canada | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4465923400 |
 | Crew Scheduler | WestJet | 2026-09-15 | G | https://www.linkedin.com/jobs/view/4467768401 |
+| Specialist, Data & Business Process | Alberta Energy Regulator | 2026-09-16 | J | https://ca.indeed.com/viewjob?jk=ff7bd9972a044ca0 |
+| Offsites SCM Advisor | Suncor Energy | 2026-09-16 | J | https://ca.indeed.com/viewjob?jk=3ba5fbe293ca9944 |
+| Business Analyst , Data & Analytics - New Grad (January 2027 | BDO Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467954112 |
+| Business Analyst , Data & Analytics - New Grad (January 2027 | BDO Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467947182 |
+| Coordinator II | Alberta Health Services | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466823847 |
