@@ -19339,3 +19339,57 @@
 | icebreaker: Sales Associate - Calgary Touchlab | icebreaker | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4457608845 |
 | PT Sales Associate-Print&Services | Staples Canada | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4449444233 |
 | Credit and Collection Agent | Master | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468203435 |
+| Continuous Improvement Analyst | Decibel Cannabis Company | 2026-09-16 | J | https://ca.indeed.com/viewjob?jk=3ba79653855c6146 |
+| Operations Consultant - Part Time | Sephora | 2026-09-16 | J | https://ca.indeed.com/viewjob?jk=d212af0cf2b6800f |
+| Student and Program Advisor, Community Rehab Disability Stud | University of Calgary | 2026-09-16 | J | https://ca.indeed.com/viewjob?jk=97f63a7634eec494 |
+| Business Analyst Specialist I - Marketing & Risk Management | Enbridge | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466234528 |
+| Supply Chain Coordinator | ATCO Frontec | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466899905 |
+| Materials Manager | Blackline Safety | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468302774 |
+| Delivery Coordinator (Macleod Trail Toyota) | Go Auto | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467100627 |
+| Date Center Lead, Canada | Turner & Townsend | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467104897 |
+| Coordinator, Regional Human Capital | MNP | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467107640 |
+| Learning Advisor | Suncor | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468263986 |
+| Specialist Investment Fund Operations | ATB Financial | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468294925 |
+| Stewardship Coordinator | RWDI | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4455698840 |
+| PMO Specialist | NES Fircroft | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4467121168 |
+| Senior Business Analyst | Raise | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468268954 |
+| Coordinator, Accounts Receivable | Raise | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468278909 |
+| Reports Coordinator | Lifemark Health Group | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466235622 |
+| Document Management Coordinator | Lifemark Health Group | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466244469 |
+| Quality Engineering Analyst | Infosys | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466227732 |
+| Workday Compensation Lead | KPMG Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468263911 |
+| Workday Integration Lead | KPMG Canada | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468279777 |
+| Supply Chain Management Administrator | CDN | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4452611881 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4466231589 |
+| Engineering Lead Estimator | Rising Edge Group | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468291708 |
+| Team Lead, Member Rewards | AMA - Alberta Motor Association | 2026-09-16 | J | https://www.linkedin.com/jobs/view/4468291503 |
+| Document Management Coordinator | Lifemark Health Group | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=867fb66b422d0039 |
+| Reports Coordinator | Lifemark Health Group | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=1f472c457f1edbac |
+| Payroll Administrator | Calgary John Howard Society | 2026-09-16 | N | https://ca.indeed.com/viewjob?jk=2ba419cd5017f30f |
+| Student and Program Advisor, Community Rehab Disability Stud | University of Calgary | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468285774 |
+| Office Administrator | Arctic Arrow Powerline Group Ltd. | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468290737 |
+| Sales and Customer Experience Specialist | The New Network | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4467101817 |
+| Employee Health Advisor | WestJet | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468268926 |
+| Senior Analyst - Financial Reporting | TC Energy | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466235696 |
+| Cell Phone Advisor | the WIRELESS kiosk @Costco / le kiosque  | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466893983 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468294387 |
+| Research Coordinator | University of Alberta | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468323015 |
+| Subcontracts Coordinator - Industrial | Graham | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468314144 |
+| Analyst, System Quality | Government of Alberta | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466895920 |
+| Kiln/Yard Coordinator | Weyerhaeuser | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468294286 |
+| QHSE Administrator (Contract position up to 18 months) | Rockwood Service Corporation | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4466892933 |
+| Compliance Administrator | AGI - Ag Growth International | 2026-09-16 | N | https://www.linkedin.com/jobs/view/4468293843 |
+| Business Systems Analyst | PCL Construction | 2026-09-16 | R | https://ca.indeed.com/viewjob?jk=24a361517b9d256c |
+| Data Management/GIS Analyst | Canadian Nuclear Laboratories | 2026-09-16 | R | https://ca.indeed.com/viewjob?jk=43411f6cae0dc37b |
+| INVESTIGATIVE ANALYST (HYBRID) | Green Shield Canada | 2026-09-16 | R | https://ca.indeed.com/viewjob?jk=9ab6170c74087cb2 |
+| Junior Developer | Convverge Inc. | 2026-09-16 | R | https://ca.indeed.com/viewjob?jk=fc9b0e8089227574 |
+| Portfolio Management Specialist | Cenovus Energy | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4468322103 |
+| Business Systems Analyst | PCL Construction | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4468290496 |
+| IT Help Desk Technician (Edmonton, AB | On-Site) | West Edmonton Mall Property Inc. (West E | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4460122922 |
+| Policy Analyst | Government of Alberta | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4467115005 |
+| Developer / Analyst – Mobility Production Support and Integr | RONA | 2026-09-16 | R | https://www.linkedin.com/jobs/view/4468289127 |
+| Cost Controller, Sustaining Capital | Trans Mountain Corporation Inc. | 2026-09-16 | G | https://ca.indeed.com/viewjob?jk=2e385fed223ee219 |
+| Associate | BMO | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468289668 |
+| Customer Service Associate | La Maison Simons | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468303520 |
+| Personal Banking Associate Trainee | TD | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468300613 |
+| Customer Experience Associate - Glenmore Square Branch, AB ( | Scotiabank | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4467106768 |
