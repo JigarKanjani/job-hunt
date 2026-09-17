@@ -19464,3 +19464,23 @@
 | General Merchandise Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467168671 |
 | Sales Support Specialist | MarlowHR Ltd | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468378958 |
 | Stocking 1 Team Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467175545 |
+| Associate Specialist | Parkland Corporation | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4457737462 |
+| Shipping Coordinator | Lassonde | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4457708425 |
+| Accounting and Controls Analyst | Eaton | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466277314 |
+| Quality Engineering Specialist | General Dynamics Mission Systems–Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468620644 |
+| Senior Financial Reporting Specialist | HWN Energy Ltd. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4270276620 |
+| Sales and Service Rep, Lead (Sal.) - CAN | Grainger Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4459316818 |
+| Accounting and Controls Analyst | Eaton | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466285234 |
+| Procurement Specialist | Remote | Crossing Hurdles | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467541652 |
+| Service Advisor - General vacancy | Dilawri Group of Companies | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4433890244 |
+| Coordinator, Facility Management | Defence Construction Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4457705886 |
+| Client Services Coordinator | Avison Young | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467546764 |
+| Service Administrator - III | Raise | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4463112160 |
+| IAM Technical Support | Zodiac Solutions, Inc | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4466274463 |
+| IAM Technical Support | Tekshapers | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468639794 |
+| Network Administrator | Tekshapers | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468646702 |
+| Administrator, Equipment | Aecon Group Inc. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4458303594 |
+| Intermediate Business Analyst | 2iSolutions Inc. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468636354 |
+| Sales Associate - Calgary | Scotiabank | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4458307105 |
+| Sales Associate, New Car | Kaizen Automotive Group | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467543765 |
+| Sales Associate, Used Car | Kaizen Automotive Group | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467551639 |
