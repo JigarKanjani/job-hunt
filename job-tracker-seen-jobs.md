@@ -19533,3 +19533,66 @@
 | Associate, Private Wealth | Fiera Capital | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467577487 |
 | B2B Dealer Experience Associate | Revelyst | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468678601 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468683093 |
+| OT Operations Engineer | AltaLink | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=7fa7ede0f36de22b |
+| Sales Coordinator | GRAND TOURING AUTOMOBILES | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=c83965beba897a8d |
+| Customer Experience Associate (Precious Metals Analyst) | Ottawa Gold | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=e6e3a2b6d9cff31c |
+| Member Services Support Specialist | Veterinary Purchasing Co. Ltd. | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=4eb8908fed3cea88 |
+| Project Coordinator | York Realty Inc | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=f6455c6d14fa11bf |
+| Events Coordinator | Alberta Cancer Foundation | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=9ebd547cdc9391cc |
+| Technical Procurement Specialist, Steel | BEUMER Group | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467801396 |
+| Senior Analyst, ERP | Alta Genetics | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466634069 |
+| Supply Chain Summer Student (Summer 2027 Work Term) | TAQA Group | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467810096 |
+| Program Manager, Transformation (Aircraft and Supply Chain) | WestJet | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468697811 |
+| Customer Experience & Vehicle Intake Coordinator | Clutch | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467801362 |
+| AP Analyst | Parkland Corporation | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466618321 |
+| Wealth Advisor Assistant | Raymond James Ltd. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468838328 |
+| Senior IT Business Analyst | QuadReal Property Group | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468814540 |
+| Senior Specialist, Global Transactional Banking, Commercial  | Scotiabank | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467811117 |
+| Customer Service Associate (Lumber & Building Materials) | RONA | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468809586 |
+| Advisor OpEx and Joint Venture Accounting | Enbridge | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466608941 |
+| Senior Analyst | WestJet | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468805499 |
+| Event Specialist | WaitWell | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467595743 |
+| Clinical Research Coordinator, Oncology | University of Calgary | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467780982 |
+| Category Specialist | Graham | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468826618 |
+| CI Technology Operations Lead | Finning | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467596753 |
+| Team Lead, Roads & Drainage | City of Beaumont | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466622017 |
+| Administrative Assistant | Peakridge Group | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=48efbaddcd05538e |
+| Part-Time Digital Marketing & E-commerce Coordinator — Websi | Calgary Wholesale Cash and Carry | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=cf18a706b93458ff |
+| Disability Case Manager | Sun Life | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=6be6c2fb2bb9dddb |
+| Disability Case Manager | Sun Life | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=7824140a4921ebff |
+| Tawâw Case Manager | Wood Buffalo Wellness Society | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=30527208ed4341be |
+| Access and Privacy Coordinator | City of Medicine Hat | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=c928c3996ccfb89c |
+| Community Resource and Engagement Specialist | CMHA Edmonton | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=9d6896b60c11c1b8 |
+| Project Coordinator | KBL Environmental (Essentials Parent) | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=8506a12d15b9beb0 |
+| Administration and Travel Coordinator | SMS Equipment Inc. | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=eb6aa91e4266be76 |
+| Project Administrative Assistant | WSP in Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467594314 |
+| Human Resources Administrator | AGAT Laboratories | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4466627063 |
+| Mortgage Specialist | BMO | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468828085 |
+| Mortgage Specialist | BMO | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468814863 |
+| Financial Advisor Wealth Advice Centre | ATB Financial | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468827460 |
+| Senior Health Risk Assessment Specialist | WSP in Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467802228 |
+| Market Risk Analyst | Cenovus Energy | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468821997 |
+| Proposal Coordinator | Spark Power ⚡ | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467814081 |
+| Project Administrative Assistant | WSP in Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467595332 |
+| Human Resources Administrator | Pacific Western Transportation Ltd | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467811503 |
+| HR Specialist (Remote) | MMR CONSULTING | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467803337 |
+| OHS Advisor | Government of Alberta | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467593402 |
+| Administrative Assistant | CIBC | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468843352 |
+| Software Support Specialist | Kailo Medical | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=e1cce2349990d141 |
+| Branch Administrator (Calgary, AB) | Sterling Crane | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=b82e20d3017b74c4 |
+| Branch Administrator (Calgary, AB) | Sterling Crane | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=af33f753dab71a13 |
+| IT Administrator | SysGen Solutions Group Ltd. | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=38bbbcf6abb8653d |
+| Specialist Accounting Research & Valuation | Enbridge | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4466613962 |
+| Project Coordinator 3 - Water Infrastructure | Graham | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468836425 |
+| Process Safety Engineer | Icarus-ORM Inc. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4289506049 |
+| System Administrator | TEEMA | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467591917 |
+| Sr Intergovernmental Analyst | Government of Alberta | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467810152 |
+| Service Desk Analyst – Tier 1 | Yardstick Technologies Inc. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468826521 |
+| Solutions Analyst – Wholesale Finance | Compeer Financial | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467798208 |
+| LEM Attestation Specialist | Airswift | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468804974 |
+| Field Technology Support Analyst | Raise | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468804521 |
+| Sales Agent - Be the Catalyst for Change! | Gem Marketing | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=1555fcfd890644b9 |
+| Community Administrative Support - Village Commons | Carya | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467598567 |
+| Customer Experience Associate | TD | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468822255 |
+| Customer Experience Associate | TD | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468832067 |
+| Sales Associate - Jewellery & Watches | Holt Renfrew | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467804376 |
