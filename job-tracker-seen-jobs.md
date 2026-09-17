@@ -19433,3 +19433,34 @@
 | Customer Service - Seasonal | Bass Pro Shops | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468316962 |
 | Sales Associate-Print&Services | Staples Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468334722 |
 | Part-time Sales Associate/Eyewear Stylist - CrossIron Mills | Bailey Nelson | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4466239977 |
+| Senior Technical Solutions Analyst | Keyera Corp | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=e33054a0b0d13096 |
+| Senior Tax Analyst | Petronas Canada | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=d94c4efa8489706b |
+| Supply Chain - System Advisor | Suncor Energy | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=676a5d06c7965d89 |
+| Offsites SCM Advisor | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467922821 |
+| Specialist Digital Delivery Analyst | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4463620865 |
+| Sr Digital Delivery Analyst – SAP | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4463108250 |
+| Accounts Payable Analyst | Aston Carter | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467177993 |
+| Senior Transportation Engineer | GHD | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4448576762 |
+| Senior Technical Solutions Analyst | Keyera | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468377278 |
+| Sr Business Applications Analyst | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4463626231 |
+| Environmental & Regulatory Advisor | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4464946124 |
+| Pensions & Savings Specialist | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4461548131 |
+| Plant Lean Leader | Johnson Controls | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4457735519 |
+| Supply Chain Specialist (Remote | $55–$100/hr) | Synthires | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467502045 |
+| Supply Chain Manager (Remote | $55–$100/hr) | Synthires | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467186901 |
+| Peer Support Worker | Recovery Alberta | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=e38ac019420e366e |
+| Peer Support Worker | Recovery Alberta | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=1d8d2e2aa1110ebe |
+| Peer Support Worker | Recovery Alberta | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=40180478b80aa30a |
+| Electrical Applications Specialist | Eaton | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4457266404 |
+| Service Advisor | Cochrane Toyota | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467192295 |
+| Administrator, Proposals | Backwoods Energy Services | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467188286 |
+| Client Support Specialist | CareerHelix Ltd | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468382538 |
+| May 2027 Geographic Information Systems (GIS) Co-op | Glencore | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4457972683 |
+| Software Analyst | InterPro Pipe + Steel | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4449959656 |
+| Online Data Analyst Canada (French Language) (C) | TELUS Digital AI Data Solutions | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468384060 |
+| Veterinary Assistant/Receptionist | Auburn Bay Veterinary Clinic | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=72cbd2c531630c64 |
+| Administrative Support III | Alberta Precision Labs | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=4bab0c38f6ea13f8 |
+| Intermediate Document Controller | Stantec | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=d4d84009b26b9222 |
+| General Merchandise Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467168671 |
+| Sales Support Specialist | MarlowHR Ltd | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468378958 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467175545 |
