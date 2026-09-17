@@ -19484,3 +19484,52 @@
 | Sales Associate - Calgary | Scotiabank | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4458307105 |
 | Sales Associate, New Car | Kaizen Automotive Group | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467543765 |
 | Sales Associate, Used Car | Kaizen Automotive Group | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467551639 |
+| Category Specialist | Graham Construction | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=472f717ce006e5e0 |
+| Site Financial Analyst | Harmony Logistics | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=ccb913a7b0a0b2b2 |
+| ICQA Data Analyst, YEG2 | Amazon.com | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=805c30d1fdc7a150 |
+| Operations Analyst – Exceptions & Inventory Management | Arrow Workforce Solutions | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467584555 |
+| Purchasing & Fleet Coordinator | NorthStar Equipment Rentals | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466298536 |
+| Specialist, Product Support | Gordon Food Service - Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468693759 |
+| Project Field Work Planner | TC Energy | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466290725 |
+| Electrical Field Coordinator - Energy Construction | Kiewit | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4449147610 |
+| Operations Consultant - Part Time | SEPHORA | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468687460 |
+| Operations Management Associate - Food Manufacturing | Cargill | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4448066619 |
+| Real Estate & Development Coordinator | UFA | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467568317 |
+| Legal Compliance Analyst | Fasken | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467569949 |
+| Business Analyst - Lead, Front Office Technology & Business  | Alberta Investment Management Corporatio | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467580671 |
+| Infrastructure Operations Analyst | Apptoza Inc. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466600411 |
+| HRIS Analyst | Whitecap Resources Inc. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468696801 |
+| Stage Experience Lead - Full Time | SEPHORA | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468696318 |
+| Team Leader, Auto Claims | Definity | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468688782 |
+| Senior Financial Analyst | Obsidian Energy Ltd. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467579776 |
+| Proposal Coordinator | WSP in Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4458312019 |
+| Financial Analyst | Gowling WLG | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467588144 |
+| Application Integration Team Lead | Bird Construction | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4449962265 |
+| Lead Process Engineer | BBA Consultants | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4459378106 |
+| ICQA Data Analyst, YEG2 | Amazon | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468684533 |
+| Customer Program Specialist - CAN | Grainger Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468660934 |
+| Purchasing Administrative Assistant-Brooks, AB | JBS Food Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467568891 |
+| Project Coordinator | Boxfort Ventures (AB) Ltd | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=a94f997ec5146416 |
+| Customer Fleet Coordinator | Finning | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=93507986493cde1d |
+| Project Administrator- Syncrude Aurora | Fort McKay Group of Companies LP | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=5ba8167221c9eb3f |
+| Project Administrator | Boxfort | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4418595972 |
+| Design Team Project Administrator | Boardwalk | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467565988 |
+| Marketing Coordinator | RECRUITMENT PARTNERS INC. | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468679174 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Energy Trading Analyst Intern, May 2027 | GBE Energy | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467580271 |
+| Capital Markets and Accounting Advisory Services, Senior Ass | PwC Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468692755 |
+| Financial Planner Investment Retirement Planning | RBC | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468696634 |
+| Hardware Verification Specialist | Hexagon Autonomous Solutions | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4449901891 |
+| Administrative Assistant | RBC Dominion Securities | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468686787 |
+| Branch Office Administrator | Edward Jones | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4458620492 |
+| Service Desk Analyst | Mattamy Homes | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=b9f940f40e4960c9 |
+| Service Desk Analyst | Mattamy Homes | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=ca1e108b5522c956 |
+| Business Solutions Developer | TC Energy | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4466285750 |
+| Systems Administrator | Rogers Communications | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4458365778 |
+| IAM Technical Support | K&K Global Talent Solutions INC. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468678959 |
+| Network Administrator | J&M Group | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468676598 |
+| Data and AI Enablement Specialist(Business Analyst) | TEEMA | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467567670 |
+| CSR - Customer Service Representative | Cascade Aqua-Tech (AB) Ltd | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=6c112832d1440da5 |
+| Associate, Private Wealth | Fiera Capital | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467577487 |
+| B2B Dealer Experience Associate | Revelyst | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468678601 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468683093 |
