@@ -19393,3 +19393,43 @@
 | Customer Service Associate | La Maison Simons | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468303520 |
 | Personal Banking Associate Trainee | TD | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4468300613 |
 | Customer Experience Associate - Glenmore Square Branch, AB ( | Scotiabank | 2026-09-16 | G | https://www.linkedin.com/jobs/view/4467106768 |
+| Fundamentals Trade Analyst | China National Offshore Oil | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=55fc04bebd48bd00 |
+| Commercial & Development Analyst | Cenovus Energy | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=b7cb41506f577238 |
+| Production Reporting Analyst | Cenovus Energy | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=8e31726dfcd8383a |
+| Procurement Agent | FlatironDragados | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=2b3ebe97b1261176 |
+| Relational Events Coordinator | World Vision Canada | 2026-09-17 | J | https://ca.indeed.com/viewjob?jk=6628ee838f7975cc |
+| Supply Chain - System Advisor | Suncor | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468333409 |
+| Analyst | Energy and Environmental Economics, Inc. | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468310618 |
+| Accounts Payable Analyst | Waste Connections of Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4466246043 |
+| Talent Acquisition Specialist (3 months contract) | Factor_ | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468309597 |
+| Coordinator, People Operations (10-Month Contract) | Deloitte | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468348183 |
+| Contract Security Coordinator | Bell | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468308696 |
+| Department Supervisor Operations: Full Time - BEACON HILL | The Home Depot Canada | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467120885 |
+| PURCHASING ADMINISTRATIVE ASSISTANT -BROOKS, AB | JBS USA | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4468307853 |
+| Material Coordinator (I - III) - Artificial Lift | Halliburton | 2026-09-17 | J | https://www.linkedin.com/jobs/view/4467133450 |
+| Case Manager | TRELLIS SOCIETY FOR COMMUNITY IMPACT | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=ab3e3dfb03d65287 |
+| Patient Support Coordinator (Remote) | Sailor Health | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=583c56545874c709 |
+| QHSE Administrator (Contract position up to 18 months) | Rockwood Service Corporation | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=cae1af61a09e0da5 |
+| Subcontracts Coordinator - Industrial | Graham Construction | 2026-09-17 | N | https://ca.indeed.com/viewjob?jk=7c49f6af2cc2ce20 |
+| Client Advisor (PT), AX Chinook Centre | Giorgio Armani | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467144139 |
+| Senior Tax Analyst | PETRONAS Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468351551 |
+| Patient Support Coordinator (Remote) | Sailor Health | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468332778 |
+| Kettle Coordinator | The Salvation Army in Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467119777 |
+| Reception and Payroll Administrator | GFL - Sewer Technologies Division | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468320705 |
+| Reception and Payroll Administrator | GFL Environmental Inc. | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467157478 |
+| Administrative Assistant | The Salvation Army in Canada | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4467114883 |
+| Coordinator, People Operations (10-Month Contract) | Deloitte | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468329528 |
+| Care Navigator (Remote) | Sailor Health | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468330749 |
+| Assistant Service Coordinator, Empire Envelope | Empire Envelope | 2026-09-17 | N | https://www.linkedin.com/jobs/view/4468318654 |
+| ServiceNow Business Process Consultant | Accenture | 2026-09-17 | R | https://ca.indeed.com/viewjob?jk=b90e45ffdb3e1968 |
+| Associate Product Specialist | Ravic | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467120281 |
+| EMR/EHR Implementation Specialist | Alignerr | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4468340139 |
+| Marketing Automation Specialist | AutoCanada | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467138412 |
+| Parallels RAS Administrator / Virtualization Engineer (Remot | Roshan Consulting Services | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467117277 |
+| Field Application Specialist - Military (Canada) | Draganfly Inc. | 2026-09-17 | R | https://www.linkedin.com/jobs/view/4467131772 |
+| Front Desk Associate (Permanent Part-Time) | Myo | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=714eeb7b0811567b |
+| Front Desk Associate (Permanent Part-Time) | Myo | 2026-09-17 | G | https://ca.indeed.com/viewjob?jk=124ed3fa9bf77deb |
+| Intermediate Document Controller | Stantec | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468336576 |
+| Customer Service - Seasonal | Bass Pro Shops | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468316962 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468334722 |
+| Part-time Sales Associate/Eyewear Stylist - CrossIron Mills | Bailey Nelson | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4466239977 |
