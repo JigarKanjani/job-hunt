@@ -19639,3 +19639,24 @@
 | Quantitative Data Analyst (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466660987 |
 | Data & Statistical Analyst (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466679098 |
 | Statistical Analysis Specialist (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466666460 |
+| Temporary Scheduling Contractor / Scheduling Analyst (Contra | Parkland Corporation | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458000496 |
+| SAP S/4 HANA Finance Lead | TransAlta | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4460124866 |
+| Information Technology Integrated Product Team Lead | Raytheon | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4459886388 |
+| Business Analyst | Tata Consultancy Services | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467858797 |
+| Senior Sales Enablement Specialist, Velocity | Clio | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458654867 |
+| Organizational Development Advisor - Corporate Services | Graham | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4460127800 |
+| Project coordinator | Integrated Power Services | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4450626879 |
+| WCAN Leasing & Equipment Maintenance Lead | Amrize | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4448488412 |
+| Research Project Coordinator, Faculty of Social Work | University of Calgary | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467939409 |
+| Administrative Assistant, Haskayne School of Business | University of Calgary | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467951339 |
+| Clinical Applications Specialist (Travelling position) | Siemens Healthineers | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4460178251 |
+| Talent Acquisition Specialist (Remote) | 7Seventy Recruiting | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4465978638 |
+| Upstream Mine/Plant Automation Engineering - Students Seekin | Imperial Oil | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4460321953 |
+| Business Analyst | Radiant Systems Solutions, Inc | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4467855944 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4469140824 |
+| Receptionist | Core Laboratories | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4467856783 |
+| Underwriting Account Service Associate | Zurich Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4458690333 |
+| Insurance Advisor | Western Financial Group | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4458678073 |
+| Sales Associate - Spirit | Spirit Halloween | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4448704332 |
+| Sales Associate - Spirit | Spirit Halloween | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4441250794 |
+| Agent de soutien à la maintenance | Staples Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4441283866 |
