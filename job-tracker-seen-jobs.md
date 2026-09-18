@@ -19702,3 +19702,39 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469209275 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469209280 |
 | Transaction Coordinator / Sales Support Specialist | Robert Half | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4467897215 |
+| Supply Chain Analyst | Gordon Food Service - Canada | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469226029 |
+| Supply Chain Analyst | Actalent | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469221676 |
+| Procurement Analyst | InSync Systems | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467895262 |
+| Service/Parts Advisor | Charger Logistics Inc. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469219408 |
+| Operations Program Delivery Lead – Planning & Scheduling | Bird Construction | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4460390756 |
+| Branch Operations Lead | Worldpac | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468006673 |
+| Service Coordinator - Security Solutions | Convergint | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4459883447 |
+| Intermediate / Senior Land Analyst | Taylor Land Inc | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468010794 |
+| Development Officer, Partnership Fulfillment | Calgary Zoo | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468007855 |
+| Senior Business Analyst | Servus Credit Union | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466142554 |
+| Senior Business Solutions Analyst | Keyera | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468003720 |
+| Student, Enterprise Risk Management (Fall 2026) | Alberta Investment Management Corporatio | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468012252 |
+| Operations Engineering Summer Student (Summer 2027 Work Term | TAQA Group | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468015357 |
+| Senior Quality Analyst | Canadian Tire Corporation | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469213275 |
+| Incentives Program Manager and Capital Expenditure Support | Linde | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467896600 |
+| Fleet Program Manager | Acuren | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4465377648 |
+| Job Cost Analyst | Badger Infrastructure Solutions | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469221937 |
+| Regional Lead – Hydropower and Dams (North & Western Canada) | WSP in Canada | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458677340 |
+| Planner/Scheduler - Industrial | Peaskie Minerals Inc. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468017074 |
+| SSC Service Center Administrator | InSync Systems | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467898553 |
+| Temporary Part-time Learning Commons Facilitator - Manachaba | Rocky View Schools | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467895993 |
+| Service Center Administrator | Brunel | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468010498 |
+| Property Administrator Assistant - 15 Month Contract | CT REIT | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4469194979 |
+| Program Manager, Creative Studio | WestJet | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4469216829 |
+| Member Experience Advisor - Mount Royal | Servus Credit Union | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468009408 |
+| Business Advisor - Midnapore, Calgary, AB | Scotiabank | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468015379 |
+| Business Advisor - McKenzie Towne, Calgary, AB | Scotiabank | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468022147 |
+| Advisor for Design and Organizational Effectiveness | BBA Consultants | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4441252541 |
+| Health and Safety Specialist | Robert Half | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468013106 |
+| Community Disability Worker - Full-Time, Fort Saskatchewan. | Robin Hood Association | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468006562 |
+| Accounting Specialist | BrokerLink | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4441931633 |
+| Receptionist, Consumer Insolvency | MNP | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468011791 |
+| Associate | RBC Dominion Securities | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469217163 |
+| Supervising Associate, Resource Management | EY | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4458406937 |
+| Customer Service Associate (Front-End Desk) | RONA | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469235516 |
+| Customer Experience Associate - South Lethbridge, AB (26.25  | Scotiabank | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468014484 |
