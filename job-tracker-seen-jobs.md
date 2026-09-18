@@ -19596,3 +19596,39 @@
 | Customer Experience Associate | TD | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468822255 |
 | Customer Experience Associate | TD | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4468832067 |
 | Sales Associate - Jewellery & Watches | Holt Renfrew | 2026-09-17 | G | https://www.linkedin.com/jobs/view/4467804376 |
+| Supply Chain Summer Student (Summer 2027 Work Term) | TAQA | 2026-09-18 | J | https://ca.indeed.com/viewjob?jk=08798b5172878593 |
+| Community Coordinator - Warranty (12-Month Contract) | Mattamy Homes | 2026-09-18 | J | https://ca.indeed.com/viewjob?jk=d89927b314e4935c |
+| PARTS ADVISOR | Stampede Leasing Ltd | 2026-09-18 | J | https://ca.indeed.com/viewjob?jk=8e64b27f96a0eda1 |
+| Contracts Advisor | Suncor | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468864595 |
+| Project Coordinator | HDR | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467834198 |
+| Project Coordinator | Actalent | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468866556 |
+| Program Manager, Transformation (Crew) | WestJet | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468850852 |
+| Senior Cybersecurity and Compliance Analyst - Landmark | Halliburton | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467836042 |
+| Technical Coordinator | Stantec | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468849945 |
+| Course Coordinator, HPED 1070 | Mount Royal University | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468857863 |
+| Marketing Science Lead | Critical Mass | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467593887 |
+| Buyer | Methode Electronics | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4465829619 |
+| Advisor, Procurement and Contracts - Procurement and Contrac | MacEwan University | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4465926076 |
+| Business Systems Analyst | Raise | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468868546 |
+| APPOINTMENT COORDINATOR | Stampede Leasing Ltd | 2026-09-18 | N | https://ca.indeed.com/viewjob?jk=e63e80407a3a5a50 |
+| Advisor OpEx and Joint Venture Accounting | Enbridge | 2026-09-18 | N | https://ca.indeed.com/viewjob?jk=0ad99ac4a402e023 |
+| Recreation & Wellness Coordinator | Above and Beyond Care Services Inc | 2026-09-18 | N | https://ca.indeed.com/viewjob?jk=7c889e155703bda5 |
+| Branch Administrator (Calgary, AB) | Sterling Crane | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468845803 |
+| Branch Administrator (Calgary, AB) | Sterling Crane | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468853471 |
+| administrative assistant - office | Topmade Plastics & Neon Signs | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468828851 |
+| Benefits Specialist | Globe Life AO | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467812982 |
+| Senior Financial Advisor - Okotoks, AB | Scotiabank | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4466632711 |
+| Project Coordinator | KBL Environmental Ltd. | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468859712 |
+| Construction Project Coordinator | Demand Interiors | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468860750 |
+| Disability Case Manager | Sun Life | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467829273 |
+| Administrative Assistant - St. Joseph School (Coaldale) | Holy Spirit Catholic School Division | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4468858395 |
+| Market Risk Analyst | Cenovus Energy | 2026-09-18 | R | https://ca.indeed.com/viewjob?jk=3b3812ec53fc6ecc |
+| Business Solutions Developer | TC Energy | 2026-09-18 | R | https://ca.indeed.com/viewjob?jk=7ac0bd644a2eb807 |
+| Security Project Coordinator | Milestone Technologies | 2026-09-18 | R | https://ca.indeed.com/viewjob?jk=0620c2a2f2921c4e |
+| Business Analyst | NetworkPedia | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4467831159 |
+| Specialist, Compliance | API (Applied Pharmaceutical Innovation) | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466633336 |
+| Community Administrative Support - Village Commons | Carya | 2026-09-18 | G | https://ca.indeed.com/viewjob?jk=0c9ff43673edcbf5 |
+| Part Time Customer Service Representative | U-Haul | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468850789 |
+| Sales Associate | Brookfield Residential | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4466641289 |
+| Sales Associate | Carters Inc. | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468854737 |
+| (CAN) Inbound Compliance Associate (TUE - SAT 4:00PM to 12:3 | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468842509 |
