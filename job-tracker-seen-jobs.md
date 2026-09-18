@@ -19660,3 +19660,45 @@
 | Sales Associate - Spirit | Spirit Halloween | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4448704332 |
 | Sales Associate - Spirit | Spirit Halloween | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4441250794 |
 | Agent de soutien à la maintenance | Staples Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4441283866 |
+| Business Analyst | Pengcorp Ltd. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467883460 |
+| Lead IT SAP SD | Parkland Corporation | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466908464 |
+| Maintenance Planner/Scheduler | City of Calgary | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467887026 |
+| Rental Coordinator | Cooper Equipment Rentals Limited | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4456541051 |
+| ILI Coordinator (In Line Inspection) | SGS | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466901502 |
+| SCM Procurement Analyst | NES Fircroft | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468005030 |
+| Regional Lead – Hydropower and Dams (North & Western Canada) | WSP in Canada | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458685277 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Senior Project Controls Lead | Skyline Recruitment Ltd | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458291474 |
+| Client Experience Specialist | Fidelity Canada | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4458042178 |
+| Signature Programs Specialist | Canadian Cancer Society | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4456278865 |
+| Part Time Floor Leader - Chinook Centre | Lush Fresh Handmade Cosmetics North Amer | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466695636 |
+| Team Lead (Supervisor) | IntouchCX | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467869661 |
+| Service Team Lead | Wood Automotive Group | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469201081 |
+| HR Application Analyst | City of Calgary | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467869484 |
+| IT Operations Engineer | Cornerstone Building Brands | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4448045885 |
+| Analyst, Corporate Finance - Capital Advisory | MNP | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4449788654 |
+| Project Coordinator - Candidate Pool | CIMA+ | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469188743 |
+| Team Leader | Dollarama | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4438748252 |
+| Training Facilitator | IntouchCX | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467882481 |
+| Analyst, Leasing Services | Rogers Communications | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4458946384 |
+| Benefits Specialist | American Income Life: Global | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467814000 |
+| Insolvency Analyst, Personal Debt Solutions (12 Month Contra | BDO Canada | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467773942 |
+| Public Relations Specialist | EY | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4441115903 |
+| Sr. PSM Coordinator | Lamb Weston | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4452850784 |
+| Administrative Assistant (Contract) | McKesson | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4469206021 |
+| Human Resources Advisor | Confidential | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4466902536 |
+| Administrative Assistant III | City of Grande Prairie | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4466696944 |
+| Lead Service Coordinator | Finning | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4467871801 |
+| Enablement and Reporting Summer Student | ARC Resources Ltd. | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4469203368 |
+| Data Services Developer Associate (May or September 2027 - T | IBM | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4458023571 |
+| Financial Reporting Consultant | RECRUITMENT PARTNERS INC. | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4460128596 |
+| Automation Technologist | Ecolab | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4450049365 |
+| Analyste d’affaires, Données et analytique - Nouveau diplômé | BDO Canada | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4467788919 |
+| Remote Role :::Azure Platform Engineer | xchange | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4467879583 |
+| Front Desk Associate (Permanent Part-Time) | Myo | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4466912429 |
+| Front Desk Associate (Permanent Part-Time) | Myo | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4466904541 |
+| Agente de recepción de spa | Hyatt Regency | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4467885571 |
+| Canada Gas Scheduler | ConocoPhillips | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4467882921 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469209275 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469209280 |
+| Transaction Coordinator / Sales Support Specialist | Robert Half | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4467897215 |
