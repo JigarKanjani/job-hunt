@@ -19632,3 +19632,10 @@
 | Sales Associate | Brookfield Residential | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4466641289 |
 | Sales Associate | Carters Inc. | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468854737 |
 | (CAN) Inbound Compliance Associate (TUE - SAT 4:00PM to 12:3 | Walmart Canada | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468842509 |
+| Procurement Administrator, Services (Part-Time) | Boardwalk | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4467821832 |
+| Workday Finance Record to Report Analyst | Accenture | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4464810183 |
+| Manufacturing Financial Analyst | ESCO Group LLC | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466650969 |
+| Legal Natural Help Specialist | Immigrant Welcome Center | 2026-09-18 | N | https://www.linkedin.com/jobs/view/4469127136 |
+| Quantitative Data Analyst (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466660987 |
+| Data & Statistical Analyst (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466679098 |
+| Statistical Analysis Specialist (Remote | $25–$50/hr) | Synthires | 2026-09-18 | R | https://www.linkedin.com/jobs/view/4466666460 |
