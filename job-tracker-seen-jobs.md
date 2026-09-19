@@ -19863,3 +19863,26 @@
 | Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460396495 |
 | First Nations/Inuit/Métis Candidates: Cybersecurity, Applica | Deloitte | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4460511157 |
 | Personal Banking Associate Trainee | TD | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4460513892 |
+| Contract Logistics Transport Planning Specialist | Kuehne+Nagel | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460533319 |
+| Contact Center & Quality Coordinator | SMART Technologies | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4458417588 |
+| First Nations/Inuit/Métis Candidates: Consultant, Nation Bui | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460558763 |
+| Senior Passenger Modelling Specialist | WSP in Canada | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459416679 |
+| Analyste, Incitations mondiales à l'investissement et à l'in | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459425841 |
+| Analyste - Certification des contrôles et Services-conseils, | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459421876 |
+| Analyste stagiaire, Conseils en cas de litiges - Hiver 2027  | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459410877 |
+| Consultant - Controls Assurance & Accounting and Reporting A | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460507235 |
+| Lead, Tenant Experience (18-Month Contract) | Oxford Properties Group | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4458462350 |
+| Cybersecurity, Application Security Analyst/Consultant - R8d | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460500283 |
+| First Nations/Inuit/Métis Candidates: Cybersecurity, Applica | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460507220 |
+| Senior HSE Coordinator | Bird Construction | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4450665871 |
+| Intermediate Health & Safety Advisor / Safety Coach | SFTY LTD. | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468019190 |
+| Human Resources Officer | Christ The Redeemer Catholic Schools | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468411419 |
+| Fiscalité et Services juridiques - Analyste en fiscalité - N | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4459405886 |
+| Tax & Legal - Tax Analyst - Co-op/Intern 2027 - Multiple Loc | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460512129 |
+| Tax & Legal - Tax Analyst - New Grad 2027 - Multiple Locatio | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460397538 |
+| Analyst - Internal Audit, Assurance - Co-op/Intern - 2027 -  | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460513154 |
+| Pay & Benefits Administrator | Chinook's Edge School Division | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468409383 |
+| Commercial Insurance Advisor- Sales & Service | BrokerLink | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4441940258 |
+| Support Associate-1 | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469557342 |
+| Sales Associate | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469549674 |
+| Sales Associate-1 | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469553605 |
