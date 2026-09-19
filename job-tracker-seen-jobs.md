@@ -19886,3 +19886,4 @@
 | Support Associate-1 | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469557342 |
 | Sales Associate | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469549674 |
 | Sales Associate-1 | TORY BURCH | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469553605 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469561274 |
