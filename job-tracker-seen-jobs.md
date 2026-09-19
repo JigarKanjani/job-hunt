@@ -19847,3 +19847,19 @@
 | Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466974569 |
 | Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466981374 |
 | Project Controller | Arcadis | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466983637 |
+| Analyste/Conseiller - Projets d'investissement - Nouveaux di | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459405884 |
+| Analyste/Conseiller(ère) - Services-conseils en économie - N | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459418982 |
+| Analyste/conseiller(ère), QuickStart - F&A et opérations (CP | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459408822 |
+| Overhead Transmission Line Design Lead | Jacobs | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460536438 |
+| Senior Accounting Project Management Analyst | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460398408 |
+| Senior Consultant, Technical Mining Advisory | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460502256 |
+| Consultant / Senior Consultant, Supply Chain & Network Opera | Deloitte | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460517083 |
+| Project Coordinator | Bitdeer (NASDAQ: BTDR) | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4449204666 |
+| Coordinator, Event Technology and Registration | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460500288 |
+| Transaction Managememt Sr Coordinator | CBRE | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469543377 |
+| HSE Administrator - Corporate Services | Graham | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4450395195 |
+| Analyste/Conseiller, Transformation des transactions et inté | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4459411844 |
+| Fiscalité et Services juridiques - Analyste en fiscalité - S | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4459427761 |
+| Analyst - Controls Assurance & Accounting and Reporting Advi | Deloitte | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4460396495 |
+| First Nations/Inuit/Métis Candidates: Cybersecurity, Applica | Deloitte | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4460511157 |
+| Personal Banking Associate Trainee | TD | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4460513892 |
