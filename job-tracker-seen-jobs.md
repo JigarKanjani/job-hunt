@@ -19791,3 +19791,28 @@
 | Deli Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469267261 |
 | (CAN) Meat Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469259924 |
 | Directs Store Delivery Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469272088 |
+| Accounts Payable Specialist | Aston Carter | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469274888 |
+| Team Lead | Activate Games | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469279179 |
+| Requirements Management Specialist | AtkinsRéalis | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469280399 |
+| Requirements Management Specialist | AtkinsRéalis | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469285059 |
+| Technical Functional Analyst | Raise | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469277852 |
+| Functional Analyst, HRMS | Stantec | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469282821 |
+| MFR Enablement Coordinator | Peoples Group | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468061412 |
+| Program Coordinator, Winks | Circle K | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468051348 |
+| Senior Security Analyst | Insight Global | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468050326 |
+| Specialist Software Cloud Developer | CPKC | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469283895 |
+| HR & Client Services Coordinator | Elevated HR Solutions | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469294277 |
+| JR Inventory Technician (Heavy Equipment) – Entry level | Sureway Construction Group Ltd. | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468048624 |
+| Lumber & Building Material Department Supervisor Full Time - | The Home Depot Canada | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468041511 |
+| SSC Service Center Administrator | Raise | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469288183 |
+| Member Experience Advisor - Didsbury | Servus Credit Union | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468038860 |
+| Member Experience Advisor - Macleod Trail Branch | Servus Credit Union | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468045331 |
+| Disability Case Manager | Sun Life | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468053111 |
+| Tenancy Dispute Officer | Government of Alberta | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468055534 |
+| Vehicle Inspections and Lot Coordinator | EBlock | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4454836250 |
+| HR Systems Coordinator (6 month term) | Amii (Alberta Machine Intelligence Insti | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469286194 |
+| Functional Analyst, HRMS | Stantec | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469295009 |
+| Office Support Specialist | Aston Carter | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469283793 |
+| Office Support Specialist | Aston Carter | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469282769 |
+| Sales Associate | Carters Inc. | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469274875 |
+| Sr. Services Applications Specialist - Upstream Chemical | Baker Hughes | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4465321829 |
