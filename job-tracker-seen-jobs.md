@@ -19816,3 +19816,11 @@
 | Office Support Specialist | Aston Carter | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469282769 |
 | Sales Associate | Carters Inc. | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469274875 |
 | Sr. Services Applications Specialist - Upstream Chemical | Baker Hughes | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4465321829 |
+| Procurement Administrator, Services (Part-Time) | Boardwalk | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468081048 |
+| Office Coordinator | Mod Op | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469506892 |
+| Payroll and Benefits Specialist | Robert Half | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4468075064 |
+| Junior Customer Success Specialist | Mikata Health | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469507839 |
+| Personal Finance Specialist (Remote) | SecondWind by Joveo | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469511350 |
+| Finance Analyst (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469500972 |
+| Financial Data Analyst (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469508870 |
+| Financial Planning Specialist (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469513276 |
