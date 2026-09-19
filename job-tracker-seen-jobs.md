@@ -19738,3 +19738,56 @@
 | Supervising Associate, Resource Management | EY | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4458406937 |
 | Customer Service Associate (Front-End Desk) | RONA | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4469235516 |
 | Customer Experience Associate - South Lethbridge, AB (26.25  | Scotiabank | 2026-09-18 | G | https://www.linkedin.com/jobs/view/4468014484 |
+| Procurement Analyst | Adecco | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468034277 |
+| Business Support Analyst - Finance | Canadian Natural Resources Limited (CNRL | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468017745 |
+| Senior TIPS Support Analyst | Pembina Pipeline Corporation | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469258769 |
+| Enterprise Data Analyst/Modeler | Canadian Natural Resources Limited (CNRL | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468039206 |
+| Project Coordinator | Modus Structures Inc | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469247333 |
+| Project Coordinator – Construction & Tenant Improvements | RYCO Properties Ltd. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468017593 |
+| Sales Specialist, Global Strategic Accounts | Vertiv | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469250203 |
+| SAP Environment & Cutover Release Lead | Coforge | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468020392 |
+| Analyst, Pension & Benefits Billings | Nutrien | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466918845 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Research Officer, Urban Alliance | University of Calgary | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469241415 |
+| Technical Sales Specialist, Pressure Management | Wajax | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469263072 |
+| Geomatics Analyst | Cenovus Energy | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469264123 |
+| Lead, Treasury | PetroChina Canada | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469276089 |
+| Transfers Specialist I | ATB Financial | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469247558 |
+| Senior Project Planner | Turner & Townsend | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468019427 |
+| Team Lead, Customer Care | ZayZoon | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469275057 |
+| Senior Infrastructure Analyst | Apptoza Inc. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466919862 |
+| P2P Test Lead (SAP MM) | Coforge | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468017517 |
+| R2R Test Lead (SAP FICO) | Coforge | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468024413 |
+| H2R Test Lead (SAP HCM) | Coforge | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468028358 |
+| A2D Test Lead (SAP Plant Maintenance) | Coforge | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468018639 |
+| Strategic Procurement Specialist | NAIT (Northern Alberta Institute of Tech | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4469226977 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4466921841 |
+| Proposal Lead | Spark Power ⚡ | 2026-09-18 | J | https://www.linkedin.com/jobs/view/4468033368 |
+| Guardianship and Trusteeship Specialist | Easter Seals Alberta | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469240381 |
+| Contract Administrator | Adecco | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468014692 |
+| Entry Level Personal Insurance Advisor | BrokerLink | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469276002 |
+| Mortgage Specialist | BMO | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469246358 |
+| Chief of Staff to the President and Chief Operating Officer | Trans Mountain | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468037130 |
+| Wealth Advisor | Canada Life | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468016420 |
+| Construction Project Coordinator | Delnor Construction | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468016534 |
+| Disability Case Manager | Canada Life | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468017391 |
+| Advisor, BMO SmartFolio WFH | BMO | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469238568 |
+| Advisor Associate Wealth - Edmonton | Scotia Wealth Management | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469265206 |
+| Estimating Administrator | Black & McDonald Limited | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4468019689 |
+| Project Coordinator | Allmar Inc. | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4469271263 |
+| Master Data Analyst | PetroChina Canada | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4465893160 |
+| Azure Specialist | Alberta Securities Commission | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469246420 |
+| Desktop Support Engineer | Leidos | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4466917881 |
+| IT Support Specialist | Tech-Wood Building Components Ltd. | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4468024334 |
+| EIT Process Engineer | Equinox Engineering Ltd. | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4468027540 |
+| Process Engineer | Agilus Work Solutions | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4468038204 |
+| Maintenance Analyst | Edmonton International Airport (YEG) | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469254837 |
+| IAM Analyst / IAM Administrator 6-8 months Contract | Compugen Inc | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4468020554 |
+| Personal Banking Associate Trainee | TD | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469255213 |
+| Veterinary Assistant, Internal Medicine, Western Veterinary  | VCA Animal Hospitals | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4468028932 |
+| (CAN) Electronics Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469261582 |
+| Distribution Centre Team Associate - Quality Assurance II (T | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469272089 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469269215 |
+| Deli Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469267261 |
+| (CAN) Meat Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469259924 |
+| Directs Store Delivery Associate | Walmart Canada | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469272088 |
