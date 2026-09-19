@@ -19824,3 +19824,26 @@
 | Finance Analyst (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469500972 |
 | Financial Data Analyst (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469508870 |
 | Financial Planning Specialist (Remote) | SecondWind by Joveo | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4469513276 |
+| UDA Business Analyst - Students Seeking Opportunities | Imperial Oil | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460526565 |
+| Procurement Manager | Amrize | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4438756177 |
+| WCAN Leasing & Equipment Maintenance Lead | Amrize | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4448489320 |
+| Proposal Coordinator - Buildings | Graham | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460380156 |
+| Project Coordinator (Remote- Canada) | Octave | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4458993447 |
+| Analyst, Leaves | Parkland Corporation | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4449208003 |
+| Specialist, Corporate Compliance | Parkland Corporation | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4458429852 |
+| Supervisor, Procurement | Regional Municipality of Wood Buffalo | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4469527477 |
+| Industrial Quotations Specialist | E.B. Horsman & Son | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4459438202 |
+| Lead Hand | Intelcom | Dragonfly | 2026-09-19 | J | https://www.linkedin.com/jobs/view/4460380245 |
+| Business Development Specialist | McCarthy Tétrault | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4450793646 |
+| Insurance Advisor | Western Financial Group | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4449787560 |
+| Maintenance Planner | FLINT Corp. | 2026-09-19 | N | https://www.linkedin.com/jobs/view/4413741985 |
+| Lighting Business Developer, Southern Alberta | E.B. Horsman & Son | 2026-09-19 | R | https://www.linkedin.com/jobs/view/4450364544 |
+| Remote Shareholder Experience Associate | NTT DATA North America | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4460563639 |
+| Remote Customer Service Representative | NTT DATA North America | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4460563638 |
+| Sales and Rental Associate | Long & McQuade Musical Instruments | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4469537115 |
+| Sales Associate III | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466967600 |
+| Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466978512 |
+| Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466978481 |
+| Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466974569 |
+| Temporary Sales Associate | Coach | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466981374 |
+| Project Controller | Arcadis | 2026-09-19 | G | https://www.linkedin.com/jobs/view/4466983637 |
