@@ -19901,3 +19901,5 @@
 | Rotables & Repair Coordinator - Calgary, AB (YYC) | AvPosts | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469564630 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469568615 |
 | Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469563820 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4469800029 |
+| SALES ASSOCIATE - PART TIME - CALL IT SPRING (CHINOOK CENTRE | ALDO Group | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468459116 |
