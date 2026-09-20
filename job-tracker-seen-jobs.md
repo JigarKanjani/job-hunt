@@ -19903,3 +19903,10 @@
 | Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469563820 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4469800029 |
 | SALES ASSOCIATE - PART TIME - CALL IT SPRING (CHINOOK CENTRE | ALDO Group | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468459116 |
+| Digital Content Analyst: Product Content and eCommerce [AQ-1 | Aquent | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4467322805 |
+| CCaaS Delivery Lead | Accenture | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4450787514 |
+| Virtual Financial Advisor - Calgary, Alberta | Scotiabank | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4450362794 |
+| QAQC Coordinator | Primoris Services Corporation | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4451047018 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4468448726 |
+| Sales Associate II | kate spade new york | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4411504522 |
+| Temporary Sales Associate-5 | kate spade new york | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4411192832 |
