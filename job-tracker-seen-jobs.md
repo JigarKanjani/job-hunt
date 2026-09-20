@@ -19898,3 +19898,6 @@
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469560470 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469572097 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469574081 |
+| Rotables & Repair Coordinator - Calgary, AB (YYC) | AvPosts | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469564630 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469568615 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4469563820 |
