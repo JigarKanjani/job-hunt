@@ -19917,3 +19917,7 @@
 | Marketing Coordinator, Digital | MNP | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4450370565 |
 | Senior Sourcing Specialist | TES Group Inc. | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4467345137 |
 | Client Associate | CIBC Wood Gundy | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468470330 |
+| Banking advisor | National Bank of Canada | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4467335456 |
+| Payroll & Benefits Administrator | Lac Ste. Anne County | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4468469392 |
+| Technical SEO Specialist (Remote, Edmonton) | Blacksmith Agency | 2026-09-20 | R | https://www.linkedin.com/jobs/view/4469806825 |
+| Showhome Sales Associate | Twenty First Century Homes | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468467509 |
