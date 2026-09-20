@@ -19910,3 +19910,10 @@
 | Payroll and Benefits Administrator | S3 Group Ltd. | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4468448726 |
 | Sales Associate II | kate spade new york | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4411504522 |
 | Temporary Sales Associate-5 | kate spade new york | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4411192832 |
+| Senior Buyer | Worley | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469801951 |
+| SQS Coordinator | Worley | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469806742 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Human Capital Systems Analyst | MNP | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4450377405 |
+| Marketing Coordinator, Digital | MNP | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4450370565 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4467345137 |
+| Client Associate | CIBC Wood Gundy | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468470330 |
