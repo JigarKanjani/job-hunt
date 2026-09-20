@@ -19921,3 +19921,5 @@
 | Payroll & Benefits Administrator | Lac Ste. Anne County | 2026-09-20 | N | https://www.linkedin.com/jobs/view/4468469392 |
 | Technical SEO Specialist (Remote, Edmonton) | Blacksmith Agency | 2026-09-20 | R | https://www.linkedin.com/jobs/view/4469806825 |
 | Showhome Sales Associate | Twenty First Century Homes | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468467509 |
+| Analyste d’affaires, Données et analytique - Nouveau diplômé | BDO Canada | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4467787948 |
+| (CAN) Stocking 2 Team Lead | Walmart Canada | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469820679 |
