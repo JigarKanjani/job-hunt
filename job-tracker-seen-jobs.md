@@ -19957,3 +19957,63 @@
 | ArcGIS Developer - Strong in Networks suite of utility produ | Smart IT Frame LLC | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469911978 |
 | Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469918585 |
 | SALES ASSOCIATE-EN | La Vie En Rose | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4467612454 |
+| Procurement Manager | Lufthansa Technik Canada, Inc. | 2026-09-21 | J | https://ca.indeed.com/viewjob?jk=970bfc4cdd39f25d |
+| Manufacturing and Logistics Coordinator | Bentek Systems Ltd | 2026-09-21 | J | https://ca.indeed.com/viewjob?jk=151e21585f191d6e |
+| Occupational Health & Safety Officer | AuthenBalance Corporation | 2026-09-21 | J | https://ca.indeed.com/viewjob?jk=0fc14ddd62eeb40a |
+| Pipe Fabrication Project Coordinator | NS Modular | 2026-09-21 | J | https://ca.indeed.com/viewjob?jk=add5a21a7368ad7a |
+| Procurement Analyst | Raise | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469957694 |
+| Senior Analyst Sales Development | WestJet | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469973075 |
+| Contractor Management Coordinator | Tourmaline Oil Corp | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468167517 |
+| QA – Environment & Release Lead | Cloud Data Vision | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469944743 |
+| Contracts Technician | Fluor Corporation | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468152735 |
+| Senior Talent Acquisition Specialist | Clio | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468780004 |
+| Associate Specialist | Parkland Corporation | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468163685 |
+| Talent Acquisition Specialist | Clio | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469955237 |
+| Proposal Support Coordinator | Bird Construction | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469938915 |
+| Analyst, Leaves | Parkland Corporation | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468169023 |
+| Client Success Specialist | Summit Fleet | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468164314 |
+| Analyst, ERP Systems, ERP Finance | University of Calgary | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469982268 |
+| Financial Specialist | Trouw Nutrition | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4467699911 |
+| Uranium Conversion Facility Operations Specialist | Nucleon Energy Inc. | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468156174 |
+| Senior Advisor, Workforce Planning & Organizational Effectiv | WestJet | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469954652 |
+| Gallery Coordinator, Department of Art and Art History, Facu | University of Calgary | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469990025 |
+| Payroll & Benefits Coordinator (Fixed-Term Contract) | SECURE | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468148551 |
+| Events & Initiatives Specialist, Taylor Institute for Teachi | University of Calgary | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468893173 |
+| HR Leaders, Pay and Client Services | City of Calgary | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468140736 |
+| Factory Test Specialist | Ecolab | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469972833 |
+| Collision Support Specialist | Fix Network World | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468139760 |
+| Admissions & Enrollment Advisor | Interior Heavy Equipment Operator School | 2026-09-21 | N | https://ca.indeed.com/viewjob?jk=dfa72b2c282dbe5a |
+| Associate Insurance Service Advisor | Scotiabank | 2026-09-21 | N | https://ca.indeed.com/viewjob?jk=5887115ec082c688 |
+| Respite Support Worker | Resicare Society of Calgary | 2026-09-21 | N | https://ca.indeed.com/viewjob?jk=a81b9a85a429ab68 |
+| Purchasing & Logistics Coordinator | M & B Exteriors Ltd | 2026-09-21 | N | https://ca.indeed.com/viewjob?jk=d70df57404f6d6c7 |
+| Design Team Project Administrator | Boardwalk | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469952291 |
+| Equipment Planner (Calgary/Edmonton) - Kiewit Equipment Serv | Kiewit | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4460056425 |
+| Interim Colleague Experience Administrator | Loblaw Companies Limited | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468156814 |
+| Accountant / Administrative Assistant | TalentSphere Staffing Solutions | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468150891 |
+| Social Media Coordinator, Department of Art and Art History, | University of Calgary | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469980336 |
+| Veterinary Client Care Specialist - Calgary, AB | Vetcor | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468139509 |
+| Client Advisor (Holt Renfrew) | Moncler | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468169363 |
+| Inbound Sales Specialist | Helcim | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4465071568 |
+| Trainers/Facilitators (Roster Position) | ECO Canada | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468166434 |
+| Project Finance Administrator, Research Accounting | University of Calgary | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469970942 |
+| Senior banking advisor | National Bank of Canada | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469942968 |
+| Senior Financial Advisor - Ranchlands, Calgary, AB | Scotiabank | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468171403 |
+| Technical Analyst - Technology - Education Centre | Rocky View Schools | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468143397 |
+| Corporate Planning and Reporting Analyst | Government of Alberta | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469957932 |
+| Insolvency Analyst, Personal Debt Solutions (12 Month Contra | BDO Canada | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467784903 |
+| Contract Conformance Specialist | Indotronix Avani Group | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469960549 |
+| Family Support Worker | Renfrew Educational Services | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469972927 |
+| Investment Banking Analyst - Natural Resources Group - Calga | JPMorganChase | 2026-09-21 | R | https://ca.indeed.com/viewjob?jk=7c96e065be513cde |
+| Marketing & Advertising Specialist – IT & Systems Support | Private | 2026-09-21 | R | https://ca.indeed.com/viewjob?jk=5ec692e1794f4548 |
+| Sr Analyst Credit | Enbridge | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469993109 |
+| Systems Administrator | Westerkirk Capital | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4468155935 |
+| Security Developer | Raise | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469962472 |
+| Technical Support Analyst | Pacer Group | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469962756 |
+| Analyst Credit | Enbridge | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469992109 |
+| Business Operations - Business Operations Specialist | F12.net | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469986338 |
+| Personal Banking Associate | TD | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4468163631 |
+| SALES ASSOCIATE | Bikini Village | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4468157551 |
+| Sales Associate | Staples Canada | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4468165369 |
+| Associate, Internal Sales, Intermediary Distribution | BMO | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4469976401 |
+| Allstate Sales Agent | Allstate Canada | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4469984222 |
+| Scheduler | EPFC Corp | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4468157039 |
