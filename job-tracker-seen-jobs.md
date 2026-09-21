@@ -19923,3 +19923,16 @@
 | Showhome Sales Associate | Twenty First Century Homes | 2026-09-20 | G | https://www.linkedin.com/jobs/view/4468467509 |
 | Analyste d’affaires, Données et analytique - Nouveau diplômé | BDO Canada | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4467787948 |
 | (CAN) Stocking 2 Team Lead | Walmart Canada | 2026-09-20 | J | https://www.linkedin.com/jobs/view/4469820679 |
+| Coordinator | Flowserve Corporation | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4467347439 |
+| Business Intelligence Analyst - Intermediate - GOAPRDJP00000 | S M Software Solutions Inc | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469831403 |
+| GOAPRDJP000001016 - Business Intelligence Analyst - Intermed | S M Software Solutions Inc | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469826889 |
+| GOAPRDJP000001016 - Business Intelligence Analyst - Intermed | S M Software Solutions Inc | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469829666 |
+| GOAPRDJP000001016 - Business Intelligence Analyst - Intermed | S M Software Solutions Inc | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469827895 |
+| Business Intelligence Analyst - Intermediate - GOAPRDJP00000 | S M Software Solutions Inc | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469822937 |
+| Advisor, BMO SmartFolio WFH | Jobgether | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4468483847 |
+| Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469825888 |
+| Data Science Expert - AI Content Specialist | Alignerr | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469817922 |
+| Business Administration (MBA) - AI Content Specialist | Alignerr | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469820929 |
+| Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469835297 |
+| Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469839243 |
+| Storage Customer Service Representative | U-Haul | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4469832306 |
