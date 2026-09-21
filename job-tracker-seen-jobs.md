@@ -19936,3 +19936,7 @@
 | Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469835297 |
 | Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469839243 |
 | Storage Customer Service Representative | U-Haul | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4469832306 |
+| Financial Analyst | Vix Technology | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4447022623 |
+| Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469855565 |
+| Client Support Specialist | TalentForge Ltd | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469864093 |
+| Entry-Level Administrative Assistant (Remote) | TalentForge Ltd | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469857291 |
