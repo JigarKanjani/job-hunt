@@ -19940,3 +19940,20 @@
 | Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469855565 |
 | Client Support Specialist | TalentForge Ltd | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469864093 |
 | Entry-Level Administrative Assistant (Remote) | TalentForge Ltd | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4469857291 |
+| Procurement Analyst | Brunel | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4468760899 |
+| ERP Analyst | TIMBER MART | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4467623395 |
+| Commercial Analyst | Trans Mountain | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469911805 |
+| Sales Coordinator | Sprouse Fire & Safety | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469912506 |
+| FINANCIAL REPORTING ANALYST | HWN Energy Ltd. | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469914460 |
+| Case Assessment Analyst (12 month contract) | CIRO / OCRI | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4467610586 |
+| Administrative Coordinator, Faculty of Graduate Studies | University of Calgary | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469904808 |
+| CRM Campaign Coordinator | Shell | 2026-09-21 | J | https://www.linkedin.com/jobs/view/4469918396 |
+| Import Coordination Administrator | TIMBER MART | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467626500 |
+| Growth & Business Development Coordinator | Lux Modus | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467623543 |
+| Associate Insurance Service Advisor | Scotiabank | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467395891 |
+| Human Resources Payroll Coordinator | Robert Half | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467621201 |
+| Human Resources Administrative Specialist | Lotus Group | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4467622456 |
+| Private Banking Officer (Contract) | BMO | 2026-09-21 | N | https://www.linkedin.com/jobs/view/4464697169 |
+| ArcGIS Developer - Strong in Networks suite of utility produ | Smart IT Frame LLC | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469911978 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-21 | R | https://www.linkedin.com/jobs/view/4469918585 |
+| SALES ASSOCIATE-EN | La Vie En Rose | 2026-09-21 | G | https://www.linkedin.com/jobs/view/4467612454 |
