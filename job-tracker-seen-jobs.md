@@ -20079,3 +20079,25 @@
 | Payroll Specialist – Human Resources | Alberta Blue Cross | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470248501 |
 | Clinical Business Analyst (Patient Access) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=b9a54926e8165f6e |
 | Coordinator for Committee Programs | Society of Petroleum Engineers Internati | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468541295 |
+| Senior Advisor | Alberta Health Services | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=e3f3a46e3f7484b4 |
+| Geographic Information System Specialist | Calgary Board Of Education | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=9fe22d7d33599ce4 |
+| Information Technology Integrated Product Team Lead | Raytheon | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=6da1c504fefca234 |
+| Procurement Manager Hybrid Model (remotely & on-site) | Lufthansa Technik Canada | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468583572 |
+| Senior Advisor | Alberta Health Services | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468790854 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Mortgage Operations Specialist (Fulfillment Officer) | Haventree Bank | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4459877968 |
+| BMS Controls Project Lead | Johnson Controls | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468573165 |
+| PepsiCo Canada: Supply Chain Winter 2027 Co-op | PepsiCo | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4459257309 |
+| Analyste de soutien bilingue, One Port | KPMG Canada | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4452152244 |
+| Senior Privacy Analyst | Clio | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4460084825 |
+| EDGE, Technical Sales & Consulting: Technical Sales Speciali | Rockwell Automation | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4461563250 |
+| Buyer | Mondi Group | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4450361719 |
+| Cloud & AI Platform Sales Specialist | Microsoft | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470438123 |
+| Sr. Competitive Intelligence Analyst, Exposure Management (R | CrowdStrike | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4458890962 |
+| Land & Resource Coordinator | Amrize | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4459245401 |
+| Project Coordinator | Englobe | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4460053709 |
+| Business Intelligence & Data Visualization Specialist (Remot | Synthires | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4468570997 |
+| Analyste de soutien bilingue, One Port | KPMG Canada | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4452138580 |
+| Clerical Support | The Rosedale Group | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=4ecda7ff2b104b4e |
+| Casual Liquor Agent | Alberta Gaming, Liquor & Cannabis (AGLC) | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=bb6358f4bb07d63a |
+| Temporary Sales Associate - Part-Time | Calvin Klein | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451581500 |
