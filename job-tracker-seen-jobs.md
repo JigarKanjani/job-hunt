@@ -20101,3 +20101,48 @@
 | Clerical Support | The Rosedale Group | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=4ecda7ff2b104b4e |
 | Casual Liquor Agent | Alberta Gaming, Liquor & Cannabis (AGLC) | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=bb6358f4bb07d63a |
 | Temporary Sales Associate - Part-Time | Calvin Klein | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451581500 |
+| Administrative Coordinator, Finance | Calgary Sports and Entertainment Corpora | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=feed926901fe1a5c |
+| Team Lead, Graduated Rent Subsidy Program | CUPS | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=852e29d332d4ce5f |
+| Customer Service Coordinator | ARW Truck Equipment Ltd. | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=861d958d72a91277 |
+| Communications Analyst (Intermediate) | Alberta Utilities Commission | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=d9246eac80268322 |
+| Communications Coordinator | Canadian Forces Morale and Welfare Servi | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=e1715d9e55723e67 |
+| Supply Chain Manager | Innovair Solutions | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470459845 |
+| Intermediate Cost Analyst | Worley | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470470416 |
+| Senior Analyst - Subsurface Innovation - 26209 | Enverus | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469010953 |
+| Team Lead, Compensation | Trans Mountain | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4464140133 |
+| Factory Test Specialist | Brunel | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469974283 |
+| Associate Compliance Specialist, Mutual Funds | Co-operators | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470467309 |
+| Environmental and Release Lead | Delta System & Software, Inc. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469019364 |
+| QA – SAP P2P Test Lead (MM) | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468911432 |
+| SAP R2R Test Lead (FICO) @ Calgary, AB_ Hybrid | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468906735 |
+| SAP HCM Teat Lead | Cloud Data Vision | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469025645 |
+| H2R Test Lead (SAP HCM Tester) | Apptoza Inc. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468913571 |
+| QA - Environment & Release Lead | Atlantis IT Group | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468595716 |
+| SAP D2D Test Lead @ Calgary, AB_ Hybrid | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468909640 |
+| SAP H2R Test Lead (HCM) @ Calgary, AB_ Hybrid | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468904648 |
+| SAP A2D Test Lead (Plant Maintenance) @ Calgary, AB_ Hybrid | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468917156 |
+| Senior Sourcing Specialist | TES Group Inc. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468901680 |
+| Project Coordinator | Allmar Inc. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470491170 |
+| HSE Administrator | Hutton Safety Group | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=456fee50fb656b6b |
+| Administrative Coordinator | GFI Solutions Ltd. | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=2f289fb6fe977493 |
+| Studio Coordinator | DiveThru | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=005e8d16fe301cfe |
+| Sr. Alliances & Enablement Specialist, Frontier Technical Sk | Softchoice | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469025568 |
+| Administrative Assistant | Carlisle Construction Materials | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4460091321 |
+| Communications analyst - intermediate | Alberta Utilities Commission | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469020568 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Employment Coordinator | Native Counselling Services of Alberta | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469031567 |
+| Community Fund Coordinator | Community Foundation of Medicine Hat and | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469021898 |
+| Mining Technology Implementation Specialist | Finning | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469037148 |
+| Microsoft SharePoint & Power Platform Developer | Calgary West Central Primary Care Networ | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=ad1978762d6c2209 |
+| Business Analyst 026 | I8IS INC. | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=a8ed8fb59423c4c8 |
+| Technical Support Engineer | BeyondTrust | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=06cdd9fdca6811c6 |
+| Technical Support Engineer | BeyondTrust | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=c93702f03964f5b4 |
+| Microsoft SharePoint & Power Platform Developer | Calgary West Central Primary Care Networ | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4469007854 |
+| .Net Developer with React | Galent | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4468902424 |
+| Security Services Specialist | Shel-Bar Electronic Industries | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4469023211 |
+| Technical Support Engineer- Remote | BeyondTrust | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4470462981 |
+| Customer Experience Associate- Fixed Term Contract | TD | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470461554 |
+| Sales Associate | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451496635 |
+| Part Time Sales Associate (Store#3274 - Midtown Calgary) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451439508 |
+| Part Time Sales Associate (Store#3201 Calgary - Royal Oak) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451434542 |
+| Scheduler - Energy Construction | Kiewit | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451422394 |
