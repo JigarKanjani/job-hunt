@@ -20146,3 +20146,56 @@
 | Part Time Sales Associate (Store#3274 - Midtown Calgary) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451439508 |
 | Part Time Sales Associate (Store#3201 Calgary - Royal Oak) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451434542 |
 | Scheduler - Energy Construction | Kiewit | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4451422394 |
+| Senior Program and Policy Specialist | City of Edmonton | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=6b5dddde7ab57a7a |
+| PROJECT COORDINATOR | RailWorks Corporation | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=aa1aa416b4014214 |
+| Project Specialist (Calgary, AB) | Wolseley Canada Inc. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4465860987 |
+| Production Supervisor – Trade & Operations | OTI Food Products | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469027738 |
+| Commercial Operations Representative | Steel Reef | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470490898 |
+| Senior Advisor, Strategic Workforce Planning & Analytics | Keyera | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469039945 |
+| Recruitment Specialist (Contract, Full-time) | Black Diamond Group | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468935266 |
+| Project Coordinator | AtkinsRéalis | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470490589 |
+| Project Coordinator | AtkinsRéalis | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470490600 |
+| Specialist, Liquids Infrastructure Financial Analysis | Keyera | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469043385 |
+| Health And Safety Advisor | CanWest Concrete | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469050170 |
+| Reclamation Field Lead | Millennium EMS Solutions Ltd. | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469060381 |
+| Senior QA Analyst | WestJet | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470604656 |
+| Commissioning Specialist, Buildings | WSP in Canada | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4469047579 |
+| SAP Corporate Services Test Lead in calgary,AB | BURGEON IT SERVICES | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468909582 |
+| Distribution Center Coordinator | WestJet | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4470616122 |
+| HR Coordinator, People & Governance | TransAlta Corporation | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=f53e23cd4b378a95 |
+| Commissioning Specialist, Buildings | WSP | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=52b9c0e12b9c9996 |
+| Marketing Administrator ~ MAT Coverage | Canwest Concrete Cutting | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=bd407c03b1be30fb |
+| Patient Care Coordinator- Peak Oxygen | Peak Oxygen | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=7351e6e07ed352f7 |
+| WE’RE HIRING – ADMINISTRATIVE ACCOUNTANT PROJECT COORDINATOR | Jonas driving school inc. | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=74a6cf77f6d3cae3 |
+| Contract Administrator | Convergint | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470490861 |
+| Rehabilitation Service Specialist (RSS) - West | WCG Services | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470492517 |
+| Service Advisor | Dilawri Group of Companies | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470626181 |
+| Insurance Advisor | Western Financial Group | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469056200 |
+| Member Experience Advisor - Linden | Servus Credit Union | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469043226 |
+| Sales (Fitness Advisor) - Calgary Richmond Square | GoodLife Fitness | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4468916972 |
+| Term Family School Liaison Worker - Education Centre | Rocky View Schools | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469043604 |
+| Senior Advisor, Talent Management | Keyera | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469045345 |
+| Financial Advisor - Monterey Square, AB | Scotiabank | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469051447 |
+| Client Advisor (FT), AX Chinook Centre | Giorgio Armani | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469064145 |
+| Beauty Specialist, Hourly Full Time Evening | Shoppers Drug Mart | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470619380 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470629000 |
+| Internal Investigation Unit — Business Advisor Specialist II | Intact | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469037764 |
+| Marketing Coordinator | AutoCanada | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469049578 |
+| Project Logistic Coordinator | TF Energy Solutions | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469063210 |
+| Administrative Assistant, Assurance & Accounting | MNP | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469054326 |
+| Family School Liaison Counsellor | Livingstone Range School Division No 68 | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469061164 |
+| Community Disability Worker: Full Time Monday to Friday Even | Robin Hood Association | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469052552 |
+| Administrator | NS Modular | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469051534 |
+| Bookkeeper/Office Administrator | Aspen Land Group Inc. | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4469047524 |
+| Quality Assurance Analyst- Contract | Computershare | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=463413e9ebc4ceda |
+| Digital Transformation Analyst | LanceSoft, Inc. | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4469027733 |
+| Administrative Assistant to VP, People & Culture | TransAlta Corporation | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=a55ee5f37ab3ffa7 |
+| Document Controller | Wajax | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=f5f571451868537b |
+| Accounting Associate | Hull Services | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468931411 |
+| Customer Service Representative (Motivator) - Calgary Deerfo | GoodLife Fitness | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468922358 |
+| Customer Service Representative (Motivator) - Calgary Mount  | GoodLife Fitness | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468931163 |
+| Overnight Customer Service Representative (Motivator) – Calg | GoodLife Fitness | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468932127 |
+| Customer Service Representative | U-Haul | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470601647 |
+| Full Time Sales Associate (Store#3274 - Midtown Calgary) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4469063121 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470610892 |
+| Sales Agent | The Acquisition Group | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470499735 |
