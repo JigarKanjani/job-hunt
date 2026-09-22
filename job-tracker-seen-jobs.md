@@ -20067,3 +20067,15 @@
 | Client Operations Coordinator | ELEVEN ENGINEERING | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=08de563edf4dbdfb |
 | Intern, Market Risk Reporting | TC Energy | 2026-09-22 | R | https://www.linkedin.com/jobs/view/4468177286 |
 | Spa Sales and Guest Service Associate | Hand & Stone - Calgary South Trail | 2026-09-22 | G | https://ca.indeed.com/viewjob?jk=5dd5290f9f6936ac |
+| Intermediate Cost Analyst | Worley | 2026-09-22 | J | https://ca.indeed.com/viewjob?jk=5a6ec7855f5f2b07 |
+| Specialist Investment Fund Operations | ATB Financial | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468507492 |
+| Transfers Specialist I | ATB Financial | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468512396 |
+| Capital Markets Summer Analyst Rotation Program (FICC) | ATB Financial | 2026-09-22 | J | https://www.linkedin.com/jobs/view/4468520134 |
+| Health and Safety, Corporate Administrator | CCI INC. | 2026-09-22 | N | https://ca.indeed.com/viewjob?jk=4feff63f64e3fe43 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Everyday Banking Advisor - Calgary Market | ATB Financial | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4466642609 |
+| Financial Advisor Wealth Advice Centre | ATB Financial | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4468508449 |
+| Project Coordinator, Highway Maintenance | Ledcor | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470261116 |
+| Payroll Specialist – Human Resources | Alberta Blue Cross | 2026-09-22 | N | https://www.linkedin.com/jobs/view/4470248501 |
+| Clinical Business Analyst (Patient Access) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-09-22 | R | https://ca.indeed.com/viewjob?jk=b9a54926e8165f6e |
+| Coordinator for Committee Programs | Society of Petroleum Engineers Internati | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4468541295 |
