@@ -20316,3 +20316,57 @@
 | Turnaround Cost Controller | Brunel | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469458856 |
 | Controller (6 Month Contract) | Vaco by Highspring | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469441680 |
 | Patient Services Specialist | FYidoctors | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469313802 |
+| Exterior Estimator & Procurement Specialist | Superior Roofing Ltd. | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=6ee1907b33a6b6a8 |
+| Measurement Coordinator | SATURN OIL AND GAS | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=89d3744ef0ae0a2d |
+| Marketing & Education Coordinator / Sales Associate | My Sewing Room Inc | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=8dfe76525b3d5036 |
+| Contract Specialist | Government Of Alberta | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=66d6994a221cf838 |
+| Operational Buyer | Factor_ | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470995021 |
+| Senior Analyst Gas Scheduling | SPECTRAFORCE | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470988284 |
+| Engineering Specialist V | FedEx Canada | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470988567 |
+| Business Solutions Specialist | ICE Western Sales | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469476626 |
+| Senior Gas Scheduling Analyst | RigUp | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469326915 |
+| One Shot Quote Analyst - Remote from Alberta, British Columb | Manitoulin Transport | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470986093 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470994045 |
+| Purchase Coordinator | Mark's | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470985779 |
+| IS Business Analyst | Arnett & Burgess Energy Services | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470989607 |
+| Maintenance Planner | CGC Inc. | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469350068 |
+| Business Systems Analyst II - Blood Management Solutions | Canadian Blood Services | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470984557 |
+| Vendor Program Manager | Associa | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470989498 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Collections Analyst | Parkland Corporation | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469487309 |
+| Activity Coordinator | Rocky View Foundation | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469474951 |
+| HR Coordinator | Beyond Energy Services and Technology Co | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470996114 |
+| Intermediate Customer Onboarding Specialist | Clio | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469479981 |
+| Collections Analyst | Parkland Corporation | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469476574 |
+| Copy of Onboarding Specialist | Wagepoint | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469482986 |
+| Project Controls Coordinator | Manpower Alberta | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469480959 |
+| Business Systems Analyst II - Blood Management Solutions | Canadian Blood Services | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470987350 |
+| Training Administrator | CEDA | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=bcdfee24efc2c359 |
+| Case Manager – Intensive Supports | Grande Prairie Family Education Society | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=4bbe02b937254553 |
+| Social Worker (Full Time) | Chinese Christian Wing Kei Nursing Home | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=0528228bf879f790 |
+| Coordinator, Resource Development | Providence | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469497099 |
+| Instore Brand Program Manager - 12 Month Contract | Sport Chek | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4471104136 |
+| Appointment Coordinator (Mercedes-Benz South Calgary) | Go Auto | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469602229 |
+| Sales Advisor | IRIS The Visual Group | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469602024 |
+| Delivery Coordinator (Land Rover Royal Oak) | Go Auto | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469602233 |
+| Outreach Clinical Counsellor | YWCA Calgary | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469350378 |
+| Travel Social Worker | Bayshore HealthCare | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470992484 |
+| Client Service Coordinator | Bayshore HealthCare | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469349359 |
+| Systems Coordinator | Parsons Corporation | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470981670 |
+| Appointment Coordinator (Northstar Hyundai) | Go Auto | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469499288 |
+| IS Business Analyst | Arnett & Burgess Energy Services | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=68c9167137c971d2 |
+| Data Developer II | Elk Valley Resources | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=36d4eb1efcbace2d |
+| Health System Analyst | Government Of Alberta | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=3fcb5cbedf13737d |
+| IT Administrator | Plum Gas Solutions | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=2af4d542cad7e433 |
+| Associate Site Reliability Specialist | Co-operators | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=a66e26a71c70651c |
+| Data Developer II | Glencore | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469488743 |
+| SharePoint & Microsoft Teams Trainer | Insight | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4459900128 |
+| IT Administrator | Plum Gas Solutions | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469481347 |
+| Process Safety Engineer | TC Energy | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469318962 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470992028 |
+| Service Scheduler | Cornerstone Building Brands | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469325983 |
+| Support Substitutes 2026-2027 School Year - Receptionist and | Rocky View Schools | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469494586 |
+| Registries Agent | Western Financial Group | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469606112 |
+| Fund Development Associate | YWCA Calgary | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469346459 |
+| Project Controller | Valard Construction | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4471101373 |
+| Assurance Sr. Associate - Non-Profit & Education | RSM Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4281745898 |
