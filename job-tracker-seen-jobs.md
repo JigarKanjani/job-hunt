@@ -20199,3 +20199,59 @@
 | Full Time Sales Associate (Store#3274 - Midtown Calgary) | Pet Valu | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4469063121 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470610892 |
 | Sales Agent | The Acquisition Group | 2026-09-22 | G | https://www.linkedin.com/jobs/view/4470499735 |
+| Employee Experience Program Manager | Servus Credit Union | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=ef42ac61da5ce773 |
+| Enterprise Applications Analyst | Nureva | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=6d0810ada7fd767a |
+| Regional Planner | Rocky View County | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=23b6b2f8d37b131b |
+| Wellness WHS Specialist | Amazon.com | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=515c4b4ae7c972d7 |
+| Jr. Procurement Specialist | Aecon Group Inc. | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469066316 |
+| Implementation Specialist (Variable or Fixed Ops Experience  | Tekion Corp | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470634109 |
+| Project Coordinator - Infrastructure (Concrete Scope) | Graham | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470637481 |
+| Regional Contract Manager | Rockwell Automation | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470643166 |
+| Domain Enterprise Architect - Downstream Business (Retail) | Nutrien | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468933623 |
+| Enterprise Architect - Applications & ERP | Nutrien | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468943018 |
+| Accounts Payable Specialist | Bennett Jones | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468922892 |
+| HR Coordinator, People & Governance | TransAlta | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470639403 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Royalty and Special Projects Analyst | Saturn Oil + Gas Inc. | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470630277 |
+| Translation & Localization Specialist | Veriforce | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469067441 |
+| Front Desk Care Coordinator | Lifemark Health Group | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468943095 |
+| Senior Billing Coordinator | Osler, Hoskin & Harcourt LLP | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468928946 |
+| Talent Acquisition/Recruiting Coordinator (remote, contract) | Employer.com | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468927917 |
+| Onsite Support Analyst | 403Tech Inc. | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469062804 |
+| Account Advisor | Imagine Wireless Inc | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469063499 |
+| Jr. Procurement Specialist | Aecon Group Inc. | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469074021 |
+| PROJECT COORDINATOR | PNR RailWorks | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470647320 |
+| Vendor Program Manager | Associa | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470634188 |
+| Financial Planner | Canaccord Genuity Corp. | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=65311c6a340e5c04 |
+| Project Coordinator | AtkinsRéalis | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=26f0b652673404f7 |
+| Project Coordinator | AtkinsRéalis | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=38fd77aff46b8890 |
+| Office Administrator | Calgary Signs & Wraps | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=82bb6bae37bfdc28 |
+| IT Administrator | TDK Trusted Positioning Inc | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=871b338ba8c69f8d |
+| Marketing Administrator ~ Mat Coverage | Canwest Concrete Cutting | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=fc4077fda7ed29e1 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469079103 |
+| Intermediate Contract Administrator | Zeidler Architecture | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470619544 |
+| Wellness WHS Specialist | Amazon | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470639843 |
+| Admissions Officer, Office of the Registrar | University of Calgary | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470633158 |
+| Senior Tax Advisor | TransAlta | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470627837 |
+| Financial Planner | Canaccord Genuity Group Inc. | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469068249 |
+| Client Services Coordinator (CSC) | Parkinson Association of Alberta | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469044972 |
+| Senior Program and Policy Specialist | City of Edmonton | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4468925879 |
+| IT Support Specialist - L1 | Devengine | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=02c75792e2933016 |
+| Client Success Specialist | Staffless Practice | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=db89b7a2eacf35d5 |
+| May 2027 Geographic Information Systems (GIS) Co-op | Elk Valley Resources | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4457283354 |
+| Business Systems Analyst | Superior Propane | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4468941159 |
+| Product Application Specialist/Business Development | E.B. Horsman & Son | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469088033 |
+| Administrative Secretary E, Schools | Calgary Board Of Education | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=6d095124470d37a0 |
+| Veterinary Receptionist, Animal Care Centre of Strathmore | VCA Canada | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=96f17139bc70bbbc |
+| 70240 Associate | Winners | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=ff314747c9fdd6ca |
+| Health & Safety Advisor | Canwest Concrete Cutting | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=b61600322e8293a8 |
+| Divisional Controller | HOPEWELL REAL ESTATE SERVICES LP | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=44910717f5250b17 |
+| Administrative Assistant to VP, People & Culture | TransAlta | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4470640310 |
+| Veterinary Receptionist, Animal Care Centre of Strathmore | VCA Animal Hospitals | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469071423 |
+| Document Controller | Wajax | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4470645007 |
+| Customer Service Representative | The Headhunters Recruitment | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4465352438 |
+| Personal Banking Associate Trainee | TD | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4470622443 |
+| Sales Associate (Part-time) | WINS (Women In Need Society) | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4468931735 |
+| 70240 Associate | TJX Canada – Winners, Marshalls, HomeSen | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4470645528 |
+| Part Time Flex Sales Associate | Pandora | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4468927706 |
+| Sales Associate - Victoria Park and/or Bridgeland | 5VINES Wine, Craft Beer & Spirits | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469062654 |
