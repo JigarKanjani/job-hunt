@@ -20255,3 +20255,33 @@
 | 70240 Associate | TJX Canada – Winners, Marshalls, HomeSen | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4470645528 |
 | Part Time Flex Sales Associate | Pandora | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4468927706 |
 | Sales Associate - Victoria Park and/or Bridgeland | 5VINES Wine, Craft Beer & Spirits | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469062654 |
+| Recruitment & Learning Coordinator | Alexandra Comm Hlth Ctr | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=e01af8e5384ce0d7 |
+| People & Culture Advisor | Calgary Drop IN & Rehab Society Centre | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=52b5bd451469d5ea |
+| Supply Chain Coordinator - Mat Leave Coverage | Armtec Inc. | 2026-09-23 | J | https://ca.indeed.com/viewjob?jk=fbb7b278cb4680bc |
+| Data Program Delivery Lead - Data Solution Owner (Canada) | Slalom | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4457631630 |
+| Operational Technology Controls and Integration Lead | AB Mauri North America | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4460905037 |
+| Senior Financial Analyst, Business Restructuring & Turnaroun | BDO Canada | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4470670457 |
+| AP Specialist | Procom | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468951360 |
+| Project Coordinator | JEN COL Construction | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469089734 |
+| Senior Financial Analyst | Mondi Group | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469094285 |
+| Rail Team Lead | Keyera | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469088573 |
+| Office Administrator, (Calgary) - Facilities and Corporate S | Alberta Blue Cross | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=ab69c452261f871b |
+| Contract Coordinator | Calian | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=96a09a5f9efd25ee |
+| FACET Clinical Coordinator | CUBIC HEALTH INC. | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=17b605a945de2f84 |
+| Client Relations Coordinator | Lift Auto Group | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=63ade295bd3af793 |
+| Unit Renovations Coordinator | Northview Residential REIT | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=8c0e6b5c0cb6e4d9 |
+| Insurance Advisor | Western Financial Group | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469094151 |
+| Beauty Specialist, Hourly Full Time Flexible Shifts | Loblaw Companies Limited | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470683088 |
+| Order Management Specialists (remote contract) | Ateko, backed by Bell Canada | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469098089 |
+| Human Resources Administrator | Sunrise Farms | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4468954126 |
+| Payroll Coordinator | Sureway Construction Group Ltd. | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469400308 |
+| Social Worker - AgeCare South Terrace | AgeCare | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4470680163 |
+| Exercise and Wellness Specialist | Canadian Society for Exercise Physiology | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469080308 |
+| Design Team Project Administrator | Boardwalk | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=7580e127a3c5d513 |
+| District Systems Engineer | Palo Alto Networks | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4468969171 |
+| Process Engineering EIT - New Graduate | Fluor Corporation | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470677162 |
+| Business Analyst - GOAPRDJP000001026 | S M Software Solutions Inc | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470669521 |
+| Technical Support Advisor | Sunbelt Rentals, Inc. | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470670124 |
+| LMS Administrator & Learning Specialist | GFL Environmental Inc. | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470669618 |
+| Associate, Investment Banking, Energy - Calgary, AB | Scotiabank | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=b6ad71a15313e97f |
+| Recruitment Advisor | ATCO Frontec | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469405233 |
