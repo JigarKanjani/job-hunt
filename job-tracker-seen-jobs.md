@@ -20285,3 +20285,12 @@
 | LMS Administrator & Learning Specialist | GFL Environmental Inc. | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470669618 |
 | Associate, Investment Banking, Energy - Calgary, AB | Scotiabank | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=b6ad71a15313e97f |
 | Recruitment Advisor | ATCO Frontec | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469405233 |
+| Inventory - Field Data Collector | Acosta Group | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4468989303 |
+| Family Counsellor | Recovery Alberta | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=a18e88aecc734aa8 |
+| Family Counsellor | Recovery Alberta | 2026-09-23 | N | https://ca.indeed.com/viewjob?jk=b6977533f881bee7 |
+| Design Team Project Administrator | Boardwalk | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469428169 |
+| Flooring/Decor Sales Specialist: Part Time - TUSCANY | The Home Depot Canada | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469419443 |
+| Third Party Site Coordinator | CannAmm Occupational Testing Services | 2026-09-23 | R | https://ca.indeed.com/viewjob?jk=bda5c0a94d06d3cc |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=ec5504771eca6034 |
+| Customer Service Representative | Bunzl Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469425269 |
+| Lot Associate - Part Time - TUSCANY | The Home Depot Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469432142 |
