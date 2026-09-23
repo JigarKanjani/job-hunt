@@ -20294,3 +20294,25 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-09-23 | G | https://ca.indeed.com/viewjob?jk=ec5504771eca6034 |
 | Customer Service Representative | Bunzl Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469425269 |
 | Lot Associate - Part Time - TUSCANY | The Home Depot Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469432142 |
+| Material Flow Specialist | Eaton | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469335028 |
+| SAP H2R Test Lead (HCM) @ Calgary, AB_ Hybrid | BURGEON IT SERVICES | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469324114 |
+| A2D Test Lead – SAP Plant Maintenance / EAM | Cloud Data Vision | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4469329094 |
+| Customer Support Analyst (legal Accounting) | Actionstep | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4462025411 |
+| Superintendent, Local Area Operations | Canada Post / Postes Canada | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4462552114 |
+| Data Analyst | MatchBox Consulting Group | 2026-09-23 | J | https://www.linkedin.com/jobs/view/4462083695 |
+| Coordinator, Continuous Improvement | Aecon Group Inc. | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4460673016 |
+| Receptionist/ Administrative Assistant | Canoe Financial | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469456504 |
+| SUN LIFE FINANCIAL ADVISOR - Alberta | Sun Life | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4451422416 |
+| Hearing Instrument Specialist | Beltone | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4459526900 |
+| Pharmacy Operations Coordinator (Remote) / Coordinateur des  | BioScript Solutions | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469078036 |
+| HR Coordinator - Contract | Maple Leaf Foods Inc | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4460621926 |
+| Human Resources Coordinator | AltaSteel | 2026-09-23 | N | https://www.linkedin.com/jobs/view/4469452672 |
+| Java Database with Snowflake Developer | Synechron | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469315661 |
+| Data Developer II | Elk Valley Resources | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469332185 |
+| Java Backend Developer | Synechron | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4469335052 |
+| Coordinator, Proposal and Pre-Construction | Aecon Group Inc. | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4460667026 |
+| Remote Data Analyst | AgileGrid Solutions | 2026-09-23 | R | https://www.linkedin.com/jobs/view/4470952298 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4459584598 |
+| Turnaround Cost Controller | Brunel | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469458856 |
+| Controller (6 Month Contract) | Vaco by Highspring | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469441680 |
+| Patient Services Specialist | FYidoctors | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469313802 |
