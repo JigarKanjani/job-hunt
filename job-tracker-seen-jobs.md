@@ -20418,3 +20418,26 @@
 | Administrative Support III | Primary Care Alberta | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=4047b4f89af2d159 |
 | Administrative Support IV | Primary Care Alberta | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=32fefea0a97bf952 |
 | Receptionist | GardaWorld | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471118550 |
+| Procurement Analyst | Kelly | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469679375 |
+| Strategic Sourcing Specialist | Actalent | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471483498 |
+| Procurement Specialist | Actalent | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471476930 |
+| Advisor, Leadership Staffing and Support (Hybrid) | Calgary Board of Education | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471490465 |
+| human resources officer | Soleterra d'Italia | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471455692 |
+| Business Applications Specialist | MNP | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4461391239 |
+| Meeting and Conference Centre Team Lead | Norton Rose Fulbright | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471488375 |
+| Technical Bridge Lead | Mott MacDonald | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4443701298 |
+| Specialist Developer-Java | CPKC | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4462716956 |
+| SAP Technical Lead | Odyssey Global | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469687234 |
+| Equipment Coordinator, Medicine Program | Covenant Health Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471441669 |
+| Technical Specialist, Project Management | Defence Construction Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4442686517 |
+| Coordinator, Facility Management | Defence Construction Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4461328496 |
+| Administrative Assistant | Calgary Firefighters Association, IAFF L | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469687328 |
+| Automation Controls Sr. Analyst /Consultant | Accenture | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4452936167 |
+| TENANT SUPPORT WORKER - One Year Term | Calgary Heritage Housing | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469483701 |
+| Office Support Specialist | Aston Carter | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471480732 |
+| Technical Solutions Analyst | PCL Construction | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471482958 |
+| Administrative Support IV | Recovery Alberta | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=dba131dc4cb688c5 |
+| Luxury Sales Associate (Full-Time) | OMEGA SA | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469764008 |
+| Sales Associate | Kiokii and... | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469669681 |
+| Sales Associate (Chinook Centre) | Swatch | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469741967 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4462477064 |
