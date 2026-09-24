@@ -20370,3 +20370,37 @@
 | Fund Development Associate | YWCA Calgary | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4469346459 |
 | Project Controller | Valard Construction | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4471101373 |
 | Assurance Sr. Associate - Non-Profit & Education | RSM Canada | 2026-09-23 | G | https://www.linkedin.com/jobs/view/4281745898 |
+| Senior Development Coordinator | Porte Communities | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=063e07857fddcf91 |
+| Wilderness Coordinator - Shunda | ENVIROS | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=4a58c12e8f12a04b |
+| Alumni Engagement Officer | Southern Alberta Institute of Technology | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=ef482add0460437b |
+| Inventory Administration Coordinator II | Dawn Foods Global | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471180304 |
+| (CAN) Team Leader, Operations II (SUN - WED 17:00PM to 03:30 | Walmart Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471154193 |
+| Estimate Lead - Energy Construction Operations | Kiewit | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469628219 |
+| US & MEX Portfolio Planner | Cushman & Wakefield | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471153905 |
+| EHS Specialist II - PM Shift | Modine Manufacturing Company | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471168232 |
+| Modern Workplace Enablement Specialist | Alberta Investment Management Corporatio | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469628261 |
+| Clinical Program Coordinator | University of Alberta | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=f401b3d95b99050c |
+| Administrative Assistant, School of Business (Administrative | Medicine Hat College | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=8f43cd93cbeed89a |
+| Intake Coordinator - Remote - 12 pm to 8 pm EST - 18 months | Lifemark Health Group | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=2908d31ef793b47f |
+| CLIENT SUPPORT COORDINATOR - Edmonton | BDC | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=bc4ad4e9221ed295 |
+| Patient Care Coordinator | Resolve Sleep Health Inc | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=32d041428fd9b1ca |
+| Marketing & Administrative Assistant to CRO (Calgary Alberta | CruxOCM | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471139895 |
+| Administrative Assistant, Account Services | MNP | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471170619 |
+| Construction Administrator | BPA | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469631136 |
+| Child Facilitator | The Salvation Army in Canada | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469618670 |
+| Administrative Assistant | LASIK MD | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469633489 |
+| Clinical Advisor | Government of Alberta | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469643280 |
+| Service Coordinator - Sherwood Park Hyundai | AutoCanada | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469644236 |
+| Branch Administrator | Government of Alberta | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469639659 |
+| Family School Liaison Counsellor - Rural Schools | Holy Spirit Catholic School Division | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471177020 |
+| Behaviour Support Specialist - Division Schools | Holy Spirit Catholic School Division | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471169247 |
+| Business Analyst (Finance Business Solutions) | Southern Alberta Institute of Technology | 2026-09-24 | R | https://ca.indeed.com/viewjob?jk=efdf1cdd7598b05e |
+| Strategic Planning Analyst | City of Edmonton | 2026-09-24 | R | https://ca.indeed.com/viewjob?jk=f9dd9e2871ce244c |
+| Data Analyst | CAMH | 2026-09-24 | R | https://ca.indeed.com/viewjob?jk=46183308c7191dc7 |
+| Modern Workplace Enablement Specialist | Alberta Investment Management Corporatio | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4469632125 |
+| Clinical Systems Analyst | Alignerr | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471175283 |
+| Guest Services Agent | Hilton Garden Inn Calgary Airport | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=d17cd8c6ad4768ba |
+| Customer Experience Associate - Calgary Financial Centre, AB | Scotiabank | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471170755 |
+| Sales Associate | Carters Inc. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471165578 |
+| Sales Associate | Staples Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471169676 |
+| Associate, Credit Management - Corporate Client Group | RBC | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471174049 |
