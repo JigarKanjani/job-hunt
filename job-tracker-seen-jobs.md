@@ -20498,3 +20498,62 @@
 | Associate Accountant | Ottit Inc. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470015368 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470014870 |
 | Distribution Coordinator (Calgary) | Sleep Country Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471683093 |
+| Shipping Coordinator | AGF Group | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=3aefcffc4e7acd86 |
+| Junior Analyst, Performance & Compliance - OCIF (12 Month Te | Calgary Economic Development | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=a081fe052c89ee14 |
+| Payroll & Benefits Coordinator | Calgary Drop IN & Rehab Society Centre | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=908fdde151f6cd97 |
+| Proposal Coordinator | AME Consulting Group | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=323475d1aba6faf3 |
+| Senior Gas Scheduling Analyst | Kelly | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470037419 |
+| Business Analyst (Junior) | Raise | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471670510 |
+| Cost Control Analyst | Graham | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471806125 |
+| Lead Cost Specialist | Fluor Corporation | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471669864 |
+| Repair Coordinator | Aplin | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471688122 |
+| Specialist, Research Infrastructure & Facilities, Arnie Char | University of Calgary | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471684440 |
+| Integrated Project Delivery (IPD) Advisor | Tiree | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471687065 |
+| Senior Contracts Landman | Harvest Operations Corp. | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470038705 |
+| Specialist, Reliability Electrical Subsystem | CPKC | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471682082 |
+| Analyst, OTC Cash Handling | Nutrien | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469781721 |
+| Treasury Lead | FLINT Corp. | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471803183 |
+| HRIS & Workforce Analytics Specialist | Bethany Care Society | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471676760 |
+| Client Success Enablement Specialist | Morgan Stanley | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470032847 |
+| Revenue & Financial Analyst | WatchDog | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469782576 |
+| Client Service Specialist, Commercial Banking - Calgary | Scotiabank | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470023687 |
+| Pressure Equipment Integrity Coordinator (EIT) | Airswift | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469795047 |
+| Branch Supervision Specialist | BMO | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471693254 |
+| Senior Payroll Specialist (Contract) | Trans Mountain | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470039552 |
+| Copyright Services Specialist | University of Calgary | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471683569 |
+| Senior Data Analyst | Alberta Innovates | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471678760 |
+| Buyer | FlatironDragados | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470035651 |
+| Property Administrator | Homespace | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=84d1dbc99e04bded |
+| Personal Care Specialist - 12 Month Contract | Cencora | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=0d22e7400c15cd9f |
+| Time Capture Coordinator | SMS Equipment Inc. | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=3e0616a0cabf1dc0 |
+| Safety Coordinator | Academy Group | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=2c953e72ea55a584 |
+| Market Services Coordinator | Gasoline Alley Farmers' Market | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=42af23c53662652e |
+| Sr. Alliances & Enablement Specialist, Frontier CIE Enableme | Softchoice | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470056010 |
+| Sr. Branch Operations Administrator | BMO | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4468244067 |
+| Project Support Administrator, Common Core Program | University of Calgary | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470664903 |
+| Communications Specialist, McCaig Bone and Joint Health Inst | University of Calgary | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471199102 |
+| Business Advisor - Calgary Financial Centre, Calgary, AB | Scotiabank | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470026617 |
+| Coordinator(s), Land-Based Learning, Faculty of Science | University of Calgary | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471679722 |
+| Senior Recovery Specialist | AMA - Alberta Motor Association | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471676753 |
+| Youth Disability Support Worker | Supported Lifestyles | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470023932 |
+| Therapeutic Specialized and Indigenous Court Coordinator (TS | Government of Alberta | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470030526 |
+| People & Culture Specialist | Lantern | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469796034 |
+| Case Manager – Life & Disability Services | Alberta Blue Cross | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469796320 |
+| Caseworker, Patient Support & Services | Cencora | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469791161 |
+| Business Quality Analyst II | Empire Life Insurance | 2026-09-24 | R | https://ca.indeed.com/viewjob?jk=7f482a38436db545 |
+| Business Quality Analyst III | Empire Life Insurance | 2026-09-24 | R | https://ca.indeed.com/viewjob?jk=38d1ec3146b5c550 |
+| Automation Specialist | Galent | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4469790292 |
+| IT Service Desk Agent - Corporate Services | Graham | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471802294 |
+| Fleet Data & Reporting Specialist | Finning | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4470031821 |
+| Revenue Analyst | Banff Centre for Arts and Creativity | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4464272299 |
+| Educational Technology Coordinator | University of Alberta | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471800372 |
+| Office Administrative Assistant | Easy Trip Travels | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=b1bb08ca2a394c5f |
+| Reception/Administrative Assistant | MCG Careers | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=3324d38127dc3b92 |
+| Veterinary Technician Assistant (VTA)/ Receptionist | My Family Pet Clinic | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=cc022825b62d3e2e |
+| Customer Service & Administration Representative | Source Office Furniture | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=a1ea05c3c121c0c6 |
+| (CAN) Asset Protection Operations Team Associate | Walmart | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=0b10cd9b7d54a8f9 |
+| New Home Sales Associate | Morrison Homes Calgary | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=eea01d7ef6d0e188 |
+| Customer Service & Administration Representative | Source Office Furniture & Systems Ltd. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470046250 |
+| Receptionist - Casual - AgeCare Shawnee | AgeCare | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471670929 |
+| Customer Service Representative | Ritchie Bros. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469776718 |
+| Allstate Sales Agent | Allstate Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470046022 |
