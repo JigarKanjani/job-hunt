@@ -20404,3 +20404,17 @@
 | Sales Associate | Carters Inc. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471165578 |
 | Sales Associate | Staples Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471169676 |
 | Associate, Credit Management - Corporate Client Group | RBC | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471174049 |
+| Logistics Coordinator | Canadian Tire Corporation | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471410488 |
+| Coordinator, Operations - Catering | WestJet | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471428339 |
+| Sales Support Specialist | Marlow Hiring | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469712512 |
+| Lead Business Analyst - Insurance (Fully Remote) | CoverGo | Insurtech | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469710302 |
+| LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469399621 |
+| PROGRAM ANALYST (IPT LEAD) | Naval Air Warfare Center Training System | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4469395738 |
+| Logistics Coordinator | Canadian Tire Corporation, Ltd. | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=c29597ebd3930998 |
+| Dealer Engagement Specialist | PBS Systems | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469707064 |
+| Client Support Specialist | ConnectPro Ltd | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469700409 |
+| Health & Safety Specialist | Factor_ | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4452361090 |
+| Help Desk Support Associate | Marlow Hiring | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4469707973 |
+| Administrative Support III | Primary Care Alberta | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=4047b4f89af2d159 |
+| Administrative Support IV | Primary Care Alberta | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=32fefea0a97bf952 |
+| Receptionist | GardaWorld | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471118550 |
