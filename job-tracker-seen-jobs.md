@@ -20441,3 +20441,60 @@
 | Sales Associate | Kiokii and... | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469669681 |
 | Sales Associate (Chinook Centre) | Swatch | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469741967 |
 | Sales Associate-Print&Services | Staples Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4462477064 |
+| Lead Cost Specialist | Fluor Corp. | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=95c79c70cb046f21 |
+| Lead Cost Specialist | Fluor Corp. | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=779a121b2303d414 |
+| Meeting and Conference Centre Team Lead | Norton Rose Fulbright | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=05e415817e4d1b15 |
+| Talent Acquisition Coordinator | Calgary Sports and Entertainment Corpora | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=96920bfd205947db |
+| Tax Analyst | Klohn Crippen Berger | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=b277a6e3c3f133ea |
+| Distribution Coordinator (Calgary) | Sleep Country Canada | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=7cfa9de5d4446d78 |
+| Cost Control Analyst | Graham Construction | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=d14fd095fc8f1e19 |
+| Cost Control Analyst | Graham Construction | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=083e6ab17ae23fa6 |
+| Natural Stone Sales Specialist | JABALEXIM PRIVATE LIMITED | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=3c7903d3e9f30708 |
+| Lead Piping Engineer | Worley | 2026-09-24 | J | https://ca.indeed.com/viewjob?jk=102509671a5d3118 |
+| Engineering Specialist V | FedEx Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471628845 |
+| Specialist Project Controls & Business Planning | CPKC | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4462469301 |
+| Domain Enterprise Architect | Nutrien | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471644117 |
+| Enterprise Architect | Nutrien | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471629544 |
+| Operations and Maintenance Integration Specialist | AtkinsRéalis | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471651185 |
+| Operations and Maintenance Integration Specialist | AtkinsRéalis | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471643543 |
+| Specialist Community Investment | CPKC | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4462465459 |
+| Senior Business Systems Analyst (SimCorp Dimension) - Platfo | Alberta Investment Management Corporatio | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470013715 |
+| Lead Business Systems Analyst (SimCorp Dimension) - Project  | Alberta Investment Management Corporatio | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470014742 |
+| Planner & Scheduler - Water and Waste Water Infrastructure | Graham | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4471610983 |
+| Senior Tax Compliance Analyst | H&R Block Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4450039455 |
+| Specialist, Quality Assurance | Canada Mortgage and Housing Corporation  | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4453389416 |
+| Test Specialist | Ecolab | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4462752514 |
+| SAP BTP Development Lead | Manpower | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4470006604 |
+| Lead Project Engineer, Energy | WSP in Canada | 2026-09-24 | J | https://www.linkedin.com/jobs/view/4434165167 |
+| Coordinator Housing First - Red Deer | YMCA of Northern Alberta | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=7cb90270d3596c61 |
+| Production Coordinator | The Metal Group | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=b398d0da72c26851 |
+| Training & Competency Coordinator | Finning | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=218722ea622e11ed |
+| Renovation Scheduling Coordinator | Towne and Countree Kitchens | 2026-09-24 | N | https://ca.indeed.com/viewjob?jk=32338fd445ca8e4e |
+| Marketing & Administrative Assistant to CRO (Calgary Alberta | Bullpen Capital | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4469758994 |
+| Communications & Engagement Specialist | CIMA+ | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471623723 |
+| Receptionist / Administrative Assistant | STARS | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4471670483 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Mental Health & Addiction Counsellor II | EHN Canada | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470023240 |
+| MARKETING SPECIALIST – DIGITAL & COMMUNITY | Nutters Everyday Naturals | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470027203 |
+| Junior Investment Advisor | Manulife Wealth | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470013695 |
+| Project Coordinator - Fabrication | Bird Construction | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4443705721 |
+| Civil QA/QC Coordinator | Bird Construction | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4443704758 |
+| Senior HRIS Specialist | Servus Credit Union | 2026-09-24 | N | https://www.linkedin.com/jobs/view/4470027048 |
+| Coordinator, Resource Management | MNP | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4470022578 |
+| QA Automation With CI/CD | VySystems | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471667522 |
+| Systems Engineering Intern | Hexagon Autonomous Solutions | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4462841806 |
+| Operations Business Analyst - Edmonton, Alberta, Canada | ClaimsPro LP | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4470024418 |
+| Market Analyst (Edmonton) | Altus Group | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4469760799 |
+| (Remote) M&A Research Analyst | Harris Computer | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471642438 |
+| (Remote) M&A Research Analyst | Harris Computer | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471633690 |
+| Supply Chain Coordinator | Badger Infrastructure Solutions | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4471646119 |
+| Financial Analyst | University of Alberta | 2026-09-24 | R | https://www.linkedin.com/jobs/view/4462870287 |
+| Legal Receptionist | MM LAW | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=544385f6bc3f75ca |
+| Receptionist | Silverhill Acura | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=630bb7d5bec35efa |
+| Communications & Engagement Specialist | CIMA+ | 2026-09-24 | G | https://ca.indeed.com/viewjob?jk=2d7596dfcbec0128 |
+| Associate Customer Service- Contract | Westlake Pipe & Fittings | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4452761036 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471634222 |
+| Overnight associate | Walmart Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471624737 |
+| Associate Accountant | Ottit Inc. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470015368 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470014870 |
+| Distribution Coordinator (Calgary) | Sleep Country Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471683093 |
