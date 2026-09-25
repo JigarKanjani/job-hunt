@@ -20625,3 +20625,75 @@
 | Dynamics 365 Project Operations Analyst | R2 Global | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470096953 |
 | Data Visualization Analyst | Remote | Crossing Hurdles | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471888765 |
 | AI and Digital Marketing Specialist, Pacesetter Homes | Pacesetter Homes Edmonton | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4454328949 |
+| Project Controls Specialist | Gas Liquids Engineering Ltd | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=fb54ed7cecd38576 |
+| Load Settlement Analyst | Alberta Utilities Commission | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=a41373c01ac4dccd |
+| US Tax Analyst | TransAlta Corporation | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=f9922dd49b6ad730 |
+| Tax Analyst | TransAlta Corporation | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=45aa84be9e9d52a5 |
+| Senior Financial Analyst | Government Of Alberta | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=9ab7cc6cd195c1da |
+| Inventory Analyst | BGIS | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470327704 |
+| Contracts & Supply Chain Specialist - Kiewit Supply Network | Kiewit | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4461692590 |
+| Inventory Management Coordinator | BGIS | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470337414 |
+| Operations Administrator - (BDL) Contract | Brewers Distributor Ltd | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470371729 |
+| Service/Parts Advisor | Charger Logistics Inc. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472067809 |
+| Supply Chain Lead | Brunel | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470390018 |
+| Lottery Delivery Coordinator | Jumbo Interactive Limited | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472073474 |
+| Cost Controls Specialist | Jacobs | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472065022 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Leak Detection Advisor | SGS | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470191517 |
+| Leak Detection Advisor | SGS | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470190545 |
+| Student, Business Analyst, Application Delivery (Winter 2027 | Alberta Investment Management Corporatio | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470367822 |
+| Operations Chemist | SECURE | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472052365 |
+| Sr Accounting Analyst | Suncor | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472071599 |
+| Customer Growth & Experience Coordinator | LUMI Renewables | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470704081 |
+| Customer Onboarding Specialist | Clio | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470381745 |
+| Localization Technical Program Manager | Avetta | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470193461 |
+| Payroll Specialist | HSE Integrated Ltd | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470387639 |
+| Advisory Board Member | RECRUITMENT PARTNERS INC. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472062165 |
+| Lead Piping Designer | Hatch | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4460200099 |
+| Clinic Administrative Coordinator | Connect Physiotherapy & Exercise | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=e29f1c1e0532d4a9 |
+| Senior Packager & Shipping Coordinator | RAM MANUFACTURING Ltd | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=4e6ef7ec1d0031ef |
+| Marketing and Administrative Coordinator | ModBody Training | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=0d85a3a15aa4964e |
+| Spécialiste, Services Client / Specialist, Client Services | Ryan | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4463174559 |
+| Intermediate Environmental Specialist | SUMMIT | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470356683 |
+| Senior Proposal Specialist | Zeidler Architecture | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4472062120 |
+| Member Experience Advisor - Seton | Servus Credit Union | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470388146 |
+| Accounting Support Specialist | MNP | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470707146 |
+| Compliance Officer | Family Innovation Corp. | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470349361 |
+| Learning Specialist (Grade 7-9) - Learning Services - Educat | Rocky View Schools | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470398233 |
+| Canadian Benefits Advisor | CPKC | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4463114227 |
+| Analyst, Global Investment Banking | CIBC | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4472054176 |
+| Financial Advisor/ Senior Financial Advisor - Seton Branch | Servus Credit Union | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470374613 |
+| Tax Analyst | TransAlta | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4472046556 |
+| Technology Program Manager | MNP | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470391714 |
+| Marketing Communications Specialist | TechJutsu | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470353872 |
+| Coordinator, Showhomes, designQ | designQ Edmonton | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4472069016 |
+| Residential Coordinator | Overhead Door Corporation | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470388059 |
+| Sales Operations Coordinator | The Headhunters Recruitment | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4464912130 |
+| People & Culture Program Advisor | FortisAlberta | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470336405 |
+| Human Resources Administrative Assistant - Term Certain | Elk Island Public Schools | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470384941 |
+| Training Sr. Analyst - TenarisUniversity | Tenaris | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470194257 |
+| Employee Experience Program Manager | Servus Credit Union | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4469075588 |
+| Money Matters Coordinator (.8 FTE Parental leave cover) | Wellspring Alberta | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470387800 |
+| AI & Automation Engineer | TEKTELIC Communications Inc. | 2026-09-25 | R | https://ca.indeed.com/viewjob?jk=4cbb50adf992b6ac |
+| Actuarial Analyst, Reserving & Forecasting | Alberta Motor Association | 2026-09-25 | R | https://ca.indeed.com/viewjob?jk=65530fe397932de5 |
+| Actuarial Analyst I | Alberta Motor Association | 2026-09-25 | R | https://ca.indeed.com/viewjob?jk=01cc0c8d2797cb7b |
+| BFF-AFIRMS Data Coordinator | University of Alberta | 2026-09-25 | R | https://ca.indeed.com/viewjob?jk=9cba94b96111a957 |
+| Business/Technical Analyst | Parkland County | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470189704 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4472087145 |
+| Technology & Financial Governance Analyst | Alberta Pensions Services Corporation (A | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470705076 |
+| IT Service Desk Analyst | CanadaOne Auto | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470392336 |
+| AVEVA Enterprise SCADA Specialist | SGS | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470195194 |
+| Student, Business Analyst, Application Delivery (Winter 2027 | Alberta Investment Management Corporatio | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470375540 |
+| Customer Experience Associate | TD | 2026-09-25 | G | https://ca.indeed.com/viewjob?jk=c9d6a6bfd6d14ba5 |
+| Customer Experience Associate- Cantonese Language Skill Is A | TD | 2026-09-25 | G | https://ca.indeed.com/viewjob?jk=38a7bccab4640ab7 |
+| Foreign Exchange Teller / Customer Service | Calforex Currency Exchange | 2026-09-25 | G | https://ca.indeed.com/viewjob?jk=51a999ec1e79dc4a |
+| Receptionist | The Salvation Army in Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470382457 |
+| Sales Associate | Kaizen Automotive Group | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470358417 |
+| Customer Experience Associate - Fixed Term Contract | TD | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4459647768 |
+| Automotive Sales Associate | Kaizen Automotive Group | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470330983 |
+| Customer Service Team Member | Michaels Stores | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470185444 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472047629 |
+| (CAN) Food & Consumables Team Associate PART TIME | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472051501 |
+| Deli Bakery Team Associate | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472048573 |
+| Overnight Associate | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472059235 |
+| Master Scheduler | Dynamic Source Manufacturing Inc. | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470371135 |
