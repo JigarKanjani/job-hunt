@@ -20599,3 +20599,29 @@
 | Financial Analyst (Remote | $150–$350/hr) | Synthires | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470143453 |
 | GIS Specialist | Government of Alberta | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470081869 |
 | API Support Developer (Alberta, Canada) | Curve Dental | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471865624 |
+| Lottery Delivery Coordinator | Jumbo Interactive Limited | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470319368 |
+| Sourcing Analyst | Canadian Energy Services | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470317491 |
+| Project Controls Lead - Buildings | Graham | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4462865397 |
+| Joint Venture & Operations Accountant | Wolf Lake Exploration Ltd. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470301687 |
+| Senior Contracts Advisor | Wood | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4462857595 |
+| Enterprise Account Executive - Energy | Microsoft | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472003328 |
+| Business Account Specialist | Imagine Wireless Inc | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470306886 |
+| AltaGas - Financial Analyst, Corporate Accounting | AltaGas Ltd. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4461699715 |
+| Civil Practice Leader | Langan Engineering & Environmental Servi | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472009936 |
+| Advisor, Regulatory | Inter Pipeline | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4458906432 |
+| Business Operations Coordinator | H&R Block Canada | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470170684 |
+| Supply Chain SME | Aplin | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4472037113 |
+| Project Coordinator | Aecon Group Inc. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4452996905 |
+| Administrator - Logistics and Customs | RECRUITMENT PARTNERS INC. | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4463131840 |
+| USA Benefits & Payroll Administrator | AppDirect | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4460612477 |
+| Home Advisor, RBC Advice Centre | RBC | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454041144 |
+| Mortgage Specialist | RBC | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454036987 |
+| Investment Advisor | RBC Dominion Securities | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454032916 |
+| Investment Advisor | RBC Dominion Securities | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454041147 |
+| Investment Advisor | RBC Dominion Securities | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454026993 |
+| Insurance Advisor Life, Health & Wealth | RBC Insurance | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4454044103 |
+| Counsellor I - Wellness and Psychological Services, Student  | MacEwan University | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4468804786 |
+| Control Systems IT Engineering Consultant | CGI | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4444254415 |
+| Dynamics 365 Project Operations Analyst | R2 Global | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470096953 |
+| Data Visualization Analyst | Remote | Crossing Hurdles | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471888765 |
+| AI and Digital Marketing Specialist, Pacesetter Homes | Pacesetter Homes Edmonton | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4454328949 |
