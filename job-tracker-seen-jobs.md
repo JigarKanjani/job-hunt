@@ -20557,3 +20557,31 @@
 | Receptionist - Casual - AgeCare Shawnee | AgeCare | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4471670929 |
 | Customer Service Representative | Ritchie Bros. | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4469776718 |
 | Allstate Sales Agent | Allstate Canada | 2026-09-24 | G | https://www.linkedin.com/jobs/view/4470046022 |
+| Specialist, Reliability Electrical Subsystem | CPKC | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=2d9f58c854011b00 |
+| Construction Purchasing Officer | Southern Alberta Institute of Technology | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=88361616e46480d6 |
+| Human Resources Advisor | Medicine Hat College | 2026-09-25 | J | https://ca.indeed.com/viewjob?jk=1113b6fe46dccb5e |
+| PMO AI Leader - Client Delivery | Slalom | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470056191 |
+| Collections Analyst (7-Month Term) | Parkland Corporation | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4471824913 |
+| People Services Analyst- 17 month term | WestJet | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4471845206 |
+| Deskside and MEM Analyst | Suncor | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4471843204 |
+| Accounts Payable Analyst | The Church of Jesus Christ of Latter-day | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470072141 |
+| IT Support Specialist | LodgeLink | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470055816 |
+| Senior Business Analyst | Fountain Tire | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470061588 |
+| Contract Specialist | North American Construction Group | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470053757 |
+| Project Coordinator - Industrial West | Bird Construction | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4471828048 |
+| Business Advisor - Calgary Financial Centre, Calgary, AB | Scotiabank | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=4bbef34fde484170 |
+| Case Manager (Youth and Family) | TRELLIS SOCIETY FOR COMMUNITY IMPACT | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=e2257ad3d38217a9 |
+| Creative Services Coordinator | National Bank of Canada | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=8e4e0b22ef74fb89 |
+| Creative Services Coordinator | National Bank of Canada | 2026-09-25 | N | https://ca.indeed.com/viewjob?jk=7d141a2da6022729 |
+| Project Administrator | ENMAX | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470057434 |
+| Fleet Administrator | GFL - Sewer Technologies Division | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4471803868 |
+| Special Handling Administrator | Avenir Energy Ltd. | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4471824867 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4471845313 |
+| Logistics Manager | Ryder System, Inc. | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470055983 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470055265 |
+| GardaWorld - Set-up Analyst - 45k-50k - calgary | GardaWorld | 2026-09-25 | R | https://ca.indeed.com/viewjob?jk=84a68a8717fd1bdf |
+| EMR/EHR Implementation Specialist | Alignerr | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471830192 |
+| GardaWorld - Set-up Analyst - 45k-50k - calgary | ECAM | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471843388 |
+| Customer Experience Associate - Lakeview Branch, AB (18.75 h | Scotiabank | 2026-09-25 | G | https://ca.indeed.com/viewjob?jk=a6beec4dc387bb3a |
+| Customer Experience Associate - Lakeview Branch, AB (18.75 h | Scotiabank | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470104629 |
+| Hardware Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470046579 |
