@@ -20585,3 +20585,17 @@
 | Customer Experience Associate - Lakeview Branch, AB (18.75 h | Scotiabank | 2026-09-25 | G | https://ca.indeed.com/viewjob?jk=a6beec4dc387bb3a |
 | Customer Experience Associate - Lakeview Branch, AB (18.75 h | Scotiabank | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470104629 |
 | Hardware Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470046579 |
+| Specialist, Strategic Sourcing | ATCO Structures | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4461100016 |
+| Senior Advisor - Fleet Standards and Commissioning | Alberta Health Services | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470071767 |
+| Document Control Specialist | Kiewit | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470083400 |
+| Operations Supervisor | SECURE | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4470096112 |
+| Procurement Specialist | Recycle Track Systems | 2026-09-25 | J | https://www.linkedin.com/jobs/view/4471865626 |
+| Children’s Village School – Educational Child and Youth Care | Hull Services | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470136466 |
+| Kinship Lodge – Evening Child and Youth Care Counsellor | Hull Services | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470139449 |
+| MDR Education Coordinator | Alberta Health Services | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470082548 |
+| HubSpot Specialist (Remote | $28–$92/hr) | Synthires | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470146450 |
+| HubSpot CRM Specialist (Remote | $28–$92/hr) | Synthires | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4470143554 |
+| Academic Advisor, GT School (Remote) - $75,000/year USD | Crossover | 2026-09-25 | N | https://www.linkedin.com/jobs/view/4469043780 |
+| Financial Analyst (Remote | $150–$350/hr) | Synthires | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470143453 |
+| GIS Specialist | Government of Alberta | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4470081869 |
+| API Support Developer (Alberta, Canada) | Curve Dental | 2026-09-25 | R | https://www.linkedin.com/jobs/view/4471865624 |
