@@ -20749,3 +20749,11 @@
 | Box Office Event | Mount Royal University | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470511561 |
 | Sales Associate | The Dufresne Group | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4472208941 |
 | Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470510581 |
+| Invoice & Contract Administration Coordinator | Dasro Consulting Inc. | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472269066 |
+| Community Coordinator (One-Year Contract) | Boardwalk | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4471006143 |
+| Copy of Accounts Payable Specialist | Recycle Track Systems | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472257791 |
+| JR Inventory Technician (Heavy Equipment) – Entry level | Sureway Construction Group Ltd. | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4471002698 |
+| Design Team Project Administrator | Boardwalk | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4470796472 |
+| Indigenous Hospital Liaison | Alberta Health Services | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471003187 |
+| Senior Advisor, Media Relations | TC Energy | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4459256203 |
+| Operations Coordinator - Remote Camp | Dexterra Group | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472270016 |
