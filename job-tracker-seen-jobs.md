@@ -20772,3 +20772,14 @@
 | Coordinator, Planning & Development | Regional Municipality of Wood Buffalo | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472270611 |
 | Financial Data Analyst (Remote) | SecondWind by Joveo | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472284293 |
 | Finance Analyst (Remote) | SecondWind by Joveo | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472275537 |
+| Junior Supply Chain Specialist - Corporate | Bird Construction | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472404386 |
+| Marketing Operations Specialist | Vistage Worldwide, Inc. | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4471046735 |
+| Lead Geomorphologist | WSP in Canada | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4435210603 |
+| Client Care Coordinator | Lavana Medical Aesthetics | 2026-09-26 | N | https://ca.indeed.com/viewjob?jk=fef1fdba60d61b2d |
+| Communications Officer - Communications - Education Centre | Rocky View Schools | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471070239 |
+| Marketing and Proposal Specialist | TalentSphere Staffing Solutions | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4463634860 |
+| QA/QC Coordinator (Electrical) | Bird Construction | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4436910468 |
+| Settlement Counsellor (FT) - Resettlement Assistance Program | Catholic Social Services Alberta | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471067300 |
+| Community Disability Counsellor (FT) - St Williams | Catholic Social Services Alberta | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471055754 |
+| Receptionist | Massage on 194th | 2026-09-26 | G | https://ca.indeed.com/viewjob?jk=8eef8d872049c701 |
+| Temp Receptionist | Agilus Work Solutions | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470731280 |
