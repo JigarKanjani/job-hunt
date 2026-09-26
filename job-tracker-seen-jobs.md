@@ -20757,3 +20757,18 @@
 | Indigenous Hospital Liaison | Alberta Health Services | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471003187 |
 | Senior Advisor, Media Relations | TC Energy | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4459256203 |
 | Operations Coordinator - Remote Camp | Dexterra Group | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472270016 |
+| Supervisor, Strategic Procurement | Regional Municipality of Wood Buffalo | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=bebdac5a3a86d7ca |
+| Oil Sands Crown Royalty Analyst | Cenovus Energy | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4461217986 |
+| Supervisor, Strategic Procurement | Regional Municipality of Wood Buffalo | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472278406 |
+| Coordinator | Flowserve Corporation | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470562375 |
+| Buyer II | Regional Municipality of Wood Buffalo | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472288046 |
+| Project Coordinator - Industrial | Graham | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4444219397 |
+| Project Coordinator | Aecon Group Inc. | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4452992846 |
+| Contracts and Commercial Services Coordinator - Remote | NTT DATA North America | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4463607951 |
+| Supply Network Business Development Advisor - Refined Produc | Imperial Oil | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4463654685 |
+| Operations Consultant - Flex | SEPHORA | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472279432 |
+| Investment & Retirement Specialist | Canada Life | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4452998516 |
+| Investment Advisor | RBC Dominion Securities | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4454034940 |
+| Coordinator, Planning & Development | Regional Municipality of Wood Buffalo | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472270611 |
+| Financial Data Analyst (Remote) | SecondWind by Joveo | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472284293 |
+| Finance Analyst (Remote) | SecondWind by Joveo | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472275537 |
