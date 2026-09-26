@@ -20697,3 +20697,55 @@
 | Deli Bakery Team Associate | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472048573 |
 | Overnight Associate | Walmart Canada | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4472059235 |
 | Master Scheduler | Dynamic Source Manufacturing Inc. | 2026-09-25 | G | https://www.linkedin.com/jobs/view/4470371135 |
+| SQS Coordinator | Tetranex Solutions Inc. | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=a5cd1d51fc750cac |
+| Project Coordinator | Stantec | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=8dd878a72265b42d |
+| Operations Administrator - (BDL) Contract | The Beer Store | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=53a0b91d4bfe3bf8 |
+| Human Resources Coordinator | EFW Radiology | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=d2da56aa6eeaba17 |
+| Incident & Emergency Management Specialist | TC Energy | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=61a7955ebd75cbc5 |
+| Human Resources Advisor | EFW Radiology | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=beed5d90a343de50 |
+| Specialist Network Operations | CPKC | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=39de1f6c39f6b606 |
+| Project Coordinator | Stantec | 2026-09-26 | J | https://ca.indeed.com/viewjob?jk=adef7396dce7f445 |
+| Senior Business Analyst | Raise | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470722900 |
+| Analyst or Senior Analyst, Transformation | Alberta Electric System Operator (AESO) | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470756752 |
+| Senior Project Coordinator | Gator Construction | Built Different | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470739981 |
+| Senior Talent Acquisition Specialist | Clio | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470759192 |
+| Equipment Rental Specialist | Sunbelt Rentals, Inc. | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472228460 |
+| System Analyst | Aon | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472201959 |
+| Team Lead, Measurement Analytics | Keyera | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470740935 |
+| Credit Specialist | Raise | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472222682 |
+| Station Coordinator | Mount Royal University | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470516432 |
+| Indigenous Services Senior Analyst | Aon | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472221018 |
+| Buyer/ Purchaser- ChamClad | Wausau Supply Company | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472225448 |
+| Inventory Control Coordinator - ChamClad | Wausau Supply Company | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4472239050 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470731721 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470740218 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470726769 |
+| Enterprise Account Executive | Remote | CapitexAI | 2026-09-26 | J | https://www.linkedin.com/jobs/view/4470710347 |
+| Senior Philanthropy Advisor - Corporations & Foundations | Calgary Health Foundation | 2026-09-26 | N | https://ca.indeed.com/viewjob?jk=86441415ab5ca718 |
+| Community Coordinator (One-Year Contract) | Boardwalk | 2026-09-26 | N | https://ca.indeed.com/viewjob?jk=ad6bb3cb3c87be24 |
+| Quality and Process Coordinator | Ledcor | 2026-09-26 | N | https://ca.indeed.com/viewjob?jk=e11d3d1ff31d4057 |
+| Dairy Coordinator | Lakeland College | 2026-09-26 | N | https://ca.indeed.com/viewjob?jk=f42affaeae73ae2a |
+| Theatre Liaison | Mount Royal University | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4470502922 |
+| Coverage Office Administrator | CBI Health | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472215665 |
+| Tax Analyst | PetroChina Canada | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472203905 |
+| Indigenous Rights Engagement Specialist | Dillon Consulting Limited | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472212697 |
+| Indigenous Services Senior Analyst | Aon | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4472219197 |
+| HSE Administrator & Reception | Gemini Machine Works Inc. | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4470756558 |
+| Plant Administrator | ATCO | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4470770388 |
+| Business Systems Analyst | PCL Construction | 2026-09-26 | R | https://ca.indeed.com/viewjob?jk=5c7f6ea437f1328c |
+| IT Service Desk Analyst | COAG Management Ltd. | 2026-09-26 | R | https://ca.indeed.com/viewjob?jk=b7f60610454671f4 |
+| Insurance Administrator | Westland Insurance Group | 2026-09-26 | R | https://ca.indeed.com/viewjob?jk=53055df4f7bb4148 |
+| Data Analytics & Automation Engineer | Aon | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472219199 |
+| Specialist Network Operations | CPKC | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472220937 |
+| Engineer Specialist, Reliability Standards | Alberta Electric System Operator (AESO) | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4469613167 |
+| Business Systems Analyst | PCL Construction | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472236911 |
+| System Analyst | Aon | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472209689 |
+| Data Analytics & Automation Engineer | Aon | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4472217265 |
+| Business Operations Analyst - Google Workspace | Remote | Crossing Hurdles | 2026-09-26 | R | https://www.linkedin.com/jobs/view/4470711211 |
+| Admin/Receptionist | Strathcona Christie Aspen Community Asso | 2026-09-26 | G | https://ca.indeed.com/viewjob?jk=6423b943be7807c1 |
+| Receptionist - AgeCare Walden Heights | AgeCare | 2026-09-26 | G | https://ca.indeed.com/viewjob?jk=b710131c5e9abfa3 |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-26 | G | https://ca.indeed.com/viewjob?jk=63646de4818cef26 |
+| Receptionist - AgeCare Walden Heights | AgeCare | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4472246315 |
+| Box Office Event | Mount Royal University | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470511561 |
+| Sales Associate | The Dufresne Group | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4472208941 |
+| Part-time Sales Associate/Eyewear Stylist - Market Mall | Bailey Nelson | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470510581 |
