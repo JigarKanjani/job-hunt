@@ -20796,3 +20796,10 @@
 | Billing Specialist | Ledcor | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4472215344 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472428545 |
 | HSE Coordinator - Services | Graham | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4454807373 |
+| Lead Specialist – IT SAP Supply Chain (MM) | Parkland Corporation | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4471099373 |
+| Lead Specialist – IT SAP | Parkland Corporation | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4470804592 |
+| Lead Specialist – IT SAP Supply Chain (MM) | Parkland Corporation | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4471099375 |
+| Coordinator, Regional Human Capital | MNP | 2026-09-27 | N | https://ca.indeed.com/viewjob?jk=cf48f4ce4d4026e2 |
+| Project Coordinator Intern | Clark Builders | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4416754270 |
+| Analyst, Valuations | MNP | 2026-09-27 | R | https://www.linkedin.com/jobs/view/4453756731 |
+| Technical SEO Specialist (Remote, Toronto) | Blacksmith Agency | 2026-09-27 | R | https://www.linkedin.com/jobs/view/4472451722 |
