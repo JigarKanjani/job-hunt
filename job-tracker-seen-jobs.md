@@ -20789,3 +20789,9 @@
 | Processing Center Advisor - (GOAPRDJP00001031) | Amyantek | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4472411450 |
 | Accounts Receivable Associate - 9 Month Temp Position | FirstService Residential Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472203309 |
 | Modular Team Associate | Walmart Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472408646 |
+| Technical Sales Specialist | Quanclive LTD | 2026-09-27 | J | https://ca.indeed.com/viewjob?jk=e9549f23bf6acf4d |
+| Development Analyst/Coordinator | Ayrshire Real Estate Management Inc. | 2026-09-27 | J | https://ca.indeed.com/viewjob?jk=f13a695284378242 |
+| Quality and Process Coordinator | Ledcor | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4472201813 |
+| Children Outreach Workers (Casual) | Catholic Social Services Alberta | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4471077759 |
+| Billing Specialist | Ledcor | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4472215344 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472428545 |
