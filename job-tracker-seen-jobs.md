@@ -20783,3 +20783,9 @@
 | Community Disability Counsellor (FT) - St Williams | Catholic Social Services Alberta | 2026-09-26 | N | https://www.linkedin.com/jobs/view/4471055754 |
 | Receptionist | Massage on 194th | 2026-09-26 | G | https://ca.indeed.com/viewjob?jk=8eef8d872049c701 |
 | Temp Receptionist | Agilus Work Solutions | 2026-09-26 | G | https://www.linkedin.com/jobs/view/4470731280 |
+| Marketing Operations Specialsit | TEC Canada | 2026-09-27 | J | https://ca.indeed.com/viewjob?jk=df9b0873df2d8047 |
+| Client Design & Sales Coordinator | Calgary Custom Concepts | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4471085015 |
+| SQS Coordinator | Tetranex Solutions Inc. | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4470568912 |
+| Processing Center Advisor - (GOAPRDJP00001031) | Amyantek | 2026-09-27 | J | https://www.linkedin.com/jobs/view/4472411450 |
+| Accounts Receivable Associate - 9 Month Temp Position | FirstService Residential Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472203309 |
+| Modular Team Associate | Walmart Canada | 2026-09-27 | G | https://www.linkedin.com/jobs/view/4472408646 |
