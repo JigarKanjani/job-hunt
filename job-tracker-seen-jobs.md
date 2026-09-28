@@ -20846,3 +20846,59 @@
 | Massage Clinic Receptionist – Full-Time or Part-Time | Hayahay Massage & Wellness 17 Ave | 2026-09-28 | G | https://ca.indeed.com/viewjob?jk=1345b9bf261ade7d |
 | Client Service Associate | The Vantage Talent Group | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472767411 |
 | Clinic Experience Associate | CBI Health | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472786186 |
+| Logistics Coordinator | Advanced Bending Technologies | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=5495286ad3222802 |
+| Delivery Specialist | Rogers Communications | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=67c0aea4be20d610 |
+| Community Engagement Coordinator | The Mustard SEED Society | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=432f8e109ac79cf1 |
+| Rental Operations Coordinator - Grande Prairie | Stream-Flo | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=4c08866c5c8b0a18 |
+| Department Leader | Princess Auto | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=bdc478d93b68a871 |
+| Department Leader | Princess Auto | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=a0ce87258002f89b |
+| Department Leader | Princess Auto | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=bfa2daddb838dd14 |
+| NPI Supply Chain Project Coordinator | Hexagon Autonomous Solutions | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4473010542 |
+| Data Analyst | Saturn Oil + Gas Inc. | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4473009841 |
+| Coordinator - Airports Centralized Services | WestJet | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472795706 |
+| Business Analyst | Alberta Electric System Operator (AESO) | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471552129 |
+| AM Supervisor, Operations | RONA | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472791868 |
+| Delivery Specialist | Rogers Communications | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471551053 |
+| Sr Delivery Specialist | Rogers Communications | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471552038 |
+| Facilities Coordinator - Calgary | CBI Home Health | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471549403 |
+| Program Manager, Operational Performance | WestJet | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472799607 |
+| Economics Senior Analyst or Specialist | Pembina Pipeline Corporation | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4473036243 |
+| Senior Financial Analyst | Hexagon Autonomous Solutions | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4473014447 |
+| Senior Analyst FP&A | WestJet | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472790887 |
+| DYNAMITE - Team Leader PT - CrossIron Mills | Groupe Dynamite | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471216617 |
+| GARAGE - Team Leader PT - Southcentre Mall | Groupe Dynamite | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471207878 |
+| Advisor, Ground Operations Standards | WestJet | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4473008021 |
+| Leak Detection Advisor | SGS | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471212541 |
+| Leak Detection Advisor | SGS | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471210583 |
+| Regulatory Specialist I | Alliance Technical Group | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471202907 |
+| General Booking - Patient Experience Coordinator | Mayfair Diagnostics | 2026-09-28 | N | https://ca.indeed.com/viewjob?jk=5a90908cd3733d07 |
+| Social Worker - Contract | South Calgary Primary Care Network | 2026-09-28 | N | https://ca.indeed.com/viewjob?jk=94fdd29bab2523b6 |
+| Program Administrator | Easter Seals Alberta | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473006713 |
+| HSE Administrator | Arctic Arrow Powerline Group Ltd. | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473029091 |
+| Health and Safety Specialist | Robert Half | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471548670 |
+| Payroll Administrator (12-month Contract) | Graymont | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471538754 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Service Advisor, Contact Centre | ATB Financial | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473020736 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473007421 |
+| Credit Specialist | Adecco | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471534897 |
+| Private Client Adviser – Financial Planner / Securities Spec | TalentSphere Staffing Solutions | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473012765 |
+| Virtual Financial Planner, Scotia Financial Planning- Opport | Scotiabank | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471531932 |
+| Learning & Engagement Strategic Coordinator | Government of Alberta | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471548246 |
+| Planning & Reporting Administrator | AGLC | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471201926 |
+| Service Coordinator | Finning | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471566250 |
+| Program Coordinator, Partnerships and Engagement | University of Alberta | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473030243 |
+| Rental Operations Coordinator - Grande Prairie | Stream-Flo Industries | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4473022737 |
+| Payroll Administrator | Total Group of Companies Inc. | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471550314 |
+| Caseworker | Cencora | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4470539233 |
+| Abilities & Wellness Advisor | City of St. Albert | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471538813 |
+| On-Site Service Coordinator (contract) | Scandinavian Building Services | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471559549 |
+| Systems Administrator | Postmedia Network Inc. | 2026-09-28 | R | https://ca.indeed.com/viewjob?jk=0c01dc5e9b14fa16 |
+| Systems Administrator | Postmedia Network Inc. | 2026-09-28 | R | https://ca.indeed.com/viewjob?jk=ce4fbe971fd6b9c8 |
+| SAP ISU Functional Analyst | LanceSoft, Inc. | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471503251 |
+| Quality Assurance Analyst | LanceSoft, Inc. | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471539964 |
+| Oracle Technical Analyst | InSync Systems | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471556750 |
+| Service Desk Analyst 2 | Compugen Inc | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4469625000 |
+| Data Analyst | EPCOR | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4473023935 |
+| Administrative Assistant | CenerTech Canada Ltd. | 2026-09-28 | G | https://ca.indeed.com/viewjob?jk=b4f9271ff47d869a |
+| Front Desk/ Inside Sales | Express Employment Professionals - Calga | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4471214709 |
+| Cybersecurity Sales Specialist | HPE Aruba Networking | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472486399 |
