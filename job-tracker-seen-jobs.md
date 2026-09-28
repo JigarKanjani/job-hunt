@@ -20810,3 +20810,9 @@
 | Spotlight Cabaret Hiring Box Office Coordinator/Administrati | Spotlight Cabaret | 2026-09-28 | N | https://ca.indeed.com/viewjob?jk=cf233844eb6f93e3 |
 | legal services officer - courts | Native Counselling Services of Alberta | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4472470427 |
 | Part Time Core Sales Associate | Pandora | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4470823193 |
+| HubSpot Specialist (Remote | $28–$92/hr) | Synthires | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4470836500 |
+| Loan Operation Specialist | FCC / FAC | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4472702102 |
+| Management Consulting Specialist (Remote | $150–$350/hr) | Synthires | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4470844364 |
+| Data Science Specialist (Remote | $150–$350/hr) | Synthires | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4470834583 |
+| Data Analyst | $50/hr Remote | Crossing Hurdles | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471345005 |
+| Part-time Sales Associate/Eyewear Stylist - Downtown Calgary | Bailey Nelson | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4470857061 |
