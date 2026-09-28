@@ -20816,3 +20816,33 @@
 | Data Science Specialist (Remote | $150–$350/hr) | Synthires | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4470834583 |
 | Data Analyst | $50/hr Remote | Crossing Hurdles | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471345005 |
 | Part-time Sales Associate/Eyewear Stylist - Downtown Calgary | Bailey Nelson | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4470857061 |
+| Senior Cybersecurity Analyst | ARC Resources | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=64fae557046404af |
+| HR & Client Billing Coordinator (Part-Time) | Concierge Care Calgary | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=47c606842b331659 |
+| Talent Acquisition Coordinator | Lean Six Search | Supply Chain Recruitme | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472759031 |
+| Recruitment Lead | ATCO Structures | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471394699 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Partner Success Lead, Canada | Syndio | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472777294 |
+| Assistant Coordinator - Fitness Centre (Main Campus), Facult | University of Calgary | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472745746 |
+| Contract Credit Specialist | Brunel | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471509623 |
+| Enterprise Performance Management (EPM) Specialist - Informa | University of Calgary | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472749575 |
+| Team Lead, Health & Safety | Harvest Operations Corp. | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471398585 |
+| Senior Cybersecurity Analyst | ARC Resources Ltd. | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472764636 |
+| Coordinator | Flowserve Corporation | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472761099 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471514584 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471512624 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471509717 |
+| Payment Verification Analyst | BITS Recruiting | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472769722 |
+| Order Fullfillment Coordinator | Bradken | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4471520184 |
+| Fuels Product Advisor | Imperial Oil | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472767393 |
+| Maintenance Coordinator | Bradken | 2026-09-28 | N | https://ca.indeed.com/viewjob?jk=cda5c5d0b2361989 |
+| Administrative Assistant | CenerTech Canada Ltd. | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4470885675 |
+| Senior Contract Administrator | Turner & Townsend | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471524486 |
+| Advisor, Economic Development – Indigenous Relations | Axxcelus Capital Advisory | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4471520308 |
+| Social Worker - Contract | South Calgary Primary Care Network | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4470892474 |
+| Business Analyst, Client Delivery | Buckland | 2026-09-28 | R | https://ca.indeed.com/viewjob?jk=ea4f6052cc8d4e74 |
+| Learning & Engagement Strategic Coordinator | Government Of Alberta | 2026-09-28 | R | https://ca.indeed.com/viewjob?jk=d83143a0e44db876 |
+| Electrical Engineer/Specialist (Power & Drives) | Spartan Controls | 2026-09-28 | R | https://www.linkedin.com/jobs/view/4471511323 |
+| Part Time Evening Receptionist | Shaganappi GM | 2026-09-28 | G | https://ca.indeed.com/viewjob?jk=7f7a62e246eadfd3 |
+| Massage Clinic Receptionist – Full-Time or Part-Time | Hayahay Massage & Wellness 17 Ave | 2026-09-28 | G | https://ca.indeed.com/viewjob?jk=1345b9bf261ade7d |
+| Client Service Associate | The Vantage Talent Group | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472767411 |
+| Clinic Experience Associate | CBI Health | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472786186 |
