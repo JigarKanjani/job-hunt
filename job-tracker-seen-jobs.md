@@ -20803,3 +20803,10 @@
 | Project Coordinator Intern | Clark Builders | 2026-09-27 | N | https://www.linkedin.com/jobs/view/4416754270 |
 | Analyst, Valuations | MNP | 2026-09-27 | R | https://www.linkedin.com/jobs/view/4453756731 |
 | Technical SEO Specialist (Remote, Toronto) | Blacksmith Agency | 2026-09-27 | R | https://www.linkedin.com/jobs/view/4472451722 |
+| Supply Chain Management Lead, Microsoft Dynamics 365 - Toron | Huron Consulting Group | 2026-09-28 | J | https://ca.indeed.com/viewjob?jk=2632d3c580b2e543 |
+| Senior Google Ads Buyer, DTC eCommerce (Remote) | Sweat Pants Agency | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472476248 |
+| Google Ads Media Buyer / Growth Strategist (Remote) | Sweat Pants Agency | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472476232 |
+| Media Buyer / Creative Strategist | Sweat Pants Agency | 2026-09-28 | J | https://www.linkedin.com/jobs/view/4472474260 |
+| Spotlight Cabaret Hiring Box Office Coordinator/Administrati | Spotlight Cabaret | 2026-09-28 | N | https://ca.indeed.com/viewjob?jk=cf233844eb6f93e3 |
+| legal services officer - courts | Native Counselling Services of Alberta | 2026-09-28 | N | https://www.linkedin.com/jobs/view/4472470427 |
+| Part Time Core Sales Associate | Pandora | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4470823193 |
