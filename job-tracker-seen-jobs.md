@@ -20931,3 +20931,20 @@
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473031528 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473044148 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473039293 |
+| Senior Financial Analyst | Acute Care Alberta | 2026-09-29 | J | https://ca.indeed.com/viewjob?jk=633aec982a17ccc7 |
+| Analyste, Gestion de trésorerie - Groupe Comptes Nationaux | National Bank of Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473225166 |
+| Cash Management, Services Officer - National Client Group | National Bank of Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473220558 |
+| Service Leader | Chipotle Mexican Grill | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471291684 |
+| Payroll Team Lead | Aston Carter | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473099644 |
+| SAP S/4HANA Finance Lead | KPMG Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471267790 |
+| SAP Technical Lead - BASIS | KPMG Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471289071 |
+| Payroll Specialist | Aston Carter | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473210055 |
+| Financial Aid Advisor - Office of the University Registrar | MacEwan University | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4472028161 |
+| Field Coordinator Co-op | FlatironDragados | 2026-09-29 | R | https://ca.indeed.com/viewjob?jk=6150eb8e925c4773 |
+| Revenue Operations & CRM Specialist (Remote | $45–$90/hr) | Synthires | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471298085 |
+| Revenue Operations Specialist (Remote | $45–$90/hr) | Synthires | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471284839 |
+| Private Trust Client Service Associate | TD | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471296636 |
+| Private Client Associate | ATB Financial | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4472093733 |
+| Customer Service Representative | Aston Carter | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473094795 |
+| Associate Sales Representative - Sage (12- month Contract) | Stryker | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4456154188 |
+| Labour Relations Coordinator | Actalent | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473092884 |
