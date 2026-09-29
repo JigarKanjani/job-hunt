@@ -20948,3 +20948,55 @@
 | Customer Service Representative | Aston Carter | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473094795 |
 | Associate Sales Representative - Sage (12- month Contract) | Stryker | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4456154188 |
 | Labour Relations Coordinator | Actalent | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473092884 |
+| Project Coordinator - Glazing & Facade Systems | Custom Metal Contracting Ltd. Glazing Gr | 2026-09-29 | J | https://ca.indeed.com/viewjob?jk=f861e0cfd6b2880c |
+| Senior Operations Coordinator | Stephen Cleaners | 2026-09-29 | J | https://ca.indeed.com/viewjob?jk=c7d75a5811102466 |
+| Client Design & Sales Coordinator | MCG Careers | 2026-09-29 | J | https://ca.indeed.com/viewjob?jk=02fca104f7e4498f |
+| Customer Solutions Specialist | Xerxes | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473280816 |
+| SAP Integration Service Delivery Lead – CPI/BTP_Onsite@Calga | BURGEON IT SERVICES | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471747103 |
+| SAP Service Lead – Integration / CPI  Calgary, AB | BURGEON IT SERVICES | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471734888 |
+| SAP BW/4HANA & Analytics Service Delivery Lead_Onsite@calgar | BURGEON IT SERVICES | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471731856 |
+| SAP Service Lead / BW/Analytics | BURGEON IT SERVICES | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471735844 |
+| Employer Relationship Specialist - Calgary | Open Door Group | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471939030 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Settlement Coordinator | Preszler Injury Lawyers | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473290013 |
+| Land Analyst | TC Energy | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471756431 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473500377 |
+| Environmental Regulatory Specialist, Pipelines | WSP in Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471744264 |
+| Business Development Analyst | Kanin Energy | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471936068 |
+| Service Leader | Chipotle Mexican Grill | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473283257 |
+| OT SOC Lead – Operational Technology Security Operations Cen | Apptoza Inc. | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471752163 |
+| Senior Specialist - Cybersecurity | Parkland Corporation | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471745395 |
+| Environmental Regulatory Specialist, Oil Sands | WSP in Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471738680 |
+| IT Fulfilment Coordinator (Telecom Focus) - 12-month contrac | The Salvation Army in Canada | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473276472 |
+| Career Advisor | WCG International Consultants Ltd. | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=33eef29d685b7066 |
+| Maintenance Administrator | Simco Management | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=d000b868f17a805a |
+| Cannabis Administrator | High Ground Medica Inc. | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=c2607f0dcf1e0e37 |
+| Administrative Assistant | Findoor Industrial Inc | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=3fb6c1c485e94d77 |
+| HR Administrator | Aplin | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473298222 |
+| Ticket Processing & e-Disclosure Specialist | Calgary Police Service | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4471942128 |
+| People and Sales Leadership Specialist Remote | Altig Organization- Globe Life AO | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4471919231 |
+| Faculty Experiential & Work Integrated Learning Coordinator | University of Alberta | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473286629 |
+| Site HR Coordinator | Ledcor | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473037379 |
+| Safety Coordinator | Corrpro Canada | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473290830 |
+| Business Process Analyst | Alberta School Employee Benefit Plan | 2026-09-29 | R | https://ca.indeed.com/viewjob?jk=540a049d5bb80914 |
+| HSE System Administrator | FLINT Corp. | 2026-09-29 | R | https://ca.indeed.com/viewjob?jk=af425236f022dbb0 |
+| SAP BW Analytics / Modeler / Reporting (BEX) | BURGEON IT SERVICES | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471748147 |
+| SAP BW Analytics / Modeler / Reporting (BEX) | Syncredible Solutions | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4473278354 |
+| HR Analyst | Calgary Police Service | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471934448 |
+| SAP BW Analytics / Modeler / Reporting (BEX)  Calgary, AB | BURGEON IT SERVICES | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471748213 |
+| SAP BW Analytics / Modeler / Reporting (BEX) | BURGEON IT SERVICES | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471749137 |
+| Programmatic Specialist (Remote Canada) | Directive | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4473295800 |
+| Quality Assurance Automation Engineer | Apptad | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471930216 |
+| Process Safety Engineer | TC Energy | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471742853 |
+| Automation Engineer | Flexpipe | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4473275924 |
+| Financial Analyst (6-12 months) | AMA - Alberta Motor Association | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471834665 |
+| Receptionist / Optical Assistant | The Monterey Vision Centre | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=8f6ab3e9e78f9ca9 |
+| Inventory & Shipping Associate - Auto Parts | Barez Recycling LTD | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=a8274151d7b45439 |
+| Compensation Consulting Associate | Marsh | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=20742e826274237c |
+| Integration Specialist - Calgary, AB | LightForce Orthodontics | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=439d9966626a5019 |
+| Construction Office Support Specialist | Trend-Setter Exteriors Ltd. | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=9d8c12396d0422ce |
+| Associate | TC Energy | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471744898 |
+| Customer Service Representative | Direct Plus Food Group | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471930230 |
+| Showroom Sales Associate | Equation Staffing Solutions Inc | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471918621 |
+| Associate, Wealth Solutions (Western Canada) | AGF Capital Partners | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471931445 |
+| Compensation Consulting Associate | Marsh | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473282993 |
