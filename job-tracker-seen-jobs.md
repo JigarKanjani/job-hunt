@@ -20902,3 +20902,32 @@
 | Administrative Assistant | CenerTech Canada Ltd. | 2026-09-28 | G | https://ca.indeed.com/viewjob?jk=b4f9271ff47d869a |
 | Front Desk/ Inside Sales | Express Employment Professionals - Calga | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4471214709 |
 | Cybersecurity Sales Specialist | HPE Aruba Networking | 2026-09-28 | G | https://www.linkedin.com/jobs/view/4472486399 |
+| On-Site Service Coordinator (contract) | Scandinavian Building Services | 2026-09-29 | J | https://ca.indeed.com/viewjob?jk=68e8c7ef59e99d52 |
+| Sales Support Coordinator | CBRE | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473072342 |
+| Revenue and Contracts Accountant | Pacific Western Transportation Ltd | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4460652521 |
+| HRIS Integrations Coordinator (6-Month Contract with Potenti | Environmental 360 Solutions | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471595473 |
+| PROGRAM MANAGER - RN | Extendicare | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473071345 |
+| Project Controls Coordinator | PCL Construction | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473058834 |
+| Processing Center Advisor - GOAPRDJP000001031 | S M Software Solutions Inc | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4473056770 |
+| Maintenance Planner | North American Construction Group | 2026-09-29 | J | https://www.linkedin.com/jobs/view/4471584958 |
+| Site HR Coordinator | Ledcor | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=5a79cac271239042 |
+| Case Manager, Client Paid Customer Operations | Cencora | 2026-09-29 | N | https://ca.indeed.com/viewjob?jk=6f910891ca01e544 |
+| Store Administrator, Hourly Part Time Day | Shoppers Drug Mart | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473064586 |
+| Research Finance Administrator, Research Accounting | University of Calgary | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473063804 |
+| Senior Planner | McElhanney | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473065567 |
+| Administrative Coordinator | Day & Ross | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4473061393 |
+| Accounting Officer | Government of Alberta | 2026-09-29 | N | https://www.linkedin.com/jobs/view/4471599085 |
+| Protection And Control Specialist | Spark Power Corp | 2026-09-29 | R | https://ca.indeed.com/viewjob?jk=39eaa5e666f80507 |
+| Potential Place Society is seeking s Job Developer and Emplo | Potential Place Society | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4471516837 |
+| Processing Center Advisor - GOAPRDJP000001031 | S M Software Solutions Inc | 2026-09-29 | R | https://www.linkedin.com/jobs/view/4473074163 |
+| Customer Service Representative | BGE Indoor Air Quality Solutions | 2026-09-29 | G | https://ca.indeed.com/viewjob?jk=10bd0bd862acddbd |
+| Client Service Associate | BMO | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4467799000 |
+| Business Development Associate | Dynamic Source Manufacturing Inc. | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471577888 |
+| Customer Service Rep - Work From Home - No Experience | American Income Life Insurance Company | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473067174 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473055704 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473060612 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473027934 |
+| (CAN) Modular Team Associate PART TIME | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473033559 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473031528 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473044148 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473039293 |
