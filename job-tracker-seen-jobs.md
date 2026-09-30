@@ -21012,3 +21012,32 @@
 | (CAN) Modular Team Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473717115 |
 | Overnight Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473715338 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473730055 |
+| Buyer | Modine Manufacturing Company | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4464914983 |
+| SAP Service Lead – BW/Analytics | Cloud Data Vision | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473775964 |
+| Payroll Team Lead | Aston Carter | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473781733 |
+| Payroll Specialist | Robert Half | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472301730 |
+| Post-Payment Verification Analysts | StafinGo | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472168919 |
+| Peer Support Worker | Recovery Alberta | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=0aba6c7adbcb5582 |
+| Principal Analyst, Power Markets – Long-Term Forecasting - 2 | Enverus | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=2973fc6a9edca502 |
+| Business Support Coordinator (Part-Time) | Turner & Townsend Pty Limited | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=345264cfa45ba994 |
+| Office Coordinator | Melanie Parent Events | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=e8e39b26663b399f |
+| office administrative assistant | Advance Pallet and Lumber Ltd. | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4473761846 |
+| Sales and Education Specialist - Alberta | Groupe Marcelle | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472184534 |
+| GOAPRDJP000001031 - Processing Center Advisor | S M Software Solutions Inc | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4473778966 |
+| Business Support Coordinator (Part-Time) | Turner & Townsend | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4471996579 |
+| Care Navigator (Remote) | Sailor Health | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472196119 |
+| HSE Advisor (Edmonton, AB) | Sterling Crane | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4446367044 |
+| SAP BW Analytics / Modeler / Reporting – BEx | Cloud Data Vision | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4473776965 |
+| AI & Automation Data Scientist Associate / Data Scientist as | IBM | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4462543736 |
+| Finance Analyst (Remote) | SecondWind by Joveo | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4473770030 |
+| Help Desk Analyst | NetworkPedia | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4473778835 |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-30 | G | https://ca.indeed.com/viewjob?jk=8a5a0edd90cbf45f |
+| (CAN) General Merchandise Associate | Walmart | 2026-09-30 | G | https://ca.indeed.com/viewjob?jk=357b4db9b621ba61 |
+| Administrative Support IV | Recovery Alberta | 2026-09-30 | G | https://ca.indeed.com/viewjob?jk=6e5bf8302497c16c |
+| Administrative Support IV | Recovery Alberta | 2026-09-30 | G | https://ca.indeed.com/viewjob?jk=530e3a79dd5c37c3 |
+| Front Desk | Barlow Trail | Cactus Club Cafe | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4247070669 |
+| Luxury Sales Associate (Full-Time) | OMEGA SA | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4472182437 |
+| Sales Associate-Print&Services | Staples Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473782900 |
+| Sales Associate (Chinook Centre) | Swatch | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4472184298 |
+| Sales Associate | Staples Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473795126 |
+| Content Specialist, Enterprise | Clio | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4463579314 |
