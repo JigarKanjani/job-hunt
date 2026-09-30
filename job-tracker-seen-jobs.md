@@ -21000,3 +21000,15 @@
 | Showroom Sales Associate | Equation Staffing Solutions Inc | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471918621 |
 | Associate, Wealth Solutions (Western Canada) | AGF Capital Partners | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4471931445 |
 | Compensation Consulting Associate | Marsh | 2026-09-29 | G | https://www.linkedin.com/jobs/view/4473282993 |
+| (CAN) Digital Fulfillment Team Lead | Walmart Canada | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473717117 |
+| Personal Banking Advisor - Calgary Brentwood Village | ATB Financial | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=5f1dbcb661eedbfe |
+| Member Resolution Specialist (Remote) | Evo | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472111609 |
+| Veterinary Assistant/Receptionist - Part Time | Auburn Bay Veterinary Clinic | 2026-09-30 | G | https://ca.indeed.com/viewjob?jk=5869cf2cc5f745cf |
+| (CAN) Customer Service Desk Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473700991 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473701880 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473714581 |
+| (CAN) Dairy Frozen Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473718068 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473596991 |
+| (CAN) Modular Team Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473717115 |
+| Overnight Associate | Walmart Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473715338 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473730055 |
