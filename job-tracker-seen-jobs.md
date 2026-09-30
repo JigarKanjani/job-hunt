@@ -21041,3 +21041,47 @@
 | Sales Associate (Chinook Centre) | Swatch | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4472184298 |
 | Sales Associate | Staples Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473795126 |
 | Content Specialist, Enterprise | Clio | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4463579314 |
+| Project Coordinator / Field Engineer - Industrial | Ledcor | 2026-09-30 | J | https://ca.indeed.com/viewjob?jk=2e50424696e7c95d |
+| Contract Logistics Production System Black Belt | Kuehne+Nagel | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4455383774 |
+| Analyst - New Graduate 2027 | Management Consulting | Hatch | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4464104129 |
+| Drilling Optimization Specialist | IMDEX | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473913892 |
+| Logistics Coordinator | Amrize | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472624645 |
+| Drilling Optimization Specialist | Krux Analytics Inc. | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473911999 |
+| Senior Business Intelligence Analyst | TEKsystems | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473934181 |
+| Specialist, Financial Planning | CPKC | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4452876475 |
+| Inventory Control Specialist - Seasonal | Bass Pro Shops | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473926775 |
+| Maintenance Planner, CEP | Inter Pipeline | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472333450 |
+| Analyst, Financial Planning | CPKC | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4452864517 |
+| Intermediate Business Analyst | TEKsystems | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473926400 |
+| Senior Enterprise Architect - Smart Cities & Emerging Techno | TEKsystems | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473934180 |
+| Sports Coordinator | Calgary Sport & Social Club | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472352210 |
+| Workforce Management Analyst | BrokerLink | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4465085610 |
+| Senior Buyer | Aspen Custom Trailers | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4472348340 |
+| Inventory Specialist (Seasonal) | Copart | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473930906 |
+| (CAN) Digital Fulfillment Team Lead | Walmart Canada | 2026-09-30 | J | https://www.linkedin.com/jobs/view/4473914633 |
+| Recruitment and Engagement Coordinator | Home Instead Calgary | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=13c85e720e36f377 |
+| People Services Advisor | Long View Systems | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=68bf1ee3decfe6be |
+| Collision Repair Advisor | Dilawri Group of Companies | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=3eac3206cee598e1 |
+| Project Coordinator | Westburne | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=8f6adf6a7b254a98 |
+| Accounts Receivable Administrator | Liquid Edge Oilfield Services Ltd | 2026-09-30 | N | https://ca.indeed.com/viewjob?jk=8094383be81e65d5 |
+| Administrator, Real Estate Project | Black Diamond Group | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472625794 |
+| Administrative Assistant, Account Services | MNP | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472340648 |
+| Lease Administrator | Black Diamond Group | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472637313 |
+| VDC Services Specialist | EllisDon | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4473916772 |
+| Client Advisor (FT), AX Outlet CrossIron Mills | Giorgio Armani | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4452865392 |
+| Care Coordinator (Remote) | Sailor Health | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4473954454 |
+| Administrative Assistant, Account Services | MNP | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4472348221 |
+| Patient Care Coordinator (Remote) | Sailor Health | 2026-09-30 | N | https://www.linkedin.com/jobs/view/4473941781 |
+| Application Developer | Primoris Services Corporation | 2026-09-30 | R | https://ca.indeed.com/viewjob?jk=fb7404e2a49bc4b4 |
+| Application Developer | Primoris Services Corporation | 2026-09-30 | R | https://ca.indeed.com/viewjob?jk=9c3cc0f9ce8c37e5 |
+| Business Intelligence Student | Bird Construction | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4464935080 |
+| Desktop Support Specialist | LanceSoft, Inc. | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4472343370 |
+| Process Engineer | Strathcona Resources Ltd. | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4473934952 |
+| Business Intelligence Student | Bird Construction | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4464919815 |
+| IT Administrator | Tiger Calcium Services Inc. | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4462550789 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4473939246 |
+| Technical Support Analyst, Contract -Remote, Anywhere in Can | ClaimsPro LP | 2026-09-30 | R | https://www.linkedin.com/jobs/view/4472352012 |
+| Evening Receptionist - Courtesy Chrysler Dodge Jeep Ram | AutoCanada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4472354182 |
+| Part-time Clinic Experience Associate | CBI Health | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4473920668 |
+| Revenue Associate | AVEVA | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4454924787 |
+| Lumber Sales Associate Part Time - BEACON HILL | The Home Depot Canada | 2026-09-30 | G | https://www.linkedin.com/jobs/view/4472342267 |
