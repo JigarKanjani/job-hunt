@@ -21128,3 +21128,69 @@
 | GENERAL MERCHANDISE ASSOCIATE | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474122426 |
 | FRONT END CHECKOUT TEAM ASSOCIATE | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474111802 |
 | Over-the-Counter Associate | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474128282 |
+| Contracts and Sourcing Analyst | BURNCO Rock Products Ltd | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=f832d6d778ae9e54 |
+| Facilities Coordinator | JLL | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=f181d146bbeec8b9 |
+| Junior Proposal Specialist | ATCO | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=8785b044f9dddc2f |
+| Health and Safety Coordinator | Arndt Motor And Pump Service | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=1660baf07a399532 |
+| Junior Analyst, Qualico Properties | Qualico | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=084bc65f347a6ff6 |
+| Senior IT Project Lead | FortisAlberta | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=b22da22be9ac4200 |
+| Project Coordinator | In-Line Contracting | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=2caabb8637d47eab |
+| Department Leader (nights) | Princess Auto | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=16502f860c5bc381 |
+| Materials Analyst-Technical | WestJet | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474522091 |
+| Contracts and Sourcing Analyst | BURNCO Rock Products Ltd | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474528615 |
+| Supplier Development Specialist | Blackline Safety | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474517838 |
+| AltaGas - Risk Analyst | AltaGas Ltd. | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472828285 |
+| Fluid Volume Reporting Coordinator | Manpower | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472827327 |
+| Transportation Coordinator - Night Shift | Insight Global | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472818663 |
+| Junior Proposal Specialist | ATCO Frontec | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472821531 |
+| Events Coordinator | WestJet | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474506538 |
+| Analyst, Financial Reporting | Avenue Living | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4454822316 |
+| Finance Data Systems Specialist, Finance Architecture | ATB Financial | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474544107 |
+| Business Analyst | PeopleToGo Inc. | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474513733 |
+| Specialist I IT Web Application | Enbridge | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472970849 |
+| EHS Safety Advisor | Petroplan | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474505853 |
+| Product Operations Lead | Kingsway Gardens | lululemon | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4472979424 |
+| Volunteer Coordinator | Unison at Veiner Centre | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=20cf2ef5793ba288 |
+| Sr. Surface Land Coordinator | Vermilion Energy | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=7e7512d0d55d8443 |
+| Office Administrator (full-time) - Creekside Location | Momentum Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=b7faae056bc6d252 |
+| Coverage Office Administrator (full time) - All Locations | Momentum Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=954be20556ce15bf |
+| Health Services Enrollment Coordinator | Sailor Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=cab98a2ce82cd4fa |
+| Intake & Scheduling Coordinator – Healthcare | Sailor Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=5e339b9f3b1bcd30 |
+| Patient Intake Coordinator | Sailor Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=37eba2fd5512d9b8 |
+| Care Coordinator, Health Navigation | Sailor Health | 2026-10-01 | N | https://ca.indeed.com/viewjob?jk=3b492724149807ee |
+| Associate Program Manager, Corporate Training and Internatio | University of Calgary | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474523631 |
+| Administrative Assistant | Siri InfoSolutions, Inc. | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474514759 |
+| Administrative Assistant - Intermediate | Teckhorizon Inc | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474515640 |
+| Administrative Assistant | RAPS Consulting Inc | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474545035 |
+| Rocky View County RSC - Administrator Shipping/Receiving (Ni | Sobeys | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472974623 |
+| Administrative Assistant | NetworkPedia | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472819748 |
+| Administrative Assistant | Veridian Tech Solutions, Inc. | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472823567 |
+| Complex Supports Navigator | Vantage Enterprises Ltd | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472830313 |
+| Payroll Administrator | AGAT Laboratories | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4471768880 |
+| Sr. Surface Land Coordinator | Vermilion Energy | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474518024 |
+| Mortgage Specialist | BMO | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474518971 |
+| Licensed Inbound Insurance Sales Specialist | Trupanion | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4464833046 |
+| Financial Advisor Trainee (Calgary) | Co-operators | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474531402 |
+| Senior Tax Specialist | Dow | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472964369 |
+| Warranty Registration & Pricing Advisor | Finning | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472821865 |
+| Resource Centre Coordinator - Vocational Services | Lifemark Health Group | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472988211 |
+| Program Administrator | NAIT (Northern Alberta Institute of Tech | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474519639 |
+| Patient Services Specialist | Solis Optics | 2026-10-01 | R | https://ca.indeed.com/viewjob?jk=85c899b33d31ecd5 |
+| Technology and Facility Support Specialist- UCalgary Continu | University of Calgary | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4474519864 |
+| Rotating Equipment Specialist | Finning | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472832439 |
+| Condition Monitoring Analyst | Finning | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472819904 |
+| Policy Analyst | Government of Alberta | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472833007 |
+| Processing Center Advisor | Navitas Partners, LLC | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472817686 |
+| Associate Lawyer – Family Law | DLegal Law Office | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=6511124318508774 |
+| Receptionist / Legal Assistant DLegal Law Office – South Cal | DLegal Law Office | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=62d2380c209dc948 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=837ea3c7b54cc076 |
+| Store Merchandising Associate | Modern Beauty | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=f9d9f71b9920529d |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=56fa84db3c65e684 |
+| (CAN) Stock Unloader Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=425e901cd1274265 |
+| Registered Hearing Aid Practitioner/Hearing Instrument Speci | Ears To You | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=5dea2d6c3cfb84f7 |
+| Wealth Experience Associate | ATB Financial | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472717036 |
+| Customer Experience Associate | TD | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474539059 |
+| Customer Experience Associate | TD | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474520815 |
+| 24 - Sales Associate | Part Time | Bath Depot | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472969781 |
+| Customer Service Representative (Motivator) - Calgary Richmo | GoodLife Fitness | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472965156 |
+| Investment Associate, BMO Nesbitt Burns | BMO | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4461205992 |
