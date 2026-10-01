@@ -21108,3 +21108,23 @@
 | Intermediate Building Envelope Specialist | ENTUITIVE | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=33e6e4a6d1866721 |
 | Switchboard Agent | Pomeroy Lodging | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472640754 |
 | Guest Service Agent | Pomeroy Lodging | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472655239 |
+| Senior IAM & Cyber Assurance Analyst | Alberta Investment Management Corporatio | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=9e9ec9e9414e13c9 |
+| Sales and Logistics Manager - Aggregates | Heidelberg Materials | 2026-10-01 | J | https://ca.indeed.com/viewjob?jk=af608dd1c2ae480e |
+| NPI Supply Chain Project Coordinator (Permanent Part-Time) | Hexagon Autonomous Solutions | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4473998861 |
+| Team Lead, Fulfillment | GoBolt | 2026-10-01 | J | https://www.linkedin.com/jobs/view/4474136340 |
+| Design Team Project Administrator | Boardwalk | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4472509558 |
+| Payroll Specialist | Aston Carter | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4474124944 |
+| Women's Volleyball Coach & Athletics Coordinator | Olds College of Agriculture & Technology | 2026-10-01 | N | https://www.linkedin.com/jobs/view/4473575054 |
+| Gyrodata Field Specialist | SLB | 2026-10-01 | R | https://ca.indeed.com/viewjob?jk=59411ee68d81ce53 |
+| Excel Data Analysis Specialist (Remote | $30–$100/hr) | Synthires | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472695288 |
+| Excel Data Analyst (Remote | $30–$100/hr) | Synthires | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472902071 |
+| Microsoft Excel Specialist (Remote | $30–$100/hr) | Synthires | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472696276 |
+| Bloomberg Financial Analyst (Remote | $90–$170/hr) | Synthires | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472694460 |
+| Bloomberg Financial Research Specialist (Remote | $90–$170/h | Synthires | 2026-10-01 | R | https://www.linkedin.com/jobs/view/4472686851 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=2be5f87595f46e00 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=92a9d9fdec2e938b |
+| (CAN) Modular Team Associate | Walmart | 2026-10-01 | G | https://ca.indeed.com/viewjob?jk=5668ed31a115ec0b |
+| FRONT END CHECKOUT TEAM ASSOCIATE | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474125350 |
+| GENERAL MERCHANDISE ASSOCIATE | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474122426 |
+| FRONT END CHECKOUT TEAM ASSOCIATE | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474111802 |
+| Over-the-Counter Associate | Walmart Canada | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4474128282 |
