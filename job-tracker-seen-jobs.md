@@ -21269,3 +21269,54 @@
 | Stocking 1 Team Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4465806942 |
 | Flooring Sales Specialist : Part Time - CHINOOK | The Home Depot Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464817632 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4465817934 |
+| Senior Contract Manager - Canada | GE Vernova | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=1646af65e4e78c26 |
+| Contract Manager - B.C. (Canada) | GE Vernova | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=e032312c1404c4fc |
+| Supply Chain Management Analyst | InSync Systems | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473371156 |
+| Contract SCM Analyst | NES Fircroft | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473358581 |
+| Information Technology Application Analyst | Canada Cartage | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473160337 |
+| Inventory Supervisor | CTDI | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473156338 |
+| Operations Consultant - Manufacturing | Lime Talent | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473153693 |
+| Material Supply (Temporary) | ATCO | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473349536 |
+| Lead SAP TMS Consultant | Infosys | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4463916705 |
+| Project Coordinator | Insight Global | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473347765 |
+| Technical Coordinator, Nickle Galleries, Libraries and Cultu | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4472201083 |
+| Senior Subcontracts Specialist | Worley | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474779694 |
+| Information Technology Project Coordinator | BuzzClan | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473145998 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Commercial Funding Analyst | Peoples Group | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473353335 |
+| Commercial Sales Analyst | Peoples Group | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473344660 |
+| Analyst, Accounts Receivable | Avenue Living | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475001034 |
+| Credit Specialist | Kelly Services (Canada), Ltd. | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473358646 |
+| CLIENT SUPPORT COORDINATOR, VIRTUAL BUSINESS CENTRE - Across | BDC | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473359147 |
+| Operations Supervisor | McKesson | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474790314 |
+| Senior Subcontracts Specialist | Worley | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474782639 |
+| Senior Subcontracts Specialist | Worley | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474784535 |
+| Procurement Specialist, Electrical & Instrumentation | Worley | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474789325 |
+| HSE Administrator (12-month contract) | ARC Resources | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=b97b2e8dfc892426 |
+| HSE Programs Coordinator | PCL Construction | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=f1faf4599101e6c1 |
+| Administrative and Operations Coordinator | TBT Medical | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=4a8c28f6484a1526 |
+| HSE Administrator (12-month contract) | ARC Resources Ltd. | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474799174 |
+| Junior Communications Specialist, Communications, External R | University of Calgary | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473538799 |
+| Communications Coordinator | Alberta Beverage Container Recycling Cor | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473366249 |
+| Desktop Support Specialist | Robert Half | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473369081 |
+| Project Coordinator | Jayson Global Roofing Inc. | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473366021 |
+| Permanency Caseworker – Children’s Services | Siksika Family Services Corporation | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473375072 |
+| Indigenous Care Liaison | Covenant Health Canada | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473350681 |
+| Data Analyst II, Legal Claims & Casualty (LCC) (12month cont | Intact | 2026-10-02 | R | https://ca.indeed.com/viewjob?jk=6bdc5f361da6849e |
+| Analyst, Accounts Receivable | Avenue Living Asset Management | 2026-10-02 | R | https://ca.indeed.com/viewjob?jk=4f707f016fe0de52 |
+| Application Support Engineer with SRE | VySystems | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474784679 |
+| IT Infrastructure Analyst Student | BURNCO Rock Products Ltd | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4470239706 |
+| IT Support Analyst Student | BURNCO Rock Products Ltd | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4470244592 |
+| Intermediate Process Engineer | Cornerstone Engineering Ltd. | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473160419 |
+| Event Technical Specialist- Calgary Telus Convention Centre | Encore Canada | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4464816263 |
+| Analyste des produits (Transactions de prêt) | FCC / FAC | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474794434 |
+| Digital Process Coordinator (contract) | Aecon Group Inc. | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4446404617 |
+| Customer Service Representative Fresh Flowers | Florists Supply | 2026-10-02 | G | https://ca.indeed.com/viewjob?jk=06996f9bb92ccdb9 |
+| Receptionist | Silverhill Acura | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473152735 |
+| Receptionist | Kaizen Automotive Group | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473347985 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4474792598 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4474788746 |
+| Associate (West Oak Family Office) | Wellington-Altus | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464598746 |
+| Associate | Richardson Wealth | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464566966 |
+| FSQR Associate -May 2027 | Cargill | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4463479200 |
