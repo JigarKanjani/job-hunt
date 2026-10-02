@@ -21234,3 +21234,38 @@
 | (CAN) General Merchandise Associate | Walmart | 2026-10-02 | G | https://ca.indeed.com/viewjob?jk=74db2f5bcb557569 |
 | Receptionist | Kristian Electric Ltd. | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4472851222 |
 | Sales Associate | Carters Inc. | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4474575108 |
+| ​Provincial Coordination Lead | Acute Care Alberta | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=0a92df080928931f |
+| Purchasing Agent - Industrial West | Bird Construction | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=3ee98b78d57f600e |
+| Project Coordinator Fabrication - Industrial West | Bird Construction | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=41add1217c206e9a |
+| Material Coordinator (Fabrication) - Industrial West | Bird Construction | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=a1fa5016faef941f |
+| Talent Acquisition Coordinator | High Tide | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=39f79a3c4e122841 |
+| Talent Acquisition and Onboarding Specialist | Modern Niagara | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4456336625 |
+| HR Advisor - Employee Centre Transactional | Suncor | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474596900 |
+| Talent Acquisition Coordinator | High Tide Inc. | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4472884617 |
+| Customer Care Coordinator | Brookfield Residential | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4464800252 |
+| GIS Analyst | Associated Engineering | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4463923219 |
+| Service Leader | Chipotle Mexican Grill | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474717507 |
+| Payroll & Benefits Specialist | Canadian Energy Insight Inc. | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474718685 |
+| Practice Leader - Geotechnical Engineering | Langan Engineering & Environmental Servi | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4437802652 |
+| Materials Supervisor | Johnson Controls | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473130397 |
+| LOGISTICS MANAGEMENT SPECIALIST (TECHNICAL DATA MANAGEMENT) | Naval Air Warfare Center Training System | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474596872 |
+| January 2027 Supply Chain Co-op - Student (CUL) | ATCO | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4472882634 |
+| Social Worker Consultant | Edmonton Public Schools | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=1c087c4384852f44 |
+| HR Program Coordinator | Rockwood Service Corporation | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=5d8094fe6baf2ac2 |
+| Decor Sales Specialist : Full Time - CHINOOK | The Home Depot Canada | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4464824589 |
+| Selling Specialist - Sephora/Ulta: Calgary | Fresh | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4454105311 |
+| HR Program Coordinator | Rockwood Service Corporation | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4472898044 |
+| Student Development Coordinator, Student Life (Temporary) | NAIT (Northern Alberta Institute of Tech | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474721298 |
+| Corporate Services Coordinator | Long View Systems | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4462548998 |
+| Maintenance Planner (Administrator) | Dexterra Group | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474713169 |
+| Talent Acquisition and Onboarding Specialist | Modern Niagara | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4456348492 |
+| Special Authorization Analyst II – Clinical Drug Services | Alberta Blue Cross | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4463913147 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474719407 |
+| Systems Analyst, Application Development | NAIT (Northern Alberta Institute of Tech | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474706803 |
+| Financial Analyst (Remote | $90 –$110/hr) | Synthires | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473131245 |
+| General Merchandise associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4465828024 |
+| Pro Account Sales Associate: Part-time - COUNTRY HILLS | The Home Depot Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4455481398 |
+| Client Success Associate | Orennia | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4472880667 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4465806942 |
+| Flooring Sales Specialist : Part Time - CHINOOK | The Home Depot Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464817632 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4465817934 |
