@@ -21320,3 +21320,69 @@
 | Associate (West Oak Family Office) | Wellington-Altus | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464598746 |
 | Associate | Richardson Wealth | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4464566966 |
 | FSQR Associate -May 2027 | Cargill | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4463479200 |
+| Contract SCM Analyst | Cenovus Energy | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=720e07858e818cf4 |
+| Tank Monitor Program Coordinator - Contract to Hire | Superior Propane | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=2cd164442147d4f3 |
+| Patient Experience Coordinator | Market Mall Physiotherapy | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=9695aa87d94cd584 |
+| Volunteer Coordinator and Digital Media Strategist | Mennonite Central Committee (MCC) | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=dcb912280d1127b4 |
+| Customer Service Specialist/Administrative Assistant | Empire Barber Supply Inc. | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=c1c586cb8a37d6dd |
+| Planner, Policy & Development | City of Lloydminster | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=35ddabadc74fe5ea |
+| Supply Chain Management Analyst | Brunel | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473395181 |
+| Supply Chain Management (SCM) Analyst | Raise | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475019500 |
+| Commercial Transactions Analyst | InSync Systems | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473384877 |
+| Analyst, Data Control | Parkland Corporation | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473195184 |
+| Service/Parts Advisor | Charger Logistics Inc. | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475029072 |
+| Data Analytics & Automation Advisor (Hybrid) | Calgary Board of Education | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475015458 |
+| Parts Specialist | U-Haul | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475024180 |
+| Operations Coordinator, Terminal & Passenger - Major Project | Calgary Airports | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475022257 |
+| Manufacturing Program Manager | Pentangle Tech Services | P5 Group | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475025517 |
+| Project Coordinator (Municipal Infrastructure) | Chandos Construction | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473390563 |
+| Research Coordinator, Surgery | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474327515 |
+| Advisor - Regulatory Affairs | WestJet | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475010880 |
+| Coordinator, Strategic Initiatives | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4475026849 |
+| Data Management Specialist, Surgery | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473711065 |
+| Business Analyst | Insight Global | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473385155 |
+| Corporate Development Analyst | Calfrac Well Services | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473391596 |
+| Policy Advisor - Continuing Care | Government of Alberta | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473393197 |
+| Research Coordinator, Alberta Children's Hospital Research I | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473591796 |
+| Research Coordinator, Department of Medicine | University of Calgary | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4473711068 |
+| Community Support Worker, casual | DDRC | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=1b3335173e1b10dd |
+| Accountant & Office Administrator | Allied Contractors | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=d13fae0cd3d8477d |
+| Plant Administrator | ATCO | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=f2a3f5ad4c999200 |
+| Administrative Assistant / Front Desk Coordinator (part-time | Invera Flexibles | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=f4a0cb703e6d43f4 |
+| HR Coordinator | Bayshore HealthCare | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=81f4a4c0393db7cd |
+| Recovery Case Manager, Full-time, 6 month contract - Horizon | The George Spady Society | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=76fd06f11efee1f6 |
+| Procurement Coordinator | Leduc County | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=77bcbb32577ffb0b |
+| Project Coordinator | Kichton Construction LP | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=a253f433bb902cba |
+| Administrative Assistant – Appeals & Hearings | ThoughtStorm | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473388339 |
+| Plant Administrator | ATCO Structures | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473397227 |
+| Development Specialist | Calgary Dream Centre | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473391231 |
+| Clinical Administrative Assistant, Administrative Services D | University of Calgary | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473597478 |
+| Associate Clinical Account Specialist – Alberta – Johnson &  | Johnson & Johnson MedTech | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4475031751 |
+| Adoption Counselor - Part Time | Calgary Humane Society | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4475030626 |
+| Associate Wealth Advisor | Canada Life | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473394345 |
+| Mid-Level and Planned Giving Officer | Ronald McDonald House Alberta | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473398311 |
+| Beauty Advisor | L'OCCITANE Group (B Corp) | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473383404 |
+| Indigenous Relations – Cultural Facilitator | Hull Services | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473171908 |
+| Sales (Fitness Advisor) - Calgary Trinity Hills at Olympic P | GoodLife Fitness | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473181224 |
+| Senior Talent Acquisition Advisor, Pacific Link | Trans Mountain | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473804222 |
+| Financial Advisor - Castleridge Centre, AB | Scotiabank | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473390370 |
+| Product Specialist (Central - Western Canada ) - Johnson & J | Johnson & Johnson MedTech | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4475029753 |
+| HSE Programs Coordinator | PCL Construction | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4475030496 |
+| HR Coordinator | Carecor Health Services Ltd. | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4475030533 |
+| Workday Payroll Analyst | EllisDon | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4442188657 |
+| AI & Automation Consultant Associate / Conseiller adjoint en | IBM | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473185327 |
+| Enterprise Application Administrator | DIRTT | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473378663 |
+| Application Support Analyst - Information Technologies | University of Calgary | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475037282 |
+| Junior Process Engineer | Bantrel Co. | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475041190 |
+| Process Engineer | Actalent | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475026209 |
+| Sessional Instructor, Sustainable Energy Development Program | University of Calgary | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475038247 |
+| Sessional Instructor, Sustainable Energy Development Program | University of Calgary | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475023788 |
+| Program Analyst | Government of Alberta | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473387601 |
+| SuccessFactors Technical Administrator | Insight Global | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4473388096 |
+| Quality and Compliance Specialist - Supply Chain | GoodMorning | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4475026707 |
+| Receptionist | Commercial Truck Equipment Co. | 2026-10-02 | G | https://ca.indeed.com/viewjob?jk=1b62673cf81fa59f |
+| Volunteer Program Associate (Parental Leave Cover) | Sagesse Domestic Violence Prevention Soc | 2026-10-02 | G | https://ca.indeed.com/viewjob?jk=e1c4815d119ca4b4 |
+| Customer Service Representative (Motivator) - Calgary Canyon | GoodLife Fitness | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473176447 |
+| Customer Experience Associate - Brentwood Road Branch, AB (2 | Scotiabank | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473396138 |
+| Lumber Sales Associate: Part Time - TUSCANY | The Home Depot Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473384272 |
+| Sales Associate | Sunglass Hut | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473388617 |
