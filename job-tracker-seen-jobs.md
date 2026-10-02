@@ -21194,3 +21194,43 @@
 | 24 - Sales Associate | Part Time | Bath Depot | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472969781 |
 | Customer Service Representative (Motivator) - Calgary Richmo | GoodLife Fitness | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4472965156 |
 | Investment Associate, BMO Nesbitt Burns | BMO | 2026-10-01 | G | https://www.linkedin.com/jobs/view/4461205992 |
+| Receptionist / Office Coordinator | High Tide | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=5c5ad15522ceec9b |
+| Talent Acquisition Specialist | MaKami College | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=f7d4f67b05837d04 |
+| Technology and Facility Support Specialist- UCalgary Continu | University of Calgary | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=5717ecc85315510e |
+| Payroll & Benefits Specialist | PetroChina Canada | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=fb1021be30dc595a |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-10-02 | J | https://ca.indeed.com/viewjob?jk=c23e67330a8ab9cd |
+| Calgary RSC - Administrator Inventory Control | Sobeys | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4472999498 |
+| Human Resources Coordinator | Lanmark | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474575626 |
+| Talent Acquisition Specialist | MaKami College | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474570635 |
+| Senior Surface Land Coordinator | Suncor | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474558858 |
+| Planner Scheduler | Actalent | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474569408 |
+| Customer Experience Lead - Aspen Woods Branch, AB (37.5 hour | Scotiabank | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4472855618 |
+| Reservoir Engineer Specialist | Suncor | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474573196 |
+| Purchasing Agent - Industrial West | Bird Construction | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474560425 |
+| Material Coordinator (Fabrication) - Industrial West | Bird Construction | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474558459 |
+| GOAPRDJP000001031 - Processing Center Advisor | S M Software Solutions Inc | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474564908 |
+| Project Coordinator Fabrication - Industrial West | Bird Construction | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474548927 |
+| Material Coordinator (Fabrication) - Industrial West | Bird Construction | 2026-10-02 | J | https://www.linkedin.com/jobs/view/4474547916 |
+| Shelter Support Case Manager - Week Day Evenings | Radiance Family Society | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=df7056b3840d39f0 |
+| Associate Program Manager, Corporate Training and Internatio | University of Calgary | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=cb4c5f7862e09781 |
+| Junk Removal Specialist | 1-800-GOT-JUNK? | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=31d3ff81465d9142 |
+| Calgary RSC - Administrator Inventory Control | Sobeys | 2026-10-02 | N | https://ca.indeed.com/viewjob?jk=8ec930ca5d0a8f27 |
+| Office Administrator | Ryan | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4472836816 |
+| Branch Office Administrator | Edward Jones | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4472853529 |
+| Mortgage Specialist | BMO | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474581570 |
+| Career Advisor | WCG Services | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4473277383 |
+| Ammunition Specialist | Bass Pro Shops | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474568175 |
+| Board Certified Behaviour Analyst (BCBA / RBA) - Calgary | Monarch House | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474553985 |
+| Project Coordinator Fabrication - Industrial West | Bird Construction | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474554630 |
+| Field Case Manager (12-month Contract) | Cencora | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4470189929 |
+| Junior Payroll/HRIS Coordinator (12-months) | AMA - Alberta Motor Association | 2026-10-02 | N | https://www.linkedin.com/jobs/view/4474569855 |
+| Specialist, Technology Support - Sun-Wed (06:00 am – 04:30 p | Walmart | 2026-10-02 | R | https://ca.indeed.com/viewjob?jk=08d87b55462e0bb6 |
+| Technical Support Analyst, Contract -Remote, Anywhere in Can | ClaimsPro LP | 2026-10-02 | R | https://ca.indeed.com/viewjob?jk=bfdda41fa3ff72d6 |
+| ScotiaMcLeod Branch Systems Administrator | Scotiabank | 2026-10-02 | R | https://ca.indeed.com/viewjob?jk=26f6ae85f5883304 |
+| Production Reporting EIT | Suncor | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474568495 |
+| ScotiaMcLeod Branch Systems Administrator | Scotiabank | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4472867057 |
+| IT Service Desk Analyst (1 year Temporary) | Spartan Controls | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4472862382 |
+| Clinical Systems Analyst | Alignerr | 2026-10-02 | R | https://www.linkedin.com/jobs/view/4474570270 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-02 | G | https://ca.indeed.com/viewjob?jk=74db2f5bcb557569 |
+| Receptionist | Kristian Electric Ltd. | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4472851222 |
+| Sales Associate | Carters Inc. | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4474575108 |
