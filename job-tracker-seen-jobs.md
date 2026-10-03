@@ -21452,3 +21452,20 @@
 | Lumber Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473816642 |
 | (CAN) Modular Team Associate | Walmart Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475055211 |
 | (CAN) Deli Associate | Walmart Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475041801 |
+| Business Tools and Process Integration Specialist | Siemens | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473833807 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Senior Advisor | Alberta Health Services | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473857069 |
+| Fleet Coordinator | Alberta Health Services | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473839776 |
+| Coordinator, EMS Business Standards and Operations Support | Alberta Health Services | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473852241 |
+| Coordinator, EMS Business Standards and Operations Support | Alberta Health Services | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473844476 |
+| Buyer | Ledcor | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475097254 |
+| Business Tools and Process Integration Specialist | Siemens | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473826975 |
+| Accounts Payable Analyst | Morgan Construction and Environmental Lt | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473834652 |
+| Human Resources Coordinator | Parkland County | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=5d50bb44d1c25cda |
+| Fixed Asset Coordinator | Superior Propane | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=6b0b7ea66fc4f112 |
+| Client Advisor | Louis Vuitton | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4475080950 |
+| Business Analyst | ARC BUSINESS SOLUTIONS | 2026-10-03 | R | https://ca.indeed.com/viewjob?jk=fe0c2635d604ac98 |
+| Administrative Support IV | Recovery Alberta | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=1bb10332af5d4a8c |
+| Administrative Support III | Recovery Alberta | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=2c093718d581dfad |
+| Mobile Sales Associate (Seasonal) | Best Buy | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=b178df1bb29e927e |
+| (CAN) Modular Team Associate | Walmart Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475300143 |
