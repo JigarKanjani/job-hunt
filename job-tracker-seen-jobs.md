@@ -21386,3 +21386,69 @@
 | Customer Experience Associate - Brentwood Road Branch, AB (2 | Scotiabank | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473396138 |
 | Lumber Sales Associate: Part Time - TUSCANY | The Home Depot Canada | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473384272 |
 | Sales Associate | Sunglass Hut | 2026-10-02 | G | https://www.linkedin.com/jobs/view/4473388617 |
+| Brokerage Coordinator- Contract | Cushman & Wakefield | 2026-10-03 | J | https://ca.indeed.com/viewjob?jk=82d883a2c47d1563 |
+| Policy Advisor - Continuing Care | Government Of Alberta | 2026-10-03 | J | https://ca.indeed.com/viewjob?jk=95a15c70dad7c8cf |
+| Data Analytics & Automation Advisor (Hybrid) | Calgary Board Of Education | 2026-10-03 | J | https://ca.indeed.com/viewjob?jk=0875dc7bc8d1bda3 |
+| Digital Media Buyer - META | LendingArch | 2026-10-03 | J | https://ca.indeed.com/viewjob?jk=dab36a6bdb1fa7d4 |
+| Buyer/Planner | Canadian Blood Services | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475039836 |
+| Commercial Transactions Analyst | Airswift | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473400059 |
+| Analyst - Business | EECOL Electric | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473197310 |
+| (CAN) Distribution Centre Team Associate - Transportation Op | Walmart Canada | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475055212 |
+| Project Coordinator | Aecon Group Inc. | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473391795 |
+| transportation logistics supervisor | Pritam Transport LTD | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475057256 |
+| Senior Performance Analyst | Cenovus Energy | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475049217 |
+| (CAN) Team Leader, Operations III | Walmart Canada | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475044644 |
+| Brokerage Coordinator- Contract | Cushman & Wakefield | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475058627 |
+| Henry Schein Products Specialist | Henry Schein Canada | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473809085 |
+| Financial Analyst - Graham Capital | Graham | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475053046 |
+| Senior Analyst | Aon | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475053433 |
+| Human Resources Coordinator | Modine Manufacturing Company | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475067327 |
+| Account Specialist | Aon | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475053431 |
+| Operations Training Advisor | UFA | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4471405122 |
+| Business Analyst II - Senior Pharmacy Operations | TELUS | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473812301 |
+| Business Analyst II | TELUS | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4475043845 |
+| Financial Analyst - Early Career Rotation Program | UFA | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473392695 |
+| Team Leader, Children Services | DDRC | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473193408 |
+| Lending Advisor | Alberta Women Entrepreneurs | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473809110 |
+| Procurement Coordinator | Leduc County | 2026-10-03 | J | https://www.linkedin.com/jobs/view/4473193409 |
+| Service Advisor - Crowfoot Hyundai | AutoCanada | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=be8a9a5435cba7a1 |
+| Personal Banking Advisor - Calgary West Springs | ATB Financial | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=37226315f522e332 |
+| Store Administrator, Hourly Full Time Flexible Shifts | Shoppers Drug Mart | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=e676f0adc99f7956 |
+| Coordinator, Events | University of Alberta | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=a92c1fdd40f7131c |
+| People Services Coordinator | Wild Rose School Division | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=6cb720bd7eaa9485 |
+| Office Coordinator | Corrpro Canada | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=14009a556c7c68f9 |
+| Information Coordinator | Government Of Alberta | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=72d174fefefc4648 |
+| Client Advisor | Louis Vuitton | 2026-10-03 | N | https://ca.indeed.com/viewjob?jk=c3292890bcc09ac2 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Intermediate Environmental Specialist | SUMMIT | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473803380 |
+| Client Sales Specialist | W85th Rumble Boxing | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473395528 |
+| Personal Banking Advisor - Calgary 6th Avenue | ATB Financial | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4471245611 |
+| Personal Banking Advisor - Calgary West Springs | ATB Financial | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4475047162 |
+| Senior Analyst, Strategy, Performance & Transformation | NRG Energy | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473404248 |
+| Administrative Assistant - Clinical Trials | University of Alberta | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4475050122 |
+| Coordinator, Events | University of Alberta | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4475039558 |
+| Project Accounting Coordinator | Casman Group | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473391701 |
+| Community Connections Liaison | City of Grande Prairie | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473199082 |
+| Human Resources Coordinator | Parkland County | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473187646 |
+| Administrative Assistant - Senior | NOV | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473185821 |
+| Coordinator, Guest Logistics | CMH Heli-Skiing & Summer Adventures | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473188680 |
+| Process EIT | Exergy Solutions Inc. | 2026-10-03 | R | https://ca.indeed.com/viewjob?jk=cd5cef761196ced3 |
+| Business Banking Analyst – Virtual | CIBC | 2026-10-03 | R | https://ca.indeed.com/viewjob?jk=1ab17c5a3fcad621 |
+| Business Planning Analyst | Government Of Alberta | 2026-10-03 | R | https://ca.indeed.com/viewjob?jk=b022fdd1c36aecae |
+| Data Analyst, Platform Excellence Ops Analytics | Instacart | 2026-10-03 | R | https://ca.indeed.com/viewjob?jk=18ebdb0fdee7596f |
+| Identity Analyst | ATB Financial | 2026-10-03 | R | https://www.linkedin.com/jobs/view/4475047160 |
+| Technology Operations Analyst - Cybersecurity - Dieppe, New  | EY | 2026-10-03 | R | https://www.linkedin.com/jobs/view/4473823366 |
+| Technology Operations Analyst - Cybersecurity - Dieppe, New  | EY | 2026-10-03 | R | https://www.linkedin.com/jobs/view/4473810843 |
+| Product Support Specialist | Finning | 2026-10-03 | R | https://www.linkedin.com/jobs/view/4473804318 |
+| Receptionist | Alberta Boilers Safety Association | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=c1ae614a57095ee9 |
+| Receptionist and Customer Service | Emerald Management & Realty Ltd. | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=de8107b830e806b7 |
+| Scheduler (18-Month Contract) | PCL Construction | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=ffa6f5b5fd71813d |
+| Customer Success Specialist – Call Center | The Gentlemen Pros | 2026-10-03 | G | https://ca.indeed.com/viewjob?jk=7957c90349e58d43 |
+| Switchboard Agent | Pomeroy Lodging | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473198432 |
+| Tool Rental Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473829210 |
+| Sales Associate (Seasonal), Wine and Beyond Signal Hill | SNDL Inc. | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473804408 |
+| Hardware Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473826299 |
+| Millwork Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473820489 |
+| Lumber Sales Associate: Part Time - BEACON HILL | The Home Depot Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4473816642 |
+| (CAN) Modular Team Associate | Walmart Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475055211 |
+| (CAN) Deli Associate | Walmart Canada | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475041801 |
