@@ -21505,3 +21505,11 @@
 | Advisor, Corporate Services | Regional Municipality of Wood Buffalo | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4475385609 |
 | Community Investment Coordinator | Regional Municipality of Wood Buffalo | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4475394055 |
 | Recreation Coordinator | Regional Municipality of Wood Buffalo | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4475376847 |
+| Financial Systems Analyst | Ecolab | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4454318079 |
+| SAP Program Manager- Infosys Consulting | Infosys | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4464720638 |
+| AI Learning Services Specialist (LSS) - Learning and Develop | EY | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4454669749 |
+| Lead Supervisor I | Coach | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4473489520 |
+| Aquatic Resource Specialist | Hatch | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4456287908 |
+| AI Learning Services Specialist (LSS) - Learning and Develop | EY | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4454672711 |
+| Supervising Associate - Learning and Development, Learning S | EY | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4454662795 |
+| SEO Analyst (Remote, Edmonton) | Blacksmith Agency | 2026-10-04 | R | https://www.linkedin.com/jobs/view/4475503578 |
