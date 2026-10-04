@@ -21501,3 +21501,7 @@
 | (CAN) Meat Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475344682 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475357320 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475357318 |
+| Service Leader | Chipotle Mexican Grill | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4466755493 |
+| Advisor, Corporate Services | Regional Municipality of Wood Buffalo | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4475385609 |
+| Community Investment Coordinator | Regional Municipality of Wood Buffalo | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4475394055 |
+| Recreation Coordinator | Regional Municipality of Wood Buffalo | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4475376847 |
