@@ -21483,3 +21483,21 @@
 | Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-03 | N | https://www.linkedin.com/jobs/view/4473850938 |
 | Identity Analyst | ATB Financial | 2026-10-03 | R | https://www.linkedin.com/jobs/view/4475303685 |
 | Sales Associate-2 | TORY BURCH | 2026-10-03 | G | https://www.linkedin.com/jobs/view/4475306969 |
+| Senior Business Analyst, Program Communications | ORIGNIX Inc | 2026-10-04 | J | https://ca.indeed.com/viewjob?jk=c3ff3386b23c8415 |
+| Senior Business Analyst, Program Communications | ORIGNIX Inc. | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4473881413 |
+| IT Specialist | Parkland Corporation | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4473457301 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4475360072 |
+| Administrative Assistant | University nuhelot’įne thaiyots’į nistam | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4473885358 |
+| (CAN) Stock Unloader Associate | Walmart | 2026-10-04 | G | https://ca.indeed.com/viewjob?jk=364b28b03e9f0533 |
+| (CAN) Meat Associate | Walmart | 2026-10-04 | G | https://ca.indeed.com/viewjob?jk=f68a3b3fa3a8ddc1 |
+| (CAN) Meat Associate | Walmart | 2026-10-04 | G | https://ca.indeed.com/viewjob?jk=35a2d9f576accf79 |
+| Asset Protection Associate (NEED SECURITY LICENSE) | Walmart | 2026-10-04 | G | https://ca.indeed.com/viewjob?jk=f01b81b817c4d467 |
+| Mobile Sales Associate (Seasonal) | Best Buy Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4473435340 |
+| (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475354378 |
+| (CAN) Deli Bakery Team Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475344681 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475355346 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475353377 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475342741 |
+| (CAN) Meat Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475344682 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475357320 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475357318 |
