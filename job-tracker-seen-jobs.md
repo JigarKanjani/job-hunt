@@ -21513,3 +21513,7 @@
 | AI Learning Services Specialist (LSS) - Learning and Develop | EY | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4454672711 |
 | Supervising Associate - Learning and Development, Learning S | EY | 2026-10-04 | N | https://www.linkedin.com/jobs/view/4454662795 |
 | SEO Analyst (Remote, Edmonton) | Blacksmith Agency | 2026-10-04 | R | https://www.linkedin.com/jobs/view/4475503578 |
+| Senior Media Buyer - META | LendingArch | 2026-10-04 | J | https://ca.indeed.com/viewjob?jk=87aca6fc3624e79a |
+| Social Media Marketing - Media Buyer | LendingArch | 2026-10-04 | J | https://ca.indeed.com/viewjob?jk=9b7ae687f4b46bd8 |
+| Team Lead, Senior Cost Controller | WSP in Canada | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4429659870 |
+| Sales Associate | Staples Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475504747 |
