@@ -21519,3 +21519,61 @@
 | Sales Associate | Staples Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475504747 |
 | Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4451216858 |
 | Junior Homecare advisor | Avalon Construction Ltd. | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474222232 |
+| SCM Specialist | COSL Canada Ltd. | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=8ff898db390df3d4 |
+| Junior Buyer | Canlin Energy Corporation | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=5f6816217ddfac5d |
+| Project Coordinator - Telecommunications Construction | BAAC | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=dd272205b7ca085d |
+| Integrated Case Manager | Calgary Communities Against Sexual Abuse | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=f44fbbcc548249ef |
+| Senior Advisor- Accreditation | Alberta Health Services | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=b00ed398da232492 |
+| Permitting/Design Coordinator - Telecommunications | BAAC | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=b8b8ac84b421d499 |
+| Customer Service Specialist (FOH-Calgary) | Kitchen hub | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=cb5770e697877a2c |
+| Procurement Manager | Victor Energy | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=67e5ae6cb55df07b |
+| Procurement Manager | Victor Energy | 2026-10-05 | J | https://ca.indeed.com/viewjob?jk=e471f6d965ceadc3 |
+| Procurement Manager | Victor Energy | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475881427 |
+| Project Controls Specialist | Hatch | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4474654033 |
+| Senior Business Analyst | MatchBox Consulting Group | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475894207 |
+| Measurement Specialist | SECURE | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475894501 |
+| Junior Project Controls Specialist | Tetranex Solutions Inc. | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4473698443 |
+| Senior Business Analyst | Insight Global | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4474630554 |
+| Analyst/Associate | Kanin Energy | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4474612914 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Technical Analyst | Co-operators | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475889091 |
+| L’analyste technique | Co-operators Assurance et services finan | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4474612994 |
+| Intelligence Analyst, Investigations | CIRO / OCRI | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4473962349 |
+| Senior Technical Support Analyst | Parkland Corporation | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4473692459 |
+| Artificial Intelligence Specialist | Robert Half | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4474642488 |
+| Project Accountant Lead | FLINT Corp. | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475880801 |
+| Procurement Manager | Victor Energy | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4475876737 |
+| Materials Supervisor | Johnson Controls | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4473693386 |
+| Community Access - Community Support Worker | Columbia Training Centre | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=eb6da4057dfa1a91 |
+| Community Support Worker ( Part Time ) | new age services | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=0847626edaeb1e6d |
+| Coordinator, Administration | Regional Municipality of Wood Buffalo | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=da0c065292c54e5e |
+| Field Case Manager - 12 Months Contract | Cencora | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=56dfa4107e480640 |
+| Volunteer Services Coordinator | Red Deer Food Bank Society | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=a23f33e809197751 |
+| Sales and Account Coordinator - Grower Products | Beaver thermal solutions | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=25f005ea5380e01d |
+| Warranty Coordinator | Daytona Homes | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=97beb453be4dd172 |
+| Administrative Coordinator | GFI Solutions Ltd. | 2026-10-05 | N | https://ca.indeed.com/viewjob?jk=6a6babcc1b378e5f |
+| Administrative Assistant | Swim Recruiting | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474630575 |
+| Designated Beauty Advisor - Armani | Holt Renfrew | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474633237 |
+| Sales Specialist | Jaguar Land Rover Royal Oak | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474618993 |
+| Tailings Geochemistry Specialist | Canadian Natural Resources Limited (CNRL | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4470722425 |
+| Policy Advisor | CIRO / OCRI | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4475884165 |
+| Senior Regulatory Analyst, Registrant Oversight | Alberta Securities Commission | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4475879463 |
+| Project Coordinator (Fabrication Shop) | Aecon Group Inc. | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474628974 |
+| Project Coordinator | Ameresco | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474642268 |
+| Donor Engagement Specialist | Concordia University of Edmonton | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4473680945 |
+| Quality Coordinator | Iconic Power Systems Inc. | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4465336139 |
+| Administrator, Training (Contract) | Trans Mountain | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474627809 |
+| Administrative Assistant I (ID: 56182) | City of Edmonton | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4473692634 |
+| Change Management Analyst | Swim Recruiting | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474630596 |
+| Service Administrator | Wajax | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4475886548 |
+| Client Service Administrator - Medicine Hat, AB | HearingLife Canada | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474630917 |
+| Automotive Product Specialist | Capital Automotive Group | 2026-10-05 | R | https://ca.indeed.com/viewjob?jk=f8916fca5d83a55d |
+| Branch Administrator - Temporary | Government Of Alberta | 2026-10-05 | R | https://ca.indeed.com/viewjob?jk=94ca73cbf2fcf597 |
+| Business Intelligence Consultant | Indotronix Avani Group | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4474631354 |
+| Research Platform Cloud Designer -Information Technologies | University of Calgary | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4475881370 |
+| SOC Analyst (Night Shift) | ATCO | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4474622658 |
+| Software Implementation Specialist | CATALIS | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4475882841 |
+| Enterprise Data Systems Analyst | NAIT (Northern Alberta Institute of Tech | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4475868575 |
+| Information Technology Analyst | FIKA Company | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4474625665 |
+| Receptionist - Casual | CBI HEALTH | 2026-10-05 | G | https://ca.indeed.com/viewjob?jk=79430a24a2ea5af8 |
+| Sales Associate | SNDL Inc. | 2026-10-05 | G | https://www.linkedin.com/jobs/view/4474649064 |
