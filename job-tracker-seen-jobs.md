@@ -21517,3 +21517,5 @@
 | Social Media Marketing - Media Buyer | LendingArch | 2026-10-04 | J | https://ca.indeed.com/viewjob?jk=9b7ae687f4b46bd8 |
 | Team Lead, Senior Cost Controller | WSP in Canada | 2026-10-04 | J | https://www.linkedin.com/jobs/view/4429659870 |
 | Sales Associate | Staples Canada | 2026-10-04 | G | https://www.linkedin.com/jobs/view/4475504747 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-05 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Junior Homecare advisor | Avalon Construction Ltd. | 2026-10-05 | N | https://www.linkedin.com/jobs/view/4474222232 |
