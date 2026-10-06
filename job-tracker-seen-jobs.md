@@ -21577,3 +21577,16 @@
 | Information Technology Analyst | FIKA Company | 2026-10-05 | R | https://www.linkedin.com/jobs/view/4474625665 |
 | Receptionist - Casual | CBI HEALTH | 2026-10-05 | G | https://ca.indeed.com/viewjob?jk=79430a24a2ea5af8 |
 | Sales Associate | SNDL Inc. | 2026-10-05 | G | https://www.linkedin.com/jobs/view/4474649064 |
+| Inventory Analyst | Johnson Controls | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=ebaced5442d5b858 |
+| Client Account Specialist | McCarthy Tétrault | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=73844b20c9f0bddf |
+| Building Products Customer Support Specialist | Zurn Elkay Water Solutions | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4457191096 |
+| Senior Compensation Advisor | GHD | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4457173378 |
+| Governance & Implementation Advisor (Contract) | Trans Mountain | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4470710709 |
+| IT Lead Specialist - Enterprise Infrastructure Intelligence  | Parkland Corporation | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476166237 |
+| Inventory Analyst | Johnson Controls | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474037948 |
+| SERVICE ADVISOR | Mercedes-Benz Country Hills | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474903204 |
+| Intermediate/Senior Environmental Specialist | Canadian Energy Insight Inc. | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476157926 |
+| Operations Coordinator | Rockwood Service Corporation | 2026-10-06 | R | https://ca.indeed.com/viewjob?jk=b64f953f4e0f7a2d |
+| Overnight Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4458537145 |
+| Overnight Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4467206948 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4458528324 |
