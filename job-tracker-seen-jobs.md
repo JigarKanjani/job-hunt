@@ -21590,3 +21590,72 @@
 | Overnight Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4458537145 |
 | Overnight Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4467206948 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4458528324 |
+| Purchasing Agent | Sancon Contracting Ltd | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=25ccaca9245f9321 |
+| Co-op Winter 2027 Engineering Project Coordinator - 8-16 Mon | General Dynamics Mission Systems | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=831de280d8554f8c |
+| (CAN) Specialist, People (Calgary/Rocky View) 6 Month Contra | Walmart | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=25a7e267b0fc821d |
+| Lead Wedding Coordinator | Melissa Alison Events | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=bf4109f4dacf77f1 |
+| Supply Chain Manager | Sirius Instrumentation and Controls Inc. | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=d045fe62c863e218 |
+| Senior Workday Integration Analyst | Medavie | 2026-10-06 | J | https://ca.indeed.com/viewjob?jk=cfa393dec151010e |
+| Energy Supply Chain Consultant (Graduate, 2027) - Calgary | Wood Mackenzie | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4467204736 |
+| Inventory Control Coordinator | Metro Supply Chain | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476313941 |
+| Lead Specialist – IT SAP | Parkland Corporation | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474977911 |
+| Co-op Winter 2027 Engineering Project Coordinator - 8-16 Mon | General Dynamics Mission Systems–Canada | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476335262 |
+| Lead Specialist – IT SAP | Parkland Corporation | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474982607 |
+| Applications Specialist (Electrical Switchgear Estimator) | SABRE LTD | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474619296 |
+| Project Coordinator, Highway Maintenance | Ledcor | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4475815973 |
+| Office Services Coordinator | McKinsey & Company | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476331628 |
+| Paid Media Specialist | STRIDE Management Corp | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4467745344 |
+| Technical Sales Specialist | ML6 Search + Talent Advisory | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474072904 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Business Analyst | Tata Consultancy Services | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474975237 |
+| Business Analyst, Implementation | TELUS Health | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476314958 |
+| AI Continuous Improvement Specialist | Evans | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474975287 |
+| Analyste de l’information | CIRO / OCRI | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474551228 |
+| Greenhouse Experience Specialist | Deloitte | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4467435157 |
+| (CAN) Specialist, People (Calgary/Rocky View) 6 Month Contra | Walmart Canada | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4476339490 |
+| Clinical Implementation Specialist, Technology | Dentsply Sirona | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474994128 |
+| Site Service Automation Specialist | Schneider Electric | 2026-10-06 | J | https://www.linkedin.com/jobs/view/4474978835 |
+| Community Link Worker | Unison at Veiner Centre | 2026-10-06 | N | https://ca.indeed.com/viewjob?jk=a5763db0fe010fbc |
+| Administrative Coordinator | Henderson Lake Golf Course | 2026-10-06 | N | https://ca.indeed.com/viewjob?jk=683e6a42093b2388 |
+| Communications Coordinator | Alberta Beverage Container Recycling Cor | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474976762 |
+| Clinical Implementation Specialist, Technology | Dentsply Sirona | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474974959 |
+| Legal Administrative Assistant | Confidencial | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476345023 |
+| Administrative Assistant - Intermediate | BITS Recruiting | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476340511 |
+| Trust Administrator | CIBC | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476334438 |
+| Network Deployment Analyst | Charter | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4467209702 |
+| Sales Advisor, Education (Admissions) | NIWE Academy | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4473807053 |
+| Marketing & Communications Specialist | Canadian Bar Association - Alberta Branc | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474983277 |
+| Senior Technical Support Analyst / Analyste principal(e) du  | Parkland Corporation | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474084222 |
+| Test Specialist - PCL | Ecolab | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4467430932 |
+| Research Analyst/HTA Unit, Community Health Sciences | University of Calgary | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476327224 |
+| Geologist – Sedimentologist & Stratigrapher Specialist | North American Helium, Inc | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474969262 |
+| Indigenous Health Education Coordinator | University of Alberta | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476330407 |
+| Learning Services Specialist - Assurance - 18 Month Contract | EY | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4457407278 |
+| Animal Ethics and Compliance Coordinator | University of Alberta | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476326693 |
+| Well Being and Index Project Coordinator | Siksika Health Services | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474984253 |
+| Recruitment Specialist – High-Volume Hiring | Remote | Dawn Recruiting Agency | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474080435 |
+| Case Manager (Remote) | Sentrex Health Solutions | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474995118 |
+| Fraud Prevention Advisor, Remote | Desjardins | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4465251942 |
+| Administrative Assistant | RBC Wealth Management | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4474990000 |
+| Branch Administrator | Raymond James Ltd. | 2026-10-06 | N | https://www.linkedin.com/jobs/view/4476337221 |
+| Service Desk Technician - Casual Part Time | Calgary Stampede | 2026-10-06 | R | https://ca.indeed.com/viewjob?jk=55822692e70158e2 |
+| Junior Business Analyst | Government Of Alberta | 2026-10-06 | R | https://ca.indeed.com/viewjob?jk=7e5784276c27ebc8 |
+| Research & Enrolment Analyst (Temporary) | University of Alberta | 2026-10-06 | R | https://ca.indeed.com/viewjob?jk=e9730998e18e09f4 |
+| IT Support | Sage Plus Clinical Pharmacy | 2026-10-06 | R | https://ca.indeed.com/viewjob?jk=f8187f16a50c8f14 |
+| SAP ISU Business Analyst | Tata Consultancy Services | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474997145 |
+| Systems Administrator - Specialist | Calgary Co-op | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474983412 |
+| Application Administrator | MatchBox Consulting Group | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4476333675 |
+| SRE Application Support Developer | Tekgence Inc | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474973413 |
+| IT Support Technician | Modern Niagara | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4476347008 |
+| Sr Specialist, IT Cybersecurity | Parkland Corporation | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474068942 |
+| Data Analyst | Mars | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4466177077 |
+| Research & Enrolment Analyst (Temporary) | University of Alberta | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4476331372 |
+| Site Service Automation Specialist | Schneider Electric | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474976974 |
+| Change Management Analyst | BuzzClan | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474075925 |
+| Change Management Analyst | Global Pharma Tek | 2026-10-06 | R | https://www.linkedin.com/jobs/view/4474991307 |
+| Systems Administrator - Specialist | Calgary Co-operative Association Limited | 2026-10-06 | G | https://ca.indeed.com/viewjob?jk=9a23060d8ce2bc21 |
+| AI Continuous Improvement Specialist | Arcadia Group | 2026-10-06 | G | https://ca.indeed.com/viewjob?jk=56db458078ff7fcd |
+| Associate Wealth Advisor | National Bank of Canada | 2026-10-06 | G | https://ca.indeed.com/viewjob?jk=100e577df3245804 |
+| Union Labour Relations Officer | United Food and Commercial Workers Local | 2026-10-06 | G | https://ca.indeed.com/viewjob?jk=39283b49d1584f5a |
+| Receptionist | ABSA, the pressure equipment safety auth | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4476351082 |
+| Recruitment Specialist | Inspired HR Ltd | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4476351286 |
