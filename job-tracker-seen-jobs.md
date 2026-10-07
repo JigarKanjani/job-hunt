@@ -21659,3 +21659,14 @@
 | Union Labour Relations Officer | United Food and Commercial Workers Local | 2026-10-06 | G | https://ca.indeed.com/viewjob?jk=39283b49d1584f5a |
 | Receptionist | ABSA, the pressure equipment safety auth | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4476351082 |
 | Recruitment Specialist | Inspired HR Ltd | 2026-10-06 | G | https://www.linkedin.com/jobs/view/4476351286 |
+| Operations Coordinator | InterPro Pipe + Steel | 2026-10-07 | J | https://www.linkedin.com/jobs/view/4467932617 |
+| (CAN) Digital Fulfillment Team Lead | Walmart Canada | 2026-10-07 | J | https://www.linkedin.com/jobs/view/4459064796 |
+| Senior Project Coordinator | Chandos Construction | 2026-10-07 | J | https://www.linkedin.com/jobs/view/4466821266 |
+| Operations Coordinator | InterPro Pipe + Steel | 2026-10-07 | J | https://www.linkedin.com/jobs/view/4467927656 |
+| Facilities Administrator | Actalent | 2026-10-07 | N | https://www.linkedin.com/jobs/view/4475180859 |
+| Rehabilitation Service Specialist - Kinesiologist or Related | Lifemark Health Group | 2026-10-07 | N | https://www.linkedin.com/jobs/view/4437620730 |
+| Communications Administrative Officer | Covenant Health Canada | 2026-10-07 | N | https://www.linkedin.com/jobs/view/4475411469 |
+| Co-op, Project Coordinator (Kearl) | North American Construction Group | 2026-10-07 | R | https://ca.indeed.com/viewjob?jk=d0632e65db72c0e4 |
+| Process Safety Engineer | Airswift | 2026-10-07 | R | https://www.linkedin.com/jobs/view/4476593371 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-07 | G | https://www.linkedin.com/jobs/view/4467799680 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-07 | G | https://www.linkedin.com/jobs/view/4467797704 |
