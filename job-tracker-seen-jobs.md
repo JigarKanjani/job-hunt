@@ -21758,3 +21758,25 @@
 | SALES ASSOCIATE - CALL IT SPRING | ALDO Group | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=d6d61c337b206d83 |
 | (CAN) General Merchandise Associate | Walmart | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=ace4bc2f102753ae |
 | Stock Associate | EQ3 Ltd | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=05b36272e9efe90f |
+| Service Desk Specialist | Calgary Board Of Education | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=99ea17a176094a4d |
+| Analyst/Associate, Corporate Banking, Structuring and Execut | ATB Financial | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475365916 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477177011 |
+| (CAN) Stocking 3 Team Lead | Walmart Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4448641352 |
+| Course Coordinator | 360training.com | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=29a6607b4b89a3bf |
+| Accounts Payable/Receivable Administrator | Dilawri Group of Companies | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4433874686 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475958125 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=4688bbde08b17ae2 |
+| IT Help Desk Technician (Edmonton, AB | On-Site) | West Edmonton Mall Property Inc. (West E | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4460122922 |
+| Service Desk Analyst - Tier 2 | Yardstick Technologies Inc. | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4449082272 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477167534 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477172332 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477164577 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477171342 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477174230 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477168515 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477172328 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477167533 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477162615 |
+| (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477162614 |
+| Administrative Support IV | Alberta Health Services | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=f21587e1bdaa3dea |
+| Leasing Agent | Centurion Associates Inc | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475940585 |
