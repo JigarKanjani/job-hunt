@@ -21721,3 +21721,40 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4476948517 |
 | Stock Associate | EQ3 | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475702646 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4476942637 |
+| Development Coordinator, Development & Alumni | University of Calgary | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=da51d6501349bd67 |
+| Marketing and Communications Specialist, Faculty of Social W | University of Calgary | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=0f06b7b798e77912 |
+| Team Lead, Fleet Engineering | Enmax | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=368a58bb17a20714 |
+| Junior Events Coordinator | Castle Mountain Resort Inc. | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=69964048d721dcf3 |
+| IT Field Services Analyst (Go Auto Corporate) | Go Auto | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=6e839bc2bacfa301 |
+| Inbound/Outbound Coordinator | ROBINSON | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476985152 |
+| Contracts Advisor | Raise | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476963886 |
+| Inbound Team Lead | ROBINSON | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476986180 |
+| Research Analyst (Contract) | ECO Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476977710 |
+| Junior Document Control Coordinator | WSP in Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475719712 |
+| Team Lead, Fleet Engineering | ENMAX | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475730225 |
+| Advanced Metering Grid Operations Engineer | ENMAX | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475726290 |
+| Educational Assistant Practicum Coordinator | MaKami College | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476971803 |
+| Senior Business System Analyst (Order Management) (Canada Re | Motorola Solutions | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476971644 |
+| Auto Body Parts Coordinator (Sherwood Park) | Boyd Autobody & Glass | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475712955 |
+| Faculty Administrative Assistant, Research and Administrativ | University of Calgary | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=8729a8ffa2f77a14 |
+| Corporate Tax Advisor | FBC Farm and Small Business Tax Consulta | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=32154d6c336011d3 |
+| Sales Coordinator 12-Month Contract | Tree of Life Canada | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=ee6074e45ecdf028 |
+| Marketing & Business Development Specialist (Marketing Depar | Fasken | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475717628 |
+| Faculty Administrative Assistant | MaKami College | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476968815 |
+| HSE Advisor | The Cahill Group | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476990690 |
+| UPDATED Disability Service Worker with Overnight Awake Sched | Taproot Community Support Services | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475724435 |
+| Disability Services Worker, Full-Time | Taproot Community Support Services | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475732334 |
+| Sentence Administrator | Government of Alberta | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475725525 |
+| Prentiss Site Administrative Specialist | Dow | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4474488770 |
+| Specialist I, Quality Assurance (Quality Systems) | NoxPharm | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475730838 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=288af157eef564d8 |
+| Business Excellence Project Coordinator | Siemens | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=6be6c17f24795ef0 |
+| Business Excellence Project Coordinator | Siemens | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=9a1e5d270f341ea8 |
+| Clinical Trial Delivery Trainer | Indero | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=7efda8e305971021 |
+| Co-Op, SHE&S Data, Reporting & Systems | Nutrien | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4474808751 |
+| Mobile Application Store Analyst | Government of Alberta | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4475719772 |
+| Building Estimating Specialist | Promise Robotics | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4476973671 |
+| Project Development Analyst | STRT | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477108005 |
+| SALES ASSOCIATE - CALL IT SPRING | ALDO Group | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=d6d61c337b206d83 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=ace4bc2f102753ae |
+| Stock Associate | EQ3 Ltd | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=05b36272e9efe90f |
