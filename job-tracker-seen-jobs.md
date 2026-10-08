@@ -21670,3 +21670,54 @@
 | Process Safety Engineer | Airswift | 2026-10-07 | R | https://www.linkedin.com/jobs/view/4476593371 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-07 | G | https://www.linkedin.com/jobs/view/4467799680 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-07 | G | https://www.linkedin.com/jobs/view/4467797704 |
+| Procurement Specialist | Sabre Ltd | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=4cc4ce5992839c00 |
+| Lead Process Engineer (P. Eng) | Federation Engineering | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=1278f14024d180bd |
+| Marketing & Business Development Specialist (Marketing Depar | Fasken | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=99556414be7974e7 |
+| Health, Safety & Fleet Coordinator | Integrated Geomatics | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=510a953404eaf3d1 |
+| Service Desk Analyst | PARTS FOR TRUCKS | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=4cf52ae3605af472 |
+| Data Analyst | Calgary Homeless Foundation | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=5a85c4fb30c9b367 |
+| Digital Marketing Specialist | ENA2 Innovative Consulting Inc. | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=658a43566ff180ef |
+| Operations Supervisor (12 month Contract) | McKesson | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=5c9a77d63b139041 |
+| Operations Delivery Lead, Inventory Control | WHSmith | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=a43ded4680e002ed |
+| Commercial Transactions Analyst (Crude Oil / NGL) | Manpower | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475494751 |
+| Financial Analyst - Calgary, AB | Strad Inc | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476949433 |
+| Service Coordinator | Hercules Crane & Lifting Supplies | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476946166 |
+| Contract & Proposal Coordinator | FLINT Corp. | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476932834 |
+| Senior Analyst, Financial Planning & Analysis | TransAlta | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476932975 |
+| Sr Talent Acquisition Advisor | Co-operators | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476930657 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Turnaround Planner | Airswift | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4474471937 |
+| Enforcement Intelligence Analyst | Alberta Securities Commission | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476922850 |
+| Intermediate Data Management Specialist, Oncology | University of Calgary | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476379652 |
+| Financial Regulatory and Liability Advisor | Pembina Pipeline Corporation | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476939725 |
+| Sr Advisor, Enterprise Finance Planning & Analysis (FP&A) | Enbridge | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4474485383 |
+| Development Coordinator, Development & Alumni | University of Calgary | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476934406 |
+| Part-Time Key Lead (Mission) | Knix | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476918951 |
+| Banking Officer, Mutual Fund Service Desk | BMO | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4468890631 |
+| Lead Hand | RWC Systems | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475497968 |
+| Research Analyst (Contract) | Careers at ECO Canada | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=ce9d3e9aa6f331b5 |
+| Case Management Counsellor | Catholic Social Services | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=64821c487b3d1d72 |
+| Senior Case Manager (SCM) 12 month Contract | PSPSync | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=20e514e830e3a977 |
+| Project Coordinator | Compugen Inc | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=d9ebe00a732f7325 |
+| Marketing and Communications Specialist, Faculty of Social W | University of Calgary | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476924865 |
+| Administrative Assistant | Raymond James Ltd. | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476932848 |
+| Faculty Administrative Assistant, Research and Administrativ | University of Calgary | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476937216 |
+| Private Banking Officer, Sales | BMO | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476933426 |
+| Sr. Advisor Data Modernization | Enbridge | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4474474759 |
+| Project Coordinator | Flynn Group of Companies | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475708049 |
+| Service Administrator Field Service Operations | Finning | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475498611 |
+| Paralegal and Governance Coordinator | RECRUITMENT PARTNERS INC. | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476950410 |
+| Administrator | Skydancer Indigenous Cultural Centre | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475494823 |
+| Workday HCM Integration Developer || Remote _ Canada || Cont | Realign | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=3457de920a2f2f8d |
+| Project Coordinator | Aplin Martin | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=bd6900e940a1d0bc |
+| Key Account Specialist, Quarry Park | Mark's | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4476951794 |
+| Facility & Space Plan Analyst | University of Alberta | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4476947259 |
+| Specialist Solution Management-CA | CN | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4475497280 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=31133818ac0c3a47 |
+| Parts Sales and Aftermarket Customer Service | Midwest Engineering (AB) Ltd. | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=6151a71a71573c8f |
+| (CAN) Meat Associate | Walmart | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=c547ab240ce5b112 |
+| Future Opportunities – Administration & Customer Service | Avenue Living Residential | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475704640 |
+| General Merchandise Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4476958051 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4476948517 |
+| Stock Associate | EQ3 | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475702646 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4476942637 |
