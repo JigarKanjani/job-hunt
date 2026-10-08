@@ -21780,3 +21780,60 @@
 | (Remote) Support Analyst | Harris Computer | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477162614 |
 | Administrative Support IV | Alberta Health Services | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=f21587e1bdaa3dea |
 | Leasing Agent | Centurion Associates Inc | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475940585 |
+| Student Finance Coordinator - Services | Graham Construction | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=36a607b672646930 |
+| Analyst/Associate | Kanin Energy Inc. | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=baf838098fc77144 |
+| Auto Claims Advisor – TD Insurance Auto Centre (Calgary NW O | TD | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=600f65160264c6d9 |
+| Environmental Planner | Dillon Consulting Limited | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=d74ab76e756bceea |
+| Surgical Coordinator | Clearpoint Health Network | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=29e9023f72863cb7 |
+| IT Support Specialist | WalterFedy | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=65c682f53d06b5f8 |
+| Event Technical Lead- BMO Center, Calgary | Encore Global | 2026-10-08 | J | https://ca.indeed.com/viewjob?jk=831fd4bd5f993d3d |
+| Contract Advisor | Adecco | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475984621 |
+| Business Operations Specialist | Bayer | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477440897 |
+| Events & Partnerships Coordinator | Clio | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4476204109 |
+| Senior Data & IT Business Office Advisor | Cenovus Energy | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477418482 |
+| Senior Real Estate Analyst, Development (Western Canada) | Canadian Tire Corporation | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477441248 |
+| Accounts Payable Specialist (1-Year Contract) | Cassels Brock & Blackwell LLP | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477429610 |
+| Talent Aquisition Advisor | Keyera | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475995511 |
+| Talent Acquisition Specialist | Dentalcorp | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475125936 |
+| Senior Regulatory Analyst | South Bow | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475973844 |
+| (CAN)  Distribution Centre Team Associate - Operations - HVD | Walmart Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477425261 |
+| (CAN)  Distribution Centre Team Associate - Operations - HVD | Walmart Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477415744 |
+| (CAN)  Distribution Centre Team Associate - Operations - HVD | Walmart Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477425253 |
+| Junior Materials Testing Technician | EXP | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4422437697 |
+| Environmental Planner | Dillon Consulting Limited | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477435299 |
+| Account Lead | CBI Health | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477447038 |
+| Payroll Team Lead | Aston Carter | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4474851090 |
+| Senior Casualty Claims Specialist – Aviva Business Insurance | Aviva Canada | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4475978473 |
+| Operations Supervisor  (12 month Contract) | McKesson | 2026-10-08 | J | https://www.linkedin.com/jobs/view/4477402948 |
+| Patient Appointment Confirmation Coordinator Position | Cloudbreak University District | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=12f9c46cd6fb1ddc |
+| Intake Engagement Worker | YWCA Calgary | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=52d20e781b8a3b8b |
+| Virtual Part-Time Social Worker for Spartan Wellness | HR Covered | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=873ab8783431349f |
+| Social Worker | University of Alberta | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=11b1b0df202cb161 |
+| S2627-78 Early Childhood Division Assistant Coordinator | Northern Lights Public Schools | 2026-10-08 | N | https://ca.indeed.com/viewjob?jk=4e74c72c4f730bdc |
+| Administrative Assistant, Assurance and Accounting | MNP | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4448560518 |
+| Wealth Advisor, Employee Accounts | Connor, Clark & Lunn Private Capital Ltd | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4477436908 |
+| Marketing Specialist | Storie Media Inc. | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475975810 |
+| Senior Specialist, Facility Decommissioning & Abandonment | Alberta Energy Regulator (AER) | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4477434626 |
+| S2627-78 Early Childhood Division Assistant Coordinator | Northern Lights Public Schools | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4475995655 |
+| Coordinator, Operations - CAN - AB - Fort Mcmurray - Tiagano | AlumaSafway | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4477426824 |
+| HR Specialist | Alsco Uniforms | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476204140 |
+| Jr High and High School Office Administrator | STEM Collegiate | 2026-10-08 | N | https://www.linkedin.com/jobs/view/4476206232 |
+| Business Analyst - FIN | Government Of Alberta | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=57b0ffbdabe986b2 |
+| Business Analyst | Valsoft | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=5ee95f488910bf77 |
+| Business Intelligence Analyst | WorkSafeNB | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=0248b82bae9d908f |
+| Data Analyst | datt | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=189dbd7ca535bf87 |
+| Junior GIS Analyst | Canacre LTD | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=f7d2c68e659785eb |
+| January 2027 Business Analyst (Pension) | Elk Valley Resources | 2026-10-08 | R | https://ca.indeed.com/viewjob?jk=2bef4364598808c5 |
+| Salefoce Developer | Cloud Data Vision | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4475996134 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4477417532 |
+| Application Developer | Primoris Services Corporation | 2026-10-08 | R | https://www.linkedin.com/jobs/view/4473970169 |
+| Front Desk Representative | The Inner Wellness | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=33a214a06ebc305b |
+| Payroll Specialist | Intercare Corporate Group | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=abc3d2562c80044b |
+| Talent Aquisition Advisor | Keyera Corp | 2026-10-08 | G | https://ca.indeed.com/viewjob?jk=8c4e9a86b727109f |
+| Client Associate, Hayward Investment Group | CIBC Wood Gundy | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477429776 |
+| GYMVMT Front Desk Associate - Calgary Canyon Meadows | GoodLife Fitness | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4474843607 |
+| Project Controller Student | Hatch | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4475987461 |
+| (CAN) Meat Associate PART TIME | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477418679 |
+| (CAN) Stocking 1 Team Associate PART TIME | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477423510 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477408984 |
+| Overnight Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477410910 |
