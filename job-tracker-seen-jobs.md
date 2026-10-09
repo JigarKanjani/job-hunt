@@ -21946,3 +21946,53 @@
 | Animal Care Technician, Office of the Associate Dean (Resear | University of Calgary | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=30cf5f5bd913bc87 |
 | Personal Banking Associate Trainee | TD | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4465348206 |
 | Project Scheduler | MasTec Purnell Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477832313 |
+| Service Writer/Parts Coordinator | Westvac Industrial Ltd. | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=7a19c881f94e3d42 |
+| Sales and Install Coordinator | Action Furnace | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=b9a92124e8771adb |
+| Technical Infrastructure Analyst, Junior | General Dynamics Mission Systems | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=acd934ee226c28a8 |
+| Construction Technology Specialist | Deveraux Group of Companies | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=455a3cef6485a482 |
+| Logistics & Inventory Controller | Global Power Technologies | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476839196 |
+| Procurement Specialist - Temporary | Journey Engineering Corporation | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476860154 |
+| Senior Purchasing Specialist, Pacific Link (Contract) | Trans Mountain | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476849756 |
+| Contract and System Coordinator | Adecco | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476845701 |
+| Senior Specialist - Commercial Apps | Parkland Corporation | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477874232 |
+| Market Fundamentals Analyst | Alberta Electric System Operator (AESO) | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476849372 |
+| Market Fundamentals Analyst (18-mos Fixed-Term) | Alberta Electric System Operator (AESO) | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476840859 |
+| Junior Well Operations (EIT) | SECURE | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476863123 |
+| Contracts Administrator, Pacific Link (Contract) | Trans Mountain | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476869086 |
+| Branch Operations Administrator | BMO | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4472095240 |
+| Project Safety Specialist | South Bow | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476840978 |
+| Lead, Document Control, Pacific Link (Contract) | Trans Mountain | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476857385 |
+| Business Analyst, Experience | WestJet | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477847888 |
+| Senior Strategy & Operations Associate | Clio | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476835700 |
+| Project Controls Advisor II | NES Fircroft | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476832883 |
+| Project Planner Scheduler | Adecco | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476863151 |
+| Guardianship and Trusteeship Coordinator | Easter Seals Alberta | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477868614 |
+| Part-Time Key Lead (Market Mall) | Knix | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475819380 |
+| AE - Sales Leader (Full-Time) | American Eagle Outfitters Inc. | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476856456 |
+| Construction Technology Specialist | Deveraux Group of Companies | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476845530 |
+| Senior Supply Chain Advisor | NorQuest College | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477859260 |
+| Orthodontic New Patient Coordinator | Braces+ Orthodontics | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=f1a78ddbfe2fc32e |
+| Marketing Administrator ~ MAT Coverage | Canwest Concrete Cutting | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=47f6d37b24a0ccde |
+| Talent Coordinator | NorQuest College | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=5cb5d946c79bc182 |
+| Corporate Legal Administrative Assistant | Lawson Lundell LLP | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476855441 |
+| Media and Public Relations Coordinator | Calgary Chamber of Commerce | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477862926 |
+| Administrative Assistant (Entry Level) | AGAT Laboratories | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4475260595 |
+| Shop Administrator | Charger Logistics Inc. | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477851742 |
+| Administrative Assistant | Government of Alberta | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476843843 |
+| Payroll Specialist | Aplin | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477858960 |
+| Private Banking Officer, Sales | BMO | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4472089657 |
+| Sales Specialist | Storibot.ai | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476845736 |
+| Analyst, Investment Banking, Energy | BMO | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477880226 |
+| Content & Pursuits Coordinator | Heavy | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477871728 |
+| Communications Advisor | Enbridge | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4475261612 |
+| Simulation Centre Coordinator | NorQuest College | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477860164 |
+| Watershed Planning and Outreach Coordinator | Red Deer River Watershed Alliance Societ | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476853504 |
+| Talent Coordinator | NorQuest College | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477855373 |
+| CLIENT SUPPORT COORDINATOR, VIRTUAL BUSINESS CENTRE - Across | BDC | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476864050 |
+| Cyber Security Analyst | Insight Global | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476869144 |
+| Technical Infrastructure Analyst, Junior | General Dynamics Mission Systems–Canada | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477869764 |
+| IT Service Desk II – Open Competition | Enoch Cree Nation | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477871492 |
+| Part-Time Customer Service Representative - Calgary | Keolis | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=7edf893f5944731d |
+| Counter Customer Service Representative (CCSR) | Graybar Canada Limited | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=012a8b2da8474099 |
+| Health & Safety Advisor | Canwest Concrete Cutting | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=8e92ff6edc08b71a |
+| Document Controller, Pacific Link (Contract) | Trans Mountain | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4476845948 |
