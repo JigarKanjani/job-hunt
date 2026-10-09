@@ -21904,3 +21904,12 @@
 | Omni Customer Fulfillment Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477478700 |
 | Meat Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477476825 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477490339 |
+| Operations & Deal Execution Coordinator – Corporate Debt Adv | Diamond Willow | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476255934 |
+| Student Success Coordinator | Ripotek Technologies Inc. | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475201220 |
+| Mid-Market Onboarding Lead | Cloudbeds | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477652420 |
+| Centre Coordinator, Member Services | Alberta Motor Association | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=5b7f5ac8bc8ebfd7 |
+| Human Resources Advisor - Recruitment | Fountain Tire | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476271377 |
+| Student Achievement Specialist, 2 Hour Learning (Remote) - $ | Crossover | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4475109663 |
+| Process Simulation Engineer | SLB | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=d187953079948967 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477628772 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477645063 |
