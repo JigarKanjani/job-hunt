@@ -21913,3 +21913,36 @@
 | Process Simulation Engineer | SLB | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=d187953079948967 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477628772 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477645063 |
+| Part Time Marketing Coordinator | EVOLVsolar | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=8601281aa92f5e79 |
+| Procurement Specialist | Metalex Metal Buildings Inc | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=350a319e9a44200c |
+| Intermediate Business Analyst | Insight | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=5a95b53a69abdec2 |
+| Senior Analyst, SAP Ariba | Optis Consulting | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477812484 |
+| Package Specialist-SAP HANA SCM MM | IBM | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475234322 |
+| Intermediate Business Analyst | Insight | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477820039 |
+| Operations Accountant | Parkland Corporation | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475246011 |
+| Document Control and Proposal Coordinator | Bunch Projects | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476295883 |
+| Project Safety Advisor | Enbridge | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475235559 |
+| Senior System Support Analyst | IBM | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4466291345 |
+| Service Administrator | CRESTVIEW GROUP | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=dd2b1003751f637c |
+| Recruitment Coordinator — Remote (Canada) | the peached tortilla | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=1e330d79217ab383 |
+| Senior Reclamation Specialist | Millennium EMS Solutions Ltd. | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4449128342 |
+| Content Specialist | Indigenous Energy Monitor | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476836086 |
+| Pension & Benefits Advisor | University of Alberta | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477821571 |
+| Clinical Counsellor | Workplace Options | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4450282769 |
+| Service Advisor | Robert Half | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476819007 |
+| Service Coordinator | Finning | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476806996 |
+| Analyst, Investment Banking, Energy | BMO Financial Group | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=5580b29be6704cb6 |
+| Technical Support Engineer | Foundant Technologies | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=5f015391ff31f986 |
+| PAC Technical Support Engineering | GE Vernova | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=dc569e5a31619d36 |
+| Automation Engineer | LanceSoft, Inc. | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476812945 |
+| Gas Operations Marketing Coordinator | Canadian Natural Resources Limited (CNRL | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476832180 |
+| Automation Engineer - CMDB | Apptoza Inc. | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477826342 |
+| Corporate Reporting Analyst | Government of Alberta | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476807361 |
+| Analyst, System Testing | EPCOR | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477820801 |
+| Receptionist | F45 Training | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=857b791e51d2c56c |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=bbc5c057a0d5715e |
+| Divisional Controller (Tsuut'ina Nation) | Tsuu T'ina nation | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=27c5db8cb6296d32 |
+| Purchasing Professional Associate | Jacobs | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=2c9c987fc36aaf6c |
+| Animal Care Technician, Office of the Associate Dean (Resear | University of Calgary | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=30cf5f5bd913bc87 |
+| Personal Banking Associate Trainee | TD | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4465348206 |
+| Project Scheduler | MasTec Purnell Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477832313 |
