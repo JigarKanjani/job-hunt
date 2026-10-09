@@ -21837,3 +21837,70 @@
 | (CAN) Stocking 1 Team Associate PART TIME | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477423510 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477408984 |
 | Overnight Associate | Walmart Canada | 2026-10-08 | G | https://www.linkedin.com/jobs/view/4477410910 |
+| Document Control and Proposal Coordinator | Bunch Projects Ltd. | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=f3337260a6443c81 |
+| Proposal Coordinator | Reinbold Engineering | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=4d56e253b12fac75 |
+| Talent Acquisition Specialist | UFA | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=eb5dfa75c847fe62 |
+| Senior Advisor, Strategic Communications | National Bank of Canada | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=acdce0f4e7f94eb4 |
+| Coordinator, Trade Programs & Community Engagement | Calgary Economic Development | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=c3a8b4e5467e6d93 |
+| Environmental Lead, Highway Maintenance and Infrastructure | LaPrairie Group of Companies | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=435b8142933dc1a2 |
+| Supervisor, Operations (BDL) | The Beer Store | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=688eeef7d3f173d1 |
+| Supervisor, Operations (BDL) | The Beer Store | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=a830a0b8ec54a003 |
+| Maintenance Program Analyst | De Havilland Aircraft of Canada Ltd | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=247936f8738b760a |
+| Cafe Leader - Chinook Mall | Phil & Sebastian Coffee Roasters | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=d7ca5800dc6c29f7 |
+| Senior Finance and Procurement Analyst | Government Of Alberta | 2026-10-09 | J | https://ca.indeed.com/viewjob?jk=6a39875d121309af |
+| Supply Chain Student | South Bow | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476225434 |
+| Logistics Coordinator | Linear Logistics Ltd. | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476214382 |
+| Senior Specialist, Operations Cost Control | Cenovus Energy | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477477560 |
+| Workplace & Events Coordinator | Insight Global | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476204933 |
+| Senior Officer, Operations | Canada Mortgage and Housing Corporation  | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477485311 |
+| Financial Transaction Coordinator | FLINT Corp. | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477475546 |
+| Field Coordinator - Kiewit Foundations District | Kiewit | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476228656 |
+| Contracts Specialist - Legal services, Office of General Cou | University of Calgary | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476387388 |
+| Talent Acquisition Specialist | UFA | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4476207721 |
+| Employer Specialist, Engineering Career Centre | University of Calgary | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477479056 |
+| Geospatial Analyst, Geomatics Engineering | University of Calgary | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477461837 |
+| Specialist II, Processing Operations | ATB Financial | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477484123 |
+| HR Operations Analyst (Contract) | Trans Mountain | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4475998967 |
+| Student Finance Coordinator - Services | Graham | 2026-10-09 | J | https://www.linkedin.com/jobs/view/4477483364 |
+| YTA Case Manager | ENVIROS | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=d06418c65597fb60 |
+| Registered Psychologist/Provisional/Social Worker | Inspire Wellness Therapy | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=b3b4ed660f2a11f3 |
+| Office Administrator (full time) - Mahogany | Momentum Health | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=18c564b0252cf92f |
+| Business Operations Specialist | Bayer | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=9f896d394a7d2c8b |
+| Proposal Coordinator | Reinbold Engineering | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=b8b897a77c259c00 |
+| Overnight Outside Patrol Worker | ALPHA HOUSE | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=a66907eab5d7a729 |
+| Community Programs Coordinator | March of Dimes Canada | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=f9e407c973b4a9de |
+| Administrative Coordinator | B-Line Tire & Auto Supply | 2026-10-09 | N | https://ca.indeed.com/viewjob?jk=6c4e21641f128469 |
+| Commercial Leasing Administrator, Qualico Properties | Qualico Properties | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477491637 |
+| YTA Case Manager | Enviros WSA | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477475841 |
+| HS&E Advisor | Ledcor | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477492232 |
+| Trench Safety Installation Advisor | Finning | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476215527 |
+| Payroll Analyst | Canadian Natural Resources Limited (CNRL | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476212739 |
+| Student Financial Planner | CDI College | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477480854 |
+| Student Mental Health Specialist -Student Experience and Sup | University of Calgary | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477466746 |
+| Mobile Mortgage Specialist - Calgary | TD | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477469544 |
+| Trades Coordinator | Canadian Energy Insight Inc. | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477485165 |
+| Communications and Research Impact Specialist | University of Alberta | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477489153 |
+| Data Center Business Operations Coordinator | Carrier | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4475132245 |
+| Coordinator, Operations - CAN - AB - Fort Mcmurray - Tiagano | BrandSafway | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477473936 |
+| Tenant Services Coordinator (One-Year Contract) | West Edmonton Mall Property Inc. (West E | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477481547 |
+| Social Worker | University of Alberta | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477471893 |
+| Service Administrator | Cummins Inc. | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476215320 |
+| Workforce and Resource Planner | SAMSIC Assistance Canada Inc | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4476216303 |
+| Centre Coordinator, Member Services | AMA - Alberta Motor Association | 2026-10-09 | N | https://www.linkedin.com/jobs/view/4477467506 |
+| Surveillance Data Coordinator | Government Of Alberta | 2026-10-09 | R | https://ca.indeed.com/viewjob?jk=447dd111427b3b65 |
+| Financial Reporting Accountant - Corporate Services | Graham | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477483363 |
+| ERP System Administrator - Information Technologies | University of Calgary | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477469526 |
+| Tech/Facility Support Analyst, UCalgary Continuing Education | University of Calgary | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476527927 |
+| Service Desk Analyst - Tier 1 (Weekend) | Yardstick Technologies Inc. | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4477476538 |
+| CMMS & SAP Maintenance Specialist | Manpower Alberta | 2026-10-09 | R | https://www.linkedin.com/jobs/view/4476205893 |
+| Corporate Warranty Specialist | Oakcreek Golf & Turf LP | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=1f61e0f8acbfb312 |
+| Precast Structural BIM Specialist | Kassian Dyck & Associates | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=32688200b59731e6 |
+| Intermediate – Instrumentation Engineer – Calgary Office | TWD Technologies Ltd. | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=cf0baa97bb460596 |
+| Intermediate – Instrumentation Designer – Calgary Office | TWD Technologies Ltd. | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=f2e72d167bbe59df |
+| ASSOCIATE, GROWTH & TRANSITION CAPITAL - Calgary, Edmonton,  | BDC | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=d6ea62e8162bb88a |
+| Personal Banking Associate Trainee | TD | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477477173 |
+| Personal Banking Associate Trainee | TD | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477470571 |
+| Personal Banking Associate Trainee | TD | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477459915 |
+| Omni Customer Fulfillment Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477478700 |
+| Meat Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477476825 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4477490339 |
