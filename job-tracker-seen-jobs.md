@@ -21996,3 +21996,35 @@
 | Counter Customer Service Representative (CCSR) | Graybar Canada Limited | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=012a8b2da8474099 |
 | Health & Safety Advisor | Canwest Concrete Cutting | 2026-10-09 | G | https://ca.indeed.com/viewjob?jk=8e92ff6edc08b71a |
 | Document Controller, Pacific Link (Contract) | Trans Mountain | 2026-10-09 | G | https://www.linkedin.com/jobs/view/4476845948 |
+| Housing Coordinator (SUP-HS60-004) - Foothills Manor | Bethany Care Society | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=67d06ded439edf29 |
+| Regulatory Coordinator, Document Control, Pacific Link | Trans Mountain Corporation Inc. | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=838eac032ba3cad9 |
+| Permitting Analyst, Pacific Link | Trans Mountain Corporation Inc. | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=bc6489b7ce242a65 |
+| Financial Planning Practice Lead - Calgary/Vancouver | Scotiabank | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=19d5e2cb4ba65fcf |
+| FX Execution & Digital Sales (EDS) Analyst | RBC | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=901cbfb1faca16d7 |
+| Lead Electrical Designer | Tetranex Solutions Inc. | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=fc3d0253028e5fdc |
+| Senior Coordinator, Transport | Loblaw Companies Limited | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478029136 |
+| Program Coordinator | Government of Alberta | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4476882493 |
+| Contracts Administrator | Actalent | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478000903 |
+| Global Team Lead SC Material Master Data | BASF | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4475263880 |
+| Roads & Access Coordinator | Actalent | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478011549 |
+| Governance, Risk, and Compliance Analyst | Raise | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478020075 |
+| Information Management & Technology Coordinator | Alberta Energy Regulator (AER) | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4477889878 |
+| Financial Planning Practice Lead - Calgary/Vancouver | Scotiabank | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4476892210 |
+| Team Lead | Univar Solutions | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478012867 |
+| Total Wealth Planner, Advanced Planning Services - Western C | Scotiabank | 2026-10-10 | N | https://ca.indeed.com/viewjob?jk=0ffdb111a2d4ef17 |
+| Administrative Coordinator | McGill University | 2026-10-10 | N | https://ca.indeed.com/viewjob?jk=35cc4961877162ba |
+| Community Outreach and Events Facilitator | Calgary Humane Society | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4478031122 |
+| Co-op/Intern Talent Acquisition Coordinator | Kinaxis | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4477890968 |
+| Proposals Specialist (2 positions) | McElhanney | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4478013710 |
+| Client Advisor (PT), AX Chinook Centre | Giorgio Armani | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476870989 |
+| Client Advisor (FT), AX Chinook Centre | Giorgio Armani | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476889273 |
+| Financial Advisor - Aspen Woods Branch, AB | Scotiabank | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476891277 |
+| Total Wealth Planner, Advanced Planning Services - Western C | Scotiabank | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476894147 |
+| Concession Worker | Part-Time | Spruce Meadows | Oak View Group | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476893086 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4476889031 |
+| Customer Service Administrator- 12 Month Temp Contract | Komatsu | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4478015613 |
+| Policy and Issues Analyst | Government of Alberta | 2026-10-10 | R | https://www.linkedin.com/jobs/view/4476881507 |
+| Legal Administrative Assistant | Lawson Lundell LLP | 2026-10-10 | G | https://ca.indeed.com/viewjob?jk=a2956463dd78a1fa |
+| Document Controller, Pacific Link | Trans Mountain Corporation Inc. | 2026-10-10 | G | https://ca.indeed.com/viewjob?jk=a45501aa5d85fce7 |
+| Proposals Specialist (2 positions) | McElhanney | 2026-10-10 | G | https://ca.indeed.com/viewjob?jk=62e58de614a22477 |
+| Sales Associate | Staples Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4478015424 |
