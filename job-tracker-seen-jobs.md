@@ -22028,3 +22028,17 @@
 | Document Controller, Pacific Link | Trans Mountain Corporation Inc. | 2026-10-10 | G | https://ca.indeed.com/viewjob?jk=a45501aa5d85fce7 |
 | Proposals Specialist (2 positions) | McElhanney | 2026-10-10 | G | https://ca.indeed.com/viewjob?jk=62e58de614a22477 |
 | Sales Associate | Staples Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4478015424 |
+| Accounts Payable Analyst | SECURE | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=eacbf1abae57489e |
+| Quantitative Analyst II (Capital Structuring & Analytics) | Affirm | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4459418427 |
+| Tax Analyst | Xero | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4449741979 |
+| Project Coordinator - Senior | Backwoods Energy Services | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478036508 |
+| Business Development Lead - Individual Products | Alberta Blue Cross | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4438432657 |
+| Co-op/Intern Talent Acquisition Coordinator | Kinaxis | 2026-10-10 | N | https://ca.indeed.com/viewjob?jk=32f99c9a577e8fb2 |
+| Childcare Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4450074097 |
+| Relief Night Counsellors | Hull Services | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4475609528 |
+| Site Activation Partner/Study Start Up Specialist - FSP | Parexel | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4459446205 |
+| Care Navigator (Remote) | Sailor Health | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4478049052 |
+| Implementation & Systems Consultant (Remote: US, Canada & La | InAir | 2026-10-10 | R | https://www.linkedin.com/jobs/view/4478044108 |
+| Application Support Analyst - Remote | Duck Creek Technologies | 2026-10-10 | R | https://www.linkedin.com/jobs/view/4466934441 |
+| Pro Account Sales Associate: Full Time - TUSCANY | The Home Depot Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4455449000 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4450657828 |
