@@ -22051,3 +22051,6 @@
 | Revenue Coordinator II | Acuren | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4456437324 |
 | Customer Experience Associate - MacLeod Centre Branch, AB (1 | Scotiabank | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4466817123 |
 | Data Services Consultant Associate (May or September 2027 -  | IBM | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4458014592 |
+| Information Management & Technology Coordinator | Alberta Energy Regulator | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=7e6f1b60365e1b21 |
+| Family Enrichment Worker | Catholic Social Services Alberta | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4477216932 |
+| Casual Community Disability Worker | Catholic Social Services Alberta | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4477219720 |
