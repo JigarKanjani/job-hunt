@@ -22042,3 +22042,12 @@
 | Application Support Analyst - Remote | Duck Creek Technologies | 2026-10-10 | R | https://www.linkedin.com/jobs/view/4466934441 |
 | Pro Account Sales Associate: Full Time - TUSCANY | The Home Depot Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4455449000 |
 | Stocking 1 Team Associate | Walmart Canada | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4450657828 |
+| Package Specialist-SAP HANA SCM MM | IBM | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4458016596 |
+| Procurement Contract Specialist II | Worley | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478063673 |
+| Upstream Materials Integrity/Machinery Engineering - Student | Imperial Oil | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4460326242 |
+| Procurement Contract Specialist II | Worley | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4478060804 |
+| Operations Supervisor | West Fraser | 2026-10-10 | J | https://www.linkedin.com/jobs/view/4469263121 |
+| Construction Coordinator | Bitdeer (NASDAQ: BTDR) | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4449204668 |
+| Revenue Coordinator II | Acuren | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4456437324 |
+| Customer Experience Associate - MacLeod Centre Branch, AB (1 | Scotiabank | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4466817123 |
+| Data Services Consultant Associate (May or September 2027 -  | IBM | 2026-10-10 | G | https://www.linkedin.com/jobs/view/4458014592 |
