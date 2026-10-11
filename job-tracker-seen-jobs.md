@@ -22054,3 +22054,9 @@
 | Information Management & Technology Coordinator | Alberta Energy Regulator | 2026-10-10 | J | https://ca.indeed.com/viewjob?jk=7e6f1b60365e1b21 |
 | Family Enrichment Worker | Catholic Social Services Alberta | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4477216932 |
 | Casual Community Disability Worker | Catholic Social Services Alberta | 2026-10-10 | N | https://www.linkedin.com/jobs/view/4477219720 |
+| Senior Quality Assurance Advisor, Pipeline, Pacific Link (Co | Trans Mountain | 2026-10-11 | J | https://www.linkedin.com/jobs/view/4477242065 |
+| Government Relations Analyst (Contract) | Trans Mountain | 2026-10-11 | J | https://www.linkedin.com/jobs/view/4477230376 |
+| (CAN) Stocking 3 Team Lead | Walmart Canada | 2026-10-11 | J | https://www.linkedin.com/jobs/view/4478093024 |
+| ToGo Specialist Calgary Olive Garden | Olive Garden Canada | 2026-10-11 | N | https://www.linkedin.com/jobs/view/4478074802 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-11 | N | https://www.linkedin.com/jobs/view/4477228949 |
+| Order Desk Associate | Big Brands Inc | 2026-10-11 | G | https://ca.indeed.com/viewjob?jk=7e50168f735f309b |
