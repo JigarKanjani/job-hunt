@@ -22078,3 +22078,11 @@
 | Data Science Specialist (Remote | $150–$350/hr) | Synthires | 2026-10-12 | R | https://www.linkedin.com/jobs/view/4475697023 |
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478381518 |
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478385282 |
+| (CAN) Distribution Centre Team Associate - Operations - HVDC | Walmart Canada | 2026-10-12 | J | https://www.linkedin.com/jobs/view/4478554772 |
+| (CAN)  Distribution Centre Team Associate - Operations - HVD | Walmart Canada | 2026-10-12 | J | https://www.linkedin.com/jobs/view/4478562431 |
+| (CAN)  Distribution Centre Team Associate - Operations - HVD | Walmart Canada | 2026-10-12 | J | https://www.linkedin.com/jobs/view/4478561478 |
+| Project Administrator | Dillon Consulting Limited | 2026-10-12 | N | https://ca.indeed.com/viewjob?jk=61761fe6c837cac2 |
+| Project Administrator | Dillon Consulting Limited | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478558920 |
+| Project Administrator | Dillon Consulting Limited | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478570467 |
+| Administrative Assistant - Credential Assessment & Certifica | Teckhorizon Inc | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478573872 |
+| Software Implementation Specialist | Catalis | 2026-10-12 | R | https://ca.indeed.com/viewjob?jk=3cf97ef16e89e935 |
