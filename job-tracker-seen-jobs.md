@@ -22062,3 +22062,12 @@
 | Order Desk Associate | Big Brands Inc | 2026-10-11 | G | https://ca.indeed.com/viewjob?jk=7e50168f735f309b |
 | Document Control and Proposal Coordinator | Bunch Projects | 2026-10-11 | R | https://www.linkedin.com/jobs/view/4477270350 |
 | Personal Banking Associate Trainee - Inviting Applicants who | TD | 2026-10-11 | G | https://www.linkedin.com/jobs/view/4469587494 |
+| Reports Coordinator | Lifemark Health Group | 2026-10-12 | J | https://www.linkedin.com/jobs/view/4475660864 |
+| Store Administrator, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-12 | N | https://ca.indeed.com/viewjob?jk=f6acd781cee87d1c |
+| Store Administrator, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-12 | N | https://ca.indeed.com/viewjob?jk=cadc47d371b1ea26 |
+| Human Resources Coordinator | Associated Engineering | 2026-10-12 | N | https://ca.indeed.com/viewjob?jk=984a382e5e50e0db |
+| Clinic Coordinator | Massage Quest Inc | 2026-10-12 | N | https://ca.indeed.com/viewjob?jk=ce5ce2a3bf175bee |
+| Human Resources Coordinator | Associated Engineering | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4475680056 |
+| Associate | TJX Canada – Winners, Marshalls, HomeSen | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478359754 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478375085 |
+| Directs Store Delivery Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478359668 |
