@@ -22071,3 +22071,10 @@
 | Associate | TJX Canada – Winners, Marshalls, HomeSen | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478359754 |
 | Stocking 1 Team Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478375085 |
 | Directs Store Delivery Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478359668 |
+| Contract Administrator | AtkinsRéalis | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478380694 |
+| Contract Administrator | AtkinsRéalis | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478377906 |
+| Community Disability Worker (CP) - St Annes House | Catholic Social Services Alberta | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4477291794 |
+| property administrator | Martello Group | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478397057 |
+| Data Science Specialist (Remote | $150–$350/hr) | Synthires | 2026-10-12 | R | https://www.linkedin.com/jobs/view/4475697023 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478381518 |
+| (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-10-12 | G | https://www.linkedin.com/jobs/view/4478385282 |
