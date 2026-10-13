@@ -22100,3 +22100,7 @@
 | (CAN) General Merchandise Associate | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478705696 |
 | (CAN) Food & Consumables Team Associate PART TIME | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478701930 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478701931 |
+| Engineering Specialist V | FedEx Canada | 2026-10-13 | J | https://www.linkedin.com/jobs/view/4478748942 |
+| LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-10-13 | J | https://www.linkedin.com/jobs/view/4478778090 |
+| Engineering Specialist V | FedEx | 2026-10-13 | R | https://ca.indeed.com/viewjob?jk=a6007f7f699936c0 |
+| ServiceNow Developer | MatchBox Consulting Group | 2026-10-13 | R | https://www.linkedin.com/jobs/view/4478756687 |
