@@ -22086,3 +22086,17 @@
 | Project Administrator | Dillon Consulting Limited | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478570467 |
 | Administrative Assistant - Credential Assessment & Certifica | Teckhorizon Inc | 2026-10-12 | N | https://www.linkedin.com/jobs/view/4478573872 |
 | Software Implementation Specialist | Catalis | 2026-10-12 | R | https://ca.indeed.com/viewjob?jk=3cf97ef16e89e935 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-13 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Communications Specialist | Aston Carter | 2026-10-13 | N | https://www.linkedin.com/jobs/view/4476081364 |
+| Full-Time Education Coordinator | Oxford Learning Centres Inc. | 2026-10-13 | N | https://www.linkedin.com/jobs/view/4476072731 |
+| Client Service Coordinator | Oxford Learning Centres Inc. | 2026-10-13 | N | https://www.linkedin.com/jobs/view/4476079383 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-13 | N | https://www.linkedin.com/jobs/view/4477946441 |
+| Support Analyst | Harris Computer | 2026-10-13 | R | https://ca.indeed.com/viewjob?jk=225d414d48ce8f78 |
+| Genesys Systems Engineer | Forward Financing | 2026-10-13 | R | https://ca.indeed.com/viewjob?jk=57e58ea8a0794f1d |
+| Client Support Specialist | Buckland | 2026-10-13 | R | https://ca.indeed.com/viewjob?jk=2719a50aad85e0c9 |
+| Clinical Systems Analyst | Alignerr | 2026-10-13 | R | https://www.linkedin.com/jobs/view/4478745040 |
+| EMR/EHR Implementation Specialist | Alignerr | 2026-10-13 | R | https://www.linkedin.com/jobs/view/4478731566 |
+| Part-Time Front Desk Receptionist – Weekend Mornings (7 AM–3 | Happy Bays Car Wash & Detail Centre | 2026-10-13 | G | https://ca.indeed.com/viewjob?jk=38c6be0f07ce704a |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478705696 |
+| (CAN) Food & Consumables Team Associate PART TIME | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478701930 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-13 | G | https://www.linkedin.com/jobs/view/4478701931 |
