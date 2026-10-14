@@ -22104,3 +22104,79 @@
 | LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-10-13 | J | https://www.linkedin.com/jobs/view/4478778090 |
 | Engineering Specialist V | FedEx | 2026-10-13 | R | https://ca.indeed.com/viewjob?jk=a6007f7f699936c0 |
 | ServiceNow Developer | MatchBox Consulting Group | 2026-10-13 | R | https://www.linkedin.com/jobs/view/4478756687 |
+| Parts Coordinator – Fleet Operations | South West Bulk Express INC | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=b9d4aa6afea5b3a6 |
+| Independent Fundraising, Senior Specialist | Canadian Cancer Society | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=85e971d3d0c75cf9 |
+| Creative Services Advisor (6 Month Contract) | De Havilland Aircraft of Canada Ltd | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=a8fb21d8cde84599 |
+| Prospect and Donor Analyst | Bow Valley College | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=8ddac703bd060ced |
+| Service advisor- Heavy Duty Shop Operation | South West Bulk Express INC | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=30b0860f6050a004 |
+| Field Operations Associate (6-Month Contract) | Grainger | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=ea0d31c3528f5ec4 |
+| Operational Supply Services Lead | University of Alberta | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=172ec68f7aa95e88 |
+| Operations Supervisor - Night Shift | McKesson | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=8bc9da481a958d32 |
+| Recruiting Operations Lead | Beacon Holdings | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=ab916bbc97d0d1a0 |
+| Growth Marketing Specialist — GTA Launch & National Expansio | City Helpers Inc. | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=fc9991425734b77e |
+| Surveillance Program Manager | Canadian Cancer Society | 2026-10-14 | J | https://ca.indeed.com/viewjob?jk=db0b1dc4c0469f78 |
+| Inventory Control Coordinator | De Havilland Aircraft of Canada Limited | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479706112 |
+| Senior Consultant - Contracting & Procurement | Turner & Townsend | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4478802300 |
+| Fleet Program Lead | TC Energy | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4477006855 |
+| Business Analyst & Budgeting Coordinator | Zen Residential Ltd. | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479599756 |
+| Field Operations Associate (6-Month Contract) | Grainger Canada | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479709844 |
+| Project Coordinator | Mount Royal University | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4476498742 |
+| Events Specialist - Haskayne School of Business | University of Calgary | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479559092 |
+| Events Specialist, Haskayne School of Business | University of Calgary | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479558225 |
+| Commercial Fuels Sales Specialist | Cenovus Energy | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479713605 |
+| Analyst - Accounts Payable | EECOL Electric | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4477024184 |
+| Project Controls Cost Analyst | Raise | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479701146 |
+| Territory Sales Leader - Calgary, AB - Temporary | The Hershey Company | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4478496512 |
+| Policy Analyst, Simpson Centre for Food and Agricultural Pol | University of Calgary | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4479094848 |
+| Recruitment Specialist | Trotter & Morton Group of Companies | 2026-10-14 | J | https://www.linkedin.com/jobs/view/4478814184 |
+| Adoption Kinship Counsellor | Carya | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=657d103b3bdd344e |
+| Human Resources Specialist - Kiewit Energy Canada | Kiewit Corporation | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=be994df1940d6e2d |
+| Payroll, Benefits and Records Coordinator | Town of Devon | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=14e41eb86418c426 |
+| Timetabling Coordinator | University of Alberta | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=a9291b7bbda09594 |
+| National Sales Coordinator | Postmedia Network Inc. | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=6268ca886df8df34 |
+| Office Coordinator | Right At Home | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=bf5c062d40a8c9db |
+| Mountainside – Full Time CYC Counsellor | Hull Services | 2026-10-14 | N | https://ca.indeed.com/viewjob?jk=c5efc6b2dbe49b45 |
+| Outdoor Youth Program Coordinator- Faculty of Kinesiology | University of Calgary | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479251815 |
+| Public Awareness Analyst | TC Energy | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4477012677 |
+| Construction Contract Administrator | EXP | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479722419 |
+| Agriculture Extension Specialist, Simpson Centre for Food an | University of Calgary | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479203565 |
+| Administrative Assistant 3, Office of the Registrar Support | Mount Royal University | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4476696617 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Brand Marketing Specialist (Contract) | Canadian Cancer Society | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4478124722 |
+| Senior Analyst or Analyst, Grid & Market Application | JSG (Johnson Service Group, Inc.) | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4478810502 |
+| Beauty Advisor - Cle De Peau | Holt Renfrew | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4478491994 |
+| Senior Indigenous Relations Advisor (Contract) | Trans Mountain | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4478800692 |
+| Senior Planner / Public Engagement Specialist | WSP in Canada | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4478489899 |
+| Hull School – Educational Child and Youth Care Counsellor | Hull Services | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4476697715 |
+| Mountainside – Full Time CYC Counsellor | Hull Services | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4476698742 |
+| Recovery, Stabilization and Detox (RSD) – Weekday Child and  | Hull Services | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4476693898 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479712417 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479587958 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479712418 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-14 | N | https://www.linkedin.com/jobs/view/4479599624 |
+| PR & Content Specialist - AdFarm | RR46 | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=61ab9ad34996db0b |
+| Continuing Education Specialist | Real Estate Council of Alberta | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=26b1c9161ec7b3aa |
+| Financial/Business Analyst | 1998643 Alberta Ltd. o/a Stigma Grow | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=90376635395ad599 |
+| Tier 2 Technical Analyst | Accurate Network Services | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=a3b62ea5584bf119 |
+| Technical Support Specialist | Sonar Software | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=5a156732778cbdf5 |
+| Quality Assurance Analyst - Temporary 1 year | Trew Knowledge Inc. | 2026-10-14 | R | https://ca.indeed.com/viewjob?jk=77f56820178de0d7 |
+| Financial Systems Analyst | Ledcor | 2026-10-14 | R | https://www.linkedin.com/jobs/view/4479714794 |
+| Early Professional, Geographic Information Systems Science | WSP in Canada | 2026-10-14 | R | https://www.linkedin.com/jobs/view/4478486927 |
+| Administrative Coordinator, Student Experience, Engineering  | University of Calgary | 2026-10-14 | R | https://www.linkedin.com/jobs/view/4479714178 |
+| Early Professional, Geographic Information Systems Science | WSP in Canada | 2026-10-14 | R | https://www.linkedin.com/jobs/view/4478802291 |
+| Financial Systems Analyst | Ledcor | 2026-10-14 | R | https://www.linkedin.com/jobs/view/4479717603 |
+| Customer Service Representative (Full Time) | Best Buy | 2026-10-14 | G | https://ca.indeed.com/viewjob?jk=de587868a7ebd1c1 |
+| Mobile Sales Associate (Full Time) | Best Buy | 2026-10-14 | G | https://ca.indeed.com/viewjob?jk=c576ef2ec27ca1db |
+| Guest Service Agent | Oasis Wellness Centre & Spa | 2026-10-14 | G | https://ca.indeed.com/viewjob?jk=4d6f88c24fa38eb3 |
+| Commercial and CX Graduate Associate - Calgary | S&P Global | 2026-10-14 | G | https://ca.indeed.com/viewjob?jk=34cb51907e91bd74 |
+| PIA Client Service Associate | TD | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4479715101 |
+| Customer Service Representative (Full Time) | Best Buy Canada | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4477005796 |
+| Sales Associate | Morrison Homes | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4478813060 |
+| Personal Banking Associate Trainee | TD | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4479719050 |
+| Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4477019183 |
+| Sales Associate | SNDL Inc. | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4478819334 |
+| Commercial and CX Graduate Associate - Calgary | S&P Global | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4478806231 |
+| Licensed Mortgage Agent- Alberta | State Alliance  Mortgages Inc. | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4352634902 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4479706283 |
+| Engineering Quality Advisor | TC Energy | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4477024191 |
+| Corporate Liability Engineer/ Coordinator | Canadian Natural Resources Limited (CNRL | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4475121739 |
