@@ -22180,3 +22180,55 @@
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4479706283 |
 | Engineering Quality Advisor | TC Energy | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4477024191 |
 | Corporate Liability Engineer/ Coordinator | Canadian Natural Resources Limited (CNRL | 2026-10-14 | G | https://www.linkedin.com/jobs/view/4475121739 |
+| Service Writer/Parts Coordinator | Westvac Industrial Ltd. | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=b4bab33bbb3f3d9a |
+| IT Purchasing Analyst (1-year term position) | ALBERTA SECURITIES COMMISSION | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=2150c51306e3c8d1 |
+| Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=a5c056a10586ec71 |
+| Lead - HR | Infosys | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=fb1161335ac1a705 |
+| Team Lead, Cyber Security Exposure Management | City of Calgary | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=966622a1636bfc44 |
+| Engineering Project Lead - Industrial | Chemelex | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=b710b4ee75e7a504 |
+| Production Planner | InterPro Pipe + Steel | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479747363 |
+| Supply Chain Winter Co-Op - Kiewit Supply Network (Jan-Apr 2 | Kiewit | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478809730 |
+| Commercial Operations Senior Specialist - Calgary AB (Hybrid | BASF | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4477016777 |
+| (CAN) Team Leader Operations - Shipping II - Mon/Tues/Wed/Sa | Walmart Canada | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479718596 |
+| (CAN) Team Leader Operations - Staple Stock Associate - Sun  | Walmart Canada | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479714837 |
+| Rental Coordinator | Hoskin Scientific Limited | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479721743 |
+| Project Coordinator | KLS Earthworks & Environmental | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479715791 |
+| Accounts Receivable Coordinator | Modine Manufacturing Company | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479734564 |
+| Human Resources Specialist - Kiewit Energy Canada | Kiewit | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478827085 |
+| Product AI & Automation Lead | Kinaxis | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479730774 |
+| Industrial Quotation Specialist-EN | Guillevin | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4477014909 |
+| Senior Advisor, Project Controls and Financial Management | Government of Alberta | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478843049 |
+| Contracts Administrator | B2Gold Corp. | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478819832 |
+| Industrial Quotation Specialist-FR | Guillevin | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4477021656 |
+| Coordinator Fleet Maintenance | Air Liquide | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479736307 |
+| Administrative Coordinator, Indigenous Strategy Implementati | University of Calgary | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=a985cc43a40d1615 |
+| Emergency Shelter Worker - Afternoons (PT) (CONTRACT) | Calgary Drop IN & Rehab Society Centre | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=8614a174c3bc6770 |
+| Events Specialist - Haskayne School of Business | University of Calgary | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=fbcadd307902ed75 |
+| Senior Analyst, Financial Reporting | University of Calgary | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=d7f5e48b94e554bf |
+| Senior Planner, Land Development | WSP | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=73eec53e491e1341 |
+| Residence Life Coordinator | MacEwan University | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=79f9fdf1567a5e7c |
+| Central Services Coordinator (12-month contract) | Dentons | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=fb5c7468f8d97191 |
+| Senior Financial Administrator (remote contract) | Roneta | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478818825 |
+| Customer Care Specialist | Mini Mall Storage Properties | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479755125 |
+| Talent Acquisition Coordinator | AutoCanada | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478845000 |
+| Christmas Toy Shop Worker | The Salvation Army in Canada | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478811794 |
+| Human Resources Specialist - Kiewit Energy Canada | Kiewit | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478812738 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478806923 |
+| Correctional Service Worker | Government of Alberta | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478830393 |
+| Sales Administrator (Industrial Refrigeration) | Startec Thermal and Process | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479742652 |
+| Administrative Coordinator, Student Experience, Engineering  | University of Calgary | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=37aeecb145f5b587 |
+| Strength & Conditioning Instructor and Personal Trainer (Par | YMCA Calgary | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=b78759120933eb3d |
+| Public Awareness Analyst | TC Energy | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=fb55efc6457641da |
+| IT Threat Operations & Detection Specialist | Dentons | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=51ea1e329344636d |
+| System Test Developer | SMART Technologies | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=6d417506013ec647 |
+| Information Security Design Specialist | Dentons | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=cec53f4360876191 |
+| Facility Services Coordinator | The Church of Jesus Christ of Latter-day | 2026-10-15 | R | https://www.linkedin.com/jobs/view/4478845052 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=2c0210e21bf57c5e |
+| Customer Service Representative (Full Time) | Best Buy | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=99326a69cae6a00d |
+| Mobile Sales Associate (Full Time) | Best Buy | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=c4ab8e3292897e04 |
+| Sales Associate | AutoCanada | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=2b413bd82f4c1dbf |
+| Associate Professor, Marketing | University of Calgary | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=a16de70911b9b00b |
+| Sales Associate | AutoCanada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4478831293 |
+| Sales Associate | Staples Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479760089 |
+| Part-time Sales Associate/Eyewear Stylist - Southcentre | Bailey Nelson | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4477033179 |
+| PT Sales Associate - Seasonal | TORY BURCH | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479746184 |
