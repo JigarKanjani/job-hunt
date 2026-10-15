@@ -22232,3 +22232,17 @@
 | Sales Associate | Staples Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479760089 |
 | Part-time Sales Associate/Eyewear Stylist - Southcentre | Bailey Nelson | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4477033179 |
 | PT Sales Associate - Seasonal | TORY BURCH | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479746184 |
+| Residential Production Coordinator | Mattamy Homes | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=cc496c675f974276 |
+| Communications Coordinator | Northmount Baptist Church | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=610ee9c23d70bc45 |
+| Delivery Specialist | Rogers Communications | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478841971 |
+| LOGISTICS MANAGEMENT SPECIALIST | Naval Air Warfare Center Training System | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479786774 |
+| Partnership Coordinator | University of Alberta | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=ff04681f88eec2a2 |
+| Human Resources Coordinator | North American Construction Group | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=ee0b3e937ae79b56 |
+| Administrative Assistant | RBC Dominion Securities | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479790204 |
+| Automotive Accessory Specialist | Cochrane Toyota | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479806011 |
+| Mortgage Specialist | RBC | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479788235 |
+| Human Resources Coordinator | North American Construction Group | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4478868238 |
+| Recruitment Specialist | Covenant Health Canada | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=a5812dd91f03d096 |
+| Administrative Support V | Primary Care Alberta | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=6f03e0c18a04161f |
+| Sales Associate | The Mobile Shop | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4478831945 |
+| Parts Associate | Cochrane Toyota | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479796641 |
