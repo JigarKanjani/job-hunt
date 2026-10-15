@@ -22246,3 +22246,69 @@
 | Administrative Support V | Primary Care Alberta | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=6f03e0c18a04161f |
 | Sales Associate | The Mobile Shop | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4478831945 |
 | Parts Associate | Cochrane Toyota | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479796641 |
+| Senior Business Analyst - Power BI | Corus Orthodontists | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=409d7f155cd6143c |
+| Senior Operations Attendant | The Bench - Cardel Rec South | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=f0952f52d1eee716 |
+| Supply Chain Manager | Union Tractor Ltd. | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=a8011cd3ea5d9e67 |
+| Team Lead, Customer Service | Cencora | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=8cdbb64032384349 |
+| Sales and Operations Administrator | Gambles Ontario Produce | 2026-10-15 | J | https://ca.indeed.com/viewjob?jk=eaa8634a1a9d915c |
+| Logistics Coordinator | Trouw Nutrition | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479139963 |
+| Supply Chain Project Coordinator (NPI), Team Lead | Hexagon Autonomous Solutions | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4471129234 |
+| ERP Functional & Technical Consultant | Avanade | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480121411 |
+| Subcontracts Specialist | Worley | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479888280 |
+| Supply Chain Summer Student | South Bow | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479141657 |
+| Senior Sourcing Specialist | Brunel | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479164146 |
+| MyTrack Coordinator | Airswift | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480142028 |
+| Materials Coordinator (Temporary) | TransCanada Turbines | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480108859 |
+| ERP Functional & Technical Consultant | Avanade | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480116671 |
+| Operations Administrator II-2 | FedEx Canada | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480103921 |
+| Operations Coordinator | Hays | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480108020 |
+| Asset Protection Operations Team Associate | Walmart Canada | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480109113 |
+| Project Coordinator | Modern Niagara | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479898598 |
+| Record Center Specialist | Access | Information Management | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4476797865 |
+| Inventory Associate | WIS International | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479150525 |
+| Record Center Specialist | Access | Information Management | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480127284 |
+| Data Program Delivery Lead - Data Solution Owner (Canada) | Slalom | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4479154250 |
+| Resources Coordinator - Terrestrial Science | WSP in Canada | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4469600459 |
+| Administrative & Marketing Specialist | Colliers | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4480117602 |
+| Surveillance Program Manager | Canadian Cancer Society | 2026-10-15 | J | https://www.linkedin.com/jobs/view/4478478395 |
+| Lessons Coordinator | Long & McQuade | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=3168545f076e597d |
+| Relief Support Worker | Resicare Society of Calgary | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=3242f209eb354f69 |
+| Specialist Workforce Application & System Support (2026-1133 | Carewest - Innovative Health Care | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=0248db954cd11b37 |
+| Chinook Lodge Activity Coordinator | Chinook Foundation | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=b5370aacf1f1c5df |
+| Human Resources Coordinator | Prostate Cancer Centre | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=23e7ef019a2b4142 |
+| Educational Case Manager (Chinese mandarin-speaking) | Tutor Me Education | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=61df7bcd525ca05d |
+| Wellness Coordinator | Body Therapy Wellness Centre | 2026-10-15 | N | https://ca.indeed.com/viewjob?jk=ffed3dd0877b0381 |
+| HSE Systems Admin Coordinator | CES Energy Solutions Corp. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479150562 |
+| Administrative Assistant, Wealth Management | Canaccord Genuity Group Inc. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479149101 |
+| Office Administrator | Wright Construction Western Inc. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479899744 |
+| Accounts Payable - Concur Administrator | CES Energy Solutions Corp. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479149661 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| ServiceNow Business Analyst | Hammehr Talent Consultants | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4480118210 |
+| Insurance Advisor | Western Financial Group | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479164317 |
+| Overnight Veterinary Assistant, Receptionist, Calgary North  | VCA Animal Hospitals | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479151167 |
+| Outreach Support Worker (Relief) | The Salvation Army in Canada | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479152404 |
+| BMC Social Media Specialist | EY | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4461350542 |
+| Financial Planner | Raymond James Ltd. | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4444201936 |
+| Business Analyst | Affinity | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479133938 |
+| Senior Marketing Program Manager | Highwood Emissions Management | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479161131 |
+| Program Coordinator, Vision Mate/Peer Support | CNIB | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479147663 |
+| Administrative Assistant | Swim Recruiting | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479147764 |
+| Resources Coordinator - Terrestrial Science | WSP in Canada | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4469611189 |
+| Remote Patient Intake & Care Coordinator Lead (Mental Health | The Hello Team | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4480114480 |
+| Reunification In-Home Support Worker | Siksika Family Services Corporation | 2026-10-15 | N | https://www.linkedin.com/jobs/view/4479126990 |
+| Document Digitization Specialist, 6 Month Term | GRANDE YELLOWHEAD PUBLIC SCHOOL DIVISION | 2026-10-15 | R | https://ca.indeed.com/viewjob?jk=a2883b2ba304b23d |
+| Analyst, Inventory Planning | Rogers Communications | 2026-10-15 | R | https://www.linkedin.com/jobs/view/4479173080 |
+| Analyst, Inventory Planning | Rogers Communications | 2026-10-15 | R | https://www.linkedin.com/jobs/view/4479153720 |
+| Lessons Associate | Long & McQuade | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=1b042be95469acef |
+| Donor Relations Officer | FearIsNotLove | 2026-10-15 | G | https://ca.indeed.com/viewjob?jk=bca4661978807adc |
+| Temporary Part-Time Receptionist - School - Crossfield Eleme | Rocky View Schools | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479158515 |
+| Payroll Associate | Perras & Associates Accounting Ltd. | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479143796 |
+| Support Associate-3 | TORY BURCH | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4480122581 |
+| Front End Checkout Team Associate | Walmart Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479896966 |
+| Tool Rental Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479161210 |
+| Hardware Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479167066 |
+| Appliance Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479151560 |
+| Lumber Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479154468 |
+| Meat Associate | Walmart Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479897718 |
+| Specialist Signals and Communications Operations | CPKC | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4480149028 |
+| Client Associate (IR licensed) Wood Gundy | CIBC | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479885521 |
