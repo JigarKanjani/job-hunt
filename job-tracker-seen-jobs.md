@@ -22357,3 +22357,12 @@
 | Full Time Sales Associate (Store 3267 - High River) | Pet Valu | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479306389 |
 | Part Time Sales Associate (Store 3267 - High River) | Pet Valu | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479310404 |
 | Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480304597 |
+| Rental Coordinator | EllisDon Corporation | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=5f626a38d019130d |
+| Hub coordinator (6 Months Contract) | HelloFresh | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480334054 |
+| System Safety Specialist, Rail & Transit | WSP in Canada | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4477365740 |
+| Growth Enablement Project Coordinator - Senior Associate - N | EY | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479323686 |
+| Growth Enablement Project Coordinator - Senior Associate - N | EY | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479333304 |
+| Team Administrative Assistant | KPMG Canada | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480344059 |
+| Intervention Specialist, 2 Hour Learning (Remote) - $60,000/ | Crossover | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4478164337 |
+| System Safety Specialist, Rail & Transit | WSP in Canada | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4477374332 |
+| Lot Attendant & Property Maintenance Specialist | Cochrane Toyota | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480327844 |
