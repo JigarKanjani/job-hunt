@@ -22374,3 +22374,62 @@
 | Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479370039 |
 | Remote Project Coordinator – flexible hours | Best-of-life | Lavanya Sugeepan | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479353854 |
 | Office Administrator | Paladin Security | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=57763a455b2b37ea |
+| Inventory Optimization Advisor | Shell | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=eb2461a33f09c1f3 |
+| Project Estimator and Coordinator (Countertop / Tile / Cabin | JMJ TOP EXPERTS CANADA LTD. | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=2f0ea2bd49217802 |
+| SMB IT Support Analyst | VCURA | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=71daaae2a1250d34 |
+| Inventory Manager | Reesink Canada | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=ad0e5779935b76fc |
+| SAP IBP Application Support Analyst | Raas Infotek | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480544297 |
+| Senior Sourcing Specialist - Capital Projects | Horizon Recruitment Inc | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479619844 |
+| Service / Parts Advisor | Charger Logistics Inc. | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480537864 |
+| Coordinator, Administrative | Loblaw Companies Limited | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480569150 |
+| Engineering Lead | Acuren | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480555388 |
+| Treasury Lead | TransCanada Turbines | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480527906 |
+| Senior Transportation Engineer | CIMA+ | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480536952 |
+| Senior Geohazards Specialist | AtkinsRéalis | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479230709 |
+| Senior Geohazards Specialist | AtkinsRéalis | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479225991 |
+| Security Business Analyst | Raise | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480553444 |
+| Financial Analyst | MLT Aikins LLP | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479632235 |
+| Organizational Change Management (OCM) Coordinator | Brunel | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479631182 |
+| Incident Management Lead / Responsable de la gestion des inc | IBM | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4477734346 |
+| Delivery Module Lead- Quadient | Mphasis | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4477722780 |
+| Organizational Change Management (OCM) Advisor | Brunel | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479619675 |
+| Senior Financial Analyst | Kelly | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479615815 |
+| Specialist Technical Accounting | CPKC | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480548820 |
+| Senior Financial Analyst | InSync Systems | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479620650 |
+| Financial Analyst (External Reporting and Legal Entity Repor | Manpower Alberta | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479625271 |
+| Project Coordinator | PCL Construction | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480566209 |
+| Contract Service Analyst | Government of Alberta | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479637147 |
+| Care Coordinator | Lifemark Health Group | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=d06a71a70c6455b4 |
+| Shelter Community Development Worker | Discovery House Family Violence Preventi | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=2103d24d2b07fc32 |
+| Program Coordinator (CF) - Newcomer Settlement Program | Catholic Social Services | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=4a6319d50c238ff2 |
+| Coordinator, Administrative | Loblaw | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=34946859e2865f68 |
+| Communications Specialist | Aston Carter | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4477725431 |
+| Site HSE Advisor | ATCO Structures | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479638151 |
+| Office Administrator | Harvest Operations Corp. | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479622728 |
+| Sales and Customer Experience Specialist | The New Network | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479611928 |
+| Guest Contact Centre Advisor | Splitsville Bowl | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480551924 |
+| Business Advisor | Innovation Federal Credit Union | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479617912 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480569144 |
+| Quality Coordinator | PCL Construction | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4452660799 |
+| Learning & Development Specialist | Aplin | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480557390 |
+| Case Manager | Government of Alberta | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479635265 |
+| PK – 26-27-064 – Health Recovery Facilitator - Success in Sc | St Albert Public School Division | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479620738 |
+| IT Support Associate | Compugen Inc | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=f97cfa3a0e5cd62e |
+| Youth Care Specialist | Closer to Home Community Services | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=7584b3c20654fbc0 |
+| Billing Data Analyst Intern | Siemens Healthineers | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=4a4a891095e25fa1 |
+| Business Operations Analyst | Franvest Capital Partners | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=851a1e5b5f71c9d9 |
+| IT Support Specialist | Greenfox | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=5dd8f36465e1bbf6 |
+| Java Backend Developer | Apptad | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4479625241 |
+| High School Business Foundations & Artificial Intelligence T | STEM Innovation Academy | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4479614950 |
+| Data Management Analyst | Government of Alberta | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4479632344 |
+| RECEPTIONIST | ParaMed Home Health Care | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=28b7da1f85ba357d |
+| RECEPTIONIST | Extendicare | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=82ba585f87af8c1e |
+| Receptionist | Jensen Shawa Solomon Duguid Hawkes LLP ( | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=2843785dd3c58b75 |
+| Customer Service Representative | YardWorx | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=fec7130d53bff295 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=cc8d054ac2ea1232 |
+| Customer Service Representative | Aston Carter | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4477734029 |
+| Document Controller - Intermediate level | Phase Consulting | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480536893 |
+| Accounts Receivable Associate | Kandor Business Services Inc. | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479620911 |
+| Sales Associate | Shimoon Jewellers | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479625214 |
+| Sales Associate | Staples Canada | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480558480 |
+| Financial Project Controller | WSP in Canada | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479638071 |
