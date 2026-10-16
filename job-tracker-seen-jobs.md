@@ -22366,3 +22366,11 @@
 | Intervention Specialist, 2 Hour Learning (Remote) - $60,000/ | Crossover | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4478164337 |
 | System Safety Specialist, Rail & Transit | WSP in Canada | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4477374332 |
 | Lot Attendant & Property Maintenance Specialist | Cochrane Toyota | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480327844 |
+| Automotive Parts Specialist | NAPA Canada | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4442957661 |
+| CMS/DAM Functional Lead | Accenture | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4461923232 |
+| Cochlear Implant Consumer Specialist, Canada | Sonova Group | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4471860093 |
+| TECH Specialist | London Drugs | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4477382783 |
+| Project Coordinator | Quarry Consulting | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480385512 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479370039 |
+| Remote Project Coordinator – flexible hours | Best-of-life | Lavanya Sugeepan | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479353854 |
+| Office Administrator | Paladin Security | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=57763a455b2b37ea |
