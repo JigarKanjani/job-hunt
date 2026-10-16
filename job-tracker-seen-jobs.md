@@ -22312,3 +22312,48 @@
 | Meat Associate | Walmart Canada | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479897718 |
 | Specialist Signals and Communications Operations | CPKC | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4480149028 |
 | Client Associate (IR licensed) Wood Gundy | CIBC | 2026-10-15 | G | https://www.linkedin.com/jobs/view/4479885521 |
+| Category Management Specialist | City of Calgary | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=755e1ce9022e4c6e |
+| Hub coordinator (6 Months Contract) | HelloFresh | 2026-10-16 | J | https://ca.indeed.com/viewjob?jk=3595e34fe6fad98e |
+| Logistics Coordinator | Modine Manufacturing Company | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480185797 |
+| SAP IBP Application Support Analyst | Experis | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479197939 |
+| Rental Coordinator | EllisDon | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480181491 |
+| IT Program Budget & Financial Analyst | Raise | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480301446 |
+| GTM Strategy & Operations Lead (Legal & Field Ops) | Affirm | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479300410 |
+| GIS Analyst - Alberta | Dillon Consulting Limited | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480174715 |
+| Specialist Workforce Application & System Support (2026-1133 | Carewest Innovative Health Care | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480193096 |
+| Lessons Coordinator | Long & McQuade Musical Instruments | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480179973 |
+| Operations Efficiency Specialist | Nors Group | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480190268 |
+| Shipping Coordinator | Alfa Laval | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4480302506 |
+| Business Analyst | Government of Alberta | 2026-10-16 | J | https://www.linkedin.com/jobs/view/4479309459 |
+| Safety Advisor | City of Calgary | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=9fc2f0028ef2898b |
+| Operations Analyst - Information Technologies | University of Calgary | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=79a33b10fc0b999c |
+| Data & Technology Systems Coordinator, Hunter Hub for Entrep | University of Calgary | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=3abfeee69a97abd2 |
+| Financial Administrator, Financial Reporting | University of Calgary | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=38dbe4e0d7c85ed6 |
+| Program Coordinator - Immigration and Settlement Service | Catholic Social Services | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=26bedee0967850b7 |
+| Program Coordinator, Vision Mate/Peer Support | Canadian National Institute for the Blin | 2026-10-16 | N | https://ca.indeed.com/viewjob?jk=9c18f5d3fb5f05c7 |
+| Quality Administrator | Aston Carter | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4477347071 |
+| Nordic Spa Administrator | Pomeroy Lodging | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4477346054 |
+| Senior Global Benefits Specialist | Clio | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479191907 |
+| Customer Service Specialist - Calgary, AB | LAZ Parking | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4480190452 |
+| BIM Coordinator | WalterFedy | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479300630 |
+| Compensation Analyst | Government of Alberta | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479306549 |
+| Community Resource Centre Worker | The Salvation Army in Canada | 2026-10-16 | N | https://www.linkedin.com/jobs/view/4479301230 |
+| Business Support Technical Analyst | City of Calgary | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=95cb98e29ac9f3a1 |
+| Specialist, Venture Programs - Hunter Hub | University of Calgary | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=75ac82539aaf45aa |
+| Junior Technical Support Engineer | Everbridge | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=d42d7c304e992346 |
+| Technical Support Engineer | Airbyte | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=22138d546715f0a4 |
+| Web Content Coordinator | LawDepot.com | 2026-10-16 | R | https://ca.indeed.com/viewjob?jk=589e0f6b8f5a04a6 |
+| GIS Analyst - Alberta | Dillon Consulting Limited | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4480180466 |
+| Project Analyst | Insight Global | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4479198958 |
+| Administrator, Information Systems | CMH Heli-Skiing & Summer Adventures | 2026-10-16 | R | https://www.linkedin.com/jobs/view/4477335602 |
+| Intermediate Document Controller | MegaPixx Media Ltd | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=1095dcff35b27e17 |
+| Specialist Signals and Communications Operations | CPKC | 2026-10-16 | G | https://ca.indeed.com/viewjob?jk=c78f61b5078f2a9a |
+| Lessons Associate | Long & McQuade Musical Instruments | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480198203 |
+| Customer Service Representative (Motivator) - Calgary Creeks | GoodLife Fitness | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4477331904 |
+| Overnight Customer Service Representative (Motivator) - Calg | GoodLife Fitness | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4477351046 |
+| Universal Financial Associate - Langdon | Servus Credit Union | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479198541 |
+| Sales Associate-Print&Services | Staples Canada | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480306432 |
+| Sales and Rental Associate | Long & McQuade Musical Instruments | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480191689 |
+| Full Time Sales Associate (Store 3267 - High River) | Pet Valu | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479306389 |
+| Part Time Sales Associate (Store 3267 - High River) | Pet Valu | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479310404 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480304597 |
