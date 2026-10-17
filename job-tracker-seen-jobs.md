@@ -22499,3 +22499,16 @@
 | RECEPTIONIST | Extendicare | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480840653 |
 | Anthropologie Sales Associate | Anthropologie | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4450821931 |
 | Part-Time Sales Associate - Famous Footwear CAN | Famous Footwear | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4470735309 |
+| Accounting Analyst | Suncor Energy | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=777362163dce1b61 |
+| Team Lead (Full time) - Deerfoot Meadows | RCL - Reitmans Canada Ltd/Ltée | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480838772 |
+| Finance Transformation, Enterprise Performance Management, S | PwC Canada | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4454571176 |
+| Sales Representative- Permanent Full-Time -  (Supply Chain a | Chit Chats | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480851422 |
+| Appointment Center Specialist | Mount Valley Foundation Services | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480849479 |
+| Human Resources Administrator | Canadian Armed Forces | Forces armées ca | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4451204805 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Financial Services Administrator | Canadian Armed Forces | Forces armées ca | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4451203891 |
+| Talent Acquisition Coordinator (Contract) | Clark Builders | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4463630242 |
+| Sales Associate | Shimoon Jewellers Ltd | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=9dca93ba7ee45c21 |
+| Personal Banking Associate | TD | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4469288611 |
+| Customer Experience Associate | TD | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4472203006 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480858124 |
