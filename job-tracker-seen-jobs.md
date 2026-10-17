@@ -22433,3 +22433,44 @@
 | Sales Associate | Shimoon Jewellers | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479625214 |
 | Sales Associate | Staples Canada | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4480558480 |
 | Financial Project Controller | WSP in Canada | 2026-10-16 | G | https://www.linkedin.com/jobs/view/4479638071 |
+| Senior Network & Infrastructure Specialist | iF1 Solutions | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=0ba1bfee4e2ec64d |
+| Business Development Officer - Workforce Development (Tempor | Bow Valley College | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=3e9ad7a17258ddfe |
+| Business Development Officer - Workforce Development (Projec | Bow Valley College | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=4ef6aadc16056d9a |
+| Financial Analyst | MLT Aikins LLP | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=8914afd22b0634b7 |
+| Inventory Coordinator (Calgary) | BFG Enterprise Services | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=511c022a4263287c |
+| SOC Analyst, Junior | Long View Systems | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=7fb4fd7e30bbe175 |
+| Financial Analyst | Cenovus Energy | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=b7d872bceac7b0dd |
+| UKG Project Analyst, Payroll | City of Calgary | 2026-10-17 | J | https://ca.indeed.com/viewjob?jk=65c6f29e745acca6 |
+| Stock Specialist (Part Time) - Chinook Centre | Nestlé Nespresso SA | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480567944 |
+| Talent Acquisition Advisor | Co-operators | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480564585 |
+| Electrical Operations Engineer | TC Energy | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4477735578 |
+| Corporate IT SOX Coordinator | Enerflex Ltd. | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4477732572 |
+| Application Specialist | Applied Industrial Technologies - Canada | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480594008 |
+| Coordinator, CPA Program | BDO | 2026-10-17 | N | https://ca.indeed.com/viewjob?jk=a6742a0e7fd6061c |
+| Administrative Assistant | FLINT Corp. | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480585077 |
+| Legal Administrative Assistant | Preszler Injury Lawyers | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480578302 |
+| Appointment Center Specialist | Groundworks | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480568416 |
+| Senior Wealth Advisor | ATB Financial | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480566521 |
+| Neighbourhood Resource Coordinator - Recreation Officer II | City of Edmonton | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4477743153 |
+| Indigenous Clinical Trials Operations and Partnerships Speci | University of Alberta | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480578224 |
+| Support Coordinator SWSE/Coordonnateur/coordonnatrice de sou | YMCA of Greater Toronto | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480574189 |
+| Shared Service Advisor | University of Alberta | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480564774 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4479645233 |
+| Officer, Human Resources Business Partner (Field) | Canada Post / Postes Canada | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4456942648 |
+| Functional Analyst | University of Alberta | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480566610 |
+| Officer, Planning & Development (1-yr Term Full-Time) | Lac La Biche County | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4477742283 |
+| Office Support Specialist | Aston Carter | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480565731 |
+| IT Specialist II | Modine Manufacturing Company | 2026-10-17 | R | https://ca.indeed.com/viewjob?jk=3726f226856065d3 |
+| HR Services Administrator | Aurora Cannabis, Inc | 2026-10-17 | R | https://ca.indeed.com/viewjob?jk=5aedc66f7cc562e2 |
+| SOC Analyst, Junior | Long View Systems | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4477728920 |
+| IT Support Associate | Compugen Inc | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4479643294 |
+| Research Coordinator, Neuroinclusive Housing, School of Publ | University of Calgary | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=ee952a7cd3f1cdd1 |
+| Graduate Scholarship Officer, Faculty of Graduate Studies | University of Calgary | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=4dcb575715942da2 |
+| Specialist, Institutional Effectiveness | University of Calgary | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=551b30b57339582c |
+| Advisor, Processes & Solutions, People and Culture | University of Calgary | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=5b7d313ec25602ff |
+| RECEPTIONIST | ParaMed Home Health Care | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480582038 |
+| Sales Associate (Full-Time) - Market Mall | Nestlé Nespresso SA | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480586247 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480586304 |
+| Deli Bakery Team Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480573852 |
+| Overnight Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480569959 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480578622 |
