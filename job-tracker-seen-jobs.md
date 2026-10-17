@@ -22480,3 +22480,12 @@
 | Youth Care Specialist | Closer to Home Community Services | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480811769 |
 | Analyst-Corporate | Peel Regional Police | 2026-10-17 | R | https://ca.indeed.com/viewjob?jk=4aebfb4417e49e2b |
 | Customer Experience Associate - Fixed Term Contract | TD | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480812425 |
+| Senior Project Controls Specialist | Airswift | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4462899879 |
+| Costume Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4454359753 |
+| Business Intelligence Analyst | Aston Carter | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4477769610 |
+| Kit Box Parts Advisor | Siemens Energy | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4461660514 |
+| Field Operations Associate | Grainger Canada | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4453522125 |
+| Coordinator, Community | Regional Municipality of Wood Buffalo | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480823548 |
+| Costume Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4454378068 |
+| US Tax Analyst | TransAlta | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4472204632 |
+| Specialist, Canadian Corporate Tax | KPMG Canada | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4454339743 |
