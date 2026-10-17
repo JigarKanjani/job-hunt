@@ -22518,3 +22518,5 @@
 | Communications Coordinator | Isarta | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480588352 |
 | SEO (Search Engine Optimization) Specialist (Remote, Toronto | Blacksmith Agency | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4480846665 |
 | Receptionist - Lola Lash Bar CROWFOOT | Lola Lash Bar | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=12844f6c32a025f8 |
+| Temporary Child Development Advisor - Meadowbrook Middle Sch | Rocky View Schools | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4479689873 |
+| Guest Service Agent | Pomeroy Lodging | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=52a8315e59d4b1f1 |
