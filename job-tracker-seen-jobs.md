@@ -22512,3 +22512,9 @@
 | Personal Banking Associate | TD | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4469288611 |
 | Customer Experience Associate | TD | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4472203006 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480858124 |
+| Administrative & Operations Coordinator | Prophet River Firearms | 2026-10-17 | N | https://ca.indeed.com/viewjob?jk=feeeefaaa75e1d3d |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Event Coordinator | Sky + Table Event Group | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4479900281 |
+| Communications Coordinator | Isarta | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4480588352 |
+| SEO (Search Engine Optimization) Specialist (Remote, Toronto | Blacksmith Agency | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4480846665 |
+| Receptionist - Lola Lash Bar CROWFOOT | Lola Lash Bar | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=12844f6c32a025f8 |
