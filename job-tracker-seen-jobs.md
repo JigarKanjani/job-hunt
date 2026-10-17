@@ -22489,3 +22489,13 @@
 | Costume Coordinator Club Med Resorts Canada or overseas | Club Med | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4454378068 |
 | US Tax Analyst | TransAlta | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4472204632 |
 | Specialist, Canadian Corporate Tax | KPMG Canada | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4454339743 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Junior Planner | Turner & Townsend | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4462325177 |
+| Junior EDS Specialist – Engineering Design Systems | Worley | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4480835288 |
+| Project Coordinator | Aecon Group Inc. | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4453206800 |
+| Operations Supervisor | Badger Infrastructure Solutions | 2026-10-17 | J | https://www.linkedin.com/jobs/view/4463362640 |
+| Marketing Communication Specialist | GoodMorning | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4472096116 |
+| Junior EDS Specialist – Engineering Design Systems | Worley | 2026-10-17 | R | https://www.linkedin.com/jobs/view/4480836285 |
+| RECEPTIONIST | Extendicare | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4480840653 |
+| Anthropologie Sales Associate | Anthropologie | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4450821931 |
+| Part-Time Sales Associate - Famous Footwear CAN | Famous Footwear | 2026-10-17 | G | https://www.linkedin.com/jobs/view/4470735309 |
