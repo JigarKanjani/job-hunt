@@ -22538,3 +22538,12 @@
 | Personal Banking Associate Trainee | TD | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480876575 |
 | Personal Banking Associate Trainee | TD | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480885007 |
 | Overnight Associate | Walmart Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480869915 |
+| Financial Analyst | FYidoctors | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4454135487 |
+| Midstream Business Development Advisor - Refined Products | Imperial Oil | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4463651804 |
+| AP/AR/Payroll Administrative Assistant | Pittsburgh Glass Works | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480882687 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4479930462 |
+| [B] Mental Health Support Worker Casual AgeCare Riverview-1 | AgeCare | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4438828332 |
+| Data Analyst | $90/hr Remote | Crossing Hurdles | 2026-10-18 | R | https://www.linkedin.com/jobs/view/4471068412 |
+| Receptionist | AgeCare | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4152007053 |
+| Sales Associate-Print&Services | Staples Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4472429197 |
