@@ -22547,3 +22547,10 @@
 | Data Analyst | $90/hr Remote | Crossing Hurdles | 2026-10-18 | R | https://www.linkedin.com/jobs/view/4471068412 |
 | Receptionist | AgeCare | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4152007053 |
 | Sales Associate-Print&Services | Staples Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4472429197 |
+| Strategic Sourcing - Data Center Infrastructure Equipment an | CoreWeave | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4461810565 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480895942 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480915089 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480904552 |
+| Staff FrontEnd Engineer - Platform - App Core Usage | Canada | Grafana Labs | 2026-10-18 | R | https://ca.indeed.com/viewjob?jk=9c3b2c1471891616 |
+| Administrative Associate (West Oak Family Office) | Wellington-Altus | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4462367244 |
