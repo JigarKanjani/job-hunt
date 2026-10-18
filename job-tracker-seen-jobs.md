@@ -22520,3 +22520,13 @@
 | Receptionist - Lola Lash Bar CROWFOOT | Lola Lash Bar | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=12844f6c32a025f8 |
 | Temporary Child Development Advisor - Meadowbrook Middle Sch | Rocky View Schools | 2026-10-17 | N | https://www.linkedin.com/jobs/view/4479689873 |
 | Guest Service Agent | Pomeroy Lodging | 2026-10-17 | G | https://ca.indeed.com/viewjob?jk=52a8315e59d4b1f1 |
+| Arborist Crew Leader | The Davey Tree Expert Company | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480858630 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Beauty Specialist, Hourly Part Time Day | Loblaw Companies Limited | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480860410 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480857865 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480856851 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4479696797 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480859634 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480872132 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480854913 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480873116 |
