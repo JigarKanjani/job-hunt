@@ -22530,3 +22530,11 @@
 | GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480872132 |
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480854913 |
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480873116 |
+| Travelling Workforce Logistics Coordinator | First Onsite Property Restoration | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480864873 |
+| Service Leader | Chipotle Mexican Grill | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480867800 |
+| Service Leader | Chipotle Mexican Grill | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480866843 |
+| SIL Outreach Support Worker (FT) - Edmonton SIL | Catholic Social Services Alberta | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4479908818 |
+| property administrator | Martello Group | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480882302 |
+| Personal Banking Associate Trainee | TD | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480876575 |
+| Personal Banking Associate Trainee | TD | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480885007 |
+| Overnight Associate | Walmart Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480869915 |
