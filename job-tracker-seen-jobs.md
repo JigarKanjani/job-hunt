@@ -22554,3 +22554,13 @@
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-18 | N | https://www.linkedin.com/jobs/view/4480904552 |
 | Staff FrontEnd Engineer - Platform - App Core Usage | Canada | Grafana Labs | 2026-10-18 | R | https://ca.indeed.com/viewjob?jk=9c3b2c1471891616 |
 | Administrative Associate (West Oak Family Office) | Wellington-Altus | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4462367244 |
+| Analyste bilingue, financement (BDO GrantMatch) | BDO Canada | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480565424 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Senior Data Quality Analyst | BDO Canada | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4477626070 |
+| Coordinator, CPA Program | BDO Canada | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480506408 |
+| Funding Analyst (BDO GrantMatch) | BDO Canada | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480575016 |
+| Analyste bilingue, financement (BDO GrantMatch) | BDO Canada | 2026-10-18 | J | https://www.linkedin.com/jobs/view/4480563460 |
+| Aerospace Telecommunications and Information Systems Technic | Canadian Armed Forces | Forces armées ca | 2026-10-18 | R | https://www.linkedin.com/jobs/view/4451217849 |
+| Performance Marketing Specialist (Remote, Vancouver) | Blacksmith Agency | 2026-10-18 | R | https://www.linkedin.com/jobs/view/4480917169 |
+| Wealth Associate | National Bank of Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4478233508 |
+| Sales Associate-Print&Services | Staples Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480926114 |
