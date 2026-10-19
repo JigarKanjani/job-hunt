@@ -22571,3 +22571,4 @@
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480935187 |
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480927617 |
 | Beauty Specialist, Hourly Full Time Day | Shoppers Drug Mart | 2026-10-19 | G | https://www.linkedin.com/jobs/view/4480923881 |
+| TA Scheduler | Airswift | 2026-10-19 | G | https://www.linkedin.com/jobs/view/4477184975 |
