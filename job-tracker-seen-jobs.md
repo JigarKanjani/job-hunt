@@ -22564,3 +22564,10 @@
 | Performance Marketing Specialist (Remote, Vancouver) | Blacksmith Agency | 2026-10-18 | R | https://www.linkedin.com/jobs/view/4480917169 |
 | Wealth Associate | National Bank of Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4478233508 |
 | Sales Associate-Print&Services | Staples Canada | 2026-10-18 | G | https://www.linkedin.com/jobs/view/4480926114 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480932376 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480933320 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480935204 |
+| GOAPRDJP000001047 – Administrative Assistant – Intermediate | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480938094 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480935187 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480927617 |
+| Beauty Specialist, Hourly Full Time Day | Shoppers Drug Mart | 2026-10-19 | G | https://www.linkedin.com/jobs/view/4480923881 |
