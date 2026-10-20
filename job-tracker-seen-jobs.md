@@ -22630,3 +22630,8 @@
 | Junior Full-Stack Developer (Contract) | Stichting Mission on Wheels | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481532142 |
 | Administrative Support IV | Recovery Alberta | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=838d2146edaa8643 |
 | Front End Checkout Team Associate | Walmart Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4481538083 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Pricing Tactics Advisor | Imperial Oil | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4472777109 |
+| Project Coordinator | Integrated Power Services | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481591270 |
+| Sales Receptionist South Calgary | Brewery District - Massage Heights | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=5ea75cbd4c1168b1 |
+| Enterprise Customer Support Specialist | Clio | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4473097454 |
