@@ -22681,3 +22681,59 @@
 | Desktop Support Analyst | Compugen Inc | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4480494481 |
 | Receptionist | Options Consulting Solutions | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480493991 |
 | Imaging Research and Development Associate | Alimentiv | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480499042 |
+| Continuous Improvement Specialist | Omnigence Asset Management | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=2e13e05f27149221 |
+| Endpoint Management Specialist | De Havilland Aircraft of Canada Ltd | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=dde949711f4269cf |
+| Jr. Financial Analyst | Brookfield Residential | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=d50d4b387ec18cfc |
+| Security Operations Centre (SOC) Analyst - Night Shift | Cybera | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=49cb269c35e15a4d |
+| Heart for Home Calgary Coordinator | Oak Park Church of Christ | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=eabab0438b26c2aa |
+| Operations & Guest Relations Coordinator | Banff Everyday Tours | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=4dddcec8db669dca |
+| Team Leader Position - Child and Youth Support [ Group Care] | Restore Child and Youth. Inc | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=6eca20d4d5912e54 |
+| Analyst – Corporate Services Contracts – Information Service | Raise | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481770478 |
+| Supply Chain Coordinator | Ecolab | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481782517 |
+| Contract Analyst | Hays | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481774636 |
+| Contract Analyst | Agilus Work Solutions | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480742010 |
+| Buyer | Airswift | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4478923311 |
+| Project Administrator, Quality, Operations | MNP | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480712661 |
+| Project Coordinator (Building Design/Engineering) | Avia NG Airport Consultants | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480727201 |
+| Marketing Specialist | Gowling WLG | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480730020 |
+| Specialist, Institutional Effectiveness | University of Calgary | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480558835 |
+| Senior Product Specialist - Resiliency & Sustainability | Co-operators Assurance et services finan | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480725343 |
+| Aerie - Merchandise Leader (Part-Time) | American Eagle Outfitters Inc. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480727436 |
+| Production Accounting Analyst | Raise | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481759846 |
+| Analyst, Corporate Banking, CIB Credit | TD | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481782494 |
+| Senior Product Specialist - Resiliency & Sustainability | Co-operators | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481775726 |
+| Commercial and Financing Analyst | Ridge North America | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480721847 |
+| Showroom Team Lead | INDOCHINO | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481797038 |
+| Coordinator, Payroll & Benefits | Town of High River | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480705919 |
+| Platform Administration Lead with Management Experience | Infosys | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4478931983 |
+| ACCOUNTING & FINANCE ADVISOR | Walshken Immigration | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=7f6ad27495698a4a |
+| Part Time Youth Worker (E39) | Residential Aide Placement Service | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=374c45ebfb1c0bb3 |
+| Safety & HR Coordinator | DC Drilling Inc. | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=6ec3e142b885c38c |
+| Recruitment Analyst | Canadian Natural Resources Limited (CNRL | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480728602 |
+| Administrative Assistant | Contract Professionals Canada Inc. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480722520 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Conflicts Specialist | Gowling WLG | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480709976 |
+| Financial Planner | BMO | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4471186327 |
+| Beauty Specialist, Hourly Full Time Evening | Shoppers Drug Mart | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481781482 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481784368 |
+| Christmas Camp Counselor | Easter Seals Alberta | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481792249 |
+| Residence Life Coordinator - Residence Life, Campus Services | MacEwan University | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4479587799 |
+| Planning & Systems Coordinator | Barnhart Crane & Rigging | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480737273 |
+| Inside Sales Coordinator | GFL Environmental Inc. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481793060 |
+| Planning & Systems Coordinator | Barnhart Canada | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481795306 |
+| Project Coordinator | EDL Building Solutions | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480737222 |
+| ADS Advisor | Government of Alberta | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480726253 |
+| Investment Specialist, temporary 12-month contract | Canada Life | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480738035 |
+| Patient Services Specialist | FYidoctors | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478914930 |
+| Product Support Specialist - Membee | Beacon Holdings | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=9dab46408ecd3f28 |
+| Master Data & Inventory Analyst | Canadian Natural Resources Limited (CNRL | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4480738413 |
+| Endpoint Management Specialist | De Havilland Aircraft of Canada Limited | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481779254 |
+| AUTOMATION PROFESSIONAL | MPE a division of Englobe | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4478935052 |
+| Network and Perimeter Security IT Specialist I - Load Balanc | Enbridge | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4478947127 |
+| Reporting Analyst | CATALIS | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4482003177 |
+| OT Network Engineer – Industrial Automation | Adecco | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4480737444 |
+| Customer Service/Sales Representative | Elite Group Marketing | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=d9a02752be9a25d1 |
+| Associate | Richardson Wealth | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=9cf9764ad9e79ce0 |
+| SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=b006db620630eea6 |
+| Area Surface Land Administrator | Canadian Natural Resources Limited (CNRL | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4478185181 |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480728443 |
