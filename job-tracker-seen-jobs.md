@@ -22635,3 +22635,49 @@
 | Project Coordinator | Integrated Power Services | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481591270 |
 | Sales Receptionist South Calgary | Brewery District - Massage Heights | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=5ea75cbd4c1168b1 |
 | Enterprise Customer Support Specialist | Clio | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4473097454 |
+| Finance Coordinator | Cerebral Palsy Association in Alberta | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=0b4289a98aa4b077 |
+| Tourism operations coordinator | Toundra Voyages | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=ab5370afe389f597 |
+| Civil Engineering Technologist / Data Coordinator | Bunt & Associates Engineering Ltd. | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=d707e2443bcd3701 |
+| Production Accounting Analyst | InSync Systems | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480492807 |
+| Automotive Parts Specialist | NAPA Canada | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4451393266 |
+| Lead Estimator | FLINT Corp. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481718900 |
+| Senior Analyst - Subsurface Innovation - 26352 | Enverus | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480482549 |
+| Engagement Specialist, Haskayne Centres | University of Calgary | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481705246 |
+| Clinical Coordinator – South West Calgary | Snore MD | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481731331 |
+| NOC Analyst | CDW | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481743254 |
+| Business Development Coordinator | Wood Automotive Group | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481728438 |
+| Building Maintenence Coordinator | Varsity Community Association | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480492744 |
+| Customer Support Team Lead | Circle Cardiovascular Imaging | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481594840 |
+| Digital Marketing Coordinator | Wood Automotive Group | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481733402 |
+| Insurance Financial Advisor | Qopia Financial | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480485770 |
+| Technical Support Analyst | MVP Talent Corp | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481735323 |
+| Purchasing Supervisor | EllisDon | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481749457 |
+| Procurement Coordinator | Mauser Packaging Solutions | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481709583 |
+| Overnight Relief Worker | ALPHA HOUSE | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=098e96554dffdaa8 |
+| Human Resources Coordinator – Shared Services | Canadian Red Cross | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=23ef16c9c9359ab0 |
+| Administrative & Accounting Coordinator | Banff Trail Riders | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=f95ad1b1f3d9f676 |
+| Scheduling Coordinator | Home Care | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=db70f75fda92420f |
+| Talent Development Specialist | FLINT Corp. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481733388 |
+| Early Career Environmental Planner | Jacobs | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481757091 |
+| Office Administrator | Harvest Operations Corp. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480498771 |
+| H&M Sales Advisor | H&M | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481260934 |
+| Marketing & Content Specialist | Invico Capital Corporation | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481738151 |
+| Coordinator, Community | Regional Municipality of Wood Buffalo | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480498744 |
+| Clinical Coordinator – St. Albert, AB | Snore MD | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481732370 |
+| Contractor Management Coordinator | NES Fircroft | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480709294 |
+| Office Coordinator | Aecon Group Inc. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480495506 |
+| Generalist Caseworker - Child and Family Services | TalentNova | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480706194 |
+| Family Courtworker | Native Counselling Services of Alberta | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480490888 |
+| Office Administrator | Goldbeck Recruiting | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480494384 |
+| Application Developer | Sobeys | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=c656708d011f6316 |
+| Clinical Informatics Analyst -Full Time -CVH Clinical Inform | Trillium Health Partners | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=79ab5b28ca55d607 |
+| IT Data Analyst & Solutions Developer (2026-23) | City of Lacombe | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=fb9536a8beff41c2 |
+| Business Analyst 1015 | Veracity Ventures Inc. | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=3451513dc88f7e02 |
+| Desktop Support Analyst | Compugen Inc | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=817cef02eb678064 |
+| Junior Developer | Michetti Information Solutions Inc. | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=7c9f928b634a6961 |
+| OBRM Developer - Calgary | Futran Solutions | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481763014 |
+| SOC Analyst, Junior | Long View Systems | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4478901509 |
+| Junior Help Desk Support | MVP Talent Corp | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481730347 |
+| Desktop Support Analyst | Compugen Inc | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4480494481 |
+| Receptionist | Options Consulting Solutions | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480493991 |
+| Imaging Research and Development Associate | Alimentiv | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480499042 |
