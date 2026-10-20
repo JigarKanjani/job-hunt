@@ -22572,3 +22572,50 @@
 | GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-19 | N | https://www.linkedin.com/jobs/view/4480927617 |
 | Beauty Specialist, Hourly Full Time Day | Shoppers Drug Mart | 2026-10-19 | G | https://www.linkedin.com/jobs/view/4480923881 |
 | TA Scheduler | Airswift | 2026-10-19 | G | https://www.linkedin.com/jobs/view/4477184975 |
+| Total Loss Auto Claims Advisor (Calgary On-site) | TD | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=6e248b9b37ec2919 |
+| Supply Chain Management Specialist | COSL Canada Ltd. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480281686 |
+| Coordinator, Project | Aecon Group Inc. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480277808 |
+| Project Coordinator | SABRE LTD | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480290777 |
+| Project Coordinator | Affinity | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480408020 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Financial Operations Administrator, Managed Services | Benevity | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480275900 |
+| Technical Sales Analyst, Geology | ROGII | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480290663 |
+| Rehabilitation Coordinator | CBI Health | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480518995 |
+| Team Leader, Home Based Services | DDRC | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4478625666 |
+| Allied Health Team Lead (2026-1167) | Carewest Innovative Health Care | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481298421 |
+| Team Lead, Customer Success Management | Clio | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480405323 |
+| Learning Systems & Content Specialist | RECRUITMENT PARTNERS INC. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481288707 |
+| Cyber Security Analyst | Insight Global | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480401178 |
+| Environment & Regulatory Advisor | SECURE | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480281568 |
+| Senior Financial Analyst – Legal Entity & External Reporting | Manpower | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480296142 |
+| Senior Digital Marketing Specialist | Fullscript | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481507148 |
+| Procurement Specialist | Metalex Metal Buildings Inc. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480297378 |
+| Senior Analyst, Business | EPCOR | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481282979 |
+| Coordinator, Project | Aecon Group Inc. | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480285560 |
+| Home Care Worker Tagalog Speaker SE Calgary Langdon area | A&A Compassonate Homecare Services | 2026-10-20 | N | https://ca.indeed.com/viewjob?jk=7fa20e0a125d5942 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481284605 |
+| Veterinary Reception, Client Care, Western Veterinary Specia | VCA Animal Hospitals | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480258386 |
+| Accounts Payable Administrator | RECRUITMENT PARTNERS INC. | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481507065 |
+| Family Counsellor - Functional Family Therapy | Carya | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4480296371 |
+| Advisor, Leadership Development & Learning | Alberta Energy Regulator (AER) | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481515094 |
+| Mobile Mortgage Advisor - (Commission Only) - Calgary | CIBC | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481504106 |
+| Specialist - Digital Marketing (12-month contract) | EECOL Electric | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478634246 |
+| Business Services Administrator | Colliers Project Leaders | Canada | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481289446 |
+| Hourly Payroll Administrator - Corporate | Bird Construction | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481508366 |
+| Advisor, Community Emergency Management Plans | Regional Municipality of Wood Buffalo | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481506215 |
+| Service Coordinator - Canada Service | Powell | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478621863 |
+| Social Planner | City of Edmonton | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478639066 |
+| Care Coordinator | Lifemark Health Group | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478624635 |
+| Product Specialist | Capital Automotive Group | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=d71c0adf0c184acf |
+| Business Analyst | Government Of Alberta | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=87733e4d7705e075 |
+| Application Support Analyst | Durabuilt Windows & Doors | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=fc4c52a43f19e6d7 |
+| Associate Analyst, Service Desk | Opensity solutions | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=0c96b0ea3cc6dd70 |
+| Technology Support Analyst (Competition #S2526-0402) | WOLF CREEK SCHOOL DIVISION | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=9071a80ef37d4688 |
+| Canada Gas – Business Analyst Rotation Program | TC Energy | 2026-10-20 | R | https://ca.indeed.com/viewjob?jk=804be4b3083133f6 |
+| Automation Engineer | Genpact | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4478620990 |
+| Safety Trainer | Stock Transportation | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481502005 |
+| Sales Coordinator | SECURE | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=9ef78af4d3925ddd |
+| Hardware Sales Associate: Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480404426 |
+| Pro Account Sales Associate - Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480294758 |
+| Plumbing/Electrical Sales Associate: Part Time - COUNTRY HIL | The Home Depot Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480403457 |
+| Health and Safety Advisor | Agilus Work Solutions | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480288517 |
