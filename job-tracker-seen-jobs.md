@@ -22619,3 +22619,14 @@
 | Pro Account Sales Associate - Part Time - COUNTRY HILLS | The Home Depot Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480294758 |
 | Plumbing/Electrical Sales Associate: Part Time - COUNTRY HIL | The Home Depot Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480403457 |
 | Health and Safety Advisor | Agilus Work Solutions | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480288517 |
+| Industrial Technologist / Project Coordinator | Endurance Technologies Inc. | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=8039fd5e215b4262 |
+| Field Leader - Greater Calgary Area | Chipotle Mexican Grill | 2026-10-20 | J | https://ca.indeed.com/viewjob?jk=c9ba5eb5bbc2a24f |
+| Event Coordinator | Moxies | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481210627 |
+| Geographic Information Systems Analyst | Foothills County | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4480237775 |
+| Junior Data & Machine Learning Specialist (Contract) | Stichting Mission on Wheels | 2026-10-20 | J | https://www.linkedin.com/jobs/view/4481526671 |
+| sales and promotions coordinator | Window Mart | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4481547132 |
+| Office Support Specialist | Aston Carter | 2026-10-20 | N | https://www.linkedin.com/jobs/view/4478649825 |
+| New Grad, Process Data Solutions, Calgary (June 2027) | Cenovus Energy | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481516863 |
+| Junior Full-Stack Developer (Contract) | Stichting Mission on Wheels | 2026-10-20 | R | https://www.linkedin.com/jobs/view/4481532142 |
+| Administrative Support IV | Recovery Alberta | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=838d2146edaa8643 |
+| Front End Checkout Team Associate | Walmart Canada | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4481538083 |
