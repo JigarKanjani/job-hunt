@@ -22780,3 +22780,10 @@
 | EMR/EHR Implementation Specialist | Alignerr | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4482020359 |
 | Receptionist - AgeCare SkyPointe | AgeCare | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482024678 |
 | SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4480742402 |
+| Indigenous Health Coordinator | Primary Care Alberta | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=fe199c40263aa504 |
+| People Relations Coordinator | Covenant Health Canada | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=2adf47d530aaaf7e |
+| Senior Contract Administrator, Justice | NORR | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4478989172 |
+| administrative assistant | Youness Canada Immigration Ltd | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482046650 |
+| Executive Administrative Coordinator | Primary Care Alberta | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=6c149abadd60f354 |
+| NOC Specialist | Rogers Communications | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=c882996fd6643b08 |
+| Administrative Support V | Primary Care Alberta | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=159b29af225960e4 |
