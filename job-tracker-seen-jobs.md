@@ -22887,3 +22887,56 @@
 | Sales Associate-Print&Services | Staples Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482157872 |
 | Sales Associate | Staples Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482166212 |
 | Project Coordinator | Modus Structures Inc | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482156914 |
+| Material Buyer | Surerus Murphy Joint Venture | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=7e882cca56220001 |
+| Parts Advisor | CanaDream Career Page | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=46bdc279df5817d4 |
+| Engineering Lead | MCG Careers | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=f5faaa0d7c9de66d |
+| Senior Analyst FP&A | Enerflex | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=08fbcb8fbceac97f |
+| Communications Specialist - Taza | Canderel | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=e418f5a9a7b592a5 |
+| HR/HSE Coordinator | ROSENXT ADVANCED MATERIALS CANADA LTD. | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=b0eca459ff47bf0a |
+| Shelter Intake Coordinator | Discovery House Family Violence Preventi | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=4dd3aef3122331cd |
+| Category Manager - Livestock & Farm Hardware | Federated Co-operatives Limited | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=efebc82cf5d75933 |
+| Supply Chain Management Projects Contracts Advisor | Raise | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482155670 |
+| Supply Chain Analyst | Insight Global | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481167465 |
+| SCM Projects Contracts Advisor | Manpower | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481175041 |
+| Specialist Contracts Center | Enbridge | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479455308 |
+| Associate Program Manager, UCalgary Continuing Education | University of Calgary | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482033531 |
+| Rebate Analyst | TalentSphere Staffing Solutions | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482170430 |
+| AltaGas - People Services Coordinator, Talent Acquisition | AltaGas Ltd. | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481156686 |
+| Recruitment Coordinator | SGS | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479442803 |
+| Senior Analyst FP&A | Enerflex Ltd. | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479450631 |
+| Senior Regulatory Advisor, Pipeline and Facility Licensing | Cenovus Energy | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482170961 |
+| Quality Management Systems And Health And Safety Officer | Grant Metal Products | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481146849 |
+| ML / TQM Operations Engineer | TC Energy | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479453586 |
+| Senior Business Systems Analyst | Co-operators | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482180338 |
+| Team Lead, BPC System | TC Energy | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479445803 |
+| Reports Coordinator | Lifemark Health Group | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479445739 |
+| Reserach Coordinator, Inflammatory Bowel Disease Unit | University of Calgary | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482180239 |
+| Team Lead Remote Operations Center | Enbridge | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479453454 |
+| Family Support Counsellor I / II - Family Support Network | Wood's Homes | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=9ee43fcc91da1d29 |
+| HR Coordinator | Transcanada Turbines | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=11c83705a0e45139 |
+| Recruitment Coordinator | SGS | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=2a896319c97cb5d3 |
+| Employment Coordinator | iHuman Youth Society | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=014b4a6145ad3890 |
+| Office Coordinator | Norton Denture Care Center Inc | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=67b35d561cdfa51f |
+| Portfolio Resource Coordinator- Healthcare | Paladin Security | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=31767684e1dd57b9 |
+| HR/HSE Coordinator | Rosenxt Group | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481175215 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481155776 |
+| Accounting Specialist, Accounting Operations | University of Calgary | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482183151 |
+| Land Permitting & Regulatory Specialist | Brunel | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481156765 |
+| Casualty Claims Specialist | Aviva Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481175145 |
+| Student Support Advisor - Wellness | University of Calgary | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482025776 |
+| HR Business Partner Specialist | Cenovus Energy | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482179692 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482175193 |
+| Casualty Claims Specialist | Aviva Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481156958 |
+| Branch Administrator | Government of Alberta | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481164162 |
+| Process Engineer | McAsphalt Industries | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=10f7028abac3d47f |
+| Process Engineer | McAsphalt Industries Limited | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4479459186 |
+| Business Analyst | Government of Alberta | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481167093 |
+| Advanced Technical Support Specialist CA MDT | Patterson-UTI | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4479388576 |
+| Customer Care and Training Specialist - Remote, Canada based | Demant | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481166558 |
+| LEMs Analyst | Airswift | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4479455278 |
+| Customer Service Representative | Yash Ram Inc | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=314408398e316402 |
+| Collections Specialist | MLT Aikins LLP | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=8c1082a7fad742f5 |
+| Security Services Agent | Calgary TELUS Convention Centre | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=eada37218373ce3f |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4481164416 |
+| Priority Initiatives Program Specialist, VP Development and  | University of Calgary | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482166582 |
+| Co-op or Intern, Risk Advisory Services - Vancouver or Calga | BDO Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482182067 |
