@@ -22737,3 +22737,46 @@
 | SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-20 | G | https://ca.indeed.com/viewjob?jk=b006db620630eea6 |
 | Area Surface Land Administrator | Canadian Natural Resources Limited (CNRL | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4478185181 |
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-20 | G | https://www.linkedin.com/jobs/view/4480728443 |
+| Master Data & Inventory Analyst | Canadian Natural | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=3051ada3bd03bcfe |
+| Supply Chain Coordinator | Ecolab | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=eab1246c87439fa9 |
+| Fulfillment Operations Coordinator (Overnight) - Receiving | IKEA | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=c749c21c7887691e |
+| HR Specialist IV - Talent Acquisition & Business Partnering | True Environmental | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=614c968f001c3598 |
+| Team Lead, Dealer Engagement | PBS Systems | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=3dd16831a10ec59d |
+| Sawyer - Lumber, Star Building Materials | Star Building Materials Calgary | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=55242decbd05930b |
+| Business Analyst | Omega 365 | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=61131e28ba69ebf4 |
+| Supply Chain Systems & Analytics Specialist - Corporate | Bird Construction | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482004841 |
+| Active Collections Specialist | NRG Energy | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4478957229 |
+| EOP & 3rd Party Collections Specialist | NRG Energy | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4478939972 |
+| Field Coordinator | BUILD IT | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482036286 |
+| Electrical Field Coordinator - Energy Construction | Kiewit | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480750020 |
+| Senior Program Manager I | Affirm | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480744312 |
+| Paid Media Specialist | STRIDE Management Corp | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480735559 |
+| Jr. Financial Analyst | Brookfield Residential | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480741657 |
+| Area Human Resources Specialist | Securitas Canada | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4478944789 |
+| Lottery Delivery Coordinator | STRIDE Management Corp | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480747190 |
+| Transportation Design Engineer | Urban Systems Ltd. | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482022671 |
+| Business Analyst - SCM | Government of Alberta | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4480759162 |
+| Program Support Worker - Weekends | YWCA Calgary | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=102cf8c96e9cd7f9 |
+| Program Support Worker - Evenings | YWCA Calgary | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=f0a69119654dc2e3 |
+| Student Support Advisor - Wellness | University of Calgary | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=bb647e2fb8cdd038 |
+| Engagement Specialist, Haskayne Centres | University of Calgary | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=7b88a11b8a2dda08 |
+| Recruitment Analyst | Canadian Natural | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=1854b91e66196c53 |
+| Program Coordinator | Parkland Community Living and Supports S | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=5671275b90e08bf5 |
+| Adult Services Coordinator | Parkland Community Living and Supports S | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=fb5968b790b0703c |
+| Employment Standards & Workers' Compensation Senior Policy A | Government of Alberta | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480740839 |
+| Insurance Advisor | Western Financial Group | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480747494 |
+| New Home Sales Specialist | Truman | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480734925 |
+| Product Sales Specialist | RealEstAi Inc. | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480728489 |
+| Registration & Records Specialist | Lethbridge Polytechnic | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480744538 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480736755 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482038173 |
+| Application Analyst | City of Calgary | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=7f63ee827668fa27 |
+| Reporting Analyst | Catalis | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=82e99ab0b65b9256 |
+| Helpdesk Support Technician | Smart Start Canada ULC | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=20311fa520ae1c72 |
+| Customer Experience Specialist | Flex | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=8958fc6c4a0aa8da |
+| NOC Analyst | CDW | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=ba1266ea38017173 |
+| Desktop Support Technician | TMC Canada | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4478954231 |
+| Clinical Systems Analyst | Alignerr | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4482009904 |
+| EMR/EHR Implementation Specialist | Alignerr | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4482020359 |
+| Receptionist - AgeCare SkyPointe | AgeCare | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482024678 |
+| SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4480742402 |
