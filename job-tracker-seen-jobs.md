@@ -22819,3 +22819,71 @@
 | 70240  Winners Sales Associate Deerfoot city | TJX Canada – Winners, Marshalls, HomeSen | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482086891 |
 | Financial Services Associate | Harmony Nexus Financial Group Inc. | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4480781222 |
 | Safety Compliance Officer | Calgary Airports | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4477809240 |
+| Sr Finance & Planning Advisor - Downstream | Suncor Energy | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=39ab77f1ef8f8322 |
+| Contract SCM Projects Contracts Advisor | Cenovus Energy | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=75e3550afab55903 |
+| Logistics Coordinator II | Spirit Omega Inc. | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=8d5ae7bc4bc3ac1d |
+| Intermediate Logistics Coordinator (Part Time) | Omega 365 | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=892a0409a6ce1770 |
+| Lead Administrator / Clinic Coordinator – West Springs | Evolve Chiropractic & Wellness Center | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=4677f202c7912a50 |
+| Marketing Coordinator (Calgary South) | Trail Appliances AB/SK | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=8099cc7f456654b5 |
+| SOC Analyst, Intermediate | Long View Systems | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=0e271941e2684599 |
+| Office Administrator / Operations Assistant – Full-Time | Rhysley | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=a3cfc7314b00bbc8 |
+| Senior Merchandise Planner & Supply Chain Manager | CSC Generation | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=55e9bcfd1d8dee85 |
+| Senior Project Lead | Government Of Alberta | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=936327f13bd175b9 |
+| Contract Services Analyst | Government Of Alberta | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=95dbe26d1ae6a09c |
+| Intermediate SCM Contracts Advisor | Petroplan | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482141929 |
+| Senior Associate, Procurement | Plains | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481145692 |
+| SCM Projects and Contracts Advisor | Brunel | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481152459 |
+| SCM Contract Advisor | Petroplan | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482158516 |
+| Project Coordinator | SABRE LTD | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481154196 |
+| Senior Business Technology Analyst | Certarus Ltd. | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481141570 |
+| Applications Specialist (Panel Estimator) | SABRE LTD | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481148429 |
+| Sr Finance & Planning Advisor - Downstream | Suncor | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482145901 |
+| Travel & Logistics Admin | Airswift | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4479435458 |
+| Senior Canadian Team Lead/Customs Rater | JORI Logistics | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481152529 |
+| Project Estimating Lead | Airswift | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4475803783 |
+| Technical Program Manager | Ecolab | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4455581031 |
+| Finance & Planning Advisor - Upstream | Suncor | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482166019 |
+| Information Technology Project Coordinator | Alquemy Search & Consulting | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481139860 |
+| Patient Care Coordinator/Admin | Evolve Chiropractic & Wellness Center | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=30c35e4abdc0c219 |
+| Finance & Planning Advisor - Upstream | Suncor Energy | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=442d9216a75d576a |
+| Counsellor | Pathfinder Therapy | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=8a8466f9b8aa89d7 |
+| Billing & Insurance Claims Administrator | MCG Careers | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=1a8a163f3ff71b84 |
+| Administrative & Marketing Coordinator | Wave Media Inc | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=2499fe25d725a91d |
+| Health and Safety Coordinator | The Home Depot Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481157093 |
+| Marketing Coordinator (Calgary South) | Trail Appliances AB/SK | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482122952 |
+| Human Resources Coordinator | Stick People Solutions Inc. | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481150397 |
+| Payroll Coordinator | Deloitte | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482141914 |
+| Document Control Officer | BBA Consultants | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4473539099 |
+| Safeguarding Research Analyst | University of Calgary | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4480564510 |
+| Supply Chain Management Projects Contracts Advisor | Raise | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482152917 |
+| Production Accounting Analyst | Adecco | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481140437 |
+| Business Analyst | Raise | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482150868 |
+| Environmental Regulatory Specialist, Pipelines | WSP in Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4471785115 |
+| Fund Development Coordinator | JA Northern Alberta (JANorthAB) | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481134592 |
+| Client Service Coordinator | Bayshore HealthCare | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4479436729 |
+| Project Coordinator (CB) | Clark Builders | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4446108793 |
+| Payroll & Accounting Coordinator | New Star Capital | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481150539 |
+| Payroll Coordinator | Deloitte | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482153647 |
+| Child and Youth Care Worker | Sturgeon Public School Division | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481160176 |
+| Business Intelligence Developer | TWIN STAFFING | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=f9d235f5a5e5c954 |
+| Support Desk/ NOC Analyst | The ITeam | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=77d77572bf2734bb |
+| Data Developer (12 month contract) | TRITON DIGITAL CANADA INC. | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=b48d963c73db8562 |
+| Software & IT Specialist | BGES - Big Guns Energy Services Inc. | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481133724 |
+| AI Developer (LLM & Agentic Systems) | WSP in Canada | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4471979755 |
+| System Administrator | Hexagon Autonomous Solutions | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4473537609 |
+| Executive Services Coordinator, Central Business Services (W | Deloitte | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4473527219 |
+| Payroll and Benefits Specialist | Confidential | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481148522 |
+| Digital Operations - Network Analyst | Suncor | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4482148895 |
+| Health and Safety Administrator | Ecco Supply | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=57ec3a7f9a3bbca3 |
+| Customer Service Representative | Budget Promotion Corp | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=86a98f76b71be1cb |
+| External Communications Specialist | E3 Lithium | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=8fb55d94e46b8ff9 |
+| Condominium Administrator/Concierge | Westcorp Property Management Inc. | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=a3057dcf2d602c68 |
+| Mobile Patrol Officer | Impact Security Group | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=265c32c9ac2faaac |
+| Administrative Assistant | WSP in Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4481148724 |
+| Receptionist | FP Inc. | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482139334 |
+| UService Service Advisor - Finance | University of Calgary | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4480573138 |
+| Customer Service Representative | U-Haul | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482145882 |
+| New Home Sales- Associate | Morrison Homes | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4481137615 |
+| Sales Associate-Print&Services | Staples Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482157872 |
+| Sales Associate | Staples Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482166212 |
+| Project Coordinator | Modus Structures Inc | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482156914 |
