@@ -22787,3 +22787,35 @@
 | Executive Administrative Coordinator | Primary Care Alberta | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=6c149abadd60f354 |
 | NOC Specialist | Rogers Communications | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=c882996fd6643b08 |
 | Administrative Support V | Primary Care Alberta | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=159b29af225960e4 |
+| Project Contracts Advisor (2) | Omega 365 | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=5c3e6ddfbc4ee5c0 |
+| Supply Chain Manager | Union Tractor Ltd. | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=43ea133be469fd42 |
+| Supply Chain Coordinator | Union Tractor Ltd. | 2026-10-21 | J | https://ca.indeed.com/viewjob?jk=49b83b71b76e0680 |
+| Operations - Logistics Coordinator II | NES Fircroft | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481112922 |
+| Supply Chain Management Contracts Advisor | Manpower Alberta | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481116751 |
+| Material Program Manager | Raytheon | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4473547166 |
+| Data Program Delivery Lead - Data Solution Owner | Slalom | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481124304 |
+| Intermediate SCM Projects Contracts Advisor | InSync Systems | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481117720 |
+| UKG Project Analyst, Payroll | City of Calgary | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481118653 |
+| Engagement Support Analyst, Audit Central Team (12-month con | Deloitte | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4482115272 |
+| Analyste de Soutien à la Mission - Équipe Centrale de l'Audi | Deloitte | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481115778 |
+| Procurement & Logistics Coordinator | Universal Flooring Systems Ltd. | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4481130146 |
+| PepsiCo Canada: Supply Chain Winter 2027 Co-op | PepsiCo | 2026-10-21 | J | https://www.linkedin.com/jobs/view/4471768004 |
+| Program Coordinator | Blue Heron Support Services Association | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=19eb3f0d8e8a4986 |
+| Client Care Coordinator | WELL Health Technologies Corp | 2026-10-21 | N | https://ca.indeed.com/viewjob?jk=ce19e1aa987a79cd |
+| Website Transformation Digital Communications Specialist | Raise | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4482118054 |
+| SPECIALIST, IT RISK MANAGEMENT - Montreal, Toronto, Calgary  | BDC | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481126361 |
+| Coordinator Construction Services | Defence Construction Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481129069 |
+| People Relations Coordinator | Covenant Health Canada | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4479418030 |
+| Probation Officer | Government of Alberta | 2026-10-21 | N | https://www.linkedin.com/jobs/view/4481122474 |
+| Payroll Specialist | Right Time Group of Companies | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=d29648484628bc0b |
+| Intermediate Analyst | WestJet Airlines | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=15fe416d04d00ffc |
+| QMO Test Specialist | WestJet Airlines | 2026-10-21 | R | https://ca.indeed.com/viewjob?jk=adf4c15ec1ec733e |
+| Systems Control Technician | City of Calgary | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481127342 |
+| Analyst I, Falcon Complete (Remote, CAN) | CrowdStrike | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4479412337 |
+| Specialist, AVOP | Calgary Airports | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4481774113 |
+| Renewable Energy Analyst (Remote Working) | Renewable Careers | 2026-10-21 | R | https://www.linkedin.com/jobs/view/4482110718 |
+| Full-Time Receptionist / Physio Assistant | Clearview Physical Therapy & Sports Reha | 2026-10-21 | G | https://ca.indeed.com/viewjob?jk=fc77db5ec26a4a68 |
+| Sales Associate | Market Mall | Part Time- Fixed Term | $17  | Michael Hill | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4471983452 |
+| 70240  Winners Sales Associate Deerfoot city | TJX Canada – Winners, Marshalls, HomeSen | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482086891 |
+| Financial Services Associate | Harmony Nexus Financial Group Inc. | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4480781222 |
+| Safety Compliance Officer | Calgary Airports | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4477809240 |
