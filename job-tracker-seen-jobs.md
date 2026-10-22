@@ -22940,3 +22940,31 @@
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4481164416 |
 | Priority Initiatives Program Specialist, VP Development and  | University of Calgary | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482166582 |
 | Co-op or Intern, Risk Advisory Services - Vancouver or Calga | BDO Canada | 2026-10-21 | G | https://www.linkedin.com/jobs/view/4482182067 |
+| Operations Administrator | CCI INC. | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=36fde729a028ea90 |
+| Advancement & Events Coordinator | Calgary Academy | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=7fdb2c92cb5ac60f |
+| Communications & Marketing Coordinator | Calgary Academy | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=1129a9f27c2ce4c1 |
+| Service and Parts Coordinator | Chinook Equipment | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=0c5d2676b3248da3 |
+| Accounting Specialist, Accounting Operations | University of Calgary | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=ef741f2418eeaf2e |
+| Administrative and Deployment Coordinator | Samaritan's Purse Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4479464375 |
+| Project Coordinator | Alberta Electric System Operator (AESO) | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481179633 |
+| HR Coordinator | TransCanada Turbines | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4482197407 |
+| Analyste d'affaires, ServiceNow - Finances mondiales | WSP in Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481174797 |
+| Business Analyst, ServiceNow - Global Finance | WSP in Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4479475167 |
+| Client Care Coordinator | WELL Health Technologies Corp. (TSX: WEL | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481171633 |
+| Marketing Project Coordinator | Raise | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4482401724 |
+| Reserach Coordinator, Inflammatory Bowel Disease Unit | University of Calgary | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=8a4ac3c887b4e6f0 |
+| Senior Regulatory Advisor, Pipeline and Facility Licensing | Cenovus Energy | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=7157cc00188f2779 |
+| Systems Analyst | Canadian Natural | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=dd7196d57965b3a6 |
+| Booking Coordinator | WELL Health Technologies Corp. (TSX: WEL | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481172611 |
+| Project and Services Coordinator | Government of Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481177774 |
+| Senior Analyst, Education and Outreach | Government of Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481185436 |
+| Health and safety Coordinator | Olymel | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481189082 |
+| GOAPRDJP000001044 – Administrative Assistant – Junior | S M Software Solutions Inc | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4482418002 |
+| Payroll Administrator | NorQuest College | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4482403465 |
+| Strength & Conditioning Instructor and Personal Trainer (Par | YMCA Calgary | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=68e3ae7b215e8106 |
+| administrator, database | Imperial Truck & Trailer Repair | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4482415182 |
+| Research and Policy Analyst | Government of Alberta | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4481189242 |
+| Infrastructure Services Capital Portfolio Advisor | City of Calgary | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=1a23f76fd6c9fe7d |
+| Priority Initiatives Program Specialist, VP Development and  | University of Calgary | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=47e73d563e2c8911 |
+| GYMVMT Front Desk Associate - Calgary Beacon Heights | GoodLife Fitness | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4479463618 |
+| Sales Associate-Print&Services | Staples Canada | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4482401832 |
