@@ -22999,3 +22999,47 @@
 | Analyste des systèmes métier - Pharmaceutique | SGS | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=a24db6d62b9f958d |
 | Immigration Specialist | Medavie | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=25166852ffc4538c |
 | Security Systems Technician - Service Focused | Convergint | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4473928815 |
+| Inside Sales Specialist, Junior | Long View Systems | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=673539ed24b4cfb0 |
+| Program Analyst | Government Of Alberta | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=7dd671eb3e20d228 |
+| ADMINISTRATIVE COORDINATOR, ADVISORY SERVICES – Temporary 6  | BDC | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=5b911188680686b6 |
+| Human Resources Coordinator - Full-Time | Concierge Care Calgary | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=e84545a09b0bb23b |
+| Mobile Platform Specialist / Product Owner | Sobeys | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=4b57eac4dfe5a39b |
+| Network & Fleet Analyst | Superior Propane | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480084152 |
+| Supply Chain Management Analyst | Adecco | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481395494 |
+| Logistics Coordinator | Adecco | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481396350 |
+| MRB Coordinator | Ecolab | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4473963380 |
+| SAP C4CP Functional & Integration Specialist | W3Global | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481391141 |
+| Finance Business Process Specialist | Badger Infrastructure Solutions | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4465325659 |
+| RightAngle Consultant, Functional, Operations | capSpire | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480073440 |
+| Piping Field Coordinator - Energy Construction | Kiewit | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481397304 |
+| Structural Field Coordinator - Energy & Nuclear Construction | Kiewit | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481389550 |
+| Contracts Specialist | Badger Infrastructure Solutions | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4465320702 |
+| Specialist, IT M&A People Integration and Workforce Planning | WSP in Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4453805931 |
+| Business Solutions Analyst | InSync Systems | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481387588 |
+| I&T Resilience and Data Governance Specialist | ENMAX | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481601426 |
+| Senior HRMS Analyst - Workday | Keyera | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481609043 |
+| Program and Operations Coordinator | Alberta Playwrights' Network | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481173551 |
+| Nordic Spa Lead Concierge | Pomeroy Lodging | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480065482 |
+| Nordic Spa Lead Concierge | Pomeroy Lodging | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480058963 |
+| Financial Analyst | Brookfield Residential | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481604353 |
+| IT Help Desk & Technical Support Specialist (Level 2) | s01ve Cyber Solutions | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481396012 |
+| Supply Chain Manager | 3 Step Recruitment Inc. | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481601151 |
+| Project Coordinator | ATCO | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=51067eb371278ce8 |
+| Customer Care Analyst | Alberta Energy Regulator | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=7cabec638076d733 |
+| Patient Care Coordinator | Peak Oxygen | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=52917b5467fa672d |
+| Training Support Coordinator | Neilson Financial Services | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481608194 |
+| Home Comfort Advisor | Reliance Home Comfort | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4463897004 |
+| Kindergarten Teacher & Education Coordinator (IPP) – 1.0 FTE | Fueling Brains & Academies | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4474355282 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481395469 |
+| Program Coordinator - Immigration and Settlement Service | Catholic Social Services Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481606155 |
+| Structural Field Coordinator - Energy & Nuclear Construction | Kiewit | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481380977 |
+| Project Human Resource Specialist | Kiewit | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4464109093 |
+| Talent Acquisition Coordinator | Adecco | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481396609 |
+| Case Management Counsellor | Catholic Social Services Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481399309 |
+| Sr Drawing Control Analyst | Enbridge | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=aaae73f1219067da |
+| Business Transformation Analyst - New Graduates Welcome | Franvest Capital Partners | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=47cdb06a55768ceb |
+| Security Services Specialist | Shel-Bar Electronic Industries | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4476829589 |
+| Administrative Assistant | Alberta Teachers Association | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=de1fae5a6e6cb136 |
+| Administrative Assistant/Clinical Support | Eckert Psychology & Education Centre | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=856d13e33f07d4f3 |
+| Administrative Assistant | TRU Electric Ltd. | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=dd0fdcd82592fb8f |
+| Office Ambassador | Peoples Group | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=2ce3610b00029e85 |
