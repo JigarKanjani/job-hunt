@@ -23043,3 +23043,62 @@
 | Administrative Assistant/Clinical Support | Eckert Psychology & Education Centre | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=856d13e33f07d4f3 |
 | Administrative Assistant | TRU Electric Ltd. | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=dd0fdcd82592fb8f |
 | Office Ambassador | Peoples Group | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=2ce3610b00029e85 |
+| Sales Analyst | Tenaris | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=cf5ab01feb0c3412 |
+| Supply Chain Specialist 1 - Kiewit Supply Network | Kiewit Corporation | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=7b1f0e0da1c198e2 |
+| Product Creation Specialist | The Bike Shop Calgary | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=402a722446aa82f5 |
+| Operations Supervisor, Calgary North Animal Hospital | VCA Canada | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=bf6bc0992fa33022 |
+| Sales Analyst | Tenaris | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480094177 |
+| Project Coordinator | ATCO Frontec | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481611415 |
+| Program Analyst | Government of Alberta | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481609366 |
+| Contracts Administrator (Contract) | Trans Mountain | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481616487 |
+| Inside Sales Specialist | About Staffing | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481617160 |
+| Asset Investment Planning & Management Specialist | Enbridge | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480086562 |
+| Engagement Coordinator | Government of Alberta | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481608396 |
+| National Market Sector Lead - Healthcare | Architecture49 Inc. | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481616651 |
+| Business Solutions Analyst | Manpower | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481613706 |
+| Business Solutions Analyst | Adecco | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481611675 |
+| Service Advisor | Kaizen Automotive Group | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481621366 |
+| Key Lead (Calgary) | Knix | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4478005221 |
+| Program Advisor | Cella | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481614347 |
+| Patent Coordinator | Gowling WLG | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481626194 |
+| Operations Supervisor - Electrical Power | Finning | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481617515 |
+| Shipping and Inventory Coordinator | NetworkPedia | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481610654 |
+| Program Management Office Analyst | HCLTech | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481603552 |
+| Grants Financial Analyst | Government of Alberta | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481399749 |
+| Business Accounting Specialist | UFA | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481610811 |
+| Shipping & Inventory Coordinator | Radiant Systems Solutions, Inc | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481603964 |
+| Shipping & Inventory Coordinator | Russell Tobin | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4480094214 |
+| Inventory Coordinator, Western Veterinary Specialist & Emerg | VCA Canada | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=16d37c3586341b1e |
+| People & Culture Coordinator | Bb4ck | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=5689e6cdd8b8b2bd |
+| Care Coordinator | Lifemark Health Group | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=69fec112a823a24a |
+| Service Coordinator | BGE Indoor Air Quality Solutions | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=45cf2931cc5bf125 |
+| Full Time Family Support Coordinator- Permanent Full-Time | Wheatland Crisis Society | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=597970f23a12e949 |
+| Admissions Advisor | MCG Career College | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=309a6e950f1211b9 |
+| Housing Liaison | Accessible Housing | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=0433c64b8e7f5716 |
+| Sections Coordinator | Alpine Club of Canada | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=0057d3408602ad0a |
+| Administrative Coordinator | Richardson International | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=cb6428b517dd2d78 |
+| Care Coordinator | Lifemark Health Group | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=4b169b8f7be4debd |
+| Case Manager (YTA) - Full Time | Trellis Society | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=0034d6a37a4e3391 |
+| Portfolio Administrator | Humans of HR | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481608664 |
+| Legal Administrative Assistant - Trademarks | Gowling WLG | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481632016 |
+| Administrative Assistant 3 | Mount Royal University | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4480075599 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Safety Advisor | TSG Staffing Services | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481612592 |
+| Partner Experience Coordinator | University Hospital Foundation | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481612644 |
+| Policy Analyst | Government of Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481394987 |
+| Contractor Management Coordinator | TSG Staffing Services | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481606572 |
+| Care Navigator (Remote) | Sailor Health | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4479443353 |
+| Branch Administrator | Government of Alberta | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481610389 |
+| Financial Analyst | Centurion Canada Rentals & Services | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=a90d120effb0660c |
+| Systems & Process Specialist | Ambrose University College | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=7d7433a1fafc7572 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4481634182 |
+| Technical Support Analyst / Analyste du soutien technique | Parkland Corporation | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4481628216 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4481634187 |
+| Asset Investment Planning & Management Specialist | Enbridge | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4480077863 |
+| Integration Developer | Robert Half | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4481623286 |
+| Principal Advisor, Indigenous Engagement & Conservation - WI | Wilder Institute/Calgary Zoo | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=17b32fd2180e31aa |
+| Office Ambassador | Peoples Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481394992 |
+| Automotive Sales Associate | Kaizen Automotive Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481614706 |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481608751 |
+| Automotive Sales Associate | Kaizen Automotive Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481605987 |
+| Temporary Associate | kate spade new york | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4480603048 |
