@@ -22979,3 +22979,23 @@
 | Product Configurator IT Analyst | Allegion | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=ff3681a3550b90b4 |
 | Administrative Support IV | Alberta Precision Labs | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=2c491149fefb8772 |
 | SALES ASSOCIATE - PART TIME | ALDO Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481308216 |
+| PROJECT ENGINEERING LEAD | Novus Technical Services | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=cc961cb644d4b839 |
+| Investment Appraisal & Portfolio Management Analyst | Cenovus Energy | 2026-10-22 | J | https://ca.indeed.com/viewjob?jk=6099a17ca7539d82 |
+| Buyer | 7-Eleven | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4455922879 |
+| Service and Parts Coordinator | Davis Auto Group | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481359554 |
+| Spécialiste de l’appel d’offres - Services haute tension / Q | Hitachi Energy | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4465621076 |
+| ADMINISTRATIVE COORDINATOR, ADVISORY SERVICES – Temporary 6  | BDC | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481354974 |
+| Intermediate Air Quality Specialist – Western Canada | Onterris | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4445198047 |
+| ETRM Business Analyst / Test Coordinator | Tata Consultancy Services | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481370116 |
+| Advance Process Control and Optimization Delivery Lead | Baker Hughes | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4479706205 |
+| Team Leader, Project Management | Defence Construction Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4463856670 |
+| Project Coordinator | Pinchin | 2026-10-22 | N | https://ca.indeed.com/viewjob?jk=a84425a8c8eb2d85 |
+| Service Specialist II (Field Technician Fire Alarm Systems – | Siemens | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4463589965 |
+| Senior Wealth Advisor, CFP | Summit Search Group | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481359726 |
+| Workplace Health and Safety Specialist, Early Career – (2027 | Amazon | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4455917237 |
+| Project Coordinator | Turner & Townsend | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4454760557 |
+| Employment Support Coordinator | Dexterra Group | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4464936283 |
+| Business System Analyst - Pharmaceutical | SGS | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=6ff86221655dfa15 |
+| Analyste des systèmes métier - Pharmaceutique | SGS | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=a24db6d62b9f958d |
+| Immigration Specialist | Medavie | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=25166852ffc4538c |
+| Security Systems Technician - Service Focused | Convergint | 2026-10-22 | R | https://www.linkedin.com/jobs/view/4473928815 |
