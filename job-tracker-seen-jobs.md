@@ -22968,3 +22968,14 @@
 | Priority Initiatives Program Specialist, VP Development and  | University of Calgary | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=47e73d563e2c8911 |
 | GYMVMT Front Desk Associate - Calgary Beacon Heights | GoodLife Fitness | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4479463618 |
 | Sales Associate-Print&Services | Staples Canada | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4482401832 |
+| Logistics Coordinator (Calgary) | Konica Minolta Business Solutions Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4479487870 |
+| Specialist, SOQM Controls – Resource Management | KPMG Canada | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4482439570 |
+| Functional Lead, Portfolio Management | TC Energy | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4472609933 |
+| Sandwich Shop Lead | Adhoc Sandwiches & Smoothies | 2026-10-22 | J | https://www.linkedin.com/jobs/view/4481147383 |
+| YOUTH DEVELOPMENT COORDINATOR | McMan Youth, Family and Community Servic | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481307463 |
+| Design Team Project Administrator | Boardwalk | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481199572 |
+| Asset Protection Specialist: Full Time - SHAWNESSY | The Home Depot Canada | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481313056 |
+| Assistant Kettle Coordinator | The Salvation Army in Canada | 2026-10-22 | N | https://www.linkedin.com/jobs/view/4481300496 |
+| Product Configurator IT Analyst | Allegion | 2026-10-22 | R | https://ca.indeed.com/viewjob?jk=ff3681a3550b90b4 |
+| Administrative Support IV | Alberta Precision Labs | 2026-10-22 | G | https://ca.indeed.com/viewjob?jk=2c491149fefb8772 |
+| SALES ASSOCIATE - PART TIME | ALDO Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481308216 |
