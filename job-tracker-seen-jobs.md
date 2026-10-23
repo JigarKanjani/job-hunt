@@ -23128,3 +23128,22 @@
 | Workplace VDI Specialist | WSP in Canada | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4480091884 |
 | Administrative Assistant | Alberta Children s Hospital Foundation | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=23d637e6fe3b618b |
 | SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481634508 |
+| Planning Analyst | Petronas Canada | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=9e3b68386a3260d0 |
+| Senior Analyst | Affirm | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481660421 |
+| Pricing Lead | KPMG Canada | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4482845371 |
+| Executive Administrative Coordinator | Alberta Health Services | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481655481 |
+| Financial Analyst | Gowling WLG | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481627131 |
+| Operating Room Business Lead | Alberta Health Services | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481642977 |
+| Senior Analyst | Affirm | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481658466 |
+| Clinical Supervisor – Contact Centre Coordinator | Primary Care Alberta | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=351f3aaf308b8c63 |
+| Senior Analyst, Indirect Tax Compliance | Deloitte | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=fd44cbd3ecaa2174 |
+| Senior Staff Development Officer | Alberta Health Services | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481644840 |
+| Building Science Specialist | Engineering Link | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481367753 |
+| office administrator | Velocity Truck Centres, Canada | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4482829839 |
+| Administrative Support III | Primary Care Alberta | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=6756aa59cc2c2a5c |
+| Administrative Support II | Alberta Precision Labs | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=d71705dc13d9e722 |
+| Administrative Support II | Alberta Precision Labs | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=bc9f3bcf5772ea52 |
+| Administrative Support II | Alberta Precision Labs | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=ea0ddb43efd73a72 |
+| Plumbing & Electrical Sales Associate : Part Time - TUSCANY | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481651631 |
+| Flooring & Décor Sales Associate : Part Time - NORTH HILL | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481651632 |
+| Overnight Freight Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481656511 |
