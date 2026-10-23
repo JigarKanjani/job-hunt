@@ -23102,3 +23102,29 @@
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481608751 |
 | Automotive Sales Associate | Kaizen Automotive Group | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4481605987 |
 | Temporary Associate | kate spade new york | 2026-10-22 | G | https://www.linkedin.com/jobs/view/4480603048 |
+| Network & Fleet Analyst | Superior Propane | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=3cf4b15e92f642ad |
+| Cost Analyst | Cenovus Energy | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=5a97a2aa233dbe83 |
+| Office Coordinator | Northern Mat & Bridge | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=90b5ab7cf8e7dd61 |
+| Infrastructure Planning & Intelligence Analyst | City of Calgary | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=25391a0d97cfef16 |
+| IT Applications Support Specialist – Health, Safety, Environ | Parkland Corporation | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=da77e4154607db35 |
+| Supply Chain Specialist 1 - Kiewit Supply Network | Kiewit | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481621563 |
+| Production Supervisor – Trade & Operations | OTI Food Products | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481632743 |
+| Program Manager - Oracle Cloud Transformation | IBM | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4480608318 |
+| Business Analyst | Affinity | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481638105 |
+| Student, Transportation Finance | Inter Pipeline | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481638305 |
+| HR Coordinator, Talent Management and Total Rewards | Mount Royal University | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4480600522 |
+| Business Data Analyst | LawDepot | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4480088746 |
+| Project Control Specialist | Surerus Murphy Joint Venture | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481631334 |
+| Legislative Specialist | City of Calgary | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=ba63a1e3e9607da4 |
+| Family Support Counsellor l - Learning Centre | Wood's Homes | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=28d005c40496e45d |
+| Operational Liaison Representative | City of Calgary | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=2d51b20c1e578ce2 |
+| Financial Advisor - Radisson Drive Branch, AB | Scotiabank | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481627845 |
+| Advisor | Covenant Health Canada | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4477386265 |
+| Administrative Coordinator | Richardson International | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4480093603 |
+| Analyste réseau et flotte | Superior Propane | 2026-10-23 | R | https://ca.indeed.com/viewjob?jk=9ef7c57749d4dfd5 |
+| Contract Business Solutions Analyst | Cenovus Energy | 2026-10-23 | R | https://ca.indeed.com/viewjob?jk=f02da919b4edaeae |
+| Program Coordinator, Haskayne School of Business Executive & | University of Calgary | 2026-10-23 | R | https://ca.indeed.com/viewjob?jk=846f39989cda7723 |
+| MuleSoft Integration Developer | Experis | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4481623706 |
+| Workplace VDI Specialist | WSP in Canada | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4480091884 |
+| Administrative Assistant | Alberta Children s Hospital Foundation | 2026-10-23 | G | https://ca.indeed.com/viewjob?jk=23d637e6fe3b618b |
+| SALES ASSOCIATE - MARKET MALL - CALL IT SPRING | ALDO Group | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481634508 |
