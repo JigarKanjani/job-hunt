@@ -23147,3 +23147,35 @@
 | Plumbing & Electrical Sales Associate : Part Time - TUSCANY | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481651631 |
 | Flooring & Décor Sales Associate : Part Time - NORTH HILL | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481651632 |
 | Overnight Freight Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481656511 |
+| Plumbing Coordinator | Right Time Group of Companies | 2026-10-23 | J | https://ca.indeed.com/viewjob?jk=1c06f9d77a1255e0 |
+| Operations Consultant - Part Time | SEPHORA | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4482851921 |
+| Leader, Energy Management Project Development | City of Calgary | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481906194 |
+| Sector Portfolio Lead - Hyperscaler Clients - Americas | Arcadis | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4444129477 |
+| Human Resources Lead | The Calgary Chinese Elderly Citizens' As | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481389628 |
+| Leader, Grant and Funding Relations | City of Calgary | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481904274 |
+| Senior Air Quality Specialist – Western Canada | Onterris | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4445187778 |
+| Investment Advisor Assistant, Wealth Management | Canaccord Genuity Group Inc. | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4472832484 |
+| Senior Consultant - Oracle Fusion Supply Chain | EY | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4444161931 |
+| Shipping & Inventory Coordinator | Veridian Tech Solutions, Inc. | 2026-10-23 | J | https://www.linkedin.com/jobs/view/4481693465 |
+| Social Worker, Health Team | Calgary Foothills Primary Care Network | 2026-10-23 | N | https://ca.indeed.com/viewjob?jk=3045d42acf5dd424 |
+| Community Planner | Dillon Consulting Limited | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4482864675 |
+| Accounts Receivable Administrator | Enerflex Ltd. | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4464131308 |
+| Social Worker | Calgary Foothills Primary Care Network | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481909239 |
+| Financial Advisor, Investment & Retirement Planning - Brentw | Scotiabank | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4455461363 |
+| Financial Advisor | IDB FINANCIALS INC. | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481604659 |
+| Coordinator, Planning & Development | Regional Municipality of Wood Buffalo | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4482855790 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4474529887 |
+| Advisor, Presence Management ( 12 months contract) - Remote | RONA | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4482878733 |
+| Cargo Claims Specialist | $60/hr Remote | Crossing Hurdles | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481673710 |
+| Risk Analyst | $60/hr Remote | Crossing Hurdles | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4481673837 |
+| Mortgage Documentation Administrator | Canada ICI Capital Corporation | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4465898617 |
+| Administrative Assistant IV, Policing Support Services | City of Grande Prairie | 2026-10-23 | N | https://www.linkedin.com/jobs/view/4480661420 |
+| Analyst, Digital Advisory | MNP | 2026-10-23 | R | https://ca.indeed.com/viewjob?jk=ffbe2aac0e9c8a77 |
+| Client Excellence Coordinator | Givens LLP | 2026-10-23 | R | https://ca.indeed.com/viewjob?jk=fd3c923651ba3edc |
+| Maximo Developer | LanceSoft, Inc. | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4482875618 |
+| Desktop Support Specialist | Yochana | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4481678931 |
+| Intermediate Process Engineer | Kent | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4481697054 |
+| Individual Practice Analyst (Regulatory Compliance) | The Association of Professional Engineer | 2026-10-23 | R | https://www.linkedin.com/jobs/view/4457601724 |
+| Client Service Associate | Northbridge Financial Corporation | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4473109348 |
+| Temporary Sales Associate-8 | kate spade new york | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4453488564 |
+| Imaging Research and Development Associate | Alimentiv | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481696273 |
