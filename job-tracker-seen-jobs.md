@@ -23245,3 +23245,18 @@
 | Sales Associate | Rogers Communications | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4475494098 |
 | SALES ASSOCIATE – PART TIME | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482398651 |
 | SALES ASSOCIATE – PART TIME | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482607499 |
+| SCM Projects Contracts Advisor | Cenovus Energy | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4483324975 |
+| Procurement Manager (Contract) | Raytheon | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4475080612 |
+| District Sales Leader | Bath & Body Works | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4475077597 |
+| Associate Dean Of Operations | Southern Alberta Institute of Technology | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482648399 |
+| Senior Business Solutions Team Lead (Remote Canada) - Future | Directive | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4474795400 |
+| Oracle Finance Cloud-Lead | IBM | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4473193885 |
+| Logistics Administrator | The RMC Group of Companies | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481050471 |
+| Community and Employer Engagement Specialist | WCG Services | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4465337698 |
+| Mineral Land Administrator | ROK Resources Inc. | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4481386638 |
+| Principal Aquatics Specialist | Jacobs | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4475000119 |
+| Safety Coordinator, Audit & Compliance | Civeo North America | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4466453161 |
+| Collision Support Specialist | Fix Network World | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4473171495 |
+| Store Administrator, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4483322897 |
+| L3 SOC Analyst - Calgary | Integrity360 | 2026-10-24 | R | https://www.linkedin.com/jobs/view/4453592265 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4483332921 |
