@@ -23232,3 +23232,16 @@
 | SALES ASSOCIATE - PART TIME  Call it spring Crossiron | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482309608 |
 | Hardware Sales Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482307795 |
 | Mortgage Funding Associate (18-months) | AMA - Alberta Motor Association | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4481265671 |
+| Honouring Life Coordinator | Primary Care Alberta | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=dd248c0213d9e9fc |
+| Advanced Metering Grid Operations Engineer | ENMAX | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482629091 |
+| I&T Resilience and Data Governance Specialist | ENMAX | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482630070 |
+| HOUSING AND CULTURAL COORDINATOR | McMan Youth, Family and Community Servic | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482616414 |
+| AP Analyst | Parkland Corporation | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4483309910 |
+| CASE MANAGER | McMan Youth, Family and Community Servic | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482610897 |
+| Educational Coordinator | Oxford Learning Centres Inc. | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4481035162 |
+| Advisor | Alberta Health Services | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482600681 |
+| Specialist – IT Apps Dev | Parkland Corporation | 2026-10-24 | R | https://www.linkedin.com/jobs/view/4483318322 |
+| Administrative Support IV | Primary Care Alberta | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=c7be3d7d6e1c704a |
+| Sales Associate | Rogers Communications | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4475494098 |
+| SALES ASSOCIATE – PART TIME | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482398651 |
+| SALES ASSOCIATE – PART TIME | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482607499 |
