@@ -23260,3 +23260,8 @@
 | Store Administrator, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4483322897 |
 | L3 SOC Analyst - Calgary | Integrity360 | 2026-10-24 | R | https://www.linkedin.com/jobs/view/4453592265 |
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4483332921 |
+| Project Coordinator | JAX Builders | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=3fdaf321edd67cc3 |
+| Specialist Functional Analyst SAP HCM | CPKC | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4465859498 |
+| Operations Supervisor | Cargill | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481056403 |
+| Product Development Specialist (Temporary) | GoodMorning | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4475020854 |
+| Family School Liaison Worker | St. Paul Education | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482643909 |
