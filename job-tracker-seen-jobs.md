@@ -23265,3 +23265,9 @@
 | Operations Supervisor | Cargill | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481056403 |
 | Product Development Specialist (Temporary) | GoodMorning | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4475020854 |
 | Family School Liaison Worker | St. Paul Education | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482643909 |
+| Production Coordinator | Johnson Controls | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481064617 |
+| Sales Specialist | Photography Studio | $67,000–$75,000 | Studio Belle | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482665143 |
+| Real Estate Administrative Assistant / Transaction Coordinat | Haupt Phaneuf Real Estate Team | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482666028 |
+| OMNI Customer Fulfillment Associate | Walmart | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=067034b7c7d031d7 |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482666146 |
+| Sales Associate | For Eyes | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482653710 |
