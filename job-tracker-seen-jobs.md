@@ -23179,3 +23179,56 @@
 | Client Service Associate | Northbridge Financial Corporation | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4473109348 |
 | Temporary Sales Associate-8 | kate spade new york | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4453488564 |
 | Imaging Research and Development Associate | Alimentiv | 2026-10-23 | G | https://www.linkedin.com/jobs/view/4481696273 |
+| ALS Clinical Research Coordinator, Clinical Neurosciences | University of Calgary | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=e8863d6c9f7202a8 |
+| Clinical Research & Technical Coordinator, Clinical Neurosci | University of Calgary | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=4a9b933118a7221a |
+| Intake Coordinator & Administrative Assistant | Pacekids Programs | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=dce0cb5e327fb185 |
+| Technology and Facility Support Specialist, UCalgary Continu | University of Calgary | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=d72ba053932bab9f |
+| Security Analyst - Government Site - Full Time | Guardteck Security | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=ad6d7dd8d111ffdb |
+| Senior Endpoint Operations Consultant | Long View Systems | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=edeb369a4ef4a618 |
+| Team Lead Applications Support - Enterprise Applications | Associated Engineering | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=08f092534a5e3d80 |
+| EV Construction Program Manager - 1-Year Contract | Parkland Corporation | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=d80f21c651208249 |
+| Operations Lead | Eddys Window Restoration Experts Inc. | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=7379b90b5a1ce39d |
+| Advisor, Supply Chain Management Major Projects, | Enbridge | 2026-10-24 | J | https://ca.indeed.com/viewjob?jk=c74a6c7463a86f3c |
+| Procurement Advisor | Raise | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4483190546 |
+| Senior Engineer or Analyst, Grid Analytics | Alberta Electric System Operator (AESO) | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482325803 |
+| Business Analyst - IT | Black Diamond Group | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481024004 |
+| Analyst, NGL Commercial Contracts | Inter Pipeline | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482302740 |
+| Technology Program Manager | MNP | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4482327630 |
+| Hunting/Archery Team Lead | Bass Pro Shops | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4483190161 |
+| Practice Coordinator, Audit Operations and Audit Technology  | KPMG Canada | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4483172995 |
+| Sr Sales and Operations Coordinator | Herc Rentals | 2026-10-24 | J | https://www.linkedin.com/jobs/view/4481228512 |
+| Emergency Shelter Worker - Relief (Days) | Calgary Drop IN & Rehab Society Centre | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=bc72d1b3d15e1e14 |
+| Emergency Shelter Worker - Relief (Afternoons) | Calgary Drop IN & Rehab Society Centre | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=6ae9a0aad7fc46e3 |
+| Advisor, Customer Care | ATCO | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=26119d6a439ab8f9 |
+| Senior Insurance Advisor | Westland Insurance Group | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=de89d6a4af4275d3 |
+| Community Social Worker | City of Calgary | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=788ff35759e31b1e |
+| Accounts Payable Administrator | Centennial Food Solutions | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=69bf28e35e7f1c78 |
+| Youth Initiatives Coordinator | Lethbridge Polytechnic | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=3d6842c13a173339 |
+| Indigenous Cultural and Events Coordinator | Southern Alberta Institute of Technology | 2026-10-24 | N | https://ca.indeed.com/viewjob?jk=1fdefc70ab5c7218 |
+| Student Community Programming Specialist | Mount Royal University | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4481019139 |
+| Issues Specialist | Government of Alberta | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482347153 |
+| Administrator, Conduct and Discipline | CPA Calgary Chapter | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4481021308 |
+| Corporate Services Administrator - Calgary | Servus Credit Union | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482311616 |
+| Administrative Assistant, National Tax Services | MNP | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482322710 |
+| Sr. Services Applications Specialist - Upstream Chemical | Baker Hughes | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4483192438 |
+| Co-Op/Intern Support and Learning Platform Administrator | Kinaxis | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4483178556 |
+| Advisor, Customer Care | ATCO | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482345518 |
+| Program Administrator | Government of Alberta | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482329958 |
+| Project Coordinator | WalterFedy | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482317971 |
+| Practice Coordinator, Audit Operations and Audit Technology  | KPMG Canada | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4483195022 |
+| Corporate Services Administrator - Lloydminster | Servus Credit Union | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482304779 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482313459 |
+| Youth Initiatives Coordinator | Lethbridge Polytechnic | 2026-10-24 | N | https://www.linkedin.com/jobs/view/4482341018 |
+| Laboratory Coordinator, Earth, Energy & Environment | University of Calgary | 2026-10-24 | R | https://ca.indeed.com/viewjob?jk=f304b6676ee916ea |
+| Data Historian Specialist | Actalent | 2026-10-24 | R | https://www.linkedin.com/jobs/view/4483185763 |
+| Funding Analyst (BDO GrantMatch) | BDO Canada | 2026-10-24 | R | https://www.linkedin.com/jobs/view/4480570152 |
+| Corporate Receptionist / Office Assistant (SUP-CP60-001) - C | Bethany Care Society | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=8f6ef99249eb2de9 |
+| (CAN) General Merchandise Associate | Walmart | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=b959cc192145277f |
+| (CAN) Customer Service Desk Associate | Walmart | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=1efeeaaa839824db |
+| Samples Distribution Associate | DIVINE HARDWOOD FLOORING LTD. | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=cd1cb69c440bd9b7 |
+| Registration and Financial Aid Associate | Mount Royal University | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4481009691 |
+| Lumber Sales Associate & Deck Designer: Full Time - COUNTRY  | The Home Depot Canada | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482319067 |
+| Selling Associate-CrossIron Mills | Victoria’s Secret & Co. | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4483185336 |
+| SALES ASSOCIATE - PART TIME  Call it spring Crossiron | ALDO Group | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482309608 |
+| Hardware Sales Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482307795 |
+| Mortgage Funding Associate (18-months) | AMA - Alberta Motor Association | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4481265671 |
