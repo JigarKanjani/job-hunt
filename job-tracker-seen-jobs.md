@@ -23290,3 +23290,17 @@
 | Data Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482686483 |
 | Business Operations Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482691085 |
 | Research Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482668909 |
+| Student Analyst – Liquids Marketing | South Bow | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4478143080 |
+| Business Analyst | Tata Consultancy Services | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4482903004 |
+| Clinical Research & Technical Coordinator, Clinical Neurosci | University of Calgary | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4483151533 |
+| AE - Sales Leader (Full-Time) | American Eagle Outfitters Inc. | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4482683859 |
+| AE - Sales Leader (Full-Time) | American Eagle Outfitters Inc. | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4482684864 |
+| Technology and Facility Support Specialist, UCalgary Continu | University of Calgary | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4483151532 |
+| Beauty Advisor/Artist Freelancer/On-Call | The Estée Lauder Companies Inc. | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4482691309 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4482699301 |
+| Administrative Assistant IV, Policing Support Services | City of Grande Prairie | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4481408242 |
+| property administrator | Martello Group | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4483385650 |
+| Helpdesk & Network Technician — Intermediate Experience | AbleIT Inc. | 2026-10-25 | R | https://ca.indeed.com/viewjob?jk=f78e9c095ac07c96 |
+| Office Administrator | Charis Counselling | 2026-10-25 | R | https://ca.indeed.com/viewjob?jk=5f0aa09ff8622281 |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4482680990 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4482682703 |
