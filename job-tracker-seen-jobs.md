@@ -23304,3 +23304,6 @@
 | Office Administrator | Charis Counselling | 2026-10-25 | R | https://ca.indeed.com/viewjob?jk=5f0aa09ff8622281 |
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4482680990 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4482682703 |
+| Logistics Administrator | The RMC Group of Companies | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4481094938 |
+| Receptionist & Social Media Coordinator | Lash Lair | 2026-10-25 | N | https://ca.indeed.com/viewjob?jk=9af0877afadf4ed5 |
+| MOA and referral coordinator | Hope Medical Clinic | 2026-10-25 | N | https://ca.indeed.com/viewjob?jk=998c6d06f9e18420 |
