@@ -23271,3 +23271,12 @@
 | OMNI Customer Fulfillment Associate | Walmart | 2026-10-24 | G | https://ca.indeed.com/viewjob?jk=067034b7c7d031d7 |
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482666146 |
 | Sales Associate | For Eyes | 2026-10-24 | G | https://www.linkedin.com/jobs/view/4482653710 |
+| (CAN) Asset Protection Operations Team Associate | Walmart Canada | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4483358379 |
+| (CAN) Stocking 3 Team Lead | Walmart Canada | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4483359346 |
+| Mentoring Facilitator - Community Based | BGC Big Brothers Big Sisters of Edmonton | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4481128380 |
+| Administrative Assistant | western health care | 2026-10-25 | G | https://ca.indeed.com/viewjob?jk=5a8c7fcb55a83092 |
+| Administrative Assistant | western health care | 2026-10-25 | G | https://ca.indeed.com/viewjob?jk=9f5abe92187f8029 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483355505 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483344688 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483361198 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483363159 |
