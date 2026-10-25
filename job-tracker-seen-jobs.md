@@ -23280,3 +23280,13 @@
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483344688 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483361198 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-25 | G | https://www.linkedin.com/jobs/view/4483363159 |
+| SCM Projects Contracts Advisor | Cenovus Energy | 2026-10-25 | J | https://ca.indeed.com/viewjob?jk=1b7d254e350dccbc |
+| Chromebook Sales Specialist | Premium Retail Services | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4452855325 |
+| Content Analysis Coordinator (Remote) | crewlia | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4482676643 |
+| Administrative Coordinator (Remote) | crewlia | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4482685527 |
+| Administrative Specialist (Remote) | crewlia | 2026-10-25 | N | https://www.linkedin.com/jobs/view/4482675706 |
+| Office Administrator | Charis Counselling | 2026-10-25 | R | https://ca.indeed.com/viewjob?jk=1daf94cf775a931b |
+| Business Analyst  (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482678677 |
+| Data Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482686483 |
+| Business Operations Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482691085 |
+| Research Analyst (Remote) | crewlia | 2026-10-25 | R | https://www.linkedin.com/jobs/view/4482668909 |
