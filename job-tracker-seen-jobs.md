@@ -23310,3 +23310,8 @@
 | AP Analyst | Parkland Corporation | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4482902537 |
 | AP Analyst | Parkland Corporation | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4482904563 |
 | Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4482904648 |
+| FINANCIAL MANAGEMENT ANALYST | Naval Air Warfare Center Training System | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4483531542 |
+| Language Assessor /Educational Counsellor (CF) - LVA | Catholic Social Services Alberta | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4482938314 |
+| Specialist, Regional Engagement | Alberta Energy Regulator (AER) | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483517858 |
+| Business Analyst | $90/hr Remote | Crossing Hurdles | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4482926930 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4482922725 |
