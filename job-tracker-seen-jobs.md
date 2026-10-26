@@ -23315,3 +23315,41 @@
 | Specialist, Regional Engagement | Alberta Energy Regulator (AER) | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483517858 |
 | Business Analyst | $90/hr Remote | Crossing Hurdles | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4482926930 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4482922725 |
+| Industrial Systems Program & Performance Lead | Amrize | 2026-10-26 | J | https://ca.indeed.com/viewjob?jk=72b84132ce69a7d9 |
+| Coordinator, Events and Activations | Calgary Economic Development | 2026-10-26 | J | https://ca.indeed.com/viewjob?jk=2b15a836870c41eb |
+| Pre-Owned Vehicle Product Advisor | Stampede Leasing Ltd | 2026-10-26 | J | https://ca.indeed.com/viewjob?jk=cb8ff901b18cbaea |
+| HSE Coordinator | Hutton Safety Group | 2026-10-26 | J | https://ca.indeed.com/viewjob?jk=c254965960da0f47 |
+| Substation Lead, Western Canada, Calgary EOI | Hatch | 2026-10-26 | J | https://ca.indeed.com/viewjob?jk=aa9c97fffd2ee646 |
+| Drilling Data Analyst | ROGII | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4483242804 |
+| Project Coordinator | Inter-Co Division 10 Inc. | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4483246483 |
+| Senior FP&A Systems Analyst, Pigment | Clio | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4483258543 |
+| Senior Geohazards Specialist | AtkinsRéalis | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4481488319 |
+| Medium Voltage Category Manager - Remote | Rosendin | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4483751308 |
+| Appointment Coordinator/Service Reception | CanadaOne Auto Group | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=b8f32e83987741ed |
+| Salesforce Administrator | Prospect Human Services | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=fe12e478daa4de96 |
+| Senior Field Case Manager (Alberta) | PSPSync | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=c70c1aa28f312e2d |
+| Client Coordinator - Entry level | ParaMed Home Health Care | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=71b6de1a815cdaf2 |
+| Office Coordinator | LJ Welding Automation | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=2e727fd9344036ba |
+| Junior Construction Coordinator, Administrator | PTW Energy Services Ltd. | 2026-10-26 | N | https://ca.indeed.com/viewjob?jk=36d71f07efa14221 |
+| Administrative Assistant | RBC Dominion Securities | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483735665 |
+| Temporary Family School Liaison Worker(s) - Education Centre | Rocky View Schools | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483258178 |
+| Sales (Fitness Advisor) - Calgary Richmond Square | GoodLife Fitness | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4481816224 |
+| Sales (Fitness Advisor) - Calgary Shepard and 130th SE | GoodLife Fitness | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4481804833 |
+| SUN LIFE FINANCIAL ADVISOR (Licensed/Registered) | Sunlife | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4460044808 |
+| Sr Business Analyst - Disruption Management | WestJet | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483745641 |
+| Service Coordinator | Valwell Technologies | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483260272 |
+| Project Accounting Coordinator | Casman Group | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483257787 |
+| H&S Advisor | All Weather at Home | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4483264221 |
+| Sap Advanced Business Application Programming Developer | Raas Infotek | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483739054 |
+| Intermediate QA Analyst | atVenu | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483748633 |
+| Channel Specialist | ABB | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483752476 |
+| Integration Developer | Robert Half | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483266226 |
+| Program Development and Evaluation Specialist | CMHA Edmonton (Canadian Mental Health As | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483245679 |
+| Project Coordinator | Casman Group | 2026-10-26 | R | https://www.linkedin.com/jobs/view/4483268125 |
+| Administrative Assistant | Elements Calgary Mental Health Centre | 2026-10-26 | G | https://ca.indeed.com/viewjob?jk=5347dca5240f9f19 |
+| Intermediate Building Science Specialist | Keller Engineering | 2026-10-26 | G | https://ca.indeed.com/viewjob?jk=16217c5a05759a97 |
+| (CAN) Stock Unloader Associate | Walmart | 2026-10-26 | G | https://ca.indeed.com/viewjob?jk=5b1757efaed26eb6 |
+| Mobile Security Officer - Overnight Shifts | BPS K-9 | 2026-10-26 | G | https://ca.indeed.com/viewjob?jk=382d5ec2efcd7416 |
+| Sales Associate | Grey Eagle Resort & Casino | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483265223 |
+| Remote Insurance Agent - No Experience - WFH | American Income Life Insurance Company | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483744671 |
+| Office Operations & Accounting Coordinator | Intelica Solutions Inc. | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483217746 |
