@@ -23307,3 +23307,6 @@
 | Logistics Administrator | The RMC Group of Companies | 2026-10-25 | J | https://www.linkedin.com/jobs/view/4481094938 |
 | Receptionist & Social Media Coordinator | Lash Lair | 2026-10-25 | N | https://ca.indeed.com/viewjob?jk=9af0877afadf4ed5 |
 | MOA and referral coordinator | Hope Medical Clinic | 2026-10-25 | N | https://ca.indeed.com/viewjob?jk=998c6d06f9e18420 |
+| AP Analyst | Parkland Corporation | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4482902537 |
+| AP Analyst | Parkland Corporation | 2026-10-26 | J | https://www.linkedin.com/jobs/view/4482904563 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-26 | N | https://www.linkedin.com/jobs/view/4482904648 |
