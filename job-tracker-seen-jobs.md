@@ -23353,3 +23353,12 @@
 | Sales Associate | Grey Eagle Resort & Casino | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483265223 |
 | Remote Insurance Agent - No Experience - WFH | American Income Life Insurance Company | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483744671 |
 | Office Operations & Accounting Coordinator | Intelica Solutions Inc. | 2026-10-26 | G | https://www.linkedin.com/jobs/view/4483217746 |
+| IT Operations & Procurement Coordinator - 6 Months Fixed Ter | Ecolab | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=8e4db553dbfad3c1 |
+| Procurement Administrator, Parts & Materials | Boardwalk | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483298725 |
+| Sales Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4481873301 |
+| Revenue Operations Analyst (Remote | $40–$85/hr) | Synthires | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4481865550 |
+| Business Analyst, Front Office Technology & Business Deliver | Alberta Investment Management Corporatio | 2026-10-27 | R | https://ca.indeed.com/viewjob?jk=27cb296b31a11f52 |
+| Co-op, Service Desk (12-months) | Alberta Investment Management Corporatio | 2026-10-27 | R | https://ca.indeed.com/viewjob?jk=388e8b6cad62c28b |
+| Customer Service Representative | Alberta Energy Regulator | 2026-10-27 | G | https://ca.indeed.com/viewjob?jk=c8dc0f548fd003c0 |
+| Customer Service Representative | Alberta Energy Regulator (AER) | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4483794197 |
+| Claims Associate | Walmart Canada | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4475823703 |
