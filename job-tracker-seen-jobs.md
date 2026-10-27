@@ -23362,3 +23362,52 @@
 | Customer Service Representative | Alberta Energy Regulator | 2026-10-27 | G | https://ca.indeed.com/viewjob?jk=c8dc0f548fd003c0 |
 | Customer Service Representative | Alberta Energy Regulator (AER) | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4483794197 |
 | Claims Associate | Walmart Canada | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4475823703 |
+| Contract Services – Pricing Specialist | Source Atlantic | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=2d7879b773a42df2 |
+| Enterprise Architect | Sobeys | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=31da04b66ce1c3ad |
+| Program Manager | Long View Systems | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=3861a6f9adf9d05c |
+| Senior Financial Analyst | HOPEWELL REAL ESTATE SERVICES LP | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=81a395027b1725b4 |
+| Fleet Reliability & Support Specialist (MaintainX System Adm | GeologicAI | 2026-10-27 | J | https://ca.indeed.com/viewjob?jk=8edc04bcaaa005ed |
+| Senior Analytics Advisor | RigUp | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482218879 |
+| Data Analyst III | Agilus Work Solutions | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483686253 |
+| IT Procurement & Vendor Management Specialist | DIRTT | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483670850 |
+| Senior Financial Systems Analyst, Governance | Trans Mountain | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484209497 |
+| Sales Coordinator | Dandurand Group | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484218450 |
+| Program Manager | Long View Systems | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482206834 |
+| Program Manager | Insight Global | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483245538 |
+| Project Lead , Paediatrics | University of Calgary | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484091985 |
+| Administrative Coordinator | Enserva | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484221941 |
+| Functional Analyst (EAM) | Affinity | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483666947 |
+| Clinical Research Coordinator, Clinical Neurosciences | University of Calgary | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484212040 |
+| Enterprise Applications Specialist | Gowling WLG | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482232075 |
+| Compressor Technical Support Specialist | Atlas Copco | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482203720 |
+| Senior Financial Analyst | Hopewell Real Estate Services | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4483690449 |
+| Procurement Manager | Worley | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484214327 |
+| Procurement Specialist - Site Based | Worley | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4484212402 |
+| Buyer | SECURE | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4481233060 |
+| Quotations Specialist | Hubbell Incorporated | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482218449 |
+| Team Lead, Fleet Services | City of Beaumont | 2026-10-27 | J | https://www.linkedin.com/jobs/view/4482232288 |
+| Hospitality and Facilities Coordinator | General Partner for Carthos | 2026-10-27 | N | https://ca.indeed.com/viewjob?jk=41c07a0b32775726 |
+| Youth Program Coordinator | Miywasin Friendship Centre | 2026-10-27 | N | https://ca.indeed.com/viewjob?jk=aab60143312a7130 |
+| Senior Workers Compensation Case Manager | Alight Solutions | 2026-10-27 | N | https://ca.indeed.com/viewjob?jk=f90bcb8b409317bc |
+| Scheduling/Intake coordinator | Home Care | 2026-10-27 | N | https://ca.indeed.com/viewjob?jk=53c396f24b636e46 |
+| Design Team Project Administrator | Boardwalk | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4483683622 |
+| Casework Coordinator & Social Worker | Muslim Food Bank and Community Services | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4482228175 |
+| Estimating Administrator, Term, NuVista Homes | NuVista Homes | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4484226373 |
+| Communications Advisor | TC Energy | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4482217483 |
+| Enrolment Services Advisor | University of Calgary | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4484213221 |
+| Enrolment Services Advisor (Recurring Part-time) | University of Calgary | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4484209290 |
+| Financial Planner-Okotoks | TD | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4484216182 |
+| Conflicts Specialist | Gowling WLG | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4482234022 |
+| Administrator - Manufacturing Plant | AltaSteel | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4483681730 |
+| Career Counsellor | Lifemark Health Group | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4484215313 |
+| Community Disability Worker, Full Time Day Hours - Sherwood  | Robin Hood Association | 2026-10-27 | N | https://www.linkedin.com/jobs/view/4483686465 |
+| IT Helpdesk Technician | Cattle Tech Inc. | 2026-10-27 | R | https://ca.indeed.com/viewjob?jk=9aa74c257ac1e0ca |
+| Service Desk Consultant - Spanish | Long View Systems | 2026-10-27 | R | https://ca.indeed.com/viewjob?jk=ce5cc14a13b67607 |
+| Program Analyst | JSG (Johnson Service Group, Inc.) | 2026-10-27 | R | https://www.linkedin.com/jobs/view/4483693309 |
+| Java Backend Developer | Synechron | 2026-10-27 | R | https://www.linkedin.com/jobs/view/4463495727 |
+| PMO Analyst | JSG (Johnson Service Group, Inc.) | 2026-10-27 | R | https://www.linkedin.com/jobs/view/4483683862 |
+| Summer Student - Customer Service | AltaLink | 2026-10-27 | G | https://ca.indeed.com/viewjob?jk=212e5f83ec8d4b98 |
+| Summer Student - Customer Service | AltaLink | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4484241028 |
+| Data Annotation Specialist - German Writer/Translator | Cohere | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4483682238 |
+| (CAN) Meat Associate | Walmart Canada | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4484209840 |
+| (CAN) Modular Team Associate | Walmart Canada | 2026-10-27 | G | https://www.linkedin.com/jobs/view/4484219524 |
