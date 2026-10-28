@@ -23484,3 +23484,24 @@
 | Sales Associate | Holt Renfrew | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4483698706 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484297291 |
 | Food & Consumables Team Associate | Walmart Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484279607 |
+| Management Consultant – CFO & Enterprise Value | Utilities I | Accenture | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4483846284 |
+| Indigenous Procurement Specialist | Jacobs | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484298465 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Patent Coordinator | Gowling WLG | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4483830965 |
+| ACQUISITION PROGRAM SPECIALIST | Naval Air Warfare Center Training System | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484434293 |
+| Maintenance Data Analyst | Cenovus Energy | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484424227 |
+| Indigenous Procurement Specialist | Jacobs | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484400382 |
+| Automation Controls Sr. Analyst /Consultant | Accenture | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483852073 |
+| Everyday Banking Advisor - Chestermere (12 Month Term) | ATB Financial | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483307335 |
+| Information Technology Audit Specialist | ATB Financial | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484407987 |
+| Client Services Coordinator | First Onsite Property Restoration | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484422253 |
+| SAFETY AND OCCUPATIONAL HEALTH SPECIALIST | Naval Air Warfare Center Training System | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484422704 |
+| Infrastructure Analyst | City of Leduc | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=dfb0a75f5ee24f03 |
+| Network Analyst | City of Leduc | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=d2d171b4dc3698f6 |
+| Administrative Support IV- Technology and Navigation, Health | Primary Care Alberta | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=88659ec1e88cd5ac |
+| Administrative Support IV | Primary Care Alberta | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=d82b148200373e10 |
+| guest services agent - hotel | Best Western Plus Okotoks Inn & Suites | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484435310 |
+| Personal Banking Associate Trainee | TD | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484421392 |
+| Personal Banking Associate Trainee | TD | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484416583 |
+| Personal Banking Associate Trainee | TD | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484419351 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484417925 |
