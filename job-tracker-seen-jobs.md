@@ -23528,3 +23528,41 @@
 | Process Trainer - Collision (Canada West) | Boyd Autobody & Glass | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=eb84bffb5166777d |
 | Data Analyst | $60/hr Remote | Crossing Hurdles | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4483879498 |
 | Sales Associate | Staples Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4467431535 |
+| SCM Operations Category Management Advisor | Omega 365 | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=6a3f0c31dc973161 |
+| Contract SCM Operations Category Management Advisor | Cenovus Energy | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=24933248e0049026 |
+| Document Coordinator | Stantec | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=c30a857f2375590f |
+| Environmental Advisor | Petronas Canada | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=cd0ea0d6dc5fcc4f |
+| Marketing Analyst | Canadian Natural | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=ec1bed36ef996a6e |
+| Compliance Analyst | Wellington-Altus Private Wealth Inc. | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=f7295f9f27b138be |
+| Category Manager (GTA) | Alto Products | 2026-10-28 | J | https://ca.indeed.com/viewjob?jk=e2c3e99c27c8cfe8 |
+| Business Analyst II - Pharmacy Operations (Temporary - 18 mo | TELUS | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4475477024 |
+| Operations Supervisor | FedEx Canada | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484714771 |
+| Associate Operations - Safety Solutions | Wesco | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4476392784 |
+| Municipal Infrastructure Lead, Western Canada | EXP | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4365564361 |
+| InEight Specialist - Corporate | Bird Construction | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4466567304 |
+| Senior Planner | Tridyne Projects Corporation | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484221969 |
+| Project Coordinator - Energy and Petrochemicals (New Grad) | Ledcor | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484715603 |
+| Part-time Facility Coordinator (Construction background a ne | DIY Training Center | 2026-10-28 | N | https://ca.indeed.com/viewjob?jk=cd7c8ecf8cacce73 |
+| Payroll Analyst | Bidell Gas Compression | 2026-10-28 | N | https://ca.indeed.com/viewjob?jk=82f52cae7868e9ec |
+| Administrative Coordinator, HR & Recruitment | Medicine Hat College | 2026-10-28 | N | https://ca.indeed.com/viewjob?jk=ec6d042c48c3d1da |
+| Learning & Development Coordinator | Fairmont | 2026-10-28 | N | https://ca.indeed.com/viewjob?jk=cbb6552bc7b384a6 |
+| Financial Coordinator | Inline Orthodontics | 2026-10-28 | N | https://ca.indeed.com/viewjob?jk=e65db2c93f14b520 |
+| sheet metal workers supervisor | BMP Mechanical Ltd. | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484719690 |
+| Claims Specialist, Design Professional - Canada | AXA XL | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4467958002 |
+| Senior Advisor, Coaching & Facilitation Practice | BBA Consultants | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4459037159 |
+| Investment Advisor | CIBC | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484705645 |
+| Resource Centre Employment Specialist- Full-Time-Calgary | Serco | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484713850 |
+| Talent Acquisition Specialist | Convergint | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4459013803 |
+| administrative assistant | VEER  Freight & Logistics Services | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4484734225 |
+| Business process consultant | M lite solar | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=12244f737cc529ff |
+| Project Controls Analyst | WSP | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=e0549a35feac3a46 |
+| Customer Implementation & Training Specialist (ERP Software) | Beacon Holdings | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=9d86672b50253e36 |
+| Intermediate AWS Developer- Java, Spring Boot and TypeScript | Verito Solutions Inc | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4482559009 |
+| Network Administrator | Zodiac Solutions, Inc | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4482547819 |
+| Java AWS Developer|| CALGARY, CN (Onsite) | Verito Solutions Inc | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4482557341 |
+| Strategic Foresight Analyst | City of Edmonton | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4482544402 |
+| Administrative Assistant – Field Experience- School of Educa | Ambrose University College | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=494ec8d467df8f9a |
+| Administrative Assistant (Part-time) | Wedgewoods | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=30a9c309b9d99133 |
+| Receptionist | CIY House of Yoga | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=bdd992ba3f00d115 |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=4b16702aba3aae83 |
+| Clean Pipeline Scheduler | Trafigura | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4482530916 |
