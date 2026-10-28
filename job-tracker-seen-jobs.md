@@ -23505,3 +23505,26 @@
 | Personal Banking Associate Trainee | TD | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484416583 |
 | Personal Banking Associate Trainee | TD | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484419351 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4484417925 |
+| Workforce Planner | Arcadis | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4474454031 |
+| Leader, Traffic Field Operations | City of Calgary | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4483885484 |
+| Specialist, Recruitment | Canada Post / Postes Canada | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4477329615 |
+| Team Leader – Ecology & Biodiversity (Prairies Region) | SLR Consulting | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4466160357 |
+| Senior Sales Analyst - Remote | Aurora Cannabis Inc. | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4475103541 |
+| SAGE X3 ERP Functional Analyst - Remote | Aurora Cannabis Inc. | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4475113149 |
+| Procurement Coordinator | Sturgeon County | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484470441 |
+| Technical Specialist, Real Property Management | Defence Construction Canada | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4475151244 |
+| GOAPRDJP000001053 – Shipping & Inventory Coordinator | S M Software Solutions Inc | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4484484099 |
+| Sales and Service Rep, Lead | Grainger Canada | 2026-10-28 | J | https://www.linkedin.com/jobs/view/4476505089 |
+| Accounting Administrator | 3P Learning | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483873702 |
+| Senior Emergency Management Advisor (H2Safety) | SGS | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4481007521 |
+| Research Coordinator (Remote) | Crewlia | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483875363 |
+| Coordinator, Project Management | Defence Construction Canada | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4475153205 |
+| Quality Coordinator (Remote) | Crewlia | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483875487 |
+| Service Administrator | Wajax | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4476387833 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4483872516 |
+| Insolvency Advisor, Personal Debt Solutions | BDO Canada | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4481547616 |
+| Coordinator, Construction Services | Defence Construction Canada | 2026-10-28 | N | https://www.linkedin.com/jobs/view/4475139700 |
+| IT Business Analyst II - Term (15 Months) | City of Airdrie | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=ecc36ae7aee0797e |
+| Process Trainer - Collision (Canada West) | Boyd Autobody & Glass | 2026-10-28 | R | https://ca.indeed.com/viewjob?jk=eb84bffb5166777d |
+| Data Analyst | $60/hr Remote | Crossing Hurdles | 2026-10-28 | R | https://www.linkedin.com/jobs/view/4483879498 |
+| Sales Associate | Staples Canada | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4467431535 |
