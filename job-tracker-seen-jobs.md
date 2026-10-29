@@ -23566,3 +23566,14 @@
 | Receptionist | CIY House of Yoga | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=bdd992ba3f00d115 |
 | (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-10-28 | G | https://ca.indeed.com/viewjob?jk=4b16702aba3aae83 |
 | Clean Pipeline Scheduler | Trafigura | 2026-10-28 | G | https://www.linkedin.com/jobs/view/4482530916 |
+| Team Lead, Transportation Infrastructure | AtkinsRéalis | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4484417194 |
+| Team Lead, Transportation Infrastructure | AtkinsRéalis | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4484410266 |
+| Senior Project Coordinator – Solid Waste Management | AtkinsRéalis | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4484247465 |
+| Senior Project Coordinator – Solid Waste Management | AtkinsRéalis | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4484250178 |
+| Account Administrator | BrokerLink | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4484913278 |
+| Commercial Insurance Specialist (Trainee) | Northbridge Financial Corporation | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4484902730 |
+| Technical Operations Analyst (TOC) | ATB Financial | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=7406caf7d5069deb |
+| Quality Assurance Automation Developer | ATB Financial | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=5b3b78bb6ac33e93 |
+| Security Operations Center (SOC) Analyst | Northern Computer Inc | 2026-10-29 | R | https://www.linkedin.com/jobs/view/4484906298 |
+| Document Controller | Stantec | 2026-10-29 | G | https://ca.indeed.com/viewjob?jk=b0af8f97d13a2da8 |
+| meat associate | Walmart Canada | 2026-10-29 | G | https://www.linkedin.com/jobs/view/4484906686 |
