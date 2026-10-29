@@ -23577,3 +23577,24 @@
 | Security Operations Center (SOC) Analyst | Northern Computer Inc | 2026-10-29 | R | https://www.linkedin.com/jobs/view/4484906298 |
 | Document Controller | Stantec | 2026-10-29 | G | https://ca.indeed.com/viewjob?jk=b0af8f97d13a2da8 |
 | meat associate | Walmart Canada | 2026-10-29 | G | https://www.linkedin.com/jobs/view/4484906686 |
+| Integration & Value Hub Advisor | LNG Canada Development Inc | 2026-10-29 | J | https://ca.indeed.com/viewjob?jk=025a7d2529fff417 |
+| Travel Coordinator | Omega 365 | 2026-10-29 | J | https://ca.indeed.com/viewjob?jk=728f7898d34ad020 |
+| Sr Operations Advisor | Suncor Energy | 2026-10-29 | J | https://ca.indeed.com/viewjob?jk=1ddf5a1a9863b057 |
+| HR & Safety Coordinator | GCL Environmental Ltd. | 2026-10-29 | J | https://ca.indeed.com/viewjob?jk=f8a37ce9a4009a97 |
+| Officer, Human Resources Business Partner (Field) | Canada Post | 2026-10-29 | J | https://ca.indeed.com/viewjob?jk=ee2395d5dc195d6c |
+| Operations Supervisor (12 month Contract) | McKesson | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4485213141 |
+| Operations Supervisor, Commercial Property | TalentSphere Staffing Solutions | 2026-10-29 | J | https://www.linkedin.com/jobs/view/4476935337 |
+| Production Administrator | Saturn Oil & Gas | 2026-10-29 | N | https://ca.indeed.com/viewjob?jk=f77f9fa7764a82f9 |
+| Talent Coordinator | Dentons | 2026-10-29 | N | https://ca.indeed.com/viewjob?jk=2c9c9b69ff259737 |
+| Administration Coordinator | University of Alberta | 2026-10-29 | N | https://ca.indeed.com/viewjob?jk=08420968cf252e88 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Project Administrator | Worley | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4484996711 |
+| Financial Planner- SW, Calgary | TD | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4468663373 |
+| QA/QC Coordinator (CB) | Clark Builders | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4440823579 |
+| Auto Claims Advisor – TD Insurance Auto Centre (Edmonton On- | TD | 2026-10-29 | N | https://www.linkedin.com/jobs/view/4477402550 |
+| Accountant - Corporate Reporting & SAP Cons | China National Offshore Oil | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=49c2ee79b47f0e4f |
+| IT Application Support Analyst | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=e1ad20967ae4a6c5 |
+| Business Systems Analyst, Enterprise Resource Planning (ERP) | SureWerx | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=86b3852e29131574 |
+| Production Administrator | Saturn Oil & Gas | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=78fb1f4ea7cb0037 |
+| Digital Workplace Administrator | JSG (Johnson Service Group, Inc.) | 2026-10-29 | R | https://www.linkedin.com/jobs/view/4483660340 |
+| Specialist, Business Development & Events | S & E Services Limited Partnership | 2026-10-29 | G | https://ca.indeed.com/viewjob?jk=2ebdcb4d52406b01 |
