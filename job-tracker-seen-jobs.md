@@ -23641,3 +23641,54 @@
 | Data Research Analyst (Remote) | Hired | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483438674 |
 | Health & Safety Advisor | Canwest Concrete Cutting | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=bbccc9dcf5e6e3fa |
 | Payroll Specialist | Kelly | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4484874197 |
+| Accounting Analyst, Master Data New Grad | Petronas Canada | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=4b953580e318d806 |
+| Buyer/Holdback Release Analyst | TC Energy | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4483475909 |
+| Logistics Coordinator | Total One Logistics Inc. | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485394383 |
+| Business Analyst Specialist I - Marketing & Risk Management | Enbridge | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4483474828 |
+| Global Process Owner - Materials Management | Worley | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485380371 |
+| Service and Parts Coordinator | Davis Auto Group | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484896833 |
+| Pharmacy Coordinator (18 Month Contract) | McKesson | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485387263 |
+| Business Office Coordinator | Canadian Wealth Inc. | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484889745 |
+| Intermediate Recruitment Specialist | Phasor Engineering Inc | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485619070 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Tunnelling and Trenchless Delivery Lead, Calgary, EOI | Hatch | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4476837221 |
+| SAP ISU Business Analyst | Epsilon Solutions Ltd. | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485616264 |
+| SAP Enterprise Asset Management (EAM) / Plant Maintenance (P | Precision Drilling | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485377937 |
+| Payroll Analyst | Adecco | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484883793 |
+| Member Services Coordinator (12 month contract) | CIRO / OCRI | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485253571 |
+| Residential Service Specialist - Residential | Morguard | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4485388715 |
+| Senior Marketing Coordinator | Truman | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484870844 |
+| Website Transformation Digital Communications Specialist | Manpower Alberta | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484875804 |
+| Senior Specialist - Cybersecurity | Parkland Corporation | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484897224 |
+| Senior Specialist - Cybersecurity | Parkland Corporation | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484896246 |
+| HS&E Advisor | Ledcor | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484773188 |
+| Sr. Analyst, Mid-Market Lending-Western Region - EN 817 | Export Development Canada | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=d101870b85830772 |
+| Accounts Payable Administrator I (6-month Contract) | STEP Energy Services | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=c67ae9a51594523a |
+| Personnel Coordinator - 1 Year Term | Independent Counselling Enterprises | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=8ee80ceca631347e |
+| Data Coordinator | Diamond Construction Group | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=7922bb82436138fb |
+| Sales & Administrative Coordinator | Caribou Electric | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=33d313a181f761ff |
+| Dock Worker | Day & Ross | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=e1fa1f516bc1b12e |
+| Intermediate Architectural Contract Administrator | DIALOG | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485603065 |
+| Administrative Assistant | BPA | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484884687 |
+| Family Courtworker | Native Counselling Services of Alberta | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484895244 |
+| Analyste principal(e)-Prêts pour le marché intermédiaire, Ré | Export Development Canada | Exportation  | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485607146 |
+| Sr. Analyst, Mid-Market Lending-Western Region - EN 817 | Export Development Canada | Exportation  | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485603312 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485389284 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485391251 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485399052 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485389285 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485380460 |
+| Business Analyst (Oracle Cloud) | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=ad3d108083e18a85 |
+| Business Analyst | Stantec | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=1f8e0a1207d31c8e |
+| Analyst, Accounts Receivable | Avenue Living Asset Management | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=e96728ec961a314e |
+| IT Support Technician L2 | MAARA Consulting | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=1b68b1d606e1934a |
+| CAPEX Coordinator | Amrize | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=3fa7ba92faf93953 |
+| Intermediate Recruitment Specialist | Phasor Engineering | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=3da08b4f4556c456 |
+| Business Process Engineer, Innovation | CIRO / OCRI | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4485371954 |
+| Ingénieur ou ingénieure en processus opérationnels, Innovati | CIRO / OCRI | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4485383701 |
+| Cyber Security Specialist | Cenovus Energy | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4485382493 |
+| Process Simulation Engineer | SLB | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4474892313 |
+| Application Analyst - C / Sybase | Radiant Systems Solutions, Inc | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4484898874 |
+| The Shoe Co. - Sales Associate | Designer Brands Canada | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485399331 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485396129 |
+| Financial Services Independent Advisor | Co-operators | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485388304 |
