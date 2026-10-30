@@ -23611,3 +23611,33 @@
 | Administrative Support III | Primary Care Alberta | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=acfaf76e44f96e9c |
 | Specialist Drilling Engineer | Suncor Energy | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=42cba5e62ab16324 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485300716 |
+| Avionics Engineering Specialist | De Havilland Aircraft of Canada Ltd | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=666e8fd2261b8352 |
+| Avionics Senior Engineering Specialist | De Havilland Aircraft of Canada Ltd | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=dc74965b203219f7 |
+| Electronic Equipment Design Assurance (EEDA) Engineering Spe | De Havilland Aircraft of Canada Ltd | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=8a6b517415e6c2ef |
+| Operations Supervisor | Richardson International | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=5491d87da6e4d938 |
+| Talent Acquisition Specialist - Data Centres | EllisDon | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4477899135 |
+| Evaluation & Measurement Specialist | Calgary Foothills Primary Care Network | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484850102 |
+| Technical Operations Analyst (TOC) | ATB Financial | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4482579863 |
+| Payroll Analyst | Kelly Services (Canada), Ltd. | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4484862173 |
+| Leader, Safety Programs & Training | City of Calgary | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4483453318 |
+| Student, Data Analyst (Valuations) | FCC / FAC | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4468257598 |
+| Administrative Assistant | International Pressure Equipment Integri | 2026-10-30 | N | https://ca.indeed.com/viewjob?jk=970a8a3c946ad92b |
+| Administrative Assistant | IPEIA (International Pressure Equipment  | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484870131 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Program Coordinator (Remote) | Hired | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483449345 |
+| Remote Patient Intake & Care Coordinator Lead (Mental Health | The Hello Team | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4485358070 |
+| Quality Coordinator (Remote) | Crewlia | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483457605 |
+| Administrative Assistant | Red Flame Industries | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484861176 |
+| Special Projects Coordinator | City of Medicine Hat | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483443523 |
+| Account specialist, High Value at Risk (HVAR) | BMO | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484712044 |
+| Administrative Coordinator (Remote) | Hired | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483439728 |
+| Administrative Assistant III | City of Grande Prairie | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483456348 |
+| Operations Support Specialist (Remote) | Hired | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4483453283 |
+| GardaWorld - French Technical Support - Edmonton | GardaWorld | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=3ee812588d021f33 |
+| Systems Integration Engineer | Mott MacDonald | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4459058981 |
+| Business Analyst (Remote) | Hired | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483452285 |
+| Data Operations Analyst (Remote) | Hired | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483447418 |
+| Data Analyst (Remote) | Crewlia | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483442726 |
+| Data Research Analyst (Remote) | Hired | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483438674 |
+| Health & Safety Advisor | Canwest Concrete Cutting | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=bbccc9dcf5e6e3fa |
+| Payroll Specialist | Kelly | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4484874197 |
