@@ -23598,3 +23598,16 @@
 | Production Administrator | Saturn Oil & Gas | 2026-10-29 | R | https://ca.indeed.com/viewjob?jk=78fb1f4ea7cb0037 |
 | Digital Workplace Administrator | JSG (Johnson Service Group, Inc.) | 2026-10-29 | R | https://www.linkedin.com/jobs/view/4483660340 |
 | Specialist, Business Development & Events | S & E Services Limited Partnership | 2026-10-29 | G | https://ca.indeed.com/viewjob?jk=2ebdcb4d52406b01 |
+| Procurement Specialist III | Acute Care Alberta | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=1eedfec07366da35 |
+| Overnight Fulfilment Operations Team Leader | IKEA | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=8a2ad5cbea07c885 |
+| Commercial Cleaning Sales & Lead Generation Representative | sb solutions | 2026-10-30 | J | https://ca.indeed.com/viewjob?jk=19b9e28de7384324 |
+| Accounting Support Analyst | PBS Systems | 2026-10-30 | J | https://www.linkedin.com/jobs/view/4483421379 |
+| Children Outreach Workers (Casual) | Catholic Social Services Alberta | 2026-10-30 | N | https://www.linkedin.com/jobs/view/4484813909 |
+| Special Projects Coordinator | City of Medicine Hat | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=c33817312ddcf41c |
+| Global Payroll and Benefits Administrator | Achievers | 2026-10-30 | R | https://ca.indeed.com/viewjob?jk=72cd2a15c2a41cdd |
+| Quality Assurance Automation Developer | ATB Financial | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4482590474 |
+| Revenue Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4483425448 |
+| Financial Planning Analyst | MNP Executive Search & Professional Recr | 2026-10-30 | R | https://www.linkedin.com/jobs/view/4484599945 |
+| Administrative Support III | Primary Care Alberta | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=acfaf76e44f96e9c |
+| Specialist Drilling Engineer | Suncor Energy | 2026-10-30 | G | https://ca.indeed.com/viewjob?jk=42cba5e62ab16324 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485300716 |
