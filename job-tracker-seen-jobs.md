@@ -23692,3 +23692,60 @@
 | The Shoe Co. - Sales Associate | Designer Brands Canada | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485399331 |
 | Financial Services Independent Advisor | Co-operators | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485396129 |
 | Financial Services Independent Advisor | Co-operators | 2026-10-30 | G | https://www.linkedin.com/jobs/view/4485388304 |
+| Training & Events Coordinator | Careers at ECO Canada | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=6a10eb4c196cbe55 |
+| Sr Advisor IT Systems | Enbridge | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=0b25563503907205 |
+| Land Analyst | TC Energy | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=aa4b44457efa8948 |
+| Contract Manager | Trapeze | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=c64cca2f5167eac6 |
+| Category Specialist – Turbomachinery | TC Energy | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=4b182237765ee991 |
+| Logistics Administrator | Superior Gas Liquids | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483910504 |
+| Category Specialist – Turbomachinery | TC Energy | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483900897 |
+| Advisor, Procurement Operations | Nutrien | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483913238 |
+| Contract & Sales Analyst | Air Liquide | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485624875 |
+| Transportation Coordinator, Wednesday-Saturday or Sunday-Wed | Martin-Brower of Canada Co. | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485621857 |
+| Advisor IT Application Services | Enbridge | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483911299 |
+| Oracle Cloud ERP Finance Acquire-to-Retire (A2R) Senior Cons | Deloitte | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485607899 |
+| Associate Business Systems Analyst | Co-operators | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485640307 |
+| Sr Advisor IT Systems | Enbridge | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483900806 |
+| Supervisor, Operations | Cadillac Fairview | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485625667 |
+| National Market Sector Lead - Healthcare | Architecture49 Inc. | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485109646 |
+| Land Analyst | TC Energy | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483919105 |
+| ERP Training Specialist | Startec Thermal and Process | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485100709 |
+| Third Party Market Conduct & Operations Specialist | Co-operators | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485648173 |
+| Training & Events Coordinator | ECO Canada | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485630343 |
+| Transportation Engineer (Intermediate/Senior) | Associated Engineering | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483911345 |
+| Senior Analyst, Compliance Monitoring – Load Settlement | Alberta Electric System Operator (AESO) | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485112358 |
+| Analyst, Accounts Receivable | Avenue Living | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485633729 |
+| Specialist, BI Developer | Parkland Corporation | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483907571 |
+| Analyst/ Associate – Corporate Finance & M&A | ElkLake Partners | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4484851990 |
+| Patient Care Coordinator + Administrative Assistant | That Master Nurse | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=cd9314323d8b5207 |
+| Family Courtworker | Native Counselling Services of Alberta | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=cd293bfdd077bbf0 |
+| DCN HR Administrator | SLB | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=7f58ae55e8ad414f |
+| Talent Acquisition Enhancement Coordinator | Government Of Alberta | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=6caa2dd2f10d6cfa |
+| Proposals & Pursuits Coordinator | Bennett Jones | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483909459 |
+| DCN HR Administrator | SLB | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483912326 |
+| Administrative Assistant | Bantrel Co. | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4480320187 |
+| Accounts Payable Administrator | RECRUITMENT PARTNERS INC. | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485632911 |
+| Analyste associé·e des systèmes internes | Co-operators Assurance et services finan | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485102457 |
+| Financial Advisor | Canada Life | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485108471 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485626580 |
+| Sr. Advisor, Procurement Operations | Nutrien | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483913239 |
+| Mental Health Support Worker - AgeCare Skypointe | AgeCare | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485643057 |
+| Talent Acquisition Enhancement Coordinator | Government of Alberta | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485103436 |
+| Scheduling Coordinator – Edmonton (Full-Time) | CBI Home Health | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485120373 |
+| Branch Care Coordinator | Air Liquide | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485628510 |
+| Clinical Coordinator – Edmonton (Riverbend), Alberta | Snore MD | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485648286 |
+| Emergency Communications Specialist - Level 2 | Stars | 2026-10-31 | R | https://ca.indeed.com/viewjob?jk=45f26d665259fd07 |
+| Specialist II TIS Application Observability | Enbridge | 2026-10-31 | R | https://ca.indeed.com/viewjob?jk=3a1d20a7dc3791b5 |
+| Control Systems Engineer/Technologist | Synectics Inc. | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4483910328 |
+| Specialist II TIS Application Observability | Enbridge | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4483499818 |
+| Chemical Process Engineer-Semiconductor | Jacobs | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485639283 |
+| Technology Analyst Student | PCL Construction | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485634209 |
+| Associate Technical Consultant, Environmental Scientist | Worley | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=15d1cc97ab2f4338 |
+| Customer Experience Associate - Glenmore Square Branch, AB ( | Scotiabank | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=d28568ef0265e3f8 |
+| Customer Service Representative -Speedy Glass | Belron Canada inc | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4484702448 |
+| Customer Service Representative I | Kastle Systems | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485118539 |
+| Customer Experience Associate - Glenmore Square Branch, AB ( | Scotiabank | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485113339 |
+| Sales Associate - Northland Volkswagen | AutoCanada | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485112400 |
+| The Shoe Co. - Sales Associate | DSW Designer Shoe Warehouse | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4483923018 |
+| Sales Associate | Sunglass Hut | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485118413 |
+| Sales Associate | Sunglass Hut | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485112455 |
