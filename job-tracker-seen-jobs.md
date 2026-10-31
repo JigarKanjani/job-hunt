@@ -23749,3 +23749,8 @@
 | The Shoe Co. - Sales Associate | DSW Designer Shoe Warehouse | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4483923018 |
 | Sales Associate | Sunglass Hut | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485118413 |
 | Sales Associate | Sunglass Hut | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485112455 |
+| Senior SAP Programmer Analyst TRBK | ATB Financial | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485674426 |
+| Donation Processing Associate | University of Alberta | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485644456 |
+| Scheduler - AgeCare Bow Crest | AgeCare | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485668684 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485690022 |
+| Sales Associate - BOSS Cross Iron Mills | HUGO BOSS | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485669855 |
