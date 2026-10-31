@@ -23754,3 +23754,24 @@
 | Scheduler - AgeCare Bow Crest | AgeCare | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485668684 |
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485690022 |
 | Sales Associate - BOSS Cross Iron Mills | HUGO BOSS | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485669855 |
+| Behavioural Specialist | Recovery Alberta | 2026-10-31 | J | https://ca.indeed.com/viewjob?jk=99b0dda475f9ca32 |
+| Quality Assurance Analyst (18-month temp) | ATB Financial | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485685746 |
+| Lead | Covenant Health Canada | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483940483 |
+| Data Operations Analyst (Remote) | Hired | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485147895 |
+| Program Manager, Public Works | Regional Municipality of Wood Buffalo | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485693613 |
+| Project Coordinator | Covenant Health Canada | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4483037629 |
+| Family Counsellor | Recovery Alberta | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=443eeec1d39f9ee8 |
+| Family Counsellor | Recovery Alberta | 2026-10-31 | N | https://ca.indeed.com/viewjob?jk=bb4ea2bb54f2ff12 |
+| Project Coordinator | IH Selección de Personal | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485159280 |
+| Operations and Finance Coordinator | Health Technology Assessment internation | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485172202 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485170185 |
+| Advisor | Covenant Health Canada | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483934735 |
+| Administrative Coordinator (Remote) | Crewlia | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485163047 |
+| Technical Support Engineer | Motion | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4477891328 |
+| PAC Technical Support Engineering | GE Vernova | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4477835492 |
+| Business Analyst (Remote) | Crewlia | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485158075 |
+| Administrative Support IV | Recovery Alberta | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=6ab17a27fa180ed5 |
+| Veterinary Assistant/Receptionist | Ranchlands Veterinary Clinic | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=cde3062ba3f560e4 |
+| Administrative Support V | Primary Care Alberta | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=b6f2d7de07536ae7 |
+| Front Desk Associate - Calgary Talent Pool | Myo | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4466900450 |
+| Automotive Parts Specialist | NAPA Canada | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4399403239 |
