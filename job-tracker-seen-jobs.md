@@ -23783,3 +23783,11 @@
 | Environmental Specialist - Liability Assessment | Worley | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485921219 |
 | Training and Development Advisor | Agilus Work Solutions | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485102838 |
 | Specialist Project Engineer | Suncor Energy | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=ee383ec01e7db824 |
+| Bar Team Leader | Splitsville Bowl | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485914753 |
+| Human Resources Specialist (Remote) | Falling Water Dreams | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485157895 |
+| Administrator | Aston Carter | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483949731 |
+| Event Sales Specialist | Splitsville Bowl | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485924215 |
+| Administrator | Aston Carter | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4483955475 |
+| CX Data & Intelligence Analyst | Agilent Technologies | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485913878 |
+| Customer Service Representative | Aston Carter | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4483947845 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485156779 |
