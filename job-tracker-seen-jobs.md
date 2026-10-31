@@ -23775,3 +23775,11 @@
 | Administrative Support V | Primary Care Alberta | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=b6f2d7de07536ae7 |
 | Front Desk Associate - Calgary Talent Pool | Myo | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4466900450 |
 | Automotive Parts Specialist | NAPA Canada | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4399403239 |
+| Arborist Crew Leader | The Davey Tree Expert Company | 2026-10-31 | J | https://www.linkedin.com/jobs/view/4485917413 |
+| Capital Markets and Accounting Advisory Services, Senior Ass | PwC Canada | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4468836486 |
+| Financial Planner- Southwest, Calgary | TD | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4468658370 |
+| Developing Investment Advisor | TD | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4476386372 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485918275 |
+| Environmental Specialist - Liability Assessment | Worley | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485921219 |
+| Training and Development Advisor | Agilus Work Solutions | 2026-10-31 | N | https://www.linkedin.com/jobs/view/4485102838 |
+| Specialist Project Engineer | Suncor Energy | 2026-10-31 | G | https://ca.indeed.com/viewjob?jk=ee383ec01e7db824 |
