@@ -23795,3 +23795,8 @@
 | Human Resources & Office Coordinator | AURORA FURNITURE MANUFACTURING LTD | 2026-11-01 | J | https://ca.indeed.com/viewjob?jk=9b2c6a52a92914d3 |
 | Occupational, Health and Safety Coordinator | CMH Heli-Skiing & Summer Adventures | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4483968062 |
 | Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485179110 |
+| Supply Coordinator | Alberta Health Services | 2026-11-01 | J | https://www.linkedin.com/jobs/view/4485183990 |
+| Sales & Events Coordinator | River Cree Resort & Casino | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485957096 |
+| Trainer - Provincial Training Specialist | Alberta Health Services | 2026-11-01 | R | https://ca.indeed.com/viewjob?jk=4071f98dbeced34a |
+| SALES ASSOCIATE - PART TIME | ALDO Group | 2026-11-01 | G | https://ca.indeed.com/viewjob?jk=0b7896507d16d6c6 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-01 | G | https://www.linkedin.com/jobs/view/4485198766 |
