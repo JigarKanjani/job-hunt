@@ -23809,3 +23809,7 @@
 | Business Analyst  (Remote) | Crewlia | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485419384 |
 | Data Analyst (Remote) | Crewlia | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485423292 |
 | Security Systems Analyst | River Cree Resort & Casino | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485422284 |
+| Parts Specialist | Torq Instrument Supply Inc. | 2026-11-01 | J | https://www.linkedin.com/jobs/view/4485425320 |
+| Urgently Hiring: Construction Administrator | Catapulta Contracting Inc. | 2026-11-01 | N | https://ca.indeed.com/viewjob?jk=7ca5ca927b79e96c |
+| VDC Coordinator (New Grad) - Industrial West | Bird Construction | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4460549543 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-01 | G | https://www.linkedin.com/jobs/view/4485413952 |
