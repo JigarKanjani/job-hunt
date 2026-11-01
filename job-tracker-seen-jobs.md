@@ -23791,3 +23791,7 @@
 | CX Data & Intelligence Analyst | Agilent Technologies | 2026-10-31 | R | https://www.linkedin.com/jobs/view/4485913878 |
 | Customer Service Representative | Aston Carter | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4483947845 |
 | Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-10-31 | G | https://www.linkedin.com/jobs/view/4485156779 |
+| Operations Consultant - Full Time | Sephora | 2026-11-01 | J | https://ca.indeed.com/viewjob?jk=ec2f2d4a55dbc482 |
+| Human Resources & Office Coordinator | AURORA FURNITURE MANUFACTURING LTD | 2026-11-01 | J | https://ca.indeed.com/viewjob?jk=9b2c6a52a92914d3 |
+| Occupational, Health and Safety Coordinator | CMH Heli-Skiing & Summer Adventures | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4483968062 |
+| Payroll, Accounting & Human Resources Administrator | S3 Group Ltd. | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485179110 |
