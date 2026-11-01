@@ -23800,3 +23800,12 @@
 | Trainer - Provincial Training Specialist | Alberta Health Services | 2026-11-01 | R | https://ca.indeed.com/viewjob?jk=4071f98dbeced34a |
 | SALES ASSOCIATE - PART TIME | ALDO Group | 2026-11-01 | G | https://ca.indeed.com/viewjob?jk=0b7896507d16d6c6 |
 | Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-01 | G | https://www.linkedin.com/jobs/view/4485198766 |
+| Marketing Coordinator | Holt Renfrew | 2026-11-01 | J | https://www.linkedin.com/jobs/view/4485421468 |
+| Inventory Supervisor | CTDI | 2026-11-01 | J | https://www.linkedin.com/jobs/view/4485985471 |
+| Recruitment Coordinator | Ocarrol rent a car | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485406521 |
+| Sales & Events Coordinator | River Cree Resort & Casino | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485422285 |
+| Administrative Assistant | Baker Tilly Canada | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4485972655 |
+| DCN Process Engineer | SLB | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4483993469 |
+| Business Analyst  (Remote) | Crewlia | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485419384 |
+| Data Analyst (Remote) | Crewlia | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485423292 |
+| Security Systems Analyst | River Cree Resort & Casino | 2026-11-01 | R | https://www.linkedin.com/jobs/view/4485422284 |
