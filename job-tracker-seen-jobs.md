@@ -23813,3 +23813,7 @@
 | Urgently Hiring: Construction Administrator | Catapulta Contracting Inc. | 2026-11-01 | N | https://ca.indeed.com/viewjob?jk=7ca5ca927b79e96c |
 | VDC Coordinator (New Grad) - Industrial West | Bird Construction | 2026-11-01 | N | https://www.linkedin.com/jobs/view/4460549543 |
 | Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-01 | G | https://www.linkedin.com/jobs/view/4485413952 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Revenue Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4484306855 |
+| Customer Success Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4484313670 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4486131209 |
