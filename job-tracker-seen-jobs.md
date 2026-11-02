@@ -23817,3 +23817,59 @@
 | Revenue Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4484306855 |
 | Customer Success Operations Specialist (Remote | $40–$85/hr) | Synthires | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4484313670 |
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4486131209 |
+| Junior Buyer/Expeditor | Stantec | 2026-11-02 | J | https://ca.indeed.com/viewjob?jk=c3530f0a396d06ca |
+| Analyst Loan Structuring and Syndication | National Bank of Canada | 2026-11-02 | J | https://ca.indeed.com/viewjob?jk=016061d98005a424 |
+| Temporary Administrative Coordinator (2 Required) | ATCO Energy Systems | 2026-11-02 | J | https://ca.indeed.com/viewjob?jk=dfdd66cc03db87d2 |
+| Business Systems Analyst | Southern Alberta Institute of Technology | 2026-11-02 | J | https://ca.indeed.com/viewjob?jk=b474e96b359f44ed |
+| Operations Coordinator | Valard Construction | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486451007 |
+| Transportation Coordinator | Insight Global | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485764634 |
+| Project Coordinator, Renewables | Proven | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485766030 |
+| Inventory Associate (Weekends Only) | WINS (Women In Need Society) | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4484373754 |
+| Inventory Associate (Part-Time) | WINS (Women In Need Society) | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4484379458 |
+| Surface Acquisitions & Divestitures (A&D) Analyst | LandSolutions Inc | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486430043 |
+| Program Coordinator, Obstetrics & Gynaecology | University of Calgary | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486195849 |
+| Clinical Coordinator – Calgary (Creekside), AB | Snore MD | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486424404 |
+| Senior Business Analyst, Back Office Technology & Business D | Alberta Investment Management Corporatio | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485755677 |
+| Contract Payroll Analyst | IFG - International Financial Group | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485767472 |
+| Scheduling Coordinator – Calgary (Full-Time) | CBI Home Health | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485741723 |
+| Security Systems Technical Lead | Convergint | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486409602 |
+| SAP AI Solution Analyst | Parkland Corporation | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485755380 |
+| Accounting Specialist | Kassen Recruitment | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486434066 |
+| Environmental Health Safety Specialist - Building Chemicals | Irving Knight Group | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486430553 |
+| SAP AI Solution Analyst | Parkland Corporation | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4485755378 |
+| Senior Process Analyst | University of Alberta | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486410810 |
+| Operations Supervisor | Badger Infrastructure Solutions | 2026-11-02 | J | https://www.linkedin.com/jobs/view/4486432891 |
+| Program Coordinator (Permanent - Full-Time) | YMCA Calgary | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=fc17247a1c20b4bc |
+| Coordinator, HR | Bayshore HealthCare | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=ca10746e0868a9d0 |
+| Lesson Coordinator/Sales and Rentals Associate | Long & McQuade | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=a88830abd78abdca |
+| Commercial Insurance Advisor | BrokerLink | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=68d0e6089c5061ea |
+| Housing Support Worker | Closer to Home Community Services | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=9f54689dcb8d6437 |
+| Senior Youth & Family Counsellor - Phoenix | Wood's Homes | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=72dd070c1fedb18d |
+| Study Abroad Coordinator | Southern Alberta Institute of Technology | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=4f9da63862810ab4 |
+| Program Coordinator/Administrative Assistant (Remote) | Sentrex Health Solutions | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=608877aa4b6c1845 |
+| Practice Care Coordinator (Administrative & Client Intake):  | Shannyah Christian Psychotherapy & Consu | 2026-11-02 | N | https://ca.indeed.com/viewjob?jk=8ecdb5a403a67365 |
+| Deployed OSO Training & Competency Assurance Advisor | Agilus Work Solutions | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485768037 |
+| Information Desk / Administrative Assistant, Cumming School  | University of Calgary | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4486406667 |
+| Accounting Administrator | Rising Edge Group | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4486432681 |
+| Service Advisor - RV Dealership | Traveland RV Supercentre | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4484376970 |
+| Investment Specialist | BMO | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4486407615 |
+| Social Worker | Calgary Foothills Primary Care Network | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485772452 |
+| Taza - Communications Specialist | Canderel Group | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485768524 |
+| Communications Coordinator | City of Edmonton | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4484372761 |
+| HR and Payroll Administrator | InTandem Talent | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485774117 |
+| Family Enrichment Worker | Catholic Social Services Alberta | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485774254 |
+| Children's Outreach Worker | Catholic Social Services Alberta | 2026-11-02 | N | https://www.linkedin.com/jobs/view/4485769439 |
+| Operations Coordinator | Valard Construction | 2026-11-02 | R | https://ca.indeed.com/viewjob?jk=a81a1813ba3dc812 |
+| Marketing Data Analyst / CRO | Covet | 2026-11-02 | R | https://ca.indeed.com/viewjob?jk=0d447687f4b03108 |
+| Functional Analyst | MacEwan University | 2026-11-02 | R | https://ca.indeed.com/viewjob?jk=e52a2c00d76d3bcc |
+| Automation Advisor | Suncor Energy | 2026-11-02 | R | https://ca.indeed.com/viewjob?jk=f94ea1c1fa48f3e0 |
+| Technical Support Engineer | Sidetrade | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4485753871 |
+| Oracle OIC Developer | Elgebra | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4484369910 |
+| Functional Analyst - Office of the University Registrar | MacEwan University | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4486190883 |
+| Yardi Specialist | Gestion Zagora | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4485759059 |
+| IT Business Analyst | City of St. Albert | 2026-11-02 | R | https://www.linkedin.com/jobs/view/4485740907 |
+| Yora Front Desk Concierge | Pomeroy Lodging | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4484389435 |
+| Customer Service Representative | Motion | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4486429607 |
+| Sales Associate | WINS (Women In Need Society) | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4484379459 |
+| Sales Associate Part Time - Southcentre Mall | WOW! mobile boutique | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4485755936 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4485754686 |
