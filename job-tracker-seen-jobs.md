@@ -23873,3 +23873,16 @@
 | Sales Associate | WINS (Women In Need Society) | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4484379459 |
 | Sales Associate Part Time - Southcentre Mall | WOW! mobile boutique | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4485755936 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-11-02 | G | https://www.linkedin.com/jobs/view/4485754686 |
+| (CAN) Distribution Centre Team Associate - Operations II - H | Walmart Canada | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486820467 |
+| (CAN) Distribution Centre Team Associate - Operations - HVDC | Walmart Canada | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486815652 |
+| (CAN) Distribution Centre Team Associate - Operations - HVDC | Walmart Canada | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486811797 |
+| (CAN) General Merchandise Team Lead | Walmart Canada | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486811792 |
+| Service Support Analyst | PBS Systems | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4484631733 |
+| Intake Advisor - Health and Wellness | Suncor Energy | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=2ec28b28c31e8cf3 |
+| Intermediate IT Systems Administrator | Intelica Solutions Inc. | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=0eeb269b2539925f |
+| Senior People & Culture Advisor | The Common Good | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4484654099 |
+| Casual Community Disability Worker | Catholic Social Services Alberta | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486043035 |
+| Mortgage Specialist - Calgary | Scotiabank | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=c5679fa922ae77b9 |
+| Business Analyst  (Remote) | Crewlia | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484647235 |
+| Data Analyst (Remote) | Crewlia | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484634730 |
+| General Projects Associate / Labourer (Part-Time) | Boardwalk | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486027373 |
