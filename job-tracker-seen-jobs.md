@@ -23886,3 +23886,58 @@
 | Business Analyst  (Remote) | Crewlia | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484647235 |
 | Data Analyst (Remote) | Crewlia | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484634730 |
 | General Projects Associate / Labourer (Part-Time) | Boardwalk | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486027373 |
+| Project Quotations Specialist | Graybar Canada Limited | 2026-11-03 | J | https://ca.indeed.com/viewjob?jk=4a906664e4a7fb48 |
+| Supply Chain Manager | Worley | 2026-11-03 | J | https://ca.indeed.com/viewjob?jk=41cbc66b9aa55814 |
+| HACCP Advisor | Saputo | 2026-11-03 | J | https://ca.indeed.com/viewjob?jk=3246a466b12701d3 |
+| Booking Specialist | Pureform Radiology | 2026-11-03 | J | https://ca.indeed.com/viewjob?jk=472ee07a34b90688 |
+| Inventory & Logistics Analyst | ZEROCOR Tubulars | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4484544291 |
+| Digital Delivery Analyst | Adecco | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486056613 |
+| Project Coordinator | ATCO Frontec | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486071495 |
+| Microsoft D365 Finance Lead Consultant | RSM Canada | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4477909528 |
+| Lead Consultant - IFS Cloud PSO functional | Infosys | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4484674947 |
+| Financial Analyst (3 Month Term) | Hexagon Autonomous Solutions | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486897914 |
+| Business Analyst | Raas Infotek | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4487009371 |
+| Senior Business Analyst | Raas Infotek | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486886549 |
+| Senior Business Analyst | Raas Infotek | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486886584 |
+| Senior Business Analyst | Raas Infotek | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486890256 |
+| Aerie - Sales Leader (Full-Time) | American Eagle Outfitters Inc. | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486070698 |
+| Test Specialist | Modine Manufacturing Company | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4487001119 |
+| Order-to-Delivery Business Lead | ABB | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486896020 |
+| Operations Coordinator | Rockwood Service Corporation | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486055229 |
+| Auto Body Parts Coordinator (Yellowhead Trail) | Boyd Autobody & Glass | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4486076028 |
+| Procurement Administrator | Worley | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4487024084 |
+| Administrative Coordinator | University of Alberta | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4487012411 |
+| Operations Support | Nutrien | 2026-11-03 | J | https://www.linkedin.com/jobs/view/4484689850 |
+| Trust Accounting, Payroll, and Benefits Coordinator | North & Company LLP | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=819275d0bc7c4bcb |
+| Wellness Coordinator | Divine Spine | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=e185ff0d0bc5f613 |
+| Administrative Coordinator | University of Alberta | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=e64efd57812c0bf1 |
+| Surgical Booking Coordinator | Canadian Surgery Solutions Ltd. | 2026-11-03 | N | https://ca.indeed.com/viewjob?jk=c0d00138c7e5bbe7 |
+| Senior Administrative Assistant | Fluor Corporation | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486898591 |
+| Mortgage Specialist | BMO | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486896889 |
+| Senior Insolvency Analyst (Tax), Personal Debt Solutions | BDO Canada | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4485255418 |
+| Creative Services Advisor | De Havilland Aircraft of Canada Limited | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4487005298 |
+| Work Experience Program: Administrative Coordinator | ATCO Gas | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486076119 |
+| Recruitment Coordinator | Realtorpro.in | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4484691574 |
+| Career and Employment Liaison | NAIT (Northern Alberta Institute of Tech | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4487006336 |
+| Social Planner - Strategic Program Development Advisor | City of Edmonton | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4485001389 |
+| Contact Centre Advisor | Government of Alberta | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486066518 |
+| Field Administrator | Tourmaline Oil Corp | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486071476 |
+| Administrative Assistant | Groupex Canada | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486056908 |
+| Administrative Assistant - Kingsway Mall | Westcliff Management Ltd | 2026-11-03 | N | https://www.linkedin.com/jobs/view/4486079018 |
+| Business Data Analyst, Loans | BanqSI | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=a40d4bae227a9947 |
+| Business Systems Analyst | PCL Construction | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=065a1c5522a6ebbc |
+| IT Service Desk Analyst/Onsite Support | I.T. Partners Inc | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=2514b551cce9d093 |
+| Payroll Administrator | American Process Group | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=993ca9d4b51057ce |
+| Business Continuity Specialist | Enmax | 2026-11-03 | R | https://ca.indeed.com/viewjob?jk=541b13edbe9fa022 |
+| Zscaler Specialist - Contract | Compugen Inc | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484530954 |
+| Business Systems Analyst | PCL Construction | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4487002582 |
+| Service Experience Specialist | City of Edmonton | 2026-11-03 | R | https://www.linkedin.com/jobs/view/4484699440 |
+| Learning Specialist, AVP | Morgan Stanley | 2026-11-03 | G | https://ca.indeed.com/viewjob?jk=11287b06b555876f |
+| Childcare Specialist | little break | 2026-11-03 | G | https://ca.indeed.com/viewjob?jk=318830b22d918510 |
+| Client Service Associate, BMO Nesbitt Burns | BMO | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4487006530 |
+| Associate - Claims | Western Financial Group | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486074049 |
+| Personal Banking Associate Trainee | TD | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4478303632 |
+| PT Sales Associate - Seasonal | TORY BURCH | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486889496 |
+| Client Associate | CIBC | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4487009714 |
+| Audit Associate - Winter 2027 | RSM Canada | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4477122178 |
+| Learning Specialist, AVP | Morgan Stanley | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486077317 |
