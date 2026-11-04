@@ -23941,3 +23941,26 @@
 | Client Associate | CIBC | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4487009714 |
 | Audit Associate - Winter 2027 | RSM Canada | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4477122178 |
 | Learning Specialist, AVP | Morgan Stanley | 2026-11-03 | G | https://www.linkedin.com/jobs/view/4486077317 |
+| Pricing Coordinator | GPR Gesundheits- und Pflegezentrum Rüsse | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=20493596c3c972f3 |
+| Programming Research Specialist, UCalgary Continuing Educati | University of Calgary | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=cdc3ca0e44c2f72a |
+| Buyer | Rexel | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=a998e2f1299cbaa8 |
+| IT Service Lead | Jori International | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=8fc4d48b8a466fbb |
+| Environment Coordinator, SAB | Amrize | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=50c3a2e3380061a3 |
+| Financial Analyst (3 Month Term) | Hexagon | 2026-11-04 | J | https://ca.indeed.com/viewjob?jk=bf077d13ef95af62 |
+| Inventory & Procurement Specialist- Calgary | Slalom | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4486311967 |
+| Senior Financial Analyst | Clio | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4486345077 |
+| Insurance Coordinator/ Receptionist | SABY DENTAL | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=62988501fb2c683c |
+| Employment Support Worker | Women In Need Society | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=e0c1fa9aabd600c6 |
+| Governance Specialist, University Secretariat | University of Calgary | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=91b97b6e7a648c8a |
+| Community Resource Worker, Growth and Development | DDRC | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=b0765e3abeaf915d |
+| Individual Care Coordinator | L'Arche Canada | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=e56bc8dcff8562b8 |
+| Student Affairs Coordinator | McGill University | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=e80ab994a23ce331 |
+| Student Support & Thrive Time Coordinator (Thrive Elementary | Thrive Elementary School | 2026-11-04 | N | https://ca.indeed.com/viewjob?jk=2232884667a5b979 |
+| Indigenous Consultation Administrator | Vertex Resource Group Ltd. | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486346015 |
+| Indigenous Consultation Administrator | Vertex Resource Group Ltd. | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486337163 |
+| Coordinator, Corporate Registrations (Temporary 12-month con | CPA Calgary Chapter | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4485038658 |
+| Product Specialist | Capital Automotive Group | 2026-11-04 | R | https://ca.indeed.com/viewjob?jk=9ef27da4e4013691 |
+| Data Analyst I | Ameresco | 2026-11-04 | R | https://ca.indeed.com/viewjob?jk=5b20c7c908cee868 |
+| Health Policy & Management - AI Content Specialist | Alignerr | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4487215038 |
+| Part-time Receptionist | Docere Wellness Centre | 2026-11-04 | G | https://ca.indeed.com/viewjob?jk=8afb13b54010af17 |
+| (CAN) Stock Unloader Associate | Walmart | 2026-11-04 | G | https://ca.indeed.com/viewjob?jk=b2c15e44f027cc00 |
