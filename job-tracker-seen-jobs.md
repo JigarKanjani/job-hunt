@@ -23964,3 +23964,21 @@
 | Health Policy & Management - AI Content Specialist | Alignerr | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4487215038 |
 | Part-time Receptionist | Docere Wellness Centre | 2026-11-04 | G | https://ca.indeed.com/viewjob?jk=8afb13b54010af17 |
 | (CAN) Stock Unloader Associate | Walmart | 2026-11-04 | G | https://ca.indeed.com/viewjob?jk=b2c15e44f027cc00 |
+| Senior ERP Functional Analyst (JDE) | Quadra Group | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4478169579 |
+| Project Coordinator - Civil Infrastructure | Graham | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4479223088 |
+| Resident Experience Coordinator | Greystar | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4478172952 |
+| Service Leader | Chipotle Mexican Grill | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4487245615 |
+| Intermediate Aquatic Scientist, Water Quality Specialist | Onterris | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4478167749 |
+| Field Deployment Specialist - Canada | DarkVision | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4485085298 |
+| Data Operations Analyst (Remote) | Hired | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4486373634 |
+| Lead - Strategic Capital & Business Planning | Covenant Health Canada | 2026-11-04 | J | https://www.linkedin.com/jobs/view/4485086312 |
+| Research Coordinator (Remote) | Crewlia | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486388167 |
+| Program Coordinator (Remote) | Hired | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486374640 |
+| Quality Coordinator (Remote) | Crewlia | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486377622 |
+| Project Coordinator (Remote) | Hired | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486356985 |
+| Safety Advisor | Triton Environmental Consultants Ltd. | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4469056726 |
+| Property Services Coordinator | BGIS | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4478183223 |
+| Administrative Coordinator (Remote) | Hired | 2026-11-04 | N | https://www.linkedin.com/jobs/view/4486378153 |
+| Business Analyst (Remote) | Hired | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4486369800 |
+| Data Analyst (Remote) | Crewlia | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4486361934 |
+| Sales Associate-Print&Services | Staples Canada | 2026-11-04 | G | https://www.linkedin.com/jobs/view/4479242896 |
