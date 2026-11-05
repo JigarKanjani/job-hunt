@@ -24040,3 +24040,9 @@
 | Part Time Sales Associate, adidas Signal Hill (#2031) 1 | adidas | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4485554785 |
 | General Merchandise Associate - PT | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487566938 |
 | (CAN) Meat Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487574604 |
+| Operations Coordinator | Weatherford | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487560945 |
+| YOUTH DEVELOPMENT WORKER | McMan Youth, Family and Community Servic | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486577674 |
+| Administrative Assistant | SERVPRO of Vacaville / Dixon | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487731198 |
+| Curam Developer | Accenture | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4458934402 |
+| Administrative Support III | Primary Care Alberta | 2026-11-05 | G | https://ca.indeed.com/viewjob?jk=3a3c54e5324fa9b5 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487703833 |
