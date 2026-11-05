@@ -23982,3 +23982,61 @@
 | Business Analyst (Remote) | Hired | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4486369800 |
 | Data Analyst (Remote) | Crewlia | 2026-11-04 | R | https://www.linkedin.com/jobs/view/4486361934 |
 | Sales Associate-Print&Services | Staples Canada | 2026-11-04 | G | https://www.linkedin.com/jobs/view/4479242896 |
+| SCM Support Analyst | Omega 365 | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=ac121d3b585b26cb |
+| Specialist Product Management | CPKC | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=9b9fce67b47c0580 |
+| Fleet Compliance Coordinator | Iconic Power Systems Inc. | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=76d19f5668c93856 |
+| Administrative Coordinator | Salopek HR | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=f9d25ee0897bed4f |
+| Corporate Partnership Lead | National Music Centre | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=2d8b372f5b3e3ca8 |
+| Game Day Lead (Calgary) | Brodie Rec League | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=4630f730e05faf32 |
+| Analyst, Indirect Tax | Keyera Corp | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=7fee2a3e8a983d58 |
+| Digital Marketing Specialist | Mainstreet Equity Corp. | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=4e6d4bfc5a399983 |
+| Specialist, Hydrogen Locomotive Field Testing | CPKC | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=da75a40e7dda2895 |
+| EAM Project Management Analyst | City of Edmonton | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=f2951e693700393d |
+| Supply Chain Data Analyst | Convergint | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487578024 |
+| Senior Supply Chain Analyst | Paramount Resources | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487574045 |
+| Advisor, Refinery Supply & Optimization | Cenovus Energy | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487575485 |
+| Senior Contract Specialist | Gibson Energy | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486543959 |
+| SCM Category Manager, Pipeline Construction, Pacific Link | Trans Mountain | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486532770 |
+| Senior Contracts Specialist | Trans Mountain | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486529843 |
+| Project Coordinator - Buildings | Graham | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487574397 |
+| (CAN) Team Leader, Operations III (SUN-WED 12:00AM to 10:30A | Walmart Canada | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487584097 |
+| (CAN) Team Leader, Operations III (SUN-WED 12:00AM to 10:30A | Walmart Canada | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487560953 |
+| Datacom Inside Sales Specialist | Rexel Canada | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487594054 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4451216858 |
+| Team Lead (Full time) - Deerfoot Meadows | RCL - Reitmans Canada Ltd/Ltée | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487569174 |
+| GTM Operations Analyst | Benevity | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486533791 |
+| Engineer, Operations | Nutrien | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4485564254 |
+| HR Systems and Process Specialist (9-month contract) | EY | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486553378 |
+| Project Coordinator - Buildings | Graham Construction | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=8a48dd7d62b660ea |
+| Tourism and Lands Policy Advisor | Government Of Alberta | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=e42a5e86dec17920 |
+| Advisor, Refinery Supply & Optimization | Cenovus Energy | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=5b232348c6a84666 |
+| Service Center Administrator | Omega 365 | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=29235f69f5ab45a6 |
+| Administrative Assistant - Calgary Christian Secondary Schoo | Palliser School Division | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=fdf1a81f3ae06632 |
+| 988 Hub Training Coordinator - 988 Hub | CAMH | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=a830529daa098350 |
+| Bookkeeping & Administrative Coordinator | G Square Builders Ltd. | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=1377a5471f2efbbe |
+| BKC Administrative Assistant, Faculty of Science | University of Calgary | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487559958 |
+| Marketing & Design Coordinator, Innovate Calgary | University of Calgary | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487566534 |
+| Time & Attendance Administrator | Canadian Natural Resources Limited (CNRL | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486000191 |
+| Claims & Care Specialist | Recapture Capital Inc. | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486546696 |
+| Senior Talent Programs Advisor | Trans Mountain | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486533749 |
+| Junior Wellsite Geologists & Coring Specialists (Canada) | RPS | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486538724 |
+| Project Coordinator | FLINT Corp. | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487564709 |
+| Athletics Development & Alumni Coordinator | University of Alberta | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487569571 |
+| Quality Control Administrator | FLINT Corp. | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487559886 |
+| (Referral Eligible) Construction Coordinator | City of Calgary | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=1106d22d48d58650 |
+| INVESTIGATIVE ANALYST (CONTRACT) | Green Shield Canada | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=cfdb76782b5c4821 |
+| Surface Land Analyst | Keyera Corp | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=5afdad8804bb7873 |
+| Privacy and Security Analyst, BC Health Workday | Provincial Health Services Authority (PH | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=ab116ba06dbbf5c7 |
+| Control Systems Engineer | CPKC | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=ae7033f7a98257b1 |
+| Data Migration Specialist | CATALIS | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4487562961 |
+| EAM Project Management Analyst | City of Edmonton | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4485557576 |
+| Technical Support Analyst | Colas Canada Inc. | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4483088823 |
+| Technical Support Specialist | Banff Centre for Arts and Creativity | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4485551838 |
+| Claims & Care Specialist | Concept Insurance Services | 2026-11-05 | G | https://ca.indeed.com/viewjob?jk=bfa800a607999eed |
+| (CAN) Distribution Centre Team Associate - Asset Protection  | Walmart | 2026-11-05 | G | https://ca.indeed.com/viewjob?jk=e058878753ab9723 |
+| Client Service Associate | Morgan Stanley | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4486549537 |
+| PA Rentals Associate | Long & McQuade Musical Instruments | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487585436 |
+| Sales Associate | SNDL Inc. | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4486544690 |
+| Part Time Sales Associate, adidas Signal Hill (#2031) 1 | adidas | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4485554785 |
+| General Merchandise Associate - PT | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487566938 |
+| (CAN) Meat Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487574604 |
