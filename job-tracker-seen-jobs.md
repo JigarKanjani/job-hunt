@@ -24046,3 +24046,61 @@
 | Curam Developer | Accenture | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4458934402 |
 | Administrative Support III | Primary Care Alberta | 2026-11-05 | G | https://ca.indeed.com/viewjob?jk=3a3c54e5324fa9b5 |
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487703833 |
+| Engineering Projects Coordinator | UFA | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=38cc2447b9af8586 |
+| Corporate Partnership Lead (Full-time) | National Music Centre | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=f976bfade40aad95 |
+| Senior Financial Systems Analyst | Calgary Sports and Entertainment Corpora | 2026-11-05 | J | https://ca.indeed.com/viewjob?jk=7dd771108f63a067 |
+| Business Analyst – Gas Market Analysis | TC Energy | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4485857060 |
+| Program Manager, Critical Suppliers- 515 Program | De Havilland Aircraft of Canada Limited | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487798073 |
+| Engineering Projects Coordinator | UFA | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486794079 |
+| Project Coordinator | Chandos Construction | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486784030 |
+| Senior Accounts Payable Analyst | IFG - International Financial Group | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486782251 |
+| Senior Contract Analyst | Tundra Oil & Gas | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486784275 |
+| Commissioning Coordinator - Water Infrastructure | Graham | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4479548991 |
+| Lead, Multi-family Development | Section23 Developments | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4485842694 |
+| Sr Specialist - IT Tech Projects | Parkland Corporation | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4488007673 |
+| Sr Specialist - IT Tech Projects / Gestionnaire de projets e | Parkland Corporation | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4485836767 |
+| Supply Chain Support Analyst | Kelly | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486789211 |
+| Bridge Engineering Lead | EXP | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4479715622 |
+| Service Coordinator - Crowfoot Hyundai | AutoCanada | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486774591 |
+| Environmental, Health, and Safety (EHS) Specialist | Carlisle Construction Materials | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486771931 |
+| Banking Officer, Banking Client Solutions Team | BMO | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4487782971 |
+| Senior Financial Analyst | Vaco by Highspring | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486757679 |
+| Senior Security Operations Analyst - Microsoft Sentinel and  | EY | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4469350474 |
+| Senior Analyst, Indirect Tax Compliance | Deloitte | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4479836512 |
+| Product Leadership - Future Opportunities | Neo Financial | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4451560520 |
+| Inventory Supervisor | WIS International | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486753845 |
+| Buyer / Expeditor | Teledyne Technologies Incorporated | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4434589803 |
+| Procurement and Inventory Coordinator | UFA | 2026-11-05 | J | https://www.linkedin.com/jobs/view/4486785143 |
+| Companion Worker (Calgary and Edmonton-based) | Absolute Homecare Solutions Inc. | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=fcb6278645255dfd |
+| Project Coordinator - Technology | Rhodium Digital Ltd. | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=b1050a4531b4486d |
+| Office Administrator | Michener Allen | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=d4ee29223a1806a5 |
+| Data Coordinator | Radius Community Health & Healing | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=4db713272ec03c04 |
+| HR Recruitment Coordinator | Alcor Facilities Management Inc | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=ed06bd0158524db4 |
+| Human Resources Coordinator / Generalist | Hillhurst Sunnyside Community Associatio | 2026-11-05 | N | https://ca.indeed.com/viewjob?jk=43dcf900db8bf00c |
+| Administrative Assistant, Surgery | University of Calgary | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4488000585 |
+| Office Administrator | Turner & Townsend | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4478491632 |
+| Account Administrator | InSync Systems | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486770507 |
+| Account Administrator - Accounts Payable | Raise | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487793194 |
+| Account Analyst | Brunel | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486796128 |
+| Complex Disabilities Support Worker | Supported Lifestyles | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486766776 |
+| Senior Planner, Land Development | WSP in Canada | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4478802292 |
+| Account Administrator | Adecco | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486799054 |
+| Digital Program Coordinator | Nimble Digital | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4488001798 |
+| Customer Care Coordinator | Canadian Forces Morale and Welfare Servi | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486775603 |
+| HR Information Systems (HRIS) Specialist | EPCOR | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4488017444 |
+| Family Liaison Officer | Canadian Forces Morale and Welfare Servi | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4486780047 |
+| Personal Insurance Advisor | HUB International | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4485846265 |
+| Administrative Assistant | Baker Tilly Canada | 2026-11-05 | N | https://www.linkedin.com/jobs/view/4487786418 |
+| IT Coordinator | Action Group | 2026-11-05 | R | https://ca.indeed.com/viewjob?jk=1a73a157f44725e7 |
+| Account Analyst | Adecco | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486797161 |
+| Application Analyst - Intermediate | Fille Consulting Inc. | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486758997 |
+| Service Desk Analyst (Remote) | Compugen Inc | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486774653 |
+| Intern- IT Help Desk (Winter) | Black & McDonald Limited | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486796145 |
+| Intermediate Application Analyst (.Net/C# and Visual Studio  | Bevertec | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4487789013 |
+| Intermediate Application Analyst | JSG (Johnson Service Group, Inc.) | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486777444 |
+| Application Developer | NetworkPedia | 2026-11-05 | R | https://www.linkedin.com/jobs/view/4486767456 |
+| Administrative Secretary, Secondary | Calgary Catholic School District | 2026-11-05 | G | https://ca.indeed.com/viewjob?jk=d3dcd62bba4fffa5 |
+| Personal Banking Associate- Mandarin and/or Cantonese Langua | TD | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487798705 |
+| Sales Associate | SNDL Inc. | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4486789249 |
+| Personal Banking Associate- Mandarin and/or Cantonese Langua | TD | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487798706 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4488028033 |
