@@ -24128,3 +24128,16 @@
 | Sales Associate, Seasonal | Crocs, Inc. | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4485891385 |
 | SALES ASSOCIATE - CALL IT SPRING - SOUTHCENTRE | ALDO Group | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4486930725 |
 | Mortgage Agent | MortgageSolver | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4486789315 |
+| Lead IT SAP SD | Parkland Corporation | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4469350724 |
+| Tenant Services Coordinator | BGIS | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4479174691 |
+| Senior Renewables Advisor | Arcadis | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4486224536 |
+| Senior Renewables Advisor | Arcadis | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4486221661 |
+| Technical Program Manager | UiPath | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4477092885 |
+| Service Coordinator | Motion | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4462430837 |
+| MFS Program Specialist | Canadian Forces Morale and Welfare Servi | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4486960988 |
+| HSE Advisor | FLINT Corp. | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4480174237 |
+| HR Specialist | The Poirier Group | 2026-11-06 | R | https://ca.indeed.com/viewjob?jk=0032bbe7ec870288 |
+| Data Analyst (Remote) | Data Robotics | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4486994379 |
+| AI Data Analyst (Remote) | Data Robotics | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4486997385 |
+| Analyste de soutien bilingue, One Port | KPMG Canada | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4452142550 |
+| P/T Sales Associate - Print Center | Staples Canada | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4480318061 |
