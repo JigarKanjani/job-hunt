@@ -24104,3 +24104,27 @@
 | Sales Associate | SNDL Inc. | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4486789249 |
 | Personal Banking Associate- Mandarin and/or Cantonese Langua | TD | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4487798706 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-05 | G | https://www.linkedin.com/jobs/view/4488028033 |
+| Social Median & Graphic Design Coordinator | Calgary's Best Pubs | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=d79ae1de3605cd95 |
+| Sales Coordinator, Land Development (Calgary, AB) | Anthem Properties | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=bf976a7983faef2b |
+| Business & Data Analyst | City of Calgary | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=1e77198c6aa86b3e |
+| AltaGas - Lead Operations Engineer, NEBC | AltaGas | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=cb96dd7b539e253f |
+| Project Coordinator | Ultimate Renovations | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=581f3c25123ca31a |
+| Category Lead, Capital Equipment (CAPEX) | Ciena | 2026-11-06 | J | https://ca.indeed.com/viewjob?jk=028b11257e5ec11d |
+| Production Material Coordinator | Startec Thermal and Process | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4486932886 |
+| Operations Supervisor-CrossIron Mills | Victoria’s Secret & Co. | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4488092761 |
+| Sales Coordinator, Land Development (Calgary, AB) | Anthem Properties Group Ltd. | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4488105273 |
+| Business Transformation Specialist | Tech Talent International | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4486943376 |
+| Service Desk Analyst, FT, Calgary, Alberta | Baytex Energy Corp. | 2026-11-06 | J | https://www.linkedin.com/jobs/view/4486945359 |
+| Delivery Coordinator | Wood Automotive Group | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4486206119 |
+| Administrative Coordinator/Program Coordinator | Paul Davis Restoration of the National C | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4488097399 |
+| Youth Initiatives Coordinator | Lethbridge Polytechnic | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4486938358 |
+| People & Culture Specialist, Learning & Talent Acquisition | Bissell Centre | 2026-11-06 | N | https://www.linkedin.com/jobs/view/4486902381 |
+| Calgary Police Service - CPIC Information Specialist | City of Calgary | 2026-11-06 | R | https://ca.indeed.com/viewjob?jk=8ec4ec31df0b46a1 |
+| AltaGas - Digital Resource Specialist | AltaGas | 2026-11-06 | R | https://ca.indeed.com/viewjob?jk=f6502d1d9c2c5510 |
+| GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4488099316 |
+| Clinical Systems Analyst | Alignerr | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4488094767 |
+| Sales Associate (Land Rover Royal Oak) | Go Auto | 2026-11-06 | G | https://ca.indeed.com/viewjob?jk=efe297488d69a121 |
+| Sales Associate | Carters Inc. | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4485892627 |
+| Sales Associate, Seasonal | Crocs, Inc. | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4485891385 |
+| SALES ASSOCIATE - CALL IT SPRING - SOUTHCENTRE | ALDO Group | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4486930725 |
+| Mortgage Agent | MortgageSolver | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4486789315 |
