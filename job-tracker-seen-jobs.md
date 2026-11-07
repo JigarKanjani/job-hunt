@@ -24149,3 +24149,20 @@
 | InSite Coordinator | Clean Harbors | 2026-11-07 | N | https://www.linkedin.com/jobs/view/4480586738 |
 | MuleSoft Integration Developer | Experis | 2026-11-07 | R | https://www.linkedin.com/jobs/view/4487605512 |
 | Customer Service Associate | Mega Courts Pickleball and Tennis LTD | 2026-11-07 | G | https://ca.indeed.com/viewjob?jk=e01bbb3e12617bc7 |
+| Mental Health Administrative & Operations Coordinator | Tri Lotus Psychotherapy Inc. | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4487610770 |
+| Marketing Specialist | Taleo Project Services Inc | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4487616608 |
+| Material Coordinator | Worley | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4488729501 |
+| Part-time Patient Care Coordinator at a thriving Naturopathi | Vive Integrative Health Group | 2026-11-07 | N | https://ca.indeed.com/viewjob?jk=be609954e45b2926 |
+| Mental Health Administrative & Operations Coordinator | Tri Lotus Psychotherapy Inc. | 2026-11-07 | N | https://ca.indeed.com/viewjob?jk=d186f160464cb284 |
+| Document Control Coordinator - Construction (CB) | Clark Builders | 2026-11-07 | N | https://www.linkedin.com/jobs/view/4463113169 |
+| Receptionist (2026-1241) | Carewest Innovative Health Care | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488742266 |
+| Receptionist I (2026-1242) | Carewest Innovative Health Care | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488735383 |
+| Switchboard Agent | Pomeroy Lodging | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4486656336 |
+| DSW: Sales Associate | DSW Designer Shoe Warehouse | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4486660036 |
+| Sales Associate | Laura Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487625339 |
+| DSW: Sales Associate | DSW Designer Shoe Warehouse | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4486659082 |
+| DSW: Sales Associate | Designer Brands Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488739227 |
+| Holiday Sales Associate PT Under 20 hours | Samsonite | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4479644890 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488726748 |
+| Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487604841 |
+| Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487602990 |
