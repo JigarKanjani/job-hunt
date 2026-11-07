@@ -24141,3 +24141,11 @@
 | AI Data Analyst (Remote) | Data Robotics | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4486997385 |
 | Analyste de soutien bilingue, One Port | KPMG Canada | 2026-11-06 | R | https://www.linkedin.com/jobs/view/4452142550 |
 | P/T Sales Associate - Print Center | Staples Canada | 2026-11-06 | G | https://www.linkedin.com/jobs/view/4480318061 |
+| Accounts Payable Specialist | Alta Genetics | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4477706838 |
+| IT Specialist II | Modine Manufacturing Company | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4480593603 |
+| SAP SuccessFactors Compensation & Variable Pay Lead - Senior | EY | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4413344952 |
+| Senior Project Controls Specialist - Services | Graham | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4480514609 |
+| Public Affairs Officer | Canadian Armed Forces | Forces armées ca | 2026-11-07 | N | https://www.linkedin.com/jobs/view/4451213898 |
+| InSite Coordinator | Clean Harbors | 2026-11-07 | N | https://www.linkedin.com/jobs/view/4480586738 |
+| MuleSoft Integration Developer | Experis | 2026-11-07 | R | https://www.linkedin.com/jobs/view/4487605512 |
+| Customer Service Associate | Mega Courts Pickleball and Tennis LTD | 2026-11-07 | G | https://ca.indeed.com/viewjob?jk=e01bbb3e12617bc7 |
