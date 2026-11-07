@@ -24166,3 +24166,11 @@
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488726748 |
 | Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487604841 |
 | Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487602990 |
+| Senior Financial Analyst | Aston Carter | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4486654838 |
+| Senior Financial Analyst | Aston Carter | 2026-11-07 | J | https://www.linkedin.com/jobs/view/4486669177 |
+| Remote Client Care Coordinator | Park Massage  | 2026-11-07 | N | https://ca.indeed.com/viewjob?jk=a1a1f417ef7bfee8 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4487615865 |
+| PT Support Associate - Seasonal | TORY BURCH | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488744512 |
+| Sales Associate | Staples Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488751028 |
+| Sales Associate-Print&Services | Staples Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488729949 |
+| Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488739707 |
