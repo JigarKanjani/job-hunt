@@ -24174,3 +24174,10 @@
 | Sales Associate | Staples Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488751028 |
 | Sales Associate-Print&Services | Staples Canada | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488729949 |
 | Scheduler | Parkland Corporation | 2026-11-07 | G | https://www.linkedin.com/jobs/view/4488739707 |
+| Preventative Maintenance Junior Analyst | SECURE | 2026-11-08 | J | https://ca.indeed.com/viewjob?jk=219aee0f2fb22265 |
+| Talent Acquisition Coordinator | Inline Group Inc. | 2026-11-08 | N | https://ca.indeed.com/viewjob?jk=f9de23e2d33bbb1f |
+| Bookkeeper & HR Administrator | BACKLAND Expedition Gear | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4487619708 |
+| Mission Communications & Content Coordinator | Christian Education Benefit Solutions | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4487632251 |
+| GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488763167 |
+| GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488763169 |
+| GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488759237 |
