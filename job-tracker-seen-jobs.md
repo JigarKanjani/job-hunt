@@ -24194,3 +24194,10 @@
 | (CAN) Overnight Associate- Part Time Temporary | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4443953922 |
 | Analyst, Project Maintenance | University of Calgary | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4488192547 |
 | Sales Associate, Seasonal | Crocs, Inc. | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4487109033 |
+| Senior Immigration Case Manager/Client Experience & Transfor | Caron & Partners LLP | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4487650924 |
+| Branch Administrator | National Bank of Canada | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4486697648 |
+| Remote Project Coordinator – Independent Opportunity | Lavanya Sugeepan | Best- Of-Life | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4478175775 |
+| Remote Recruiting Specialist | Confidential Hiring | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4487662227 |
+| WFH Customer Care Specialist | Skybridge Americas | 2026-11-08 | R | https://ca.indeed.com/viewjob?jk=d9ed5b2166292954 |
+| Front Desk Associate | Comfort Inn & Suites Calgary Airport Sou | 2026-11-08 | G | https://ca.indeed.com/viewjob?jk=d5408971ae7e95a2 |
+| Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-11-08 | G | https://ca.indeed.com/viewjob?jk=09dbb5fc9db4f2e4 |
