@@ -24192,3 +24192,5 @@
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4480859677 |
 | (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4480863505 |
 | (CAN) Overnight Associate- Part Time Temporary | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4443953922 |
+| Analyst, Project Maintenance | University of Calgary | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4488192547 |
+| Sales Associate, Seasonal | Crocs, Inc. | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4487109033 |
