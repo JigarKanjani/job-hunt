@@ -24181,3 +24181,14 @@
 | GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488763167 |
 | GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488763169 |
 | GOAPRDJP000001055 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-08 | R | https://www.linkedin.com/jobs/view/4488759237 |
+| Lead Process Engineer | Airswift | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4488780115 |
+| Supply Chain Manager | Aston Carter | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4486694337 |
+| Drug Benefit Analyst – Pharmaceutical Product & Pricing Admi | Alberta Blue Cross | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4470507289 |
+| (CAN) Asset Protection Operations Team Associate | Walmart Canada | 2026-11-08 | J | https://www.linkedin.com/jobs/view/4480886159 |
+| AI Conversation Evaluation Specialist | $32/hr Remote | Crossing Hurdles | 2026-11-08 | N | https://www.linkedin.com/jobs/view/4479676617 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4487649350 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4480856901 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4443975270 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4480859677 |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4480863505 |
+| (CAN) Overnight Associate- Part Time Temporary | Walmart Canada | 2026-11-08 | G | https://www.linkedin.com/jobs/view/4443953922 |
