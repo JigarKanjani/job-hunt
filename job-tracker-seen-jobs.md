@@ -24206,3 +24206,49 @@
 | Internal Communications Specialist, Service Lines (12-month  | EY | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487665476 |
 | Marketing Operations & Content Specialist | S3 Group Ltd. | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487664471 |
 | Payroll and Benefits Administrator | S3 Group Ltd. | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487668480 |
+| Mineral Land & Contract Analyst | China National Offshore Oil | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=a155bcbfd9f01a94 |
+| Regional People and Culture Leader | Congebec | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=42e847b57a77493d |
+| Field Operations Representative / Canvasser | KTI (Canada) | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=b519803470f0767b |
+| Office Operations Coordinator | Blu Planet Recycling Inc | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=2b7218fbec299049 |
+| Marketing Coordinator, Programmatic Advertising Agency & DSP | RallyAd Media | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=07ac2ed84d8ba8df |
+| Material & Processes Engineer | De Havilland Aircraft of Canada Ltd | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=941a6a45a76613cf |
+| Operations Supervisor | TF Truckload & Logistics | 2026-11-09 | J | https://ca.indeed.com/viewjob?jk=52f8fffd885d27d4 |
+| Senior Specialist Commercial Portfolio Optimization | Enbridge | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487189079 |
+| Enterprise Applications Analyst | Nureva Inc. | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487938469 |
+| RV Parts & Accessories Specialist | Traveland RV Supercentre | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487192256 |
+| Senior Advisor Commercial Portfolio Planning | Enbridge | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487187204 |
+| Analyst, Finance Services | University of Calgary | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4488891515 |
+| Benefits Coordinator | SECURE | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4489113796 |
+| Credit Analyst | GMS Canada | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487180749 |
+| Care Coordinator | CBI Health | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4489121534 |
+| Practice Lead, Natural Sciences & Forestry | Proven | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487938526 |
+| Practice Lead, Natural Sciences & Forestry | PRI Engineering | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487930589 |
+| IT Delivery Lead | SOLV4EX Group of Companies | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487954203 |
+| Financial Analyst | University of Alberta | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4489114435 |
+| Technical Solutions Lead | Norcada | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487946818 |
+| Service Advisor | Capital Automotive Group | 2026-11-09 | N | https://ca.indeed.com/viewjob?jk=0ac81162421be459 |
+| HR Support Coordinator (HR Administration) | SMS Equipment Inc. | 2026-11-09 | N | https://ca.indeed.com/viewjob?jk=0df621fcd8bb1059 |
+| Case Manager | Big Hill Haven | 2026-11-09 | N | https://ca.indeed.com/viewjob?jk=bf98cf6cc3d25a5e |
+| Elder Abuse Case Manager | Big Hill Haven | 2026-11-09 | N | https://ca.indeed.com/viewjob?jk=4ee62b4cd38e1dbd |
+| Branch Administrator (Calgary, AB) | Sterling Crane | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489118858 |
+| Branch Administrator - Temporary (Calgary or Red Deer, AB) | Sterling Crane | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489137285 |
+| Contract Administrator | Gravity Architecture | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487955231 |
+| Family School Liaison Worker - Education Centre | Rocky View Schools | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487938864 |
+| Personal Banking Advisor - Carstairs | ATB Financial | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487715461 |
+| Senior Compensation Specialist | ATB Financial | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4488079197 |
+| Program Coordinator | University of Alberta | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489118123 |
+| Clinical Coordinator – Edmonton | Snore MD | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489133407 |
+| Case Managers- Temp-Full-Time-SW Calgary | Serco | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489131247 |
+| 26002 - Teacher Counsellor or FSLC - Temporary | Lethbridge School Division | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4489128434 |
+| Application & Infrastructure Analyst I - Quality Assurance A | City of Edmonton | 2026-11-09 | R | https://ca.indeed.com/viewjob?jk=a3939e6469965be4 |
+| Application Support Technician | Parkland Regional Library System | 2026-11-09 | R | https://ca.indeed.com/viewjob?jk=17a15b3f757ea4bb |
+| Endur Developer | Pacer Group | 2026-11-09 | R | https://www.linkedin.com/jobs/view/4487950420 |
+| Automation Engineer | LAPORTE | 2026-11-09 | R | https://www.linkedin.com/jobs/view/4474827631 |
+| Oracle EBS Technical - Developer | NTT DATA North America | 2026-11-09 | R | https://www.linkedin.com/jobs/view/4489135555 |
+| GIS Systems Analyst | Alquemy Search & Consulting | 2026-11-09 | R | https://www.linkedin.com/jobs/view/4487948308 |
+| Research Compliance Coordinator | Lakeland College Applied Research | 2026-11-09 | R | https://www.linkedin.com/jobs/view/4487938797 |
+| Front Desk Agent/Night Auditor | Holiday Inn & Suites Calgary Airport Nor | 2026-11-09 | G | https://ca.indeed.com/viewjob?jk=6e11215c6c5b72e3 |
+| Client Solutions Associate, Centre of Excellence | Gallagher | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4489102958 |
+| Sales Associate | SNDL Inc. | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487928762 |
+| Business Development Associate | Tykans Group Inc. | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487932670 |
+| Maintenance / Handyman Associate | Boardwalk | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487945695 |
