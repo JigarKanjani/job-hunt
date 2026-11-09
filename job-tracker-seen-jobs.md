@@ -24201,3 +24201,8 @@
 | WFH Customer Care Specialist | Skybridge Americas | 2026-11-08 | R | https://ca.indeed.com/viewjob?jk=d9ed5b2166292954 |
 | Front Desk Associate | Comfort Inn & Suites Calgary Airport Sou | 2026-11-08 | G | https://ca.indeed.com/viewjob?jk=d5408971ae7e95a2 |
 | Domino's Customer Service Representative (3500 24 Ave NW) | Domino's | 2026-11-08 | G | https://ca.indeed.com/viewjob?jk=09dbb5fc9db4f2e4 |
+| Client Care Specialist | Property Law Firm CB LLP | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4487661651 |
+| Clerk, Return to vendor & Receiving | RONA | 2026-11-09 | J | https://www.linkedin.com/jobs/view/4488799792 |
+| Internal Communications Specialist, Service Lines (12-month  | EY | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487665476 |
+| Marketing Operations & Content Specialist | S3 Group Ltd. | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487664471 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-11-09 | N | https://www.linkedin.com/jobs/view/4487668480 |
