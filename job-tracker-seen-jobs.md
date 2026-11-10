@@ -24288,3 +24288,28 @@
 | Associate Economist | City of Calgary | 2026-11-10 | G | https://ca.indeed.com/viewjob?jk=3361949d25835a99 |
 | Sales Associate Full Time - Chinook Centre | WOW! mobile boutique | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4487979588 |
 | Investment Associate | BMO | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4489144965 |
+| Production Planner | InterPro Pipe + Steel | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4481518378 |
+| Calgary Commissary - Procurement Specialist | Sobeys | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4481247701 |
+| Lead IT SAP SD | Parkland Corporation | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489442728 |
+| Production Lead | Factor_ | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4473097051 |
+| Production Lead [PM Shift] | Factor_ | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4481211959 |
+| Production Lead [AM] | Factor_ | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4481226480 |
+| IT Specialist | Parkland Corporation | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489438803 |
+| Senior Specialist - Cybersecurity | Parkland Corporation | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489455392 |
+| Administrative Assistant | RBC Dominion Securities | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489445299 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Specialist - IT ETRM System (Lead/Principal) | Parkland Corporation | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489443718 |
+| Project Administrator | TES Group Inc. | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4487486199 |
+| Financial Planning Specialist (Remote) | Joblet-AI | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4488308638 |
+| HSE Administrator | Chandos Construction | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4480277523 |
+| HRMS Technical Analyst (Hybrid) | Calgary Board Of Education | 2026-11-10 | R | https://ca.indeed.com/viewjob?jk=b12ddd84f2bada77 |
+| Business Analyst (Norwegian Language) Remote | Joblet-AI | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488315610 |
+| Data Visualization Analyst (Remote) | Joblet-AI | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488303937 |
+| OT / Automation Specialist | CDN | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4481298977 |
+| Business Analyst (Arabic Language) Remote | Joblet-AI | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488308818 |
+| UX Research Specialist (Remote) | Joblet-AI | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488312621 |
+| Administrative Support III | Alberta Health Services | 2026-11-10 | G | https://ca.indeed.com/viewjob?jk=463612427ace2802 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4488315068 |
+| Commercial Sales Associate | CertaPro Painters of Calgary & Central A | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4487475717 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4473040266 |
+| Health & Safety Advisor | AGF Perú | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4489459618 |
