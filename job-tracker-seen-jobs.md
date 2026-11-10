@@ -24252,3 +24252,39 @@
 | Sales Associate | SNDL Inc. | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487928762 |
 | Business Development Associate | Tykans Group Inc. | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487932670 |
 | Maintenance / Handyman Associate | Boardwalk | 2026-11-09 | G | https://www.linkedin.com/jobs/view/4487945695 |
+| Office Coordinator | Ecolab | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=255d287d4d7d60ab |
+| Maintenance Coordinator YYZ / YYC | AirSprint Private Aviation | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=2023653ccd623a51 |
+| Benefits Coordinator | SECURE | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=f9a438f27913e984 |
+| YMAP Coordinator - South (Full Time) | YMCA Calgary | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=771c995e4660cddb |
+| Systems Support Analyst (PR-CP72-002) - Corporate Office | Bethany Care Society | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=87164eec10f45cf2 |
+| Operations Supervisor 12am-8:30am | McKesson | 2026-11-10 | J | https://ca.indeed.com/viewjob?jk=8d98316c8aaee3c6 |
+| Autodesk Inventor Support Specialist - Canada | ReVisionz | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489192556 |
+| Autodesk Revit Support Specialist - Canada | ReVisionz | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489189679 |
+| Resident Support Team Lead | The Salvation Army in Canada | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4489199402 |
+| Application Specialist - Valve & Measurement Reliability | Spartan Controls | 2026-11-10 | J | https://www.linkedin.com/jobs/view/4487982625 |
+| Finance & Admin Coordinator | Hamdon Energy Solutions Ltd. | 2026-11-10 | N | https://ca.indeed.com/viewjob?jk=00f37e7cd8a80c12 |
+| Social Research Policy Analyst | City of Calgary | 2026-11-10 | N | https://ca.indeed.com/viewjob?jk=f8773347838bebe3 |
+| Co-op/Intern Business/Commerce Student - Proposal Coordinato | Spartan Controls | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4487980706 |
+| Mortgage Specialist | BMO | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489171158 |
+| Navigation Centre Support Worker | The Salvation Army in Canada | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489192680 |
+| Mortgage Underwriter & Fulfillment Specialist | The HR Pro.ca | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4487988232 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489400422 |
+| Resident Support Worker | The Salvation Army in Canada | 2026-11-10 | N | https://www.linkedin.com/jobs/view/4489192683 |
+| Quoting Specialist - Calgary, AB | Zedcor Security Solutions | 2026-11-10 | R | https://ca.indeed.com/viewjob?jk=3ef543e3b508b4a0 |
+| Technical Trainer | Insight Global | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488301026 |
+| Co-op/Intern Computer Science or Engineering Student - Data  | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487987485 |
+| Co-op/Intern Engineering Student - Application Specialist (M | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4488301112 |
+| Co-op/Intern Engineering Student - Automation Specialist, Co | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487987486 |
+| Co-op/Intern Engineering Student - Electrical Specialist (Ma | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487978725 |
+| Co-op/Intern Engineering Student - Electrical & CADD Special | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487982626 |
+| Freelance Data Analyst (Remote) | Crewlia | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487981747 |
+| Data Analyst (Remote) | Crewlia | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487985763 |
+| AI Data Analyst (Remote) | Crewlia | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487981746 |
+| Data Quality Analyst (Remote) | Crewlia | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487999541 |
+| Intermediate IT Systems Administrator | Intelica Solutions Inc. | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4489401327 |
+| Co-op/Intern Student - Automation Systems Administrator, 12  | Spartan Controls | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487988410 |
+| Data Validation Analyst (Remote) | Crewlia | 2026-11-10 | R | https://www.linkedin.com/jobs/view/4487995423 |
+| Refined Products Scheduler | North West Redwater Partnership | 2026-11-10 | G | https://ca.indeed.com/viewjob?jk=d4946e5efdbccf7b |
+| Associate Economist | City of Calgary | 2026-11-10 | G | https://ca.indeed.com/viewjob?jk=3361949d25835a99 |
+| Sales Associate Full Time - Chinook Centre | WOW! mobile boutique | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4487979588 |
+| Investment Associate | BMO | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4489144965 |
