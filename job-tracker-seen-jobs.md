@@ -24313,3 +24313,25 @@
 | Commercial Sales Associate | CertaPro Painters of Calgary & Central A | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4487475717 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4473040266 |
 | Health & Safety Advisor | AGF Perú | 2026-11-10 | G | https://www.linkedin.com/jobs/view/4489459618 |
+| Corporate Training Program Delivery Analyst, UCalgary Contin | University of Calgary | 2026-11-11 | J | https://ca.indeed.com/viewjob?jk=8688e261d8831bc8 |
+| Sales Team Lead (Calgary) | NOV | 2026-11-11 | J | https://www.linkedin.com/jobs/view/4487882918 |
+| AI Solutions Lead | TransAlta | 2026-11-11 | J | https://www.linkedin.com/jobs/view/4489903598 |
+| ARD Specialist Profile Improvement Coordinator | Primary Care Alberta | 2026-11-11 | N | https://ca.indeed.com/viewjob?jk=073027a2fe5d86bb |
+| Coordinator, Digital Communications | RECRUITMENT PARTNERS INC. | 2026-11-11 | N | https://www.linkedin.com/jobs/view/4489903671 |
+| AI Enablement and Business Process Analyst | Morgan Construction and Environmental Lt | 2026-11-11 | N | https://www.linkedin.com/jobs/view/4488680187 |
+| Mental Health Support Worker (FT) - Mistahimaskwa House | Catholic Social Services Alberta | 2026-11-11 | N | https://www.linkedin.com/jobs/view/4488670493 |
+| Customer Experience & Sales Specialist | Mosaic Home Services | 2026-11-11 | N | https://www.linkedin.com/jobs/view/4488635744 |
+| Infrastructure Analyst | Trotter & Morton Group of Companies | 2026-11-11 | R | https://ca.indeed.com/viewjob?jk=d1dcc7b981a573a6 |
+| Contract Data Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488670418 |
+| Freelance Data Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488679042 |
+| Life Science Research Specialist (Remote | $60–$120/hr) | Synthires | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4487892777 |
+| Document Quality Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488678149 |
+| Document Quality Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488658862 |
+| AI Data Quality Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488657789 |
+| Contract Data Quality Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488672542 |
+| Data Accuracy Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488672573 |
+| Quality Validation Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488670538 |
+| Content Analyst (Remote) | Crewlia | 2026-11-11 | R | https://www.linkedin.com/jobs/view/4488665548 |
+| Administrative Support III | Primary Care Alberta | 2026-11-11 | G | https://ca.indeed.com/viewjob?jk=c6a88f9b48b7b0f9 |
+| Residence Life Coordinator, AVP Strategy Enterprise Comm | University of Calgary | 2026-11-11 | G | https://ca.indeed.com/viewjob?jk=653649a6b2b30a52 |
+| (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-11 | G | https://www.linkedin.com/jobs/view/4489905490 |
