@@ -24362,3 +24362,11 @@
 | Analyst, Corporate Finance | KPMG Canada | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490082521 |
 | Property Administrator | Dream | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4475011709 |
 | Jr. Data Analyst | CARDATA | 2026-11-12 | R | https://ca.indeed.com/viewjob?jk=db5c9f8b2f06bea9 |
+| Senior Data Analyst | Movable Ink | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489251439 |
+| Environmental Compliance Specialist | City of Calgary | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489243491 |
+| InPlace Community Outreach Worker | JFSC (Jewish Family Service Calgary) | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=a206166f532a8de9 |
+| Documentation Specialist | ELALFY FMCG Distribution Company | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489251527 |
+| Sr. Specialist Market Risk | Capital Power | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489255245 |
+| Mortgage Funding Administrator | Canada ICI Capital Corporation | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4473523171 |
+| Contract Data Analyst (Remote) | Crewlia | 2026-11-12 | R | https://www.linkedin.com/jobs/view/4489205987 |
+| Accounts Payable Specialist, VP Finance | University of Calgary | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4488199161 |
