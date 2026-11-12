@@ -24370,3 +24370,33 @@
 | Mortgage Funding Administrator | Canada ICI Capital Corporation | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4473523171 |
 | Contract Data Analyst (Remote) | Crewlia | 2026-11-12 | R | https://www.linkedin.com/jobs/view/4489205987 |
 | Accounts Payable Specialist, VP Finance | University of Calgary | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4488199161 |
+| Alberta Operations Coordinator | Aisling Baile | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=b01baae4763dcc66 |
+| Meter Data Management Coordinator | FortisAlberta | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=58e1779a1abada15 |
+| Snr Noc Analyst | MOBY | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=c8f3cdb3fa345f7e |
+| Financial Analyst - Industrial East | Bird Construction | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490530001 |
+| Operations Improvement Specialist | Bird Construction | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4482742518 |
+| Specialist, Customer Supply Chain (NA) | Gordon Food Service - Canada | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490530017 |
+| Team Leader | Dollarama | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4488577292 |
+| Quality Assurance Analyst | Enerva Energy Solutions | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489290368 |
+| Financial Advisor/ Senior Financial Advisor - Seton Branch | Servus Credit Union | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=b855dc5becf55b9a |
+| Cross Border Tax Analyst | CompassTAX LLP | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=b72d686517c78c5a |
+| Little Kickers Alberta - Administrator | Little Kickers | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=f8128c656bc09e0f |
+| Client Service Coordinator (Healthcare) | Careica Health | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=a2787303520daffa |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490512790 |
+| Electrical Construction Administrator | AtkinsRéalis | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490520320 |
+| Accounts Payable - Concur Administrator | CES Energy Solutions Corp. | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489284726 |
+| Financial Advisor/ Senior Financial Advisor - Seton Branch | Servus Credit Union | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489283800 |
+| Sales Enablement Specialist | Fountain Tire | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489284597 |
+| Transportation Facilitator (Student Transportation) - Perman | Elk Island Public Schools | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4489280630 |
+| Clinical Business Analyst | TRI-GLOBAL SOLUTIONS GROUP INC. | 2026-11-12 | R | https://ca.indeed.com/viewjob?jk=7564ea4a37a9dadd |
+| Analyst, Indirect Tax | Keyera | 2026-11-12 | R | https://www.linkedin.com/jobs/view/4486532332 |
+| General Merchandise associate | Walmart | 2026-11-12 | G | https://ca.indeed.com/viewjob?jk=de29175e2170570b |
+| General Merchandise associate | Walmart | 2026-11-12 | G | https://ca.indeed.com/viewjob?jk=b1881c4863eec299 |
+| Sr. Specialist Market Risk | Capital Power | 2026-11-12 | G | https://ca.indeed.com/viewjob?jk=855a03ede39a9be0 |
+| (CAN) Stock Unloader Associate | Walmart | 2026-11-12 | G | https://ca.indeed.com/viewjob?jk=9ab0a49639a92c9e |
+| Customer Service Representative (Motivator) - Calgary Trinit | GoodLife Fitness | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4488565805 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489286721 |
+| Universal Financial Associate - Coventry Hills | Servus Credit Union | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489289705 |
+| Appliance Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489285764 |
+| Lumber Sales Associate: Full Time - SHAWNESSY | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489501372 |
+| Flooring & Décor Sales Associate : Part Time - NORTH HILL | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489294617 |
