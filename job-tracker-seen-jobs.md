@@ -24335,3 +24335,22 @@
 | Administrative Support III | Primary Care Alberta | 2026-11-11 | G | https://ca.indeed.com/viewjob?jk=c6a88f9b48b7b0f9 |
 | Residence Life Coordinator, AVP Strategy Enterprise Comm | University of Calgary | 2026-11-11 | G | https://ca.indeed.com/viewjob?jk=653649a6b2b30a52 |
 | (CAN) Front End Checkout Team Associate | Walmart Canada | 2026-11-11 | G | https://www.linkedin.com/jobs/view/4489905490 |
+| Lead Instrumentation and Control Engineer | Vista Projects | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=3de54072707c3a32 |
+| Program Manager, Manufacturing & NPI | North Vector Dynamics | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490041442 |
+| Office & Tenant Services Coordinator | BGO | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489038841 |
+| Oracle EBS Finance Functional Lead with AP, AR, GL exp | Smart IT Frame LLC | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489043586 |
+| MES Lead Engineer- GE Proficy | Capgemini Engineering | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490050118 |
+| Global Banking & Markets Operations-Calgary-Associate/Analys | Goldman Sachs | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489062087 |
+| Senior Business Analyst | Simform | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490040004 |
+| Environmental Field Program Coordinator | Jacobs | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4490007690 |
+| Senior Data Integration Specialist | Co-operators Assurance et services finan | 2026-11-12 | J | https://www.linkedin.com/jobs/view/4489042731 |
+| Sales & Administration Coordinator | Simply Floors Ltd | 2026-11-12 | N | https://ca.indeed.com/viewjob?jk=5b17934dd6360385 |
+| Personnel Selection Officer | Canadian Armed Forces | Forces armées ca | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4451216858 |
+| Leadership Services Program Manager | YPO | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4488257393 |
+| Caseworker - Evergreen | Cencora | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4487813112 |
+| Geographic Information Systems(GIS) Analyst | HCLTech | 2026-11-12 | R | https://www.linkedin.com/jobs/view/4489027928 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489033599 |
+| Sales Associate | Sunglass Hut | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489036865 |
+| Lumber Sales Associate: Part Time - SHAWNESSY | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489048337 |
+| Food & Consumables Team Associate | Walmart Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4490059546 |
+| (CAN) Deli Bakery Team Associate | Walmart Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4490063370 |
