@@ -24354,3 +24354,11 @@
 | Lumber Sales Associate: Part Time - SHAWNESSY | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489048337 |
 | Food & Consumables Team Associate | Walmart Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4490059546 |
 | (CAN) Deli Bakery Team Associate | Walmart Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4490063370 |
+| Communications Coordinator (18-Month Contract) | PCL Construction | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=9591c9b1a103e204 |
+| Talent & Brand Coordinator | Axium Power Services | 2026-11-12 | J | https://ca.indeed.com/viewjob?jk=7a0633b13d3330f6 |
+| Communications Coordinator (18-Month Contract) | PCL Construction | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490095281 |
+| Business Development Specialist | McCarthy Tétrault | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490062999 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Shoppers Drug Mart | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490090479 |
+| Analyst, Corporate Finance | KPMG Canada | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4490082521 |
+| Property Administrator | Dream | 2026-11-12 | N | https://www.linkedin.com/jobs/view/4475011709 |
+| Jr. Data Analyst | CARDATA | 2026-11-12 | R | https://ca.indeed.com/viewjob?jk=db5c9f8b2f06bea9 |
