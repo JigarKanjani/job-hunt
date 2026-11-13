@@ -24400,3 +24400,42 @@
 | Appliance Sales Associate: Part Time - MARLBOROUGH | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489285764 |
 | Lumber Sales Associate: Full Time - SHAWNESSY | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489501372 |
 | Flooring & Décor Sales Associate : Part Time - NORTH HILL | The Home Depot Canada | 2026-11-12 | G | https://www.linkedin.com/jobs/view/4489294617 |
+| Corporate Environmental Specialist | City of Calgary | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=40a2e3628f706bbc |
+| Specialist, Development Data | Wilder Institute/Calgary Zoo | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=15d3d4efc626c2f7 |
+| Philanthropy Coordinator - MG | Calgary Health Foundation | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=99ebda03467060a9 |
+| Support Analyst (Sales Module) | PBS Systems | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=e293e236ee7ecbd1 |
+| Coordinator, Human Resources (CDR-CP12-004) | Bethany Care Society | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=5544377696da270e |
+| Parts Advisor | Kaizen Automotive Group | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=232de548331bfa54 |
+| Human Resources Advisor | Northview Residential REIT | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=059cc52d805f823d |
+| Supply Chain Enablement and Analytics Analyst | Pembina Pipeline Corporation | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490389627 |
+| Junior Buyer - Infrastructure | Graham | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490528920 |
+| Service Coordinator | The Radius Group | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4488579830 |
+| Analyst, Corporate Development and Evaluations & Planning | South Bow | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489503772 |
+| Channel Execution Coordinator, BCI | Bell | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490543506 |
+| Team Lead, Talent Acquisition | Mattr | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490550102 |
+| Team Lead, Talent Acquisition | Mattr | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490549128 |
+| Senior Business Analyst - Direct Venture | Wawanesa Insurance | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4485240883 |
+| Salesforce Business Analyst, Senior Associate | PwC Canada | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490537654 |
+| Salesforce Business Analyst, Associate | PwC Canada | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490540600 |
+| Lead Business Analyst - Direct Venture | Wawanesa Insurance | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4485241943 |
+| Analyst, Financial Reporting | Avenue Living | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490555069 |
+| Coordinator, Position Management & Benefit Administration (2 | Carewest Innovative Health Care | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4490542555 |
+| Health & Safety Coordinator - FIFO from Western Canada | Hecla Mining Company | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489520382 |
+| Global Program Manager | DSG-Canusa | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489168342 |
+| Continuous Improvement Jr. Analyst | Ledcor | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489171925 |
+| CAN Team Leader - Alberta | Mountain Warehouse | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489513215 |
+| Part-Time Billing Coordinator (Remote, Contract) | Durham Psychotherapy | 2026-11-13 | N | https://ca.indeed.com/viewjob?jk=a0e0e3e4fe416a90 |
+| Work Integrated Learning Coordinator | University of Alberta | 2026-11-13 | N | https://ca.indeed.com/viewjob?jk=2ae9007528d90551 |
+| Communications Specialist, Claims | Co-operators | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4490534541 |
+| Work Integrated Learning Coordinator | University of Alberta | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4490538564 |
+| Communications and Research Impact Specialist | University of Alberta | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4490538468 |
+| Project Administrator | Ameresco | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4489511231 |
+| Remote Recruiting Specialist | Confidential Hiring | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4489506855 |
+| Proposal Administrator | Ledcor | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4489174661 |
+| Automotive Data Analyst | JD Power | 2026-11-13 | R | https://ca.indeed.com/viewjob?jk=3205dd9c5d74360a |
+| Technical Support Analyst | eBlock, Inc. | 2026-11-13 | R | https://ca.indeed.com/viewjob?jk=1daf4608b6a15deb |
+| Part-Time Spa Receptionist / Front Desk Assistant | Orchid Oasis Massage & Spa | 2026-11-13 | G | https://ca.indeed.com/viewjob?jk=f2e5988264fbcc4e |
+| Automotive Sales Associate | Kaizen Automotive Group | 2026-11-13 | G | https://ca.indeed.com/viewjob?jk=39297a320fa362cc |
+| Clinic Experience Associate | CBI Health | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490549505 |
+| General Merchandise associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490395608 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490539692 |
