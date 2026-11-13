@@ -24439,3 +24439,23 @@
 | Clinic Experience Associate | CBI Health | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490549505 |
 | General Merchandise associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490395608 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490539692 |
+| Senior Financial Analyst | Rogers Communications | 2026-11-13 | J | https://ca.indeed.com/viewjob?jk=9d2b0ed8afc85708 |
+| Senior Financial Analyst | Rogers Communications | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489569072 |
+| Music Operations Specialist | Rogers Sports & Media | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489551873 |
+| Project Coordinator | Pinchin Canada | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4482730051 |
+| Lead Management Operations | Rogers Communications | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4486368407 |
+| Senior Systems Analyst | Alberta Health Services | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4489548836 |
+| IT Applications Support Specialist – Health, Safety, Environ | Parkland Corporation | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4480044938 |
+| Supply Chain Manager | Colas Western Canada Inc. | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4488923354 |
+| Buyer, Growth Projects | Johnson Controls | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4488925643 |
+| Maintenance Coordinator | Colas Canada Inc. | 2026-11-13 | J | https://www.linkedin.com/jobs/view/4488912716 |
+| Financial Planner | BMO | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4488452382 |
+| Agile Delivery Coordinator | Ledcor | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4453393451 |
+| Customer Experience Analyst | NRG Energy | 2026-11-13 | N | https://www.linkedin.com/jobs/view/4463064726 |
+| Reservation Agent - Internal Candidates Only | Grey Eagle Resort & Casino | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4489549762 |
+| Mobile Sales Associate (Full Time) | Best Buy Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4488922871 |
+| SALES ASSOCIATE | Bikini Village | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4490599104 |
+| Part Time Flex Sales Associate | Pandora | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482808021 |
+| Food & Consumables Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482786391 |
+| (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482819967 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482789392 |
