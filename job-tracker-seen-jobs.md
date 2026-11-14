@@ -24459,3 +24459,18 @@
 | Food & Consumables Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482786391 |
 | (CAN) Food & Consumables Team Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482819967 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-11-13 | G | https://www.linkedin.com/jobs/view/4482789392 |
+| Natural Gas Scheduler and Analyst | Koch Energy Services, LLC | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4489311645 |
+| (CAN) Team Leader Operations - Receiving II (Thurs/Fri/Sat/M | Walmart Canada | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491044779 |
+| (CAN) Team Leader Operations - Receiving II (Thurs/Fri/Sat/M | Walmart Canada | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491040804 |
+| Operations Management Associate - Food Manufacturing | Cargill | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4489308738 |
+| Senior Google Ads Buyer, DTC eCommerce (Remote) | Sweat Pants Agency | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491052649 |
+| Google Ads Media Buyer / Growth Strategist (Remote) | Sweat Pants Agency | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491047824 |
+| EV Construction Program Manager - 1-Year Contract | Parkland Corporation | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4489862569 |
+| EV Construction Program Manager - 1-Year Contract | Parkland Corporation | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4489875180 |
+| Processing Operation Analyst III | ATB Financial | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491021086 |
+| Peer Support Worker | Recovery Alberta | 2026-11-14 | N | https://ca.indeed.com/viewjob?jk=4d700ed3e9873a1c |
+| Administrative Assistant | Aker Solutions | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4489311582 |
+| Client Care Specialist - Green Acres Animal Hospital | VCA Animal Hospitals | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4489853129 |
+| Administrative Support IV - Workforce Team | Primary Care Alberta | 2026-11-14 | G | https://ca.indeed.com/viewjob?jk=163cf2f02aad4ddf |
+| Customer Experience Associate | TD | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491046429 |
+| Food & Consumables Team Associate | Walmart Canada | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491038978 |
