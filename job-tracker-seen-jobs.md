@@ -24474,3 +24474,21 @@
 | Administrative Support IV - Workforce Team | Primary Care Alberta | 2026-11-14 | G | https://ca.indeed.com/viewjob?jk=163cf2f02aad4ddf |
 | Customer Experience Associate | TD | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491046429 |
 | Food & Consumables Team Associate | Walmart Canada | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491038978 |
+| Procurement Specialist – Category Management & Strategic Sou | TDM Solutions | 2026-11-14 | J | https://ca.indeed.com/viewjob?jk=5492fd5e737bf718 |
+| Industry Advisor, Oil & Gas | Microsoft | 2026-11-14 | J | https://ca.indeed.com/viewjob?jk=259350cca332ef95 |
+| Project Coordinator - Infrastructure | Graham | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4483120107 |
+| Industry Advisor, Oil & Gas | Microsoft | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491080658 |
+| Analyst II, Commercial Financing | First National Financial LP | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4480400771 |
+| Materials Coordinator | Aecon Group Inc. | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4481971360 |
+| Advisor Trainee- Advisor Development Program -Future Opportu | Sunlife | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4481922709 |
+| Payroll Specialist | PCL Construction | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4457075307 |
+| [B] Behavioural Support Worker Reg PT [BRV BSW D4 0.70] AgeC | AgeCare | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4483141970 |
+| Documentation Specialist | Female Veterans Alliance | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4488528454 |
+| Data Analyst (Remote) | Crewlia | 2026-11-14 | R | https://www.linkedin.com/jobs/view/4489879772 |
+| Freelance Data Analyst (Remote) | Crewlia | 2026-11-14 | R | https://www.linkedin.com/jobs/view/4489880756 |
+| Administrative Assistant | Big Al's Texturing Ltd | 2026-11-14 | G | https://ca.indeed.com/viewjob?jk=c8675f712981aab7 |
+| Guest Service Agent | Pomeroy Lodging | 2026-11-14 | G | https://ca.indeed.com/viewjob?jk=755726bb02eef7bf |
+| Front Desk | MacLeod Trail | Cactus Club Cafe | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4247085523 |
+| Front Desk | Crowfoot | Cactus Club Cafe | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4247390384 |
+| Personal Banking Associate Trainee | TD | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4483310091 |
+| Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4249431364 |
