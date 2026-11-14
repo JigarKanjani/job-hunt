@@ -24492,3 +24492,12 @@
 | Front Desk | Crowfoot | Cactus Club Cafe | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4247390384 |
 | Personal Banking Associate Trainee | TD | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4483310091 |
 | Front Desk | Stephen Avenue | Cactus Club Cafe | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4249431364 |
+| Senior Subcontract Specialist | Worley | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491080896 |
+| Senior Subcontract Specialist | Worley | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4491079991 |
+| Accounts Payable Analyst | Bird Construction | 2026-11-14 | J | https://www.linkedin.com/jobs/view/4456362223 |
+| Family Coordinator (Temporary) | McMan | 2026-11-14 | N | https://ca.indeed.com/viewjob?jk=4e006628a44902b3 |
+| Beauty Advisor - Part Time | Sephora | 2026-11-14 | N | https://ca.indeed.com/viewjob?jk=0320e936fc5508cc |
+| People & Culture Coordinator – Employee Services - 12 Month  | Winnifred Stewart | 2026-11-14 | N | https://ca.indeed.com/viewjob?jk=6f8b59e3963453de |
+| Temporary School Counsellor - Horseshoe Crossing High School | Rocky View Schools | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4490203325 |
+| GEO Specialist (Generative Engine Optimization) (Remote, Edm | Blacksmith Agency | 2026-11-14 | R | https://www.linkedin.com/jobs/view/4491096373 |
+| Associate Project Engineer | Worley | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491080874 |
