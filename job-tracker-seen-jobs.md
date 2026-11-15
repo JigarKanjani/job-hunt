@@ -24501,3 +24501,9 @@
 | Temporary School Counsellor - Horseshoe Crossing High School | Rocky View Schools | 2026-11-14 | N | https://www.linkedin.com/jobs/view/4490203325 |
 | GEO Specialist (Generative Engine Optimization) (Remote, Edm | Blacksmith Agency | 2026-11-14 | R | https://www.linkedin.com/jobs/view/4491096373 |
 | Associate Project Engineer | Worley | 2026-11-14 | G | https://www.linkedin.com/jobs/view/4491080874 |
+| Healthy and Safety Advisor | Agilus Work Solutions | 2026-11-15 | J | https://www.linkedin.com/jobs/view/4489850123 |
+| Administrator, Information Systems | CMH Heli-Skiing & Summer Adventures | 2026-11-15 | R | https://www.linkedin.com/jobs/view/4489364491 |
+| (CAN) General Merchandise Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491200759 |
+| Stocking 1 Team Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491205488 |
+| OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491204533 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491098829 |
