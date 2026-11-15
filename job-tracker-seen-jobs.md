@@ -24508,3 +24508,4 @@
 | OMNI Customer Fulfillment Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491204533 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4491098829 |
 | Remote Administrative Assistant | ndependent | Lavanya Sugeepan | Best- Of-Life | 2026-11-15 | N | https://www.linkedin.com/jobs/view/4490219436 |
+| Scheduler | Bidell Gas Compression | 2026-11-15 | G | https://www.linkedin.com/jobs/view/4490239242 |
