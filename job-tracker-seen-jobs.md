@@ -24512,3 +24512,4 @@
 | Assistant Education and Programs Coordinator | Glenbow Ranch Park Foundation | 2026-11-15 | J | https://ca.indeed.com/viewjob?jk=bc77ff83f3455f18 |
 | Talent Acquisition Specialist | Victor Energy | 2026-11-15 | N | https://www.linkedin.com/jobs/view/4491274052 |
 | Talent Acquisition Specialist | Victor Energy | 2026-11-15 | R | https://ca.indeed.com/viewjob?jk=d6e64af49d94af56 |
+| Patient Care Coordinator/Reception | Advanced Respiratory Care Network | 2026-11-16 | N | https://ca.indeed.com/viewjob?jk=083c20abab7f5c0d |
