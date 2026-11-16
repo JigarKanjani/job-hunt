@@ -24513,3 +24513,8 @@
 | Talent Acquisition Specialist | Victor Energy | 2026-11-15 | N | https://www.linkedin.com/jobs/view/4491274052 |
 | Talent Acquisition Specialist | Victor Energy | 2026-11-15 | R | https://ca.indeed.com/viewjob?jk=d6e64af49d94af56 |
 | Patient Care Coordinator/Reception | Advanced Respiratory Care Network | 2026-11-16 | N | https://ca.indeed.com/viewjob?jk=083c20abab7f5c0d |
+| Senior Civil Design Leader | Arup | 2026-11-16 | J | https://www.linkedin.com/jobs/view/4489754215 |
+| Senior Advisor, Quality & Performance, Real Estate Group | National Bank of Canada | 2026-11-16 | J | https://www.linkedin.com/jobs/view/4489725694 |
+| Sales Advisor | NIWE Academy | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4489747031 |
+| Strategic Planning Analyst (Animal Care and Park Rangers) | City of Edmonton | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4489763042 |
+| Sr. Seller Experience Specialist | Ritchie Bros. | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4478697409 |
