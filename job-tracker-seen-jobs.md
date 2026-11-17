@@ -24518,3 +24518,27 @@
 | Sales Advisor | NIWE Academy | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4489747031 |
 | Strategic Planning Analyst (Animal Care and Park Rangers) | City of Edmonton | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4489763042 |
 | Sr. Seller Experience Specialist | Ritchie Bros. | 2026-11-16 | N | https://www.linkedin.com/jobs/view/4478697409 |
+| Pricing Analyst | Vallen | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=633bfc47c2143131 |
+| Key Account Specialist, Quarry Park | Mark's | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490961992 |
+| Asset Lead, Intra-Alberta (Asset Management) | South Bow | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4489276725 |
+| Accounts Payable Lead | ROSEN | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490963783 |
+| Brand Specialist - Calgary, AB | Beauty Barrage | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491114056 |
+| (CAN) Team Leader, Asset Protection (1 year contract - Wed-S | Walmart Canada | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490975247 |
+| Materials Buyer | South Bow | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490964498 |
+| KEC - Bussing Logistics Coordinator | Kiewit | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490984028 |
+| Office & Operations Coordinator | KMK Trailers | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490996760 |
+| Child and Youth Support Worker [Must be Flexible, Every othe | Restore Child and Youth. Inc | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=e35b0dc1d826174e |
+| Senior Proposals Management Administrator | Octave Intelligence | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=a858f752d2e80e80 |
+| Case Managers- Temp-Full-Time-SW Calgary | Serco | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=9e4837b71ef179fb |
+| Administrative Assistant | FLINT Corp. | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490190844 |
+| Facilities & Catering Service Worker | Aramark Canada | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490186804 |
+| Trust Administrator | CIBC | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491560023 |
+| Beauty Specialist, Hourly Full Time Flexible Shifts | Shoppers Drug Mart | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490401033 |
+| Research Program Coordinator | University of Alberta | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491548455 |
+| Project Administrator - British Columbia or Alberta | BGC Engineering Inc. | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490190679 |
+| Administrative Assistant | CIBC | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491555229 |
+| Capital Projects Coordinator | Brazeau County | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=aa2037585543cb10 |
+| EMR/EHR Implementation Specialist | Alignerr | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4490188294 |
+| Product Support Specialist - Future Opportunities | Jobber | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4490404142 |
+| Rent Up Leasing Agent - Eagle Heights | Broadstreet Properties | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4490998418 |
+| Personal Insurance Advisor | BrokerLink | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4491106681 |
