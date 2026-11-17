@@ -24561,3 +24561,56 @@
 | January 2027 Mining and Geology Systems Co-op | Glencore Canada | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491566795 |
 | Security Engineer, Logging Platform | Clio | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4474606805 |
 | DATA. INTELLIGENCE. IMPACT. | BI DATA ANALYSTS | ADVANCED SQ | Infinity Quest | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491580226 |
+| Sales Coordinator | AuthenBalance Corporation | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=6c3d6c0b6eb01342 |
+| Business Development & Marketing Coordinator | Cornerstone Engineering Ltd | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=48b12f5751312b7b |
+| Proposal Specialist | AECOM | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=7d70a1847aa60555 |
+| Category Buyer | IMT Group | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=773188a720108764 |
+| Supply Chain Analyst, Supply Chain Management | University of Calgary | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4488442666 |
+| Specialist Logistics Operations Advisor | Suncor | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491757167 |
+| Trucking and TDG Coordinator | Keyera | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491435278 |
+| Client Service Coordinator | Bayshore HealthCare | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490805784 |
+| Customer Experience & Vehicle Intake Coordinator | Clutch | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491443359 |
+| Project Management Specialist - Branding & Imaging | Sunoco LP | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490818201 |
+| Coordinator, OIPH Learning Health System | University of Calgary | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490533551 |
+| Regulatory Analyst | Raise | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491755312 |
+| Senior Business Analyst | InSync Systems | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491428825 |
+| Access Management Automation Analyst - Information Technolog | University of Calgary | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491535560 |
+| Regional Coordinator, Western Canada | Sagard | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491441327 |
+| Safety Coordinator | Centron Group | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491738773 |
+| Clinical Trial Systems Lead, Calgary Centre for Clinical Res | University of Calgary | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4488450559 |
+| Senior Regulatory Advisor | Hays | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491731690 |
+| Operations Supervisor, Smart Farm | Olds College of Agriculture & Technology | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491735641 |
+| Material Coordinator | NES Fircroft | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491429742 |
+| Coordinator, Facility Management | Defence Construction Canada | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491424866 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491446006 |
+| Customer Experience & Vehicle Intake Coordinator | Clutch Technologies | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=046b4354d8de062e |
+| Program Coordinator | University of Alberta | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=d13b7c6f0715cc26 |
+| Talent Acquisition Coordinator | HUB International | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=bcfaf9a9f14fd671 |
+| Training and Development Coordinator - 26HS21 | Lethbridge Family Services | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=89daa71174ac6bdd |
+| Operations Coordinator, Campus Alberta Central (CAC) | Red Deer Polytechnic | 2026-11-17 | N | https://ca.indeed.com/viewjob?jk=27b8a353125b4263 |
+| Peer Recovery Navigator | University of Calgary | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490791999 |
+| Sales (Fitness Advisor) - Calgary Creekside | GoodLife Fitness | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490820102 |
+| Outreach Support Worker (Relief) | The Salvation Army in Canada | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491421828 |
+| Imaging Specialist (5-month contract) | Access | Information Management | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491733977 |
+| Imaging Specialist (5-month contract) | Access | Information Management | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491737849 |
+| Global Partnerships Advisor | Invest Alberta | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491422700 |
+| Chief Financial Officer | DV8 Energy Inc | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491440451 |
+| Beauty Specialist, Hourly Part Time Day | Shoppers Drug Mart | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491765152 |
+| Beauty Specialist, Hourly Part Time Evening | Shoppers Drug Mart | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491753629 |
+| Beauty Specialist, Hourly Part Time Flexible Shifts | Loblaw Companies Limited | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491755610 |
+| Talent Acquisition Specialist-Contract | Ecolab | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491595865 |
+| Sr Analyst, Tax Compliance & Reporting | Nutrien | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490820365 |
+| Project Administrator, Individual Learning Modules | NAIT (Northern Alberta Institute of Tech | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491757467 |
+| Process Engineer | AuthenBalance Corporation | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=671a720fe359c85a |
+| Parks Business Analyst, Finance | Government Of Alberta | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=09db4ba1622c35ff |
+| Operational Analyst | Government Of Alberta | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=d85a9b01c4c08a1c |
+| Technical Support Elite Specialist | Motorola Solutions | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=df90df776ec3ae27 |
+| Junior System Administrator | Alberta Machine Intelligence Institute | 2026-11-17 | R | https://ca.indeed.com/viewjob?jk=f767a0afd823d24b |
+| Postdoctoral Scholar in Dynamical Systems | University of Calgary | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491542230 |
+| Staff Developer | Benevity | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491449247 |
+| Parks Business Analyst, Finance | Government of Alberta | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491439464 |
+| Operational Analyst | Government of Alberta | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491447074 |
+| Junior System Administrator | Amii (Alberta Machine Intelligence Insti | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491424741 |
+| Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-11-17 | G | https://ca.indeed.com/viewjob?jk=6ebefca0030a73ea |
+| AE - Sr Brand Ambassador (Sr Sales Associate) | American Eagle Outfitters Inc. | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4491450205 |
+| Chemistries and Supplies Inside Sales Associate | Agilent Technologies | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4490523669 |
