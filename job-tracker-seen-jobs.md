@@ -24542,3 +24542,22 @@
 | Product Support Specialist - Future Opportunities | Jobber | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4490404142 |
 | Rent Up Leasing Agent - Eagle Heights | Broadstreet Properties | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4490998418 |
 | Personal Insurance Advisor | BrokerLink | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4491106681 |
+| Junior Project Coordinator | NRG Concrete Specialists | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=524b7f38a715baa5 |
+| Shared Services Advisor | Cenovus Energy | 2026-11-17 | J | https://ca.indeed.com/viewjob?jk=289eda3a5a6766ef |
+| Technical Sales Specialist - Boilers | ML6 Search + Talent Advisory | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4489782331 |
+| Employer Relations Specialist | University of Calgary | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490742852 |
+| Client Account Specialist | McCarthy Tétrault | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4475886921 |
+| Financial Analyst | Manpower | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491176357 |
+| Financial Analyst | InSync Systems | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4491181158 |
+| Senior Human Resources Operations Analyst | SGS | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4490161006 |
+| Sr Specialist SAP Plant Maintenance | Parkland Corporation | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4481468633 |
+| Proposal Lead | Spark Power ⚡ | 2026-11-17 | J | https://www.linkedin.com/jobs/view/4483284030 |
+| Program Administrator, ESL, UCalgary Continuing Education | University of Calgary | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491540341 |
+| Industrial Hygiene Coordinator | EHS Partnerships Ltd. | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4490940491 |
+| Chief Financial Officer | Bujou Group | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4491179182 |
+| Senior HSE Coordinator - Services | Graham | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4483718092 |
+| Sr. Safety Advisor (6 Months) | Civeo North America | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4483763130 |
+| Advisor IG Wealth Connect (Alberta) | IG Wealth Management | 2026-11-17 | N | https://www.linkedin.com/jobs/view/4363723062 |
+| January 2027 Mining and Geology Systems Co-op | Glencore Canada | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491566795 |
+| Security Engineer, Logging Platform | Clio | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4474606805 |
+| DATA. INTELLIGENCE. IMPACT. | BI DATA ANALYSTS | ADVANCED SQ | Infinity Quest | 2026-11-17 | R | https://www.linkedin.com/jobs/view/4491580226 |
