@@ -24646,3 +24646,28 @@
 | Client Associate | CIBC | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491786463 |
 | Overnight Freight Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491494121 |
 | Associate | RBC Dominion Securities | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4490823968 |
+| Logistics Specialist | City of Calgary | 2026-11-18 | J | https://ca.indeed.com/viewjob?jk=b9f822fa95a1dd99 |
+| Senior Accounts Payable & Job Costing Specialist – Construct | Superior Roofing Ltd. | 2026-11-18 | J | https://ca.indeed.com/viewjob?jk=520cf44c4502991b |
+| Senior Leader, Fleet Maintenance - Light Rail Vehicle (LRV) | City of Calgary | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4491852000 |
+| CADD Team Lead | City of Calgary | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4491848023 |
+| E-Discovery Case Manager | Osler, Hoskin & Harcourt LLP | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4465222795 |
+| Leader, Strategy & Performance | City of Calgary | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4491831644 |
+| Senior Program Officer, Youth Engagement, Risk Reduction and | Canadian Red Cross | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4467432976 |
+| Imaging Specialist (5-month contract) | Access | Information Management | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491733977 |
+| Operations Coordinator | Rockwood Service Corporation | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491851237 |
+| Bail Worker | Native Counselling Services of Alberta | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491845461 |
+| Customer Experience Specialist (Remote) | Hired | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491835868 |
+| Customer Support Specialist (Remote) | Hired | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491841704 |
+| Plan Administrator | Alberta School Employee Benefit Plan | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=f61938be83265d4f |
+| Fleet Specialist | A Igreja de Jesus Cristo dos Santos dos  | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4492037585 |
+| No-Code Developer (Remote) | Hired | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491135995 |
+| Data Visualization Analyst (Remote) | Joblet-AI | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491843344 |
+| AI Data Analyst (Remote) | Crewlia | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491831591 |
+| Career Transition Opportunity – Remote Help Desk & Support C | Lavanya Sugeepan | Best- Of-Life | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491855129 |
+| Zendesk Administrator (Remote) | Hired | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491835870 |
+| Zendesk Support Specialist (Remote) | Hired | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491849350 |
+| CRM Operations Specialist (Remote) | Hired | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491844680 |
+| Administrative & Customer Service Representative | Reggin Technical Services Ltd | 2026-11-18 | G | https://ca.indeed.com/viewjob?jk=9c86ef02a3d77c07 |
+| Client Onboarding & Implementation Specialist, AVP | Morgan Stanley | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4483847239 |
+| Continuous Improvement Associate | Modexus Solutions | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4476112339 |
+| Overnight Associate | Walmart Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4492018622 |
