@@ -24614,3 +24614,35 @@
 | Renovation Specialist/Tile Setter | Versatile Renovations Inc | 2026-11-17 | G | https://ca.indeed.com/viewjob?jk=6ebefca0030a73ea |
 | AE - Sr Brand Ambassador (Sr Sales Associate) | American Eagle Outfitters Inc. | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4491450205 |
 | Chemistries and Supplies Inside Sales Associate | Agilent Technologies | 2026-11-17 | G | https://www.linkedin.com/jobs/view/4490523669 |
+| Coordinator, Creative Economy | Calgary Economic Development | 2026-11-18 | J | https://ca.indeed.com/viewjob?jk=04aa921c2a8385c4 |
+| Engineering Project Leader | Chemelex | 2026-11-18 | J | https://ca.indeed.com/viewjob?jk=0158d68045d75fbf |
+| Preconstruction Sourcing Lead | Actalent | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4491493326 |
+| Surface Land Analyst | Keyera | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4486545040 |
+| Operations Specialist | Canada Life | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4490857029 |
+| Incident Management Lead / Responsable de la gestion des inc | IBM | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4490844363 |
+| Preconstruction Sourcing Lead | Actalent | 2026-11-18 | J | https://www.linkedin.com/jobs/view/4491800049 |
+| In Home Family Support Worker | Metis Calgary Family Services | 2026-11-18 | N | https://ca.indeed.com/viewjob?jk=0a2a1369055b3a21 |
+| Member Experience Advisor - Crossfield | Servus Credit Union | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4489572944 |
+| Analyst/ Associate, Global Investment Banking - Project Advi | RBC | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4490840102 |
+| Proposal Specialist | AECOM | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4490850139 |
+| Event Coordinator | Canadian Fiber Optics | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491490469 |
+| Administrative Assistant, UCalgary Continuing Education | University of Calgary | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4491768663 |
+| Mortgage Specialist Assistant | RBC | 2026-11-18 | N | https://www.linkedin.com/jobs/view/4490843028 |
+| FASD Support Specialist - Term Certain | Calgary John Howard Society | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=d48a70000f3d5c20 |
+| Desktop Administrator II, IT Infrastructure | Ryan, LLC | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=8c63d38fb3843717 |
+| Technology Support Specialist | Corporate Networks | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=9128cbf973f0e5ff |
+| Test Automation Engineer | Masv | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=dde6876940aaf7db |
+| Incentive Analyst | Vale | 2026-11-18 | R | https://ca.indeed.com/viewjob?jk=c7acc3734cbb2d8f |
+| Power Platform Administrator | MNP | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4490841398 |
+| Data Historian Specialist | Actalent | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4491494324 |
+| Operations Specialist | Canada Life | 2026-11-18 | R | https://www.linkedin.com/jobs/view/4490843554 |
+| Receptionist | Mancal | 2026-11-18 | G | https://ca.indeed.com/viewjob?jk=8a0e9d25fcaf4827 |
+| General Merchandise Associate | Walmart | 2026-11-18 | G | https://ca.indeed.com/viewjob?jk=358f99073492472e |
+| (CAN) OMNI Customer Fulfillment Associate | Walmart | 2026-11-18 | G | https://ca.indeed.com/viewjob?jk=17fef27147d77bcd |
+| Client Engagement Associate | CIBC | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491780598 |
+| Front End Associate: Part Time - TUSCANY | The Home Depot Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491477857 |
+| Sales Associate | Ardene | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4490828733 |
+| Lumber Sales Associate & Deck Designer: Full Time - COUNTRY  | The Home Depot Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491484518 |
+| Client Associate | CIBC | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491786463 |
+| Overnight Freight Associate : Part Time - SHAWNESSY | The Home Depot Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4491494121 |
+| Associate | RBC Dominion Securities | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4490823968 |
