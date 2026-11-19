@@ -24671,3 +24671,19 @@
 | Client Onboarding & Implementation Specialist, AVP | Morgan Stanley | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4483847239 |
 | Continuous Improvement Associate | Modexus Solutions | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4476112339 |
 | Overnight Associate | Walmart Canada | 2026-11-18 | G | https://www.linkedin.com/jobs/view/4492018622 |
+| Business Analyst | BGIS | 2026-11-19 | J | https://www.linkedin.com/jobs/view/4475458638 |
+| Recruitment Specialist - Craft | FLINT Corp. | 2026-11-19 | J | https://www.linkedin.com/jobs/view/4492145754 |
+| Analyste principal(e), Gestion d’actifs Fonds de croissance  | PSP Investments | Investissements PSP | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4474471107 |
+| Sr Analyst, Tax Compliance & Reporting | Nutrien | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4492440833 |
+| Project Coordinator - Utilities (New Graduate) (June 2027) | Ledcor | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4492290581 |
+| Estimating Administrator | Black & McDonald Limited | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4484109529 |
+| Estimating Administrator | Black & McDonald Limited | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4484116141 |
+| Payroll and Benefits Administrator | S3 Group Ltd. | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4492161217 |
+| Customer Support Specialist (Remote) | Hired | 2026-11-19 | N | https://www.linkedin.com/jobs/view/4492165281 |
+| Sr Financial Reporting Analyst | Robert Half | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492152887 |
+| Revenue Systems Specialist (Remote | $40–$85/hr) | Synthires | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4491611573 |
+| Business Process Automation Specialist (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492147990 |
+| CRM Data Specialist (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492163363 |
+| Power BI Developer (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492168033 |
+| Zendesk Administrator (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492161392 |
+| Customer Experience Specialist (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492150976 |
