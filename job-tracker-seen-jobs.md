@@ -24687,3 +24687,22 @@
 | Power BI Developer (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492168033 |
 | Zendesk Administrator (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492161392 |
 | Customer Experience Specialist (Remote) | Hired | 2026-11-19 | R | https://www.linkedin.com/jobs/view/4492150976 |
+| Client Account Specialist | Rogers Communications | 2026-11-20 | J | https://ca.indeed.com/viewjob?jk=9436704e667ac6f5 |
+| Lead Planner/Scheduler | Ausenco | 2026-11-20 | J | https://ca.indeed.com/viewjob?jk=bf2c49cad28808c6 |
+| Regional Product & Inventory Specialist | FYidoctors | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4491692479 |
+| Senior Project Business Price Analyst | ABB | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492777290 |
+| Environmental Database Analyst | Vertex Resource Group Ltd. | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492550241 |
+| AI Governance Analyst | Kinaxis | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492756947 |
+| Heavy Haul Operations Lead | Lotus Group | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492548143 |
+| Advance Process Control and Optimization Delivery Lead | Baker Hughes | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492793018 |
+| Environmental Database Analyst | Vertex Resource Group Ltd. | 2026-11-20 | J | https://www.linkedin.com/jobs/view/4492541440 |
+| Pediatric Billing and Insurance Coordinator | City Orthodontics & Pediatric Dentistry | 2026-11-20 | N | https://ca.indeed.com/viewjob?jk=9e9c911aae9d8459 |
+| Administrative Coordinator | McGill University | 2026-11-20 | N | https://ca.indeed.com/viewjob?jk=3760aff2306896b6 |
+| Member Experience Advisor - TransCanada Branch | Servus Credit Union | 2026-11-20 | N | https://www.linkedin.com/jobs/view/4492531684 |
+| Process and Analytical Development Specialist, Arnie Charbon | University of Calgary | 2026-11-20 | N | https://www.linkedin.com/jobs/view/4492788236 |
+| Grid Operations Coordinator / Coordonateur des opérations du | ENERCON | 2026-11-20 | N | https://www.linkedin.com/jobs/view/4492794085 |
+| Asset Management Analyst | City of St. Albert | 2026-11-20 | R | https://ca.indeed.com/viewjob?jk=9a298434229a03c1 |
+| System Administrator – Corporate Services | Siksika Family Services Corporation | 2026-11-20 | R | https://www.linkedin.com/jobs/view/4492554146 |
+| Health Policy & Management - AI Content Specialist | Alignerr | 2026-11-20 | R | https://www.linkedin.com/jobs/view/4492759951 |
+| Clinic Experience Associate | CBI Health | 2026-11-20 | G | https://www.linkedin.com/jobs/view/4492769032 |
+| Produce Associate | T&T Supermarket | 2026-11-20 | G | https://www.linkedin.com/jobs/view/4492759917 |
