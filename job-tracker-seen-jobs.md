@@ -24712,3 +24712,5 @@
 | Senior Business Analyst - Health Insurance (Fully Remote) | JustBacked | 2026-11-22 | J | https://www.linkedin.com/jobs/view/4492353050 |
 | Intermediate Instrumentation and Controls specialist | Kleinfelder | 2026-11-22 | R | https://www.linkedin.com/jobs/view/4485919800 |
 | (CAN) Overnight Associate | Walmart Canada | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493326369 |
+| Privacy Analyst | Alberta iGaming Corporation | 2026-11-22 | R | https://ca.indeed.com/viewjob?jk=8b79567513535a1f |
+| Box Office Agent | Grey Eagle Resort & Casino | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493543113 |
