@@ -24706,3 +24706,6 @@
 | Health Policy & Management - AI Content Specialist | Alignerr | 2026-11-20 | R | https://www.linkedin.com/jobs/view/4492759951 |
 | Clinic Experience Associate | CBI Health | 2026-11-20 | G | https://www.linkedin.com/jobs/view/4492769032 |
 | Produce Associate | T&T Supermarket | 2026-11-20 | G | https://www.linkedin.com/jobs/view/4492759917 |
+| Health & Wellness Coordinator | City of Grande Prairie | 2026-11-22 | N | https://www.linkedin.com/jobs/view/4492331289 |
+| Marketing Operations & Content Specialist | S3 Group Ltd. | 2026-11-22 | N | https://www.linkedin.com/jobs/view/4493125107 |
+| (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493310503 |
