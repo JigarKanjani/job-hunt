@@ -24709,3 +24709,6 @@
 | Health & Wellness Coordinator | City of Grande Prairie | 2026-11-22 | N | https://www.linkedin.com/jobs/view/4492331289 |
 | Marketing Operations & Content Specialist | S3 Group Ltd. | 2026-11-22 | N | https://www.linkedin.com/jobs/view/4493125107 |
 | (CAN) Stocking 1 Team Associate | Walmart Canada | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493310503 |
+| Senior Business Analyst - Health Insurance (Fully Remote) | JustBacked | 2026-11-22 | J | https://www.linkedin.com/jobs/view/4492353050 |
+| Intermediate Instrumentation and Controls specialist | Kleinfelder | 2026-11-22 | R | https://www.linkedin.com/jobs/view/4485919800 |
+| (CAN) Overnight Associate | Walmart Canada | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493326369 |
