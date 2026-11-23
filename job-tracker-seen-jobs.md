@@ -24714,3 +24714,36 @@
 | (CAN) Overnight Associate | Walmart Canada | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493326369 |
 | Privacy Analyst | Alberta iGaming Corporation | 2026-11-22 | R | https://ca.indeed.com/viewjob?jk=8b79567513535a1f |
 | Box Office Agent | Grey Eagle Resort & Casino | 2026-11-22 | G | https://www.linkedin.com/jobs/view/4493543113 |
+| Specialist, Parking & Traffic | Calgary Sports and Entertainment Corpora | 2026-11-23 | J | https://ca.indeed.com/viewjob?jk=6e57298e84103c13 |
+| Specialist, Fan Experience and Security Operations | Calgary Sports and Entertainment Corpora | 2026-11-23 | J | https://ca.indeed.com/viewjob?jk=96e00aacaf42506a |
+| Branch Supervision (Compliance) Specialist | BMO Financial Group | 2026-11-23 | J | https://ca.indeed.com/viewjob?jk=3a2dd5a283096bff |
+| Specialist, Baggage Hall Program | Calgary Airports | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493663461 |
+| Contracts Administrator | Turner & Townsend | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4494011646 |
+| Financial Analyst | Robert Half | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4494004355 |
+| Talent Acquisition Specialist - FAL | De Havilland Aircraft of Canada Limited | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493668329 |
+| Head of Discount Operations - West | Sobeys | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493680291 |
+| Member Services Coordinator (12 month contract) | CIRO / OCRI | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4485261716 |
+| Regulatory Coordinator | Alimentiv | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4494001287 |
+| Senior Project Controls Planner/Scheduler | Hays | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493668377 |
+| Solution Architect, ERP & HCM Technology | WestJet | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493670184 |
+| Materials & Logistics Lead, Fabrication - Industrial West | Bird Construction | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493666062 |
+| Process Improvement Business Analyst-Brooks, AB | JBS Food Canada | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493799903 |
+| Project Coordinator, Fabrication / Piping - Industrial West | Bird Construction | 2026-11-23 | J | https://www.linkedin.com/jobs/view/4493646982 |
+| Canadian Securities Licensed Advisor | Palmer Swystun & Associates | 2026-11-23 | N | https://ca.indeed.com/viewjob?jk=3d99b5fd766e3af2 |
+| Case Manager - Group Insurance | ASSUMPTION LIFE | 2026-11-23 | N | https://ca.indeed.com/viewjob?jk=d0ed95e89ecc3c2c |
+| Scheduling Coordinator | Home Care | 2026-11-23 | N | https://ca.indeed.com/viewjob?jk=fa3d3caf385dc0f7 |
+| Payroll & Benefits Administrator | Lammle's Western Wear | 2026-11-23 | N | https://www.linkedin.com/jobs/view/4494014194 |
+| Digital Experience and Content Specialist, Office of the Reg | University of Calgary | 2026-11-23 | N | https://www.linkedin.com/jobs/view/4492468647 |
+| HSE Coordinator - Buildings West | Bird Construction | 2026-11-23 | N | https://www.linkedin.com/jobs/view/4493654776 |
+| Customer Experience Specialist (Remote) | Hired | 2026-11-23 | N | https://www.linkedin.com/jobs/view/4492615621 |
+| Accreditation Specialist | Alberta Council of Disability Services | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4492628730 |
+| Specialist I IT Power Platform | Enbridge | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4492645111 |
+| Microsoft 365 Administrator | LanceSoft, Inc. | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4492611681 |
+| M365 Administrator | Apptoza Inc. | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4493669283 |
+| Email Specialist and Marketing Automation | SMART Technologies | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4492632217 |
+| Business Process Automation Specialist (Remote) | Hired | 2026-11-23 | R | https://www.linkedin.com/jobs/view/4494009009 |
+| Specialist, Baggage Hall Program | Calgary Airports | 2026-11-23 | G | https://ca.indeed.com/viewjob?jk=fbc35d4f14bdc48a |
+| Administrative Coordinator, Faculty of Law | University of Calgary | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4493664921 |
+| Sales Associate-Print&Services | Staples Canada | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4493674186 |
+| Sales Associate | Carters Inc. | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4486103344 |
+| Branch Supervision (Compliance) Specialist | BMO | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4493677552 |
