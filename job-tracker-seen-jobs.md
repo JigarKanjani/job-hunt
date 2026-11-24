@@ -24747,3 +24747,31 @@
 | Sales Associate-Print&Services | Staples Canada | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4493674186 |
 | Sales Associate | Carters Inc. | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4486103344 |
 | Branch Supervision (Compliance) Specialist | BMO | 2026-11-23 | G | https://www.linkedin.com/jobs/view/4493677552 |
+| Portfolio Delivery Lead – Resources | Avanade | 2026-11-24 | J | https://ca.indeed.com/viewjob?jk=ce691a338e8f1d36 |
+| OT Threat Exposure & Vulnerability Specialist | CPKC | 2026-11-24 | J | https://ca.indeed.com/viewjob?jk=f21bd4dd9ccccb37 |
+| Regulatory Data Analyst | Government of Canada | 2026-11-24 | J | https://ca.indeed.com/viewjob?jk=9dfb5af7e67a598c |
+| Machinery Lead | Omega 365 | 2026-11-24 | J | https://ca.indeed.com/viewjob?jk=e1b863a5beae47f3 |
+| Operations Supervisor | Intelcom | Dragonfly | 2026-11-24 | J | https://ca.indeed.com/viewjob?jk=f213a7dd5bdb0bb9 |
+| Procurement Specialist | SABRE LTD | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493964587 |
+| Branch Administrator/Sales Coordinator | Nors Group | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493900585 |
+| Portfolio Delivery Lead – Resources | Avanade | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493945954 |
+| Talent Acquisition Coordinator | High Tide Inc. | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4494095502 |
+| Process Improvement Business Analyst-Brooks, AB | JBS USA | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493957523 |
+| GOAPRDJP000001060 – Financial Analyst – Intermediate | S M Software Solutions Inc | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493963593 |
+| GOAPRDJP000001060 – Financial Analyst – Intermediate | S M Software Solutions Inc | 2026-11-24 | J | https://www.linkedin.com/jobs/view/4493969370 |
+| Senior Administrative Assistant, Well Delivery | Cenovus Energy | 2026-11-24 | N | https://ca.indeed.com/viewjob?jk=f33bc058874d0520 |
+| Life Program Coordinator | Chimo Youth Retreat Centre | 2026-11-24 | N | https://ca.indeed.com/viewjob?jk=077d076c4ccb607c |
+| Case Manager – Patient Support Programs (12 Month Contract) | PSPSync | 2026-11-24 | N | https://ca.indeed.com/viewjob?jk=d0cb50d99f2fee3a |
+| Intermediate Reclamation Specialist | Jacobs | 2026-11-24 | N | https://www.linkedin.com/jobs/view/4493980001 |
+| GOAPRDJP000001060 – Financial Analyst – Intermediate | S M Software Solutions Inc | 2026-11-24 | N | https://www.linkedin.com/jobs/view/4493977221 |
+| Intermediate Reclamation Specialist | Jacobs | 2026-11-24 | N | https://www.linkedin.com/jobs/view/4493977390 |
+| Accounts Receivable/Billing Administrator | Vertex Resource Group Ltd. | 2026-11-24 | N | https://www.linkedin.com/jobs/view/4494300373 |
+| Franchise Support Trainer & Advisor | angela COTE Inc. | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=6324c91d5701b1f0 |
+| Intermediate Reclamation Specialist | Jacobs | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=949ede6b0e517aff |
+| Automation Technician | Ecolab | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=f6ada843f8b61016 |
+| Business Intelligence Analyst – PSPSync | PSPSync | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=bba6e6899c5e1816 |
+| Global Trade Data Analyst | Ciena | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=d8e015fca680caf5 |
+| Int Application Analyst | Vantix Systems Inc | 2026-11-24 | R | https://ca.indeed.com/viewjob?jk=3a59933c740ba39a |
+| Desktop Support Engineer (Level 2) | NSC Global | 2026-11-24 | R | https://www.linkedin.com/jobs/view/4493946234 |
+| Microsoft Dynamics 365 Developer Consultant (fully remote) | Ateko, backed by Bell Canada | 2026-11-24 | R | https://www.linkedin.com/jobs/view/4494308045 |
+| Administrative Assistant, Group Advantage | RBC | 2026-11-24 | G | https://www.linkedin.com/jobs/view/4493976431 |
