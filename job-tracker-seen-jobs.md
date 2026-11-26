@@ -24775,3 +24775,13 @@
 | Desktop Support Engineer (Level 2) | NSC Global | 2026-11-24 | R | https://www.linkedin.com/jobs/view/4493946234 |
 | Microsoft Dynamics 365 Developer Consultant (fully remote) | Ateko, backed by Bell Canada | 2026-11-24 | R | https://www.linkedin.com/jobs/view/4494308045 |
 | Administrative Assistant, Group Advantage | RBC | 2026-11-24 | G | https://www.linkedin.com/jobs/view/4493976431 |
+| Finance Coordinator – Technical Staffing Services (TSS) | SGS | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4493467137 |
+| Senior Cost Control Specialist | Bantrel Co. | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4488063686 |
+| Turnaround and Completions Management Systems Coordinator | Hays | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4495238418 |
+| Building Estimating Specialist | Promise Robotics | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4495233857 |
+| Sales Coordinator (18 months Temporary) | Spartan Controls | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4494996008 |
+| GOAPRDJP000001060 – Financial Analyst – Intermediate | S M Software Solutions Inc | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4495230880 |
+| Monitoring And Evaluation Specialist | Emsol Consulting | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4494965962 |
+| GOAPRDJP000001049 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495229910 |
+| Disability Service Worker - Complex Needs, Part-Time | Taproot Community Support Services | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4494976564 |
+| Junior Process Engineer | Bantrel Co. | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4489611587 |
