@@ -24785,3 +24785,35 @@
 | GOAPRDJP000001049 – Application Analyst – Intermediate | S M Software Solutions Inc | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495229910 |
 | Disability Service Worker - Complex Needs, Part-Time | Taproot Community Support Services | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4494976564 |
 | Junior Process Engineer | Bantrel Co. | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4489611587 |
+| Research Coordinator | Recovery Alberta | 2026-11-26 | J | https://ca.indeed.com/viewjob?jk=19d840f00ed5b34c |
+| Project Control Specialist 2 - Water and Waste Water Infrast | Graham | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4479213642 |
+| Senior Financial Analyst | Samsara | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4487534113 |
+| Senior Financial Analyst | Samsara | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4487539036 |
+| Senior Financial Analyst | Samsara | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4487538087 |
+| Lead Technical Supervisor | Vestas | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4493809942 |
+| BUSINESS ADVISOR, CYBERSECURITY, ADVISORY SERVICES - Calgary | BDC | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4486572473 |
+| Project Lead – Autonomous Mining | Caterpillar Inc. | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4492967168 |
+| Team Lead, Nat Gas and NGL Settlements | Cenovus Energy | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4495252790 |
+| Operations Coordinator | Intelcom | Dragonfly | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4487521219 |
+| Coordonnateur(trice) des operations | Intelcom | Dragonfly | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4486536363 |
+| CSV Systems Specialist | City of Red Deer | 2026-11-26 | J | https://www.linkedin.com/jobs/view/4493471076 |
+| Family Counsellor | Recovery Alberta | 2026-11-26 | N | https://ca.indeed.com/viewjob?jk=023eebfbfcfa458f |
+| Insurance Advisor Life, Health & Wealth | RBC Insurance | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4487548297 |
+| Employee Benefits Advisor (New Business Acquisition) | Summit | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495295389 |
+| Case Manager (Remote) | Joblet-AI | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495010808 |
+| Contract Manager (Remote) | Joblet-AI | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495018429 |
+| Customer Experience Specialist (Remote) | Hired | 2026-11-26 | N | https://www.linkedin.com/jobs/view/4495012813 |
+| Analyst, Portfolio Management | Canada ICI Capital Corporation | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4470602369 |
+| Excel Specialist (Remote) | Joblet-AI | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495017540 |
+| Power BI Developer (Remote) | Hired | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495017431 |
+| Business Intelligence Analyst (Remote) | Hired | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495019375 |
+| Cloud Administrator (Remote) | Hired | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495014522 |
+| Cloud Infrastructure Specialist (Remote) | Hired | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495017389 |
+| Junior Systems Engineer (Remote) | Hired | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495021361 |
+| Freelance Data Analyst (Remote) | Crewlia | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495023168 |
+| UX Research Specialist (Remote) | Joblet-AI | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495009743 |
+| Contract Data Analyst (Remote) | Crewlia | 2026-11-26 | R | https://www.linkedin.com/jobs/view/4495004934 |
+| Behavioural Specialist - DDMH MainStay | Recovery Alberta | 2026-11-26 | G | https://ca.indeed.com/viewjob?jk=7da66baecfef7b77 |
+| Behavioural Specialist - ABC Team | Recovery Alberta | 2026-11-26 | G | https://ca.indeed.com/viewjob?jk=6ac89ea4415df03d |
+| BUSINESS ADVISOR, ARTIFICIAL INTELLIGENCE, Advisory Services | BDC | 2026-11-26 | G | https://www.linkedin.com/jobs/view/4486554928 |
+| Cost Controller | Brunel | 2026-11-26 | G | https://www.linkedin.com/jobs/view/4495032237 |
